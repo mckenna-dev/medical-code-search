@@ -1,0 +1,1 @@
+web: gunicorn medical_code_search.wsgi --log-file -
