@@ -1,2 +1,2 @@
-web: gunicorn your_project_name.wsgi:application
-release: python manage.py migrate
+echo "web: gunicorn medical_code_search.wsgi:application" > Procfile
+echo "release: python manage.py migrate" >> Procfile
