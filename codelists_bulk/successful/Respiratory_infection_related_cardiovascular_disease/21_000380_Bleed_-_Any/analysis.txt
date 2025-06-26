@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 496
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+0                                 2832\t"G848000"\t17714\t0\t2815\t2\t"Bleeding haemorrhoids NOS"\t"February 2009"
+1                             15257\t"G845000"\t1554\t0\t109\t0\t"External bleeding haemorrhoids"\t"February 2009"
+2                              9761\t"G842000"\t2051\t0\t122\t1\t"Internal bleeding haemorrhoids"\t"February 2009"

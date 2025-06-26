@@ -1,0 +1,21 @@
+{
+  "original_file": "codelists_bulk\\successful\\Respiratory_infection_related_cardiovascular_disease\\21_000380_Cancer_-_Solid\\BN_solid_cancers.txt",
+  "original_columns": [
+    "readcode",
+    "readterm",
+    "medcode"
+  ],
+  "column_mapping": {
+    "med_code_id": "medcode"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "medcode",
+      "type": "secondary"
+    }
+  },
+  "rows_processed": 943,
+  "rows_standardized": 943,
+  "project": "Respiratory_infection_related_cardiovascular_disease",
+  "codelist": "21_000380_Cancer_-_Solid"
+}

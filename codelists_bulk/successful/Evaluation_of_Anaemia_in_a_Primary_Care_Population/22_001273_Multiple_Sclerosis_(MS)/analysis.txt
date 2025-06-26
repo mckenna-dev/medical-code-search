@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 54
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tmultiple_sclerosis ']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                       MedCodeId\tObservations\tTerm\tmultiple_sclerosis 
+0              a41398015\t700000\tMultiple sclerosis\tmultiple_sclerosis 
+1  a908811000006112\t20000\t[RFC] Multiple sclerosis\tmultiple_sclerosis 
+2          a297181019\t20000\tMultiple sclerosis NOS\tmultiple_sclerosis 

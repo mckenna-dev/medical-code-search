@@ -1,0 +1,10 @@
+med_code_id,term,snomed_ct_concept_id,observations
+253841000000118,Predicted peak expiratory flow rate using EN 13826 standard,178271000000100,4973479
+213601000006118,Predicted peak flow,271508001,1324336
+406034010,Best ever peak flow rate,271306003,317753
+457050018,Expected peak expiratory flow rate,313192007,270096
+406310014,Expected peak flow rate,271508001,155865
+375276012,Best ever peak expiratory flow rate,251936000,19495
+5525261000006115,Expected peak flow rate (respiratory),271508001,8397
+5523221000006110,Best ever peak flow rate (respiratory),271306003,1771
+256714010,Optimal peak flow rate,165054006,1725

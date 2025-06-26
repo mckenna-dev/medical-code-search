@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 10
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\thyperglycemia']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                           \tMedCodeId\tObservations\tTerm\thyperglycemia
+0  0\ta938351000006113\t300000\tImpaired glucose tolerance\thyperglycemia
+1    1\ta1488700016\t100000\t[D]Impaired glucose tolerance\thyperglycemia
+2          2\ta2476950017\t80000\tImpaired fasting glucose\thyperglycemia

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 184
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2           MedCodeID                                                                  Term
+0   6781     Psychiatric         Anxiety         a1210253015                                                        Panic disorder
+1   6782     Psychiatric         Anxiety  a12127531000006113    Recurrent mild major depressive disorder co-occurrent with anxiety
+2   6783     Psychiatric         Anxiety  a12127541000006115  Recurrent severe major depressive disorder co-occurrent with anxiety

@@ -1,0 +1,7 @@
+med_code_id,term,snomed_ct_concept_id,observations
+380389013,Serum creatinine level,1000731000000107,83126273
+458156012,Plasma creatinine level,1001011000000107,3126158
+4217571000006110,Serum creatinine,113075003,526
+259054018,Serum creatinine NOS,1000731000000107,210
+259052019,Serum creatinine normal,166716007,171
+259053012,Serum creatinine raised,166717003,121

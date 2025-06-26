@@ -1,0 +1,28 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1828,Cancer,Myeloma,a344820010,Multiple myeloma,L1:Cancer_L2:Myeloma,B630.00
+1829,Cancer,Myeloma,a344818012,Kahler's disease,L1:Cancer_L2:Myeloma,B630.11
+1830,Cancer,Myeloma,a344819016,Myelomatosis,L1:Cancer_L2:Myeloma,B630.12
+1831,Cancer,Myeloma,a289867014,"Malignant plasma cell neoplasm, extramedullary plasmacytoma",L1:Cancer_L2:Myeloma,B630000
+1832,Cancer,Myeloma,a139571000006117,Solitary myeloma,L1:Cancer_L2:Myeloma,B630100
+1833,Cancer,Myeloma,a225051000006119,Plasmacytoma NOS,L1:Cancer_L2:Myeloma,B630200
+1834,Cancer,Myeloma,a457317011,Lambda light chain myeloma,L1:Cancer_L2:Myeloma,B630300
+1835,Cancer,Myeloma,a18484012,Solitary plasmacytoma,L1:Cancer_L2:Myeloma,B630400
+1836,Cancer,Myeloma,a260879014,Bone marrow: myeloma cells,L1:Cancer_L2:Myeloma,4C53.00
+1837,Cancer,Myeloma,a695561000006118,Multiple myeloma and immunoproliferative neoplasms,L1:Cancer_L2:Myeloma,B63..00
+1838,Cancer,Myeloma,a683191000006119,Myeloma - solitary,L1:Cancer_L2:Myeloma,B936.11
+1839,Cancer,Myeloma,a1231541019,[M]Plasma cell myeloma,L1:Cancer_L2:Myeloma,BBn0.00
+1840,Cancer,Myeloma,a313271000006116,[M]Multiple myeloma,L1:Cancer_L2:Myeloma,BBn0.11
+1841,Cancer,Myeloma,a313381000006111,[M]Myeloma NOS,L1:Cancer_L2:Myeloma,BBn0.12
+1842,Cancer,Myeloma,a313391000006114,[M]Myelomatosis,L1:Cancer_L2:Myeloma,BBn0.13
+1843,Cancer,Myeloma,a315461000006113,[M]Plasmacytic myeloma,L1:Cancer_L2:Myeloma,BBn0.14
+1844,Cancer,Myeloma,a315471000006118,Plasmacytoma,L1:Cancer_L2:Myeloma,BBn2.00
+1845,Cancer,Myeloma,a313001000006116,[M]Monostotic myeloma,L1:Cancer_L2:Myeloma,BBn2.11
+1846,Cancer,Myeloma,a316711000006113,[M]Solitary myeloma,L1:Cancer_L2:Myeloma,BBn2.12
+1847,Cancer,Myeloma,a315441000006114,"[M]Plasma cell tumour, malignant",L1:Cancer_L2:Myeloma,BBn3.00
+1848,Cancer,Myeloma,a1230838014,[M]Malignant mastocytosis,L1:Cancer_L2:Myeloma,BBp2.00
+1849,Cancer,Myeloma,a313411000006114,[M]Myelosis NOS,L1:Cancer_L2:Myeloma,BBr6012
+1850,Cancer,Myeloma,a1228268017,[M]Chloroma,L1:Cancer_L2:Myeloma,BBrA311
+1851,Cancer,Myeloma,a304421000006118,Acute panmyelosis with myelofibrosis,L1:Cancer_L2:Myeloma,BBrA600
+1852,Cancer,Myeloma,a292075015,[M]Acute myelofibrosis,L1:Cancer_L2:Myeloma,BBrA700
+1853,Cancer,Myeloma,a304431000006115,[M]Acute panmyelosis,L1:Cancer_L2:Myeloma,BBs1.00
+1854,Cancer,Myeloma,a312137011,Osteoporosis in multiple myelomatosis,L1:Cancer_L2:Myeloma,N330900

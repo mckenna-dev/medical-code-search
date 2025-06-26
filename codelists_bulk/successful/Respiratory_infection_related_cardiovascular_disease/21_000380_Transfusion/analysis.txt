@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 54
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                                                                                          medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+22153\t"ZV58200"\t100\t0\t2\t0\t"[V]Blood transfusion                                                                                                                         without reported diagnosis"\t"February 2009"
+65939\t"U604019"\t6\t0\t0\t0\t"[X] Adverse reaction to iron sorbitol injection"\t"February 2009"                                                                                                                       NaN
+94246\t"U604611"\t1\t0\t0\t0\t"[X] Adverse reaction to natural blood and blood products"\t"February 2009"                                                                                                              NaN

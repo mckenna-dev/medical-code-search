@@ -1,0 +1,74 @@
+	MedCodeId	Observations	Term	bariatric_surgery
+0	a1009221000006119	40	Laparascopic sleeve gastrectomy	bariatric_surgery
+1	a1689061000000118	9	Reversal of duodenal switch	bariatric_surgery
+2	a1767571000006110	2000	Insertion of gastric balloon	bariatric_surgery
+3	a206821000006116	50	Printer high gastric bypass	bariatric_surgery
+4	a2532982016	30000	Laparoscopic adjustable gastric banding	bariatric_surgery
+5	a2675969012	20000	Laparoscopic sleeve gastrectomy	bariatric_surgery
+6	a2676202017	400	Duodenal switch	bariatric_surgery
+7	a2677191000006116	8	Gastric bypass operation	bariatric_surgery
+8	a269120015	3000	Gastroplasty NEC	bariatric_surgery
+9	a34985018	700	Insertion of gastric balloon	bariatric_surgery
+10	a363171000000115	300	Sleeve gastrectomy with duodenal switch	bariatric_surgery
+11	a363331000000119	9000	Sleeve gastrectomy	bariatric_surgery
+12	a484706010	300	Mason vertical banded gastroplasty	bariatric_surgery
+13	a637091000000114	60000	Laparoscopic gastric bypass	bariatric_surgery
+14	a716651000006115	400	Mason high gastric bypass	bariatric_surgery
+15	a7262891000006117	40	Gastric bypass	bariatric_surgery
+16	a102677012	1000	Removal of gastric balloon	bariatric_surgery
+17	a1739381000000113	200	Attention to gastric balloon	bariatric_surgery
+18	a4657801000006114	30	Roux-en-y gastric bypass	bariatric_surgery
+19	a221611000006111	500	Polya partial gastrectomy and anastomosis stomach to jejunum	bariatric_surgery
+20	a245931000006111	400	Partial gastrectomy and anastomosis stomach to jejunum NEC	bariatric_surgery
+21	a245941000006118	900	Partial gastrectomy and gastrojejunostomy	bariatric_surgery
+22	a245951000006116	100	Partial gastrectomy preserving pylorus	bariatric_surgery
+23	a2676217018	1000	Partitioning of stomach using band	bariatric_surgery
+24	a2676329012	100	Partitioning of stomach using staples	bariatric_surgery
+25	a2676330019	3	Closure of connection of stomach to transposed jejunum	bariatric_surgery
+26	a269106010	100	Other specified partial excision of stomach	bariatric_surgery
+27	a269107018	3000	Partial excision of stomach NOS	bariatric_surgery
+28	a269119014	500	Plastic operations on stomach	bariatric_surgery
+29	a269124012	200	Other specified plastic operation on stomach	bariatric_surgery
+30	a269125013	100	Plastic operation on stomach NOS	bariatric_surgery
+31	a269126014	70	Connection of stomach to duodenum NEC	bariatric_surgery
+32	a269132016	50	Revision of anastomosis of stomach to duodenum	bariatric_surgery
+33	a269136018	2	Other specified connection of stomach to duodenum	bariatric_surgery
+34	a269137010	100	Connection of stomach to duodenum NOS	bariatric_surgery
+35	a269139013	200	Connection of stomach to transposed jejunum	bariatric_surgery
+36	a269140010	100	"Gastrojejunostomy, transposed"	bariatric_surgery
+37	a269142019	20	Revision of anastomosis of stomach to transposed jejunum	bariatric_surgery
+38	a269143012	2	Conversion to anastomosis of stomach to transposed jejunum	bariatric_surgery
+39	a269145017	2000	Other specified connection of stomach to transposed jejunum	bariatric_surgery
+40	a269147013	100	Other connection of stomach to jejunum	bariatric_surgery
+41	a269156017	6	Conversion to anastomosis of stomach to jejunum NEC	bariatric_surgery
+42	a269159012	10	Other specified other connection of stomach to jejunum	bariatric_surgery
+43	a269160019	20	Other connection of stomach to jejunum NOS	bariatric_surgery
+44	a269403013	200	Bypass of jejunum by anastomosis of jejunum to ileum	bariatric_surgery
+45	a363391000000118	4	Attention to connection of stomach to duodenum	bariatric_surgery
+46	a363471000000111	20	Attention to connection of stomach to jejunum	bariatric_surgery
+47	a367801000000110	50	Partitioning of stomach NEC	bariatric_surgery
+48	a394134012	200	Partitioning of stomach	bariatric_surgery
+49	a394135013	800	Bypass of stomach by anastomosis of stomach to duodenum	bariatric_surgery
+50	a411097012	20	Hofmeister valved gastrectomy	bariatric_surgery
+51	a495338013	9000	Partial excision of stomach	bariatric_surgery
+52	a502701000006110	30	Balfour partial gastrectomy and gastroduodenostomy	bariatric_surgery
+53	a512131000006117	1000	Billroth I partial gastrectomy & gastroduodenal anastomosis	bariatric_surgery
+54	a512141000006110	300	Billroth II partial gastrectomy and gastroenterostomy	bariatric_surgery
+55	a639521000000112	600	Distal partial gastrectomy	bariatric_surgery
+56	a697401000006113	20	Moynihan partial gastrectomy & retrocolic gastroenterostomy	bariatric_surgery
+57	a715351000006115	10	Mayo partial gastrectomy and retrocolic gastroenterostomy	bariatric_surgery
+58	a715381000006111	10	Mayo-Ward gastrojejunostomy	bariatric_surgery
+59	a743041000000117	4000	Maintenance of gastric band	bariatric_surgery
+60	a758201000006114	70	Jaboulay gastroduodenostomy	bariatric_surgery
+61	a799781000006113	4000	Gastrojejunostomy	bariatric_surgery
+62	a81969011	20000	Partial gastrectomy	bariatric_surgery
+63	a2676331015	4000	Removal of gastric band	bariatric_surgery
+64	a269128010	500	Bypass of stomach by anastomosis of oesophagus to duodenum	bariatric_surgery
+65	a1222563019	400	Insertion of gastric bubble	bariatric_surgery
+66	a149838013	200	Wedge resection of stomach	bariatric_surgery
+67	a269157014	200	Open reduction of intussusception of gastroenterostomy	bariatric_surgery
+68	a638661000000110	90	Completion gastrectomy	bariatric_surgery
+69	a269155018	80	Revision of anastomosis of stomach to jejunum NEC	bariatric_surgery
+70	a269355013	70	Endoscopic insertion of tubal prosthesis into duodenum	bariatric_surgery
+71	a1220271014	70	Proximal gastrectomy	bariatric_surgery
+72	a799501000006110	3000	Gastroenterostomy	bariatric_surgery

@@ -1,0 +1,43 @@
+MedCodeId	Observations	Term	parkinsons
+a81717011	1000000	Parkinson's disease	parkinsons
+a297037012	70000	Parkinson's disease NOS	parkinsons
+a295688010	30000	Dementia in Parkinsons disease	parkinsons
+a909021000006117	5000	[RFC] Parkinson's disease	parkinsons
+a2229391000000119	4000	Referral to Parkinson's service	parkinsons
+a1925611000006114	4000	Referral to community Parkinson's disease clinical nurse specialist	parkinsons
+a905821000006112	2000	[RFC] Parkinson's disease	parkinsons
+a297043014	800	Orthostatic hypotension co-occurrent and due to Parkinson's disease	parkinsons
+a299321016	800	"[X]Secondary parkinsonism, unspecified"	parkinsons
+a2269041000000116	700	Referral to community Parkinson's service	parkinsons
+a244331000006111	500	Parkinsons Society member	parkinsons
+a3293631000006118	400	Idiopathic Parkinson's disease	parkinsons
+a2841061014	400	"Multiple system atrophy, Parkinson variant"	parkinsons
+a1863311000006117	300	Referral by Parkinsons disease nurse specialist	parkinsons
+a636681000000117	200	Cerebral degeneration in Parkinson's disease	parkinsons
+a1776901000006117	100	Reason for referral: Parkinsons Disease	parkinsons
+a7043651000006119	100	Dementia associated with Parkinson's Disease	parkinsons
+a3293661000006110	100	Parkinsons disease	parkinsons
+a3293641000006111	80	Parkinson disease	parkinsons
+a2190891000000112	40	Lindop Parkinson's assessment scale score	parkinsons
+a7567911000006113	20	Parkinson's disease clinic	parkinsons
+a8109641000006112	20	Unified Parkinsons disease rating scale score	parkinsons
+a8031751000006119	20	Dementia due to Parkinson's disease	parkinsons
+a1776241000006114	20	Staff group: Nursing - Parkinson and Alzheimer Nursing/Liaison	parkinsons
+a5681081000006118	20	Parkinson's disease nurse	parkinsons
+a299323018	20	[X]Secondary parkinsonism due to other external agents	parkinsons
+a5681091000006115	10	Parkinson disease nurse	parkinsons
+a4538481000006113	10	Parkinson's Society member	parkinsons
+a7730821000006115	6	Early onset Parkinson's disease	parkinsons
+a7790241000006117	4	Psychosis co-occurrent and due to Parkinson's disease	parkinsons
+a7289421000006111	4	"Multiple system atrophy, Parkinson's variant"	parkinsons
+a7730791000006112	3	Young onset Parkinson disease	parkinsons
+a7730801000006113	3	Young onset Parkinson's disease	parkinsons
+a7730811000006111	2	Early onset Parkinson disease	parkinsons
+a7043661000006117	2	Dementia associated with Parkinson Disease	parkinsons
+a3511181000006115	2	Parkinson-dementia complex of Guam	parkinsons
+a8031771000006112	1	Dementia due to Parkinson disease	parkinsons
+a3293651000006113	1	PD - Parkinson's disease	parkinsons
+a5005931000006110	1	Secondary Parkinson disease	parkinsons
+a1981961000006112	1	Lindop Parkinson's assessment scale - gait mobility score	parkinsons
+a1982141000006118	1	Lindop Parkinson's assessment scale - bed mobility score	parkinsons
+a8031761000006117	1	Dementia due to Parkinsons disease	parkinsons

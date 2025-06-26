@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_cancer.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/18-186-Gold-IDFracture/main/Codelists/standardized_cancer.csv
+Codelist Name: Cancer
+Project Title: ID Fracture
+ERAP Number: 22-000453
+Author: Margaret Smith
+Coding System: Gold
+Year Created: 2024
+Downloaded: 2025-06-25 13:25:01
+File Size: 137258 bytes

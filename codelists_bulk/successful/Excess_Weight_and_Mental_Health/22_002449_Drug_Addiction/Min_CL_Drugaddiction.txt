@@ -1,0 +1,55 @@
+	MedCodeId	Observations	Term	drug_addiction
+0	a295145018	1000000	Drug dependence	drug_addiction
+1	a397153012	700000	Drug addiction therapy	drug_addiction
+2	a630131000006118	300000	Drug addiction therapy - methadone	drug_addiction
+3	a295146017	80000	Drug addiction	drug_addiction
+4	a303011000000111	80000	Drug addiction maintenance therapy - methadone	drug_addiction
+5	a295157010	70000	Opioid drug dependence NOS	drug_addiction
+6	a630361000006113	60000	Drug dependence therapy	drug_addiction
+7	a295241016	50000	Drug dependence NOS	drug_addiction
+8	a401793014	40000	Cannabis type drug dependence	drug_addiction
+9	a2476701016	40000	H/O: drug abuse	drug_addiction
+10	a316901000000118	30000	Drug addiction maintenance therapy - buprenorphine	drug_addiction
+11	a379281000006110	30000	[X]Drug addiction - opioids	drug_addiction
+12	a295172014	30000	Cocaine type drug dependence	drug_addiction
+13	a302981000000113	20000	Drug addiction detoxification therapy - methadone	drug_addiction
+14	a253488010	10000	Suspected drug abuse	drug_addiction
+15	a295191014	10000	Cannabis drug dependence NOS	drug_addiction
+16	a379251000006119	8000	[X]Drug addiction - cannabis	drug_addiction
+17	a379311000006112	6000	[X]Drug addiction- sedative / hypnotics	drug_addiction
+18	a379261000006117	6000	[X]Drug addiction - cocaine	drug_addiction
+19	a405031011	6000	Drug addiction notification	drug_addiction
+20	a316931000000112	5000	Drug addiction detoxification therapy - buprenorphine	drug_addiction
+21	a379301000006114	3000	[X]Drug addiction NOS	drug_addiction
+22	a371621000000117	3000	Delivery of rehabilitation for drug addiction	drug_addiction
+23	a295179017	3000	Cocaine drug dependence NOS	drug_addiction
+24	a263571015	3000	Maternal drug abuse	drug_addiction
+25	a401796018	2000	Other specified drug dependence	drug_addiction
+26	a2533722018	1000	Drug dependence home detoxification	drug_addiction
+27	a379321000006116	1000	[X]Drug addiction-other stimul	drug_addiction
+28	a2923041000006117	1000	Drug abuse	drug_addiction
+29	a295240015	1000	Ecstasy type drug dependence	drug_addiction
+30	a295224018	1000	"Other specified drug dependence, continuous"	drug_addiction
+31	a2533721013	900	Drug dependence self detoxification	drug_addiction
+32	a285119012	600	Drug addiction notification status	drug_addiction
+33	a295213015	500	[X]Drug addiction - solvent	drug_addiction
+34	a295227013	300	Other specified drug dependence NOS	drug_addiction
+35	a295222019	300	"Other specified drug dependence, unspecified"	drug_addiction
+36	a910591000006118	200	[RFC] Drug addiction	drug_addiction
+37	a8061171000006115	200	Drug addiction therapy - buprenorphine	drug_addiction
+38	a1715481000000114	100	Drug addiction maintenance therapy - naltrexone	drug_addiction
+39	a3878511000006117	100	Amphetamine abuse	drug_addiction
+40	a379271000006112	90	[X]Drug addiction - hallucinogen	drug_addiction
+41	a4979091000006119	50	Drug abuse behaviour	drug_addiction
+42	a295225017	50	"Other specified drug dependence, episodic"	drug_addiction
+43	a5023891000006111	20	Active drug dependence	drug_addiction
+44	a1715521000000114	10	Drug addiction maintenance therapy - lofexidine	drug_addiction
+45	a2533733015	10	Drug dependence home detoxification contraindicated	drug_addiction
+46	a6218931000006110	9	Drug abuser	drug_addiction
+47	a2604131000006116	8	Dependent drug abuse	drug_addiction
+48	a5023881000006113	5	Controlled drug dependence	drug_addiction
+49	a4979111000006111	1	Drug abuse behavior	drug_addiction
+50	a4979221000006113	1	Poly-drug abuser	drug_addiction
+51	a4177311000006117	1	Chronic drug abuse	drug_addiction
+52	a5506501000006116	1	Dependent sedative or hypnotic drug abuse	drug_addiction
+53	a7522331000006114	1	Methamphetamine abuse	drug_addiction

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 17
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2    MedCodeID                                       Term
+0   1855          Cancer      Oesophagus  a1216488012           Malignant neoplasm of oesophagus
+1   1856          Cancer      Oesophagus   a288589012  Malignant neoplasm of cervical oesophagus
+2   1857          Cancer      Oesophagus   a288594012  Malignant neoplasm of thoracic oesophagus

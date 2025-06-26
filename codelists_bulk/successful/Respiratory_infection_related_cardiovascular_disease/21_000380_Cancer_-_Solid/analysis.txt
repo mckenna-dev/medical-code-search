@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 931
+Columns: 1
+Column names: ['readcode\treadterm\tmedcode']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                                  readcode\treadterm\tmedcode
+B0...00\t"Malignant neoplasm of lip           oral cavity and pharynx"\t19415
+B0...11\t"Carcinoma of lip                    oral cavity and pharynx"\t24374
+B00..00\t"Malignant neoplasm of lip"\t14712                               NaN

@@ -1,0 +1,10 @@
+=== FILE ANALYSIS ===
+Rows: 1
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tfrailty']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                     MedCodeId\tObservations\tTerm\tfrailty
+0  a2367201000000110\t9000000\tFrailty Index score\tfrailty

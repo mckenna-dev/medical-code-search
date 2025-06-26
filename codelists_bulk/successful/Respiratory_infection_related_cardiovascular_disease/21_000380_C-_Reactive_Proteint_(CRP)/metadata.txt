@@ -1,0 +1,10 @@
+Original URL: https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/CRP_Gold181022.txt
+Downloaded from: https://raw.githubusercontent.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/main/Tests/CRP_Gold181022.txt
+Codelist Name: C- Reactive Proteint (CRP)
+Project Title: Respiratory infection related cardiovascular disease
+ERAP Number: 21_000380
+Author: Joseph Lee
+Coding System: Gold
+Year Created: 2020
+Downloaded: 2025-06-25 13:24:57
+File Size: 194 bytes

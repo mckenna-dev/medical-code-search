@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 10
+Columns: 1
+Column names: ['\tMedCodeId\tTerm\tCount']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                    \tMedCodeId\tTerm\tCount
+0  1\t114311000006111\tSystolic arterial pressure\t144414202
+1  232\t1780182014\tStanding systolic blood pressure\t461455
+2   259\t2159155011\tSitting systolic blood pressure\t378935

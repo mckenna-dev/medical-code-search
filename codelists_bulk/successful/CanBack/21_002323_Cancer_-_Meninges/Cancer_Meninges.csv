@@ -1,0 +1,10 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1819,Cancer,Meninges,a482737014,Malignant neoplasm of cerebral meninges,L1:Cancer_L2:Meninges,B521.00
+1820,Cancer,Meninges,a289375012,Malignant neoplasm of cerebral dura mater,L1:Cancer_L2:Meninges,B521000
+1821,Cancer,Meninges,a289378014,Malignant neoplasm of cerebral pia mater,L1:Cancer_L2:Meninges,B521200
+1822,Cancer,Meninges,a289379018,Malignant neoplasm of cerebral meninges NOS,L1:Cancer_L2:Meninges,B521z00
+1823,Cancer,Meninges,a482740014,Malignant neoplasm of spinal meninges,L1:Cancer_L2:Meninges,B523.00
+1824,Cancer,Meninges,a289383018,Malignant neoplasm of spinal meninges NOS,L1:Cancer_L2:Meninges,B523z00
+1825,Cancer,Meninges,a724681000006111,"Malignant neoplasm of meninges, unspecified",L1:Cancer_L2:Meninges,B52X.00
+1826,Cancer,Meninges,a315301000006115,[M]Piloid astrocytoma,L1:Cancer_L2:Meninges,BBbG.12
+1827,Cancer,Meninges,a292152012,"[X]Malignant neoplasm of meninges, unspecified",L1:Cancer_L2:Meninges,ByuA200

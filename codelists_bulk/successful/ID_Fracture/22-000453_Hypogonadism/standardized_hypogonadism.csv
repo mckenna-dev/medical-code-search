@@ -1,0 +1,67 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+98210,,,,1530,66,0,0,C139.00,Hypogonadotropic hypogonadism,2009-12-01 00:00:00
+9577,,,,6318,373,0,0,C172.12,Testicular hypogonadism,2009-02-01 00:00:00
+70378,,,,17,0,0,0,C172.11,"Eunuchoidism, hypogonadism",2009-02-01 00:00:00
+22836,,,,308,20,0,0,C163300,Ovarian hypogonadism,2009-02-01 00:00:00
+23802,,,,24,2,0,0,C163.11,Ovarian hypogonadism,2009-02-01 00:00:00
+108131,,,,2,0,0,0,F146.00,Early onset cerebellar ataxia with hypogonadism,2014-06-01 00:00:00
+2087,,,,12309,855,33,0,C163111,Premature menopause NOS,2009-02-01 00:00:00
+33769,,,,11656,258,0,0,K590z00,Amenorrhoea NOS,2009-02-01 00:00:00
+3829,,,,2505,253,0,0,K590000,Primary amenorrhoea,2009-02-01 00:00:00
+16495,,,,19053,617,0,0,1571,H/O: amenorrhoea,2009-02-01 00:00:00
+757,,,,269945,23719,40,0,K590.11,Amenorrhoea,2009-02-01 00:00:00
+2086,,,,32346,1444,0,0,K590100,Secondary amenorrhoea,2009-02-01 00:00:00
+73492,,,,8,0,0,0,PJ60.00,Mixed gonadal dysgenesis,2009-02-01 00:00:00
+34681,,,,33,0,0,0,PJ6z.00,Gonadal dysgenesis NOS,2009-02-01 00:00:00
+24383,,,,128,5,0,0,PJ6..00,Gonadal dysgenesis,2009-02-01 00:00:00
+36078,,,,37,3,2,0,PC73.00,Pure gonadal dysgenesis,2009-02-01 00:00:00
+93450,,,,1,0,0,0,PJ64.00,Other gonadal dysgenesis phenotype,2009-02-01 00:00:00
+94499,,,,1831,93,0,0,C163400,Early menopause,
+64945,,,,3,0,0,0,PJ63612,"Turner's phenotype, partial X deletion karyotype",2009-02-01 00:00:00
+53168,,,,47,2,0,0,PJ63z00,Turner's syndrome NOS,2009-02-01 00:00:00
+92599,,,,9,0,0,0,PJ63200,"Turner's phenotype, karyotype 46X iso (Xq)",2009-02-01 00:00:00
+109385,,,,4,0,0,0,PJ63300,"Turner's,karyotype 46X + abnorm. sex chromosome,not iso(Xq)",2015-03-01 00:00:00
+40570,,,,76,0,0,0,PJ63500,"Turner's,mosaic, 45X/other cell line with abn.sex chromosome",2009-02-01 00:00:00
+4943,,,,2479,160,0,0,PJ63.00,Turner's syndrome,2009-02-01 00:00:00
+51868,,,,38,1,0,0,PJ63400,"Turner's phenotype, mosaicism 45X/46XX or 45X/46XY",2009-02-01 00:00:00
+97871,,,,1,0,0,0,PJ63611,"Turner's phenotype, ring chromosome karyotype",2009-10-01 00:00:00
+109386,,,,2,0,0,0,PyuA500,[X]Other variants of Turner's syndrome,2015-03-01 00:00:00
+30721,,,,24,1,1,0,PJ63100,"Turner's phenotype, karyotype 45X",2009-02-01 00:00:00
+65206,,,,4,0,0,0,PJ63600,"Turner's phenotype, other variant karyotypes",2009-02-01 00:00:00
+15846,,,,2648,171,1,0,PJ7..00,Klinefelter's syndrome,2009-02-01 00:00:00
+96257,,,,1,0,0,0,PJ72.00,"Klinefelter's syndrome, male with 46XX karyotype",2009-04-01 00:00:00
+67854,,,,3,1,0,0,PJ71.00,"Klinefelter's syndrome,male with more than two X chromosomes",2009-02-01 00:00:00
+68109,,,,26,1,0,0,PJ74.00,"Klinefelter's syndrome, XY/XXY mosaic",2009-02-01 00:00:00
+59439,,,,63,2,0,0,PJ7z.00,Klinefelter's syndrome NOS,2009-02-01 00:00:00
+54490,,,,28,0,0,0,PJ70.00,"Klinefelter's phenotype, karyotype 47XXY",2009-02-01 00:00:00
+91262,,,,9,0,0,0,PJ73.00,"Klinefelter's syndrome, XXYY",2009-02-01 00:00:00
+56545,,,,4,0,0,0,PJ71.11,"Klinefelter's syndrome, XXXY",2009-02-01 00:00:00
+62414,,,,10,0,0,0,PJ71.12,"Klinefelter's syndrome, XXXXY",2009-02-01 00:00:00
+11948,,,,37,0,0,0,PJy3.00,XXY syndrome,2009-02-01 00:00:00
+64578,,,,2,1,0,0,PJy1200,Mosaic XY/XXY,2009-02-01 00:00:00
+105345,,,,1,0,0,0,PJy1300,Mosaic including XXXXY,2012-12-01 00:00:00
+5426,,,,4443,71,0,0,7G2A500,Insertion of testosterone implant,2009-02-01 00:00:00
+30846,,,,33,3,1,0,TJ21200,Adverse reaction to testosterone,2009-02-01 00:00:00
+17702,,,,243,69,528,0,4473100,Serum testosterone level abnormal,2009-02-01 00:00:00
+43478,,,,4617,1,0,0,7L18A00,Intramuscular injection of testosterone,2009-02-01 00:00:00
+60240,,,,2,0,0,0,U602714,[X] Adverse reaction to testosterone,2009-02-01 00:00:00
+12695,,,,540,129,0,0,PC5z.12,Maldescent of testicle,2009-02-01 00:00:00
+634,,,,36658,9788,1,0,PC5..00,Undescended testicle,2009-02-01 00:00:00
+16341,,,,555,19,1,0,C172.00,Other testicular hypofunction,2009-02-01 00:00:00
+38998,,,,59,1,0,0,PCy5.12,"Testicular agenesis, unilateral",2009-02-01 00:00:00
+28215,,,,1313,125,0,0,PC5z.00,Undescended testicle NOS,2009-02-01 00:00:00
+9577,,,,6318,373,0,0,C172.12,Testicular hypogonadism,2009-02-01 00:00:00
+96086,,,,2,1,0,0,Cyu4C00,[X]Other testicular dysfunction,2009-02-01 00:00:00
+56431,,,,36,0,0,0,C172y00,Other specified other testicular hypofunction,2009-02-01 00:00:00
+41320,,,,89,5,0,0,C172z00,Other testicular hypofunction NOS,2009-02-01 00:00:00
+48765,,,,23,0,0,0,PCy4.12,"Testicular agenesis, bilateral",2009-02-01 00:00:00
+46426,,,,80,4,0,0,C17z.00,Testicular dysfunction NOS,2009-02-01 00:00:00
+93759,,,,12,1,0,0,C17yz00,Other testicular dysfunction NOS,2009-02-01 00:00:00
+21239,,,,793,68,0,0,C17..00,Testicular dysfunction,2009-02-01 00:00:00
+66449,,,,9,0,0,0,C17y.00,Other testicular dysfunction,2009-02-01 00:00:00
+4339,,,,307,35,0,0,PCy1200,Congenital aplasia of testicle,2009-02-01 00:00:00
+63528,,,,14,1,0,0,C172000,Testicular hypofunc- defect adrenocortical hormone synthesis,2009-02-01 00:00:00
+10965,,,,503,88,0,0,PC50.00,Cryptorchidism,2009-02-01 00:00:00
+44918,,,,37,2,0,0,PC50000,"Cryptorchidism, unilateral",2009-02-01 00:00:00
+33424,,,,5,0,0,0,PC50z00,Cryptorchidism NOS,2009-02-01 00:00:00
+47565,,,,35,1,0,0,PC50100,"Cryptorchidism, bilateral",2009-02-01 00:00:00

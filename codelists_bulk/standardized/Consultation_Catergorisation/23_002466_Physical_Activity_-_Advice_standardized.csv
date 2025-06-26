@@ -1,0 +1,32 @@
+med_code_id,term,snomed_ct_concept_id,observations
+240861000006115,Patient advised about exercise,183073003,10000000
+818031000006119,Health education - exercise,304507003,8000000
+936021000006118,Exercise education,304507003,2000000
+265093017,Pregnancy exercise advice,171056002,40000
+1590481000006111,Advice to aim for 30 minutes of moderate activity on 5 days or more each week,286321000000102,30000
+1485132013,Target physical activity,391105003,20000
+1485055014,Osteoporosis - exercise advice,391026001,20000
+1627181000006119,Patient given written advice on benefits of physical activity,429778002,10000
+1783961000006115,Provision of advice about aerobic exercise,762227003,8000
+1783971000006110,Provision of advice about muscle strengthening exercise,736786002,6000
+918521000006117,Patient advised re exercise,918521000006101,4000
+1753321000006116,"Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity",756021000000103,4000
+5929971000006113,Advice about exercise,304507003,3000
+2160131014,Physical activity target moderate exercise,408581006,3000
+2160130010,Physical activity target light exercise,408580007,2000
+5647271000006114,Recommendation to exercise,281090004,2000
+4915601000006111,Recommendation regarding activity,223415003,1000
+2347341000000110,Education about chair based exercise programme,913431000000101,700
+2160128013,Physical activity target minimal exercise,408578001,600
+4640201000006112,Pregnancy exercise education,171056002,600
+5647281000006112,Advice to exercise,281090004,400
+1753331000006118,"Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity, consider drugs",756041000000105,400
+1753341000006111,"Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity, consider drugs, consider surgery",756061000000106,300
+2160129017,Physical activity target strenuous exercise,408579009,300
+6517651000006118,Osteoporosis exercise education,391026001,100
+7729481000006110,Combined healthy eating and physical education programme,715282001,40
+4916051000006113,Recommendation to undertake activity,223440005,40
+6455431000006119,Prescribed activity/exercise education,386463000,1
+923211000006110,Pregnancy exercise advice,923211000006106,1
+5929981000006111,Exercise health education,304507003,1
+12619901000006110,Patient given written advice under PACAP (Physical Activity Clinical Advice Pad) programme,1105751000000100,1

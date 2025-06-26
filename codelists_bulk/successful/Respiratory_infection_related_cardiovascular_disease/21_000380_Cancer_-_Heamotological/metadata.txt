@@ -1,0 +1,10 @@
+Original URL: https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Cancers/BN_Haematological_cancers.txt
+Downloaded from: https://raw.githubusercontent.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/main/Cancers/BN_Haematological_cancers.txt
+Codelist Name: Cancer - Heamotological
+Project Title: Respiratory infection related cardiovascular disease
+ERAP Number: 21_000380
+Author: Brian Nicholson
+Coding System: Aurum
+Year Created: 2020
+Downloaded: 2025-06-25 13:25:03
+File Size: 16431 bytes

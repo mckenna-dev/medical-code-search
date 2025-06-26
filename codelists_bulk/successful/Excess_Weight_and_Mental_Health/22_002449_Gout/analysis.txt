@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 68
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tgout']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+            \tMedCodeId\tObservations\tTerm\tgout
+0              0\ta150085018\t3000000\tGout\tgout
+1  1\ta293392012\t100000\tGouty arthropathy\tgout
+2           2\ta293412014\t100000\tGout NOS\tgout

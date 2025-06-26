@@ -1,0 +1,45 @@
+med_code_id,term,snomed_ct_concept_id,observations
+212251000006113,Postpartum haemorrhage,47821001,73888
+1230526013,Bleeding postpartum,47821001,4613
+307386017,Postpartum haemorrhage NOS,47821001,3939
+15743100000611,Secondary and delayed postpartum haemorrhage,23171006,3348
+307368015,Secondary postpartum haemorrhage unspecified,23171006,2774
+106221000006115,Third stage haemorrhage,47236005,1135
+307357015,Other immediate postpartum haemorrhage,27214003,592
+888551000006117,Secondary PPH,23171006,553
+307373014,Secondary and delayed postpartum haemorrhage NOS,23171006,324
+307372016,Delayed AND/OR secondary postpartum haemorrhage,23171006,313
+261005100000011,Major postpartum haemorrhage,1033591000000101,247
+888561000006115,Post-partum haemorrhage NOS,638751000000104,198
+888541000006119,Immediate PPH,590881000000102,192
+50537201,Umbilical haemorrhage after birth,82986004,187
+247771000006117,Pack to control postnatal vaginal bleeding,265641004,107
+152031000006115,Secondary postpartum haemorrhage - delivered with postnatal problem,200025008,98
+3273611000006115,PPH - Postpartum hemorrhage,47821001,96
+307356012,Third-stage postpartum haemorrhage NOS,47236005,92
+307348014,Third-stage postpartum haemorrhage unspecified,47236005,82
+2610011000000111,Minor postpartum haemorrhage,1033571000000100,77
+308156017,[X]Other immediate postpartum haemorrhage,47821001,48
+106231000006117,Third stage haemorrhage,47236005,39
+989261000006116,Secondary PPH,683501000000105,34
+307365017,Other immediate postpartum haemorrhage NOS,27214003,31
+28821000006115,Other immediate postpartum haemorrhage - deliv with p/n prob,27214003,27
+394487015,Pack to control postnatal vaginal bleeding,265641004,27
+316522017,"Umbilical haemorrhage after birth, unspecified",82986004,25
+29071000006115,Other immediate postpartum haemorrhage with postnatal prob,27214003,19
+30736001,Other immediate postpartum haemorrhage unspecified,27214003,19
+41100601,Pack to control postpartum haemorrhage,275082004,18
+894341000006117,Umbilical haemorrhage,82986004,18
+5487761000006119,Packing to control postnatal vaginal bleeding,265641004,15
+2935991000006111,Atonic postpartum haemorrhage,27214003,14
+307352014,Third-stage postpartum haemorrhage with postnatal problem,47236005,14
+316530016,Umbilical haemorrhage after birth NOS,82986004,12
+316527011,Other specified umbilical haemorrhage after birth,82986004,10
+3273601000006118,PPH - Postpartum haemorrhage,47821001,9
+3273571000006113,Postpartum hemorrhage,47821001,8
+394488013,Pack to control postnatal haemorrhage,265641004,3
+8413771000006112,Major PPH (postpartum haemorrhage),1033591000000101,3
+5572531000006117,Umbilical haemorrhage,275359008,2
+8413751000006119,Minor PPH (postpartum haemorrhage),1033571000000100,2
+2936001000006112,Atonic postpartum hemorrhage,27214003,1
+11903961000006114,Delayed AND/OR secondary postpartum hemorrhage,23171006,1

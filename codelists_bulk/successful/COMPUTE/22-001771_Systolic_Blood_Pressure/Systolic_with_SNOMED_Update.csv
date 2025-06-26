@@ -1,0 +1,11 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+114311000006111,144414202,Systolic arterial pressure,72313002
+1780182014,461455,Standing systolic blood pressure,400974009
+2159155011,378935,Sitting systolic blood pressure,407554009
+2159157015,67038,Lying systolic blood pressure,407556006
+125251000006114,14032,Standing Systolic Bp,125251000006105
+1808041000006110,12707,Systolic blood pressure - right arm,1808041000006106
+1808011000006111,12352,Systolic blood pressure - left arm,1808011000006107
+11903371000006115,10338,O/E - Systolic BP reading,163030003
+3676271000006117,465,Systolic blood pressure,72313002
+5527191000006114,248,Systolic blood pressure,271649006

@@ -1,0 +1,18 @@
+BULK DOWNLOAD SUMMARY
+Generated: 2025-06-25 13:31:15
+
+Total entries: 500
+Successful downloads: 499
+Failed downloads: 1
+Skipped: 0
+
+Projects:
+  Anaemia: 5 codelists
+  CHD_Anaemia: 11 codelists
+  COMPUTE: 145 codelists
+  CanBack: 122 codelists
+  Consultation_Catergorisation: 9 codelists
+  Evaluation_of_Anaemia_in_a_Primary_Care_Population: 37 codelists
+  Excess_Weight_and_Mental_Health: 65 codelists
+  ID_Fracture: 52 codelists
+  Respiratory_infection_related_cardiovascular_disease: 54 codelists

@@ -1,0 +1,54 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+Intermittent claudication of bilateral lower limbs due to atherosclerosis of nonbiological bypass graft (finding),b16013431000119104,Peripheral arterial disease (PAD) diagnostic codes,a14180191000006115,2,Bilateral intermittent claudication of lower limbs due to atherosclerosis of nonbiological bypass graft
+Peripheral ischemia (disorder),b233958001,Peripheral arterial disease (PAD) diagnostic codes,a350533013,8000,Peripheral ischaemia
+Peripheral ischemia (disorder),b233958001,Peripheral arterial disease (PAD) diagnostic codes,a350535018,10000,Peripheral ischaemic vascular disease
+Peripheral ischemia (disorder),b233958001,Peripheral arterial disease (PAD) diagnostic codes,a5057981000006111,1,Peripheral ischemic vascular disease
+Lower limb ischemia (disorder),b233961000,Peripheral arterial disease (PAD) diagnostic codes,a742481000006118,30000,Ischaemic leg
+Lower limb ischemia (disorder),b233961000,Peripheral arterial disease (PAD) diagnostic codes,a5058071000006110,4000,Lower limb ischaemia
+Lower limb ischemia (disorder),b233961000,Peripheral arterial disease (PAD) diagnostic codes,a5058081000006113,4,Lower limb ischemia
+Lower limb ischemia (disorder),b233961000,Peripheral arterial disease (PAD) diagnostic codes,a5058091000006111,2,Ischemic leg
+Ischemic foot (disorder),b301755001,Peripheral arterial disease (PAD) diagnostic codes,a443199013,10000,Ischaemic foot
+Ischemic foot (disorder),b301755001,Peripheral arterial disease (PAD) diagnostic codes,a5898341000006114,2,Ischemic foot
+Trash foot (disorder),b307406004,Peripheral arterial disease (PAD) diagnostic codes,a5967911000006119,2,Trash foot
+Ischemic toe (disorder),b307408003,Peripheral arterial disease (PAD) diagnostic codes,a450665015,10000,Ischaemic toe
+Peripheral arterial occlusive disease (disorder),b399957001,Peripheral arterial disease (PAD) diagnostic codes,a1847121000006114,20000,Peripheral arterial disease
+Peripheral arterial occlusive disease (disorder),b399957001,Peripheral arterial disease (PAD) diagnostic codes,a6632221000006112,2000,Peripheral arterial occlusive disease
+Peripheral arterial occlusive disease (disorder),b399957001,Peripheral arterial disease (PAD) diagnostic codes,a6632251000006115,2,Peripheral angiopathy
+Peripheral arterial occlusive disease (disorder),b399957001,Peripheral arterial disease (PAD) diagnostic codes,a6632271000006113,5,Peripheral artery occlusive disease
+Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus (disorder),b723870003,Peripheral arterial disease (PAD) diagnostic codes,a7848701000006116,10,Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus
+Peripheral arterial disease (disorder),b840580004,Peripheral arterial disease (PAD) diagnostic codes,a13944841000006117,700,Peripheral arterial disease
+Peripheral arterial disease (disorder),b840580004,Peripheral arterial disease (PAD) diagnostic codes,a13944851000006115,1,Peripheral arterial vascular disease
+Peripheral arterial disease (disorder),b840580004,Peripheral arterial disease (PAD) diagnostic codes,a13944861000006118,2,Peripheral artery disease
+Pain at rest of bilateral lower limbs due to atherosclerosis (disorder),b12236991000119103,Peripheral arterial disease (PAD) diagnostic codes,a12122231000006112,1,Bilateral lower limb atherosclerosis pain at rest co-occurrent and due to atherosclerosis
+Peripheral angiopathy due to diabetes mellitus (disorder),b127014009,Peripheral arterial disease (PAD) diagnostic codes,a302011,3000,Diabetic peripheral angiopathy
+Peripheral angiopathy due to diabetes mellitus (disorder),b127014009,Peripheral arterial disease (PAD) diagnostic codes,a4392221000006118,6,Peripheral angiopathy due to diabetes mellitus
+Critical lower limb ischemia (disorder),b233962007,Peripheral arterial disease (PAD) diagnostic codes,a5058111000006119,400,Critical lower limb ischaemia
+Critical lower limb ischemia (disorder),b233962007,Peripheral arterial disease (PAD) diagnostic codes,a5058121000006110,30,Critical lower limb ischemia
+Ischemia of feet (disorder),b300917007,Peripheral arterial disease (PAD) diagnostic codes,a5886711000006111,200,Ischaemia of feet
+Peripheral angiopathy due to type 1 diabetes mellitus (disorder),b31211000119101,Peripheral arterial disease (PAD) diagnostic codes,a84781000006112,2,Type I diabetes mellitus with peripheral angiopathy
+Peripheral angiopathy due to type 1 diabetes mellitus (disorder),b31211000119101,Peripheral arterial disease (PAD) diagnostic codes,a913931000006116,20,Type 1 diabetes mellitus with peripheral angiopathy
+Peripheral angiopathy due to type 1 diabetes mellitus (disorder),b31211000119101,Peripheral arterial disease (PAD) diagnostic codes,a913941000006114,2,Peripheral angiopathy due to type 1 diabetes mellitus
+Critical ischemia of foot (disorder),b312822006,Peripheral arterial disease (PAD) diagnostic codes,a6021731000006115,80,Critical ischaemia of foot
+Critical ischemia of foot (disorder),b312822006,Peripheral arterial disease (PAD) diagnostic codes,a6021741000006113,2,Critical ischemia of foot
+Peripheral angiopathy due to type 2 diabetes mellitus (disorder),b314902007,Peripheral arterial disease (PAD) diagnostic codes,a459306016,50,Type II diabetes mellitus with peripheral angiopathy
+Peripheral angiopathy due to type 2 diabetes mellitus (disorder),b314902007,Peripheral arterial disease (PAD) diagnostic codes,a459308015,200,Type 2 diabetes mellitus with peripheral angiopathy
+Peripheral angiopathy due to type 2 diabetes mellitus (disorder),b314902007,Peripheral arterial disease (PAD) diagnostic codes,a84591000006119,6,Type 2 diabetes mellitus with peripheral angiopathy
+Peripheral angiopathy due to type 2 diabetes mellitus (disorder),b314902007,Peripheral arterial disease (PAD) diagnostic codes,a84961000006116,20,Type II diabetes mellitus with peripheral angiopathy
+Peripheral angiopathy due to type 2 diabetes mellitus (disorder),b314902007,Peripheral arterial disease (PAD) diagnostic codes,a280561000006111,60,Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+Peripheral vascular disease (disorder),b400047006,Peripheral arterial disease (PAD) diagnostic codes,a300510018,600,Other specified peripheral vascular disease
+Peripheral vascular disease (disorder),b400047006,Peripheral arterial disease (PAD) diagnostic codes,a300511019,60,Peripheral angiopathic disease EC NOS
+Peripheral vascular disease (disorder),b400047006,Peripheral arterial disease (PAD) diagnostic codes,a300514010,5000,Other specified peripheral vascular disease NOS
+Peripheral vascular disease (disorder),b400047006,Peripheral arterial disease (PAD) diagnostic codes,a300515011,100000,Peripheral vascular disease NOS
+Peripheral vascular disease (disorder),b400047006,Peripheral arterial disease (PAD) diagnostic codes,a300963017,200,[X]Other specified peripheral vascular diseases
+Peripheral vascular disease (disorder),b400047006,Peripheral arterial disease (PAD) diagnostic codes,a300970017,30,[X]Peripheral angiopathy in diseases classified elsewhere
+Peripheral vascular disease (disorder),b400047006,Peripheral arterial disease (PAD) diagnostic codes,a395791015,70000,Other peripheral vascular disease
+Peripheral vascular disease (disorder),b400047006,Peripheral arterial disease (PAD) diagnostic codes,a235911000006116,500000,Peripheral vascular disease
+Peripheral vascular disease (disorder),b400047006,Peripheral arterial disease (PAD) diagnostic codes,a6633851000006110,10,PVD-peripheral vascular disease
+Intermittent claudication (finding),b63491006,Peripheral arterial disease (PAD) diagnostic codes,a105536013,500000,Intermittent claudication
+Intermittent claudication (finding),b63491006,Peripheral arterial disease (PAD) diagnostic codes,a411512011,60000,Claudication
+Intermittent claudication (finding),b63491006,Peripheral arterial disease (PAD) diagnostic codes,a1715241000006112,1000,Vascular claudication
+Intermittent claudication (finding),b63491006,Peripheral arterial disease (PAD) diagnostic codes,a3532661000006118,1,IC - Intermittent claudication
+Ischemic foot with rest pain (disorder),b713412006,Peripheral arterial disease (PAD) diagnostic codes,a2377871000000112,700,Ischaemic foot pain at rest
+Ulcer of heel due to atherosclerosis of artery of lower limb (disorder),b792846001,Peripheral arterial disease (PAD) diagnostic codes,a13919651000006113,40,Ulcer of heel due to atherosclerosis of artery of lower limb
+Ulcer of ankle due to atherosclerosis of artery of lower limb (disorder),b792850008,Peripheral arterial disease (PAD) diagnostic codes,a13919691000006119,2,Ulcer of ankle due to atherosclerosis of artery of lower limb
+Ischaemic lower limb pain at rest (finding),b836711000000108,Peripheral arterial disease (PAD) diagnostic codes,a8278561000006114,20,Ischaemic lower limb pain at rest

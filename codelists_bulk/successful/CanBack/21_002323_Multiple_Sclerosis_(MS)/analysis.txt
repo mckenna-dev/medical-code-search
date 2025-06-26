@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 54
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1     Flag_classifyL2          MedCodeID                                          Term
+0   6112    Neurological  Multiple_Sclerosis  a1148911000000119            Multiple sclerosis review declined
+1   6113    Neurological  Multiple_Sclerosis        a1223979019                        Disseminated sclerosis
+2   6114    Neurological  Multiple_Sclerosis  a1674121000000119  Multiple sclerosis monitoring administration

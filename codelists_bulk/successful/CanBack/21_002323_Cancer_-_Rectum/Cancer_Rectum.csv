@@ -1,0 +1,7 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2078,Cancer,Rectum,a288675010,"Malignant neoplasm of rectum, rectosigmoid junction and anus",L1:Cancer_L2:Rectum,B14..00
+2079,Cancer,Rectum,a155488014,Malignant neoplasm of rectum,L1:Cancer_L2:Rectum,B141.00
+2080,Cancer,Rectum,a379088010,Carcinoma of rectum,L1:Cancer_L2:Rectum,B141.11
+2081,Cancer,Rectum,a379089019,Rectal carcinoma,L1:Cancer_L2:Rectum,B141.12
+2082,Cancer,Rectum,a729581000006111,"Malig neop other site rectum, rectosigmoid junction and anus",L1:Cancer_L2:Rectum,B14y.00
+2083,Cancer,Rectum,a720501000006110,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS",L1:Cancer_L2:Rectum,B14z.00

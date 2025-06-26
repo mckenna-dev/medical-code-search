@@ -1,0 +1,7 @@
+med_code_id,term,snomed_ct_concept_id,observations
+457965015,Serum total bilirubin level,997591000000109,44490970
+258906017,Serum bilirubin level,999691000000104,16823955
+458177010,Plasma total bilirubin level,997561000000103,2340220
+258911015,Serum bilirubin borderline,166616001,331
+258921011,Serum bilirubin level - finding,365787000,226
+258908016,Serum bilirubin raised,166612004,135

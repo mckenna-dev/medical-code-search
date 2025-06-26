@@ -1,0 +1,17 @@
+	MedCodeId	Observations	Term	Eatingdisorder_Other_diagnosis
+0	296361019	200000	Eating disorder	Eatingdisorder_Other_diagnosis
+1	296379015	60000	[X]Eating disorder, unspecified	Eatingdisorder_Other_diagnosis
+2	295436010	10000	Other and unspecified non-organic eating disorders	Eatingdisorder_Other_diagnosis
+3	295437018	9000	Unspecified non-organic eating disorder	Eatingdisorder_Other_diagnosis
+4	882611000006115	8000	Eating disorder NOS - psychog.	Eatingdisorder_Other_diagnosis
+5	1620911000006112	5000	Eating disorders	Eatingdisorder_Other_diagnosis
+6	577901000006119	4000	Compulsive eating disorder	Eatingdisorder_Other_diagnosis
+7	401889011	3000	[X]Other eating disorders	Eatingdisorder_Other_diagnosis
+8	295452013	2000	Non-organic eating disorder NOS	Eatingdisorder_Other_diagnosis
+9	295451018	600	Other specified non-organic eating disorder	Eatingdisorder_Other_diagnosis
+10	7230101000006110	40	Binge eating disorder	Eatingdisorder_Other_diagnosis
+11	389311000006116	4	[X]Hyperorexia nervosa	Eatingdisorder_Other_diagnosis
+12	8440231000006115	2	Eating disorder co-occurrent with diabetes mellitus type 1	Eatingdisorder_Other_diagnosis
+13	988931000006112	2	Eating disorder NOS - psychog.	Eatingdisorder_Other_diagnosis
+14	23968015	7000	Pica	Eatingdisorder_Other_diagnosis
+15	420741000006110	600	[X]Pica in adults	Eatingdisorder_Other_diagnosis

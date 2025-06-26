@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 7
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                          Term
+0   2322          Cancer         Thyroid  a317651000006118  [M]Trabecular adenocarcinoma
+1   2323          Cancer         Thyroid  a310161000006110   Hurthle cell adenocarcinoma
+2   2324          Cancer         Thyroid  a314311000006118     [M]Oncytic adenocarcinoma

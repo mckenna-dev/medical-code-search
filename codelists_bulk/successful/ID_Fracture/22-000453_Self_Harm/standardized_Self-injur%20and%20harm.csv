@@ -1,0 +1,114 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+3423,,,,4165,777,1,0,TK...12,Injury - self-inflicted,2009-02-01 00:00:00
+5242,,,,2227,355,0,0,U2E..00,[X]Self mutilation,2009-02-01 00:00:00
+7372,,,,46229,3000,0,0,146B.00,H/O: deliberate self harm,2009-02-01 00:00:00
+9604,,,,1236,50,0,0,TK60111,Slashed wrists self inflicted,2009-02-01 00:00:00
+10057,,,,14358,210,0,0,ZX1..13,Deliberate self-harm,2009-02-01 00:00:00
+10464,,,,9084,138,0,0,ZX...00,Self-harm,2009-02-01 00:00:00
+10717,,,,7216,188,0,0,U2...11,[X]Self inflicted injury,2009-02-01 00:00:00
+12333,,,,1267,34,0,0,ZX13.00,Cutting self,2009-02-01 00:00:00
+12694,,,,4210,110,0,0,1BDA.00,Thoughts of deliberate self harm,2009-02-01 00:00:00
+17046,,,,17191,333,0,0,U2...00,[X]Intentional self-harm,2009-02-01 00:00:00
+18671,,,,8217,508,0,0,1BD8.00,At risk of DSH - deliberate self harm,2009-02-01 00:00:00
+18805,,,,1522,20,0,0,ZX13100,Cutting own wrists,2009-02-01 00:00:00
+18983,,,,246,1,0,0,ZX1I.00,Self-scalding,2009-02-01 00:00:00
+21027,,,,1090,83,0,0,TK...14,Suicide and self harm,2009-02-01 00:00:00
+22107,,,,855,15,0,0,ZV1B200,[V]Personal history of self-harm,2009-02-01 00:00:00
+24461,,,,44,0,0,0,U27..00,"[X]Intentional self harm by smoke, fire and flames",2009-02-01 00:00:00
+25854,,,,40,0,0,0,ZX19.00,Hitting self,2009-02-01 00:00:00
+25859,,,,860,13,0,0,ZX1G.00,Scratches self,2009-02-01 00:00:00
+26465,,,,8902,339,0,0,U29..00,[X]Intentional self harm by sharp object,2009-02-01 00:00:00
+28680,,,,571,10,0,0,ZX1LD00,[X]Self mutilation,2009-02-01 00:00:00
+28694,,,,319,0,0,0,ZX18.00,Hanging self,2009-02-01 00:00:00
+30074,,,,177,5,0,0,U290.00,[X]Intentional self harm by sharp object occurrence at home,2009-02-01 00:00:00
+30360,,,,804,10,0,0,U21..00,[X]Intent self harm by hanging strangulation / suffocation,2009-02-01 00:00:00
+30370,,,,40,1,0,0,ZX1H100,Self-strangulation,2009-02-01 00:00:00
+32267,,,,88,1,0,0,ZX1L.00,Self-mutilation,2009-02-01 00:00:00
+34156,,,,819,1,0,0,U2z..00,[X]Intentional self harm by unspecified means,2009-02-01 00:00:00
+35123,,,,36,4,0,0,ZX1L100,Self-mutilation of hands,2009-02-01 00:00:00
+35247,,,,352,7,0,0,ZX1..00,Self-injurious behaviour,2009-02-01 00:00:00
+35868,,,,3,0,0,0,U2D4.00,[X]Intent self harm by crash motor vehicl occ street/highway,2009-02-01 00:00:00
+36863,,,,272,2,0,0,ZX13.11,Cuts self,2009-02-01 00:00:00
+38008,,,,4,0,0,0,U27z.00,[X]Intent self harm by smoke fire/flames occ unspecif place,2009-02-01 00:00:00
+38760,,,,682,8,0,0,U2y..00,[X]Intentional self harm by other specified means,2009-02-01 00:00:00
+39077,,,,28,0,0,0,ZX13200,Cutting own throat,2009-02-01 00:00:00
+41400,,,,43,1,0,0,U22..00,[X]Intentional self harm by drowning and submersion,2009-02-01 00:00:00
+42097,,,,23,1,0,0,U2C..00,[X]Intent self harm by jumping / lying before moving object,2009-02-01 00:00:00
+42103,,,,20,0,0,0,U2z0.00,[X]Intentional self harm by unspecif means occurrn at home,2009-02-01 00:00:00
+42471,,,,32,1,0,0,U21z.00,[X]Intent self harm by hangng strangul/suffoct unspecif plce,2009-02-01 00:00:00
+45166,,,,4,0,0,0,U2D0.00,[X]Intent self harm by crash of motor vehicl occurrn at home,2009-02-01 00:00:00
+45709,,,,3,0,0,0,U25..00,[X]Intent self harm by other/unspecified firearm discharge,2009-02-01 00:00:00
+45796,,,,26,0,0,0,U72..00,[X]Sequel intentn self-harm assault+event of undeterm intent,2009-02-01 00:00:00
+46154,,,,8,0,0,0,ZX15.00,Drowning self,2009-02-01 00:00:00
+46747,,,,89,1,0,0,U2B..00,[X]Intentional self harm by jumping from a high place,2009-02-01 00:00:00
+47623,,,,22,1,0,0,ZX1..12,SIB - Self-injurious behaviour,2009-02-01 00:00:00
+48345,,,,332,2,0,0,ZX1N.00,Stabbing self,2009-02-01 00:00:00
+50601,,,,12,1,0,0,ZX19200,Slapping self,2009-02-01 00:00:00
+51224,,,,15,0,0,0,U24..00,[X]Intent self harm by rifle shotgun/larger firearm disch,2009-02-01 00:00:00
+52778,,,,89,1,0,0,U29z.00,[X]Intentional self harm by sharp object occ unspecif place,2009-02-01 00:00:00
+52881,,,,11,1,0,0,U291.00,[X]Intent self harm by sharp object occ resident instit'n,2009-02-01 00:00:00
+53444,,,,2,0,0,0,U2A3.00,[X]Intent self harm by blunt object occ sports/athlet area,2009-02-01 00:00:00
+54091,,,,48,1,0,0,U210.00,[X]Intent self harm by hanging strangulat/suffocat occ home,2009-02-01 00:00:00
+54929,,,,10,0,0,0,ZX1M.00,Shooting self,2009-02-01 00:00:00
+56075,,,,4,0,0,0,U2B4.00,[X]Intent self harm by jump from high place occ street/h'way,2009-02-01 00:00:00
+56378,,,,17,0,0,0,U28..00,[X]Intentional self harm by steam hot vapours / hot objects,2009-02-01 00:00:00
+56380,,,,13,0,0,0,U2D..00,[X]Intentional self harm by crashing of motor vehicle,2009-02-01 00:00:00
+56681,,,,23,0,0,0,ZX1H.00,Self-asphyxiation,2009-02-01 00:00:00
+57479,,,,12,0,0,0,ZX1L200,Self-mutilation of genitalia,2009-02-01 00:00:00
+58039,,,,4,0,0,0,ZX1C.00,Nipping self,2009-02-01 00:00:00
+60404,,,,1,0,0,0,U221.00,[X]Intent self harm by drowning/submersn occ resid instit'n,2009-02-01 00:00:00
+60684,,,,1,0,0,0,U2A1.00,[X]Intent self harm by blunt object occ resident instit'n,2009-02-01 00:00:00
+61177,,,,29,0,0,0,U2zz.00,[X]Intent self harm by unspecif means occ at unspecif place,2009-02-01 00:00:00
+62382,,,,1,0,0,0,ZX1K.00,Self-incineration,2009-02-01 00:00:00
+63074,,,,27,0,0,0,U2A..00,[X]Intentional self harm by blunt object,2009-02-01 00:00:00
+63099,,,,4,0,0,0,U2C4.00,[X]Int self harm jump/lying befr mov obje occ street/highway,2009-02-01 00:00:00
+63100,,,,1,0,0,0,U274.00,[X]Intent self harm by smoke fire/flame occ street/highway,2009-02-01 00:00:00
+64200,,,,5,1,0,0,ZX1L600,Self-mutilation of ears,2009-02-01 00:00:00
+64227,,,,24,0,0,0,ZX1K.11,Setting fire to self,2009-02-01 00:00:00
+64331,,,,14,0,0,0,ZX1E.00,Pinching self,2009-02-01 00:00:00
+64410,,,,5,0,0,0,U211.00,[X]Intent self harm by hangng strangult/suffoct resid instit,2009-02-01 00:00:00
+67400,,,,5,0,0,0,U280.00,[X]Intent self harm by steam hot vapour/hot obj occ at home,2009-02-01 00:00:00
+67409,,,,35,0,0,0,U2y0.00,[X]Intentionl self harm by oth specif means occurrn at home,2009-02-01 00:00:00
+67586,,,,1,0,0,0,U241.00,[X]Int self harm rifl s'gun/lrg frarm disch occ resid instit,2009-02-01 00:00:00
+68091,,,,4,0,0,0,U2A0.00,[X]Intentional self harm by blunt object occurrence at home,2009-02-01 00:00:00
+69145,,,,1,0,0,0,ZX1K.12,Setting self alight,2009-02-01 00:00:00
+69263,,,,11,0,0,0,U720.00,[X]Sequelae of intentional self-harm,2009-02-01 00:00:00
+69342,,,,6,0,0,0,U2yz.00,[X]Intent self harm by oth specif means occ unspecif place,2009-02-01 00:00:00
+71661,,,,5,0,0,0,ZX...11,Self-damage,2009-02-01 00:00:00
+72559,,,,7,2,0,0,ZX19100,Punching self,2009-02-01 00:00:00
+72734,,,,6,0,0,0,U2B0.00,[X]Intent self harm by jumping from high place occ at home,2009-02-01 00:00:00
+72747,,,,9,0,0,0,U270.00,[X]Intention self harm by smoke fire/flames occurrn at home,2009-02-01 00:00:00
+73585,,,,11,0,0,0,U29y.00,[X]Intention self harm by sharp object occ oth specif place,2009-02-01 00:00:00
+73603,,,,2,0,0,0,U28z.00,[X]Intent self harm by steam hot vapour/obj occ unspec place,2009-02-01 00:00:00
+73666,,,,1,0,0,0,U26..00,[X]Intentional self harm by explosive material,2009-02-01 00:00:00
+73825,,,,1,0,0,0,U2Cy.00,[X]Int self harm jump/lying bef mov obje occ oth specif plce,2009-02-01 00:00:00
+87882,,,,3,0,0,0,U2y1.00,[X]Intent self harm by oth specif means occ resid instit'n,2009-02-01 00:00:00
+89578,,,,2,0,0,0,ZX1H200,Self-suffocation,2009-02-01 00:00:00
+90440,,,,3,0,0,0,U294.00,[X]Intention self harm by sharp object occ street/highway,2009-02-01 00:00:00
+90704,,,,6,0,0,0,ZX1L300,Self-mutilation of penis,2009-02-01 00:00:00
+90857,,,,8,0,0,0,U21y.00,[X]Intent self harm by hangng strangul/suffoct oth spec plce,2009-02-01 00:00:00
+93837,,,,1,0,0,0,U2C1.00,[X]Int self harm jump/lying befr mov obje occ resid instit'n,2009-02-01 00:00:00
+94377,,,,7,0,0,0,U2Bz.00,[X]Int self harm by jump from high place occ unspecif place,2009-02-01 00:00:00
+94637,,,,5,0,0,0,U22y.00,[X]Intent self harm by drown/submersn occ oth specif place,2009-02-01 00:00:00
+95790,,,,1,0,0,0,U2B6.00,[X]Int self harm by jump from high place indust/constr area,2009-02-01 00:00:00
+95794,,,,1,0,0,0,U250.00,[X]Intent self harm oth/unspecif firearm disch occ at home,2009-02-01 00:00:00
+96224,,,,4,0,0,0,U2zy.00,[X]Intent self harm by unspecif means occ oth specif place,2009-04-01 00:00:00
+97334,,,,2,0,0,0,U2z2.00,[X]Intent self harm by unspec mean occ sch/ins/pub adm area,2009-08-01 00:00:00
+97794,,,,1,0,0,0,U22z.00,[X]Intent self harm by drown/submersn occ unspecified place,2009-10-01 00:00:00
+99792,,,,2,0,0,0,U212.00,[X]Inten slf harm hang strang/suffc sch oth ins/pub adm area,2010-06-01 00:00:00
+100635,,,,2,0,0,0,U2By.00,[X]Int self harm by jump from high place occ oth specif plce,2010-09-01 00:00:00
+101971,,,,1,0,0,0,U2D6.00,[X]Intent self harm crash motor vehic occ indust/constr area,2011-03-01 00:00:00
+102790,,,,1,0,0,0,U220.00,[X]Intent self harm by drowning/submersion occurrn at home,2011-08-01 00:00:00
+104233,,,,3,0,0,0,U216.00,[X]Intent self harm by hang strangl/suffc indust/constr area,2012-06-01 00:00:00
+105584,,,,1,0,0,0,U2y6.00,[X]Intent self harm oth specif means occ indust/constr area,2013-01-01 00:00:00
+106714,,,,1,0,0,0,U2Dz.00,[X]Intent self harm by crash motor vehic occ unspecif place,2013-08-01 00:00:00
+107121,,,,4,0,0,0,U2yy.00,[X]Intent self harm oth specif means occ oth specif place,2013-10-01 00:00:00
+108499,,,,2,0,0,0,U2Az.00,[X]Intentional self harm by blunt object occ unspecif place,2014-08-01 00:00:00
+109625,,,,1,0,0,0,U296.00,[X]Intent self harm by sharp object occ indust/constr area,2015-05-01 00:00:00
+110578,,,,2,0,0,0,U27y.00,[X]Intent self harm by smoke fire/flame occ oth specif plce,2016-02-01 00:00:00
+110884,,,,1,0,0,0,U295.00,[X]Intent self harm by sharp object occ trade/service area,2016-06-01 00:00:00
+110900,,,,1,0,0,0,U292.00,[X]Intent self harm sharp obj occ sch oth ins/pub adm area,2016-06-01 00:00:00
+111004,,,,1,0,0,0,U213.00,[X]Intent self harm by hang strangl/suffc sport/athlet area,2016-07-01 00:00:00
+111117,,,,1,0,0,0,U2z1.00,[X]Intent self harm by unspecif means occurrn resid instit'n,2016-07-01 00:00:00
+111291,,,,1,0,0,0,U2B1.00,[X]Intent self harm by jump from high place occ resid instit,2016-09-01 00:00:00
+111381,,,,1,0,0,0,U282.00,[X]Int self harm by steam hot vapor/obj sch/ins/pub adm area,2016-10-01 00:00:00

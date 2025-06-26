@@ -1,0 +1,69 @@
+v1	medcodeid	observations	cleansedreadcode	term	snomedctconceptid
+2794	82343012	4000000	"G573000"	"Atrial fibrillation"	49436004
+87659	636721000000112	3000	"G573400"	"Permanent atrial fibrillation"	440028005
+127568	1854971000006115	30	" "	"Did not attend atrial fibrillation monitoring"	1854971000006104
+176158	5669591000006113	50	" "	"AF - Paroxysmal atrial fibrillation"	282825002
+198440	8214691000006119	700	" "	"Atrial fibrillation monitoring invitation"	711411000000101
+197022	8037691000006113	200	" "	"Atrial fibrillation with rapid ventricular response"	120041000119109
+147161	3309351000006110	200	" "	"Multifocal atrial tachycardia"	49982000
+164604	5057041000006118	1	" "	"Ectopic atrial tachycardia"	233892002
+104214	1000031000006118	20000	"9hF1.00"	"Excepted from atrial fibrillation quality indicators - informed dissent"	717381000000109
+80344	406861000000119	200000	"6A9..00"	"Atrial fibrillation annual review"	248411000000105
+194306	7610331000006110	1	" "	"Longstanding persistent atrial fibrillation"	706923002
+42155	350465014	2000	"G573300"	"Non-rheumatic atrial fibrillation"	233911009
+127707	1856431000006118	500	" "	"Atrial fibrillation follow-up"	1856431000006102
+205864	14161691000006116	2	" "	"Paroxysmal atrial fibrillation with rapid ventricular response"	1010405004
+80305	406251000000118	30000	"9Os..00"	"Atrial fibrillation monitoring administration"	713801000000102
+190525	7046981000006110	1	" "	"Chronic atrial flutter"	425615007
+203248	12626271000006110	500	" "	"QOF (Quality and Outcomes Framework) atrial fibrillation quality indicator-related care invitation"	1110851000000100
+174852	5590611000006118	1000	" "	"Atrial tachycardia"	276796006
+47885	421235014	700000	"G573200"	"Paroxysmal atrial fibrillation"	282825002
+87657	636701000000115	4000	"G573500"	"Persistent atrial fibrillation"	440059007
+80410	408081000000116	100000	"9Os0.00"	"Atrial fibrillation monitoring first letter"	717221000000101
+147061	3299911000006116	50	" "	"AF - Atrial fibrillation"	49436004
+49491	456154015	100000	"14AN.00"	"H/O: atrial fibrillation"	312442005
+6100	216183015	100000	"662S.00"	"Atrial fibrillation monitoring"	134377004
+139633	2587711000000116	200	" "	"High risk of atrial fibrillation"	1025021000000107
+92492	783761000006118	600	"7936A00"	"Implantation of intravenous pacemaker for atrial fibrillation"	175146007
+134101	1978701000006112	200	" "	"Atrial fibrillation screen using BP monitor with AF detector"	1978701000006108
+80417	408241000000115	3000	"9Os4.00"	"Atrial fibrillation monitoring telephone invite"	716721000000107
+61362	2692063011	3000	"14AR.00"	"History of atrial flutter"	428076002
+10898	256479014	30000	"3273.00"	"ECG: atrial flutter"	164890007
+176159	5669601000006117	100	" "	"PAF - Paroxysmal atrial fibrillation"	282825002
+139632	2587671000000117	10000	" "	"At risk of atrial fibrillation"	719008003
+80411	408101000000110	40000	"9Os1.00"	"Atrial fibrillation monitoring second letter"	716981000000106
+27573	300132017	30000	"G573z00"	"Atrial fibrillation and flutter NOS"	195080001
+71219	294171000000112	2000	"9hF..00"	"Exception reporting - atrial fibrillation quality indicators"	716871000000101
+200758	8440101000006118	30	" "	"Atrial fibrillation not detected"	1067061000000104
+104213	1000021000006116	40000	"9hF0.00"	"Excepted from atrial fibrillation quality indicators - patient unsuitable"	715941000000109
+157573	4586661000006110	20	" "	"Electrocardiogram: paroxysmal atrial tachycardia"	164891006
+320	9988012	200000	"G573100"	"Atrial flutter"	5370000
+164613	5057261000006110	10	" "	"Lone atrial fibrillation"	233910005
+127617	1855511000006115	40	" "	"Atrial fibrillation monitoring in secondary care"	1855511000006104
+27572	300130013	500000	"G573.00"	"Atrial fibrillation and flutter"	195080001
+127616	1855501000006118	5000	" "	"Atrial fibrillation monitoring in primary care"	1855501000006102
+61181	2675253013	400	" "	"Chronic atrial fibrillation"	426749004
+200739	8439861000006115	4	" "	"Atrial fibrillation detected"	1066831000000104
+203549	12734511000006116	1	" "	"Evaluation of AF (atrial fibrillation) burden"	143601000000104
+27565	300106011	40000	"G570000"	"Paroxysmal atrial tachycardia"	195069001
+115590	1587611000006119	5000	"793M100"	"Percutaneous transluminal ablation of atrial wall for atrial flutter"	707832008
+198495	8218281000006110	700	" "	"Atrial fibrillation monitoring telephone invitation"	716721000000107
+80413	408141000000113	2000	"9Os3.00"	"Atrial fibrillation monitoring verbal invite"	717011000000100
+80412	408121000000118	8000	"9Os2.00"	"Atrial fibrillation monitoring third letter"	716181000000109
+139854	2608211000000115	90	" "	"Typical atrial flutter"	720448006
+184792	6016401000006115	4	" "	"History of atrial fibrillation"	312442005
+125706	1823951000006111	40	" "	"Atrial fibrillation confirmed"	1823951000006107
+10897	256478018	400000	"3272.00"	"ECG: atrial fibrillation"	164889003
+164605	5057071000006114	1	" "	"Incessant atrial tachycardia"	233894001
+185189	6043781000006115	400	" "	"Rapid atrial fibrillation"	314208002
+115592	1587631000006113	2000	"793M300"	"Perc translum ablat conduct sys heart for atrial flutter NEC"	707832008
+180744	5887651000006116	20	" "	"Controlled atrial fibrillation"	300996004
+132270	1951131000006110	1000	" "	"Atrial fibrillation screening"	1951131000006106
+194988	7731461000006119	2	" "	"Familial atrial fibrillation"	715395008
+198498	8218591000006111	7	" "	"Atrial fibrillation monitoring verbal invitation"	717011000000100
+193005	7375931000006117	2	" "	"Insertion of pacemaker for control of atrial fibrillation"	449863006
+131184	1932021000006117	100	" "	"3D study - problems with atrial fibrillation management"	1932021000006101
+176160	5669611000006119	9	" "	"Intermittent atrial fibrillation"	282825002
+139855	2608251000000116	200	" "	"Atypical atrial flutter"	15964901000119108
+61183	2675306013	5000	"G573600"	"Paroxysmal atrial flutter"	427665004
+203535	12734281000006112	3	" "	"QOF (Quality and Outcomes Framework) atrial fibrillation quality indicator-related care invitation using preferred method of communication"	133111000000106

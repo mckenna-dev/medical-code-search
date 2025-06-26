@@ -1,0 +1,11 @@
+=== FILE ANALYSIS ===
+Rows: 2
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId  Observations              Term  SNOMED_CT_Concept_ID
+0   51268016      72179370  Neutrophil count      1022551000000104
+1  257390011           465  Neutrophil count              30630007

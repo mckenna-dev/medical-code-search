@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 23
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                                                      Term  SNOMED_CT_Concept_ID
+0  236671000006112       6872187                                 Peak expiratory flow rate              18491006
+1        406339014       2393155                     Peak flow rate before bronchodilation             271529005
+2  226081000000111        665960  Peak expiratory flow rate measured using EN 13826 device       165871000000103

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 51
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tBMI category']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                  \tMedCodeId\tObservations\tTerm\tBMI category
+0  0\t3484801000006114\t7000\tBMI - Body mass index\tcontinuous
+1          1\t100716012\t100000000\tBody mass index\tcontinuous
+2         2\t923861000006112\t4000\tBody mass index\tcontinuous

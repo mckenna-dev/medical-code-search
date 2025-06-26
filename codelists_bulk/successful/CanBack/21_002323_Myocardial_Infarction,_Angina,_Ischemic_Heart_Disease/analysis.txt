@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 303
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1                                Flag_classifyL2         MedCodeID                                                                                                                     Term
+0   3178  Cardiovascular  Myocardial_infarction+angina+ischemic_heart_D  a100681000006116  Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction
+1   3179  Cardiovascular  Myocardial_infarction+angina+ischemic_heart_D        a109915012                                                                                      Post-myocardial infarction syndrome
+2   3180  Cardiovascular  Myocardial_infarction+angina+ischemic_heart_D        a109916013                                                                                                      Dressler's syndrome

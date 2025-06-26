@@ -1,0 +1,5 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+1942831000006114,12555687,eGFR (estimated glomerular filtration rate) using creatinine Chronic Kidney Disease Epidemiology Collaboration equation per 1.73 square metres,1011481000000105
+1866321000006117,35450,Estimated glomerular filtration rate using Chronic Kidney Disease Epidemiology Collaboration formula,857971000000104
+1942821000006111,3998,eGFR (estimated glomerular filtration rate) using cystatin C Chronic Kidney Disease Epidemiology Collaboration equation per 1.73 square metres,1011491000000107
+8294821000006118,453,eGFR (estimated glomerular filtration rate) using CKD-Epi (Chronic Kidney Disease Epidemiology Collaboration) formula,857971000000104

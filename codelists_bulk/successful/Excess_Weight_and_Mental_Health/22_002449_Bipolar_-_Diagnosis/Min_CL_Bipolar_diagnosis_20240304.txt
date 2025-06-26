@@ -1,0 +1,84 @@
+	MedCodeId	Observations	Term	Bipolar_diagnosis
+0	1755911000006110	2000	[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission	Bipolar_diagnosis
+1	8232591000006117	300	Recurrent major depressive episodes, severe, with psychosis, psychosis in remission	Bipolar_diagnosis
+2	362781000006116	2000	[X]Affective psychosis NOS	Bipolar_diagnosis
+3	513751000006117	8000	Bipolar affective disorder, current episode depression	Bipolar_diagnosis
+4	294861010	2000	Bipolar affective disorder, currently depressed, unspecified	Bipolar_diagnosis
+5	294868016	2000	Bipolar affective disorder, currently depressed, NOS	Bipolar_diagnosis
+6	367081000006116	800	[X]Bipolar affect disorder cur epi manic wout psychotic symp	Bipolar_diagnosis
+7	513801000006112	5000	Bipolar affective disorder, current episode manic	Bipolar_diagnosis
+8	294848010	3000	Bipolar affective disorder, currently manic, unspecified	Bipolar_diagnosis
+9	294858014	1000	Bipolar affective disorder, currently manic, NOS	Bipolar_diagnosis
+10	398541000006116	2000	Bipolar affective disorder , current episode mixed	Bipolar_diagnosis
+11	367121000006119	2000	[X]Bipolar affective disorder, current episode mixed	Bipolar_diagnosis
+12	294862015	2000	Bipolar affective disorder, currently depressed, mild	Bipolar_diagnosis
+13	367091000006118	3000	[X]Bipolar affect disorder cur epi mild or moderate depressn	Bipolar_diagnosis
+14	294863013	2000	Bipolar affective disorder, currently depressed, moderate	Bipolar_diagnosis
+15	294849019	1000	Bipolar affective disorder, currently manic, mild	Bipolar_diagnosis
+16	294850019	2000	Bipolar affective disorder, currently manic, moderate	Bipolar_diagnosis
+17	367071000006119	3000	Bipolar affective disorder, currently manic, severe, with psychosis	Bipolar_diagnosis
+18	513701000006116	2000	Bipolar affect disord, currently manic,severe with psychosis	Bipolar_diagnosis
+19	396801000006115	10000	Manic-depressive psychosis	Bipolar_diagnosis
+20	367101000006112	600000	Bipolar affective disorder	Bipolar_diagnosis
+21	513871000006118	100000	Bipolar disorder	Bipolar_diagnosis
+22	294880012	50000	Unspecified bipolar affective disorder	Bipolar_diagnosis
+23	296135011	20000	[X]Bipolar affective disorder, unspecified	Bipolar_diagnosis
+24	294888017	3000	Unspecified bipolar affective disorder, NOS	Bipolar_diagnosis
+25	294881011	1000	Unspecified bipolar affective disorder, unspecified	Bipolar_diagnosis
+26	401865016	1000	[X]Other bipolar affective disorders	Bipolar_diagnosis
+27	1785851000006110	1000	Bipolar I disorder	Bipolar_diagnosis
+28	367111000006110	9000	Bipolar affective disorder, current episode hypomanic	Bipolar_diagnosis
+29	1785861000006112	10000	Bipolar II disorder	Bipolar_diagnosis
+30	367161000006113	6000	[X]Bipolar II disorder	Bipolar_diagnosis
+31	1785871000006117	800	[X]Bipolar II disorder	Bipolar_diagnosis
+32	367151000006111	6000	[X]Bipolar disorder, single manic episode	Bipolar_diagnosis
+33	294882016	400	Mild bipolar disorder	Bipolar_diagnosis
+34	294869012	60000	Mixed bipolar affective disorder	Bipolar_diagnosis
+35	294877011	10000	Mixed bipolar affective disorder, NOS	Bipolar_diagnosis
+36	294870013	3000	Mixed bipolar affective disorder, unspecified	Bipolar_diagnosis
+37	294871012	900	Mixed bipolar affective disorder, mild	Bipolar_diagnosis
+38	294872017	1000	Mixed bipolar affective disorder, moderate	Bipolar_diagnosis
+39	701071000006111	400	Mixed bipolar affective disorder, severe	Bipolar_diagnosis
+40	294874016	2000	Mixed bipolar affective disorder, severe, with psychosis	Bipolar_diagnosis
+41	294883014	400	Moderate bipolar disorder	Bipolar_diagnosis
+42	513721000006114	800	Bipolar affect disord, now depressed, severe with psychosis	Bipolar_diagnosis
+43	396781000006119	500	[X]Manic-depress psychosis,depressed type+psychotic symptoms	Bipolar_diagnosis
+44	82171000006116	200	Severe bipolar disorder with psychotic features	Bipolar_diagnosis
+45	82151000006114	70	Severe bipolar disorder without psychotic features	Bipolar_diagnosis
+46	513731000006112	600	Bipolar affect disord, now depressed, severe, no psychosis	Bipolar_diagnosis
+47	513691000006116	300	Severe manic bipolar I disorder without psychotic features	Bipolar_diagnosis
+48	396771000006117	300	[X] Manic-depressive psychosis, depressed type without psychotic symptoms	Bipolar_diagnosis
+49	1975931000006113	6	Bipolar affect disorder cur epi mild or moderate depressn, without somatic syndrome	Bipolar_diagnosis
+50	1975941000006115	3	Bipolar affect disorder cur epi mild or moderate depressn, with somatic syndrome	Bipolar_diagnosis
+51	367061000006114	2000	Psychosis and severe depression co-occurrent and due to bipolar affective disorder	Bipolar_diagnosis
+52	294893019	200	Atypical manic disorder	Bipolar_diagnosis
+53	294860011	4000	Manic-depressive - now depressed	Bipolar_diagnosis
+54	294847017	2000	Manic-depressive - now manic	Bipolar_diagnosis
+55	396791000006116	20000	Manic-depressive illness	Bipolar_diagnosis
+56	882311000006110	10000	Manic-depressive psychoses	Bipolar_diagnosis
+57	294891017	10000	Other and unspecified manic-depressive psychoses	Bipolar_diagnosis
+58	294892012	5000	Unspecified manic-depressive psychoses	Bipolar_diagnosis
+59	294896010	800	Other and unspecified manic-depressive psychoses NOS	Bipolar_diagnosis
+60	396071000006119	80	[X]Manic-depressive reaction	Bipolar_diagnosis
+61	294895014	300	Mixed bipolar I disorder	Bipolar_diagnosis
+62	513861000006113	800	Bipolar affective disorder, currently depressed, in full remission	Bipolar_diagnosis
+63	8041781000006111	1	Rapid cycling bipolar I disorder	Bipolar_diagnosis
+64	13911951000006118	8	Rapid cycling bipolar II disorder	Bipolar_diagnosis
+65	5435901000006117	100	Bipolar	Bipolar_diagnosis
+66	4767311000006117	200	Bipolar affective disorder, current episode mixed	Bipolar_diagnosis
+67	12059201000006117	7	Bipolar disorder, most recent episode depression	Bipolar_diagnosis
+68	12059211000006119	20	Bipolar disorder, most recent episode manic	Bipolar_diagnosis
+69	3006671000006118	40	Bipolar I disorder, most recent episode hypomanic	Bipolar_diagnosis
+70	3854401000006113	10	Bipolar 2 disorder	Bipolar_diagnosis
+71	367051000006112	800	Severe depressed bipolar I disorder without psychotic features	Bipolar_diagnosis
+72	513711000006118	600	Depressed bipolar I disorder in partial remission	Bipolar_diagnosis
+73	513811000006110	700	Bipolar affective disorder, currently manic, in full remission	Bipolar_diagnosis
+74	294887010	2000	Bipolar disorder in full remission	Bipolar_diagnosis
+75	296130018	10000	Bipolar disorder in remission	Bipolar_diagnosis
+76	3886291000006119	1	Bipolar disorder, in remission	Bipolar_diagnosis
+77	294876019	1000	Mixed bipolar affective disorder, in full remission	Bipolar_diagnosis
+78	701051000006118	1000	Mixed bipolar affective disorder, partial/unspec remission	Bipolar_diagnosis
+79	8235161000006110	6	Mixed bipolar affective disorder, in partial remission	Bipolar_diagnosis
+80	492761000000114	1000	Bipolar affective disorder resolved	Bipolar_diagnosis
+81	82091000006116	300	Bipolar disorder in partial remission	Bipolar_diagnosis
+82	7849081000006116	1	Bipolar type I disorder currently in full remission	Bipolar_diagnosis

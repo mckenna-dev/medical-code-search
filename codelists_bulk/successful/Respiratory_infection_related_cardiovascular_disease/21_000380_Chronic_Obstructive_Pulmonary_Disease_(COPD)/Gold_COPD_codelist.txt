@@ -1,0 +1,76 @@
+	medcode	readcode	clinicalevents	readterm
+1	11287	66YM.00	1189076	Chronic obstructive pulmonary disease annual review
+3	1001	H3...00	538190	Chronic obstructive pulmonary disease
+2	28755	9Oi0.00	483732	Chronic obstructive pulmonary disease monitoring 1st letter
+24	28743	66Yf.00	363768	Number of COPD exacerbations in past year
+11	1446	H312200	299752	Acute exacerbation of chronic obstructive airways disease
+14	998	H3...11	225978	Chronic obstructive airways disease
+4	34202	9Oi1.00	143229	Chronic obstructive pulmonary disease monitoring 2nd letter
+5	2195	H34..00	125773	Bronchiectasis
+36	5710	H3z..00	122979	Chronic obstructive airways disease NOS
+6	11026	9h51.00	121785	Excepted from COPD quality indicators: Patient unsuitable
+0	10863	H36..00	100096	Mild chronic obstructive pulmonary disease
+9	10802	H37..00	97563	Moderate chronic obstructive pulmonary disease
+8	11266	9h52.00	92097	Excepted from COPD quality indicators: Informed dissent
+13	7884	H3y1.00	91788	Chron obstruct pulmonary dis wth acute exacerbation, unspec
+10	794	H32..00	72757	Emphysema
+7	34215	9Oi2.00	68193	Chronic obstructive pulmonary disease monitoring 3rd letter
+12	9876	H38..00	41624	Severe chronic obstructive pulmonary disease
+16	3243	H31..00	35048	Chronic bronchitis
+29	38074	9Oi4.00	31927	Chronic obstructive pulmonary disease monitor phone invite
+19	11019	8H2R.00	31380	Admit COPD emergency
+30	102685	66YB000	13930	Chronic obstructive pulmonary disease 3 monthly review
+18	103007	66YB100	13712	Chronic obstructive pulmonary disease 6 monthly review
+43	42258	9Oi3.00	11156	Chronic obstructive pulmonary disease monitoring verb invite
+20	21061	H3y0.00	6445	Chronic obstruct pulmonary dis with acute lower resp infectn
+27	12166	H3y..00	5004	Other specified chronic obstructive airways disease
+22	7092	H30..12	4930	Recurrent wheezy bronchitis
+31	5798	H312000	4608	Chronic asthmatic bronchitis
+23	15157	H31z.00	4299	Chronic bronchitis NOS
+44	93568	H39..00	4001	Very severe chronic obstructive pulmonary disease
+28	32679	H34z.00	3182	Bronchiectasis NOS
+56	37247	H3z..11	1974	Chronic obstructive pulmonary disease NOS
+52	33450	H32z.00	1932	Emphysema NOS
+35	15626	H310000	1763	Chronic catarrhal bronchitis
+17	14798	H312100	1654	Emphysematous bronchitis
+48	27819	H312.00	1374	Obstructive chronic bronchitis
+54	25603	H310.00	1124	Simple chronic bronchitis
+45	44525	H312z00	1029	Obstructive chronic bronchitis NOS
+38	24466	H58y000	894	Broncholithiasis
+21	26306	H320.00	889	Chronic bullous emphysema
+34	20364	H340.00	663	Recurrent bronchiectasis
+26	5909	H312011	629	Chronic wheezy bronchitis
+32	10980	H322.00	500	Centrilobular emphysema
+49	11150	H311.00	419	Mucopurulent chronic bronchitis
+40	15693	A115.00	380	Tuberculous bronchiectasis
+59	104608	H3A..00	328	End stage chronic obstructive airways disease
+42	22905	H581.00	248	Interstitial emphysema
+33	26442	H441.00	204	Cannabinosis
+25	41491	H341.00	153	Post-infective bronchiectasis
+15	40788	H32y.00	126	Other emphysema
+41	23492	H320z00	123	Chronic bullous emphysema NOS
+53	16410	H32yz00	108	Other emphysema NOS
+50	62233	H421.00	107	Simple silicosis
+51	40159	H311000	78	Purulent chronic bronchitis
+37	45089	H31y100	70	Chronic tracheobronchitis
+57	61118	H310z00	69	Simple chronic bronchitis NOS
+61	65733	Hyu3100	66	[X]Other specified chronic obstructive pulmonary disease
+67	46578	H321.00	57	Panlobular emphysema
+68	61513	H311z00	44	Mucopurulent chronic bronchitis NOS
+47	24248	H313.00	38	Mixed simple and mucopurulent chronic bronchitis
+63	63479	H32y200	37	MacLeod's unilateral emphysema
+46	68066	H31yz00	35	Other chronic bronchitis NOS
+58	66043	H31y.00	35	Other chronic bronchitis
+60	66058	Hyu3000	35	[X]Other emphysema
+65	56860	H320000	31	Segmental bullous emphysema
+71	68662	H320100	25	Zonal bullous emphysema
+70	60188	H320200	24	Giant bullous emphysema
+39	99536	H320300	21	Bullous emphysema with collapse
+69	54893	H582.00	20	Compensatory emphysema
+62	67040	H3y..11	18	Other specified chronic obstructive pulmonary disease
+72	59263	H32y111	17	Acute interstitial emphysema
+64	92955	H32y000	9	Acute vesicular emphysema
+66	37959	H311100	7	Fetid chronic bronchitis
+73	64721	H464000	7	Chronic emphysema due to chemical fumes
+55	70787	H32y100	6	Atrophic (senile) emphysema
+74	111668	H32yz11	1	Sawyer - Jones syndrome

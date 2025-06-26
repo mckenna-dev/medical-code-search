@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/COPD_QOF_Codelist.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/main/Codelists/Conditions/COPD_QOF_Codelist.csv
+Codelist Name: Chronic Obstructive Pulmonary Disease (COPD)
+Project Title: COMPUTE
+ERAP Number: 22-001771
+Author: Cynthia Wrght Drakesmith
+Coding System: Aurum
+Year Created: 2023
+Downloaded: 2025-06-25 13:25:19
+File Size: 16098 bytes

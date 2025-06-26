@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 205
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tSMI_symptom']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                \tMedCodeId\tObservations\tTerm\tSMI_symptom
+0   0\t223601000000119\t4000.0\tManic psychosis\tSMI_symptom
+1  2\t396741000006113\t8000.0\t[X]Manic episode\tSMI_symptom
+2             3\t2157096015\t1000.0\tManic mood\tSMI_symptom

@@ -1,0 +1,14 @@
+med_code_id,term,snomed_ct_concept_id,observations
+70401000006114,Urine total protein,1003291000000105,630304
+84066017,Urine protein,1028811000000103,470962
+2549739011,Random urine protein level,1011581000000106,68282
+259803019,Urine protein test negative,167273002,14192
+259801017,Urine protein test,1030631000000106,13233
+1231723013,Urine protein level,1028811000000103,11283
+259804013,Urine protein test = trace,167274008,1758
+406084015,Urine dipstick for protein,1030631000000106,1289
+259805014,Urine protein test = +,167275009,1086
+259806010,Urine protein test = ++,167276005,637
+259807018,Urine protein test = +++,167277001,196
+259814016,Urine protein test NOS,271346009,76
+259808011,Urine protein test = ++++,167278006,50

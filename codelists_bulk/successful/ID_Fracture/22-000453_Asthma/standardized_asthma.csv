@@ -1,0 +1,49 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,readcode,readterm,databasebuild
+78,,,,H33..00,Asthma,2009-02-01 00:00:00
+232,,,,H33z100,Asthma attack,2009-02-01 00:00:00
+233,,,,H33z011,Severe asthma attack,2009-02-01 00:00:00
+719,,,,14B4.00,H/O: asthma,
+1208,,,,H330.12,Childhood asthma,2009-02-01 00:00:00
+1555,,,,H33..11,Bronchial asthma,2009-02-01 00:00:00
+2290,,,,H330.11,Allergic asthma,2009-02-01 00:00:00
+3665,,,,H331.11,Late onset asthma,2009-02-01 00:00:00
+4442,,,,H33z.00,Asthma unspecified,2009-02-01 00:00:00
+4606,,,,H33zz11,Exercise induced asthma,2009-02-01 00:00:00
+4892,,,,H33z000,Status asthmaticus NOS,2009-02-01 00:00:00
+5267,,,,H331.00,Intrinsic asthma,2009-02-01 00:00:00
+5627,,,,H330011,Hay fever with asthma,2009-02-01 00:00:00
+5798,,,,H312000,Chronic asthmatic bronchitis,2009-02-01 00:00:00
+5867,,,,173A.00,Exercise induced asthma,
+5909,,,,H312011,Chronic wheezy bronchitis,2009-02-01 00:00:00
+6707,,,,H330111,Extrinsic asthma with asthma attack,2009-02-01 00:00:00
+7058,,,,8H2P.00,"Emergency admission, asthma",
+7146,,,,H330.00,Extrinsic (atopic) asthma,2009-02-01 00:00:00
+7191,,,,663P.00,Asthma limiting activities,
+7229,,,,663W.00,Asthma prophylactic medication used,
+7378,,,,663U.00,Asthma management plan given,
+7416,,,,663N.00,Asthma disturbing sleep,
+7731,,,,H330.14,Pollen asthma,2009-02-01 00:00:00
+8335,,,,H33z111,Asthma attack NOS,2009-02-01 00:00:00
+9552,,,,66Y5.00,Change in asthma management plan,
+9663,,,,66Y9.00,Step up change in asthma management plan,
+10487,,,,663j.00,Asthma - currently active,
+12987,,,,H33z200,Late-onset asthma,2009-02-01 00:00:00
+14777,,,,H330000,Extrinsic asthma without status asthmaticus,2009-02-01 00:00:00
+15248,,,,H330.13,Hay fever with asthma,2009-02-01 00:00:00
+16070,,,,H33zz00,Asthma NOS,2009-02-01 00:00:00
+18207,,,,H33zz13,Allergic bronchitis NEC,2009-02-01 00:00:00
+18323,,,,H331111,Intrinsic asthma with asthma attack,2009-02-01 00:00:00
+21232,,,,H33zz12,Allergic asthma NEC,2009-02-01 00:00:00
+22752,,,,173c.00,Occupational asthma,
+25796,,,,H332.00,Mixed asthma,2009-02-01 00:00:00
+27926,,,,H330100,Extrinsic asthma with status asthmaticus,2009-02-01 00:00:00
+29325,,,,H331000,Intrinsic asthma without status asthmaticus,2009-02-01 00:00:00
+32727,,,,H33z.11,Hyperreactive airways disease,2009-02-01 00:00:00
+40823,,,,H334.00,Brittle asthma,2009-02-01 00:00:00
+45073,,,,H331z00,Intrinsic asthma NOS,2009-02-01 00:00:00
+45782,,,,H330z00,Extrinsic asthma NOS,2009-02-01 00:00:00
+58196,,,,H331100,Intrinsic asthma with status asthmaticus,2009-02-01 00:00:00
+106805,,,,H335.00,Chronic asthma with fixed airflow obstruction,2013-08-01 00:00:00
+185,,,,H333.00,Acute exacerbation of asthma,
+39478,,,,H35y700,Wood asthma,
+93353,,,,H35y600,Sequoiosis (red-cedar asthma),

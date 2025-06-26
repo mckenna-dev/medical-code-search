@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 21
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                                          Term
+0    997          Cancer             Eye       a1208876015                                     Malignant neoplasm of eye
+1    998          Cancer             Eye  a729311000006110  Malig neop eyeball excl conjunctiva, cornea, retina, choroid
+2    999          Cancer             Eye        a289308013                            Malignant neoplasm of ciliary body

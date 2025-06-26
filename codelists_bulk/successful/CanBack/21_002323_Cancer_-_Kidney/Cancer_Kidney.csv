@@ -1,0 +1,22 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1241,Cancer,Kidney,a729481000006112,Malig neop of kidney and other unspecified urinary organs,L1:Cancer_L2:Kidney,B4A..00
+1242,Cancer,Kidney,a177051000006111,Renal malignant neoplasm,L1:Cancer_L2:Kidney,B4A..11
+1243,Cancer,Kidney,a289285010,Malignant neoplasm of kidney parenchyma,L1:Cancer_L2:Kidney,B4A0.00
+1244,Cancer,Kidney,a289288012,Hypernephroma,L1:Cancer_L2:Kidney,B4A0000
+1245,Cancer,Kidney,a722481000006116,Malignant neoplasm of renal pelvis,L1:Cancer_L2:Kidney,B4A1.00
+1246,Cancer,Kidney,a722471000006119,Malignant neoplasm of renal calyces,L1:Cancer_L2:Kidney,B4A1000
+1247,Cancer,Kidney,a289294016,Malignant neoplasm of ureteropelvic junction,L1:Cancer_L2:Kidney,B4A1100
+1248,Cancer,Kidney,a289296019,Malignant neoplasm of renal pelvis NOS,L1:Cancer_L2:Kidney,B4A1z00
+1249,Cancer,Kidney,a720961000006117,Malignant neoplasm of ureter,L1:Cancer_L2:Kidney,B4A2.00
+1250,Cancer,Kidney,a720991000006113,Malignant neoplasm of urethra,L1:Cancer_L2:Kidney,B4A3.00
+1251,Cancer,Kidney,a289299014,Malignant neoplasm of kidney or urinary organs NOS,L1:Cancer_L2:Kidney,B4Az.00
+1252,Cancer,Kidney,a306901000006111,Chromophobe carcinoma,L1:Cancer_L2:Kidney,BB5V100
+1253,Cancer,Kidney,a291443014,Clear cell adenocarcinoma,L1:Cancer_L2:Kidney,BB5X100
+1254,Cancer,Kidney,a315861000006111,Renal cell carcinoma - morphology,L1:Cancer_L2:Kidney,BB5a000
+1255,Cancer,Kidney,a309571000006119,[M]Grawitz tumour,L1:Cancer_L2:Kidney,BB5a011
+1256,Cancer,Kidney,a310241000006119,[M]Hypernephroma,L1:Cancer_L2:Kidney,BB5a012
+1257,Cancer,Kidney,a1227517019,[M]Nephroblastoma NOS,L1:Cancer_L2:Kidney,BBL7100
+1258,Cancer,Kidney,a318211000006116,Wilms' tumour,L1:Cancer_L2:Kidney,BBL7112
+1259,Cancer,Kidney,a291674019,[M]Mesenchymal nephroblastoma,L1:Cancer_L2:Kidney,BBL7300
+1260,Cancer,Kidney,a312461000006115,"[M]Mesenchymoma, malignant",L1:Cancer_L2:Kidney,BBLC100
+1261,Cancer,Kidney,a307051000006111,Clear cell sarcoma of kidney,L1:Cancer_L2:Kidney,BBLJ.00

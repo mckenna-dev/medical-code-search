@@ -1,0 +1,208 @@
+med_code_id,term,snomed_ct_concept_id,observations
+56637011,Hypogonadotropic hypogonadism,33927004,30000
+138614018,Mixed gonadal dysgenesis,83579008,200
+157738018,Pure gonadal dysgenesis,95219002,100
+315432016,Gonadal dysgenesis,205681004,1000
+315452015,Other gonadal dysgenesis phenotype NOS,205681004,1
+315453013,Gonadal dysgenesis NOS,205681004,100
+345037013,Early onset cerebellar ataxia with hypogonadism,230229007,2
+495192017,Male hypogonadism,48723006,70000
+1232733019,Hypergonadotrophic ovarian failure,65846009,400
+1494758011,Eunuchoidism hypogonadism,48723006,900
+28851000006112,Other gonadal dysgenesis phenotype,205681004,5
+253741000006118,Ovarian hypogonadism,16041008,400
+253751000006116,Female hypogonadism,16041008,900
+881611000006114,Gonad postablative failure,190538008,2
+881621000006118,Other gonad failure,679641000000104,800
+893491000006119,Gonadal dysgenesis - Turner,38804009,300
+1699131000006116,Hypogonadotropic hypogonadism,1699131000006100,20
+2301691000000111,Excision of gonad,894231000000105,40
+2301711000000113,Excision of gonad from inguinal canal,894241000000101,1
+2301751000000112,Excision of gonad from abdomen,894261000000100,6
+2664451000006118,Isolated gonadotropin deficiency,10340008,1
+2754381000006116,Female hypogonadism syndrome,16041008,3
+3045941000006117,Secondary hypogonadism,33927004,30
+3045951000006115,Gonadotrophin deficiency,33927004,10
+3278821000006118,Hypogonadism,48130008,100
+3288411000006117,Primary gonadal failure,48723006,10
+3288451000006116,Primary male hypogonadism,48723006,40
+4022751000006111,Hypogonadism with anosmia,93559003,10
+4358031000006117,Idiopathic hypogonadotropic hypogonadism,123953004,4
+4396931000006111,Disorder of endocrine gonad,127345001,8
+6347491000006115,Primary hypogonadism,370999003,10
+6347501000006111,Hypergonadotropic hypogonadism,370999003,2
+7832001000006117,"Male hypergonadotropic hypogonadism, intellectual disability, skeletal anomaly syndrome",722459008,2
+8274531000006112,Late onset male hypogonadism,827931000000102,6
+54058015,Postmenopausal osteoporosis,102447009,10000
+87265016,Postmenopausal atrophic vaginitis,52441000,400000
+127040019,Postmenopausal state,76498008,10000
+129260010,Menopausal arthritis,77888002,500
+251993014,Menopause,289903006,700000
+264956019,Menopause symptoms present,170951000,300000
+264958018,Menopause: bone density check,170953002,30000
+264968011,Menopause: dietary advice,170961007,3000
+264969015,Menopause sexual education,170962000,1000
+264973017,Menopause monitoring NOS,268530007,30000
+305090010,Menopausal flushing,198436008,300000
+305092019,Menopausal sleeplessness,198437004,4000
+305093012,Menopausal headache,198438009,2000
+305094018,Menopausal concentration lack,198439001,8000
+305095017,Menopausal symptoms NOS,170951000,300000
+305097013,Other menopausal and postmenopausal states,266607004,1000
+305098015,Menopausal and postmenopausal disorder NOS,266677000,10000
+305262018,Perimenopausal disorder,266607004,60000
+312165013,Postmenopausal osteoporosis with pathological fracture,203453001,1000
+397100015,Menopausal and postmenopausal disorders,266677000,50000
+484851015,Artificial menopause state,31351009,1000
+2159950019,Perimenopausal atrophic vaginitis,408386002,9000
+2474450014,Menopausal profile,412894004,1000
+214501000006117,Premature menopause,373717006,80000
+216381000006114,Postmenopausal atrophic urethritis,21237001,2000
+216391000006112,Post menopausal urethritis,21237001,100
+221331000000115,Postmenopausal disorders,266677000,1000
+587831000000117,Early menopause,373717006,10000
+828351000006118,Menopausal hot flushes,198436008,400000
+887551000006118,Meno/postmenopausal dis. NOS,654671000000106,200
+907711000006119,[RFC] Menopause,907711000006103,300
+2837541000006110,Postmenopausal urethral atrophy,21237001,9
+2837561000006114,Postmenopausal urethritis,21237001,10
+2837571000006119,PAU - Postmenopausal atrophic urethritis,21237001,2
+2846821000006118,Menopausal symptom,21801002,7000
+3005341000006114,Postartificial menopausal syndrome,31351009,10
+3005361000006113,Artificial menopause,31351009,10
+3021381000006110,Menopausal osteoporosis,32369003,1
+3619151000006119,Menopausal problem,68811000,40
+3744311000006118,Postmenopausal,76498008,8
+3748141000006114,PMB - Postmenopausal bleeding,76742009,30
+3748151000006111,Bleeding after menopause,76742009,20
+4355521000006115,Menopausal syndrome,123756000,7
+4543121000006114,Menopause,161712005,40
+4543151000006117,Menopausal state,161712005,3
+4544131000006114,History of postmenopausal bleeding,161788002,1
+5103781000006115,Menopause ovarian failure,237138004,6
+5753441000006119,Menopause present,289903006,3000
+6348231000006119,Surgical menopause,371036001,1
+13493821000006117,"Polyneuropathy, intellectual disability, acromicria, premature menopause syndrome",770679002,1
+258683014,Serum testosterone level abnormal,166458009,30000
+274986010,Insertion of testosterone implant,177628001,10000
+299561000000114,Intramuscular injection of testosterone,76601001,100000
+991871000006112,Intramuscular injection of testosterone,991871000006108,90
+3124911000006113,Deficiency of testosterone biosynthesis,38825009,2
+4453821000006112,Decreased testosterone level,131078003,1
+4453831000006110,Low testosterone,131078003,30
+7852181000006111,Testosterone replacement therapy,724163007,20
+314174014,Cryptorchidism NOS,204878001,100
+2162235017,Cryptorchidism,204878001,2000
+2162370018,"Cryptorchidism, unilateral",268227001,1000
+2162371019,"Cryptorchidism, bilateral",268228006,900
+4827071000006117,Cryptorchism,204878001,60
+508364012,Primary amenorrhoea,8913004,20000
+5103581000006110,Hypothalamic amenorrhoea,237120002,30
+13490191000006115,Primary amenorrhoea,156035004,100
+315435019,"Turner's phenotype, karyotype normal",205684007,70
+315803010,Turner syndrome,38804009,1000
+378514015,"Turner's phenotype, partial X deletion karyotype",254280007,20
+400961019,"Turner's phenotype, other variant karyotypes",38804009,60
+400962014,Turner's syndrome NOS,38804009,600
+491780017,Turner's syndrome,38804009,20000
+83611000006111,"Turner's phenotype, karyotype 45X",710008008,100
+83621000006115,"Turner's phenotype, karyotype 46X iso (Xq)",205686009,40
+83641000006110,Mosaic Turner syndrome,710010005,600
+83671000006119,"Turner's phenotype, ring chromosome karyotype",254281006,20
+83711000006115,"Turner's,karyotype 46X + abnorm. sex chromosome,not iso(Xq)",205687000,20
+7662621000006115,XO - Turner's syndrome,710008008,2
+315463017,"Klinefelter's syndrome, XXYY",205699007,400
+315464011,"Klinefelter's syndrome, XY/XXY mosaic",205700008,300
+315465012,Klinefelter's syndrome NOS,22053006,800
+2162372014,Klinefelter's syndrome,22053006,20000
+222131000000110,"Klinefelter's syndrome, XXXY",275263003,70
+222141000000118,"Klinefelter's syndrome, XXXXY",275264009,200
+753551000006117,XXY Klinefelter's syndrome,405769009,2000
+753581000006113,"Klinefelter's syndrome, male with 46XX karyotype",205698004,50
+753631000006111,"Klinefelter's syndrome,male with more than two X chromosomes",22053006,50
+2851171000006117,Klinefelter syndrome,22053006,100
+4831401000006114,Klinefelter's syndrome - male with 46 XX karyotype,205698004,2
+6718291000006110,"Klinefelter's syndrome, XXY",405769009,10
+6718311000006114,Klinefelter's syndrome karyotype 47 XXY,405769009,4
+14197081000006117,"Klinefelter syndrome, male with 46,XX karyotype",205698004,1
+510382019,Kallman's syndrome,93559003,3000
+4022821000006114,Kallmann's syndrome,93559003,9
+315473015,Mosaic XY/XXY,205709009,20
+315474014,Mosaic including XXXXY,205710004,20
+2163148019,XXY syndrome,405769009,200
+24318012,Amenorrhoea,14302001,500000
+252085014,H/O: amenorrhoea,161780009,50000
+305036019,Amenorrhoea NOS,14302001,90000
+506894019,Secondary amenorrhoea,86030004,400000
+508364012,Primary amenorrhoea,8913004,20000
+2726461000006114,Amenorrhea,14302001,100
+2844741000006112,Dysponderal amenorrhoea,21669001,20
+3898441000006112,Secondary amenorrhea,86030004,3
+5103581000006110,Hypothalamic amenorrhoea,237120002,30
+13490191000006115,Primary amenorrhoea,156035004,100
+13490211000006119,Secondary amenorrhoea,156036003,2000
+34699017,Postirradiation testicular hypofunction,20615009,70
+87913013,Testicular feminization,52832001,600
+122593018,Testicular dysfunction,73820008,3000
+254546014,O/E - testicles small,163383002,2000
+292876018,Postablative testicular hypofunction,190552005,3
+292879013,Postsurgical testicular hypofunction,190553000,70
+292880011,Other iatrogenic postablative testicular hypofunction,190552005,5
+292881010,Other specified postablative testicular hypofunction,190552005,1
+292882015,Postablative testicular hypofunction NOS,190552005,2
+292895013,Other specified other testicular hypofunction,73820008,800
+292896014,Other testicular hypofunction NOS,73820008,2000
+292901011,Other testicular dysfunction NOS,73820008,300
+292902016,Testicular dysfunction NOS,73820008,700
+293777013,[X]Other testicular dysfunction,73820008,300
+314164011,Undescended testicle,204878001,100000
+396751011,Testicular disease,236763001,8000
+398812016,Other testicular hypofunction,73820008,5000
+398816018,Other testicular dysfunction,73820008,300
+400854017,Undescended testicle NOS,204878001,5000
+507519013,"Testicular agenesis, unilateral",87310001,300
+1228905010,"Testicular agenesis, bilateral",371015003,100
+110371000006111,Testicular hypofunction due to defect in adrenocortical hormone synthesis,267402007,600
+580571000006113,Absent testicle (congenital),274151005,2000
+851391000006118,Testicular hormone implant op,851391000006102,200
+881591000006115,Ovarian/testicular dysfunction,37102008,200
+1576471000006118,Testicle Appears Undescended,1576471000006102,1000
+1584191000006114,History of testicular disorder,427040000,3000
+2779001000006112,Testicular atrophy,17585008,5
+2779011000006110,Atrophic testicle,17585008,10
+3356601000006117,Testicular feminisation,52832001,10
+3369101000006112,Testicular regression syndrome,53599007,2
+4758901000006110,Post-surgical testicular hypofunction,190553000,1
+5098891000006111,Acquired testicular failure,236811002,5
+5268891000006116,Absence of testicle in scrotum,249239007,5
+5268911000006119,Testicle out of place,249240009,6
+5584761000006118,Testicle in inguinal canal,276405004,10
+5584851000006114,Small testicle,276411001,9
+6347471000006116,Primary testicular failure,370997001,200
+14162511000006115,Undescended left testicle,1010568002,90
+14162531000006114,Undescended right testicle,1010569005,70
+20708012,Congenital absence of ovary,12017008,400
+20710014,Agenesis of ovary,12017008,40
+109366013,Primary ovarian failure,65846009,10000
+292850018,Postablative ovarian failure,190538008,90
+292854010,Other iatrogenic postablative ovarian failure,42245002,10
+292855011,Other specified postablative ovarian failure,190538008,5
+292856012,Postablative ovarian failure NOS,190538008,10
+292865017,Other specified other ovarian failure,37102008,200
+292866016,Other ovarian failure NOS,37102008,1000
+314091010,Congenital anomalies of ovaries NOS,38296007,40
+315434015,Ovarian dysgenesis,205683001,400
+315735018,Congenital anomaly of ovary,38296007,30
+398810012,Ovarian failure,111550004,30000
+398811011,Secondary ovarian failure,267400004,7000
+1232733019,Hypergonadotrophic ovarian failure,65846009,400
+253741000006118,Ovarian hypogonadism,16041008,400
+5103771000006118,Incipient ovarian failure,237137009,1
+5112441000006114,Premature ovarian failure,237788002,100
+14154041000006112,Agenesis of ovary,1003512001,60
+398815019,Eunuchism,267403002,100
+1494758011,Eunuchoidism hypogonadism,48723006,900
+21196018,Androgen resistance syndrome,12313004,200
+21198017,Androgen insensitivity syndrome,12313004,1000
+1795031000000118,Androgen deprivation therapy,707266006,2000
+3124921000006117,Androgen deficiency,38825009,2

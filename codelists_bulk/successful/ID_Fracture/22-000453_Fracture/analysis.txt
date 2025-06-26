@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 1046
+Columns: 11
+Column names: ['MedCodeId', 'Term', 'Observations', 'SNOMED_CT_Concept_ID', 'readterm', 'readcode', 'MOP Site', 'Unnamed: 4', 'Major osteoporotic site', 'ICD-10 code', 'ICD-10 term']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId  Term  Observations  SNOMED_CT_Concept_ID                                    readterm
+0      16895   NaN           NaN                   NaN                Fatigue fracture of vertebra
+1      30616   NaN           NaN                   NaN  Pathological fracture of thoracic vertebra
+2      30352   NaN           NaN                   NaN    Pathological fracture of lumbar vertebra

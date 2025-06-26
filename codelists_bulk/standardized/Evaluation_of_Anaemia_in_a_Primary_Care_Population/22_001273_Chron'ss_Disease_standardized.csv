@@ -1,0 +1,73 @@
+med_code_id,term,snomed_ct_concept_id,observations
+56765016,Crohn's disease,34000006.0,700000
+179501000006113,Crohn's regional enteritis,34000006.0,200000
+41137017,Inflammatory bowel disease,24526004.0,100000
+601031000006119,CC - Crohn's colitis,50440006.0,40000
+250025015,FH: Crohn's disease,160386006.0,20000
+601091000006115,Crohn's disease of terminal ileum,196977009.0,20000
+886291000006112,Regional enteritis - Crohn,34000006.0,10000
+302941017,Crohn's disease of small intestine,56689002.0,6000
+396357012,Crohn's disease of large bowel,7620006.0,5000
+302940016,Crohn's disease of ileum,38106008.0,4000
+1222351011,Crohn's disease NOS,34000006.0,4000
+309744019,Arthropathy in Crohn's disease,201728006.0,2000
+2532958014,Exacerbation of Crohn's disease of small intestine,414154002.0,2000
+2532950019,Exacerbation of Crohn's disease of large intestine,414153008.0,2000
+302939018,Crohn's disease of the ileum unspecified,38106008.0,1000
+2269891000000116,Management of inflammatory bowel disease,700104004.0,900
+2269901000000115,Management of IBD (inflammatory bowel disease),700104004.0,700
+303761010,[X]Other Crohn's disease,34000006.0,700
+906051000006118,[RFC] Crohns disease,906051000000000.0,400
+302322010,Orofacial Crohn's disease,196578009.0,300
+3316751000006117,Crohn's disease of colon,50440006.0,300
+309833017,Juvenile arthritis in Crohn's disease,201805000.0,100
+3047421000006110,Crohns disease,34000006.0,100
+2338581000000110,Dietary education for inflammatory bowel disease,909671000000000.0,80
+3113541000006111,Crohn's ileitis,38106008.0,80
+3047411000006119,Crohn disease,34000006.0,80
+2891431000006118,IBD - Inflammatory bowel disease,24526004.0,60
+4784091000006115,Crohn's disease of oral soft tissues,196578009.0,50
+2559781000006115,Crohn's disease of rectum,3815005.0,50
+4530461000006117,Family history of Crohn's disease,160386006.0,20
+7988831000006117,Arthritis co-occurrent and due to Crohn's disease,8161000000000.0,20
+4785581000006112,Crohn disease of terminal ileum,196977009.0,20
+5085631000006115,Perianal Crohn disease,235796008.0,10
+2559801000006116,Crohn's proctitis,3815005.0,10
+5085621000006118,Perianal Crohn's disease,235796008.0,10
+2659581000000113,Signposting to Crohn's and Colitis UK,1057340000000000.0,9
+7489581000006113,History of inflammatory bowel disease,608844008.0,7
+3420881000006117,Crohn disease of small intestine,56689002.0,6
+5548921000006113,Crohn's disease activity index,273364009.0,4
+5139551000006114,Juvenile arthritis of inflammatory bowel disease,239809007.0,4
+3047391000006119,CD - Crohn's disease,34000006.0,4
+4784111000006112,Oral Crohn's disease,196578009.0,4
+6839121000006119,Crohn's stricture of colon,413276006.0,3
+13765011000006113,Arthritis due to inflammatory bowel disease,9350004.0,3
+6204981000006116,Idiopathic chronic inflammatory bowel disease,359664009.0,3
+3668441000006118,Crohn's disease of small AND large intestines,71833008.0,3
+5073581000006111,Crohn's disease of gingivae,234999001.0,2
+2621161000006119,"Crohns disease, large intestine",7620006.0,2
+7988841000006110,Crohn's disease with arthritis,8161000000000.0,2
+3316811000006110,"Crohns disease, colon",50440006.0,2
+3420891000006119,"Crohns disease, small intestine",56689002.0,2
+3414681000006119,Crohn's disease of duodenum,56287005.0,2
+6664401000006118,Vulval Crohn's disease,402375009.0,2
+7060761000006112,Crohn's disease in remission,426549001.0,2
+4809351000006111,Juvenile arthritis in Crohn disease,201805000.0,2
+4808981000006112,Arthropathy in Crohn disease,201728006.0,2
+14614331000006112,Crohn's regional enteritis,56689002.0,1
+8463921000006112,Abscess of intestine due to Crohn's disease,1085900000000000.0,1
+7821281000006113,Inflammatory polyps co-occurrent and due to inflammatory bowel disease,721686000.0,1
+6582841000006118,Gastrointestinal Crohn's disease,397172008.0,1
+6664411000006115,Crohn disease of vulva,402375009.0,1
+7060771000006117,Crohn disease in remission,426549001.0,1
+6839131000006116,Crohn stricture of colon,413276006.0,1
+6797971000006118,Iritis with inflammatory bowel disease,410483002.0,1
+3113551000006113,Crohn disease of ileum,38106008.0,1
+7959171000006110,Perianal fistula due to Crohn's disease,733533008.0,1
+8035641000006112,History of Crohns disease,112561000000000.0,1
+6853111000006114,Exacerbation of Crohn disease of large intestine,414153008.0,1
+6853131000006115,Exacerbation of Crohn disease of small intestine,414154002.0,1
+2601661000006118,Chronic inflammatory small bowel disease,6382002.0,1
+2621151000006116,Crohn disease of large bowel,7620006.0,1
+5139611000006114,Seronegative arthritis secondary to inflammatory bowel disease,239814006.0,1

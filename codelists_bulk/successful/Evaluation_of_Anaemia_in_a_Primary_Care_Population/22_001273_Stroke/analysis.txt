@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 559
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tstroke']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                            MedCodeId\tObservations\tTerm\tstroke
+0            a405339016\t900000\tCerebrovascular accident\tstroke
+1  a104563015\t600000\tCerebrovascular disease (disorder)\tstroke
+2                   a264499015\t400000\tStroke monitoring\tstroke

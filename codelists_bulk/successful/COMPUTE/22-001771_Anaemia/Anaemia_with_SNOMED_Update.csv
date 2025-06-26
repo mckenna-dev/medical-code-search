@@ -1,0 +1,300 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+399230013,2000000,Anaemia,271737000
+745851000006117,2000000,Iron deficiency anaemia,87522002
+505888017,700000,Pernicious anaemia,84027009
+493975011,300000,Microcytic hypochromic anaemia,44666001
+293888010,300000,Iron deficiency anaemia NOS,87522002
+351067016,100000,Normocytic anaemia,300980002
+62261000006118,100000,Vitamin B12-deficient megaloblastic anaemia,49472006
+293880015,100000,Unspecified iron deficiency anaemia,87522002
+703501000006114,90000,Microcytic - hypochromic anaemia,44666001
+399193019,70000,Deficiency anaemias,267513007
+141181000006110,60000,Sickle cell anaemia,127040003
+306137018,50000,Iron deficiency anaemia of pregnancy,199248002
+731981000006116,50000,Macrocytic anaemia,83414005
+399198011,50000,Megaloblastic anaemia due to vitamin B>12< deficiency,49472006
+255515017,50000,O/E - anaemia,164139008
+294251014,40000,Chronic anaemia,191268006
+480781000006112,40000,"Anaemia in mother complicating pregnancy, childbirth AND/OR puerperium",45828008
+763221000006115,40000,Megaloblastic anaemia due to folate deficiency,85649008
+219151000000115,30000,Anaemia screen,171201007
+745811000006118,30000,Anaemia due to chronic blood loss,413533008
+351071018,30000,Anaemia,271737000
+62281000006111,30000,Vitamin B>12< deficiency anaemia,49472006
+789001000006115,20000,Hypochromic - microcytic anaemia,44666001
+882041000006112,20000,Anaemia NOS,668381000000100
+141211000006114,20000,Sickle cell anaemia with crisis,417425009
+255526011,20000,O/E - anaemia NOS,164139008
+500191000006115,10000,Autoimmune haemolytic anaemia,413603009
+813861000006112,10000,Haemolytic anaemia,61261009
+306133019,10000,Anaemia during pregnancy - baby not yet delivered,199246003
+448863016,10000,Aplastic anaemia,306058006
+293948018,10000,Combined B12 and folate deficiency anaemia,191154007
+294567019,10000,[X]Other iron deficiency anaemias,87522002
+351097012,10000,Macrocytic anemia,83414005
+293864013,10000,Iron deficiency anaemia due to dietary causes,191128004
+38181000006111,10000,Other and unspecified anaemias,271737000
+480871000006117,8000,Anaemia of chronic renal failure,49708008
+906551000006112,7000,[RFC] Pernicious anaemia,906551000006108
+294572011,7000,Folate deficiency anaemia,85649008
+294291012,6000,Anaemia,271737000
+306138011,6000,Anaemia during pregnancy/childbirth/puerperium NOS,45828008
+881921000006111,6000,Anaemias,267513007
+294603013,5000,Anaemia of chronic disease,234347009
+399201018,5000,Vitamin B12 deficiency anaemia due to dietary causes,267517008
+496576014,5000,Megaloblastic anaemia,53165003
+493120017,5000,Sideroblastic anaemia,41841004
+494753011,4000,Anaemia of prematurity,47100003
+399196010,4000,Other deficiency anaemias,267513007
+293981017,4000,Deficiency anaemias NOS,267513007
+454255014,4000,Anaemia secondary to renal failure,310647000
+179181000006110,4000,"Refractory anaemia, unspecified",109996008
+454071000006113,3000,Acquired haemolytic anaemia,4854004
+294579019,3000,"[X]Vitamin B12 deficiency anaemia, unspecified",49472006
+399195014,3000,Iron deficiency anemia,87522002
+141221000006118,3000,Sickle cell anaemia with haemoglobin C disease,35434009
+763231000006117,3000,Folate deficiency anaemia due to dietary causes,267518003
+294148013,3000,Aplastic and other anaemias,271737000
+499268014,3000,Glucose-6-phosphate dehydrogenase deficiency anaemia,62403005
+294102016,3000,Autoimmune haemolytic anaemia NOS,413603009
+293946019,3000,Other specified megaloblastic anaemia NEC,53165003
+293924010,2000,Other vitamin B12 deficiency anaemia NOS,49472006
+960301000006116,2000,Anaemia,960301000006100
+293977017,2000,[X]Megaloblastic anaemia NOS,53165003
+294145011,2000,Haemolytic anaemias NOS,61261009
+351092018,2000,Normocytic anaemia due to chronic blood loss,234352004
+745801000006116,2000,Iron deficiency anaemia due to blood loss,413533008
+506651010,2000,Folic acid deficiency anaemia,85649008
+887991000006119,1000,Preg. + anaemia,45828008
+141201000006111,1000,Sickle-cell anaemia of unspecified type,127040003
+294290013,1000,Other specified anaemias,271737000
+821381000006117,1000,Hereditary haemolytic anaemia,38911009
+293877016,1000,Iron deficiency anemia,87522002
+294093015,1000,Primary cold-type haemolytic anaemia,191210005
+480731000006111,1000,Anaemia - unspecified whether in pregnancy or the puerperium,45828008
+141191000006113,1000,Sickle-cell anaemia NOS,127040003
+763261000006114,1000,Folate-deficiency anaemia NOS,85649008
+294139015,900,Acquired haemolytic anaemia NOS,4854004
+2535668013,900,Refractory anaemia with sideroblasts,109998009
+881941000006116,900,Other vit B12 defic. anaemia,49472006
+344913019,800,Refractory anaemia,109996008
+497451015,800,Acquired aplastic anaemia,55907008
+480821000006118,800,Anaemia in the puerperium - baby delivered during current episode of care,199245004
+294085015,800,Hereditary haemolytic anaemia NOS,38911009
+293885013,800,Idiopathic hypochromic anaemia,191136008
+62031000006117,700,Vitamin B12 deficiency anaemia due to malabsorption with proteinuria,191142007
+3857521000006111,700,Macrocytic anaemia,83414005
+294278011,700,Other specified anaemia NOS,271737000
+294568012,700,Vitamin B12 deficiency anemia due to dietary causes,267517008
+5063381000006110,600,Microcytic anaemia,234349007
+15581000006119,600,Other specified anaemias,271737000
+480831000006115,600,Anaemia in the puerperium - baby delivered during previous episode of care,199247007
+186311000006115,600,Refractory anaemia with excess blasts,398623004
+294000010,600,Haemolytic anaemia due to pyruvate kinase deficiency,191178002
+294245016,600,Anaemia in neoplastic disease,191265009
+306129014,600,Anaemia during pregnancy - baby delivered,199244000
+399228011,600,Acute posthaemorrhagic anaemia,267530009
+506650011,500,Folate deficiency anaemia,85649008
+294571016,500,[X]Other vitamin B12 deficiency anaemias,49472006
+294582012,400,[X]Haemolytic anaemias,61261009
+445119014,400,Normocytic anaemia following acute bleed,303060002
+294190019,400,Aplastic anaemia due to chronic disease,191244003
+496498015,300,Congenital dyserythropoietic anaemia,52951008
+1216340010,300,Fanconi's familial refractory anaemia,30575002
+906571000006119,300,[RFC] Iron deficiency anaemia,906571000006103
+316593017,300,Late anaemia of newborn due to isoimmunisation,206434001
+499626019,300,Congenital anaemia,63565007
+294275014,300,Other specified other anaemia,271737000
+399225014,300,Acquired aplastic anaemia NOS,55907008
+293978010,300,Other specified deficiency anaemias,267513007
+294105019,200,Non-autoimmune haemolytic anaemia,191216004
+293959010,200,Other specified nutritional deficiency anaemia,267513007
+1815761000006115,200,Refractory anaemia with ringed sideroblasts,109998009
+399205010,200,Other deficiency anaemias NOS,267513007
+351070017,200,Normocytic anaemia due to aplasia,234343008
+881961000006117,200,Megoblastic anaemia NOS,579711000000100
+351100019,200,Megaloblastic anaemia NOS,53165003
+12761691000006115,200,Iron deficiency anemia,87522002
+507621012,200,Sideropenic anaemia,87522002
+293949014,200,Other specified megaloblastic anaemia NEC NOS,53165003
+294607014,200,[X]Other specified anaemias,271737000
+294144010,200,Other specified haemolytic anaemias,61261009
+294564014,200,Nutritional anaemia,66612000
+2551306019,200,FH: Addisonian anaemia,297243001
+291252015,200,"Refractory anaemia without sideroblasts, so stated",189509003
+294227016,200,Aplastic anaemia NOS,306058006
+495896017,200,Microangiopathic haemolytic anaemia,51071000
+1216339013,200,Fanconi's hypoplastic anaemia,30575002
+292273018,200,"[X]Refractory anaemia, unspecified",109996008
+223491000000112,200,Addison's anaemia,84027009
+5063191000006111,100,Iron deficiency without anaemia,234340006
+1216009014,100,[M] Refractory anaemia with excess of blasts,128847002
+507619019,100,Asiderotic anaemia,87522002
+745101000006113,100,Leukoerythroblastic anaemia,2694001
+2137201000000112,100,Refractory anaemia with multilineage dysplasia,820601000000103
+294223017,100,Idiopathic aplastic anaemia,191256002
+294106018,100,Mechanical haemolytic anaemia,191217008
+763251000006112,100,Folate-deficiency anaemia due to malabsorption,191149003
+2992501000006112,100,Fanconi's anaemia,30575002
+1216006019,100,[M] Refractory anaemia with sideroblasts,128846006
+1216286014,100,Hypoplastic anaemia - familial,28975000
+351101015,100,Megaloblastic anaemia due to dietary causes,234358000
+141231000006115,100,Sickle-cell anaemia with haemoglobin D disease,25472008
+763271000006119,90,"Folate-deficiency anaemia, drug induced",191148006
+294094014,90,Primary warm-type haemolytic anaemia,191211009
+13031341000006117,90,Anemia,271737000
+294211011,90,Transient hypoplastic anaemia,191251007
+351104011,80,Vegan's anaemia,234360003
+508873014,70,Acquired sideroblastic anaemia,90175006
+508244016,70,Congenital hypoplastic anaemia,28975000
+293952018,70,Protein-deficiency anaemia,85746008
+141241000006113,70,Sickle-cell anaemia with haemoglobin E disease,47024008
+763241000006110,70,Folate-deficiency anaemia due to liver disorders,191150003
+294097019,70,Secondary cold-type haemolytic anaemia,191212002
+894411000006114,60,Anaemia - due to isoimm.,206434001
+504771011,60,Drug-induced haemolytic anaemia,81711008
+582091000006116,60,Congenital dyshaematopoietic anaemia,52951008
+881971000006112,50,Nutritional anaemias NOS,623661000000101
+461283013,50,[V]Screening for other or unspecified deficiency anaemia,171201007
+499346019,50,Congenital sideroblastic anaemia,48983004
+931981000006110,50,Anaemia of chronic disease,389601000000102
+5063361000006117,50,Anaemia of renal disease,234348004
+293999013,40,Haemolytic anaemia due to hexokinase deficiency,191177007
+590121000006115,40,Constitutional aplastic anaemia,28975000
+110881000006115,40,Thalassaemia major - Cooley's anaemia,26682008
+504528016,40,Achlorhydric anaemia,80875006
+881931000006114,40,Deficiency anaemias excl. iron,643101000000109
+881991000006113,40,Other hered. haem. anaemias,597871000000103
+294082017,40,Other specified hereditary haemolytic anaemia NOS,38911009
+179151000006119,40,Refractory anaemia with excess blasts in transformation (clinical),110000005
+294593014,40,[X]Other autoimmune haemolytic anaemias,413603009
+399223019,40,Aplastic anaemia due to drugs,267527002
+451077018,40,Anaemia in ovarian carcinoma,307726001
+294236017,40,Sideroblastic anaemia NOS,41841004
+294595019,40,[X]Other nonautoimmune haemolytic anaemias,191216004
+711521000006117,40,Mediterranean anaemia,40108008
+294111016,40,Haemolytic anaemia due to infection,38689004
+294590012,40,[X]Other specified hereditary haemolytic anaemias,38911009
+316730019,30,Congenital anaemia from fetal blood loss,53743006
+906541000006110,30,[RFC] Anaemias,906541000006106
+882021000006117,30,Acquired haem. anaemia NOS,597931000000109
+294198014,30,Aplastic anaemia due to infection,191246001
+582791000006119,20,Congenital Heinz-body anaemia,18273004
+2541851000006119,20,Leucoerythroblastic anaemia,2694001
+294109013,20,Toxic haemolytic anaemia,191218003
+453221019,20,Drug-induced autoimmune haemolytic anaemia,309742004
+351107016,20,Biermer's congenital pernicious anaemia,234362006
+787861000006116,20,Hypoplastic anaemia due to drug or chemical substance,267527002
+4417981000006117,20,Refractory anaemia with sideroblasts,128846006
+294007013,20,Enzyme deficiency haemolytic anaemia NOS,38911009
+3922721000006113,20,IDA - Iron deficiency anaemia,87522002
+293956015,20,Anemia due to protein deficiency,85746008
+4761111000006113,20,Folate deficiency anaemia due to malabsorption,191149003
+787871000006111,20,Hypoplastic anaemia due to infection,191246001
+991611000006116,20,Anaemia of chronic disease,191268006
+7826131000006110,20,Iron-refractory iron deficiency anaemia,722005000
+1216755016,20,Perinatal jaundice from hereditary haemolytic anaemias,56921004
+315831000006119,20,[M] Refractory anaemia with excess of blasts with transformation,128848007
+5063391000006113,20,Microcytic anemia,234349007
+293969016,20,Other specified nutritional deficiency anaemia NOS,267513007
+316603018,20,Perinatal jaundice from hereditary haemolytic anaemia,56921004
+294079010,20,Other specified hereditary haemolytic anaemias,38911009
+294232015,10,Secondary sideroblastic anaemia due to disease,191261000
+351074014,10,von Jaksch's anaemia,234345001
+293996018,10,Other enzyme deficiency haemolytic anaemia,38911009
+294599013,10,[X]Aplastic and other anaemias,271737000
+294235018,10,Secondary sideroblastic anaemia due to drugs and toxins,191262007
+4418041000006114,10,Refractory anaemia with excess blasts,128847002
+4761091000006116,10,"Folate deficiency anaemia, drug-induced",191148006
+813851000006110,10,Haemolytic anaemia due to triose phosphate isomerase deficiency,191179005
+294596018,10,[X]Other acquired haemolytic anaemias,4854004
+294231010,9,Pyridoxine-responsive sideroblastic anaemia,191260004
+5063341000006116,9,Anaemia of chronic disorder,234347009
+5887431000006113,9,Normocytic anemia,300980002
+711531000006119,9,Mediterranean anaemia,40108008
+13031551000006111,8,Macrocytic anemia,83414005
+804971000006111,8,Goat's milk anaemia,15332004
+4762111000006118,8,Chronic anemia,191268006
+294602015,8,[X]Other specified aplastic anaemias,306058006
+1815751000006117,7,Refractory anaemia without ring sideroblasts,189509003
+6614301000006114,7,Cold autoimmune haemolytic anaemia,398937006
+351137013,7,Acquired haemolytic anaemia with haemoglobinuria NEC,191222008
+294575013,6,"[X]Other megaloblastic anaemias, not elsewhere classified",53165003
+293966011,6,Other specified other nutritional deficiency anaemia,267513007
+787881000006114,6,Hypoplastic anaemia due to radiation,191247005
+316946018,6,"[X]Other congenital anaemias, not elsewhere classified",63565007
+2938141000006114,6,Anaemia of pregnancy,27342004
+479141000006117,6,Amino-acid deficiency anaemia,85746008
+5063371000006112,6,Anemia of renal disease,234348004
+7826141000006117,6,Iron-refractory iron deficiency anemia,722005000
+4761161000006111,5,Combined B12 and folate deficiency anemia,191154007
+3620051000006119,5,"Congenital dyserythropoietic anaemia, type II",68870007
+3255311000006112,5,Normocytic normochromic anaemia,46737006
+294098012,5,Secondary warm-type haemolytic anaemia,191213007
+787891000006112,5,Hypoplastic anaemia due to toxic cause,191248000
+8212401000006115,4,Anaemia co-occurrent and due to chronic kidney disease stage 3,691421000119108
+363101000006116,4,Non megaloblastic anaemia associated with nutritional deficiency,52565000
+8300841000006112,4,Recurrent anaemia,866381000000109
+294202011,4,Aplastic anaemia due to radiation,191247005
+294115013,4,Non-autoimmune haemolytic anaemia NOS,191216004
+294583019,4,[X]Other anaemias due to enzyme disorders,271737000
+294606017,4,[X]Other sideroblastic anaemias,41841004
+3220231000006118,4,Hypochromic microcytic anaemia,44666001
+11998051000006118,4,X chromosome-linked sideroblastic anaemia,48983004
+3866951000006118,3,Pernicious anemia,84027009
+3514431000006111,3,G6PD deficiency anemia,62403005
+294201016,3,Radiation aplastic anaemia,191247005
+5063401000006110,3,Neonatal anaemia,234350007
+6028441000006112,3,Anaemia during the puerperium,313291009
+294004018,3,Anaemia due to disorders of nucleotide metabolism,191180008
+3220221000006116,3,Hypochromic microcytic anemia,44666001
+294112011,3,Other specified non-autoimmune haemolytic anaemia,191216004
+3922691000006115,3,IDA - Iron deficiency anemia,87522002
+293986010,3,Haemolytic anaemia due to glutathione metabolism disorder,191170009
+4173361000006113,2,Refractory anaemia with ringed sideroblasts (clinical),109998009
+5063661000006113,2,Combined deficiency anaemia,234364007
+3892431000006116,2,Folate deficiency anemia,85649008
+6873191000006118,2,Refractory anaemia with excess blasts-2,415284008
+12735441000006118,2,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with sickle cell anaemia,148601000000109
+2790391000006118,2,Congenital Heinz body haemolytic anaemia,18273004
+156131000006115,2,Scorbutic anaemia,191161006
+477268010,2,Drug-induced enzyme deficiency anaemia,15276008
+2562431000006110,2,Warm autoimmune haemolytic anaemia,3978000
+4417941000006111,2,Refractory anaemia,128845005
+5063281000006117,2,Dilutional anaemia,234346000
+5063841000006110,2,Maternal autoimmune haemolytic anaemia,234381003
+4761131000006119,2,Folate deficiency anaemia due to liver disorders,191150003
+3944001000006113,2,Diamond-Blackfan anaemia,88854002
+988851000006114,2,Anaemias,668381000000100
+356110010,2,"Megaloblastic anaemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness",237617006
+6844061000006114,2,Autoimmune hemolytic anemia,413603009
+12059351000006112,2,Anaemia due to and following chemotherapy,767657005
+3892461000006113,2,Folic acid deficiency anaemia,85649008
+3255321000006116,2,Normocytic normochromic anemia,46737006
+813801000006111,2,Haemolytic anaemia due glutathione metabolism disorder NOS,191170009
+3371441000006112,2,Anaemia following foetal blood loss,53743006
+98611000006117,1,Toxic aplastic anaemia,191248000
+2562461000006118,1,Warm autoimmune hemolytic anemia,3978000
+7615371000006117,1,Anaemia in end stage renal disease,707324008
+2938151000006111,1,Anemia of pregnancy,27342004
+7615331000006115,1,Anaemia in chronic kidney disease,707323002
+2541821000006111,1,Leukoerythroblastic anemia,2694001
+4641521000006110,1,Anemia screening,171201007
+4393301000006114,1,Cold Donath Landsteiner type autoimmune haemolytic anaemia,127057004
+4796481000006115,1,"Maternal anaemia in pregnancy, before birth",199246003
+7615361000006112,1,Anemia in chronic kidney disease,707323002
+4393161000006112,1,Secondary autoimmune haemolytic anaemia,
+590151000006112,1,Constitutional aplastic anaemia without malformation,28975000
+5500771000006119,1,Deficiency anemias,267513007
+3227541000006114,1,Anaemia due to multiple mechanisms,45098004
+3216191000006116,1,Hypochromic anaemia,44452003
+3273911000006114,1,Megaloblastic anaemia due to chronic haemolytic anaemia,47844003
+7684021000006118,1,Microcytic anaemia with liver iron overload,711161006
+294203018,1,Aplastic anaemia due to toxic cause,191248000
+813821000006118,1,Haemolytic anaemia due to glutathione metabolism disorder OS,191170009
+3220211000006112,1,Microcytic hypochromic anemia,44666001
+6352651000006111,1,Iron deficiency anemia secondary to inadequate dietary iron intake,371315009
+7843061000006112,1,Familial hypercholanemia,723360007
+294179012,1,Other specified constitutional aplastic anaemia,267525005
+3785381000006118,1,Anaemia due to unknown mechanism,79035003
+6906661000006112,1,Sickle cell anemia with crisis,417425009

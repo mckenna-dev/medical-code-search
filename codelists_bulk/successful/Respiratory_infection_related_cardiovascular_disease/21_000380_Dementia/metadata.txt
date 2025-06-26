@@ -1,0 +1,10 @@
+Original URL: https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Dementia/Gold_Dementia_codelist_030322.txt
+Downloaded from: https://raw.githubusercontent.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/main/Dementia/Gold_Dementia_codelist_030322.txt
+Codelist Name: Dementia
+Project Title: Respiratory infection related cardiovascular disease
+ERAP Number: 21_000380
+Author: Joseph Lee
+Coding System: Gold
+Year Created: 2020
+Downloaded: 2025-06-25 13:25:36
+File Size: 9851 bytes

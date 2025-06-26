@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 15
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order         Flag_classifyL1 Flag_classifyL2          MedCodeID                                                        Term
+0    318  Arthritis_inflammatory             SLE   a114251000006118  Systemic lupus erythematosus with organ/system involvement
+1    319  Arthritis_inflammatory             SLE         a158442019                   Systemic lupus erythematosus encephalitis
+2    320  Arthritis_inflammatory             SLE  a1728151000006118                   Systemic lupus erythematosus encephalitis

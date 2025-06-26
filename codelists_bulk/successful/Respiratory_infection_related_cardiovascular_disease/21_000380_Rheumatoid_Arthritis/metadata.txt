@@ -1,0 +1,10 @@
+Original URL: https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Gold_RheumArthritis_codelist_090922.txt
+Downloaded from: https://raw.githubusercontent.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/main/Gold_RheumArthritis_codelist_090922.txt
+Codelist Name: Rheumatoid Arthritis
+Project Title: Respiratory infection related cardiovascular disease
+ERAP Number: 21_000380
+Author: Joseph Lee
+Coding System: Gold
+Year Created: 2020
+Downloaded: 2025-06-25 13:28:08
+File Size: 6348 bytes

@@ -1,0 +1,45 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a212251000006113	73888	Postpartum haemorrhage	b47821001
+a1230526013	4613	Bleeding postpartum	b47821001
+a307386017	3939	Postpartum haemorrhage NOS	b47821001
+a15743100000611	3348	Secondary and delayed postpartum haemorrhage	b23171006
+a307368015	2774	Secondary postpartum haemorrhage unspecified	b23171006
+a106221000006115	1135	Third stage haemorrhage	b47236005
+a307357015	592	Other immediate postpartum haemorrhage	b27214003
+a888551000006117	553	Secondary PPH	b23171006
+a307373014	324	Secondary and delayed postpartum haemorrhage NOS	b23171006
+a307372016	313	Delayed AND/OR secondary postpartum haemorrhage	b23171006
+a261005100000011	247	Major postpartum haemorrhage	b1033591000000101
+a888561000006115	198	Post-partum haemorrhage NOS	b638751000000104
+a888541000006119	192	Immediate PPH	b590881000000102
+a50537201	187	Umbilical haemorrhage after birth	b82986004
+a247771000006117	107	Pack to control postnatal vaginal bleeding	b265641004
+a152031000006115	98	Secondary postpartum haemorrhage - delivered with postnatal problem	b200025008
+a3273611000006115	96	PPH - Postpartum hemorrhage	b47821001
+a307356012	92	Third-stage postpartum haemorrhage NOS	b47236005
+a307348014	82	Third-stage postpartum haemorrhage unspecified	b47236005
+a2610011000000111	77	Minor postpartum haemorrhage	b1033571000000100
+a308156017	48	[X]Other immediate postpartum haemorrhage	b47821001
+a106231000006117	39	Third stage haemorrhage	b47236005
+a989261000006116	34	Secondary PPH	b683501000000105
+a307365017	31	Other immediate postpartum haemorrhage NOS	b27214003
+a28821000006115	27	Other immediate postpartum haemorrhage - deliv with p/n prob	b27214003
+a394487015	27	Pack to control postnatal vaginal bleeding	b265641004
+a316522017	25	Umbilical haemorrhage after birth, unspecified	b82986004
+a29071000006115	19	Other immediate postpartum haemorrhage with postnatal prob	b27214003
+a30736001	19	Other immediate postpartum haemorrhage unspecified	b27214003
+a41100601	18	Pack to control postpartum haemorrhage	b275082004
+a894341000006117	18	Umbilical haemorrhage	b82986004
+a5487761000006119	15	Packing to control postnatal vaginal bleeding	b265641004
+a2935991000006111	14	Atonic postpartum haemorrhage	b27214003
+a307352014	14	Third-stage postpartum haemorrhage with postnatal problem	b47236005
+a316530016	12	Umbilical haemorrhage after birth NOS	b82986004
+a316527011	10	Other specified umbilical haemorrhage after birth	b82986004
+a3273601000006118	9	PPH - Postpartum haemorrhage	b47821001
+a3273571000006113	8	Postpartum hemorrhage	b47821001
+a394488013	3	Pack to control postnatal haemorrhage	b265641004
+a8413771000006112	3	Major PPH (postpartum haemorrhage)	b1033591000000101
+a5572531000006117	2	Umbilical haemorrhage	b275359008
+a8413751000006119	2	Minor PPH (postpartum haemorrhage)	b1033571000000100
+a2936001000006112	1	Atonic postpartum hemorrhage	b27214003
+a11903961000006114	1	Delayed AND/OR secondary postpartum hemorrhage	b23171006

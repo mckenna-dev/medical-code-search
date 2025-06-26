@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4
+Columns: 1
+Column names: ['medcode\treadterm\ttype']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                       medcode\treadterm\ttype
+0    14067\t"C reactive protein normal"\t"CRP"
+1  19809\t"C reactive protein abnormal"\t"CRP"
+2    14066\t"Plasma C reactive protein"\t"CRP"

@@ -1,0 +1,3 @@
+	MedCodeId	Observations	Term	category
+0	370766013	100000	Waist/hip ratio	continuous
+1	857651000006113	80000	Waist/hip ratio	continuous

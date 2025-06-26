@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 73
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1             Flag_classifyL2         MedCodeID                              Term
+0    828          Cancer  Connective and soft tissue        a103180017                      Mesothelioma
+1    829          Cancer  Connective and soft tissue  a705211000006111            Mesothelioma of pleura
+2    830          Cancer  Connective and soft tissue        a288840012  Malignant neoplasm of pleura NOS

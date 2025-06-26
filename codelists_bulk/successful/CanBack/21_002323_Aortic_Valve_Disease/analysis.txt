@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 26
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2           MedCodeID                        Term
+0   2604  Cardiovascular  Aortic_valve_D          a112523010      Aortic valve sclerosis
+1   2605  Cardiovascular  Aortic_valve_D         a1232103019       Aortic valve stenosis
+2   2606  Cardiovascular  Aortic_valve_D  a13948561000006114  Aortic valve bioprosthesis

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 6
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                                             Term  SNOMED_CT_Concept_ID
+0  134381000000119       2528435   Serum FSH (follicle stimulating hormone) level      1023191000000105
+1        457344018        156108  Plasma FSH (follicle stimulating hormone) level      1023201000000107
+2  763361000006116          9173         FSH (follicle stimulating hormone) level      1027161000000108

@@ -1,0 +1,115 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+540,Cancer,Bone,a380093012,Sarcoma of bone and connective tissue,L1:Cancer_L2:Bone,B3...12
+541,Cancer,Bone,a403691010,Malignant neoplasm of bone and articular cartilage,L1:Cancer_L2:Bone,B30..00
+542,Cancer,Bone,a288869015,Malignant neoplasm of bones of skull and face,L1:Cancer_L2:Bone,B300.00
+543,Cancer,Bone,a155228014,Malignant neoplasm of ethmoid bone,L1:Cancer_L2:Bone,B300000
+544,Cancer,Bone,a155259011,Malignant neoplasm of frontal bone,L1:Cancer_L2:Bone,B300100
+545,Cancer,Bone,a288872010,Malignant neoplasm of malar bone,L1:Cancer_L2:Bone,B300200
+546,Cancer,Bone,a155402013,Malignant neoplasm of nasal bone,L1:Cancer_L2:Bone,B300300
+547,Cancer,Bone,a155421017,Malignant neoplasm of occipital bone,L1:Cancer_L2:Bone,B300400
+548,Cancer,Bone,a288875012,Malignant neoplasm of orbital bone,L1:Cancer_L2:Bone,B300500
+549,Cancer,Bone,a155444019,Malignant neoplasm of parietal bone,L1:Cancer_L2:Bone,B300600
+550,Cancer,Bone,a155582012,Malignant neoplasm of sphenoid bone,L1:Cancer_L2:Bone,B300700
+551,Cancer,Bone,a155607014,Malignant neoplasm of temporal bone,L1:Cancer_L2:Bone,B300800
+552,Cancer,Bone,a155681013,Malignant neoplasm of zygomatic bone,L1:Cancer_L2:Bone,B300900
+553,Cancer,Bone,a155370019,Malignant neoplasm of maxilla,L1:Cancer_L2:Bone,B300A00
+554,Cancer,Bone,a2475564017,Malignant neoplasm of turbinate,L1:Cancer_L2:Bone,B300B00
+555,Cancer,Bone,a155677013,Malignant neoplasm of vomer,L1:Cancer_L2:Bone,B300C00
+556,Cancer,Bone,a288883018,Malignant neoplasm of bones of skull and face NOS,L1:Cancer_L2:Bone,B300z00
+557,Cancer,Bone,a155368011,Malignant neoplasm of mandible,L1:Cancer_L2:Bone,B301.00
+558,Cancer,Bone,a720341000006115,Malignant neoplasm of vertebral column,L1:Cancer_L2:Bone,B302.00
+559,Cancer,Bone,a288885013,Malignant neoplasm of cervical vertebra,L1:Cancer_L2:Bone,B302000
+560,Cancer,Bone,a288886014,Malignant neoplasm of thoracic vertebra,L1:Cancer_L2:Bone,B302100
+561,Cancer,Bone,a288887017,Malignant neoplasm of lumbar vertebra,L1:Cancer_L2:Bone,B302200
+562,Cancer,Bone,a288888010,Malignant neoplasm of vertebral column NOS,L1:Cancer_L2:Bone,B302z00
+563,Cancer,Bone,a288889019,"Malignant neoplasm of ribs, sternum and clavicle",L1:Cancer_L2:Bone,B303.00
+564,Cancer,Bone,a155495017,Malignant neoplasm of rib,L1:Cancer_L2:Bone,B303000
+565,Cancer,Bone,a155592016,Malignant neoplasm of sternum,L1:Cancer_L2:Bone,B303100
+566,Cancer,Bone,a155191015,Malignant neoplasm of clavicle,L1:Cancer_L2:Bone,B303200
+567,Cancer,Bone,a288894019,Malignant neoplasm of costal cartilage,L1:Cancer_L2:Bone,B303300
+568,Cancer,Bone,a726631000006118,Malignant neoplasm of costo-vertebral joint,L1:Cancer_L2:Bone,B303400
+569,Cancer,Bone,a288896017,Malignant neoplasm of xiphoid process,L1:Cancer_L2:Bone,B303500
+570,Cancer,Bone,a288897014,"Malignant neoplasm of rib, sternum and clavicle NOS",L1:Cancer_L2:Bone,B303z00
+571,Cancer,Bone,a288898016,Malignant neoplasm of scapula and long bones of upper arm,L1:Cancer_L2:Bone,B304.00
+572,Cancer,Bone,a155503017,Malignant neoplasm of scapula,L1:Cancer_L2:Bone,B304000
+573,Cancer,Bone,a155068017,Malignant neoplasm of acromion,L1:Cancer_L2:Bone,B304100
+574,Cancer,Bone,a288901015,Malignant neoplasm of humerus,L1:Cancer_L2:Bone,B304200
+575,Cancer,Bone,a155483017,Malignant neoplasm of radius,L1:Cancer_L2:Bone,B304300
+576,Cancer,Bone,a155641018,Malignant neoplasm of ulna,L1:Cancer_L2:Bone,B304400
+577,Cancer,Bone,a729541000006117,Malig neop of scapula and long bones of upper arm NOS,L1:Cancer_L2:Bone,B304z00
+578,Cancer,Bone,a403697014,Malignant neoplasm of hand bones,L1:Cancer_L2:Bone,B305.00
+579,Cancer,Bone,a380145016,Malignant neoplasm of carpal bones,L1:Cancer_L2:Bone,B305.11
+580,Cancer,Bone,a380146015,Malignant neoplasm of metacarpal bones,L1:Cancer_L2:Bone,B305.12
+581,Cancer,Bone,a288909018,Malignant neoplasm of carpal bone - scaphoid,L1:Cancer_L2:Bone,B305000
+582,Cancer,Bone,a288910011,Malignant neoplasm of carpal bone - lunate,L1:Cancer_L2:Bone,B305100
+583,Cancer,Bone,a288917014,Malignant neoplasm of first metacarpal bone,L1:Cancer_L2:Bone,B305800
+584,Cancer,Bone,a288919012,Malignant neoplasm of third metacarpal bone,L1:Cancer_L2:Bone,B305A00
+585,Cancer,Bone,a288921019,Malignant neoplasm of fifth metacarpal bone,L1:Cancer_L2:Bone,B305C00
+586,Cancer,Bone,a288922014,Malignant neoplasm of phalanges of hand,L1:Cancer_L2:Bone,B305D00
+587,Cancer,Bone,a288923016,Malignant neoplasm of hand bones NOS,L1:Cancer_L2:Bone,B305z00
+588,Cancer,Bone,a288924010,"Malignant neoplasm of pelvic bones, sacrum and coccyx",L1:Cancer_L2:Bone,B306.00
+589,Cancer,Bone,a155294016,Malignant neoplasm of ilium,L1:Cancer_L2:Bone,B306000
+590,Cancer,Bone,a155308013,Malignant neoplasm of ischium,L1:Cancer_L2:Bone,B306100
+591,Cancer,Bone,a155479017,Malignant neoplasm of pubis,L1:Cancer_L2:Bone,B306200
+592,Cancer,Bone,a288928013,Malignant neoplasm of sacral vertebra,L1:Cancer_L2:Bone,B306300
+593,Cancer,Bone,a288929017,Malignant neoplasm of coccygeal vertebra,L1:Cancer_L2:Bone,B306400
+594,Cancer,Bone,a2549374014,Malignant sacral teratoma,L1:Cancer_L2:Bone,B306500
+595,Cancer,Bone,a288930010,"Malignant neoplasm of pelvis, sacrum or coccyx NOS",L1:Cancer_L2:Bone,B306z00
+596,Cancer,Bone,a288931014,Malignant neoplasm of long bones of leg,L1:Cancer_L2:Bone,B307.00
+597,Cancer,Bone,a155246015,Malignant neoplasm of femur,L1:Cancer_L2:Bone,B307000
+598,Cancer,Bone,a155247012,Malignant neoplasm of fibula,L1:Cancer_L2:Bone,B307100
+599,Cancer,Bone,a155624015,Malignant neoplasm of tibia,L1:Cancer_L2:Bone,B307200
+600,Cancer,Bone,a288935017,Malignant neoplasm of long bones of leg NOS,L1:Cancer_L2:Bone,B307z00
+601,Cancer,Bone,a403698016,Malignant neoplasm of short bones of leg,L1:Cancer_L2:Bone,B308.00
+602,Cancer,Bone,a155604019,Malignant neoplasm of talus,L1:Cancer_L2:Bone,B308100
+603,Cancer,Bone,a288941012,Malignant neoplasm of calcaneum,L1:Cancer_L2:Bone,B308200
+604,Cancer,Bone,a288942017,Malignant neoplasm of medial cuneiform,L1:Cancer_L2:Bone,B308300
+605,Cancer,Bone,a288947011,Malignant neoplasm of first metatarsal bone,L1:Cancer_L2:Bone,B308800
+606,Cancer,Bone,a288950014,Malignant neoplasm of fourth metatarsal bone,L1:Cancer_L2:Bone,B308B00
+607,Cancer,Bone,a288952018,Malignant neoplasm of phalanges of foot,L1:Cancer_L2:Bone,B308D00
+608,Cancer,Bone,a288953011,Malignant neoplasm of short bones of leg NOS,L1:Cancer_L2:Bone,B308z00
+609,Cancer,Bone,a720031000006110,Malignant neoplasm/overlap lesion/bone+articulr cartilage,L1:Cancer_L2:Bone,B30W.00
+610,Cancer,Bone,a720021000006112,"Malignant neoplasm/bones+articular cartilage/limb,unspfd",L1:Cancer_L2:Bone,B30X.00
+611,Cancer,Bone,a288959010,Malignant neoplasm of bone and articular cartilage NOS,L1:Cancer_L2:Bone,B30z.00
+612,Cancer,Bone,a2164653019,Osteosarcoma,L1:Cancer_L2:Bone,B30z000
+613,Cancer,Bone,a1211679013,Reticulosarcoma,L1:Cancer_L2:Bone,B600.00
+614,Cancer,Bone,a289581017,Reticulosarcoma of unspecified site,L1:Cancer_L2:Bone,B600000
+615,Cancer,Bone,a310801000006117,[M]Juxtacortical osteogenic sarcoma,L1:Cancer_L2:Bone,BBV..11
+616,Cancer,Bone,a315221000006118,[M]Periosteal osteogenic sarcoma,L1:Cancer_L2:Bone,BBV..13
+617,Cancer,Bone,a1222660012,[M]Osteosarcoma NOS,L1:Cancer_L2:Bone,BBV1.00
+618,Cancer,Bone,a314351000006117,[M]Osteoblastic sarcoma,L1:Cancer_L2:Bone,BBV1.11
+619,Cancer,Bone,a314401000006113,[M]Osteochondrosarcoma,L1:Cancer_L2:Bone,BBV1.12
+620,Cancer,Bone,a314451000006112,[M]Osteogenic sarcoma NOS,L1:Cancer_L2:Bone,BBV1.13
+621,Cancer,Bone,a306661000006117,[M]Chondroblastic osteosarcoma,L1:Cancer_L2:Bone,BBV2.00
+622,Cancer,Bone,a308491000006111,[M]Fibroblastic osteosarcoma,L1:Cancer_L2:Bone,BBV3.00
+623,Cancer,Bone,a317411000006116,[M]Telangiectatic osteosarcoma,L1:Cancer_L2:Bone,BBV4.00
+624,Cancer,Bone,a314501000006114,[M]Osteosarcoma in Paget's disease of bone,L1:Cancer_L2:Bone,BBV5.00
+625,Cancer,Bone,a291778013,[M] Small cell osteosarcoma,L1:Cancer_L2:Bone,BBVA.00
+626,Cancer,Bone,a291779017,[M]Osteoma or osteosarcoma NOS,L1:Cancer_L2:Bone,BBVz.00
+627,Cancer,Bone,a309131000006114,"[M]Giant cell tumour of bone, malignant",L1:Cancer_L2:Bone,BBX1.00
+628,Cancer,Bone,a309071000006111,[M]Giant cell bone sarcoma,L1:Cancer_L2:Bone,BBX1.11
+629,Cancer,Bone,a314421000006115,"[M]Osteoclastoma, malignant",L1:Cancer_L2:Bone,BBX1.12
+630,Cancer,Bone,a291795017,[M]Miscellaneous bone tumours,L1:Cancer_L2:Bone,BBY..00
+631,Cancer,Bone,a308351000006112,[M]Ewing's sarcoma,L1:Cancer_L2:Bone,BBY0.00
+632,Cancer,Bone,a308001000006111,[M]Endothelial bone sarcoma,L1:Cancer_L2:Bone,BBY0.11
+633,Cancer,Bone,a291801014,[M]Miscellaneous bone tumour NOS,L1:Cancer_L2:Bone,BBYz.00
+634,Cancer,Bone,a310571000006113,[M]Intraosseous carcinoma,L1:Cancer_L2:Bone,BBZ2.11
+635,Cancer,Bone,a304481000006119,"[M]Adamantinoma, malignant",L1:Cancer_L2:Bone,BBZG.11
+636,Cancer,Bone,a1231451015,[M]Osteoblastoma,L1:Cancer_L2:Bone,BBV8.00
+637,Cancer,Bone,a291787016,[M]Giant cell tumours,L1:Cancer_L2:Bone,BBX..00
+638,Cancer,Bone,a291790010,[M]Giant cell tumour of bone NOS,L1:Cancer_L2:Bone,BBX0.00
+639,Cancer,Bone,a291794018,[M]Giant cell tumour NOS,L1:Cancer_L2:Bone,BBXz.00
+640,Cancer,Bone,a155449012,Malignant neoplasm of patella,L1:Cancer_L2:Bone,B308000
+641,Cancer,Bone,a288948018,Malignant neoplasm of second metatarsal bone,L1:Cancer_L2:Bone,B308900
+642,Cancer,Bone,a722761000006119,Malignant neoplasm of pelvis,L1:Cancer_L2:Bone,B553.00
+643,Cancer,Bone,a289445018,Malignant neoplasm of pelvis NOS,L1:Cancer_L2:Bone,B553z00
+644,Cancer,Bone,a2870704010,Osteomyelofibrosis,L1:Cancer_L2:Bone,B6y1.12
+645,Cancer,Bone,a309061000006116,[M]Giant cell and spindle cell carcinoma,L1:Cancer_L2:Bone,BB1B.00
+646,Cancer,Bone,a309081000006114,[M]Giant cell carcinoma,L1:Cancer_L2:Bone,BB1C.00
+647,Cancer,Bone,a315161000006117,[M]Parosteal osteosarcoma,L1:Cancer_L2:Bone,BBV..12
+648,Cancer,Bone,a304471000006117,[M]Adamantinoma of long bones,L1:Cancer_L2:Bone,BBY1.00
+649,Cancer,Bone,a457307018,[M]Tibial adamantinoma,L1:Cancer_L2:Bone,BBY1.11
+650,Cancer,Bone,a292111015,Malignant neoplasm of skeletal system,L1:Cancer_L2:Bone,Byu3.00
+651,Cancer,Bone,a396481000006110,Malignant neoplasm of bone and articular cartilage of limb,L1:Cancer_L2:Bone,Byu3100
+652,Cancer,Bone,a396551000006118,Overlapping malignant neoplasm of bone and articular cartilage,L1:Cancer_L2:Bone,Byu3200
+653,Cancer,Bone,a396471000006112,"[X]Malignant neoplasm/bone+articular cartilage, unspecified",L1:Cancer_L2:Bone,Byu3300

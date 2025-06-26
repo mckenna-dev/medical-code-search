@@ -1,0 +1,78 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+Arthropathy due to type 2 diabetes mellitus (disorder),b314903002,Codes for diabetes type 2,a459309011,8,Non-insulin dependent diabetes mellitus with arthropathy
+Arthropathy due to type 2 diabetes mellitus (disorder),b314903002,Codes for diabetes type 2,a459310018,200,Type 2 diabetes mellitus with arthropathy
+Arthropathy due to type 2 diabetes mellitus (disorder),b314903002,Codes for diabetes type 2,a459311019,30,Type II diabetes mellitus with arthropathy
+Arthropathy due to type 2 diabetes mellitus (disorder),b314903002,Codes for diabetes type 2,a84491000006118,10,Type 2 diabetes mellitus with arthropathy
+Arthropathy due to type 2 diabetes mellitus (disorder),b314903002,Codes for diabetes type 2,a84861000006112,2,Type II diabetes mellitus with arthropathy
+Hyperosmolar non-ketotic state due to type 2 diabetes mellitus (disorder),b395204000,Codes for diabetes type 2,a1488898011,1000,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+Hyperosmolar non-ketotic state due to type 2 diabetes mellitus (disorder),b395204000,Codes for diabetes type 2,a850691000006118,400,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+Hyperosmolar non-ketotic state due to type 2 diabetes mellitus (disorder),b395204000,Codes for diabetes type 2,a1667891000000113,70,Hyperosmolar non-ketotic state in type II diabetes mellitus
+Hyperosmolar non-ketotic state due to type 2 diabetes mellitus (disorder),b395204000,Codes for diabetes type 2,a14079871000006119,3,Hyperosmolar non-ketotic state due to type 2 diabetes mellitus
+Ketoacidosis due to type 2 diabetes mellitus (disorder),b421750000,Codes for diabetes type 2,a616531000006116,700,"Diabetes mellitus, adult onset, with ketoacidosis"
+Ketoacidosis due to type 2 diabetes mellitus (disorder),b421750000,Codes for diabetes type 2,a928581000006111,2000,Ketoacidosis in type 2 diabetes mellitus
+Ketoacidosis due to type 2 diabetes mellitus (disorder),b421750000,Codes for diabetes type 2,a928591000006114,70,Type II diabetes mellitus with ketoacidosis
+Ketoacidosis due to type 2 diabetes mellitus (disorder),b421750000,Codes for diabetes type 2,a6977421000006110,2,Ketoacidosis in type II diabetes mellitus
+Ketoacidosis due to type 2 diabetes mellitus (disorder),b421750000,Codes for diabetes type 2,a14083991000006115,3,Ketoacidosis due to type 2 diabetes mellitus
+Type II diabetes mellitus uncontrolled (finding),b443694000,Codes for diabetes type 2,a292589019,200,Type II diabetes mellitus - poor control
+Type II diabetes mellitus uncontrolled (finding),b443694000,Codes for diabetes type 2,a292590011,10000,Type II diabetes mellitus poorly controlled
+Type II diabetes mellitus uncontrolled (finding),b443694000,Codes for diabetes type 2,a84481000006116,1000,Type 2 diabetes mellitus - poor control
+Type II diabetes mellitus uncontrolled (finding),b443694000,Codes for diabetes type 2,a84851000006110,600,Type II diabetes mellitus - poor control
+Type II diabetes mellitus uncontrolled (finding),b443694000,Codes for diabetes type 2,a281171000006119,8000,Type II diabetes mellitus uncontrolled
+Type II diabetes mellitus uncontrolled (finding),b443694000,Codes for diabetes type 2,a7281511000006118,3,Type 2 diabetes mellitus uncontrolled
+Brittle type II diabetes mellitus (finding),b445353002,Codes for diabetes type 2,a7306751000006110,2,Brittle type 2 diabetes mellitus
+Diabetes mellitus in remission (disorder),b703136005,Codes for diabetes type 2,a2287971000000119,20000,Diabetes mellitus in remission
+Neuropathic ulcer of toe due to type 2 diabetes mellitus (disorder),b140381000119104,Codes for diabetes type 2,a8044171000006110,2,Neuropathic toe ulcer due to type 2 diabetes mellitus
+Diabetes mellitus type 2 without retinopathy (disorder),b1481000119100,Codes for diabetes type 2,a7968751000006116,2,Diabetes mellitus type 2 without retinopathy
+Multiple complications due to type 2 diabetes mellitus (disorder),b190388001,Codes for diabetes type 2,a292576013,30,Type II diabetes mellitus with multiple complications
+Multiple complications due to type 2 diabetes mellitus (disorder),b190388001,Codes for diabetes type 2,a292577016,2000,Type 2 diabetes mellitus with multiple complications
+Multiple complications due to type 2 diabetes mellitus (disorder),b190388001,Codes for diabetes type 2,a84541000006111,200,Type 2 diabetes mellitus with multiple complications
+Multiple complications due to type 2 diabetes mellitus (disorder),b190388001,Codes for diabetes type 2,a84911000006119,3,Type II diabetes mellitus with multiple complications
+Multiple complications due to type 2 diabetes mellitus (disorder),b190388001,Codes for diabetes type 2,a280581000006118,300,Non-insulin-dependent diabetes mellitus with multiple complications
+Multiple complications due to type 2 diabetes mellitus (disorder),b190388001,Codes for diabetes type 2,a14071211000006113,1,Multiple complications due to type 2 diabetes mellitus
+Type II diabetes mellitus with ulcer (disorder),b190389009,Codes for diabetes type 2,a292579018,1000,Type 2 diabetes mellitus with ulcer
+Type II diabetes mellitus with ulcer (disorder),b190389009,Codes for diabetes type 2,a292581016,40,Type II diabetes mellitus with ulcer
+Type II diabetes mellitus with ulcer (disorder),b190389009,Codes for diabetes type 2,a84631000006119,80,Type 2 diabetes mellitus with ulcer
+Type II diabetes mellitus with ulcer (disorder),b190389009,Codes for diabetes type 2,a85001000006117,60,Type II diabetes mellitus with ulcer
+Type II diabetes mellitus with ulcer (disorder),b190389009,Codes for diabetes type 2,a280551000006114,300,Non-insulin-dependent diabetes mellitus with ulcer
+Insulin treated type 2 diabetes mellitus (disorder),b237599002,Codes for diabetes type 2,a1223147012,2000,Insulin treated Type II diabetes mellitus
+Insulin treated type 2 diabetes mellitus (disorder),b237599002,Codes for diabetes type 2,a1223148019,1000,Insulin treated non-insulin dependent diabetes mellitus
+Insulin treated type 2 diabetes mellitus (disorder),b237599002,Codes for diabetes type 2,a840951000006119,40000,Insulin treated Type 2 diabetes mellitus
+Insulin treated type 2 diabetes mellitus (disorder),b237599002,Codes for diabetes type 2,a841351000006110,1000,Insulin treated Type II diabetes mellitus
+Insulin treated type 2 diabetes mellitus (disorder),b237599002,Codes for diabetes type 2,a914391000006116,500000,Insulin treated Type 2 diabetes mellitus
+Insulin treated type 2 diabetes mellitus (disorder),b237599002,Codes for diabetes type 2,a5109461000006115,2,Diabetes type 2 on insulin
+Type II diabetes mellitus without complication (disorder),b313436004,Codes for diabetes type 2,a457328010,5000,Non-insulin-dependent diabetes mellitus without complication
+Type II diabetes mellitus without complication (disorder),b313436004,Codes for diabetes type 2,a457329019,9000,Type 2 diabetes mellitus without complication
+Type II diabetes mellitus without complication (disorder),b313436004,Codes for diabetes type 2,a457330012,900,Type II diabetes mellitus without complication
+Type II diabetes mellitus without complication (disorder),b313436004,Codes for diabetes type 2,a84641000006112,80,Type 2 diabetes mellitus without complication
+Type II diabetes mellitus without complication (disorder),b313436004,Codes for diabetes type 2,a85011000006119,50,Type II diabetes mellitus without complication
+Type II diabetes mellitus without complication (disorder),b313436004,Codes for diabetes type 2,a616511000006110,70000,"Diabetes mellitus, adult onset, no mention of complication"
+Peripheral angiopathy due to type 2 diabetes mellitus (disorder),b314902007,Codes for diabetes type 2,a459306016,50,Type II diabetes mellitus with peripheral angiopathy
+Peripheral angiopathy due to type 2 diabetes mellitus (disorder),b314902007,Codes for diabetes type 2,a459308015,200,Type 2 diabetes mellitus with peripheral angiopathy
+Peripheral angiopathy due to type 2 diabetes mellitus (disorder),b314902007,Codes for diabetes type 2,a84591000006119,6,Type 2 diabetes mellitus with peripheral angiopathy
+Peripheral angiopathy due to type 2 diabetes mellitus (disorder),b314902007,Codes for diabetes type 2,a84961000006116,20,Type II diabetes mellitus with peripheral angiopathy
+Peripheral angiopathy due to type 2 diabetes mellitus (disorder),b314902007,Codes for diabetes type 2,a280561000006111,60,Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+Type II diabetes mellitus with neuropathic arthropathy (disorder),b314904008,Codes for diabetes type 2,a459312014,30,Type II diabetes mellitus with neuropathic arthropathy
+Type II diabetes mellitus with neuropathic arthropathy (disorder),b314904008,Codes for diabetes type 2,a459313016,800,Type 2 diabetes mellitus with neuropathic arthropathy
+Type II diabetes mellitus with neuropathic arthropathy (disorder),b314904008,Codes for diabetes type 2,a84571000006115,20,Type 2 diabetes mellitus with neuropathic arthropathy
+Type II diabetes mellitus with neuropathic arthropathy (disorder),b314904008,Codes for diabetes type 2,a84941000006115,10,Type II diabetes mellitus with neuropathic arthropathy
+Type II diabetes mellitus with neuropathic arthropathy (disorder),b314904008,Codes for diabetes type 2,a281181000006116,20,Non-insulin dependent diabetes mellitus with neuropathic arthropathy
+Persistent microalbuminuria due to type 2 diabetes mellitus (disorder),b420715001,Codes for diabetes type 2,a928561000006118,50000,Persistent microalbuminuria associated with type 2 diabetes mellitus
+Persistent microalbuminuria due to type 2 diabetes mellitus (disorder),b420715001,Codes for diabetes type 2,a928571000006113,2000,Type II diabetes mellitus with persistent microalbuminuria
+Persistent microalbuminuria due to type 2 diabetes mellitus (disorder),b420715001,Codes for diabetes type 2,a14083811000006118,2000,Persistent microalbuminuria due to type 2 diabetes mellitus
+Ketoacidotic coma due to type 2 diabetes mellitus (disorder),b421847006,Codes for diabetes type 2,a616541000006114,20,"Diabetes mellitus, adult onset, with ketoacidotic coma"
+Ketoacidotic coma due to type 2 diabetes mellitus (disorder),b421847006,Codes for diabetes type 2,a928601000006118,40,Ketoacidotic coma in type 2 diabetes mellitus
+Ketoacidotic coma due to type 2 diabetes mellitus (disorder),b421847006,Codes for diabetes type 2,a928611000006115,4,Ketoacidotic coma in type II diabetes mellitus
+Ketoacidotic coma due to type 2 diabetes mellitus (disorder),b421847006,Codes for diabetes type 2,a12704991000006114,1,Ketoacidotic coma in type 2 diabetes mellitus
+Disorder due to type 2 diabetes mellitus (disorder),b422014003,Codes for diabetes type 2,a616501000006112,600,Disorder due to type 2 diabetes mellitus
+Diabetes mellitus type 2 (disorder),b44054006,Codes for diabetes type 2,a73466011,100000,Non-insulin dependent diabetes mellitus
+Diabetes mellitus type 2 (disorder),b44054006,Codes for diabetes type 2,a197761014,20000000,Type 2 diabetes mellitus
+Diabetes mellitus type 2 (disorder),b44054006,Codes for diabetes type 2,a493773010,40000,NIDDM - Non-insulin dependent diabetes mellitus
+Diabetes mellitus type 2 (disorder),b44054006,Codes for diabetes type 2,a493774016,600000,Type II diabetes mellitus
+Diabetes mellitus type 2 (disorder),b44054006,Codes for diabetes type 2,a84471000006119,200000,Type 2 diabetes mellitus
+Diabetes mellitus type 2 (disorder),b44054006,Codes for diabetes type 2,a84841000006113,50000,Type II diabetes mellitus
+Diabetes mellitus type 2 (disorder),b44054006,Codes for diabetes type 2,a223291000000111,20000,Maturity onset diabetes
+Diabetes mellitus type 2 (disorder),b44054006,Codes for diabetes type 2,a280571000006116,700000,Non-insulin dependent diabetes mellitus
+Diabetes mellitus type 2 (disorder),b44054006,Codes for diabetes type 2,a3209431000006116,3,Diabetes mellitus type II
+Diabetes mellitus type 2 (disorder),b44054006,Codes for diabetes type 2,a3209441000006114,200,Diabetes mellitus type 2
+Type II diabetes mellitus in remission (disorder),b703138006,Codes for diabetes type 2,a2288061000000111,10000,Type II diabetes mellitus in remission
+Type II diabetes mellitus in remission (disorder),b703138006,Codes for diabetes type 2,a2288071000000116,8000,Type 2 diabetes mellitus in remission

@@ -1,0 +1,3 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a58805016	300000	Iron deficiency	35240004
+a5063191000006111	200	Iron deficiency without anaemia	234340006

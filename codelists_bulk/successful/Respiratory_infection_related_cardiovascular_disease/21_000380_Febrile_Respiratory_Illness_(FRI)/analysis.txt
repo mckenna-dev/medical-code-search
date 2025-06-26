@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 355
+Columns: 1
+Column names: ['readterm\tcount\tpercentage_of_coh']
+Has med_code_id: False
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                readterm\tcount\tpercentage_of_coh
+0  Chest infection NOS\t283700\t10.699934902757695
+1       Chest infection\t255955\t9.653513704742142
+2    Sore throat symptom\t251794\t9.49657881179052

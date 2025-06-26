@@ -1,0 +1,8 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+101090,,,,1106,223,0,0,147F.00,History of Parkinson's disease,December 2010
+96860,,,,44,4,0,0,F11x900,Cerebral degeneration in Parkinson's disease,May 2009
+4321,,,,107911,7199,3,0,F12..00,Parkinson's disease,February 2009
+9509,,,,2051,157,0,0,Eu02300,[X]Dementia in Parkinson's disease,February 2009
+14912,,,,5865,187,0,0,F12z.00,Parkinson's disease NOS,February 2009
+106402,,,,116,332,0,0,8T06.00,Referral to Parkinson's service,June 2013
+108559,,,,1,2,0,0,8T06000,Referral to community Parkinson's service,August 2014

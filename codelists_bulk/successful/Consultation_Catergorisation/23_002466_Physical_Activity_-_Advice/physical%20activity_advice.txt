@@ -1,0 +1,32 @@
+MedCodeId,Observations,Term,SnomedCTConceptId
+a240861000006115,10000000,Patient advised about exercise,183073003
+a818031000006119,8000000,Health education - exercise,304507003
+a936021000006118,2000000,Exercise education,304507003
+a265093017,40000,Pregnancy exercise advice,171056002
+a1590481000006111,30000,Advice to aim for 30 minutes of moderate activity on 5 days or more each week,286321000000102
+a1485132013,20000,Target physical activity,391105003
+a1485055014,20000,Osteoporosis - exercise advice,391026001
+a1627181000006119,10000,Patient given written advice on benefits of physical activity,429778002
+a1783961000006115,8000,Provision of advice about aerobic exercise,762227003
+a1783971000006110,6000,Provision of advice about muscle strengthening exercise,736786002
+a918521000006117,4000,Patient advised re exercise,918521000006101
+a1753321000006116,4000,"Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity",756021000000103
+a5929971000006113,3000,Advice about exercise,304507003
+a2160131014,3000,Physical activity target moderate exercise,408581006
+a2160130010,2000,Physical activity target light exercise,408580007
+a5647271000006114,2000,Recommendation to exercise,281090004
+a4915601000006111,1000,Recommendation regarding activity,223415003
+a2347341000000110,700,Education about chair based exercise programme,913431000000101
+a2160128013,600,Physical activity target minimal exercise,408578001
+a4640201000006112,600,Pregnancy exercise education,171056002
+a5647281000006112,400,Advice to exercise,281090004
+a1753331000006118,400,"Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity, consider drugs",756041000000105
+a1753341000006111,300,"Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity, consider drugs, consider surgery",756061000000106
+a2160129017,300,Physical activity target strenuous exercise,408579009
+a6517651000006118,100,Osteoporosis exercise education,391026001
+a7729481000006110,40,Combined healthy eating and physical education programme,715282001
+a4916051000006113,40,Recommendation to undertake activity,223440005
+a6455431000006119,1,Prescribed activity/exercise education,386463000
+a923211000006110,1,Pregnancy exercise advice,923211000006106
+a5929981000006111,1,Exercise health education,304507003
+a12619901000006110,1,Patient given written advice under PACAP (Physical Activity Clinical Advice Pad) programme,1105751000000100

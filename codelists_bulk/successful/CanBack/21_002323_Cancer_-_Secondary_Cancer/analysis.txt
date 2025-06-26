@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 141
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1   Flag_classifyL2         MedCodeID                                                         Term
+0   2084          Cancer  Secondary cancer        a459732012                                         Pain from metastases
+1   2085          Cancer  Secondary cancer  a151331000006114                        Secondary malignant neoplasm of liver
+2   2086          Cancer  Secondary cancer        a406333010  Secondary and unspecified malignant neoplasm of lymph nodes

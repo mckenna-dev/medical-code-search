@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 529
+Columns: 1
+Column names: ['v1\tmedcode\treadcode\tclinicalevents\treadterm']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                             v1\tmedcode\treadcode\tclinicalevents\treadterm
+0  176\t34932\t"G543400"\t443\t"Pulmonary valve stenosis with insufficiency"
+1          252\t37995\t"790..11"\t47\t"Heart atria and ventricle operations"
+2                 616\t113950\t"P711.11"\t1\t"Preductal hypoplasia of aorta"

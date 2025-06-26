@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                  Term  SNOMED_CT_Concept_ID
+0   183211000006119      71149602  Red blood cell count      1022451000000103
+1  6274471000006116           268  Red blood cell count             365625004
+2         257241013           103         RBC count NOS      1022451000000103

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 100
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\trenal_failure']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                              \tMedCodeId\tObservations\tTerm\trenal_failure
+0      0\ta618391000000118\t800\tCKD stage 1 with proteinuria\trenal_failure
+1  1\ta618401000000115\t1000\tCKD stage 1 without proteinuria\trenal_failure
+2     2\ta618411000000118\t2000\tCKD stage 2 with proteinuria\trenal_failure

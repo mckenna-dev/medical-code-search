@@ -1,0 +1,15 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2007,Cancer,Other haematological,a826261000006110,"Hodgkin's disease, lymphocytic-histiocytic predominance",L1:Cancer_L2:Other haematological,B613.00
+2008,Cancer,Other haematological,a826991000006114,"Hodgkin's, lymphocytic-histiocytic predominance unspec site",L1:Cancer_L2:Other haematological,B613000
+2009,Cancer,Other haematological,a826951000006115,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck",L1:Cancer_L2:Other haematological,B613100
+2010,Cancer,Other haematological,a826941000006117,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes",L1:Cancer_L2:Other haematological,B613200
+2011,Cancer,Other haematological,a826921000006112,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node",L1:Cancer_L2:Other haematological,B613300
+2012,Cancer,Other haematological,a826911000006116,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg",L1:Cancer_L2:Other haematological,B613500
+2013,Cancer,Other haematological,a826931000006110,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes",L1:Cancer_L2:Other haematological,B613600
+2014,Cancer,Other haematological,a289657018,"Hodgkin's, lymphocytic-histiocytic predominance of spleen",L1:Cancer_L2:Other haematological,B613700
+2015,Cancer,Other haematological,a826961000006118,"Hodgkin's, lymphocytic-histiocytic pred of multiple sites",L1:Cancer_L2:Other haematological,B613800
+2016,Cancer,Other haematological,a289659015,"Hodgkin's, lymphocytic-histiocytic predominance NOS",L1:Cancer_L2:Other haematological,B613z00
+2017,Cancer,Other haematological,a289713010,Other malignant neoplasm of lymphoid and histiocytic tissue,L1:Cancer_L2:Other haematological,B62..00
+2018,Cancer,Other haematological,a1815251000006112,Sarcoma of dendritic cells,L1:Cancer_L2:Other haematological,B62A.00
+2019,Cancer,Other haematological,a289826016,Malignant immunoproliferative small intestinal disease,L1:Cancer_L2:Other haematological,B62x500
+2020,Cancer,Other haematological,a414253015,Maltoma,L1:Cancer_L2:Other haematological,B627911

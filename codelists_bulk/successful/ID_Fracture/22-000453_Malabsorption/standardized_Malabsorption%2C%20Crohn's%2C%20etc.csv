@@ -1,0 +1,56 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+6663,,,,496,34,14,0,J69y.00,Other intestinal malabsorption,February 2009
+11934,,,,898,50,0,0,J69yz13,Malabsorption syndrome NOS,February 2009
+42715,,,,219,2,0,0,J69z.00,Intestinal malabsorption NOS,February 2009
+9355,,,,2267,218,0,0,J69..00,Intestinal malabsorption,February 2009
+28476,,,,600,3,0,0,J400200,Crohn's disease of the terminal ileum,February 2009
+9359,,,,213,0,0,0,J400z00,Crohn's disease of the small bowel NOS,February 2009
+11337,,,,120,10,0,0,ZR3S.00,Crohn's disease activity index,February 2009
+39037,,,,299,6,0,0,J401200,Exacerbation of Crohn's disease of large intestine,February 2009
+66238,,,,49,0,0,0,J400300,Crohn's disease of the ileum unspecified,February 2009
+59994,,,,561,1,0,0,J40z.11,Crohn's disease NOS,February 2009
+20688,,,,298,7,0,0,J401z00,Crohn's disease of the large bowel NOS,February 2009
+29616,,,,91,2,0,0,J08z900,Orofacial Crohn's disease,February 2009
+69959,,,,100,8,0,0,Jyu4000,[X]Other Crohn's disease,February 2009
+12575,,,,50,5,0,0,N045300,Juvenile arthritis in Crohn's disease,February 2009
+6538,,,,4018,100,0,0,J401z11,Crohn's colitis,February 2009
+39278,,,,95,0,0,0,J400400,Crohn's disease of the ileum NOS,February 2009
+593,,,,101689,5503,53,0,J40..11,Crohn's disease,February 2009
+36913,,,,800,12,0,0,J400500,Exacerbation of Crohn's disease of small intestine,February 2009
+11286,,,,11966,593,0,0,J40..00,Regional enteritis - Crohn's disease,February 2009
+11119,,,,10,1,0,0,ZR3S.11,CDAI - Crohn's disease activity index,February 2009
+20480,,,,290,9,0,0,N031100,Arthropathy in Crohn's disease,February 2009
+5749,,,,5207,316,6,0,14C4.11,H/O: ulcerative colitis,February 2009
+33456,,,,139,2,0,0,J410z00,Ulcerative proctocolitis NOS,February 2009
+104259,,,,443,4,0,0,J413.00,Ulcerative pancolitis,June 2012
+22516,,,,1633,41,0,0,J410400,Exacerbation of ulcerative colitis,February 2009
+15207,,,,1063,47,0,0,J41z.00,Idiopathic proctocolitis NOS,February 2009
+30678,,,,1382,19,0,0,J436.00,Microscopic colitis,February 2009
+96919,,,,10520,169,0,0,J437.00,Colitis,June 2009
+39119,,,,1040,17,0,0,J436000,Collagenous colitis,February 2009
+42822,,,,35,2,0,0,J412.00,Ulcerative (chronic) ileocolitis,February 2009
+6650,,,,8287,468,4,0,J410.00,Ulcerative proctocolitis,February 2009
+704,,,,93652,4707,46,0,J410100,Ulcerative colitis,February 2009
+53743,,,,186,4,0,0,Jyu4100,[X]Other ulcerative colitis,February 2009
+43090,,,,43,0,0,0,J41yz00,Other idiopathic proctocolitis NOS,February 2009
+48732,,,,39,3,0,0,J410000,Ulcerative ileocolitis,February 2009
+30433,,,,226,8,0,0,J411.00,Ulcerative (chronic) enterocolitis,February 2009
+15773,,,,111,4,0,0,J402.00,Regional ileocolitis,February 2009
+1561,,,,29660,1870,20,0,J4...11,Colitis - noninfective,February 2009
+5133,,,,3542,153,0,0,J41..00,Idiopathic proctocolitis,February 2009
+42531,,,,9116,271,0,0,J43..00,Other non-infective inflammatory gastroenteritis and colitis,February 2009
+1784,,,,33605,1775,30,0,J41..12,Ulcerative colitis and/or proctitis,February 2009
+23950,,,,366,61,0,0,J41..11,Mucous colitis and/or proctitis,February 2009
+71083,,,,4,0,0,0,N045400,Juvenile arthritis in ulcerative colitis,February 2009
+35424,,,,733,7,0,0,J436100,Lymphocytic colitis,February 2009
+17641,,,,96,3,0,0,N031000,Arthropathy in ulcerative colitis,February 2009
+63195,,,,70,1,0,0,J690100,Acquired coeliac disease,February 2009
+44310,,,,755,19,0,0,J690z00,Coeliac disease NOS,February 2009
+62397,,,,22,0,0,0,J690000,Congenital coeliac disease,February 2009
+102315,,,,1969,99,0,0,6648.00,Coeliac disease monitoring,June 2011
+1515,,,,56655,3234,25,0,J690.00,Coeliac disease,February 2009
+102617,,,,104,0,0,0,6648000,Coeliac disease annual review,July 2011
+68680,,,,2,0,0,0,J690.11,Coeliac rickets,February 2009
+23498,,,,203,6,0,0,J692.00,Blind loop syndrome,February 2009
+21565,,,,488,58,0,0,J69y000,Chronic steatorrhoea,February 2009
+10203,,,,624,33,0,0,J694.00,Pancreatic steatorrhoea,February 2009

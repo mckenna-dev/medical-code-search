@@ -1,0 +1,106 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Codelist Search</h1>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <h5>Search Options</h5>
+    </div>
+    <div class="card-body">
+        <form method="get" action="{% url 'codelist_search' %}">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label for="search" class="form-label">Codelist Name</label>
+                        <input type="text" class="form-control" id="search" name="search" value="{{ search_term }}"
+                            placeholder="Enter search term like 'diabetes'...">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label class="form-label">Sources</label>
+                        <div>
+                            {% for source in sources %}
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="checkbox" name="sources"
+                                    id="source-{{ source.id }}" value="{{ source.id }}" {% if source.id|stringformat:"i"
+                                    in selected_sources or source.is_default and not selected_sources %}checked{% endif
+                                    %}>
+                                <label class="form-check-label" for="source-{{ source.id }}">{{ source.name }}</label>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h5>Search Results</h5>
+    </div>
+    <div class="card-body">
+        {% if codelists %}
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Source</th>
+                        <th>Project</th>
+                        <th>Author</th>
+                        <th>Codes</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for codelist in codelists %}
+                    <tr class="clickable-row" data-href="{% url 'codelist_detail' codelist.id %}">
+                        <td>{{ codelist.codelist_name }}</td>
+                        <td>{{ codelist.source.name }}</td>
+                        <td>{{ codelist.project_title }}</td>
+                        <td>{{ codelist.author }}</td>
+                        <td>{{ codelist.code_count|default:"0" }}</td>
+                        <td>
+                            <a href="{% url 'codelist_detail' codelist.id %}"
+                                class="btn btn-sm btn-outline-primary">View</a>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+        <div class="text-center p-4">
+            {% if search_term %}
+            <p>No codelists found matching your search criteria.</p>
+            <p class="text-muted">Try searching for "AIDS" or "Alcohol" to see your imported data.</p>
+            {% else %}
+            <p>Enter a search term above to find codelists.</p>
+            <p class="text-muted"><strong>Try searching for:</strong> "AIDS" or "Alcohol"</p>
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Make rows clickable
+        document.querySelectorAll('.clickable-row').forEach(row => {
+            row.addEventListener('click', function (e) {
+                if (!e.target.matches('a, button')) {
+                    window.location.href = this.dataset.href;
+                }
+            });
+        });
+    });
+</script>
+{% endblock %}

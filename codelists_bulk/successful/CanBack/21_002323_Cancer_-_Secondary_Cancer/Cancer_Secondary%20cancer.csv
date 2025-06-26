@@ -1,0 +1,142 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2084,Cancer,Secondary cancer,a459732012,Pain from metastases,L1:Cancer_L2:Secondary cancer,1D18.00
+2085,Cancer,Secondary cancer,a151331000006114,Secondary malignant neoplasm of liver,L1:Cancer_L2:Secondary cancer,B153.00
+2086,Cancer,Secondary cancer,a406333010,Secondary and unspecified malignant neoplasm of lymph nodes,L1:Cancer_L2:Secondary cancer,B56..00
+2087,Cancer,Secondary cancer,a732441000006113,Lymph node metastases,L1:Cancer_L2:Secondary cancer,B56..11
+2088,Cancer,Secondary cancer,a157761000006113,Secondary and unspec malig neop lymph nodes head/face/neck,L1:Cancer_L2:Secondary cancer,B560.00
+2089,Cancer,Secondary cancer,a157821000006114,Secondary and unspec malig neop of superficial parotid LN,L1:Cancer_L2:Secondary cancer,B560000
+2090,Cancer,Secondary cancer,a157961000006111,Secondary and unspec malignant neoplasm mastoid lymph nodes,L1:Cancer_L2:Secondary cancer,B560100
+2091,Cancer,Secondary cancer,a157921000006117,Secondary and unspec malig neop superficial cervical LN,L1:Cancer_L2:Secondary cancer,B560200
+2092,Cancer,Secondary cancer,a157971000006116,Secondary and unspec malignant neoplasm occipital lymph node,L1:Cancer_L2:Secondary cancer,B560300
+2093,Cancer,Secondary cancer,a157591000006113,Secondary and unspec malig neop deep parotid lymph nodes,L1:Cancer_L2:Secondary cancer,B560400
+2094,Cancer,Secondary cancer,a157891000006111,Secondary and unspec malig neop submandibular lymph nodes,L1:Cancer_L2:Secondary cancer,B560500
+2095,Cancer,Secondary cancer,a157801000006116,Secondary and unspec malig neop of facial lymph nodes,L1:Cancer_L2:Secondary cancer,B560600
+2096,Cancer,Secondary cancer,a157901000006110,Secondary and unspec malig neop submental lymph nodes,L1:Cancer_L2:Secondary cancer,B560700
+2097,Cancer,Secondary cancer,a157491000006114,Secondary and unspec malig neop anterior cervical LN,L1:Cancer_L2:Secondary cancer,B560800
+2098,Cancer,Secondary cancer,a157571000006112,Secondary and unspec malig neop deep cervical LN,L1:Cancer_L2:Secondary cancer,B560900
+2099,Cancer,Secondary cancer,a157751000006111,Secondary and unspec malig neop intrathoracic lymph nodes,L1:Cancer_L2:Secondary cancer,B561.00
+2100,Cancer,Secondary cancer,a157691000006112,Secondary and unspec malig neop internal mammary lymph nodes,L1:Cancer_L2:Secondary cancer,B561000
+2101,Cancer,Secondary cancer,a157671000006111,Secondary and unspec malig neop intercostal lymph nodes,L1:Cancer_L2:Secondary cancer,B561100
+2102,Cancer,Secondary cancer,a157601000006117,Secondary and unspec malig neop diaphragmatic lymph nodes,L1:Cancer_L2:Secondary cancer,B561200
+2103,Cancer,Secondary cancer,a157481000006111,Secondary and unspec malig neop ant mediastinal lymph nodes,L1:Cancer_L2:Secondary cancer,B561300
+2104,Cancer,Secondary cancer,a157861000006115,Secondary and unspec malig neop post mediastinal lymph nodes,L1:Cancer_L2:Secondary cancer,B561400
+2105,Cancer,Secondary cancer,a157831000006112,Secondary and unspec malig neop paratracheal lymph nodes,L1:Cancer_L2:Secondary cancer,B561500
+2106,Cancer,Secondary cancer,a157911000006113,Secondary and unspec malig neop superfic tracheobronchial LN,L1:Cancer_L2:Secondary cancer,B561600
+2107,Cancer,Secondary cancer,a157641000006115,Secondary and unspec malig neop inferior tracheobronchial LN,L1:Cancer_L2:Secondary cancer,B561700
+2108,Cancer,Secondary cancer,a157531000006114,Secondary and unspec malig neop bronchopulmonary lymph nodes,L1:Cancer_L2:Secondary cancer,B561800
+2109,Cancer,Secondary cancer,a157871000006110,Secondary and unspec malig neop pulmonary lymph nodes,L1:Cancer_L2:Secondary cancer,B561900
+2110,Cancer,Secondary cancer,a157741000006114,Secondary and unspec malig neop intrathoracic LN NOS,L1:Cancer_L2:Secondary cancer,B561z00
+2111,Cancer,Secondary cancer,a157711000006110,Secondary and unspec malig neop intra-abdominal lymph nodes,L1:Cancer_L2:Secondary cancer,B562.00
+2112,Cancer,Secondary cancer,a157551000006119,Secondary and unspec malig neop coeliac lymph nodes,L1:Cancer_L2:Secondary cancer,B562000
+2113,Cancer,Secondary cancer,a157941000006112,Secondary and unspec malig neop superficial mesenteric LN,L1:Cancer_L2:Secondary cancer,B562100
+2114,Cancer,Secondary cancer,a157631000006113,Secondary and unspec malig neop inferior mesenteric LN,L1:Cancer_L2:Secondary cancer,B562200
+2115,Cancer,Secondary cancer,a157561000006117,Secondary and unspec malig neop common iliac lymph nodes,L1:Cancer_L2:Secondary cancer,B562300
+2116,Cancer,Secondary cancer,a157611000006119,Secondary and unspec malig neop external iliac lymph nodes,L1:Cancer_L2:Secondary cancer,B562400
+2117,Cancer,Secondary cancer,a157701000006112,Secondary and unspec malig neop intra-abdominal LN NOS,L1:Cancer_L2:Secondary cancer,B562z00
+2118,Cancer,Secondary cancer,a157501000006118,Secondary and unspec malig neop axilla and upper limb LN,L1:Cancer_L2:Secondary cancer,B563.00
+2119,Cancer,Secondary cancer,a157521000006111,Secondary and unspec malig neop axillary lymph nodes,L1:Cancer_L2:Secondary cancer,B563000
+2120,Cancer,Secondary cancer,a157951000006114,Secondary and unspec malig neop supratrochlear lymph nodes,L1:Cancer_L2:Secondary cancer,B563100
+2121,Cancer,Secondary cancer,a157651000006118,Secondary and unspec malig neop infraclavicular lymph nodes,L1:Cancer_L2:Secondary cancer,B563200
+2122,Cancer,Secondary cancer,a157841000006119,Secondary and unspec malig neop pectoral lymph nodes,L1:Cancer_L2:Secondary cancer,B563300
+2123,Cancer,Secondary cancer,a157511000006115,Secondary and unspec malig neop axilla and upper limb LN NOS,L1:Cancer_L2:Secondary cancer,B563z00
+2124,Cancer,Secondary cancer,a157661000006116,Secondary and unspec malig neop inguinal and lower limb LN,L1:Cancer_L2:Secondary cancer,B564.00
+2125,Cancer,Secondary cancer,a157931000006119,Secondary and unspec malig neop superficial inguinal LN,L1:Cancer_L2:Secondary cancer,B564000
+2126,Cancer,Secondary cancer,a157581000006110,Secondary and unspec malig neop deep inguinal lymph nodes,L1:Cancer_L2:Secondary cancer,B564100
+2127,Cancer,Secondary cancer,a157811000006118,Secondary and unspec malig neop of inguinal and leg LN NOS,L1:Cancer_L2:Secondary cancer,B564z00
+2128,Cancer,Secondary cancer,a157731000006116,Secondary and unspec malig neop intrapelvic lymph nodes,L1:Cancer_L2:Secondary cancer,B565.00
+2129,Cancer,Secondary cancer,a157681000006114,Secondary and unspec malig neop internal iliac lymph nodes,L1:Cancer_L2:Secondary cancer,B565000
+2130,Cancer,Secondary cancer,a157541000006116,Secondary and unspec malig neop circumflex iliac LN,L1:Cancer_L2:Secondary cancer,B565200
+2131,Cancer,Secondary cancer,a157881000006113,Secondary and unspec malig neop sacral lymph nodes,L1:Cancer_L2:Secondary cancer,B565300
+2132,Cancer,Secondary cancer,a157721000006119,Secondary and unspec malig neop intrapelvic LN NOS,L1:Cancer_L2:Secondary cancer,B565z00
+2133,Cancer,Secondary cancer,a157771000006118,Secondary and unspec malig neop lymph nodes multiple sites,L1:Cancer_L2:Secondary cancer,B56y.00
+2134,Cancer,Secondary cancer,a157781000006115,Secondary and unspec malig neop lymph nodes NOS,L1:Cancer_L2:Secondary cancer,B56z.00
+2135,Cancer,Secondary cancer,a151111000006118,Secondary malig neop of respiratory and digestive systems,L1:Cancer_L2:Secondary cancer,B57..00
+2136,Cancer,Secondary cancer,a704711000006119,Metastases of respiratory and/or digestive systems,L1:Cancer_L2:Secondary cancer,B57..11
+2137,Cancer,Secondary cancer,a156319016,Secondary malignant neoplasm of lung,L1:Cancer_L2:Secondary cancer,B570.00
+2138,Cancer,Secondary cancer,a156375015,Secondary malignant neoplasm of mediastinum,L1:Cancer_L2:Secondary cancer,B571.00
+2139,Cancer,Secondary cancer,a156585018,Secondary malignant neoplasm of pleura,L1:Cancer_L2:Secondary cancer,B572.00
+2140,Cancer,Secondary cancer,a289515018,Secondary malignant neoplasm of other respiratory organs,L1:Cancer_L2:Secondary cancer,B573.00
+2141,Cancer,Secondary cancer,a151621000006119,Secondary malignant neoplasm of small intestine and duodenum,L1:Cancer_L2:Secondary cancer,B574.00
+2142,Cancer,Secondary cancer,a156007019,Secondary malignant neoplasm of duodenum,L1:Cancer_L2:Secondary cancer,B574000
+2143,Cancer,Secondary cancer,a156231017,Secondary malignant neoplasm of jejunum,L1:Cancer_L2:Secondary cancer,B574100
+2144,Cancer,Secondary cancer,a156169017,Secondary malignant neoplasm of ileum,L1:Cancer_L2:Secondary cancer,B574200
+2145,Cancer,Secondary cancer,a151151000006117,Secondary malig neop of small intestine or duodenum NOS,L1:Cancer_L2:Secondary cancer,B574z00
+2146,Cancer,Secondary cancer,a151321000006111,Secondary malignant neoplasm of large intestine and rectum,L1:Cancer_L2:Secondary cancer,B575.00
+2147,Cancer,Secondary cancer,a155967013,Secondary malignant neoplasm of colon,L1:Cancer_L2:Secondary cancer,B575000
+2148,Cancer,Secondary cancer,a156627017,Secondary malignant neoplasm of rectum,L1:Cancer_L2:Secondary cancer,B575100
+2149,Cancer,Secondary cancer,a151101000006116,Secondary malig neop of large intestine or rectum NOS,L1:Cancer_L2:Secondary cancer,B575z00
+2150,Cancer,Secondary cancer,a151131000006112,Secondary malig neop of retroperitoneum and peritoneum,L1:Cancer_L2:Secondary cancer,B576.00
+2151,Cancer,Secondary cancer,a1215809015,Secondary malignant neoplasm of retroperitoneum,L1:Cancer_L2:Secondary cancer,B576000
+2152,Cancer,Secondary cancer,a1235875018,Secondary malignant neoplasm of peritoneum,L1:Cancer_L2:Secondary cancer,B576100
+2153,Cancer,Secondary cancer,a151141000006119,Secondary malig neop of retroperitoneum or peritoneum NOS,L1:Cancer_L2:Secondary cancer,B576z00
+2154,Cancer,Secondary cancer,a156291015,Secondary malignant neoplasm of liver,L1:Cancer_L2:Secondary cancer,B577.00
+2155,Cancer,Secondary cancer,a739801000006115,Liver metastases,L1:Cancer_L2:Secondary cancer,B577.11
+2156,Cancer,Secondary cancer,a289530010,Secondary malignant neoplasm of other digestive organ,L1:Cancer_L2:Secondary cancer,B57y.00
+2157,Cancer,Secondary cancer,a151121000006114,Secondary malig neop of respiratory or digestive system NOS,L1:Cancer_L2:Secondary cancer,B57z.00
+2158,Cancer,Secondary cancer,a151421000006117,Secondary malignant neoplasm of other specified sites,L1:Cancer_L2:Secondary cancer,B58..00
+2159,Cancer,Secondary cancer,a156237018,Secondary malignant neoplasm of kidney,L1:Cancer_L2:Secondary cancer,B580.00
+2160,Cancer,Secondary cancer,a289535017,Secondary malignant neoplasm of other urinary organs,L1:Cancer_L2:Secondary cancer,B581.00
+2161,Cancer,Secondary cancer,a156973018,Secondary malignant neoplasm of ureter,L1:Cancer_L2:Secondary cancer,B581000
+2162,Cancer,Secondary cancer,a155773015,Secondary malignant neoplasm of bladder,L1:Cancer_L2:Secondary cancer,B581100
+2163,Cancer,Secondary cancer,a156977017,Secondary malignant neoplasm of urethra,L1:Cancer_L2:Secondary cancer,B581200
+2164,Cancer,Secondary cancer,a289536016,Secondary malignant neoplasm of other urinary organ NOS,L1:Cancer_L2:Secondary cancer,B581z00
+2165,Cancer,Secondary cancer,a156777013,Secondary malignant neoplasm of skin,L1:Cancer_L2:Secondary cancer,B582.00
+2166,Cancer,Secondary cancer,a289538015,Secondary malignant neoplasm of skin of head,L1:Cancer_L2:Secondary cancer,B582000
+2167,Cancer,Secondary cancer,a156719018,Secondary malignant neoplasm of skin of face,L1:Cancer_L2:Secondary cancer,B582100
+2168,Cancer,Secondary cancer,a156747019,Secondary malignant neoplasm of skin of neck,L1:Cancer_L2:Secondary cancer,B582200
+2169,Cancer,Secondary cancer,a156765015,Secondary malignant neoplasm of skin of trunk,L1:Cancer_L2:Secondary cancer,B582300
+2170,Cancer,Secondary cancer,a289542017,Secondary malignant neoplasm of skin of shoulder and arm,L1:Cancer_L2:Secondary cancer,B582400
+2171,Cancer,Secondary cancer,a289543010,Secondary malignant neoplasm of skin of hip and leg,L1:Cancer_L2:Secondary cancer,B582500
+2172,Cancer,Secondary cancer,a156699010,Secondary malignant neoplasm of skin of breast,L1:Cancer_L2:Secondary cancer,B582600
+2173,Cancer,Secondary cancer,a289545015,Secondary malignant neoplasm of skin NOS,L1:Cancer_L2:Secondary cancer,B582z00
+2174,Cancer,Secondary cancer,a289546019,Secondary malignant neoplasm of brain and spinal cord,L1:Cancer_L2:Secondary cancer,B583.00
+2175,Cancer,Secondary cancer,a155879014,Secondary malignant neoplasm of brain,L1:Cancer_L2:Secondary cancer,B583000
+2176,Cancer,Secondary cancer,a156825010,Secondary malignant neoplasm of spinal cord,L1:Cancer_L2:Secondary cancer,B583100
+2177,Cancer,Secondary cancer,a543041000006111,Cerebral metastasis,L1:Cancer_L2:Secondary cancer,B583200
+2178,Cancer,Secondary cancer,a289549014,Secondary malignant neoplasm of brain or spinal cord NOS,L1:Cancer_L2:Secondary cancer,B583z00
+2179,Cancer,Secondary cancer,a289550014,Secondary malignant neoplasm of other part of nervous system,L1:Cancer_L2:Secondary cancer,B584.00
+2180,Cancer,Secondary cancer,a1235814012,Secondary malignant neoplasm of bone and bone marrow,L1:Cancer_L2:Secondary cancer,B585.00
+2181,Cancer,Secondary cancer,a216227011,Pathological fracture due to metastatic bone disease,L1:Cancer_L2:Secondary cancer,B585000
+2182,Cancer,Secondary cancer,a156493015,Secondary malignant neoplasm of ovary,L1:Cancer_L2:Secondary cancer,B586.00
+2183,Cancer,Secondary cancer,a155711012,Secondary malignant neoplasm of adrenal gland,L1:Cancer_L2:Secondary cancer,B587.00
+2184,Cancer,Secondary cancer,a406266011,Secondary malignant neoplasm of other specified sites,L1:Cancer_L2:Secondary cancer,B58y.00
+2185,Cancer,Secondary cancer,a511250010,Secondary malignant neoplasm of breast,L1:Cancer_L2:Secondary cancer,B58y000
+2186,Cancer,Secondary cancer,a156989015,Secondary malignant neoplasm of uterus,L1:Cancer_L2:Secondary cancer,B58y100
+2187,Cancer,Secondary cancer,a289553011,Secondary malignant neoplasm of cervix uteri,L1:Cancer_L2:Secondary cancer,B58y200
+2188,Cancer,Secondary cancer,a289554017,Secondary cancer of the cervix,L1:Cancer_L2:Secondary cancer,B58y211
+2189,Cancer,Secondary cancer,a156997010,Secondary malignant neoplasm of vagina,L1:Cancer_L2:Secondary cancer,B58y300
+2190,Cancer,Secondary cancer,a157025019,Secondary malignant neoplasm of vulva,L1:Cancer_L2:Secondary cancer,B58y400
+2191,Cancer,Secondary cancer,a511385013,Secondary cancer of the vulva,L1:Cancer_L2:Secondary cancer,B58y411
+2192,Cancer,Secondary cancer,a156607018,Secondary malignant neoplasm of prostate,L1:Cancer_L2:Secondary cancer,B58y500
+2193,Cancer,Secondary cancer,a156883018,Secondary malignant neoplasm of testis,L1:Cancer_L2:Secondary cancer,B58y600
+2194,Cancer,Secondary cancer,a156557015,Secondary malignant neoplasm of penis,L1:Cancer_L2:Secondary cancer,B58y700
+2195,Cancer,Secondary cancer,a289557012,Secondary malignant neoplasm of epididymis and vas deferens,L1:Cancer_L2:Secondary cancer,B58y800
+2196,Cancer,Secondary cancer,a156919012,Secondary malignant neoplasm of tongue,L1:Cancer_L2:Secondary cancer,B58y900
+2197,Cancer,Secondary cancer,a151401000006110,Secondary malignant neoplasm of other specified site NOS,L1:Cancer_L2:Secondary cancer,B58yz00
+2198,Cancer,Secondary cancer,a289559010,Secondary malignant neoplasm of other specified site NOS,L1:Cancer_L2:Secondary cancer,B58z.00
+2199,Cancer,Secondary cancer,a403704016,Disseminated malignancy NOS,L1:Cancer_L2:Secondary cancer,B590.00
+2200,Cancer,Secondary cancer,a450901012,Carcinomatosis,L1:Cancer_L2:Secondary cancer,B590.11
+2201,Cancer,Secondary cancer,a409845013,Secondary malignant neoplasm of unknown site,L1:Cancer_L2:Secondary cancer,B594.00
+2202,Cancer,Secondary cancer,a313711000006115,"[M]Neoplasm, metastatic",L1:Cancer_L2:Secondary cancer,BB03.00
+2203,Cancer,Secondary cancer,a316301000006114,[M]Secondary neoplasm,L1:Cancer_L2:Secondary cancer,BB03.11
+2204,Cancer,Secondary cancer,a313691000006118,"[M]Neoplasm, malig, uncertain whether primary or metastatic",L1:Cancer_L2:Secondary cancer,BB04.00
+2205,Cancer,Secondary cancer,a291327015,"[M]Carcinoma, metastatic, NOS",L1:Cancer_L2:Secondary cancer,BB13.00
+2206,Cancer,Secondary cancer,a291348018,"[M]Squamous cell carcinoma, metastatic NOS",L1:Cancer_L2:Secondary cancer,BB2B.00
+2207,Cancer,Secondary cancer,a291374012,"[M]Adenocarcinoma, metastatic, NOS",L1:Cancer_L2:Secondary cancer,BB53.00
+2208,Cancer,Secondary cancer,a312621000006112,[M]Metastatic signet ring cell carcinoma,L1:Cancer_L2:Secondary cancer,BB85100
+2209,Cancer,Secondary cancer,a396281000006111,"[X]Malignant neoplasm of ill-defined, secondary and unspeci",L1:Cancer_L2:Secondary cancer,ByuC.00
+2210,Cancer,Secondary cancer,a425771000006113,[X]Secondary malignant neoplasm/oth+unspc respiratory organs,L1:Cancer_L2:Secondary cancer,ByuC300
+2211,Cancer,Secondary cancer,a425781000006111,[X]Secondary malignant neoplasm/oth+unspcfd digestive organs,L1:Cancer_L2:Secondary cancer,ByuC400
+2212,Cancer,Secondary cancer,a292165015,[X]Secondary malignant neoplasm of other specified sites,L1:Cancer_L2:Secondary cancer,ByuC700
+2213,Cancer,Secondary cancer,a299676019,Secondary malignant renovascular hypertension,L1:Cancer_L2:Secondary cancer,G240000
+2214,Cancer,Secondary cancer,a314021000006111,"[M]No microscopic confirmation tumour, clinically metastatic",L1:Cancer_L2:Secondary cancer,BBy2.00
+2215,Cancer,Secondary cancer,a453241012,Metastatic calcification,L1:Cancer_L2:Secondary cancer,C354A00
+2216,Cancer,Secondary cancer,a152611000006116,Secondary unspec malig neop lymph nodes head/face/neck NOS,L1:Cancer_L2:Secondary cancer,B560z00
+2217,Cancer,Secondary cancer,a380193010,Secondary carcinoma of respiratory and/or digestive systems,L1:Cancer_L2:Secondary cancer,B57..12
+2218,Cancer,Secondary cancer,a380206018,Secondary carcinoma of other specified sites,L1:Cancer_L2:Secondary cancer,B58..11
+2219,Cancer,Secondary cancer,a316291000006113,[M]Secondary carcinoma,L1:Cancer_L2:Secondary cancer,BB13.11
+2220,Cancer,Secondary cancer,a1233222010,[M]Carcinomatosis,L1:Cancer_L2:Secondary cancer,BB14.00
+2221,Cancer,Secondary cancer,a308291000006112,"[M]Epithelioma, malignant",L1:Cancer_L2:Secondary cancer,BB16.00
+2222,Cancer,Secondary cancer,a317191000006118,[M]Superficial spreading adenocarcinoma,L1:Cancer_L2:Secondary cancer,BB56.00
+2223,Cancer,Secondary cancer,a494050018,Secondary polycythaemia,L1:Cancer_L2:Secondary cancer,D410.00
+2224,Cancer,Secondary cancer,a294495017,Secondary polycythaemia NOS,L1:Cancer_L2:Secondary cancer,D410z00

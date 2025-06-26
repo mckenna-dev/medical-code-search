@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 114
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2   MedCodeID                                                Term
+0    540          Cancer            Bone  a380093012               Sarcoma of bone and connective tissue
+1    541          Cancer            Bone  a403691010  Malignant neoplasm of bone and articular cartilage
+2    542          Cancer            Bone  a288869015       Malignant neoplasm of bones of skull and face

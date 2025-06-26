@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 32
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+    MedCodeId  Observations                               Term  SNOMED_CT_Concept_ID
+0  1485147016       1000000  MRC Breathlessness Scale: grade 2             391123006
+1  1485148014       1000000  MRC Breathlessness Scale: grade 3             391124000
+2   397888010       1000000                     Breathlessness             267036007

@@ -1,0 +1,62 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	snomedctdescriptionid	release
+113331011	"Acute cystitis"	"K150"	"K150.00"	68226007	113331011	
+61206018	"Acute pyelonephritis"	"K101"	"K101.00"	36689008	61206018	
+304071011	"Acute pyelonephritis NOS"	"K101z"	"K101z00"	36689008	459941000006117	
+304069011	"Acute pyelonephritis with medullary necrosis"	"K1011"	"K101100"	197769007	304069011	
+304068015	"Acute pyelonephritis without medullary necrosis"	"K1010"	"K101000"	197768004	304068015	
+2006591000006111	"Adverse reaction to Numark Cystitis Treatment"	"ALLERGY122286NEMIS"	""	2006591000006107	2006591000006111	
+2277901000000116	"CAUTI - catheter-associated urinary tract infection"	"SP07Q-1"	"SP07Q11"	700372006	1887781000006119	
+39884018	"Calculous pyelonephritis"	"K1006"	"K100600"	23754003	39884018	
+2277891000000117	"Catheter-associated urinary tract infection"	"SP07Q"	"SP07Q00"	700372006	2990298013	
+65119018	"Cystitis"	"K15"	"K15..00"	38822007	65119018	
+304209017	"Cystitis NOS"	"K15z"	"K15z.00"	38822007	606701000006115	
+22733019	"Cystitis cystica"	"K15y0"	"K15y000"	13285005	22733019	
+304192013	"Cystitis in diseases EC"	"K154"	"K154.00"	197845000	304192013	
+304202014	"Cystitis in diseases EC NOS"	"K154z"	"K154z00"	197845000	606641000006112	
+411392011	"Cystitis of pregnancy"	"L166-1"	"L166.11"	275412000	411392011	
+354323012	"Emphysematous pyelonephritis"	"K1014"	"K101400"	236373001	354323012	
+801221000006116	"Genitourinary tract infection in pregnancy - deliv +p/n comp"	"L1662"	"L166200"	199107005	801221000006116	
+305972011	"Genitourinary tract infection in pregnancy - delivered"	"L1661"	"L166100"	199106001	305972011	
+305974012	"Genitourinary tract infection in pregnancy - not delivered"	"L1663"	"L166300"	199108000	305974012	
+398349016	"Genitourinary tract infection in pregnancy NOS"	"L166z"	"L166z00"	267204006	801251000006113	
+305971016	"Genitourinary tract infection in pregnancy unspecified"	"L1660"	"L166000"	267204006	801261000006110	
+801271000006115	"Genitourinary tract infection in pregnancy with p/n comp"	"L1664"	"L166400"	199109008	801271000006115	
+398348012	"Genitourinary tract infections in pregnancy"	"L166"	"L166.00"	267204006	398348012	
+2318231000033110	"Numark Cystitis Treatment"	"DRGA122286NEMIS"	""	2318231000033106	2318231000033110	
+2247821000000119	"On urinary tract infection care pathway"	"8CMWE"	"8CMWE00"	869691000000108	2247821000000119	
+304208013	"Other cystitis NOS"	"K15yz"	"K15yz00"	38822007	33201000006116	
+304206012	"Other specified cystitis"	"K15y"	"K15y.00"	38822007	14281000006118	
+216611000006114	"Post operative urinary tract infection"	"K1902"	"K190200"	197926005	216611000006114	
+112408019	"Prostatocystitis"	"K213"	"K213.00"	67685000	112408019	
+304083013	"Pyelonephritis and pyonephrosis unspecified"	"K10y"	"K10y.00"	129128006	195201000006117	
+304087014	"Pyelonephritis in diseases EC"	"K10y3"	"K10y300"	197782004	304087014	
+304084019	"Pyelonephritis unspecified"	"K10y0"	"K10y000"	45816000	195221000006110	
+183171000006116	"Recurrent UTI"	"K1903-1"	"K190311"	197927001	183171000006116	
+304205011	"Recurrent cystitis"	"K155"	"K155.00"	197853008	304205011	
+304319014	"Recurrent urinary tract infection"	"K1903"	"K190300"	197927001	304319014	
+183141000006112	"Recurrent urinary tract infection"	"K190-1"	"K190.11"	197927001	183141000006112	
+183161000006111	"Recurrent urinary tract infections"	"1AG"	"1AG..00"	197927001	183161000006111	
+8285011	"Subacute cystitis"	"K1520"	"K152000"	4324001	8285011	
+304182017	"Submucous cystitis"	"K1512"	"K151200"	197837005	304182017	
+459357017	"Suspected UTI"	"1J4"	"1J4..00"	314940005	459357017	
+450823012	"UTI - urinary tract infection in pregnancy"	"L166z-1"	"L166z11"	307534009	450823012	
+304090015	"Unspecified pyelonephritis NOS"	"K10yz"	"K10yz00"	45816000	78321000006112	
+74741000006111	"Urinary Tract Infection"	"D2A-KC60"	""	74741000006107	74741000006111	
+113884018	"Urinary tract infection"	"K1905"	"K190500"	68566005	113884018	
+886811000006115	"Urinary tract infection NOS"	"K190-98"	"K190.98"	68566005	886811000006115	
+1490641019	"Urinary tract infection complicating pregnancy"	"L1668"	"L166800"	307534009	1490641019	
+305603019	"Urinary tract infection following abortive pregnancy"	"L09y4"	"L09y400"	609491002	74761000006110	
+305977017	"Urinary tract infection following delivery"	"L1666"	"L166600"	199111004	305977017	
+74781000006117	"Urinary tract infection, site not specified"	"K190"	"K190.00"	68566005	74781000006117	
+304323018	"Urinary tract infection, site not specified NOS"	"K190z"	"K190z00"	68566005	74791000006119	
+260297011	"Urine culture - Bacteria OS"	"46U8"	"46U8.00"	167575008	260297011	
+260291012	"Urine culture - E. coli"	"46U3"	"46U3.00"	167570003	260291012	
+75491000006112	"Urine culture - Escherich.coli"	"46U3-1"	"46U3.11"	167570003	75491000006112	
+260292017	"Urine culture - Proteus"	"46U4"	"46U4.00"	167571004	260292017	
+260296019	"Urine culture - Pseudomonas"	"46U7"	"46U7.00"	167574007	260296019	
+260295015	"Urine culture - Staph. albus"	"46U6"	"46U6.00"	167573001	260295015	
+75551000006117	"Urine culture - Str. faecalis"	"46U5"	"46U5.00"	167572006	75551000006117	
+1761271000006118	"[SHHAPT] Urinary tract infection"	"D2A-SHHAPT"	""	1761271000006102	1761271000006118	
+305203014	"[X]Other cystitis"	"Kyu51"	"Kyu5100"	38822007	408611000006114	
+308190014	"[X]Other genitourinary tract infections following delivery"	"Lyu61"	"Lyu6100"	450451000000108	941851000000117	
+417401000006111	"[X]Other+unspcf genitourinary tract infection in pregnancy"	"Lyu24"	"Lyu2400"	267204006	417401000006111	

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 854
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+0                        2186\t"7G09000"\t47285\t0\t169\t9\t"Cauterisation of lesion of skin NEC"\t"February 2009"
+1               21212\t"7G08000"\t673\t0\t2\t0\t"Cauterisation of lesion of skin of head or neck"\t"February 2009"
+2         97713\t"7G08011"\t9\t0\t0\t0\t"Cauterised destruction of lesion of skin of head or neck"\t"October 2009"

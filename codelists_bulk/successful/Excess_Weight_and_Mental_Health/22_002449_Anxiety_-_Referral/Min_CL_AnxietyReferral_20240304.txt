@@ -1,0 +1,3 @@
+	MedCodeId	Observations	Term	Anxiety_referral
+0	300681000000118	4000	Referral for guided self-help for anxiety	Anxiety_referral
+1	2618361000000113	700	Referral for psychological management of anxiety	Anxiety_referral

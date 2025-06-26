@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 98
+Columns: 6
+Column names: ['Description', 'SNOMED_CT_Concept_ID', 'Codelist_Name', 'Med_Code_Id', 'Observations', 'Term']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                                                  Description SNOMED_CT_Concept_ID                         Codelist_Name         Med_Code_Id  Observations
+0  Diffuse interstitial rheumatoid disease of lung (disorder)            b10713006  Rheumatoid arthritis diagnosis codes          a311496011          2000
+1                 Rheumatoid arthritis of left hip (disorder)    b1073721000119103  Rheumatoid arthritis diagnosis codes         a3528264013             5
+2               Rheumatoid arthritis of left wrist (disorder)    b1073751000119106  Rheumatoid arthritis diagnosis codes  a13687691000006111             1

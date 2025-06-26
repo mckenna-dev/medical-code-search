@@ -1,0 +1,294 @@
+	MedCodeId	Observations	Term	anaemia				
+0	a293877016	1000	Iron deficiency anemia	anaemia				
+1	a293956015	20	Anemia due to protein deficiency	anaemia				
+2	a294568012	700	Vitamin B12 deficiency anemia due to dietary causes	anaemia				
+3	a351097012	10000	Macrocytic anemia	anaemia				
+4	a399195014	3000	Iron deficiency anemia	anaemia				
+5	a460377019	600	FH: Anemia	anaemia				
+6	a2541821000006111	1	Leukoerythroblastic anemia	anaemia				
+7	a2562461000006118	1	Warm autoimmune hemolytic anemia	anaemia				
+8	a2938151000006111	1	Anemia of pregnancy	anaemia				
+9	a2992581000006115	1	Fanconi anemia	anaemia				
+10	a3220211000006112	2	Microcytic hypochromic anemia	anaemia				
+11	a3220221000006116	3	Hypochromic microcytic anemia	anaemia				
+12	a3255321000006116	2	Normocytic normochromic anemia	anaemia				
+13	a3495381000006114	1	Hemolytic anemia	anaemia				
+14	a3514431000006111	4	G6PD deficiency anemia	anaemia				
+15	a3866951000006118	3	Pernicious anemia	anaemia				
+16	a3892431000006116	2	Folate deficiency anemia	anaemia				
+17	a3922691000006115	4	IDA - Iron deficiency anemia	anaemia				
+18	a4539681000006117	7	H/O: anemia - iron deficient	anaemia				
+19	a4539721000006112	2	History of anemia vitamin B12 deficient	anaemia				
+20	a4641521000006110	1	Anemia screening	anaemia				
+21	a4761161000006111	5	Combined B12 and folate deficiency anemia	anaemia				
+22	a4762111000006118	9	Chronic anemia	anaemia				
+23	a5063181000006113	1	Macrocytosis - no anemia	anaemia				
+24	a5063371000006112	6	Anemia of renal disease	anaemia				
+25	a5063391000006113	30	Microcytic anemia	anaemia				
+26	a5500771000006119	1	Deficiency anemias	anaemia				
+27	a5887431000006113	10	Normocytic anemia	anaemia				
+28	a6352651000006111	1	Iron deficiency anemia secondary to inadequate dietary iron intake	anaemia				
+29	a6844061000006114	2	Autoimmune hemolytic anemia	anaemia				
+30	a6906661000006112	2	Sickle cell anemia with crisis	anaemia				
+31	a7615361000006112	1	Anemia in chronic kidney disease	anaemia				
+32	a7826141000006117	7	Iron-refractory iron deficiency anemia	anaemia				
+33	a7843061000006112	1	Familial hypercholanemia	anaemia				
+34	a12761691000006115	200	Iron deficiency anemia	anaemia				
+35	a13031341000006117	90	Anemia	anaemia				
+36	a13031551000006111	9	Macrocytic anemia	anaemia				
+37	a249835010	4000	FH: Sickle cell anaemia	anaemia				
+38	a251611012	40000	H/O: anaemia - iron deficient	anaemia				
+39	a251614016	3000	History of anaemia vitamin B12 deficient	anaemia				
+40	a251615015	2000	H/O: haemolytic anaemia	anaemia				
+41	a251617011	20000	H/O: anaemia NOS	anaemia				
+42	a255515017	50000	O/E - anaemia	anaemia				
+43	a255526011	20000	O/E - anaemia NOS	anaemia				
+44	a291252015	200	"Refractory anaemia without sideroblasts, so stated"	anaemia				
+45	a292273018	200	"[X]Refractory anaemia, unspecified"	anaemia				
+46	a293864013	10000	Iron deficiency anaemia due to dietary causes	anaemia				
+47	a293880015	100000	Unspecified iron deficiency anaemia	anaemia				
+48	a293884012	20	Chlorotic anaemia	anaemia				
+49	a293885013	800	Idiopathic hypochromic anaemia	anaemia				
+50	a293888010	300000	Iron deficiency anaemia NOS	anaemia				
+51	a293924010	2000	Other vitamin B12 deficiency anaemia NOS	anaemia				
+52	a293925011	30	Congenital folate malabsorption anaemia	anaemia				
+53	a293946019	3000	Other specified megaloblastic anaemia NEC	anaemia				
+54	a293948018	10000	Combined B12 and folate deficiency anaemia	anaemia				
+55	a293949014	200	Other specified megaloblastic anaemia NEC NOS	anaemia				
+56	a293952018	70	Protein-deficiency anaemia	anaemia				
+57	a293959010	200	Other specified nutritional deficiency anaemia	anaemia				
+58	a293961018	30	Vitamin C deficiency anaemia	anaemia				
+59	a293966011	6	Other specified other nutritional deficiency anaemia	anaemia				
+60	a293969016	20	Other specified nutritional deficiency anaemia NOS	anaemia				
+61	a293977017	2000	[X]Megaloblastic anaemia NOS	anaemia				
+62	a293978010	300	Other specified deficiency anaemias	anaemia				
+63	a293981017	4000	Deficiency anaemias NOS	anaemia				
+64	a293986010	3	Haemolytic anaemia due to glutathione metabolism disorder	anaemia				
+65	a293996018	10	Other enzyme deficiency haemolytic anaemia	anaemia				
+66	a293999013	40	Haemolytic anaemia due to hexokinase deficiency	anaemia				
+67	a294000010	600	Haemolytic anaemia due to pyruvate kinase deficiency	anaemia				
+68	a294007013	20	Enzyme deficiency haemolytic anaemia NOS	anaemia				
+69	a294079010	20	Other specified hereditary haemolytic anaemias	anaemia				
+70	a294082017	40	Other specified hereditary haemolytic anaemia NOS	anaemia				
+71	a294085015	800	Hereditary haemolytic anaemia NOS	anaemia				
+72	a294093015	1000	Primary cold-type haemolytic anaemia	anaemia				
+73	a294094014	90	Primary warm-type haemolytic anaemia	anaemia				
+74	a294097019	70	Secondary cold-type haemolytic anaemia	anaemia				
+75	a294098012	5	Secondary warm-type haemolytic anaemia	anaemia				
+76	a294102016	3000	Autoimmune haemolytic anaemia NOS	anaemia				
+77	a294105019	200	Non-autoimmune haemolytic anaemia	anaemia				
+78	a294106018	100	Mechanical haemolytic anaemia	anaemia				
+79	a294109013	20	Toxic haemolytic anaemia	anaemia				
+80	a294111016	40	Haemolytic anaemia due to infection	anaemia				
+81	a294112011	3	Other specified non-autoimmune haemolytic anaemia	anaemia				
+82	a294115013	4	Non-autoimmune haemolytic anaemia NOS	anaemia				
+83	a294139015	900	Acquired haemolytic anaemia NOS	anaemia				
+84	a294144010	200	Other specified haemolytic anaemias	anaemia				
+85	a294145011	2000	Haemolytic anaemias NOS	anaemia				
+86	a294148013	3000	Aplastic and other anaemias	anaemia				
+87	a294179012	1	Other specified constitutional aplastic anaemia	anaemia				
+88	a294190019	400	Aplastic anaemia due to chronic disease	anaemia				
+89	a294198014	30	Aplastic anaemia due to infection	anaemia				
+90	a294201016	3	Radiation aplastic anaemia	anaemia				
+91	a294202011	4	Aplastic anaemia due to radiation	anaemia				
+92	a294203018	1	Aplastic anaemia due to toxic cause	anaemia				
+93	a294211011	90	Transient hypoplastic anaemia	anaemia				
+94	a294223017	100	Idiopathic aplastic anaemia	anaemia				
+95	a294227016	200	Aplastic anaemia NOS	anaemia				
+96	a294231010	9	Pyridoxine-responsive sideroblastic anaemia	anaemia				
+97	a294232015	10	Secondary sideroblastic anaemia due to disease	anaemia				
+98	a294235018	10	Secondary sideroblastic anaemia due to drugs and toxins	anaemia				
+99	a294236017	40	Sideroblastic anaemia NOS	anaemia				
+100	a294251014	40000	Chronic anaemia	anaemia				
+101	a294275014	300	Other specified other anaemia	anaemia				
+102	a294278011	700	Other specified anaemia NOS	anaemia				
+103	a294290013	1000	Other specified anaemias	anaemia				
+104	a294564014	200	Nutritional anaemia	anaemia				
+105	a294567019	10000	[X]Other iron deficiency anaemias	anaemia				
+106	a294571016	500	[X]Other vitamin B12 deficiency anaemias	anaemia				
+107	a294572011	7000	Folate deficiency anaemia	anaemia				
+108	a294575013	6	"[X]Other megaloblastic anaemias, not elsewhere classified"	anaemia				
+109	a294579019	3000	"[X]Vitamin B12 deficiency anaemia, unspecified"	anaemia				
+110	a294582012	400	[X]Haemolytic anaemias	anaemia				
+111	a294583019	4	[X]Other anaemias due to enzyme disorders	anaemia				
+112	a294590012	40	[X]Other specified hereditary haemolytic anaemias	anaemia				
+113	a294593014	40	[X]Other autoimmune haemolytic anaemias	anaemia				
+114	a294595019	40	[X]Other nonautoimmune haemolytic anaemias	anaemia				
+115	a294596018	10	[X]Other acquired haemolytic anaemias	anaemia				
+116	a294599013	10	[X]Aplastic and other anaemias	anaemia				
+117	a294602015	8	[X]Other specified aplastic anaemias	anaemia				
+118	a294606017	4	[X]Other sideroblastic anaemias	anaemia				
+119	a294607014	200	[X]Other specified anaemias	anaemia				
+120	a297589013	30	Myasthenic syndrome due to pernicious anaemia	anaemia				
+121	a306137018	50000	Iron deficiency anaemia of pregnancy	anaemia				
+122	a316593017	300	Late anaemia of newborn due to isoimmunisation	anaemia				
+123	a316603018	20	Perinatal jaundice from hereditary haemolytic anaemia	anaemia				
+124	a316730019	30	Congenital anaemia from fetal blood loss	anaemia				
+125	a316946018	6	"[X]Other congenital anaemias, not elsewhere classified"	anaemia				
+126	a344913019	800	Refractory anaemia	anaemia				
+127	a351062010	100000	Macrocytosis - no anaemia	anaemia				
+128	a351067016	100000	Normocytic anaemia	anaemia				
+129	a351070017	200	Normocytic anaemia due to aplasia	anaemia				
+130	a351074014	10	von Jaksch's anaemia	anaemia				
+131	a351092018	2000	Normocytic anaemia due to chronic blood loss	anaemia				
+132	a351100019	200	Megaloblastic anaemia NOS	anaemia				
+133	a351101015	100	Megaloblastic anaemia due to dietary causes	anaemia				
+134	a351104011	80	Vegan's anaemia	anaemia				
+135	a351107016	20	Biermer's congenital pernicious anaemia	anaemia				
+136	a351137013	7	Acquired haemolytic anaemia with haemoglobinuria NEC	anaemia				
+137	a356110010	2	"Megaloblastic anaemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness"	anaemia				
+138	a397679016	7000	FH: Anaemia	anaemia				
+139	a399193019	70000	Deficiency anaemias	anaemia				
+140	a399196010	4000	Other deficiency anaemias	anaemia				
+141	a399198011	50000	Megaloblastic anaemia due to vitamin B>12< deficiency	anaemia				
+142	a399201018	5000	Vitamin B12 deficiency anaemia due to dietary causes	anaemia				
+143	a399205010	200	Other deficiency anaemias NOS	anaemia				
+144	a399223019	40	Aplastic anaemia due to drugs	anaemia				
+145	a399225014	300	Acquired aplastic anaemia NOS	anaemia				
+146	a399228011	600	Acute posthaemorrhagic anaemia	anaemia				
+147	a411530016	100000	H/O: anaemia	anaemia				
+148	a437732013	4000	Family history of pernicious anaemia	anaemia				
+149	a445119014	400	Normocytic anaemia following acute bleed	anaemia				
+150	a448863016	10000	Aplastic anaemia	anaemia				
+151	a453221019	20	Drug-induced autoimmune haemolytic anaemia	anaemia				
+152	a461283013	50	[V]Screening for other or unspecified deficiency anaemia	anaemia				
+153	a477268010	2	Drug-induced enzyme deficiency anaemia	anaemia				
+154	a493120017	5000	Sideroblastic anaemia	anaemia				
+155	a493975011	300000	Microcytic hypochromic anaemia	anaemia				
+156	a495896017	200	Microangiopathic haemolytic anaemia	anaemia				
+157	a496498015	300	Congenital dyserythropoietic anaemia	anaemia				
+158	a496576014	5000	Megaloblastic anaemia	anaemia				
+159	a497451015	800	Acquired aplastic anaemia	anaemia				
+160	a499268014	3000	Glucose-6-phosphate dehydrogenase deficiency anaemia	anaemia				
+161	a499346019	50	Congenital sideroblastic anaemia	anaemia				
+162	a499626019	300	Congenital anaemia	anaemia				
+163	a504528016	40	Achlorhydric anaemia	anaemia				
+164	a504771011	60	Drug-induced haemolytic anaemia	anaemia				
+165	a505888017	700000	Pernicious anaemia	anaemia				
+166	a506650011	500	Folate deficiency anaemia	anaemia				
+167	a506651010	2000	Folic acid deficiency anaemia	anaemia				
+168	a507619019	100	Asiderotic anaemia	anaemia				
+169	a507621012	200	Sideropenic anaemia	anaemia				
+170	a508244016	70	Congenital hypoplastic anaemia	anaemia				
+171	a508873014	70	Acquired sideroblastic anaemia	anaemia				
+172	a1216006019	100	[M] Refractory anaemia with sideroblasts	anaemia				
+173	a1216009014	100	[M] Refractory anaemia with excess of blasts	anaemia				
+174	a1216286014	100	Hypoplastic anaemia - familial	anaemia				
+175	a1216339013	200	Fanconi's hypoplastic anaemia	anaemia				
+176	a1216340010	300	Fanconi's familial refractory anaemia	anaemia				
+177	a1216755016	20	Perinatal jaundice from hereditary haemolytic anaemias	anaemia				
+178	a2535668013	900	Refractory anaemia with sideroblasts	anaemia				
+179	a2551306019	200	FH: Addisonian anaemia	anaemia				
+180	a2816277010	2000	History of sickle cell anaemia	anaemia				
+181	a15581000006119	600	Other specified anaemias	anaemia				
+182	a38181000006111	10000	Other and unspecified anaemias	anaemia				
+183	a62031000006117	700	Vitamin B12 deficiency anaemia due to malabsorption with proteinuria	anaemia				
+184	a62261000006118	100000	Vitamin B12-deficient megaloblastic anaemia	anaemia				
+185	a62281000006111	30000	Vitamin B>12< deficiency anaemia	anaemia				
+186	a98611000006117	1	Toxic aplastic anaemia	anaemia				
+187	a110881000006115	40	Thalassaemia major - Cooley's anaemia	anaemia				
+188	a141181000006110	60000	Sickle cell anaemia	anaemia				
+189	a141191000006113	1000	Sickle-cell anaemia NOS	anaemia				
+190	a141201000006111	1000	Sickle-cell anaemia of unspecified type	anaemia				
+191	a141211000006114	20000	Sickle cell anaemia with crisis	anaemia				
+192	a141221000006118	3000	Sickle cell anaemia with haemoglobin C disease	anaemia				
+193	a141231000006115	100	Sickle-cell anaemia with haemoglobin D disease	anaemia				
+194	a141241000006113	70	Sickle-cell anaemia with haemoglobin E disease	anaemia				
+195	a156131000006115	2	Scorbutic anaemia	anaemia				
+196	a179151000006119	40	Refractory anaemia with excess blasts in transformation (clinical)	anaemia				
+197	a179181000006110	4000	"Refractory anaemia, unspecified"	anaemia				
+198	a186311000006115	600	Refractory anaemia with excess blasts	anaemia				
+199	a223491000000112	200	Addison's anaemia	anaemia				
+200	a315831000006119	20	[M] Refractory anaemia with excess of blasts with transformation	anaemia				
+201	a351241000000113	50	Hypoplastic haemolytic and renal anaemia drugs Band 1	anaemia				
+202	a351261000000114	5	Hypoplastic haemolytic and renal anaemia drugs Band 2	anaemia				
+203	a363101000006116	4	Non megaloblastic anaemia associated with nutritional deficiency	anaemia				
+204	a454071000006113	3000	Acquired haemolytic anaemia	anaemia				
+205	a479141000006117	6	Amino-acid deficiency anaemia	anaemia				
+206	a500191000006115	10000	Autoimmune haemolytic anaemia	anaemia				
+207	a582091000006116	60	Congenital dyshaematopoietic anaemia	anaemia				
+208	a582791000006119	20	Congenital Heinz-body anaemia	anaemia				
+209	a590121000006115	40	Constitutional aplastic anaemia	anaemia				
+210	a590151000006112	1	Constitutional aplastic anaemia without malformation	anaemia				
+211	a703501000006114	90000	Microcytic - hypochromic anaemia	anaemia				
+212	a711521000006117	40	Mediterranean anaemia	anaemia				
+213	a711531000006119	9	Mediterranean anaemia	anaemia				
+214	a731981000006116	50000	Macrocytic anaemia	anaemia				
+215	a745101000006113	100	Leukoerythroblastic anaemia	anaemia				
+216	a745801000006116	2000	Iron deficiency anaemia due to blood loss	anaemia				
+217	a745851000006117	2000000	Iron deficiency anaemia	anaemia				
+218	a763221000006115	40000	Megaloblastic anaemia due to folate deficiency	anaemia				
+219	a763231000006117	3000	Folate deficiency anaemia due to dietary causes	anaemia				
+220	a763241000006110	70	Folate-deficiency anaemia due to liver disorders	anaemia				
+221	a763251000006112	100	Folate-deficiency anaemia due to malabsorption	anaemia				
+222	a763261000006114	1000	Folate-deficiency anaemia NOS	anaemia				
+223	a763271000006119	90	"Folate-deficiency anaemia, drug induced"	anaemia				
+224	a787861000006116	20	Hypoplastic anaemia due to drug or chemical substance	anaemia				
+225	a787871000006111	20	Hypoplastic anaemia due to infection	anaemia				
+226	a787881000006114	6	Hypoplastic anaemia due to radiation	anaemia				
+227	a787891000006112	5	Hypoplastic anaemia due to toxic cause	anaemia				
+228	a789001000006115	20000	Hypochromic - microcytic anaemia	anaemia				
+229	a804971000006111	8	Goat's milk anaemia	anaemia				
+230	a813801000006111	2	Haemolytic anaemia due glutathione metabolism disorder NOS	anaemia				
+231	a813821000006118	1	Haemolytic anaemia due to glutathione metabolism disorder OS	anaemia				
+232	a813851000006110	10	Haemolytic anaemia due to triose phosphate isomerase deficiency	anaemia				
+233	a813861000006112	10000	Haemolytic anaemia	anaemia				
+234	a821381000006117	1000	Hereditary haemolytic anaemia	anaemia				
+235	a881931000006114	40	Deficiency anaemias excl. iron	anaemia				
+236	a881941000006116	900	Other vit B12 defic. anaemia	anaemia				
+237	a881961000006117	200	Megoblastic anaemia NOS	anaemia				
+238	a881971000006112	50	Nutritional anaemias NOS	anaemia				
+239	a881991000006113	40	Other hered. haem. anaemias	anaemia				
+240	a882021000006117	30	Acquired haem. anaemia NOS	anaemia				
+241	a887991000006119	1000	Preg. + anaemia	anaemia				
+242	a906541000006110	30	[RFC] Anaemias	anaemia				
+243	a906551000006112	7000	[RFC] Pernicious anaemia	anaemia				
+244	a906571000006119	400	[RFC] Iron deficiency anaemia	anaemia				
+245	a1014371000006111	20	Adverse reaction to Drugs Used In Anaemias And Some Other Blood Disorders	anaemia				
+246	a1014381000006114	70	Adverse reaction to Drugs Used In Iron Deficiency Anaemia	anaemia				
+247	a1014411000006112	8	Adverse reaction to Drugs Used In Megaloblastic Anaemias	anaemia				
+248	a1014421000006116	1	Adverse reaction to Drugs Used In Hypoplastic And Haemolytic Anaemias	anaemia				
+249	a1815751000006117	7	Refractory anaemia without ring sideroblasts	anaemia				
+250	a1815761000006115	200	Refractory anaemia with ringed sideroblasts	anaemia				
+251	a2137201000000112	100	Refractory anaemia with multilineage dysplasia	anaemia				
+252	a2541851000006119	20	Leucoerythroblastic anaemia	anaemia				
+253	a2562431000006110	2	Warm autoimmune haemolytic anaemia	anaemia				
+254	a2790391000006118	2	Congenital Heinz body haemolytic anaemia	anaemia				
+255	a2992501000006112	100	Fanconi's anaemia	anaemia				
+256	a3216191000006116	1	Hypochromic anaemia	anaemia				
+257	a3220231000006118	4	Hypochromic microcytic anaemia	anaemia				
+258	a3255311000006112	5	Normocytic normochromic anaemia	anaemia				
+259	a3273911000006114	1	Megaloblastic anaemia due to chronic haemolytic anaemia	anaemia				
+260	a3620051000006119	6	"Congenital dyserythropoietic anaemia, type II"	anaemia				
+261	a3857521000006111	700	Macrocytic anaemia	anaemia				
+262	a3892461000006113	2	Folic acid deficiency anaemia	anaemia				
+263	a3922721000006113	30	IDA - Iron deficiency anaemia	anaemia				
+264	a3944001000006113	3	Diamond-Blackfan anaemia	anaemia				
+265	a4173361000006113	2	Refractory anaemia with ringed sideroblasts (clinical)	anaemia				
+266	a4393161000006112	1	Secondary autoimmune haemolytic anaemia	anaemia				
+267	a4393301000006114	1	Cold Donath Landsteiner type autoimmune haemolytic anaemia	anaemia				
+268	a4417941000006111	2	Refractory anaemia	anaemia				
+269	a4417981000006117	20	Refractory anaemia with sideroblasts	anaemia				
+270	a4418041000006114	20	Refractory anaemia with excess blasts	anaemia				
+271	a4418081000006115	1	Refractory anaemia with excess blasts in transformation	anaemia				
+272	a4529381000006110	2	Family history of sickle cell anaemia	anaemia				
+273	a4761091000006116	20	"Folate deficiency anaemia, drug-induced"	anaemia				
+274	a4761111000006113	20	Folate deficiency anaemia due to malabsorption	anaemia				
+275	a4761131000006119	2	Folate deficiency anaemia due to liver disorders	anaemia				
+276	a4796481000006115	1	"Maternal anaemia in pregnancy, before birth"	anaemia				
+277	a5063191000006111	200	Iron deficiency without anaemia	anaemia				
+278	a5063281000006117	2	Dilutional anaemia	anaemia				
+279	a5063381000006110	600	Microcytic anaemia	anaemia				
+280	a5063401000006110	3	Neonatal anaemia	anaemia				
+281	a5063661000006113	2	Combined deficiency anaemia	anaemia				
+282	a5063841000006110	2	Maternal autoimmune haemolytic anaemia	anaemia				
+283	a5574231000006112	200	History of anaemia	anaemia				
+284	a6352641000006114	1	Iron deficiency anaemia secondary to inadequate dietary iron intake	anaemia				
+285	a6614301000006114	7	Cold autoimmune haemolytic anaemia	anaemia				
+286	a6873191000006118	2	Refractory anaemia with excess blasts-2	anaemia				
+287	a7684021000006118	1	Microcytic anaemia with liver iron overload	anaemia				
+288	a7826131000006110	20	Iron-refractory iron deficiency anaemia	anaemia				
+289	a8300841000006112	4	Recurrent anaemia	anaemia				
+290	a11998051000006118	4	X chromosome-linked sideroblastic anaemia	anaemia				
+291	a12735441000006118	2	NHS Sickle Cell and Thalassaemia Screening Programme result consistent with sickle cell anaemia	anaemia				
+292	a14059251000006110	2	Perinatal jaundice due to hereditary haemolytic anaemia	anaemia				

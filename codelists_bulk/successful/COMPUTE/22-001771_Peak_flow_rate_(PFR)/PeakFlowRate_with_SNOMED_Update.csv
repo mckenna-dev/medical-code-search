@@ -1,0 +1,24 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+236671000006112,6872187,Peak expiratory flow rate,18491006
+406339014,2393155,Peak flow rate before bronchodilation,271529005
+226081000000111,665960,Peak expiratory flow rate measured using EN 13826 device,165871000000103
+406309016,563593,Peak flow rate after bronchodilation,271507006
+236711000006111,436100,Peak flow rate,313193002
+375280019,235007,Serial peak expiratory flow rate,251940009
+230491000006113,140080,PFR - Peak flow rate,313193002
+457145014,108015,Peak expiratory flow rate before bronchodilation,313276007
+1780211017,49724,Peak expiratory flow rate monitoring,401004000
+457090015,43238,Peak expiratory flow rate after bronchodilation,313232000
+2841921011,40095,Diurnal variation of peak expiratory flow rate,429745009
+1780222018,18815,Peak expiratory flow rate post steroids,401015005
+1780221013,13554,Peak expiratory flow rate pre steroids,401014009
+6027231000006117,9129,Peak flow rate (respiratory),313193002
+2159267016,3266,Serial peak expiratory flow rate abnormal,407668008
+2793591000006118,1620,PEFR - Peak expiratory flow rate,18491006
+1780218011,1155,Peak expiratory flow rate monitoring using diary,401011001
+1543611000006119,625,Measurement of peak expiratory flow rate,18491006
+264548013,382,Peak flow meter at home,170639000
+2793601000006114,271,PEF - Peak expiratory flow rate,18491006
+1691681000000117,194,Peak expiratory flow rate after exercise,763131000000100
+411667015,178,Peak flow rate normal,275732003
+411668013,173,Peak flow rate abnormal,275733008

@@ -1,0 +1,280 @@
+	MedCodeId	Observations	Term	hypertension
+0	a99042012	30000000	Essential hypertension	hypertension
+1	a64168014	10000000	Hypertensive disease	hypertension
+2	a790091000006115	6000000	Hypertension monitoring	hypertension
+3	a1780319017	4000000	Hypertension annual review	hypertension
+4	a790011000006113	3000000	Hypertension monitoring first letter	hypertension
+5	a411919011	2000000	Hypertension monitoring	hypertension
+6	a1131851000000118	1000000	Lifestyle advice regarding hypertension	hypertension
+7	a1780253016	1000000	Hypertension six month review	hypertension
+8	a395751018	900000	Essential hypertension NOS	hypertension
+9	a790121000006116	800000	Hypertension	hypertension
+10	a254072010	800000	O/E - BP reading raised	hypertension
+11	a299687010	800000	Hypertensive disorder	hypertension
+12	a789961000006118	700000	Hypertension monitoring second letter	hypertension
+13	a2159168015	600000	Patient on maximal tolerated antihypertensive therapy	hypertension
+14	a790071000006116	600000	Hypertension monitoring check done	hypertension
+15	a931171000006114	400000	Excepted from hypertension quality indicators - informed dissent	hypertension
+16	a251674014	400000	H/O: hypertension	hypertension
+17	a789971000006113	300000	Hypertension monitoring third letter	hypertension
+18	a789991000006114	300000	Hypertension monitoring telephone invite	hypertension
+19	a3135013	300000	Benign essential hypertension	hypertension
+20	a285265015	200000	Seen in hypertension clinic	hypertension
+21	a264471012	200000	Good hypertension control	hypertension
+22	a21601000000111	200000	Hypertension monitoring administration	hypertension
+23	a443764015	100000	On treatment for hypertension	hypertension
+24	a264486018	100000	Hypertensive treatment changed	hypertension
+25	a498791000006113	100000	Attends hypertension monitoring	hypertension
+26	a413076015	100000	White coat hypertension	hypertension
+27	a790001000006110	100000	Hypertension monitoring verbal invite	hypertension
+28	a264472017	90000	Poor hypertension control	hypertension
+29	a940001000006110	90000	Hypertension medication review	hypertension
+30	a1484957010	80000	DNA - Did not attend hypertension clinic	hypertension
+31	a405053013	80000	Hypertension monitored	hypertension
+32	a523801000006119	70000	BP - hypertensive disease	hypertension
+33	a93494011	60000	Systolic hypertension	hypertension
+34	a451424017	60000	Antihypertensive therapy	hypertension
+35	a856971000006112	60000	Hypertensive clinic	hypertension
+36	a790131000006118	60000	Hypertension resolved	hypertension
+37	a264467014	50000	Yearly observation of borderline hypertension	hypertension
+38	a16051000000119	50000	Hypertens.monitoring admin.NOS	hypertension
+39	a43850011	50000	Pulmonary arterial hypertension	hypertension
+40	a264485019	40000	Treatment for hypertension started	hypertension
+41	a253532015	40000	Hypertension resolved	hypertension
+42	a8439991000006115	40000	Hypertension monitoring SMS (short message service) text message first invitation	hypertension
+43	a5999791000006119	40000	Hypertension monitoring invitation	hypertension
+44	a2548266018	40000	Suspected hypertension	hypertension
+45	a107545013	30000	Hypertensive heart disease	hypertension
+46	a2117971000000119	30000	Hypertension self-management plan agreed	hypertension
+47	a790031000006119	30000	Hypertension annual review	hypertension
+48	a264473010	30000	Hypertension:follow-up default	hypertension
+49	a2474335018	30000	Hypertension clinical management plan	hypertension
+50	a264466017	30000	Pre-treatment BP reading	hypertension
+51	a53452019	30000	Secondary hypertension	hypertension
+52	a12626361000006113	30000	QOF (Quality and Outcomes Framework) hypertension quality indicator-related care invitation	hypertension
+53	a254073017	30000	O/E - BP reading very high	hypertension
+54	a153941000006118	30000	Seen in hypertension clinic	hypertension
+55	a1846991000006111	30000	Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)	hypertension
+56	a789951000006115	20000	Hypertension monitoring offer default	hypertension
+57	a284062018	20000	Referral to hypertension clinic	hypertension
+58	a146259010	20000	Secondary pulmonary hypertension	hypertension
+59	a1908711000006115	20000	Stage 1 hypertension (NICE 2011) without evidence of end organ damage	hypertension
+60	a131046010	20000	Malignant essential hypertension	hypertension
+61	a1846941000006119	20000	Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)	hypertension
+62	a2193031000000112	20000	Stage 1 hypertension	hypertension
+63	a12496011	20000	Hypertensive retinopathy	hypertension
+64	a64282015	20000	Hypertensive renal disease	hypertension
+65	a26091000000116	20000	Hypertension clinic administration	hypertension
+66	a7276911000006114	10000	Lifestyle education regarding hypertension	hypertension
+67	a1706551000000114	10000	Hypertension 9 month review	hypertension
+68	a8439981000006118	10000	Hypertension monitoring invitation SMS (short message service) text message	hypertension
+69	a1780318013	9000	Moderate hypertension control	hypertension
+70	a264487010	9000	Treatment for hypertension stopped	hypertension
+71	a264490016	9000	Digoxin monitoring	hypertension
+72	a8440001000006117	8000	Hypertension monitoring SMS (short message service) text message second invitation	hypertension
+73	a47076011	6000	Renal hypertension	hypertension
+74	a3654631000006113	5000	Pulmonary hypertension	hypertension
+75	a179371000006114	4000	Hypertension monitoring refused	hypertension
+76	a411508017	4000	Cardiomegaly - hypertensive	hypertension
+77	a504831000006116	4000	"Benign essential hypertension complicating pregnancy, childbirth and the puerperium"	hypertension
+78	a299686018	4000	Other specified hypertensive disease	hypertension
+79	a80224019	3000	Diastolic hypertension	hypertension
+80	a1780252014	3000	Hypertension treatment refused	hypertension
+81	a54939014	2000	Nephrosclerosis	hypertension
+82	a1855781000006115	2000	Hypertension monitoring in primary care	hypertension
+83	a2193021000000110	2000	Severe hypertension	hypertension
+84	a1908721000006111	2000	Stage 1 hypertension (NICE 2011) with evidence of end organ damage	hypertension
+85	a84111015	2000	Hypertensive encephalopathy	hypertension
+86	a1776461000006114	2000	Reason for referral: Blood Pressure	hypertension
+87	a6516381000006117	2000	Did not attend hypertension clinic	hypertension
+88	a2193971000000110	2000	Hypertension resistant to drug therapy	hypertension
+89	a350517010	2000	Thromboembolic pulmonary hypertension	hypertension
+90	a3642801000006112	2000	Malignant hypertension	hypertension
+91	a212991000006114	2000	Pre-eclampsia or eclampsia with pre-existing hypertension - delivered	hypertension
+92	a395753015	2000	Hypertensive renal disease NOS	hypertension
+93	a2115801000000110	2000	Hypertension self-management plan review	hypertension
+94	a299665018	1000	Hypertensive renal disease with renal failure	hypertension
+95	a262960017	1000	Hypertension induced by oral contraceptive pill	hypertension
+96	a299683014	1000	Renovascular hypertension	hypertension
+97	a2423811000000118	1000	Telehealth hypertension monitoring	hypertension
+98	a8440011000006119	1000	Hypertension monitoring SMS (short message service) text message third invitation	hypertension
+99	a299681011	1000	Hypertension secondary to endocrine disorders	hypertension
+100	a158241000006117	1000	Secondary hypertension NOS	hypertension
+101	a213011000006113	1000	Pre-eclampsia or eclampsia with hypertension unspecified	hypertension
+102	a1846961000006115	1000	Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011)	hypertension
+103	a5978371000006116	900	Hypertension screening recall	hypertension
+104	a331291010	900	Adverse reaction to other antihypertensives	hypertension
+105	a299682016	900	Secondary hypertension NOS	hypertension
+106	a108730018	800	Malignant hypertensive renal disease	hypertension
+107	a1011861000006110	800	Adverse reaction to Antihypertensive Drugs	hypertension
+108	a331302012	800	Antihypertensive adverse reaction	hypertension
+109	a884121000006111	800	Malignant hypertension	hypertension
+110	a285672012	700	BP ABNORMAL - 3rd recall	hypertension
+111	a99047018	700	Primary hypertension	hypertension
+112	a504791000006111	700	"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered"	hypertension
+113	a504811000006110	700	Benign essential hypertension in preg/childb/puerp unspec	hypertension
+114	a305818015	700	Pre-eclampsia or eclampsia with pre-existing hypertension	hypertension
+115	a7502051000006114	700	Labile hypertension due to being in a clinical environment	hypertension
+116	a84112010	700	Hypertensive crisis	hypertension
+117	a741661000006118	600	Hypertensive heart disease NOS	hypertension
+118	a151161000006115	600	Malignant secondary hypertension	hypertension
+119	a299684015	500	Hypertension secondary to drug	hypertension
+120	a2478822013	500	Secondary benign renovascular hypertension	hypertension
+121	a504901000006118	500	Benign hypertensive heart disease with congestive cardiac failure	hypertension
+122	a12734361000006112	500	QOF (Quality and Outcomes Framework) hypertension quality indicator-related care invitation using preferred method of communication	hypertension
+123	a1409014	500	Benign hypertensive renal disease	hypertension
+124	a741681000006111	500	Hypertensive heart disease NOS with CCF	hypertension
+125	a300869017	400	[X]Hypertensive diseases	hypertension
+126	a299678018	400	Secondary benign hypertension	hypertension
+127	a212961000006118	400	Pre-eclampsia or eclampsia + pre-existing hypertension NOS	hypertension
+128	a143003017	400	Hypertensive heart AND renal disease	hypertension
+129	a504801000006112	400	Benign essential hypertension in preg/childb/puerp NOS	hypertension
+130	a299655012	400	Hypertensive heart disease NOS	hypertension
+131	a90135019	400	Malignant hypertensive heart disease	hypertension
+132	a300871017	300	[X]Hypertension secondary to other renal disorders	hypertension
+133	a8459521000006112	300	Hypertension monitoring invitation email	hypertension
+134	a741691000006114	300	Hypertensive heart disease NOS without CCF	hypertension
+135	a789981000006111	300	Hypertens.monitor deleted	hypertension
+136	a212981000006111	200	Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication	hypertension
+137	a176971000006117	200	"Renal hypertension complicating pregnancy, childbirth and the puerperium"	hypertension
+138	a213001000006110	200	Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered	hypertension
+139	a299677011	200	Secondary malignant hypertension NOS	hypertension
+140	a305764016	200	Other pre-existing hypertension in preg/childbirth/puerp	hypertension
+141	a299680012	200	Benign secondary hypertension	hypertension
+142	a1823901000006112	200	Hypertension confirmed	hypertension
+143	a5979471000006115	200	Hypertension monitoring call	hypertension
+144	a1529013	100	Blind hypertensive eye	hypertension
+145	a3855401000006112	100	Cor pulmonale	hypertension
+146	a538151000006115	100	Cardiovascular drug poisoning	hypertension
+147	a351481000006111	100	[X] Adverse reaction to antihypertensives NOS	hypertension
+148	a60444016	100	Benign hypertensive heart disease	hypertension
+149	a299673010	100	Hypertensive heart and renal disease with renal failure	hypertension
+150	a19451000006111	100	Other pre-existing hypertension in preg/childb/puerp unspec	hypertension
+151	a404471000006113	100	"[X]Oth antihyperten drug caus advers eff in therap use, NEC"	hypertension
+152	a300870016	100	[X]Other secondary hypertension	hypertension
+153	a212971000006113	100	Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication	hypertension
+154	a1806071000006118	100	Stage 1 hypertension	hypertension
+155	a504911000006115	100	Benign hypertensive heart disease without CCF	hypertension
+156	a213111000006112	90	"Pre-existing hypertension complicating pregnancy, childbirth and puerperium"	hypertension
+157	a110659019	90	Malignant hypertensive heart AND renal disease	hypertension
+158	a299650019	90	Malignant hypertensive heart disease NOS	hypertension
+159	a610811000006114	80	Defective synthesis of 11B hydroxylase	hypertension
+160	a3117411000006118	80	High blood pressure	hypertension
+161	a728681000006116	80	Malignant hypertensive heart disease without congestive heart failure	hypertension
+162	a504781000006113	80	"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication"	hypertension
+163	a1806081000006115	70	Stage 2 hypertension	hypertension
+164	a356121000006111	70	[X] Adverse reaction to other antihypertensives	hypertension
+165	a504821000006119	70	"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered"	hypertension
+166	a19441000006114	60	Other pre-existing hypertension in preg/childb/puerp NOS	hypertension
+167	a19431000006116	60	Other pre-existing hypertension in preg/childb/puerp - deliv	hypertension
+168	a535651000000113	50	Trial reduction of antihypertensive therapy declined	hypertension
+169	a887811000006117	50	Preg.+ pre-existing hypertensn	hypertension
+170	a741701000006114	50	Hypertensive heart and renal disease with (congestive) heart failure	hypertension
+171	a7609711000006110	50	Hypertensive crisis	hypertension
+172	a3117481000006113	50	HT - Hypertension	hypertension
+173	a504761000006115	50	"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication"	hypertension
+174	a3117511000006117	50	HTN - Hypertension	hypertension
+175	a530221000000112	40	Trial withdrawal of antihypertensive therapy	hypertension
+176	a213081000006118	40	"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium"	hypertension
+177	a3119661000006114	40	Hypertensive nephropathy	hypertension
+178	a7278171000006116	40	Hypertensive urgency	hypertension
+179	a728671000006119	40	Malignant hypertensive heart disease with congestive cardiac failure	hypertension
+180	a299676019	40	Secondary malignant renovascular hypertension	hypertension
+181	a933171000006110	40	Drug reaction: ACE inhibitor	hypertension
+182	a5056141000006116	30	Persistent pulmonary hypertension of the newborn	hypertension
+183	a991821000006111	30	Drug reaction: ACE inhibitor	hypertension
+184	a1992471000006116	30	VTE risk assessment - uncontrolled systolic hypertension	hypertension
+185	a884131000006114	30	Hypertensive renal + heart dis	hypertension
+186	a530161000000111	30	Trial reduction of antihypertensive therapy	hypertension
+187	a19421000006119	30	Other pre-exist hypertension in preg/childb/puerp-not deliv	hypertension
+188	a4737881000006110	30	Blood pressure abnormal - 3rd recall	hypertension
+189	a6349461000006119	20	Labile essential hypertension	hypertension
+190	a5057801000006113	20	Chronic thromboembolic pulmonary hypertension	hypertension
+191	a789941000006117	20	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	hypertension
+192	a7103581000006114	20	Systolic essential hypertension	hypertension
+193	a7696031000006114	20	Supine hypertension	hypertension
+194	a5979461000006110	20	Hypertension monitoring status	hypertension
+195	a3898601000006112	20	Pre-existing hypertension in obstetric context	hypertension
+196	a4775831000006118	20	Hypertension secondary to endocrine disorder	hypertension
+197	a109700019	20	Benign hypertensive heart AND renal disease	hypertension
+198	a176981000006119	20	Renal hypertension in pregnancy/childbirth/puerperium NOS	hypertension
+199	a8041701000006119	20	Hypertensive emergency	hypertension
+200	a176951000006110	20	"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered"	hypertension
+201	a324338010	10	Other hypertensive agent poisoning	hypertension
+202	a176941000006113	10	"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered"	hypertension
+203	a1855791000006117	10	Hypertension monitoring in secondary care	hypertension
+204	a299675015	10	Hypertensive heart and renal disease NOS	hypertension
+205	a299654011	10	Benign hypertensive heart disease NOS	hypertension
+206	a899381000006112	10	Poisoning by CVS drugs	hypertension
+207	a176961000006112	10	Renal hypertension in pregnancy/childbirth/puerp unspecified	hypertension
+208	a8298681000006113	9	Nocturnal hypertension	hypertension
+209	a324342013	9	Hypertensive agent poisoning NOS	hypertension
+210	a2670511000006119	9	Benign hypertension	hypertension
+211	a7502041000006112	9	Intermittent hypertension	hypertension
+212	a324351017	8	Cardiovascular agent poisoning NOS	hypertension
+213	a39871000006113	8	Oth pre-exist hypert in preg/childb/puerp -del with p/n comp	hypertension
+214	a3117461000006115	6	Systemic arterial hypertension	hypertension
+215	a176931000006115	6	"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication"	hypertension
+216	a3468491000006113	6	Idiopathic hypertension	hypertension
+217	a8016541000006110	6	Postpartum pre-existing essential hypertension	hypertension
+218	a213091000006115	6	"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium"	hypertension
+219	a19411000006110	5	Other pre-exist hypertension in preg/childb/puerp + p/n comp	hypertension
+220	a4540441000006117	5	History of hypertension	hypertension
+221	a6592161000006112	5	Hypertension with albuminuria	hypertension
+222	a2737251000006112	5	Renal sclerosis with hypertension	hypertension
+223	a176921000006118	5	"Renal hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication"	hypertension
+224	a3784371000006115	5	Accelerated essential hypertension	hypertension
+225	a9897511000006110	5	Labile systemic arterial hypertension	hypertension
+226	a1877391000006112	5	Hypertension clinical management plan no longer in place	hypertension
+227	a3437381000006110	5	Parenchymal renal hypertension	hypertension
+228	a2951231000006117	4	Renal hypertension	hypertension
+229	a324340017	4	Other rauwolfia alkaloids poisoning	hypertension
+230	a3552501000006119	4	Hypertensive cardiopathy	hypertension
+231	a1858771000006114	4	AURAS-AF - consider the patient to have hypertension	hypertension
+232	a8040681000006112	4	Chronic kidney disease stage 3 due to hypertension	hypertension
+233	a5056161000006117	3	PPHN - Persistent pulmonary hypertension in newborn	hypertension
+234	a8030421000006114	3	Hypertensive heart AND chronic kidney disease stage 4	hypertension
+235	a8286321000006117	3	Resistant hypertension	hypertension
+236	a8286581000006114	3	Stage 2 hypertension	hypertension
+237	a351361000000117	3	Other specified high cost hypertension drugs	hypertension
+238	a3117451000006117	3	BP - High blood pressure	hypertension
+239	a535591000000118	3	Trial withdrawal of antihypertensive therapy declined	hypertension
+240	a3595861000006116	3	Pre-eclampsia added to pre-existing hypertension	hypertension
+241	a3250801000006112	3	Low-renin essential hypertension	hypertension
+242	a5730901000006115	3	Maternal hypertension	hypertension
+243	a422481000006113	3	Poisoning by cardiovascular system drug	hypertension
+244	a4356081000006115	2	Hypertension due to renovascular disease	hypertension
+245	a8040691000006110	2	Chronic kidney disease stage 2 due to hypertension	hypertension
+246	a933281000006117	2	Angio II recep antag adv react	hypertension
+247	a4361221000006114	2	Deficiency of steroid 11-beta-monooxygenase	hypertension
+248	a350601000000116	2	High cost hypertension drugs	hypertension
+249	a3636695013	2	Diastolic hypertension and systolic hypertension	hypertension
+250	a2517301000006110	2	Antihypertensive	hypertension
+251	a13941071000006116	2	Moderate pulmonary hypertension	hypertension
+252	a6214751000006112	2	Pulmonary hypertension secondary to raised pulmonary vascular resistance	hypertension
+253	a2639781000006114	2	Chronic hypertension in obstetric context	hypertension
+254	a5835611000006117	2	Antihypertensive overdose	hypertension
+255	a1806141000006113	2	Severe hypertension	hypertension
+256	a3781691000006113	1	Essential hypertension complicating AND/OR reason for care during pregnancy	hypertension
+257	a8036941000006111	1	Chronic kidney disease stage 1 due to hypertension	hypertension
+258	a3671691000006112	1	Essential hypertension in obstetric context	hypertension
+259	a7572921000006113	1	Gordon hyperkalemia-hypertension syndrome	hypertension
+260	a3470001000006117	1	Sustained diastolic hypertension	hypertension
+261	a351341000000118	1	High cost hypertension drugs NOS	hypertension
+262	a3117521000006113	1	"Hypertensive disorder, systemic arterial"	hypertension
+263	a3117491000006111	1	High blood pressure disorder	hypertension
+264	a3710191000006113	1	Secondary diastolic hypertension	hypertension
+265	a989741000006111	1	Angio II recep antag adv react	hypertension
+266	a4556531000006114	1	On examination - blood pressure reading very high	hypertension
+267	a7501601000006111	1	Precapillary pulmonary hypertension	hypertension
+268	a3595901000006111	1	Superimposed pre-eclampsia	hypertension
+269	a13688011000006110	1	Multiple drug intolerant hypertension	hypertension
+270	a3950631000006119	1	Accelerated secondary hypertension	hypertension
+271	a13941061000006111	1	Mild pulmonary hypertension	hypertension
+272	a213101000006114	1	"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium"	hypertension
+273	a4634651000006115	1	Pre-treatment blood pressure reading	hypertension
+274	a2674471000006117	1	Progressive pulmonary hypertension	hypertension
+275	a7501711000006118	1	Pulmonary arterial hypertension associated with connective tissue disease	hypertension
+276	a3529151000006119	1	Benign essential hypertension in obstetric context	hypertension
+277	a5590581000006114	1	Pulmonary hypertension with occult mitral stenosis	hypertension
+278	a7567571000006112	1	Hypertension clinic	hypertension

@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/Promblematic_Drinking.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22_001836_CHD_Anaemia/main/Codelists/Promblematic_Drinking.csv
+Codelist Name: Alcohol - Problematic Drinking
+Project Title: CHD Anaemia
+ERAP Number: 22-001836
+Author: Cynthia Wright Drakesmith, Margaret Smith
+Coding System: Gold
+Year Created: 2024
+Downloaded: 2025-06-25 13:24:17
+File Size: 20948 bytes

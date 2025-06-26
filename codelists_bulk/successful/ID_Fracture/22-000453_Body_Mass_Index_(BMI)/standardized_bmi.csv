@@ -1,0 +1,37 @@
+MedCodeId,MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,os_term,originalreadcode,cleansedreadcode,snomedctdescriptionid,release,emiscodecategoryid,simpleterm
+162863004,4553721000006113,BMI 25-29 - overweight,,162863004,Body mass index 25-29 - overweight,^ESCTBM455372,,2164215019,,2,bmi 25-29 - overweight
+162863004,253847018,Body mass index index 25-29 - overweight,,162863004,Body mass index 25-29 - overweight,22K4,22K4.00,253847018,,2,body mass index index 25-29 - overweight
+162863004,4553701000006115,Body mass index 25-29 - overweight,,162863004,Body mass index 25-29 - overweight,^ESCTBO455370,,2773979010,,2,body mass index 25-29 - overweight
+162864005,253848011,Body mass index 30+ - obesity,,162864005,Body mass index 30+ - obesity,22K5,22K5.00,253848011,,2,body mass index 30+ - obesity
+162864005,4553741000006118,BMI 30+ - obesity,,162864005,Body mass index 30+ - obesity,^ESCTBM455374,,2164216018,,2,bmi 30+ - obesity
+301331008,5892211000006116,Finding of BMI (body mass index),,301331008,Finding of body mass index,^ESCTFI589221,,2227951000000116,,31,finding of bmi (body mass index)
+301331008,5892201000006119,Observation of body mass index,,301331008,Finding of body mass index,^ESCTOB589220,,1226967010,,31,observation of body mass index
+301331008,11923361000006119,Finding of body mass index,,301331008,Finding of body mass index,^ESCT1192336,,442609010,,2,finding of body mass index
+310252000,453856012,Body mass index less than 20,,310252000,Body mass index less than 20,22K6,22K6.00,453856012,,2,body mass index less than 20
+310252000,5998281000006119,BMI less than 20,,310252000,Body mass index less than 20,^ESCTBM599828,,2164663010,,2,bmi less than 20
+35425004,253844013,Normal body mass index,,35425004,Normal body mass index,22K1,22K1.00,59104012,,2,normal body mass index
+35425004,3070611000006119,Normal BMI (body mass index),,35425004,Normal body mass index,^ESCTNO307061,,2227901000000117,,2,normal bmi (body mass index)
+408512008,2160062010,Body mass index 40+ - severely obese,,408512008,Body mass index 40+ - severely obese,22K7,22K7.00,2160062010,,2,body mass index 40+ - severely obese
+408512008,6763401000006111,BMI (body mass index) 40+ - severely obese,,408512008,Body mass index 40+ - severely obese,^ESCTBM676340,,2227961000000118,,2,bmi (body mass index) 40+ - severely obese
+408512008,6763391000006114,Body mass index 40+ - morbidly obese,,408512008,Body mass index 40+ - severely obese,^ESCTBO676339,,3005953017,,2,body mass index 40+ - morbidly obese
+412768003,2474325012,Body mass index 20-24 - normal,,412768003,Body mass index 20-24 - normal,22K8,22K8.00,2474325012,,2,body mass index 20-24 - normal
+412768003,6831331000006118,BMI (body mass index) 20-24 - normal,,412768003,Body mass index 20-24 - normal,^ESCTBM683133,,2228011000000118,,2,bmi (body mass index) 20-24 - normal
+427090001,7068841000006116,Body mass index less than 16.5,,427090001,Body mass index less than 16.5,^ESCTBO706884,,2673915012,,31,body mass index less than 16.5
+427090001,7068851000006119,BMI (body mass index) less than 16.5,,427090001,Body mass index less than 16.5,^ESCTBM706885,,2228201000000111,,31,bmi (body mass index) less than 16.5
+443371000124107,12113171000006118,Body mass index 30.00 to 34.99,,443371000124107,Obese class I,^ESCT1211317,,660391000124112,,31,body mass index 30.00 to 34.99
+443371000124107,12113161000006113,Obese class I,,443371000124107,Obese class I,^ESCT1211316,,660381000124114,,31,obese class i
+443381000124105,12113191000006117,Body mass index 35.00 to 39.99,,443381000124105,Obese class II,^ESCT1211319,,660431000124118,,31,body mass index 35.00 to 39.99
+443381000124105,12113181000006115,Obese class II,,443381000124105,Obese class II,^ESCT1211318,,660421000124116,,31,obese class ii
+48499001,253845014,Increased body mass index,,48499001,Increased body mass index,22K2,22K2.00,80800016,,2,increased body mass index
+48499001,3284711000006119,Increased BMI (body mass index),,48499001,Increased body mass index,^ESCTIN328471,,2227911000000115,,2,increased bmi (body mass index)
+60621009,3484801000006114,BMI - Body mass index,,60621009,Body mass index,^ESCTBM348480,,2164081012,,2,bmi - body mass index
+60621009,3484791000006113,Weight: body mass,,60621009,Body mass index,^ESCTWE348479,,2164080013,,2,weight: body mass
+60621009,3484811000006112,Quetelet index,,60621009,Body mass index,^ESCTQU348481,,2620985015,,2,quetelet index
+60621009,100716012,Body mass index,,60621009,Body mass index,22K,22K..00,100716012,,2,body mass index
+60621009,3484781000006110,Body mass index,,60621009,Body mass index,^ESCTBO348478,,3484781000006110,,2,body mass index
+6497000,2603621000006111,Decreased BMI (body mass index),,6497000,Decreased body mass index,^ESCTDE260362,,2227891000000118,,2,decreased bmi (body mass index)
+6497000,253846010,Decreased body mass index,,6497000,Decreased body mass index,22K3,22K3.00,11777011,,2,decreased body mass index
+846931000000101,8286991000006119,Baseline BMI (body mass index),,846931000000101,Baseline body mass index,^ESCTBA828699,,2228241000000114,,2,baseline bmi (body mass index)
+846931000000101,2196071000000116,Baseline body mass index,,846931000000101,Baseline body mass index,22KB,22KB.00,2196071000000116,,2,baseline body mass index
+914721000000105,2350241000000116,Obese class I (body mass index 30.0 - 34.9),,914721000000105,Obese class I (body mass index 30.0 - 34.9),22KC,22KC.00,2350241000000116,,2,obese class i (body mass index 30.0 - 34.9)
+914741000000103,1900331000006113,Obese class III (body mass index equal to or greater than 40.0),,914741000000103,Obese class III (body mass index equal to or greater than 40.0),22KE,22KE.00,2350281000000112,,2,obese class iii (body mass index equal to or greater than 40.0)

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 10
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                 Term
+0   2417          Cancer    Vulvovaginal  a721051000006113         Malignant neoplasm of vagina
+1   2418          Cancer    Vulvovaginal        a289207017  Malignant neoplasm of vaginal vault
+2   2419          Cancer    Vulvovaginal        a289208010     Malignant neoplasm of vagina NOS

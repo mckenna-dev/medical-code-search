@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 112
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+0                               15549\t"M030200"\t283\t0\t33\t1\t"Cellulitis and abscess of chin"\t"February 2009"
+1                              25156\t"H1y2100"\t74\t0\t2\t0\t"Pharynx or nasopharynx cellulitis"\t"February 2009"
+2                         1315\t"M081.00"\t2937\t0\t41\t0\t"[X]Cellulitis of other parts of limb"\t"February 2009"

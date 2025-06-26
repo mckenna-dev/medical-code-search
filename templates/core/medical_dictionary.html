@@ -1,0 +1,85 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Medical Dictionary Search</h1>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <h5>Search Medical Codes</h5>
+    </div>
+    <div class="card-body">
+        <form method="get" action="{% url 'medical_dictionary' %}">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="mb-3">
+                        <label for="term" class="form-label">Search Term</label>
+                        <input type="text" class="form-control" id="term" name="term" value="{{ term }}" placeholder="Enter medical term...">
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="mb-3">
+                        <label for="code" class="form-label">Code ID</label>
+                        <input type="text" class="form-control" id="code" name="code" value="{{ code }}" placeholder="Enter code ID...">
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="mb-3">
+                        <label for="category" class="form-label">Category</label>
+                        <select class="form-control" id="category" name="category">
+                            <option value="">All Categories</option>
+                            {% for cat in categories %}
+                            <option value="{{ cat }}" {% if cat == category %}selected{% endif %}>{{ cat }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+            </div>
+            
+            <button type="submit" class="btn btn-primary">Search</button>
+            <a href="{% url 'medical_dictionary' %}" class="btn btn-outline-secondary">Clear</a>
+        </form>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h5>Search Results</h5>
+    </div>
+    <div class="card-body">
+        {% if codes %}
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Code ID</th>
+                        <th>Term</th>
+                        <th>SNOMED CT</th>
+                        <th>Category</th>
+                        <th>System</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for code in codes %}
+                    <tr>
+                        <td>{{ code.med_code_id }}</td>
+                        <td>{{ code.term }}</td>
+                        <td>{{ code.snomed_ct_concept_id }}</td>
+                        <td>{{ code.emis_category }}</td>
+                        <td>{{ code.coding_system }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+        <div class="text-center p-4">
+            {% if term or code or category %}
+                <p>No codes found matching your search criteria.</p>
+            {% else %}
+                <p>Enter search criteria above to find medical codes.</p>
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

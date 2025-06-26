@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 87
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tGORD']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                    MedCodeId\tObservations\tTerm\tGORD
+0                  a252560012\t4000000\tDyspepsia\tGORD
+1  a353143016\t2000000\tGastro-oesophageal reflux\tGORD
+2        a396340013\t1000000\tReflux oesophagitis\tGORD

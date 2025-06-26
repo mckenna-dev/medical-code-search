@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 19
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order         Flag_classifyL1       Flag_classifyL2         MedCodeID                                                    Term
+0    150  Arthritis_inflammatory  Psoriatic_arthritis   a198881000006116   Psoriatic arthritis with spine involvement (disorder)
+1    151  Arthritis_inflammatory  Psoriatic_arthritis         a308730016                               Psoriatic arthropathy NOS
+2    152  Arthritis_inflammatory  Psoriatic_arthritis         a359310019  Juvenile psoriatic arthritis with psoriasis (disorder)

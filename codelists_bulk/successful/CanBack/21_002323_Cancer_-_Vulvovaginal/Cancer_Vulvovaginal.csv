@@ -1,0 +1,11 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2417,Cancer,Vulvovaginal,a721051000006113,Malignant neoplasm of vagina,L1:Cancer_L2:Vulvovaginal,B450.00
+2418,Cancer,Vulvovaginal,a289207017,Malignant neoplasm of vaginal vault,L1:Cancer_L2:Vulvovaginal,B450100
+2419,Cancer,Vulvovaginal,a289208010,Malignant neoplasm of vagina NOS,L1:Cancer_L2:Vulvovaginal,B450z00
+2420,Cancer,Vulvovaginal,a482690017,Malignant neoplasm of labia majora,L1:Cancer_L2:Vulvovaginal,B451.00
+2421,Cancer,Vulvovaginal,a289209019,Malignant neoplasm of greater vestibular (Bartholin's) gland,L1:Cancer_L2:Vulvovaginal,B451000
+2422,Cancer,Vulvovaginal,a289210012,Malignant neoplasm of labia majora NOS,L1:Cancer_L2:Vulvovaginal,B451z00
+2423,Cancer,Vulvovaginal,a482691018,Malignant neoplasm of labia minora,L1:Cancer_L2:Vulvovaginal,B452.00
+2424,Cancer,Vulvovaginal,a1210566016,Malignant neoplasm of clitoris,L1:Cancer_L2:Vulvovaginal,B453.00
+2425,Cancer,Vulvovaginal,a403701012,Malignant neoplasm of vulva unspecified,L1:Cancer_L2:Vulvovaginal,B454.00
+2426,Cancer,Vulvovaginal,a411399019,Primary vulval cancer,L1:Cancer_L2:Vulvovaginal,B454.11

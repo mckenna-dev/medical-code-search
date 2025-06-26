@@ -1,0 +1,1363 @@
+	MedCodeId	Observations	Term	CVD		
+0	a2534664018	5000000	Ischaemic heart disease	CVD		
+1	a299757012	3000000	Angina pectoris	CVD		
+2	a460133017	2000000	Coronary heart disease annual review	CVD		
+3	a94884017	1000000	Acute myocardial infarction	CVD		
+4	a1780444014	1000000	Coronary heart disease monitoring 1st letter	CVD		
+5	a2537480011	1000000	IHD - Ischaemic heart disease	CVD		
+6	a1780501013	400000	Acute non-ST segment elevation myocardial infarction	CVD		
+7	a219531000000117	300000	MI - acute myocardial infarction	CVD		
+8	a1780445010	300000	Coronary heart disease monitoring 2nd letter	CVD		
+9	a1488382011	200000	Acute coronary syndrome	CVD		
+10	a1780491019	200000	Acute ST segment elevation myocardial infarction	CVD		
+11	a2536395017	200000	Coronary artery disease	CVD		
+12	a1484833014	100000	Coronary heart disease review	CVD		
+13	a299835014	100000	Ischaemic heart disease NOS	CVD		
+14	a411904010	100000	Aspirin prophylaxis for ischaemic heart disease	CVD		
+15	a495371000000110	100000	Review of patient at risk from coronary heart disease	CVD		
+16	a1488440011	100000	Coronary heart disease medication review	CVD		
+17	a1780446011	100000	Coronary heart disease monitoring 3rd letter	CVD		
+18	a7845011	90000	Unstable angina	CVD		
+19	a299714019	90000	Acute myocardial infarction of inferior wall	CVD		
+20	a1484939014	80000	Coronary heart disease monitoring administration	CVD		
+21	a350348018	70000	Stable angina	CVD		
+22	a299721019	60000	Acute myocardial infarction NOS	CVD		
+23	a72571000006115	60000	Unstable angina	CVD		
+24	a4031011	60000	Old myocardial infarction	CVD		
+25	a482941000006119	50000	Angina pectoris NOS	CVD		
+26	a1780518012	50000	Coronary heart disease monitoring check done	CVD		
+27	a299765010	50000	Angina pectoris NOS	CVD		
+28	a350346019	40000	Triple vessel disease of the heart	CVD		
+29	a595731000006114	40000	Coronary atherosclerosis	CVD		
+30	a406961000000113	30000	Coronary heart disease monitoring telephone invite	CVD		
+31	a1780447019	30000	Coronary heart disease monitoring verbal invitation	CVD		
+32	a299709018	20000	Anterior myocardial infarction NOS	CVD		
+33	a455641000006112	20000	Acute anterolateral myocardial infarction	CVD		
+34	a299782012	20000	Single coronary vessel disease	CVD		
+35	a299783019	20000	Double coronary vessel disease	CVD		
+36	a1780442013	10000	Attends coronary heart disease monitoring	CVD		
+37	a457531000006110	10000	Acute inferolateral myocardial infarction	CVD		
+38	a37443015	10000	Heart attack	CVD		
+39	a299776014	10000	Chronic ischaemic heart disease	CVD		
+40	a810821000006112	10000	H/O: myocardial infarct at greater than 60	CVD		
+41	a1780517019	10000	Coronary heart disease monitoring default	CVD		
+42	a442204010	10000	Angina on effort	CVD		
+43	a810811000006116	10000	H/O: myocardial infarct at less than 60	CVD		
+44	a299796018	10000	Ischaemic cardiomyopathy	CVD		
+45	a116992017	9000	Acute subendocardial infarction	CVD		
+46	a7847015	8000	Crescendo angina	CVD		
+47	a299745015	8000	Acute coronary insufficiency	CVD		
+48	a451132018	8000	[V]Presence of coronary artery bypass graft	CVD		
+49	a884151000006119	7000	Myocardial Infarction	CVD		
+50	a338974012	6000	Ischaemic chest pain	CVD		
+51	a299707016	6000	Acute anterior myocardial infarction	CVD		
+52	a494261017	6000	Worsening angina	CVD		
+53	a2160096015	6000	Coronary artery bypass graft occlusion	CVD		
+54	a7844010	5000	Preinfarction syndrome	CVD		
+55	a459859010	5000	Asymptomatic coronary heart disease	CVD		
+56	a1235225010	5000	Prinzmetal's angina	CVD		
+57	a8079871000006116	5000	Coronary heart disease monitoring telephone invitation	CVD		
+58	a299741012	5000	Preinfarction syndrome	CVD		
+59	a299834013	4000	Other specified ischaemic heart disease	CVD		
+60	a498328016	4000	Angina at rest	CVD		
+61	a299710011	4000	Acute posterior myocardial infarction	CVD		
+62	a455651000006114	4000	Acute anteroseptal myocardial infarction	CVD		
+63	a12626301000006112	4000	QOF (Quality and Outcomes Framework) secondary prevention of coronary heart disease quality indicator-related care invitation	CVD		
+64	a451372015	4000	H/O: Treatment for ischaemic heart disease	CVD		
+65	a450322013	3000	Acute non-Q wave infarction	CVD		
+66	a1786197015	3000	Coronary thrombosis	CVD		
+67	a2855301000006112	3000	Myocardial infarction	CVD		
+68	a8459551000006115	3000	Coronary heart disease monitoring invitation	CVD		
+69	a350350014	3000	New onset angina	CVD		
+70	a1235573016	3000	Ventricular cardiac aneurysm	CVD		
+71	a1234005010	3000	Acute inferoposterior infarction	CVD		
+72	a299711010	3000	Acute lateral myocardial infarction	CVD		
+73	a350376014	3000	Silent myocardial infarction	CVD		
+74	a2534674015	3000	Chronic myocardial ischaemia	CVD		
+75	a108561012	2000	Aneurysm of heart	CVD		
+76	a299718016	2000	Other acute myocardial infarction	CVD		
+77	a13823711000006118	2000	Coronary heart disease monitoring first letter	CVD		
+78	a451369010	2000	H/O: Myocardial infarction in last year	CVD		
+79	a39111000006114	2000	Other acute and subacute ischaemic heart disease	CVD		
+80	a394541000006112	2000	[X]Ischaemic heart diseases	CVD		
+81	a98087016	2000	Angina decubitus	CVD		
+82	a299805019	2000	Other chronic ischaemic heart disease NOS	CVD		
+83	a350354017	2000	Silent myocardial ischaemia	CVD		
+84	a1654891000000110	1000	Coronary angioplasty planned	CVD		
+85	a459487012	1000	Refractory angina	CVD		
+86	a1550991000000116	1000	Coronary artery bypass graft operation planned	CVD		
+87	a4776121000006117	1000	Generalised ischaemic myocardial dysfunction	CVD		
+88	a13930051000006117	1000	Dressler's syndrome	CVD		
+89	a2115181000000110	1000	Coronary microvascular disease	CVD		
+90	a459488019	1000	Transient myocardial ischaemia	CVD		
+91	a3371421000006117	1000	Coronary heart disease	CVD		
+92	a482811000006113	1000	Angina at rest	CVD		
+93	a89332015	1000	Atherosclerotic heart disease	CVD		
+94	a458410010	1000	Post infarct angina	CVD		
+95	a219521000000119	1000	Attack - heart	CVD		
+96	a3371411000006113	900	CHD - Coronary heart disease	CVD		
+97	a2536393012	800	Arteriosclerotic heart disease	CVD		
+98	a119261000006115	800	Sudden cardiac death	CVD		
+99	a884141000006116	700	Coronary thrombosis	CVD		
+100	a299808017	700	Subsequent myocardial infarction	CVD		
+101	a4032016	700	Healed myocardial infarction	CVD		
+102	a208365015	700	Postoperative myocardial infarction	CVD		
+103	a5887611000006117	700	Exercise-induced angina	CVD		
+104	a6651391000006114	600	NSTEMI - Non-ST segment elevation MI	CVD		
+105	a1234306015	600	Acute septal infarction	CVD		
+106	a2609111000000119	600	Non-obstructive coronary atherosclerosis	CVD		
+107	a884171000006112	600	Chr. ischaemic heart dis. NOS	CVD		
+108	a1780448012	500	Coronary heart disease monitoring deleted	CVD		
+109	a299720018	500	Other acute myocardial infarction NOS	CVD		
+110	a299712015	500	True posterior myocardial infarction	CVD		
+111	a447324018	500	Acute Q-wave infarct	CVD		
+112	a3600701000006114	500	Coronary artery atheroma	CVD		
+113	a109916013	500	Dressler's syndrome	CVD		
+114	a59952018	400	Nocturnal angina	CVD		
+115	a2537483013	400	Chronic coronary insufficiency	CVD		
+116	a299723016	400	Other acute and subacute ischaemic heart disease	CVD		
+117	a884161000006117	400	Acute/subacute IHD NOS	CVD		
+118	a4775971000006114	400	Angina	CVD		
+119	a144819018	400	Variant angina pectoris	CVD		
+120	a1786198013	400	Thrombosis - coronary	CVD		
+121	a460681000006116	400	Acute transmural myocardial infarction of unspecif site	CVD		
+122	a5058231000006119	400	Coronary artery stenosis	CVD		
+123	a682481000006118	400	Myocardial infarction aborted	CVD		
+124	a216351000006118	300	Post infarction pericarditis	CVD		
+125	a4005601000006116	300	Calcific coronary arteriosclerosis	CVD		
+126	a300874013	300	[X]Other forms of angina pectoris	CVD		
+127	a109915012	300	Post-myocardial infarction syndrome	CVD		
+128	a299804015	300	Other specified chronic ischaemic heart disease NOS	CVD		
+129	a299800012	300	Other specified chronic ischaemic heart disease	CVD		
+130	a1232666014	300	Cardiac aneurysm	CVD		
+131	a12734391000006116	200	QOF (Quality and Outcomes Framework) secondary prevention of coronary heart disease quality indicator-related care invitation using preferred method of communication	CVD		
+132	a967931000006114	200	Acute myocardial infarction of posterolateral wall	CVD		
+133	a537751000006115	200	Cardiac rupture after acute myocardial infarction	CVD		
+134	a6850801000006111	200	Disorder of coronary artery	CVD		
+135	a494438016	200	Subendocardial ischaemia	CVD		
+136	a299763015	200	Angina decubitus NOS	CVD		
+137	a299790012	200	Aneurysm of heart NOS	CVD		
+138	a299708014	200	Acute anteroapical infarction	CVD		
+139	a299750014	200	Other acute and subacute ischaemic heart disease NOS	CVD		
+140	a460686018	200	[V]Presence of aortocoronary bypass graft	CVD		
+141	a299742017	200	Coronary thrombosis not resulting in myocardial infarction	CVD		
+142	a6360391000006118	200	Atypical angina	CVD		
+143	a6651221000006117	200	STEMI - ST elevation myocardial infarction	CVD		
+144	a931961000006117	200	Acute coronary syndrome	CVD		
+145	a299812011	100	Subsequent myocardial infarction of inferior wall	CVD		
+146	a412682010	100	Transient myocardial ischaemia of newborn	CVD		
+147	a3920021000006112	100	Coronary artery spasm angina	CVD		
+148	a455422014	100	Postoperative subendocardial myocardial infarction	CVD		
+149	a36036010	100	Syncope anginosa	CVD		
+150	a7571581000006113	100	Acute anterior ST segment elevation myocardial infarction	CVD		
+151	a6360351000006112	100	Multi vessel coronary artery disease	CVD		
+152	a585631000000113	100	Emergency hospital admission for ischaemic heart disease	CVD		
+153	a299719012	100	Acute atrial infarction	CVD		
+154	a3371381000006110	90	CAD - Coronary artery disease	CVD		
+155	a3381601000006117	90	Acute myocardial infarction of anterior wall	CVD		
+156	a6864781000006110	90	Myocardial ischaemia	CVD		
+157	a299811016	90	Subsequent myocardial infarction of anterior wall	CVD		
+158	a813961000006116	90	Haemopericardium as current complication following acute myocardial infarction	CVD		
+159	a362461000006119	80	[X]Acute transmural myocardial infarction of unspecif site	CVD		
+160	a100681000006116	80	"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"	CVD		
+161	a7572321000006112	80	Acute ST segment elevation myocardial infarction of inferior wall	CVD		
+162	a455423016	80	"Postoperative myocardial infarction, unspecified"	CVD		
+163	a7105241000006116	80	Typical angina	CVD		
+164	a6601121000006118	80	Coronary artery thrombosis	CVD		
+165	a498031000006112	80	Atrial septal defect as current complication following acute myocardial infarction	CVD		
+166	a395755010	80	Other cardiac wall aneurysm	CVD		
+167	a2619484018	70	MI - Myocardial infarction aborted	CVD		
+168	a5887631000006111	70	Exertional angina	CVD		
+169	a6546111000006118	70	ACS - Acute coronary syndrome	CVD		
+170	a7572331000006110	70	Acute STEMI (ST elevation myocardial infarction) of inferior wall	CVD		
+171	a7571601000006115	70	Acute STEMI (ST elevation myocardial infarction) of anterior wall	CVD		
+172	a300879015	70	[X]Other forms of chronic ischaemic heart disease	CVD		
+173	a67081000006119	60	Ventricular septal defect as current complication following acute myocardial infarction	CVD		
+174	a6860251000006115	60	Ischemic heart disease	CVD		
+175	a5056201000006111	50	Triple vessel coronary artery disease	CVD		
+176	a32122016	50	Status anginosus	CVD		
+177	a300876010	50	[X]Other forms of acute ischaemic heart disease	CVD		
+178	a2729671000000118	40	Acute transmural myocardial infarction	CVD		
+179	a8036721000006118	40	Chronic total occlusion of coronary artery	CVD		
+180	a1229885017	40	Microinfarction of heart	CVD		
+181	a411503014	40	Mural cardiac aneurysm	CVD		
+182	a9868571000006116	40	Mural thrombus of left ventricle following acute myocardial infarction	CVD		
+183	a543291000006110	40	Myocardial infarction with complication	CVD		
+184	a14130101000006118	40	Stenosis of anterior descending branch of left coronary artery	CVD		
+185	a4354151000006115	40	Right coronary artery occlusion	CVD		
+186	a118831000006118	40	Subsequent myocardial infarction of unspecified site	CVD		
+187	a4776071000006117	30	Two coronary vessel disease	CVD		
+188	a6360361000006114	30	Left main coronary artery disease	CVD		
+189	a616081000006113	30	Diabetes mellitus insulin-glucose infusion in acute myocardial infarction	CVD		
+190	a3536581000006113	30	Coronary occlusion	CVD		
+191	a14132941000006118	30	Myocardial infarction with non-obstructive coronary artery	CVD		
+192	a3920011000006116	30	Variant angina	CVD		
+193	a6860261000006118	30	IHD - Ischemic heart disease	CVD		
+194	a3371361000006117	20	Coronary arteriosclerosis	CVD		
+195	a4776031000006115	20	Ischaemic heart disease - angina	CVD		
+196	a5056421000006119	20	Old inferior myocardial infarction	CVD		
+197	a5056941000006119	20	Post-infarction pericarditis	CVD		
+198	a3919991000006112	20	Prinzmetal angina	CVD		
+199	a13941171000006115	20	Occlusion of mid left anterior descending coronary artery	CVD		
+200	a212061000006119	20	Postoperative transmural myocardial infarction of anterior wall	CVD		
+201	a4776141000006112	20	Ischemic cardiomyopathy	CVD		
+202	a14130061000006116	20	Stenosis of right coronary artery	CVD		
+203	a212071000006114	20	Postoperative transmural myocardial infarction of inferior wall	CVD		
+204	a7475751000006117	20	Ischaemic dilated cardiomyopathy due to coronary artery disease	CVD		
+205	a13941121000006116	20	Occlusion of proximal left anterior descending coronary artery	CVD		
+206	a3166141000006114	20	"Angina, class II"	CVD		
+207	a313424014	20	Congenital aneurysm of heart	CVD		
+208	a6546751000006118	20	First myocardial infarction	CVD		
+209	a299813018	20	Subsequent myocardial infarction of other sites	CVD		
+210	a8459561000006118	20	Coronary heart disease monitoring invitation email	CVD		
+211	a5056411000006110	10	Old anterior myocardial infarction	CVD		
+212	a3641641000006116	10	Acute myocardial infarction of anterolateral wall	CVD		
+213	a2855351000006111	10	Myocardial infarct	CVD		
+214	a6841231000006113	10	Acute ischaemic heart disease	CVD		
+215	a13941191000006119	10	Occlusion of distal left anterior descending coronary artery	CVD		
+216	a3699921000006110	10	Acute inferior myocardial infarction	CVD		
+217	a13930031000006112	10	Delayed postmyocardial infarction pericarditis	CVD		
+218	a3565871000006113	10	Acute myocardial infarction of inferolateral wall	CVD		
+219	a158601000006116	10	Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction	CVD		
+220	a12122341000006114	10	Acute ST segment elevation myocardial infarction of inferoposterior wall	CVD		
+221	a12122331000006116	10	Acute ST segment elevation myocardial infarction of inferolateral wall	CVD		
+222	a5935321000006111	10	Acute Q wave myocardial infarction	CVD		
+223	a7508021000006119	10	CABG (coronary artery bypass graft) operation planned	CVD		
+224	a300882013	10	[X]Subsequent myocardial infarction of unspecified site	CVD		
+225	a3971381000006115	9	Ventricular aneurysm	CVD		
+226	a14130081000006114	9	Stenosis of left coronary artery main stem	CVD		
+227	a7502661000006117	9	Microvascular ischaemia of myocardium	CVD		
+228	a2855341000006114	8	MI - Myocardial infarction	CVD		
+229	a14130091000006112	8	Stenosis of circumflex branch of left coronary artery	CVD		
+230	a7065281000006117	8	Ischaemic congestive cardiomyopathy	CVD		
+231	a7573181000006118	8	Heart failure with reduced ejection fraction due to coronary artery disease	CVD		
+232	a299758019	8	Stenocardia	CVD		
+233	a5294511000006117	7	Coronary graft stenosis	CVD		
+234	a3745741000006117	7	Acute myocardial infarction of inferoposterior wall	CVD		
+235	a7572351000006115	7	Silent coronary vasospastic disease	CVD		
+236	a3499001000006116	7	"Angina, class I"	CVD		
+237	a3886751000006118	7	"Angina, class III"	CVD		
+238	a13941141000006111	7	Acute ST segment elevation myocardial infarction due to mid left anterior descending coronary artery occlusion	CVD		
+239	a7574491000006114	6	Subsequent NSTEMI (non-ST segment elevation myocardial infarction)	CVD		
+240	a212091000006110	6	Postoperative transmural myocardial infarction unspec site	CVD		
+241	a6841391000006118	6	Acute myocardial ischaemia	CVD		
+242	a7572341000006117	6	Acute inferior ST segment elevation myocardial infarction	CVD		
+243	a159001000006119	6	Rupture of papillary muscle as current complication following acute myocardial infarction	CVD		
+244	a4354131000006110	6	Left coronary artery occlusion	CVD		
+245	a5056501000006113	6	Post-infarction ventricular septal defect	CVD		
+246	a1218860015	6	Acute papillary muscle infarction	CVD		
+247	a3452181000006112	5	Acute myocardial infarction of lateral wall	CVD		
+248	a2515471000006117	5	Septal infarction by electrocardiogram	CVD		
+249	a13945191000006117	5	Occlusion of anterior descending branch of left coronary artery	CVD		
+250	a8087751000006116	5	Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery	CVD		
+251	a9868461000006110	5	Unstable angina co-occurrent and due to coronary arteriosclerosis	CVD		
+252	a6043771000006118	5	Non-Q wave myocardial infarction	CVD		
+253	a4776051000006110	5	Single vessel coronary artery disease	CVD		
+254	a7703511000006110	4	Subacute ischaemic heart disease	CVD		
+255	a8011041000006111	4	Acute myocardial infarction due to right coronary artery occlusion	CVD		
+256	a7084801000006112	4	Mixed myocardial ischaemia and infarction	CVD		
+257	a494260016	4	Impending infarction	CVD		
+258	a5647291000006110	4	Ischaemic myocardial dysfunction	CVD		
+259	a300881018	4	[X]Subsequent myocardial infarction of other sites	CVD		
+260	a3536601000006115	4	Coronary artery occluded	CVD		
+261	a7572301000006119	3	Acute myocardial infarction during procedure	CVD		
+262	a2571561000006118	3	Pre-infarction syndrome	CVD		
+263	a9844011000006119	3	Acute ST segment elevation myocardial infarction of posterior wall	CVD		
+264	a4775931000006111	3	Aborted myocardial infarction	CVD		
+265	a5056431000006116	3	Old lateral myocardial infarction	CVD		
+266	a9843961000006118	3	Acute ST segment elevation myocardial infarction of anterolateral wall	CVD		
+267	a14145381000006119	3	Occlusion of circumflex branch of left coronary artery	CVD		
+268	a4776001000006111	3	Anginal syndrome	CVD		
+269	a4776081000006119	3	Double vessel coronary artery disease	CVD		
+270	a12276271000006112	3	Progressive angina	CVD		
+271	a8259701000006112	3	Referral to coronary heart disease clinic	CVD		
+272	a14130111000006115	3	LAD (left anterior descending) coronary artery stenosis	CVD		
+273	a3842391000006115	2	Ischaemic contracture of left ventricle syndrome	CVD		
+274	a14130071000006111	2	RCA (right coronary artery) stenosis	CVD		
+275	a9843981000006111	2	Acute ST segment elevation myocardial infarction of lateral wall	CVD		
+276	a13935211000006117	2	Acute myocardial infarction of inferolateral wall with posterior extension	CVD		
+277	a5056461000006113	2	MI - Silent myocardial infarction	CVD		
+278	a7298951000006115	2	Arteriosclerosis of coronary artery bypass graft of transplanted heart	CVD		
+279	a212081000006112	2	Postoperative transmural myocardial infarction other sites	CVD		
+280	a7966931000006114	2	Angina associated with type 2 diabetes mellitus	CVD		
+281	a5476971000006117	2	Aneurysm of membranous septum	CVD		
+282	a5056441000006114	2	Old posterior myocardial infarction	CVD		
+283	a13941091000006115	2	Acute ST segment elevation myocardial infarction due to proximal left anterior descending coronary artery occlusion	CVD		
+284	a13945211000006116	2	Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery	CVD		
+285	a158611000006118	2	Rupture of chordae tendinae as current complication following acute myocardial infarction	CVD		
+286	a13947581000006115	2	Occlusion of diagonal branch of anterior descending branch of left coronary artery	CVD		
+287	a5836981000006113	2	Left ventricular aneurysm	CVD		
+288	a7093091000006111	2	Recent myocardial infarction	CVD		
+289	a13945971000006115	2	Occlusion of septal branch of anterior descending branch of left coronary artery	CVD		
+290	a13961321000006113	2	Occlusion of proximal portion of right coronary artery	CVD		
+291	a14015031000006119	2	Myocardial infarction due to demand ischaemia	CVD		
+292	a7789771000006114	2	Non-obstructive atherosclerosis of coronary artery	CVD		
+293	a3024781000006112	2	"Past myocardial infarction diagnosed on ECG AND/OR other special investigation, but currently presenting no symptoms"	CVD		
+294	a5056331000006111	2	Acute Q wave infarction - inferolateral	CVD		
+295	a3458791000006114	2	Anginal chest pain at rest	CVD		
+296	a3576371000006117	2	Postmyocardial infarction syndrome	CVD		
+297	a7574481000006111	2	Subsequent non-ST segment elevation myocardial infarction	CVD		
+298	a13961371000006114	1	Acute ST segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery	CVD		
+299	a7696501000006114	1	Resting ischaemia	CVD		
+300	a13941231000006112	1	Acute STEMI (ST elevation myocardial infarction) due to distal LAD (left anterior descending) coronary artery occlusion	CVD		
+301	a13941161000006110	1	Acute STEMI (ST elevation myocardial infarction) due to mid LAD (left anterior descending) coronary artery occlusion	CVD		
+302	a3920001000006119	1	Variant angina pectoris	CVD		
+303	a7855741000006112	1	Atherosclerosis of autologous coronary artery bypass graft	CVD		
+304	a4056701000006114	1	Atrial septal aneurysm	CVD		
+305	a14015311000006110	1	Coronary artery disease due to type 2 diabetes mellitus	CVD		
+306	a5056471000006118	1	Accelerated coronary artery disease in transplanted heart	CVD		
+307	a13961461000006113	1	Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery	CVD		
+308	a6847761000006118	1	Chronic ischemic heart disease	CVD		
+309	a3551171000006114	1	Acute myocardial infarction of high lateral wall	CVD		
+310	a7574041000006111	1	Mitral valve regurgitation due to acute myocardial infarction	CVD		
+311	a5837001000006115	1	Left ventricular wall aneurysmal	CVD		
+312	a7572221000006117	1	Subsequent ST segment elevation myocardial infarction of inferior wall	CVD		
+313	a12125951000006116	1	Arteriosclerosis of autologous vein coronary artery bypass graft with angina	CVD		
+314	a3459561000006119	1	Acute myocardial infarction of apical-lateral wall	CVD		
+315	a5056311000006117	1	Acute Q wave infarction - inferior	CVD		
+316	a6360421000006114	1	Recurrent angina after coronary stent placement	CVD		
+317	a6601131000006115	1	CT - Coronary thrombosis	CVD		
+318	a5056261000006112	1	Asymptomatic ischaemia	CVD		
+319	a7100421000006116	1	Recurrent coronary arteriosclerosis after percutaneous transluminal coronary angioplasty	CVD		
+320	a3427201000006111	1	AMI - Acute myocardial infarction	CVD		
+321	a7571611000006117	1	Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle	CVD		
+322	a7278491000006111	1	Atherosclerosis of coronary artery	CVD		
+323	a7106991000006111	1	Coronary arteriosclerosis of coronary artery bypass graft	CVD		
+324	a5887641000006118	1	Angina of effort	CVD		
+325	a13935161000006114	1	Acute myocardial infarction of right ventricle	CVD		
+326	a6360441000006119	1	Recurrent angina after coronary artery bypass graft	CVD		
+327	a9844051000006118	1	Acute ST segment elevation myocardial infarction due to right coronary artery occlusion	CVD		
+328	a13941211000006118	1	Acute ST segment elevation myocardial infarction due to distal left anterior descending coronary artery occlusion	CVD		
+329	a4775981000006112	1	Cardiac angina	CVD		
+330	a9843991000006114	1	Acute ST segment elevation myocardial infarction of anteroseptal wall	CVD		
+331	a3191111000006116	1	Congenital coronary artery sclerosis	CVD		
+332	a6360401000006116	1	Recurrent angina after percutaneous transluminal coronary angioplasty	CVD		
+333	a13947721000006111	1	Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery	CVD		
+334	a5837011000006117	1	LVA - Left ventricular aneurysm	CVD		
+335	a13961451000006111	1	Acute STEMI (ST elevation myocardial infarction) due to PDA (posterior descending artery) branch of RCA (right coronary artery) occlusion	CVD		
+336	a139475013	800000	Heart failure	CVD		
+337	a70653017	700000	Congestive heart failure	CVD		
+338	a141306010	700000	Left ventricular failure	CVD		
+339	a493287011	500000	Congestive cardiac failure	CVD		
+340	a216207010	200000	Left ventricular systolic dysfunction	CVD		
+341	a2159197017	200000	Echocardiogram shows left ventricular systolic dysfunction	CVD		
+342	a784191000006110	100000	Impaired left ventricular function	CVD		
+343	a1484918019	100000	Heart failure annual review	CVD		
+344	a2616471011	80000	New York Heart Association Classification - Class II	CVD		
+345	a216246012	60000	Referral to heart failure clinic	CVD		
+346	a407061000000112	60000	Heart failure monitoring first letter	CVD		
+347	a1488591011	50000	Suspected heart failure	CVD		
+348	a404741000000119	50000	Heart failure 6 month review	CVD		
+349	a411506018	50000	Impaired left ventricular function	CVD		
+350	a395772015	40000	Heart failure NOS	CVD		
+351	a2616470012	40000	New York Heart Association Classification - Class I	CVD		
+352	a2616472016	40000	New York Heart Association Classification - Class III	CVD		
+353	a1484917012	30000	Heart failure follow-up	CVD		
+354	a139482012	30000	Cardiac failure	CVD		
+355	a308261000000111	30000	Heart failure review completed	CVD		
+356	a216184014	30000	Congestive heart failure monitoring	CVD		
+357	a510016018	20000	Biventricular congestive heart failure	CVD		
+358	a300179017	20000	Decompensated cardiac failure	CVD		
+359	a1488804017	20000	Heart failure confirmed	CVD		
+360	a1561941000006119	20000	Excepted from heart failure quality indicators - patient unsuitable	CVD		
+361	a132655012	20000	Chronic cor pulmonale	CVD		
+362	a147247018	20000	Chronic congestive heart failure	CVD		
+363	a206703015	20000	Right heart failure	CVD		
+364	a1484901018	20000	Heart failure screen	CVD		
+365	a2645623019	20000	Heart failure education	CVD		
+366	a407081000000115	20000	Heart failure monitoring second letter	CVD		
+367	a82584011	10000	Acute cor pulmonale	CVD		
+368	a1647701000000118	10000	Heart failure with normal ejection fraction	CVD		
+369	a308301000000118	10000	Discussion about heart failure care plan	CVD		
+370	a300190010	10000	Acute left ventricular failure	CVD		
+371	a3886041000006118	10000	Left heart failure	CVD		
+372	a1561951000006117	9000	Excepted from heart failure quality indicators - informed dissent	CVD		
+373	a1746171000000119	9000	Has heart failure management plan	CVD		
+374	a1490256017	9000	Acute pulmonary oedema	CVD		
+375	a251680018	8000	H/O: heart failure	CVD		
+376	a308231000000118	8000	Heart failure monitoring administration	CVD		
+377	a2227501000000110	8000	Heart failure with preserved ejection fraction	CVD		
+378	a7484711000006114	7000	Heart failure medication review	CVD		
+379	a18472010	7000	Acute congestive heart failure	CVD		
+380	a407101000000114	5000	Heart failure monitoring third letter	CVD		
+381	a299851018	4000	Other chronic pulmonary heart disease	CVD		
+382	a1488629013	4000	Heart failure excluded	CVD		
+383	a301741013	4000	Acute pulmonary oedema unspecified	CVD		
+384	a94251011	4000	Acute heart failure	CVD		
+385	a406801000000118	4000	Heart failure monitoring telephone invitation	CVD		
+386	a1816101000006113	3000	Right ventricular failure	CVD		
+387	a301743011	3000	Acute pulmonary oedema NOS	CVD		
+388	a490972013	3000	Right ventricular failure	CVD		
+389	a2117931000000116	3000	Heart failure self-management plan agreed	CVD		
+390	a1769091000006112	3000	Fast track heart failure referral for transthoracic two dimensional echocardiogram	CVD		
+391	a8214751000006115	3000	Heart failure monitoring invitation	CVD		
+392	a2122191000000110	3000	Education about deteriorating heart failure	CVD		
+393	a2616473014	3000	New York Heart Association Classification - Class IV	CVD		
+394	a1165041000000115	3000	Heart failure resolved	CVD		
+395	a395756011	2000	Chronic pulmonary heart disease NOS	CVD		
+396	a7025691000006110	2000	Decompensated chronic heart failure	CVD		
+397	a223981000000118	2000	Cardiac failure NOS	CVD		
+398	a308011000000119	2000	Provision of information about heart failure	CVD		
+399	a12626351000006111	1000	QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation	CVD		
+400	a407041000000111	1000	Heart failure monitoring verbal invitation	CVD		
+401	a300180019	1000	Compensated cardiac failure	CVD		
+402	a7573171000006116	1000	Heart failure with reduced ejection fraction	CVD		
+403	a145620019	1000	Chronic pulmonary heart disease	CVD		
+404	a8303561000006119	1000	Heart failure monitoring	CVD		
+405	a2115781000000114	1000	Heart failure self-management plan review	CVD		
+406	a2675255018	900	Congestive heart failure due to valvular disease	CVD		
+407	a1856361000006116	900	Heart failure monitoring in primary care	CVD		
+408	a317955011	900	Cardiorespiratory failure	CVD		
+409	a316833010	900	Congenital cardiac failure	CVD		
+410	a3182541000006117	900	Congestive cardiac failure	CVD		
+411	a1959121000006111	800	Heart Age study: Failed to respond to first telephone invitation	CVD		
+412	a453099015	800	H/O: Heart failure in last year	CVD		
+413	a2549208013	800	Emergency hospital admission for heart failure	CVD		
+414	a3182551000006115	800	CCF - Congestive cardiac failure	CVD		
+415	a2205951000000117	800	Heart failure clinical pathway	CVD		
+416	a7321121000006119	600	Heart failure with preserved ejection fraction	CVD		
+417	a1495417010	600	Cardiac asthma	CVD		
+418	a1539481000006114	600	Heart failure monitoring - specialist clinical needs	CVD		
+419	a504901000006118	500	Benign hypertensive heart disease with congestive cardiac failure	CVD		
+420	a1661371000000112	500	HFNEF - heart failure with normal ejection fraction	CVD		
+421	a1959131000006114	300	Heart Age study: Failed to respond to second telephone invitation	CVD		
+422	a72934016	300	Rheumatic left ventricular failure	CVD		
+423	a1539521000006114	200	Heart failure monitoring - co-medications	CVD		
+424	a7251291000006119	100	Chronic diastolic heart failure	CVD		
+425	a3855401000006112	100	Cor pulmonale	CVD		
+426	a139481017	100	Weak heart	CVD		
+427	a2664351000006113	100	Chronic right-sided heart failure	CVD		
+428	a1728531000006116	100	Heart failure resolved	CVD		
+429	a1856371000006111	100	Heart failure monitoring in secondary care	CVD		
+430	a13910671000006110	100	Heart failure with mid range ejection fraction	CVD		
+431	a1539541000006119	90	Heart failure monitoring - palliative care	CVD		
+432	a350484012	80	Heart failure as a complication of care	CVD		
+433	a3283871000006117	80	Chronic heart failure	CVD		
+434	a728681000006116	80	Malignant hypertensive heart disease without congestive heart failure	CVD		
+435	a1959141000006116	80	Heart Age study: Failed to respond to third telephone invitation	CVD		
+436	a8290471000006114	70	Heart failure initial assessment	CVD		
+437	a1856381000006114	50	Heart failure monitoring default	CVD		
+438	a76126013	50	Kyphoscoliotic heart disease	CVD		
+439	a1216090015	50	"Acute oedema of lung, unspecified"	CVD		
+440	a741701000006114	50	Hypertensive heart and renal disease with (congestive) heart failure	CVD		
+441	a728671000006119	40	Malignant hypertensive heart disease with congestive cardiac failure	CVD		
+442	a5573991000006118	40	Impaired left ventricular func	CVD		
+443	a7573201000006117	30	Heart failure with reduced ejection fraction due to cardiomyopathy	CVD		
+444	a3589241000006116	30	Chronic right-sided congestive heart failure	CVD		
+445	a299853015	30	Other chronic pulmonary heart disease NOS	CVD		
+446	a1539381000006117	30	Heart failure lifestyle plan commenced	CVD		
+447	a3515953019	30	Heart failure self management plan	CVD		
+448	a6212521000006115	30	Acute cardiac pulmonary oedema	CVD		
+449	a7056281000006118	30	Congestive heart failure due to left ventricular systolic dysfunction	CVD		
+450	a1539471000006111	20	Heart failure monitoring - unstable symptoms	CVD		
+451	a6919191000006119	20	Diastolic heart failure	CVD		
+452	a1747691000006119	20	Emergency heart failure admission since last appointment	CVD		
+453	a1539491000006112	20	Heart failure monitoring - social issues	CVD		
+454	a1539531000006112	20	Heart failure monitoring - co-morbidities	CVD		
+455	a324975010	20	Heart-lung transplant failure and rejection	CVD		
+456	a884211000006114	20	Other pulmonary heart disease	CVD		
+457	a7250571000006113	20	Chronic systolic heart failure	CVD		
+458	a1539391000006119	20	Heart failure information starter pack provided	CVD		
+459	a324974014	20	Heart transplant failure and rejection	CVD		
+460	a12623611000006114	20	Excepted from heart failure quality indicators - service unavailable	CVD		
+461	a789941000006117	20	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	CVD		
+462	a884191000006113	20	Chronic pulmonary heart dis.	CVD		
+463	a8030311000006111	10	Exacerbation of congestive heart failure	CVD		
+464	a12734351000006110	10	QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation using preferred method of communication	CVD		
+465	a14015051000006114	10	Acute on chronic right-sided congestive heart failure	CVD		
+466	a3886071000006114	10	LVF - Left ventricular failure	CVD		
+467	a1784061000006118	10	Preferred place of care for next exacerbation of heart failure	CVD		
+468	a4193361000006119	8	Chronic left-sided heart failure	CVD		
+469	a7573181000006118	8	Heart failure with reduced ejection fraction due to coronary artery disease	CVD		
+470	a7510321000006115	8	Asymptomatic left ventricular systolic dysfunction	CVD		
+471	a7573211000006119	7	Heart failure with reduced ejection fraction due to heart valve disease	CVD		
+472	a1539511000006118	7	Heart failure monitoring - multiple readmissions	CVD		
+473	a6914191000006115	5	Systolic heart failure	CVD		
+474	a7119751000006110	5	Chronic systolic dysfunction of left ventricle	CVD		
+475	a1861741000006116	5	AURAS-AF - consider the patient not to have heart failure	CVD		
+476	a6204381000006117	5	Acute right-sided heart failure	CVD		
+477	a1959101000006118	4	Heart Age study: Failed to respond to NHS Health Check three written personalised invitations	CVD		
+478	a6361031000006112	4	Depression of left ventricular systolic function	CVD		
+479	a4005301000006110	4	Biventricular failure	CVD		
+480	a7119761000006112	3	Chronic left ventricular systolic dysfunction	CVD		
+481	a2405871000000117	3	Heart failure rehabilitation programme not available	CVD		
+482	a2585431000006117	3	Chronic left-sided congestive heart failure	CVD		
+483	a7475721000006114	3	Heart failure due to end stage congenital heart disease	CVD		
+484	a1539501000006116	3	Heart failure monitoring - psychological issues	CVD		
+485	a7573191000006115	3	Heart failure with reduced ejection fraction due to myocarditis	CVD		
+486	a3800291000006115	3	COR - Chronic cor pulmonale	CVD		
+487	a3182531000006110	2	Congestive heart disease	CVD		
+488	a2660881000006116	2	High output heart failure	CVD		
+489	a1861731000006114	2	AURAS-AF - consider the patient to have heart failure	CVD		
+490	a8011111000006111	2	Congestive heart failure with right heart failure	CVD		
+491	a3152691000006117	2	Acute pulmonary edema	CVD		
+492	a3213831000006118	2	Right heart failure secondary to left heart failure	CVD		
+493	a7507301000006110	2	Acute exacerbation of chronic congestive heart failure	CVD		
+494	a8048061000006111	2	Chronic combined systolic and diastolic heart failure	CVD		
+495	a3152701000006117	1	Acute edema of lung	CVD		
+496	a3182561000006118	1	CHF - Congestive heart failure	CVD		
+497	a1959071000006111	1	Heart Age study: Failed to respond to NHS Health Check three written standard invitations	CVD		
+498	a3489281000006119	1	Hypertensive heart disease without congestive heart failure	CVD		
+499	a3152721000006110	1	Pulmonary oedema - acute	CVD		
+500	a1822161000006116	1	Heart failure pathway protocol not followed	CVD		
+501	a7510341000006110	1	Symptomatic congestive heart failure	CVD		
+502	a3868341000006118	1	HF - Heart failure	CVD		
+503	a7052811000006113	1	Right heart failure due to pulmonary hypertension	CVD		
+504	a8278041000006115	1	Rehabilitation for heart failure	CVD		
+505	a405339016	900000	Cerebrovascular accident	CVD		
+506	a405339016	900000	Cerebrovascular accident	CVD		
+507	a395783012	800000	Transient ischaemic attack	CVD		
+508	a395783012	800000	Transient ischaemic attack	CVD		
+509	a395788015	700000	Transient cerebral ischaemia	CVD		
+510	a395788015	700000	Transient cerebral ischaemia	CVD		
+511	a104563015	600000	Cerebrovascular disease	CVD		
+512	a605501000006117	400000	CVA unspecified	CVD		
+513	a605501000006117	400000	CVA unspecified	CVD		
+514	a1780304018	300000	CVA annual review	CVD		
+515	a605491000006113	200000	CVA - Cerebrovascular accident	CVD		
+516	a605491000006113	200000	CVA - Cerebrovascular accident	CVD		
+517	a395780010	200000	Cerebral infarction	CVD		
+518	a395780010	200000	Cerebral infarction	CVD		
+519	a1222398015	100000	Cerebral arterial occlusion	CVD		
+520	a481028017	100000	Subarachnoid haemorrhage	CVD		
+521	a605461000006117	100000	CVA - cerebrovascular accident due to cerebral artery occlusion	CVD		
+522	a605461000006117	100000	CVA - cerebrovascular accident due to cerebral artery occlusion	CVD		
+523	a1222398015	100000	Cerebral arterial occlusion	CVD		
+524	a122401000006115	90000	Stroke unspecified	CVD		
+525	a122401000006115	90000	Stroke unspecified	CVD		
+526	a744901000006114	70000	Intracerebral haemorrhage (ICH)	CVD		
+527	a744901000006114	70000	Intracerebral haemorrhage (ICH)	CVD		
+528	a251692018	70000	H/O: TIA	CVD		
+529	a145925010	70000	Amaurosis fugax	CVD		
+530	a113392018	60000	Benign intracranial hypertension	CVD		
+531	a300371014	60000	Right sided CVA	CVD		
+532	a300370010	60000	Left sided CVA	CVD		
+533	a300370010	60000	Left sided CVA	CVD		
+534	a300371014	60000	Right sided CVA	CVD		
+535	a1130181000000113	50000	Small vessel cerebrovascular disease	CVD		
+536	a497559016	50000	Arteriosclerotic dementia	CVD		
+537	a497559016	50000	Arteriosclerotic dementia	CVD		
+538	a411518010	40000	H/O: CVA	CVD		
+539	a605471000006112	40000	Cerebral hemorrhage	CVD		
+540	a605471000006112	40000	Cerebral hemorrhage	CVD		
+541	a696161000006115	30000	Multi-infarct dementia	CVD		
+542	a2476091017	30000	H/O: stroke	CVD		
+543	a451133011	30000	Left sided cerebral infarction	CVD		
+544	a451133011	30000	Left sided cerebral infarction	CVD		
+545	a696161000006115	30000	Multi-infarct dementia	CVD		
+546	a122361000006113	30000	Stroke due to cerebral arterial occlusion	CVD		
+547	a122361000006113	30000	Stroke due to cerebral arterial occlusion	CVD		
+548	a158118014	30000	Cerebellar infarction	CVD		
+549	a391035012	30000	Traumatic subdural hematoma	CVD		
+550	a158118014	30000	Cerebellar infarction	CVD		
+551	a118689010	20000	Cerebral thrombosis	CVD		
+552	a122371000006118	20000	Cerebral haemorrhage	CVD		
+553	a67511000006117	20000	Vertebro-basilar insufficiency	CVD		
+554	a5010981000006119	20000	Stroke	CVD		
+555	a2534198011	20000	Subdural haemorrhage	CVD		
+556	a884521000006115	20000	Stroke/CVA - undefined	CVD		
+557	a122371000006118	20000	Cerebral haemorrhage	CVD		
+558	a118689010	20000	Cerebral thrombosis	CVD		
+559	a5010981000006119	20000	Stroke	CVD		
+560	a451134017	20000	Right sided cerebral infarction	CVD		
+561	a451134017	20000	Right sided cerebral infarction	CVD		
+562	a67511000006117	20000	Vertebro-basilar insufficiency	CVD		
+563	a2475119012	20000	Non-traumatic subdural haemorrhage	CVD		
+564	a1229954013	20000	"Cerebral aneurysm, nonruptured"	CVD		
+565	a95931000006111	10000	Transient cerebral ischaemia NOS	CVD		
+566	a300298011	10000	Intracranial haemorrhage	CVD		
+567	a884531000006117	10000	Stroke	CVD		
+568	a95931000006111	10000	Transient cerebral ischaemia NOS	CVD		
+569	a218511000000117	10000	Infarction - cerebral	CVD		
+570	a300419019	10000	Cerebrovascular disease NOS	CVD		
+571	a218511000000117	10000	Infarction - cerebral	CVD		
+572	a395778016	10000	Carotid artery occlusion	CVD		
+573	a399031000006111	9000	[X]Multi-infarct dementia	CVD		
+574	a398571000006112	9000	Mixed cortical and subcortical vascular dementia	CVD		
+575	a399031000006111	9000	[X]Multi-infarct dementia	CVD		
+576	a502878012	9000	Cerebellar haemorrhage	CVD		
+577	a299342019	9000	Lacunar infarction	CVD		
+578	a299342019	9000	Lacunar infarction	CVD		
+579	a502878012	9000	Cerebellar haemorrhage	CVD		
+580	a2126181000000114	8000	Stroke annual review	CVD		
+581	a2474651019	7000	Infarction of basal ganglia	CVD		
+582	a300349016	7000	Transient cerebral ischaemia NOS	CVD		
+583	a2474651019	7000	Infarction of basal ganglia	CVD		
+584	a524511000006116	7000	Brainstem stroke syndrome	CVD		
+585	a300366019	7000	Cerebellar stroke syndrome	CVD		
+586	a300349016	7000	Transient cerebral ischaemia NOS	CVD		
+587	a524511000006116	7000	Brainstem stroke syndrome	CVD		
+588	a300366019	7000	Cerebellar stroke syndrome	CVD		
+589	a3414251000006112	6000	VAD - Vascular dementia	CVD		
+590	a300362017	6000	Middle cerebral artery syndrome	CVD		
+591	a125470015	6000	Cerebral embolism	CVD		
+592	a106394016	6000	Vertebrobasilar insufficiency	CVD		
+593	a363791000006112	6000	[X]Arteriosclerotic dementia	CVD		
+594	a300294013	6000	Subdural haemorrhage - nontraumatic	CVD		
+595	a3414251000006112	6000	VAD - Vascular dementia	CVD		
+596	a363791000006112	6000	[X]Arteriosclerotic dementia	CVD		
+597	a106394016	6000	Vertebrobasilar insufficiency	CVD		
+598	a300362017	6000	Middle cerebral artery syndrome	CVD		
+599	a125470015	6000	Cerebral embolism	CVD		
+600	a92070010	5000	Cerebral atherosclerosis	CVD		
+601	a360778011	5000	Chronic cerebral ischaemia	CVD		
+602	a4778181000006119	4000	Left sided cerebral hemisphere cerebrovascular accident	CVD		
+603	a4778181000006119	4000	Left sided cerebral hemisphere cerebrovascular accident	CVD		
+604	a524541000006117	4000	Brain stem infarction	CVD		
+605	a543141000006110	4000	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	CVD		
+606	a1160471000000111	4000	Stroke 6 month review	CVD		
+607	a7519441000006112	4000	Cerebrovascular accident annual review	CVD		
+608	a391028016	4000	Traumatic extradural haematoma	CVD		
+609	a300287010	4000	Intracerebral haemorrhage NOS	CVD		
+610	a345701012	4000	Cerebral amyloid angiopathy	CVD		
+611	a300287010	4000	Intracerebral haemorrhage NOS	CVD		
+612	a543141000006110	4000	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	CVD		
+613	a524541000006117	4000	Brain stem infarction	CVD		
+614	a300364016	3000	Posterior cerebral artery syndrome	CVD		
+615	a300364016	3000	Posterior cerebral artery syndrome	CVD		
+616	a4778201000006118	3000	Right sided cerebral hemisphere cerebrovascular accident	CVD		
+617	a100721000006111	3000	Cerebral venous sinus thrombosis	CVD		
+618	a586241000006116	3000	Non-pyogenic venous sinus thrombosis	CVD		
+619	a320836010	3000	Subdural haemorrhage following injury	CVD		
+620	a4778201000006118	3000	Right sided cerebral hemisphere cerebrovascular accident	CVD		
+621	a320835014	3000	Traumatic subdural haemorrhage	CVD		
+622	a300321011	3000	Cerebral infarction due to thrombosis of cerebral arteries	CVD		
+623	a499739014	3000	Insufficiency - basilar artery	CVD		
+624	a300277011	3000	"Intracerebral haemorrhage, intraventricular"	CVD		
+625	a300321011	3000	Cerebral infarction due to thrombosis of cerebral arteries	CVD		
+626	a505322013	3000	Cerebral haemorrhage following injury	CVD		
+627	a300257016	3000	Subarachnoid haemorrhage NOS	CVD		
+628	a300277011	3000	"Intracerebral haemorrhage, intraventricular"	CVD		
+629	a320752018	3000	Closed traumatic subdural haemorrhage	CVD		
+630	a499739014	3000	Insufficiency - basilar artery	CVD		
+631	a294656010	2000	Arteriosclerotic dementia NOS	CVD		
+632	a106392017	2000	Basilar artery syndrome	CVD		
+633	a106392017	2000	Basilar artery syndrome	CVD		
+634	a300363010	2000	Anterior cerebral artery syndrome	CVD		
+635	a25897016	2000	Subclavian steal syndrome	CVD		
+636	a300363010	2000	Anterior cerebral artery syndrome	CVD		
+637	a2118011000000114	2000	Stroke self-management plan agreed	CVD		
+638	a25897016	2000	Subclavian steal syndrome	CVD		
+639	a300312010	2000	Cerebral infarct due to thrombosis of precerebral arteries	CVD		
+640	a503791000006114	2000	Basal ganglia haemorrhage	CVD		
+641	a841051000006113	2000	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	CVD		
+642	a300312010	2000	Cerebral infarct due to thrombosis of precerebral arteries	CVD		
+643	a503791000006114	2000	Basal ganglia haemorrhage	CVD		
+644	a294656010	2000	Arteriosclerotic dementia NOS	CVD		
+645	a345655015	2000	Pure motor lacunar syndrome	CVD		
+646	a395777014	2000	Precerebral arterial occlusion	CVD		
+647	a800691000006113	2000	Diffuse cerebrovascular disease	CVD		
+648	a503469016	2000	Pontine haemorrhage	CVD		
+649	a345655015	2000	Pure motor lacunar syndrome	CVD		
+650	a67501000006115	2000	Vertebrobasilar artery syndrome	CVD		
+651	a67501000006115	2000	Vertebrobasilar artery syndrome	CVD		
+652	a123511000006114	2000	Subarachnoid haemorrhage from middle cerebral artery	CVD		
+653	a300374018	2000	Other cerebrovascular disease	CVD		
+654	a501622012	2000	Perinatal intraventricular haemorrhage	CVD		
+655	a503469016	2000	Pontine haemorrhage	CVD		
+656	a300941014	2000	[X]Other cerebral infarction	CVD		
+657	a300941014	2000	[X]Other cerebral infarction	CVD		
+658	a345710016	2000	Vertebral artery dissection	CVD		
+659	a300322016	1000	Cerebral infarction due to embolism of cerebral arteries	CVD		
+660	a371641000000112	1000	Delivery of rehabilitation for stroke	CVD		
+661	a416991000006112	1000	Transient cerebral ischemia	CVD		
+662	a325051016	1000	Cerebral anoxia complication	CVD		
+663	a300309012	1000	Vertebral artery occlusion	CVD		
+664	a300242011	1000	Ruptured berry aneurysm	CVD		
+665	a402929011	1000	Subarachnoid haemorrhage following injury without open intracranial wound	CVD		
+666	a123481000006118	1000	Subarachnoid haemorrhage from anterior communicating artery	CVD		
+667	a300348012	1000	Other transient cerebral ischaemia	CVD		
+668	a660121000006113	1000	Traumatic intracranial haemorrhage	CVD		
+669	a416991000006112	1000	Transient cerebral ischemia	CVD		
+670	a300313017	1000	Cerebral infarction due to embolism of precerebral arteries	CVD		
+671	a402930018	1000	Extradural haemorrhage following injury without open intracranial wound	CVD		
+672	a496232015	1000	Internal capsule haemorrhage	CVD		
+673	a300313017	1000	Cerebral infarction due to embolism of precerebral arteries	CVD		
+674	a496232015	1000	Internal capsule haemorrhage	CVD		
+675	a300348012	1000	Other transient cerebral ischaemia	CVD		
+676	a300939013	1000	Cerebral haemorrhage	CVD		
+677	a300943012	1000	Cerebral artery occlusion	CVD		
+678	a748941000006115	1000	"Left sided intracerebral haemorrhage, unspecified"	CVD		
+679	a114794013	1000	Moyamoya disease	CVD		
+680	a884421000006119	1000	Cerebral haemorrhage	CVD		
+681	a350804018	1000	Congenital cerebral arteriovenous malformation	CVD		
+682	a296939018	1000	Thrombosis transverse sinus	CVD		
+683	a748941000006115	1000	"Left sided intracerebral haemorrhage, unspecified"	CVD		
+684	a884421000006119	1000	Cerebral haemorrhage	CVD		
+685	a300939013	1000	Cerebral haemorrhage	CVD		
+686	a300943012	1000	Cerebral artery occlusion	CVD		
+687	a449935012	1000	Admission to stroke unit	CVD		
+688	a884441000006114	1000	Subdural haemorrhage	CVD		
+689	a296940016	1000	Thrombosis of central nervous system venous sinus NOS	CVD		
+690	a300290016	1000	Other and unspecified intracranial haemorrhage	CVD		
+691	a300322016	1000	Cerebral infarction due to embolism of cerebral arteries	CVD		
+692	a345650013	900	Brainstem infarction NOS	CVD		
+693	a542261000006114	900	Cerebral infarction due to occlusion of precerebral artery	CVD		
+694	a2115821000000118	900	Stroke self-management plan review	CVD		
+695	a345650013	900	Brainstem infarction NOS	CVD		
+696	a542261000006114	900	Cerebral infarction due to occlusion of precerebral artery	CVD		
+697	a431691000006119	900	Vascular dementia of acute onset	CVD		
+698	a345684012	900	Carotid territory transient ischaemic attack	CVD		
+699	a345684012	900	Carotid territory transient ischaemic attack	CVD		
+700	a58046010	800	Vertebral artery syndrome	CVD		
+701	a542251000006112	800	"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic"	CVD		
+702	a300379011	800	Generalised ischaemic cerebrovascular disease NOS	CVD		
+703	a345675012	800	Lobar cerebral haemorrhage	CVD		
+704	a100691000006118	800	Cerebral venous thrombosis of cavernous sinus	CVD		
+705	a345675012	800	Lobar cerebral haemorrhage	CVD		
+706	a660111000006117	800	Nontraumatic extradural haemorrhage	CVD		
+707	a130375018	800	Lateral medullary syndrome	CVD		
+708	a130375018	800	Lateral medullary syndrome	CVD		
+709	a542251000006112	800	"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic"	CVD		
+710	a812561000006116	800	Haemangioma of intracranial structure	CVD		
+711	a451371010	800	H/O: Stroke in last year	CVD		
+712	a58046010	800	Vertebral artery syndrome	CVD		
+713	a356251016	800	Pituitary apoplexy	CVD		
+714	a163261000006119	800	"Right sided intracerebral haemorrhage, unspecified"	CVD		
+715	a163261000006119	800	"Right sided intracerebral haemorrhage, unspecified"	CVD		
+716	a417171000006111	700	[X]Other vascular syndroms/brain in cerebrovasculr diseases	CVD		
+717	a928621000006111	700	"MELAS - Mitochondrial encephalopathy, lactic acidosis and stroke-like episodes"	CVD		
+718	a300403014	700	Late effects of cerebrovascular disease	CVD		
+719	a413750011	700	Central post-stroke pain	CVD		
+720	a884471000006118	700	Carotid artery occluded	CVD		
+721	a300303013	700	Basilar artery occlusion	CVD		
+722	a486896012	700	Intracranial haematoma following injury	CVD		
+723	a1235913017	700	Cerebral vein thrombosis	CVD		
+724	a883081000006112	600	Benign intracranial hyperten.	CVD		
+725	a538601000006110	600	Caroticocavernous sinus fistula	CVD		
+726	a300353019	600	Intermittent cerebral ischaemia	CVD		
+727	a3610821000006113	600	Idiopathic intracranial hypertension	CVD		
+728	a300353019	600	Intermittent cerebral ischaemia	CVD		
+729	a123521000006118	600	Subarachnoid haemorrhage from posterior communicating artery	CVD		
+730	a345658018	600	Pure sensory lacunar syndrome	CVD		
+731	a345658018	600	Pure sensory lacunar syndrome	CVD		
+732	a966981000006112	600	Referral to multidisciplinary stroke function improvement service	CVD		
+733	a300314011	600	Precerebral artery occlusion NOS	CVD		
+734	a505324014	600	Traumatic cerebral haemorrhage	CVD		
+735	a5263018	600	Congenital cerebral arteriovenous aneurysm	CVD		
+736	a300389010	600	Nonruptured cerebral aneurysm due to dissection of cerebral artery	CVD		
+737	a300395011	500	Occlusion and stenosis of middle cerebral artery	CVD		
+738	a300418010	500	Other specified cerebrovascular disease	CVD		
+739	a47484015	500	Cerebral arteritis	CVD		
+740	a2262511000000116	500	Reversible cerebral vasoconstriction syndrome	CVD		
+741	a300344014	500	Carotid artery syndrome hemispheric	CVD		
+742	a123441000006112	500	"Subarachnoid haemorrh from intracranial artery, unspecif"	CVD		
+743	a300344014	500	Carotid artery syndrome hemispheric	CVD		
+744	a495394013	500	Cortical haemorrhage	CVD		
+745	a495394013	500	Cortical haemorrhage	CVD		
+746	a316516014	400	Intraventricular haemorrhage due to birth injury	CVD		
+747	a767651000006116	400	"Intraventricular (nontraumatic) haemorrhage, grade 2, of fetus and newborn"	CVD		
+748	a744921000006116	400	"Intracerebral haemorrhage in hemisphere, unspecified"	CVD		
+749	a300956017	400	"[X]Intracerebral haemorrhage in hemisphere, unspecified"	CVD		
+750	a744921000006116	400	"Intracerebral haemorrhage in hemisphere, unspecified"	CVD		
+751	a4056981000006115	400	Cerebral venous thrombosis	CVD		
+752	a300956017	400	"[X]Intracerebral haemorrhage in hemisphere, unspecified"	CVD		
+753	a1212072018	400	Occlusive stroke	CVD		
+754	a459511018	400	Traumatic subdural haematoma without open intracranial wound	CVD		
+755	a5011741000006115	400	Dissection of vertebral artery	CVD		
+756	a100701000006118	400	Thrombosis lateral sinus	CVD		
+757	a5011131000006112	400	Posterior cerebral circulation infarction	CVD		
+758	a123491000006115	400	Subarachnoid haemorrhage from basilar artery	CVD		
+759	a8044481000006118	400	Ischaemic stroke without coma	CVD		
+760	a8044481000006118	400	Ischaemic stroke without coma	CVD		
+761	a213421000006113	400	Precerebral atherosclerosis	CVD		
+762	a149347010	400	Binswanger's disease	CVD		
+763	a149347010	400	Binswanger's disease	CVD		
+764	a5060581000006110	400	Cerebral arteriovenous malformation	CVD		
+765	a5011091000006110	400	Partial anterior cerebral circulation infarction	CVD		
+766	a5011131000006112	400	Posterior cerebral circulation infarction	CVD		
+767	a5011091000006110	400	Partial anterior cerebral circulation infarction	CVD		
+768	a149571000006118	400	"Sequelae of stroke,not specfd as h'morrhage or infarction"	CVD		
+769	a512234017	400	Cerebral lupus	CVD		
+770	a296931015	400	Phlebitis and thrombophlebitis of intracranial sinuses	CVD		
+771	a1212072018	400	Occlusive stroke	CVD		
+772	a5459271000006119	400	Traumatic intracranial subarachnoid haemorrhage	CVD		
+773	a13796131000006110	300	Subarachnoid haemorrhage due to traumatic injury	CVD		
+774	a12223101000006118	300	Intracerebral haemorrhage	CVD		
+775	a4056871000006112	300	Subdural haematoma	CVD		
+776	a300402016	300	Other cerebrovascular disease NOS	CVD		
+777	a542831000006116	300	Cerebral embolus	CVD		
+778	a8453031000006117	300	Haemorrhagic stroke	CVD		
+779	a8453031000006117	300	Haemorrhagic stroke	CVD		
+780	a370701000006118	300	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	CVD		
+781	a320852013	300	Cerebral haemorrhage following injury NOS	CVD		
+782	a57341000006119	300	Wallenberg's syndrome	CVD		
+783	a505381016	300	Epidural haemorrhage	CVD		
+784	a4411861000006113	300	Cerebral arterial aneurysm	CVD		
+785	a884551000006112	300	Cerebral aneurysm-non ruptured	CVD		
+786	a370701000006118	300	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	CVD		
+787	a423221000006117	300	[X]Predominantly cortical dementia	CVD		
+788	a423221000006117	300	[X]Predominantly cortical dementia	CVD		
+789	a5492171000006112	300	TIA	CVD		
+790	a647051000006114	300	Epidural haematoma following injury	CVD		
+791	a300411016	300	Sequelae of cerebral infarction	CVD		
+792	a5492171000006112	300	TIA	CVD		
+793	a2476647018	300	Vertebral artery compression syndrome	CVD		
+794	a2476647018	300	Vertebral artery compression syndrome	CVD		
+795	a542831000006116	300	Cerebral embolus	CVD		
+796	a57341000006119	300	Wallenberg's syndrome	CVD		
+797	a12223101000006118	300	Intracerebral haemorrhage	CVD		
+798	a884541000006110	300	Cerebral arteriosclerosis	CVD		
+799	a300936018	300	[X]Other subarachnoid haemorrhage	CVD		
+800	a5582311000006110	300	Occipital cerebral infarction	CVD		
+801	a5582311000006110	300	Occipital cerebral infarction	CVD		
+802	a313568013	200	Cerebrovascular system anomalies	CVD		
+803	a5011051000006116	200	Total anterior cerebral circulation infarction	CVD		
+804	a5011051000006116	200	Total anterior cerebral circulation infarction	CVD		
+805	a316149014	200	Cerebral haematoma in fetus or newborn	CVD		
+806	a316818019	200	Neonatal cerebral ischaemia	CVD		
+807	a300380014	200	Acute cerebrovascular insufficiency	CVD		
+808	a370711000006115	200	[X]Cerebrovascular diseases	CVD		
+809	a300401011	200	Other cerebrovascular disease OS	CVD		
+810	a370661000006114	200	[X]Cereb infarct due unsp occlus/stenos precerebr arteries	CVD		
+811	a9912271000006112	200	Cerebellar stroke	CVD		
+812	a884451000006111	200	Cerebral haemorrhage NOS	CVD		
+813	a2549322011	200	Vein of Galen malformation	CVD		
+814	a884561000006114	200	Cerebrovasc. dis. late effects	CVD		
+815	a320853015	200	Other cerebral haemorrhage following injury	CVD		
+816	a9912271000006112	200	Cerebellar stroke	CVD		
+817	a370661000006114	200	[X]Cereb infarct due unsp occlus/stenos precerebr arteries	CVD		
+818	a325050015	200	Anoxic brain damage complication	CVD		
+819	a2267791000000116	200	Susac's syndrome	CVD		
+820	a769281000006119	200	Intracranial haemorrhage in fetus or newborn	CVD		
+821	a6990981000006114	200	Ischaemic stroke	CVD		
+822	a6990981000006114	200	Ischaemic stroke	CVD		
+823	a767641000006118	200	"Intraventricular (nontraumatic) haemorrhage, grade 1, of fetus and newborn"	CVD		
+824	a5011491000006115	200	Anterior circulation transient ischaemic attack	CVD		
+825	a5011491000006115	200	Anterior circulation transient ischaemic attack	CVD		
+826	a767661000006119	200	"Intraventricular (nontraumatic) hemorrhage, grade 3, of fetus and newborn"	CVD		
+827	a500972019	200	Pseudotumour cerebri	CVD		
+828	a5583061000006119	100	Subarachnoid haemorrhage from anterior communicating artery aneurysm	CVD		
+829	a5011411000006113	100	Thalamic haemorrhage	CVD		
+830	a5967391000006111	100	Multiple lacunar infarcts	CVD		
+831	a5492221000006118	100	Transient ischemic attack	CVD		
+832	a5492221000006118	100	Transient ischemic attack	CVD		
+833	a5011471000006116	100	Posterior circulation stroke of uncertain pathology	CVD		
+834	a5011471000006116	100	Posterior circulation stroke of uncertain pathology	CVD		
+835	a313576010	100	Other specified cerebrovascular anomaly	CVD		
+836	a300399017	100	Occlusion and stenosis of cerebellar arteries	CVD		
+837	a5011411000006113	100	Thalamic haemorrhage	CVD		
+838	a300311015	100	Other precerebral artery occlusion	CVD		
+839	a231561000006110	100	Phlebitis or thrombophlebitis of CNS venous sinus NOS	CVD		
+840	a884431000006116	100	Extradural haemorrhage	CVD		
+841	a6348301000006119	100	Embolic stroke	CVD		
+842	a3610811000006117	100	IIH - Idiopathic intracranial hypertension	CVD		
+843	a63408013	100	Locked in syndrome	CVD		
+844	a6348301000006119	100	Embolic stroke	CVD		
+845	a300352012	100	Impending cerebral ischaemia	CVD		
+846	a437650013	100	Vertebral artery aneurysm	CVD		
+847	a300276019	100	External capsule haemorrhage	CVD		
+848	a5967391000006111	100	Multiple lacunar infarcts	CVD		
+849	a359985011	100	Intracerebral haemorrhage in foetus or newborn	CVD		
+850	a884481000006115	100	Vertebral artery occluded	CVD		
+851	a300398013	100	Occlusion and stenosis of posterior cerebral artery	CVD		
+852	a350815011	100	Congenital arteriovenous fistula of brain	CVD		
+853	a149701000006118	100	Sequelae/other + unspecified cerebrovascular diseases	CVD		
+854	a390713015	100	Injury of vertebral artery	CVD		
+855	a746571000006116	100	"Intracerebral haemorrhage, multiple localized"	CVD		
+856	a428181000006115	100	Subarachnoid hemorrhage	CVD		
+857	a746571000006116	100	"Intracerebral haemorrhage, multiple localized"	CVD		
+858	a7054171000006115	100	Acute lacunar infarction	CVD		
+859	a300276019	100	External capsule haemorrhage	CVD		
+860	a7054171000006115	100	Acute lacunar infarction	CVD		
+861	a300352012	100	Impending cerebral ischaemia	CVD		
+862	a5011191000006111	90	Pure motor lacunar infarction	CVD		
+863	a7285511000006116	90	Cerebral small vessel disease	CVD		
+864	a300407010	90	Sequelae of intracerebral haemorrhage	CVD		
+865	a316141012	90	Local subdural haematoma due to birth trauma	CVD		
+866	a1870501000006114	90	Cerebral amyloidosis	CVD		
+867	a307781012	90	Cerebral venous thrombosis in pregnancy	CVD		
+868	a84583018	90	Sinus pericranii	CVD		
+869	a296947018	90	Thrombophlebitis of central nervous system venous sinuses	CVD		
+870	a12370651000006112	90	MVAD - Mixed vascular Alzheimer dementia	CVD		
+871	a5011191000006111	90	Pure motor lacunar infarction	CVD		
+872	a300935019	90	[X]Subarachnoid haemorrhage from other intracranial arteries	CVD		
+873	a459514014	90	Traumatic subdural haematoma with open intracranial wound	CVD		
+874	a4411871000006118	80	Intracranial aneurysm	CVD		
+875	a605481000006110	80	CVA - cerebrovascular accident in the puerperium	CVD		
+876	a345639010	80	Infarction - precerebral	CVD		
+877	a345639010	80	Infarction - precerebral	CVD		
+878	a300406018	80	Sequelae of subarachnoid haemorrhage	CVD		
+879	a605481000006110	80	CVA - cerebrovascular accident in the puerperium	CVD		
+880	a86021000006119	80	Traumatic extradural haematoma without open intracranial wound	CVD		
+881	a5011291000006119	80	Haemorrhagic cerebral infarction	CVD		
+882	a5011291000006119	80	Haemorrhagic cerebral infarction	CVD		
+883	a5011461000006111	70	Anterior circulation stroke of uncertain pathology	CVD		
+884	a5583021000006113	70	Subarachnoid haemorrhage from middle cerebral artery aneurysm	CVD		
+885	a426321000006116	70	"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"	CVD		
+886	a316130010	70	Subdural and cerebral haemorrhage due to birth trauma	CVD		
+887	a5518041000006112	70	Spontaneous subarachnoid haemorrhage	CVD		
+888	a5011161000006115	70	Lacunar stroke	CVD		
+889	a5011161000006115	70	Lacunar stroke	CVD		
+890	a5011461000006111	70	Anterior circulation stroke of uncertain pathology	CVD		
+891	a3515794015	70	Acute cerebral ischaemia	CVD		
+892	a296938014	70	Thrombosis of superior longitudinal sinus	CVD		
+893	a3515794015	70	Acute cerebral ischaemia	CVD		
+894	a316153011	70	Cerebral haemorrhage due to birth injury	CVD		
+895	a5011041000006118	70	Anterior cerebral circulation infarction	CVD		
+896	a5011041000006118	70	Anterior cerebral circulation infarction	CVD		
+897	a1988841000006112	60	"Intraventricular (nontraumatic) haemorrhage, grade 4, of fetus and newborn"	CVD		
+898	a4777881000006112	60	"Intracerebral haemorrhage, multiple localised"	CVD		
+899	a1842021000006111	60	Neonatal cerebral haemorrhage	CVD		
+900	a307780013	60	Obstetric cerebral venous thrombosis	CVD		
+901	a300253017	60	Subarachnoid haemorrhage from vertebral artery	CVD		
+902	a158442019	60	Systemic lupus erythematosus encephalitis	CVD		
+903	a4777881000006112	60	"Intracerebral haemorrhage, multiple localised"	CVD		
+904	a4056881000006110	60	Subdural hematoma	CVD		
+905	a300396012	60	Occlusion and stenosis of anterior cerebral artery	CVD		
+906	a307782017	60	Cerebral venous thrombosis in the puerperium	CVD		
+907	a884461000006113	60	Basilar artery occluded	CVD		
+908	a75861010	50	Cerebrovascular amyloidosis	CVD		
+909	a316553015	50	Intracranial nontraumatic haemorrhage of fetus and newborn	CVD		
+910	a35801000006116	50	Other cerebral h'ge after injury no open intracranial wound	CVD		
+911	a5583081000006112	50	Subarachnoid haemorrhage from posterior communicating artery aneurysm	CVD		
+912	a2267781000000118	50	Retinocochleocerebral vasculopathy	CVD		
+913	a313569017	50	"Congenital anomaly of cerebral vessel, unspecified"	CVD		
+914	a313577018	50	Cerebrovascular system anomaly NOS	CVD		
+915	a3193191000006110	50	Nonruptured cerebral aneurysm	CVD		
+916	a5492201000006111	40	TIA - Transient ischaemic attack	CVD		
+917	a296936013	40	Embolism central nervous system venous sinus NOS	CVD		
+918	a300944018	40	[X]Other specified cerebrovascular diseases	CVD		
+919	a12761901000006117	40	Subarachnoid hemorrhage	CVD		
+920	a744871000006114	40	Intracranial nontraumatic haemorrhage of foetus and newborn	CVD		
+921	a296951016	40	Thrombophlebitis of central nervous system venous sinus NOS	CVD		
+922	a1235534016	40	Binswanger's encephalopathy	CVD		
+923	a1235534016	40	Binswanger's encephalopathy	CVD		
+924	a7378271000006116	40	Intracranial haemorrhage following injury	CVD		
+925	a5934331000006110	40	Chronic intracranial subdural haematoma	CVD		
+926	a5011141000006119	40	Posterior cerebral circulation stroke	CVD		
+927	a316151013	40	Extradural haemorrhage in foetus or newborn	CVD		
+928	a320735017	40	Subarachnoid haemorrhage following injury with open intracranial wound	CVD		
+929	a394431000006118	40	Intracranial nontraumatic haemorrhage of foetus and newborn	CVD		
+930	a296949015	40	Thrombophlebitis of superior longitudinal venous sinus	CVD		
+931	a7071901000006111	40	Thalamic infarction	CVD		
+932	a5492201000006111	40	TIA - Transient ischaemic attack	CVD		
+933	a5011141000006119	40	Posterior cerebral circulation stroke	CVD		
+934	a287283010	40	Rupture of syphilitic cerebral aneurysm	CVD		
+935	a267321000006114	40	"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction"	CVD		
+936	a12223121000006111	40	ICH - intracerebral haemorrhage	CVD		
+937	a296932010	40	Embolism cavernous sinus	CVD		
+938	a12223121000006111	40	ICH - intracerebral haemorrhage	CVD		
+939	a6846141000006118	40	Cardioembolic stroke	CVD		
+940	a6846141000006118	40	Cardioembolic stroke	CVD		
+941	a300244012	40	Subarachnoid haemorrhage from carotid siphon and bifurcation	CVD		
+942	a5011121000006114	30	PACS - Partial anterior cerebral circulation stroke	CVD		
+943	a6990991000006112	30	Ischemic stroke	CVD		
+944	a13909901000006119	30	Cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage	CVD		
+945	a6990991000006112	30	Ischemic stroke	CVD		
+946	a5011121000006114	30	PACS - Partial anterior cerebral circulation stroke	CVD		
+947	a7085871000006117	30	Extradural intracranial haematoma	CVD		
+948	a13909901000006119	30	Cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage	CVD		
+949	a126301000006113	30	Stenosis of precerebral artery	CVD		
+950	a896531000006110	30	Cerebral h'ge after injury	CVD		
+951	a320897016	30	Other cerebral haemorrhage following injury NOS	CVD		
+952	a543251000006116	30	Cerebrovascular disorder in the puerperium	CVD		
+953	a6348291000006115	30	Thrombotic stroke	CVD		
+954	a6348291000006115	30	Thrombotic stroke	CVD		
+955	a483988011	30	Bulbar haemorrhage	CVD		
+956	a483988011	30	Bulbar haemorrhage	CVD		
+957	a320771016	30	Open traumatic subdural haemorrhage	CVD		
+958	a5011211000006112	30	Pure sensory lacunar infarction	CVD		
+959	a124141000006116	30	Subdural h'ge inj no open intracran wnd+LOC unspec duration	CVD		
+960	a5011211000006112	30	Pure sensory lacunar infarction	CVD		
+961	a480952017	30	Perinatal subarachnoid haemorrhage	CVD		
+962	a884501000006113	30	Cerebral A. occlusion NOS	CVD		
+963	a267311000006118	30	Occlusion and stenosis of multiple and bilateral cerebral arteries	CVD		
+964	a300942019	30	[X]Occlusion and stenosis of other precerebral arteries	CVD		
+965	a7855631000006111	20	Cerebral ischaemic stroke due to small artery occlusion	CVD		
+966	a14014251000006116	20	Cerebrovascular accident due to occlusion of bilateral pontine arteries	CVD		
+967	a884491000006117	20	Precerebral A. occlusion NOS	CVD		
+968	a300345010	20	Multiple and bilateral precerebral artery syndromes	CVD		
+969	a370681000006116	20	[X]Cerebral arteritis in other diseases CE	CVD		
+970	a14014251000006116	20	Cerebrovascular accident due to occlusion of bilateral pontine arteries	CVD		
+971	a5589641000006112	20	Intracerebellar and posterior fossa haemorrhage	CVD		
+972	a542271000006119	20	Cerebellar (nontraumatic) and posterior fossa haemorrhage of foetus and newborn	CVD		
+973	a894091000006111	20	Cerebral haemorrhage - birth	CVD		
+974	a7071911000006114	20	Thalamic stroke	CVD		
+975	a5011451000006114	20	Stroke of uncertain pathology	CVD		
+976	a300345010	20	Multiple and bilateral precerebral artery syndromes	CVD		
+977	a316519019	20	Subarachnoid haemorrhage due to birth injury	CVD		
+978	a7855631000006111	20	Cerebral ischaemic stroke due to small artery occlusion	CVD		
+979	a660071000006113	20	Extradural h'ge inj no open intracran wnd+concussion unspec	CVD		
+980	a5589641000006112	20	Intracerebellar and posterior fossa haemorrhage	CVD		
+981	a2901571000006113	20	Completed stroke	CVD		
+982	a296942012	20	Phlebitis cavernous sinus	CVD		
+983	a1221072019	20	Embolism of central nervous system venous sinus	CVD		
+984	a7289121000006119	20	Recurrent transient cerebral ischaemic attack	CVD		
+985	a3508964014	20	Cerebrovascular accident due to thrombus of left middle cerebral artery	CVD		
+986	a7289121000006119	20	Recurrent transient cerebral ischaemic attack	CVD		
+987	a320814012	20	Extradural haemorrhage following injury with open intracranial wound	CVD		
+988	a2901571000006113	20	Completed stroke	CVD		
+989	a4837471000006112	20	"Intraventricular (nontraumatic) haemorrhage, grade 3, of fetus and newborn"	CVD		
+990	a3509810017	20	Cerebrovascular accident due to occlusion of right middle cerebral artery	CVD		
+991	a316150014	20	Intracerebral haematoma in fetus or newborn	CVD		
+992	a3508964014	20	Cerebrovascular accident due to thrombus of left middle cerebral artery	CVD		
+993	a5011521000006118	20	Vertebrobasilar territory transient ischaemic attack	CVD		
+994	a459518012	20	Traumatic extradural haematoma with open intracranial wound	CVD		
+995	a7598981000006119	20	Cerebral infarction due to embolism of middle cerebral artery	CVD		
+996	a5011521000006118	20	Vertebrobasilar territory transient ischaemic attack	CVD		
+997	a5011451000006114	20	Stroke of uncertain pathology	CVD		
+998	a4056931000006116	20	Brain stem haemorrhage	CVD		
+999	a3778021000006116	20	LMS - Lateral medullary syndrome	CVD		
+1000	a4056931000006116	20	Brain stem haemorrhage	CVD		
+1001	a3505637014	20	Occlusion of left middle cerebral artery	CVD		
+1002	a5011111000006118	20	Partial anterior cerebral circulation stroke	CVD		
+1003	a3505637014	20	Occlusion of left middle cerebral artery	CVD		
+1004	a5011111000006118	20	Partial anterior cerebral circulation stroke	CVD		
+1005	a3778021000006116	20	LMS - Lateral medullary syndrome	CVD		
+1006	a3648381000006112	10	Thrombosis of superior sagittal sinus	CVD		
+1007	a2838001000006118	10	Cerebral venous thrombosis of lateral sinus	CVD		
+1008	a3509794017	10	Cerebrovascular accident due to occlusion of left middle cerebral artery	CVD		
+1009	a3193201000006113	10	Unruptured cerebral aneurysm	CVD		
+1010	a5011071000006114	10	Total anterior cerebral circulation stroke	CVD		
+1011	a3509794017	10	Cerebrovascular accident due to occlusion of left middle cerebral artery	CVD		
+1012	a3508965010	10	Stroke due to thrombus of left middle cerebral artery	CVD		
+1013	a5011081000006112	10	TACS - Total anterior cerebral circulation stroke	CVD		
+1014	a3508965010	10	Stroke due to thrombus of left middle cerebral artery	CVD		
+1015	a7861171000006114	10	White matter disorder with CADASIL	CVD		
+1016	a124161000006117	10	Subdural h'ge inj no open intracranial wnd + unspec consc	CVD		
+1017	a5011501000006111	10	Anterior circulation transient ischemic attack	CVD		
+1018	a3522701000006112	10	CVD - Cerebrovascular disease	CVD		
+1019	a296935012	10	Embolism transverse sinus	CVD		
+1020	a2729571000000119	10	Cerebral infarction due to stenosis of cerebral artery	CVD		
+1021	a2729571000000119	10	Cerebral infarction due to stenosis of cerebral artery	CVD		
+1022	a2871271000006114	10	Intraventricular haemorrhage	CVD		
+1023	a426481000006114	10	[X]Sequelae/other + unspecified cerebrovascular diseases	CVD		
+1024	a2729551000000111	10	Cerebral infarction due to occlusion of cerebral artery	CVD		
+1025	a2729551000000111	10	Cerebral infarction due to occlusion of cerebral artery	CVD		
+1026	a286395017	10	Listerial cerebral arteritis	CVD		
+1027	a13909881000006116	10	Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct	CVD		
+1028	a13909881000006116	10	Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct	CVD		
+1029	a3511955015	10	Thrombosis of right middle cerebral artery	CVD		
+1030	a3511955015	10	Thrombosis of right middle cerebral artery	CVD		
+1031	a300310019	10	Multiple and bilateral precerebral arterial occlusion	CVD		
+1032	a660031000006110	10	Extradural h'ge inj no open intracra wnd+LOC unspec duration	CVD		
+1033	a3930491000006117	10	Transient monocular blindness	CVD		
+1034	a2262521000000110	10	Call-Fleming syndrome	CVD		
+1035	a5011501000006111	10	Anterior circulation transient ischemic attack	CVD		
+1036	a5588471000006111	10	Intraventricular haemorrhage of prematurity	CVD		
+1037	a5582901000006111	10	Unruptured aneurysm of middle cerebral artery	CVD		
+1038	a404781000006115	10	[X]Oth intracranial(nontraumatic)haemorrhages/fetus+newborn	CVD		
+1039	a2622631000006114	10	Intrapontine haemorrhage	CVD		
+1040	a3508961018	10	Cerebrovascular accident due to thrombus of right middle cerebral artery	CVD		
+1041	a313575014	10	Congenital stricture of cerebral artery	CVD		
+1042	a3508961018	10	Cerebrovascular accident due to thrombus of right middle cerebral artery	CVD		
+1043	a3511959014	10	Thrombosis of left middle cerebral artery	CVD		
+1044	a3511959014	10	Thrombosis of left middle cerebral artery	CVD		
+1045	a3508962013	10	Stroke due to thrombus of right middle cerebral artery	CVD		
+1046	a3505639012	10	Occlusion of right middle cerebral artery	CVD		
+1047	a7839991000006115	10	Silent cerebral infarct	CVD		
+1048	a988951000006117	10	Transient Ischaemic Attacks	CVD		
+1049	a988951000006117	10	Transient Ischaemic Attacks	CVD		
+1050	a7839991000006115	10	Silent cerebral infarct	CVD		
+1051	a3505639012	10	Occlusion of right middle cerebral artery	CVD		
+1052	a5011081000006112	10	TACS - Total anterior cerebral circulation stroke	CVD		
+1053	a2622631000006114	10	Intrapontine haemorrhage	CVD		
+1054	a3508962013	10	Stroke due to thrombus of right middle cerebral artery	CVD		
+1055	a5011071000006114	10	Total anterior cerebral circulation stroke	CVD		
+1056	a5595891000006118	9	Berry aneurysm	CVD		
+1057	a660091000006114	9	Extradural h'ge inj no open intracranial wnd + unspec consc	CVD		
+1058	a7378421000006118	9	Traumatic intracerebral haemorrhage	CVD		
+1059	a11920121000006117	9	Transient cerebral ischemia	CVD		
+1060	a11920121000006117	9	Transient cerebral ischemia	CVD		
+1061	a124051000006118	9	Subdural h'ge inj + open intracran wnd+LOC unspec duration	CVD		
+1062	a7363341000006119	8	Intraparenchymal haemorrhage of brain	CVD		
+1063	a5934341000006117	8	Chronic intracranial subdural hematoma	CVD		
+1064	a315694014	8	Congenital anomaly of precerebral vessel	CVD		
+1065	a5011241000006111	8	Lacunar ataxic hemiparesis	CVD		
+1066	a3507383012	8	Spontaneous haemorrhage of cortical intracerebral hemisphere	CVD		
+1067	a407291000006117	8	[X]Other cerebrovascular disorders in diseases CE	CVD		
+1068	a7067291000006113	8	Infarction of medulla oblongata	CVD		
+1069	a7067291000006113	8	Infarction of medulla oblongata	CVD		
+1070	a639231000006117	8	Embolus of central nervous system venous sinus	CVD		
+1071	a5904271000006110	8	CCF - carotid cavernous fistula	CVD		
+1072	a5459261000006114	8	Traumatic subdural haematoma	CVD		
+1073	a124151000006119	8	Subdural h'ge inj no open intracran wound+concussion unspec	CVD		
+1074	a5597281000006110	8	Ruptured cerebral arteriovenous malformation	CVD		
+1075	a3507383012	8	Spontaneous haemorrhage of cortical intracerebral hemisphere	CVD		
+1076	a3777981000006119	8	Posterior inferior cerebellar artery syndrome	CVD		
+1077	a3777981000006119	8	Posterior inferior cerebellar artery syndrome	CVD		
+1078	a5011241000006111	8	Lacunar ataxic hemiparesis	CVD		
+1079	a5011171000006110	7	LACI - Lacunar infarction	CVD		
+1080	a5459301000006117	7	Traumatic cranial subarachnoid haemorrhage	CVD		
+1081	a5011541000006113	7	Posterior circulation transient ischemic attack	CVD		
+1082	a5011541000006113	7	Posterior circulation transient ischemic attack	CVD		
+1083	a660021000006112	7	"Extradural haemorrhage following injury with open intracranial wound, with no loss of consciousness"	CVD		
+1084	a3508955016	7	Cerebrovascular accident due to thrombus of basilar artery	CVD		
+1085	a5011101000006116	7	PACI - Partial anterior cerebral circulation infarction	CVD		
+1086	a7134251000006110	7	Intraparenchymal hematoma of brain	CVD		
+1087	a5011171000006110	7	LACI - Lacunar infarction	CVD		
+1088	a3071661000006112	7	Subdural hemorrhage	CVD		
+1089	a14182621000006113	7	Cryptogenic stroke	CVD		
+1090	a3508955016	7	Cerebrovascular accident due to thrombus of basilar artery	CVD		
+1091	a4198341000006113	7	Intracranial haemorrhage following injury without open intracranial wound	CVD		
+1092	a5588511000006118	7	Perinatal subependymal haemorrhage	CVD		
+1093	a5011101000006116	7	PACI - Partial anterior cerebral circulation infarction	CVD		
+1094	a7085881000006119	7	Extradural haematoma	CVD		
+1095	a12223111000006115	6	Intracerebral hemorrhage	CVD		
+1096	a2841141000006111	6	SAH - Subarachnoid haemorrhage	CVD		
+1097	a4056971000006118	6	Thrombosis of cerebral veins	CVD		
+1098	a5898441000006118	6	Haematoma of brain	CVD		
+1099	a13717171000006112	6	Cerebrovascular accident due to stenosis of bilateral carotid arteries	CVD		
+1100	a5011351000006119	6	Posterior cerebral circulation haemorrhagic infarction	CVD		
+1101	a5904251000006117	6	Carotid cavernous fistula	CVD		
+1102	a13717171000006112	6	Cerebrovascular accident due to stenosis of bilateral carotid arteries	CVD		
+1103	a4837421000006111	6	"Intraventricular (nontraumatic) haemorrhage, grade 2, of foetus and newborn"	CVD		
+1104	a296946010	6	Phlebitis of central nervous system venous sinus NOS	CVD		
+1105	a4056901000006112	6	SDH - Subdural hematoma	CVD		
+1106	a12223111000006115	6	Intracerebral hemorrhage	CVD		
+1107	a5011351000006119	6	Posterior cerebral circulation haemorrhagic infarction	CVD		
+1108	a660081000006111	5	Extradural h'ge inj no open intracranial wnd + no loss consc	CVD		
+1109	a660041000006117	5	Extradural h'ge inj no open intracran wnd+>24hr LOC+recovery	CVD		
+1110	a4777861000006119	5	Intracerebral haemorrhage with intraventricular haemorrhage	CVD		
+1111	a3553621000006119	5	Vertebral artery thrombosis	CVD		
+1112	a5459181000006112	5	Extradural haemorrhage after injury	CVD		
+1113	a123391000006113	5	Subarachnoid h'ge inj no open intracran wnd+<1hr loss consc	CVD		
+1114	a123411000006113	5	Subarachnoid h'ge inj no open intracran wnd+no loss consc	CVD		
+1115	a4056891000006113	5	SDH - Subdural haematoma	CVD		
+1116	a4777861000006119	5	Intracerebral haemorrhage with intraventricular haemorrhage	CVD		
+1117	a3507370011	5	Spontaneous haemorrhage of cerebral hemisphere	CVD		
+1118	a3512178012	5	Embolus of right middle cerebral artery	CVD		
+1119	a3507370011	5	Spontaneous haemorrhage of cerebral hemisphere	CVD		
+1120	a5582941000006113	5	Unruptured aneurysm of posterior communicating artery	CVD		
+1121	a3512178012	5	Embolus of right middle cerebral artery	CVD		
+1122	a124191000006113	5	Subdural h'ge inj no open intracranial wound+no loss consc	CVD		
+1123	a5898461000006119	5	Cerebellar haematoma	CVD		
+1124	a123381000006110	5	"Subarachnoid haemorrhage following injury with open intracranial wound, with no loss of consciousness"	CVD		
+1125	a307879017	5	Puerperal cerebrovascular disorder unspecified	CVD		
+1126	a4193641000006111	5	Nonparalytic stroke	CVD		
+1127	a4193641000006111	5	Nonparalytic stroke	CVD		
+1128	a4835801000006114	5	Cerebral haematoma in foetus or newborn	CVD		
+1129	a39831000006110	5	Oth cerebral h'ge inj no open intracranial wnd+no loss consc	CVD		
+1130	a6837051000006119	5	Basal ganglion stroke	CVD		
+1131	a5595911000006116	5	Saccular aneurysm	CVD		
+1132	a659991000006112	5	Extradural h'ge inj + open intracran wnd+LOC unspec duration	CVD		
+1133	a6837051000006119	5	Basal ganglion stroke	CVD		
+1134	a12370661000006114	5	Dementia with mixed aetiology	CVD		
+1135	a3610801000006115	5	BIH - Benign intracranial hypertension	CVD		
+1136	a307880019	5	Puerperal cerebrovascular disorder - delivered	CVD		
+1137	a124111000006115	5	"Subdural haemorrhage following injury with open intracranial wound, with no loss of consciousness"	CVD		
+1138	a702641000006119	5	Middle meningeal haemmorhage following injury	CVD		
+1139	a2871261000006119	5	Intraventricular hemorrhage	CVD		
+1140	a5011661000006113	4	Cerebral venous thrombosis of cortical vein	CVD		
+1141	a3505651014	4	Occlusion of left posterior cerebral artery	CVD		
+1142	a3505651014	4	Occlusion of left posterior cerebral artery	CVD		
+1143	a307884011	4	Puerperal cerebrovascular disorder NOS	CVD		
+1144	a296941017	4	Phlebitis of central nervous system venous sinuses	CVD		
+1145	a2832651000006111	4	Subcortical haemorrhage	CVD		
+1146	a894331000006110	4	Fetal cerebral haemorrhage	CVD		
+1147	a2832651000006111	4	Subcortical haemorrhage	CVD		
+1148	a2475584018	4	Phlebitis lateral sinus	CVD		
+1149	a296945014	4	Phlebitis transverse sinus	CVD		
+1150	a5011551000006110	4	Posterior circulation transient ischaemic attack	CVD		
+1151	a411416011	4	Stroke in the puerperium	CVD		
+1152	a6349401000006115	4	Neonatal stroke	CVD		
+1153	a5582931000006115	4	Unruptured aneurysm of anterior communicating artery	CVD		
+1154	a411416011	4	Stroke in the puerperium	CVD		
+1155	a5011551000006110	4	Posterior circulation transient ischaemic attack	CVD		
+1156	a5011431000006119	4	Lacunar haemorrhage	CVD		
+1157	a5011431000006119	4	Lacunar haemorrhage	CVD		
+1158	a30981000006112	4	Oth cerebral h'ge inj no open intracran wnd+unspec consc	CVD		
+1159	a7598991000006116	4	Thrombosis of middle cerebral artery	CVD		
+1160	a5459281000006116	4	Traumatic cranial subarachnoid hemorrhage	CVD		
+1161	a7834511000006116	4	Traumatic subarachnoid haemorrhage without coma	CVD		
+1162	a5011231000006118	3	Pure sensorimotor lacunar infarction	CVD		
+1163	a5011231000006118	3	Pure sensorimotor lacunar infarction	CVD		
+1164	a9478321000006112	3	Amaurosis fugax of left eye	CVD		
+1165	a123311000006115	3	Subarach h'ge inj no open intracran wnd + concussion unspec	CVD		
+1166	a7599001000006116	3	Cerebral infarction due to thrombosis of middle cerebral artery	CVD		
+1167	a2520541000006112	3	Intracranial hemorrhage	CVD		
+1168	a3648521000006115	3	Neonatal intraventricular haemorrhage	CVD		
+1169	a3508956015	3	Stroke due to basilar artery thrombus	CVD		
+1170	a4189401000006111	3	Fahr disease	CVD		
+1171	a3512176011	3	Embolus of left middle cerebral artery	CVD		
+1172	a3512176011	3	Embolus of left middle cerebral artery	CVD		
+1173	a13967201000006117	3	Occlusion of branch of basilar artery	CVD		
+1174	a3509817019	3	Left hemispheric cerebellar artery embolism with stroke	CVD		
+1175	a3509817019	3	Left hemispheric cerebellar artery embolism with stroke	CVD		
+1176	a13967201000006117	3	Occlusion of branch of basilar artery	CVD		
+1177	a7090271000006110	3	Occipital subdural haematoma	CVD		
+1178	a5011061000006119	3	TACI - Total anterior cerebral circulation infarction	CVD		
+1179	a4777811000006117	3	Basal ganglia hemorrhage	CVD		
+1180	a296934011	3	Embolism lateral sinus	CVD		
+1181	a5011061000006119	3	TACI - Total anterior cerebral circulation infarction	CVD		
+1182	a3971061000006111	3	Vertebral artery stenosis	CVD		
+1183	a5011581000006119	3	Subarachnoid haemorrhage due to ruptured aneurysm	CVD		
+1184	a7378401000006111	3	Traumatic intracerebral hemorrhage	CVD		
+1185	a5011261000006110	3	Multi-infarct state	CVD		
+1186	a5011261000006110	3	Multi-infarct state	CVD		
+1187	a9478331000006110	3	Amaurosis fugax of right eye	CVD		
+1188	a124171000006112	3	Subdural h'ge inj no open intracranial wnd+>24 LOC +recovery	CVD		
+1189	a8195431000006118	3	Stroke/cerebrovascular accident 6 month review	CVD		
+1190	a5011651000006111	3	Cerebral venous thrombosis of sigmoid sinus	CVD		
+1191	a3508956015	3	Stroke due to basilar artery thrombus	CVD		
+1192	a4777811000006117	3	Basal ganglia hemorrhage	CVD		
+1193	a5518071000006116	3	SAH - Spontaneous subarachnoid haemorrhage	CVD		
+1194	a123351000006119	2	Subarachnoid h'ge inj + open intracran wnd+concussion unspec	CVD		
+1195	a200591000006119	2	Puerperal cerebrovascular disorder - delivered with postnatal complication	CVD		
+1196	a5597481000006114	2	Ruptured aneurysm of anterior cerebral artery	CVD		
+1197	a4057031000006117	2	Brain stem infarct	CVD		
+1198	a300945017	2	[X]Cerebral arteritis in infectious and parasitic diseases	CVD		
+1199	a5060601000006117	2	AVM - Cerebral arteriovenous malformation	CVD		
+1200	a4057031000006117	2	Brain stem infarct	CVD		
+1201	a12370641000006110	2	Dementia with mixed etiology	CVD		
+1202	a7295961000006113	2	Superior cerebellar artery syndrome	CVD		
+1203	a39751000006114	2	Oth cereb h'ge inj no open intracran wnd+concussion unspec	CVD		
+1204	a7295961000006113	2	Superior cerebellar artery syndrome	CVD		
+1205	a3510963013	2	Lacunar ataxic hemiparesis of left dominant side	CVD		
+1206	a296933017	2	Embolism superior longitudinal sinus	CVD		
+1207	a3510961010	2	Lacunar ataxic hemiparesis of right dominant side	CVD		
+1208	a3510961010	2	Lacunar ataxic hemiparesis of right dominant side	CVD		
+1209	a5583101000006116	2	Subarachnoid haemorrhage from basilar artery aneurysm	CVD		
+1210	a8087231000006116	2	Right carotid artery occlusion	CVD		
+1211	a39711000006113	2	Oth cereb h'ge inj + open intracran wnd+concussion unspec	CVD		
+1212	a3964661000006114	2	Subcortical atherosclerotic dementia	CVD		
+1213	a124131000006114	2	Subdural h'ge inj no open intracran wnd+1-24hr loss consc	CVD		
+1214	a3964661000006114	2	Subcortical atherosclerotic dementia	CVD		
+1215	a5589431000006117	2	Perinatal cerebral ischaemia	CVD		
+1216	a3533574016	2	Spontaneous intracranial haemorrhage	CVD		
+1217	a3533578018	2	Nontraumatic intracranial haemorrhage	CVD		
+1218	a7067811000006116	2	Cerebral vasculitis	CVD		
+1219	a3508958019	2	Cerebrovascular accident due to thrombus of right carotid artery	CVD		
+1220	a3522691000006112	2	Cerebrovascular lesion	CVD		
+1221	a3508958019	2	Cerebrovascular accident due to thrombus of right carotid artery	CVD		
+1222	a3971071000006116	2	Vertebral artery narrowing	CVD		
+1223	a3511086012	2	Thrombosis of right vertebral artery	CVD		
+1224	a3509799010	2	Cerebrovascular accident due to occlusion of left posterior cerebral artery	CVD		
+1225	a3511086012	2	Thrombosis of right vertebral artery	CVD		
+1226	a3636969013	2	Occlusion of right middle cerebral artery by embolus	CVD		
+1227	a3083011000006110	2	R.I.N.D. syndrome	CVD		
+1228	a3636969013	2	Occlusion of right middle cerebral artery by embolus	CVD		
+1229	a659981000006114	2	Extradural h'ge inj + open intracran wnd+concussion unspec	CVD		
+1230	a4405821000006119	2	Disorder of intracranial venous sinus	CVD		
+1231	a7134241000006113	2	Intraparenchymal haematoma of brain	CVD		
+1232	a4854331000006110	2	Traumatic subdural hemorrhage	CVD		
+1233	a5836951000006117	2	Intracranial venous thrombosis	CVD		
+1234	a5058411000006114	2	Ruptured cerebral aneurysm	CVD		
+1235	a123431000006119	2	Subarachnoid h'ge inj no open intracran wound + unspec consc	CVD		
+1236	a3510963013	2	Lacunar ataxic hemiparesis of left dominant side	CVD		
+1237	a13909861000006114	2	Cerebral ischaemic stroke due to dissection of artery	CVD		
+1238	a13909861000006114	2	Cerebral ischaemic stroke due to dissection of artery	CVD		
+1239	a3962581000006110	2	Thrombosis of cavernous venous sinus	CVD		
+1240	a4056911000006110	2	Subdural intracranial haematoma	CVD		
+1241	a5583121000006114	2	Subarachnoid haemorrhage from posterior inferior cerebellar artery aneurysm	CVD		
+1242	a660051000006115	2	Extradural h'ge inj no open intracran wnd+>24hr LOC-restored	CVD		
+1243	a39791000006115	1	Oth cerebral h'ge inj + open intracran wnd+1-24hr loss consc	CVD		
+1244	a9843691000006117	1	Left vertebral artery dissection	CVD		
+1245	a3509863013	1	Non-ruptured acquired cerebral aneurysm	CVD		
+1246	a3561811000006118	1	Cerebral arteriosclerosis	CVD		
+1247	a5011861000006114	1	Asymptomatic cerebrovascular disease	CVD		
+1248	a7572361000006118	1	Non-aneurysmal subarachnoid intracranial haemorrhage	CVD		
+1249	a659951000006118	1	Extradural haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	CVD		
+1250	a5011331000006114	1	Anterior cerebral circulation haemorrhagic infarction	CVD		
+1251	a3648391000006110	1	Sagittal sinus thrombosis	CVD		
+1252	a5588531000006112	1	Germinal matrix haemorrhage	CVD		
+1253	a2664611000006117	1	"Vascular dementia, with delirium"	CVD		
+1254	a659961000006116	1	Extradural haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	CVD		
+1255	a3964651000006112	1	Subcortical arteriosclerotic encephalopathy	CVD		
+1256	a660001000006119	1	Extradural h'ge inj + open intracranial wnd + unspec consc	CVD		
+1257	a3512174014	1	Embolus of right posterior cerebral artery	CVD		
+1258	a7572421000006118	1	Cerebral vasoconstriction syndrome	CVD		
+1259	a8026081000006119	1	Visual disturbance as sequela of cerebrovascular disease	CVD		
+1260	a7108011000006118	1	Occipital extradural haematoma	CVD		
+1261	a123301000006118	1	Subarach h'ge inj + open intracran wnd+LOC unspec duration	CVD		
+1262	a5004981000006112	1	Intracranial septic embolism	CVD		
+1263	a3512174014	1	Embolus of right posterior cerebral artery	CVD		
+1264	a2871241000006118	1	Ventricular haemorrhage	CVD		
+1265	a3636133016	1	Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus	CVD		
+1266	a6837061000006117	1	Basal ganglion infarct	CVD		
+1267	a3636133016	1	Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus	CVD		
+1268	a8087221000006119	1	Left carotid artery occlusion	CVD		
+1269	a6837061000006117	1	Basal ganglion infarct	CVD		
+1270	a660101000006115	1	Extradural h'ge inj no open intracranial wnd+<1hr loss consc	CVD		
+1271	a3964651000006112	1	Subcortical arteriosclerotic encephalopathy	CVD		
+1272	a296943019	1	Phlebitis of superior longitudinal sinus	CVD		
+1273	a9843651000006111	1	Right vertebral artery dissection	CVD		
+1274	a3687331000006115	1	Acute hemorrhagic leukoencephalitis	CVD		
+1275	a124081000006114	1	Subdural h'ge inj + open intracranial wnd+concussion unspec	CVD		
+1276	a5597601000006115	1	Ruptured aneurysm of basilar artery	CVD		
+1277	a7289131000006116	1	Recurrent transient cerebral ischemic attack	CVD		
+1278	a3070021000006116	1	Orbital apex-sphenoid syndrome	CVD		
+1279	a7497191000006114	1	Chronic non-traumatic intracranial subdural haemorrhage	CVD		
+1280	a123331000006114	1	Subarach h'ge inj no open intracran wnd+LOC unspec duration	CVD		
+1281	a200621000006117	1	Puerperal cerebrovascular disorder with antenatal complication	CVD		
+1282	a13905301000006116	1	Bilateral occlusion of pontine arteries	CVD		
+1283	a7572391000006114	1	Perimesencephalic subarachnoid hemorrhage	CVD		
+1284	a3533575015	1	Spontaneous intracranial hemorrhage	CVD		
+1285	a13905301000006116	1	Bilateral occlusion of pontine arteries	CVD		
+1286	a3930501000006113	1	Amaurosis fugax (one sided temporary vision loss)	CVD		
+1287	a5011331000006114	1	Anterior cerebral circulation haemorrhagic infarction	CVD		
+1288	a7289131000006116	1	Recurrent transient cerebral ischemic attack	CVD		
+1289	a3505881015	1	Right middle cerebral artery thrombosis	CVD		
+1290	a13909891000006118	1	Cerebral ischaemic stroke due to hypercoagulable state	CVD		
+1291	a5011571000006117	1	Subarachnoid hemorrhage due to ruptured arteriovenous malformation	CVD		
+1292	a200631000006119	1	Puerperal cerebrovascular disorder with postnatal complication	CVD		
+1293	a5597491000006112	1	Ruptured aneurysm of middle cerebral artery	CVD		
+1294	a3505881015	1	Right middle cerebral artery thrombosis	CVD		
+1295	a659971000006111	1	Extradural haemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours)	CVD		
+1296	a7751381000006116	1	Sneddon syndrome	CVD		
+1297	a13909891000006118	1	Cerebral ischaemic stroke due to hypercoagulable state	CVD		
+1298	a3505555010	1	Occlusion of right vertebral artery	CVD		
+1299	a2832661000006113	1	Subcortical hemorrhage	CVD		
+1300	a3515795019	1	Acute nontraumatic subdural haemorrhage	CVD		
+1301	a7951271000006116	1	Haemorrhage of medulla oblongata	CVD		
+1302	a7951271000006116	1	Haemorrhage of medulla oblongata	CVD		
+1303	a989211000006119	1	Cerebral haemorrhage NOS	CVD		
+1304	a7525971000006116	1	Embolism of middle cerebral artery	CVD		
+1305	a3610791000006116	1	Pseudotumour cerebri	CVD		
+1306	a5649201000006113	1	Extension of cerebrovascular accident	CVD		
+1307	a2841171000006115	1	Subarachnoid intracranial hemorrhage	CVD		
+1308	a2841151000006113	1	SAH - Subarachnoid hemorrhage	CVD		
+1309	a5656921000006118	1	Non-traumatic intracranial subdural haematoma	CVD		
+1310	a4056951000006111	1	Brainstem haemorrhage	CVD		
+1311	a4056951000006111	1	Brainstem haemorrhage	CVD		
+1312	a7064691000006118	1	Transient cerebral ischaemia due to atrial fibrillation	CVD		
+1313	a3509790014	1	Cerebrovascular accident due to occlusion of right posterior cerebral artery	CVD		
+1314	a7064691000006118	1	Transient cerebral ischaemia due to atrial fibrillation	CVD		
+1315	a3509790014	1	Cerebrovascular accident due to occlusion of right posterior cerebral artery	CVD		
+1316	a5726831000006118	1	Cerebral ischaemia	CVD		
+1317	a2893541000006113	1	Weber-Gubler syndrome	CVD		
+1318	a3509777019	1	Cerebrovascular accident due to occlusion of left pontine artery	CVD		
+1319	a12223131000006114	1	ICH - intracerebral hemorrhage	CVD		
+1320	a5011421000006117	1	Thalamic hemorrhage	CVD		
+1321	a989201000006117	1	Cerebral haemorrhage	CVD		
+1322	a5011421000006117	1	Thalamic hemorrhage	CVD		
+1323	a660011000006116	1	Extradural haemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour)	CVD		
+1324	a3508952018	1	Cerebrovascular accident due to thrombus of left carotid artery	CVD		
+1325	a3414231000006117	1	MID - Multi-infarct dementia	CVD		
+1326	a3508952018	1	Cerebrovascular accident due to thrombus of left carotid artery	CVD		
+1327	a3414231000006117	1	MID - Multi-infarct dementia	CVD		
+1328	a660061000006118	1	Extradural h'ge inj no open intracran wnd+1-24hr loss consc	CVD		
+1329	a3964671000006119	1	Chronic progressive subcortical encephalopathy	CVD		
+1330	a2893541000006113	1	Weber-Gubler syndrome	CVD		
+1331	a5649201000006113	1	Extension of cerebrovascular accident	CVD		
+1332	a124101000006118	1	Subdural haemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour)	CVD		
+1333	a4396451000006110	1	Intracranial haemorrhage following injury with brief loss of consciousness	CVD		
+1334	a3964671000006119	1	Chronic progressive subcortical encephalopathy	CVD		
+1335	a3687811000006118	1	Cerebral hemisphere haemorrhage	CVD		
+1336	a39761000006111	1	Oth cereb h'ge inj no open intracran wnd+LOC unspec duration	CVD		
+1337	a2726591000006119	1	Anterior choroidal artery syndrome	CVD		
+1338	a2832661000006113	1	Subcortical hemorrhage	CVD		
+1339	a8089851000006116	1	Nontraumatic intracerebral haemorrhage	CVD		
+1340	a2726591000006119	1	Anterior choroidal artery syndrome	CVD		
+1341	a39731000006119	1	Oth cereb h'ge inj no open intracran wnd+>24hr LOC +recovery	CVD		
+1342	a5582951000006110	1	Unruptured aneurysm of basilar artery	CVD		
+1343	a35791000006117	1	Other cerebral h'ge after injury + open intracranial wound	CVD		
+1344	a12223131000006114	1	ICH - intracerebral hemorrhage	CVD		
+1345	a989201000006117	1	Cerebral haemorrhage	CVD		
+1346	a3510816012	1	Acute nontraumatic subdural hemorrhage	CVD		
+1347	a5459241000006110	1	Traumatic intracranial subdural hematoma	CVD		
+1348	a4057041000006110	1	Brain stem stroke	CVD		
+1349	a4057051000006112	1	Infarction of brain stem	CVD		
+1350	a3719851000006116	1	Cerebellar hemorrhage	CVD		
+1351	a989211000006119	1	Cerebral haemorrhage NOS	CVD		
+1352	a8089871000006114	1	Spontaneous subacute subdural hemorrhage	CVD		
+1353	a7563211000006113	1	Susac syndrome	CVD		
+1354	a4057041000006110	1	Brain stem stroke	CVD		
+1355	a4057051000006112	1	Infarction of brain stem	CVD		
+1356	a5111331000006119	1	Pituitary haemorrhage	CVD		
+1357	a8011371000006117	1	Sequela of ischaemic cerebral infarction	CVD		
+1358	a4778311000006112	1	Sequelae of cerebrovascular disease	CVD		
+1359	a124181000006110	1	Subdural h'ge inj no open intracranial wound+<1hr loss consc	CVD		
+1360	a3719851000006116	1	Cerebellar hemorrhage	CVD		
+1361	a5459221000006115	1	Traumatic cranial subdural haematoma	CVD		

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 10
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                            Term  SNOMED_CT_Concept_ID
+0        342443012          8000                    Smokes drugs             228377000
+1  882481000006112          1000      Cannibis/hallucinogen dep.             191816009
+2        342444018          1000  Smokes drugs in cigarette form             228378005

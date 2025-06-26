@@ -1,0 +1,88 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	snomedctdescriptionid	release
+889731000006111	"Rheumatoid arthritis NOS"	"N040-90"	"N040.90"	69896004	889731000006111	
+162141000006118	"Rheumatoid arthritis of sacro-iliac joint"	"N040C"	"N040C00"	201776007	162141000006118	
+162041000006117	"Rheumatoid arthritis of DIP joint of finger"	"N040A"	"N040A00"	201774005	162041000006117	
+309800010	"Rheumatoid arthritis of knee"	"N040D"	"N040D00"	201777003	309800010	
+371261000000111	"Delivery of rehabilitation for rheumatoid arthritis"	"7P203"	"7P20300"	231041000000107	371261000000111	
+2640821000000117	"Rheumatoid Arthritis Impact of Disease questionnaire"	"38Vs"	""	1048281000000108	2640821000000117	
+162081000006111	"Rheumatoid arthritis of IP joint of toe"	"N040M"	"N040M00"	201785007	162081000006111	
+162301000006117	"Rheumatoid lung"	"H570"	"H570.00"	398726004	162301000006117	
+2275791000000115	"Rheumatoid arthritis monitoring verbal invitation"	"9mM3"	"9mM3.00"	882461000000105	2275791000000115	
+909191000006119	"[RFC] Rheumatoid arthritis"	"HNGP005"	""	909191000006103	909191000006119	
+297641010	"Myopathy due to rheumatoid arthritis"	"F3964"	"F396400"	193250002	297641010	
+309802019	"Rheumatoid arthritis of ankle"	"N040F"	"N040F00"	201779000	309802019	
+309812014	"Rheumatoid bursitis"	"N040Q"	"N040Q00"	201788009	309812014	
+312518013	"[X]Other seropositive rheumatoid arthritis"	"Nyu11"	"Nyu1100"	239791005	413531000006114	
+168761000006118	"Rheumatoid arthritis of 1st MTP joint"	"N040K"	"N040K00"	201783000	168761000006118	
+426510015	"Rheumatoid arthritis - multiple joint"	"N040S"	"N040S00"	287006005	426510015	
+1875581000006112	"Rheumatoid arthritis monitoring verbal invitation"	"EMISNQRH19"	""	1875581000006108	1875581000006112	
+1875561000006119	"Rheumatoid arthritis monitoring invitation"	"EMISNQRH17"	""	1875561000006103	1875561000006119	
+451461014	"Seropositive errosive rheumatoid arthritis"	"N047"	"N047.00"	308143008	451461014	
+2472447010	"Juvenile rheumatoid arthritis"	"N0455"	"N045500"	410795001	2472447010	
+162111000006117	"Rheumatoid arthritis of MCP joint"	"N0408"	"N040800"	201772009	162111000006117	
+255925015	"O/E-hands-rheumatoid spindling"	"2G27"	"2G27.00"	164456005	255925015	
+309791014	"Rheumatoid arthritis of acromioclavicular joint"	"N0404"	"N040400"	201768005	309791014	
+1932121000006116	"3D study - problems with rheumatoid arthritis management"	"EMISNQ3D16"	""	1932121000006100	1932121000006116	
+2196791000000119	"Rheumatoid arthritis annual review"	"66HB0"	"66HB000"	847261000000104	2196791000000119	
+149911000006117	"Seropositive rheumatoid arthritis, unspecified"	"N04X"	"N04X.00"	239791005	149911000006117	
+251794010	"H/O: rheumatoid arthritis"	"14G1"	"14G1.00"	161567008	251794010	
+309827014	"Monarticular juvenile rheumatoid arthritis"	"N0433"	"N043300"	201799006	309827014	
+309790010	"Rheumatoid arthritis of sternoclavicular joint"	"N0403"	"N040300"	201767000	309790010	
+1875591000006110	"Rheumatoid arthritis monitoring invitation first letter"	"EMISNQRH20"	""	1875591000006106	1875591000006110	
+309816012	"Flare of rheumatoid arthritis"	"N040T"	"N040T00"	201791009	309816012	
+116082011	"Rheumatoid arthritis"	"N040"	"N040.00"	69896004	116082011	
+16911000006114	"Other rheumatoid arthropathy + visceral/systemic involvement"	"N042"	"N042.00"	239793008	16911000006114	
+463301000006112	"Adult-onset Still's disease"	"N04y2"	"N04y200"	239920006	463301000006112	
+359292012	"Seronegative rheumatoid arthritis"	"N040P"	"N040P00"	239792003	359292012	
+2839291014	"Disease activity score 28 joint in rheumatoid arthritis"	"38DZ0"	"38DZ000"	443728000	2839291014	
+2275751000000111	"Rheumatoid arthritis monitoring invitation third letter"	"9mM2"	"9mM2.00"	882441000000109	2275751000000111	
+309792019	"Rheumatoid arthritis of elbow"	"N0405"	"N040500"	201769002	309792019	
+1785231000006116	"Except rheumatoid arthritis quality indicator: pt unsuitable"	"9hR0"	"9hR0.00"	805961000000106	1785231000006116	
+463281000006113	"Adult Still's Disease"	"N005"	"N005.00"	239920006	463281000006113	
+1875611000006116	"Rheumatoid arthritis monitoring invitation third letter"	"EMISNQRH22"	""	1875611000006100	1875611000006116	
+162211000006111	"Rheumatoid arthritis screen"	"68F1"	"68F1.00"	1016811000000108	162211000006111	
+162341000006115	"Rheumatoid nodule"	"N040R"	"N040R00"	33719002	162341000006115	
+889841000006113	"Still's disease - juvenile R.A"	"N043-99"	"N043.99"	201796004	889841000006113	
+1785241000006114	"Except rheumatoid arthritis qual indicator: informed dissent"	"9hR1"	"9hR1.00"	805981000000102	1785241000006114	
+2275831000000110	"Rheumatoid arthritis monitoring telephone invitation"	"9mM4"	"9mM4.00"	882481000000101	2275831000000110	
+485614018	"Rheumatoid nodule"	"N0422"	"N042200"	33719002	485614018	
+2275711000000112	"Rheumatoid arthritis monitoring invitation second letter"	"9mM1"	"9mM1.00"	882421000000102	2275711000000112	
+1778239014	"Rheumatoid lung disease"	"N0421"	"N042100"	398726004	1778239014	
+297544012	"Polyneuropathy in rheumatoid arthritis"	"F3712"	"F371200"	193180002	297544012	
+1880371000006117	"Rheumatoid arthritis resolved"	"EMISNQRH23"	""	1880371000006101	1880371000006117	
+309788014	"Other rheumatoid arthritis of spine"	"N0401"	"N040100"	9631008	16901000006111	
+755441000006119	"Juvenile rheumatoid arthritis - Still's disease"	"N043"	"N043.00"	410795001	755441000006119	
+461323013	"[V]Screening for rheumatoid arthritis"	"ZV7y1"	"ZV7y100"	171239004	348531000006119	
+168751000006115	"Rheumatoid arthritis and other inflammatory polyarthropathy"	"N04"	"N04..00"	69896004	168751000006115	
+48361011	"Rheumatoid carditis"	"G5yA"	"G5yA.00"	28880005	48361011	
+905301000006114	"[RFC] Rheumatoid"	"HNG0004"	""	905301000006105	905301000006114	
+424981000006114	"[X]Rheumatoid arthritis+involvement/other organs or systems"	"Nyu10"	"Nyu1000"	239793008	424981000006114	
+219021000000114	"Rheumatoid arthrit. monitoring"	"66H-3"	"66H..13"	275902004	219021000000114	
+1779323014	"Rheumatoid vasculitis"	"N040N"	"N040N00"	400054000	1779323014	
+125937016	"Acute polyarticular juvenile rheumatoid arthritis"	"N0431"	"N043100"	75822003	125937016	
+300221014	"Rheumatoid myocarditis"	"G5y8"	"G5y8.00"	195136004	300221014	
+2275501000000119	"Rheumatoid arthritis monitoring invitation"	"9mM"	"9mM..00"	882321000000105	2275501000000119	
+162051000006115	"Rheumatoid arthritis of distal radio-ulnar joint"	"N0406"	"N040600"	201770001	162051000006115	
+309787016	"Rheumatoid arthritis of cervical spine"	"N0400"	"N040000"	201764007	309787016	
+309805017	"Rheumatoid arthritis of other tarsal joint"	"N040J"	"N040J00"	429192004	162121000006113	
+162231000006117	"Rheumatoid arthropathy + visceral/systemic involvement NOS"	"N042z"	"N042z00"	239793008	162231000006117	
+1875571000006114	"Rheumatoid arthritis monitoring telephone invitation"	"EMISNQRH18"	""	1875571000006105	1875571000006114	
+309789018	"Rheumatoid arthritis of shoulder"	"N0402"	"N040200"	201766009	309789018	
+162101000006115	"Rheumatoid arthritis of lesser MTP joint"	"N040L"	"N040L00"	201784006	162101000006115	
+1786545019	"Rheumatoid lung"	"N04y0"	"N04y000"	398726004	1786545019	
+309804018	"Rheumatoid arthritis of talonavicular joint"	"N040H"	"N040H00"	201781003	309804018	
+1785221000006119	"Exception reporting: rheumatoid arthritis quality indicators"	"9hR"	"9hR..00"	805941000000105	1785221000006119	
+309803012	"Rheumatoid arthritis of subtalar joint"	"N040G"	"N040G00"	201780002	309803012	
+312520011	"[X]Other specified rheumatoid arthritis"	"Nyu12"	"Nyu1200"	69896004	416321000006114	
+2275671000000111	"Rheumatoid arthritis monitoring invitation first letter"	"9mM0"	"9mM0.00"	882401000000106	2275671000000111	
+162191000006110	"Rheumatoid arthritis of tibio-fibular joint"	"N040E"	"N040E00"	201778008	162191000006110	
+1875601000006119	"Rheumatoid arthritis monitoring invitation second letter"	"EMISNQRH21"	""	1875601000006103	1875601000006119	
+309798015	"Rheumatoid arthritis of hip"	"N040B"	"N040B00"	201775006	309798015	
+309828016	"Juvenile rheumatoid arthritis NOS"	"N043z"	"N043z00"	410795001	755451000006117	
+312534011	"[X]Seropositive rheumatoid arthritis, unspecified"	"Nyu1G"	"Nyu1G00"	239791005	426511000006118	
+162131000006111	"Rheumatoid arthritis of PIP joint of finger"	"N0409"	"N040900"	201773004	162131000006111	
+309824019	"Juvenile rheumatoid arthropathy unspecified"	"N0430"	"N043000"	410793008	755461000006115	
+309794018	"Rheumatoid arthritis of wrist"	"N0407"	"N040700"	201771002	309794018	
+2842168015	"Disease activity score in rheumatoid arthritis"	"38DZ"	"38DZ.00"	443349002	2842168015	
+311496011	"Fibrosing alveolitis associated with rheumatoid arthritis"	"N04y0-2"	"N04y012"	10713006	709511000006110	
+123542016	"Pauciarticular juvenile rheumatoid arthritis"	"N0432"	"N043200"	74391003	123542016	

@@ -1,0 +1,33 @@
+med_code_id,term,snomed_ct_concept_id,observations
+1485147016,MRC Breathlessness Scale: grade 2,391123006,1000000
+1485148014,MRC Breathlessness Scale: grade 3,391124000,1000000
+397888010,Breathlessness,267036007,1000000
+1485144011,MRC Breathlessness Scale: grade 1,391120009,800000
+252385016,Breathless - moderate exertion,161939006,600000
+1485149018,MRC Breathlessness Scale: grade 4,391125004,500000
+252386015,Breathless - mild exertion,161940008,500000
+344917018,Difficulty breathing,230145002,400000
+525741000006111,Breathlessness symptom,267036007,200000
+1485150018,MRC Breathlessness Scale: grade 5,391126003,100000
+1484904014,Breathless - strenuous exertion,390871002,80000
+451467013,[D]Breathlessness,267036007,70000
+252387012,Breathless - at rest,161941007,60000
+252412011,Breathlessness NOS,267036007,40000
+525691000006114,Breathlessness lying flat,62744007,20000
+1970561000006119,COPD assessment test score - breathless walking up hill/stairs,1970561000006103,20000
+1780470010,Borg Breathlessness Score: 3 moderate,401281000,3000
+1780469014,Borg Breathlessness Score: 2 slight,401280004,2000
+6462341000006118,Breathing problem,386813002,900
+1780471014,Borg Breathlessness Score: 4 somewhat severe,401282007,900
+1780468018,Borg Breathlessness Score: 1 very slight,401279002,700
+1780473012,Borg Breathlessness Score: 5 severe,401284008,600
+2287071000000115,Anxiety about breathlessness,702535006,300
+1780479011,Borg Breathlessness Score: 7 very severe,401290007,300
+1780475017,Borg Breathlessness Score: 6 severe (+),401286005,200
+5497741000006119,Breathless,267036007,200
+1780480014,Borg Breathlessness Score: 8 very severe (+),401291006,100
+1861181000006114,Breathlessness causing anxiety,1861181000006105,100
+1780482018,Borg Breathlessness Score: 10 maximal,401293009,80
+5837641000006114,Increasing breathlessness,297216006,80
+3488351000006112,Breathlessness on exertion,60845006,80
+911011000006110,"Borg Breathlessness Score: 9 very, very severe (almost maximal)",401292004,50

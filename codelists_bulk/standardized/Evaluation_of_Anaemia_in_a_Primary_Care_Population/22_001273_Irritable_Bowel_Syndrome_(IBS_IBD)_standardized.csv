@@ -1,0 +1,29 @@
+med_code_id,term,snomed_ct_concept_id,observations
+18666015,Irritable bowel syndrome,10743008.0,2000000
+742351000006119,Irritable colon - Irritable bowel syndrome,10743008.0,800000
+2670821000006113,Irritable colon,10743008.0,90000
+886361000006114,Irritable bowel - IBS,10743008.0,80000
+303172010,Irritable bowel syndrome with diarrhoea,197125005.0,60000
+18665016,Spastic colon,10743008.0,10000
+396376014,Functional gastrointestinal tract disorders NEC NOS,849531000000000.0,7000
+303071000000118,History of irritable bowel syndrome,70871000000000.0,6000
+1786591000006112,Functional abdominal pain syndrome,449890002.0,4000
+906181000006110,[RFC] Irritable bowel syndrome (IBS),906181000000000.0,4000
+1927491000006111,Irritable bowel syndrome characterised by alternating bowel habit,440544005.0,2000
+2791650019,Irritable bowel syndrome characterised by constipation,440630006.0,2000
+2346441000000118,Dietary education for irritable bowel syndrome,913031000000000.0,2000
+1101501000006115,Adverse reaction to Colpermin Ibs Relief,1101500000000000.0,600
+2129721000000119,Management of irritable bowel syndrome,817511000000000.0,500
+2670911000006112,IBS - Irritable bowel syndrome,10743008.0,200
+5086151000006112,Irritable bowel syndrome variant of childhood,235838003.0,30
+2670921000006116,Irritable bowel,10743008.0,30
+5086181000006116,Irritable bowel syndrome variant of childhood with constipation,235840008.0,10
+5086161000006114,Irritable bowel syndrome variant of childhood with diarrhoea,235839006.0,5
+8460301000006111,Irritable Bowel Syndrome - Symptom Severity Scale score,1083670000000000.0,4
+8435781000006117,Dietetic Intervention for Irritable Bowel Syndrome TOM (Therapy Outcome Measure) activity score,1063120000000000.0,2
+7238961000006111,Irritable bowel syndrome characterized by alternating bowel habit,440544005.0,2
+2018751000006112,Adverse reaction to Imodium Ibs Relief,2018750000000000.0,2
+4786241000006112,Irritable bowel syndrome with diarrhea,197125005.0,2
+2670941000006111,Irritable colon syndrome,10743008.0,1
+7240111000006114,Irritable bowel syndrome characterized by constipation,440630006.0,1
+2670951000006113,IC - Irritable colon,10743008.0,1

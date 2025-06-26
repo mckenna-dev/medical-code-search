@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 24
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+0                                      880\t"D315.00"\t17772\t0\t2146\t55\t"Thrombocytopenia NOS"\t"February 2009"
+1                                 38137\t"D314100"\t217\t0\t3\t0\t"Thrombocytopenia due to drugs"\t"February 2009"
+2                               62795\t"Dyu3200"\t8\t0\t0\t0\t"[X]Other primary thrombocytopenia"\t"February 2009"

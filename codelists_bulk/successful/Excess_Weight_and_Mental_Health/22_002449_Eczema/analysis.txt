@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 284
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\teczema']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                          \tMedCodeId\tObservations\tTerm\teczema
+0                          0\ta399917015\t7000000\tEczema\teczema
+1  1\ta497341000006116\t5000000\tAtopic dermatitis/eczema\teczema
+2                2\ta150503015\t1000000\tInfantile eczema\teczema

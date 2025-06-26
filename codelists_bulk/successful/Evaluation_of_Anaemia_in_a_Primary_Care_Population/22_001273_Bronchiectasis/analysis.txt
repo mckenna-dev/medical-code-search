@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 15
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tbronchiectasis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                  MedCodeId\tObservations\tTerm\tbronchiectasis
+0  a21163015\t800000\tBronchiectasis (disorder)\tbronchiectasis
+1         a301526011\t30000\tBronchiectasis NOS\tbronchiectasis
+2    a301524014\t8000\tRecurrent bronchiectasis\tbronchiectasis

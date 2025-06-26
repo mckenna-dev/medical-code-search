@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 5
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                               Term  SNOMED_CT_Concept_ID
+0          44918014         30000          Antiphospholipid syndrome              26843008
+1  5140941000006114             3  Primary antiphospholipid syndrome             239892009
+2  2929831000006119             3    APS - Antiphospholipid syndrome              26843008

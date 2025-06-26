@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 6
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                               Term  SNOMED_CT_Concept_ID
+0   714931000006112      72724333                      MCV - Mean corpuscular volume      1022491000000106
+1         257286011           304  Erythrocyte mean corpuscular volume determination             104133003
+2  4101151000006115           137                             MCV - Mean cell volume             104133003

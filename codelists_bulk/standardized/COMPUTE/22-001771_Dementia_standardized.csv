@@ -1,0 +1,178 @@
+med_code_id,term,snomed_ct_concept_id,observations
+8031751000006119,Dementia due to Parkinson's disease (disorder),101421000119107,20
+8031761000006117,Dementia due to Parkinson's disease (disorder),101421000119107,1
+8032911000006111,Early onset Alzheimer's disease with behavioral disturbance (disorder),105421000119105,5
+8032931000006117,Early onset Alzheimer's disease with behavioral disturbance (disorder),105421000119105,1
+4164891000006115,Kohlschutter's syndrome (disorder),109478007,1
+8042791000006116,Lewy body dementia with behavioral disturbance (disorder),135811000119107,100
+8042801000006115,Lewy body dementia with behavioral disturbance (disorder),135811000119107,1
+8044941000006117,Depressed mood in Alzheimer's disease (disorder),142001000119106,10
+26545010,Senile dementia (disorder),15662003,300000
+359141000006111,Senile dementia (disorder),15662003,30000
+7969281000006110,Dementia of the Alzheimer type with behavioral disturbance (disorder),1581000119101,40
+7969371000006115,Dementia with behavioral disturbance (disorder),1591000119103,20
+294635013,Uncomplicated senile dementia (disorder),191449005,90000
+882201000006116,Uncomplicated senile dementia (disorder),191449005,5000
+294641018,Presenile dementia with paranoia (disorder),191454001,400
+294642013,Presenile dementia with depression (disorder),191455000,900
+294645010,Senile dementia with paranoia (disorder),191458003,3000
+294646011,Senile dementia with depression (disorder),191459006,4000
+294648012,Senile dementia with delirium (disorder),191461002,3000
+882211000006118,Senile dementia with delirium (disorder),191461002,500
+4763081000006118,Senile dementia with delirium (disorder),191461002,1
+294652012,Uncomplicated arteriosclerotic dementia (disorder),191463004,900
+294653019,Arteriosclerotic dementia with delirium (disorder),191464005,80
+294654013,Arteriosclerotic dementia with paranoia (disorder),191465006,400
+294655014,Arteriosclerotic dementia with depression (disorder),191466007,400
+542651000006110,Cerebral degeneration due to Creutzfeldt-Jakob disease (disorder),192818008,500
+4768981000006114,Cerebral degeneration due to Creutzfeldt-Jakob disease (disorder),192818008,2
+2825541000006118,Prion disease (disorder),20484008,7
+295685013,Dementia co-occurrent and due to Pick's disease (disorder),21921000119103,4000
+8009521000006114,Dementia co-occurrent and due to Pick's disease (disorder),21921000119103,3
+8009531000006112,Dementia co-occurrent and due to Pick's disease (disorder),21921000119103,1
+8010111000006117,Primary degenerative dementia (disorder),22381000119105,4
+5005501000006111,Familial Alzheimer's disease of early onset (disorder),230265002,2
+5005541000006113,Familial Alzheimer's disease of late onset (disorder),230267005,1
+5005561000006112,Non-familial Alzheimer's disease of late onset (disorder),230268000,3
+5005601000006112,Frontotemporal dementia (disorder),230270009,500
+5005741000006115,Post-traumatic dementia (disorder),230282000,10
+398571000006112,Mixed cortical and subcortical vascular dementia (disorder),230287006,9000
+5005871000006119,Semantic dementia (disorder),230288001,20
+45046017,Alzheimer's disease (disorder),26929004,700000
+295668011,Alzheimer's disease (disorder),26929004,300000
+295671015,Alzheimer's disease (disorder),26929004,100000
+295672010,Alzheimer's disease (disorder),26929004,10000
+299325013,Alzheimer's disease (disorder),26929004,400
+363021000006113,Alzheimer's disease (disorder),26929004,50000
+2931231000006118,Alzheimer's disease (disorder),26929004,1
+2931241000006111,Alzheimer's disease (disorder),26929004,100
+2931251000006113,Alzheimer's disease (disorder),26929004,500
+359101000006114,Cerebral degeneration presenting primarily with dementia (disorder),279982005,300
+8089231000006110,Vascular dementia with behavioral disturbance (disorder),288631000119104,10
+8089241000006117,Vascular dementia with behavioral disturbance (disorder),288631000119104,2
+8014401000006116,Presenile dementia with delusions (disorder),31081000119101,2
+6348031000006112,Senile dementia with delusion (disorder),371024007,2
+499946014,"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",416780008,20000
+363041000006118,"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",416780008,50
+376531000006119,"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",416780008,7000
+423351000006115,"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",416780008,400
+423391000006114,"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",416780008,60
+6897211000006117,"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",416780008,200
+6897241000006118,"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",416780008,8
+6897251000006116,"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",416780008,80
+6897271000006114,"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",416780008,100
+500317011,"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",416975007,20000
+363031000006111,"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",416975007,100
+376541000006112,"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",416975007,40000
+423381000006111,"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",416975007,200
+425901000006116,"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",416975007,20000
+6900181000006114,"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",416975007,600
+6900201000006110,"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",416975007,50
+6900221000006117,"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",416975007,40
+6900241000006112,"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",416975007,30
+295688010,Dementia associated with Parkinson's Disease (disorder),425390006,30000
+7043651000006119,Dementia associated with Parkinson's Disease (disorder),425390006,100
+7043661000006117,Dementia associated with Parkinson's Disease (disorder),425390006,2
+3189531000006118,Diffuse Lewy body disease with spongiform cortical change (disorder),42769004,1
+496157019,General paresis - neurosyphilis (disorder),51928006,30
+496158012,General paresis - neurosyphilis (disorder),51928006,100
+148381000006115,Dementia (disorder),52448006,100000
+359241000006119,Dementia (disorder),52448006,300000
+7510731000006118,Dementia associated with normal pressure hydrocephalus (disorder),698625002,4
+7560531000006110,Frontotemporal dementia with parkinsonism-17 (disorder),702429008,1
+2366171000000112,Sporadic Creutzfeldt-Jakob disease (disorder),713060000,100
+2366181000000114,Sporadic Creutzfeldt-Jakob disease (disorder),713060000,300
+7840631000006118,Ischemic vascular dementia (disorder),723123001,2
+7863681000006115,Epilepsy co-occurrent and due to dementia (disorder),724992007,2
+8024201000006111,Mixed dementia (disorder),79341000119107,3000
+12370641000006110,Mixed dementia (disorder),79341000119107,2
+12370651000006112,Mixed dementia (disorder),79341000119107,90
+12370661000006114,Mixed dementia (disorder),79341000119107,5
+299641000000112,Diffuse Lewy body disease (disorder),80098002,50000
+745381000006119,Diffuse Lewy body disease (disorder),80098002,10000
+3802621000006119,Diffuse Lewy body disease (disorder),80098002,1
+3802641000006114,Diffuse Lewy body disease (disorder),80098002,9
+3802651000006111,Diffuse Lewy body disease (disorder),80098002,2000
+3802671000006118,Diffuse Lewy body disease (disorder),80098002,2
+8024641000006111,Altered behavior in dementia due to Huntington chorea (disorder),82361000119107,1
+8024691000006119,Epileptic dementia with behavioral disturbance (disorder),82381000119103,3
+13934381000006118,Cortical vascular dementia (disorder),833326008,9
+2649061000006115,Dialysis dementia (disorder),9345005,1
+8030791000006119,Altered behavior in Alzheimer's disease (disorder),97751000119108,3
+2664611000006117,Multi-infarct dementia with delirium (disorder),10349009,1
+2729791000000114,Predominantly cortical vascular dementia (disorder),1089531000000108,3
+21256010,Presenile dementia (disorder),12348006,10000
+294643015,Presenile dementia (disorder),12348006,1000
+359081000006118,Presenile dementia (disorder),12348006,500
+22408016,Pick's disease (disorder),13092008,2000
+2707661000006119,Pick's disease (disorder),13092008,1
+8044911000006116,Delusions in Alzheimer's disease (disorder),141991000119109,5
+8044981000006111,Alzheimer's disease co-occurrent with delirium (disorder),142011000119109,5
+251625013,History of dementia (situation),161465002,70000
+4539871000006116,History of dementia (situation),161465002,1
+294637017,Uncomplicated presenile dementia (disorder),191451009,400
+294638010,Presenile dementia with delirium (disorder),191452002,100
+294644014,Senile dementia with depressive or paranoid features (disorder),191457008,4000
+294647019,Senile dementia with depressive or paranoid features (disorder),191457008,300
+359151000006113,Senile dementia with depressive or paranoid features (disorder),191457008,600
+294688019,Dementia caused by drug (disorder),191493005,70
+294718018,Dementia associated with another disease (disorder),191519005,7000
+295684012,Dementia associated with another disease (disorder),191519005,7000
+295690011,Dementia associated with another disease (disorder),191519005,1000
+5005421000006117,Amyotrophic lateral sclerosis with dementia (disorder),230258005,1
+5005521000006118,Non-familial Alzheimer's disease of early onset (disorder),230266001,1
+5005581000006119,Focal Alzheimer's disease (disorder),230269008,3
+5005711000006119,Progressive aphasia in Alzheimer's disease (disorder),230280008,20
+431691000006119,Vascular dementia of acute onset (disorder),230285003,900
+428201000006119,Subcortical vascular dementia (disorder),230286002,5000
+5005881000006116,Patchy dementia (disorder),230289009,4
+2929931000006112,"Primary degenerative dementia of the Alzheimer type, senile onset, with depression (disorder)",26852004,3
+5618261000006114,Dementia of frontal lobe type (disorder),278857002,50
+5618271000006119,Dementia of frontal lobe type (disorder),278857002,2
+346929012,Dementia associated with alcoholism (disorder),281004,6000
+401760017,Dementia associated with alcoholism (disorder),281004,1000
+362941000006113,Dementia associated with alcoholism (disorder),281004,2000
+2502971000006115,Dementia associated with alcoholism (disorder),281004,1000
+1805751000006115,Variant Creutzfeldt-Jakob disease (disorder),304603007,20
+6024061000006111,Senile dementia of the Lewy body type (disorder),312991009,2000
+6024071000006116,Senile dementia of the Lewy body type (disorder),312991009,30
+6348061000006115,Senile dementia with psychosis (disorder),371026009,5
+376571000006116,Dementia with acquired immunodeficiency syndrome (disorder),421529006,300
+6973421000006116,Dementia with acquired immunodeficiency syndrome (disorder),421529006,1
+6973461000006110,Dementia with acquired immunodeficiency syndrome (disorder),421529006,1
+295686014,Dementia due to Creutzfeldt Jakob disease (disorder),429458009,200
+295680015,Vascular dementia (disorder),429998004,2000
+295681016,Vascular dementia (disorder),429998004,20000
+431681000006117,Vascular dementia (disorder),429998004,500000
+295687017,Dementia due to Huntington chorea (disorder),442344002,2000
+7263021000006116,Dementia due to Huntington chorea (disorder),442344002,1
+2575731000006115,"Primary degenerative dementia of the Alzheimer type, senile onset, with delirium (disorder)",4817008,3
+294656010,Multi-infarct dementia (disorder),56267009,2000
+497559016,Multi-infarct dementia (disorder),56267009,50000
+363791000006112,Multi-infarct dementia (disorder),56267009,6000
+399031000006111,Multi-infarct dementia (disorder),56267009,9000
+423221000006117,Multi-infarct dementia (disorder),56267009,300
+696161000006115,Multi-infarct dementia (disorder),56267009,30000
+3414231000006117,Multi-infarct dementia (disorder),56267009,1
+3414251000006112,Multi-infarct dementia (disorder),56267009,6000
+3511181000006115,Parkinson-dementia complex of Guam (disorder),62239001,2
+2603271000006110,"Primary degenerative dementia of the Alzheimer type, presenile onset, uncomplicated (disorder)",6475002,1
+3575041000006117,"Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated (disorder)",66108005,10
+7510741000006111,Dementia associated with multiple sclerosis (disorder),698626001,1
+7511421000006118,Post-traumatic dementia with behavioral change (disorder),698687007,2
+7515071000006112,Dementia in remission (disorder),698949001,1
+7560411000006117,GRN-related frontotemporal dementia (disorder),702426001,1
+7755121000006115,Behavioral variant of frontotemporal dementia (disorder),716994006,1
+7843521000006113,Rapidly progressive dementia (disorder),723390000,20
+7874771000006117,Delirium co-occurrent with dementia (disorder),725898002,20
+7955111000006116,Dementia due to chronic subdural hematoma (disorder),733191004,6
+3635492010,Subcortical dementia (disorder),762707000,6
+2386018,Jakob-Creutzfeldt disease (disorder),792004,400
+2510951000006114,Jakob-Creutzfeldt disease (disorder),792004,200
+2510981000006118,Jakob-Creutzfeldt disease (disorder),792004,1
+13943181000006116,Classical sporadic Creutzfeldt-Jakob disease (disorder),840452004,2
+149347010,Subcortical leukoencephalopathy (disorder),90099008,400
+1235534016,Subcortical leukoencephalopathy (disorder),90099008,40
+3964651000006112,Subcortical leukoencephalopathy (disorder),90099008,1
+3964661000006114,Subcortical leukoencephalopathy (disorder),90099008,2
+3964671000006119,Subcortical leukoencephalopathy (disorder),90099008,1

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 33
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1                     Flag_classifyL2           MedCodeID                                   Term
+0   4604       Digestive  Duodenal_Ulcer_without_haemorrhage          a101926016  Acute duodenal ulcer with perforation
+1   4605       Digestive  Duodenal_Ulcer_without_haemorrhage         a1235462014        Bleeding chronic duodenal ulcer
+2   4606       Digestive  Duodenal_Ulcer_without_haemorrhage  a13773141000006115                      Ulcer of duodenum

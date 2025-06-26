@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/VM_CL_IBS.txt
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/main/Codelists/VM_CL_IBS.txt
+Codelist Name: Irritable Bowel Syndrome (IBS/IBD)
+Project Title: Evaluation of Anaemia in a Primary Care Population
+ERAP Number: 22_001273
+Author: Alvin Katumba
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:27:10
+File Size: 2261 bytes

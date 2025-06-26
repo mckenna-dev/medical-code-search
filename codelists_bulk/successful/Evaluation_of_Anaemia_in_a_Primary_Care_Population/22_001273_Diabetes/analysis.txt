@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 1502
+Columns: 1
+Column names: ['\tmedcodeid\tobservations\tterm\tsnomedctconceptid\tTypei\tTypeii\tunknowntype/other']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+  \tmedcodeid\tobservations\tterm\tsnomedctconceptid\tTypei\tTypeii\tunknowntype/other
+0                 0\ta197761014\t20000000\tType 2 diabetes mellitus\t44054006\t0\t1\t0
+1                   1\ta264727014\t7000000\tDiabetic annual review\t170777000\t0\t0\t1
+2    2\ta1488397014\t6000000\tO/E - Left diabetic foot at low risk\t394675000\t0\t0\t1

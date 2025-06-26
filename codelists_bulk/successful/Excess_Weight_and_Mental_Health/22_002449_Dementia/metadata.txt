@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Dementia.txt
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22-002449-Excess_Body_Weight/main/Codelists/Covariates/Min_CL_Dementia.txt
+Codelist Name: Dementia
+Project Title: Excess Weight and Mental Health
+ERAP Number: 22_002449
+Author: Min Gao
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:25:39
+File Size: 8159 bytes

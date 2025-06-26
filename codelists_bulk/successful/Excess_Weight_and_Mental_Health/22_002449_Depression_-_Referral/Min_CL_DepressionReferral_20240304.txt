@@ -1,0 +1,3 @@
+	MedCodeId	Observations	Term	Depression_referral
+0	300711000000119	3000	Referral for guided self-help for depression	Depression_referral
+1	2370061000000111	20	Referral for depression self-help video	Depression_referral

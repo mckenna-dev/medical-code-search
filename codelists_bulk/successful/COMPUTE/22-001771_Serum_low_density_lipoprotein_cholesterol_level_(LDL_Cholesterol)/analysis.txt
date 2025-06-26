@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 11
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+    MedCodeId  Observations                                                        Term  SNOMED_CT_Concept_ID
+0   259233017      20797896             Serum low density lipoprotein cholesterol level      1022191000000100
+1  1488764011       5558683  Calculated LDL (low density lipoprotein) cholesterol level      1014501000000104
+2   458314019        722433      Plasma LDL (low density lipoprotein) cholesterol level      1010591000000104

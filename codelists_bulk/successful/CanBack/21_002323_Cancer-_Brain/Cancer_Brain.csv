@@ -1,0 +1,82 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+654,Cancer,Brain,a2692069010,Malignant neoplasm of brain,L1:Cancer_L2:Brain,B51..00
+655,Cancer,Brain,a543111000006111,Cerebral tumour - malignant,L1:Cancer_L2:Brain,B51..11
+656,Cancer,Brain,a727771000006111,Malignant neoplasm cerebrum (excluding lobes and ventricles),L1:Cancer_L2:Brain,B510.00
+657,Cancer,Brain,a289337012,Malignant neoplasm of basal ganglia,L1:Cancer_L2:Brain,B510000
+658,Cancer,Brain,a289338019,Malignant neoplasm of cerebral cortex,L1:Cancer_L2:Brain,B510100
+659,Cancer,Brain,a289341011,Malignant neoplasm of globus pallidus,L1:Cancer_L2:Brain,B510300
+660,Cancer,Brain,a289343014,Malignant neoplasm of hypothalamus,L1:Cancer_L2:Brain,B510400
+661,Cancer,Brain,a289345019,Malignant neoplasm of thalamus,L1:Cancer_L2:Brain,B510500
+662,Cancer,Brain,a289346018,Malignant neoplasm of cerebrum NOS,L1:Cancer_L2:Brain,B510z00
+663,Cancer,Brain,a482730011,Malignant neoplasm of frontal lobe,L1:Cancer_L2:Brain,B511.00
+664,Cancer,Brain,a482731010,Malignant neoplasm of temporal lobe,L1:Cancer_L2:Brain,B512.00
+665,Cancer,Brain,a289347010,Malignant neoplasm of hippocampus,L1:Cancer_L2:Brain,B512000
+666,Cancer,Brain,a289349013,Malignant neoplasm of temporal lobe NOS,L1:Cancer_L2:Brain,B512z00
+667,Cancer,Brain,a482732015,Malignant neoplasm of parietal lobe,L1:Cancer_L2:Brain,B513.00
+668,Cancer,Brain,a482733013,Malignant neoplasm of occipital lobe,L1:Cancer_L2:Brain,B514.00
+669,Cancer,Brain,a482734019,Malignant neoplasm of cerebral ventricles,L1:Cancer_L2:Brain,B515.00
+670,Cancer,Brain,a289352017,Malignant neoplasm of choroid plexus,L1:Cancer_L2:Brain,B515000
+671,Cancer,Brain,a155175018,Malignant neoplasm of cerebellum,L1:Cancer_L2:Brain,B516.00
+672,Cancer,Brain,a727511000006114,Malignant neoplasm of brain stem,L1:Cancer_L2:Brain,B517.00
+673,Cancer,Brain,a289355015,Malignant neoplasm of cerebral peduncle,L1:Cancer_L2:Brain,B517000
+674,Cancer,Brain,a289356019,Malignant neoplasm of medulla oblongata,L1:Cancer_L2:Brain,B517100
+675,Cancer,Brain,a289357011,Malignant neoplasm of midbrain,L1:Cancer_L2:Brain,B517200
+676,Cancer,Brain,a289358018,Malignant neoplasm of pons,L1:Cancer_L2:Brain,B517300
+677,Cancer,Brain,a727521000006118,Malignant neoplasm of brain stem NOS,L1:Cancer_L2:Brain,B517z00
+678,Cancer,Brain,a289360016,Malignant neoplasm of other parts of brain,L1:Cancer_L2:Brain,B51y.00
+679,Cancer,Brain,a289361017,Malignant neoplasm of corpus callosum,L1:Cancer_L2:Brain,B51y000
+680,Cancer,Brain,a289364013,Malignant neoplasm of other part of brain NOS,L1:Cancer_L2:Brain,B51yz00
+681,Cancer,Brain,a289365014,Malignant neoplasm of brain NOS,L1:Cancer_L2:Brain,B51z.00
+682,Cancer,Brain,a729501000006119,Malig neop of other and unspecified parts of nervous system,L1:Cancer_L2:Brain,B52..00
+683,Cancer,Brain,a289409016,Malignant neoplasm of craniopharyngeal duct,L1:Cancer_L2:Brain,B542100
+684,Cancer,Brain,a730041000006115,Malig neop pituitary gland or craniopharyngeal duct NOS,L1:Cancer_L2:Brain,B542z00
+685,Cancer,Brain,a722961000006116,Malignant neoplasm of pineal gland,L1:Cancer_L2:Brain,B543.00
+686,Cancer,Brain,a155168019,Malignant neoplasm of carotid body,L1:Cancer_L2:Brain,B544.00
+687,Cancer,Brain,a289413011,Malignant neoplasm of aortic body and other paraganglia,L1:Cancer_L2:Brain,B545.00
+688,Cancer,Brain,a155269017,Malignant neoplasm of glomus jugulare,L1:Cancer_L2:Brain,B545000
+689,Cancer,Brain,a144849016,Neuroblastoma,L1:Cancer_L2:Brain,B546.00
+690,Cancer,Brain,a291825018,[M]Ependymoma NOS,L1:Cancer_L2:Brain,BBb7.00
+691,Cancer,Brain,a308091000006116,"[M]Ependymoma, anaplastic type",L1:Cancer_L2:Brain,BBb8.00
+692,Cancer,Brain,a1229453012,[M]Astrocytoma NOS,L1:Cancer_L2:Brain,BBbB.00
+693,Cancer,Brain,a305701000006117,"[M]Astrocytoma, anaplastic type",L1:Cancer_L2:Brain,BBbC.00
+694,Cancer,Brain,a308961000006113,[M]Gemistocytic astrocytoma,L1:Cancer_L2:Brain,BBbE.00
+695,Cancer,Brain,a308461000006115,[M]Fibrillary astrocytoma,L1:Cancer_L2:Brain,BBbF.00
+696,Cancer,Brain,a315291000006116,[M]Pilocytic astrocytoma,L1:Cancer_L2:Brain,BBbG.00
+697,Cancer,Brain,a310731000006117,[M]Juvenile astrocytoma,L1:Cancer_L2:Brain,BBbG.11
+698,Cancer,Brain,a403757015,[M]Glioblastoma NOS,L1:Cancer_L2:Brain,BBbL.00
+699,Cancer,Brain,a309231000006115,[M]Glioblastoma multiforme,L1:Cancer_L2:Brain,BBbL.11
+700,Cancer,Brain,a309091000006112,[M]Giant cell glioblastoma,L1:Cancer_L2:Brain,BBbM.00
+701,Cancer,Brain,a291835012,[M]Oligodendroglioma NOS,L1:Cancer_L2:Brain,BBbQ.00
+702,Cancer,Brain,a314281000006115,"[M]Oligodendroglioma, anaplastic type",L1:Cancer_L2:Brain,BBbR.00
+703,Cancer,Brain,a314261000006113,[M]Oligodendroblastoma,L1:Cancer_L2:Brain,BBbS.00
+704,Cancer,Brain,a291836013,[M]Medulloblastoma NOS,L1:Cancer_L2:Brain,BBbT.00
+705,Cancer,Brain,a307571000006110,[M]Desmoplastic medulloblastoma,L1:Cancer_L2:Brain,BBbU.00
+706,Cancer,Brain,a1234296013,[M]Pleomorphic xanthoastrocytoma,L1:Cancer_L2:Brain,BBbZ.00
+707,Cancer,Brain,a1216595017,[M]Primitive neuroectodermal tumour,L1:Cancer_L2:Brain,BBba.00
+708,Cancer,Brain,a313831000006118,[M]Neuroastrocytoma,L1:Cancer_L2:Brain,BBc7.11
+709,Cancer,Brain,a309601000006114,[M]Haemangioblastoma,L1:Cancer_L2:Brain,BBTF.00
+710,Cancer,Brain,a305351000006119,[M]Angioblastoma,L1:Cancer_L2:Brain,BBTF.11
+711,Cancer,Brain,a317131000006117,[M]Subependymal astrocytoma NOS,L1:Cancer_L2:Brain,BBb3.11
+712,Cancer,Brain,a317141000006110,[M]Subependymal astrocytoma NOS,L1:Cancer_L2:Brain,BBb3.12
+713,Cancer,Brain,a1230234015,[M]Subependymoma,L1:Cancer_L2:Brain,BBb3.13
+714,Cancer,Brain,a1221241014,[M]Subependymal giant cell astrocytoma,L1:Cancer_L2:Brain,BBb4.00
+715,Cancer,Brain,a314881000006119,[M]Papillary ependymoma,L1:Cancer_L2:Brain,BBb9.00
+716,Cancer,Brain,a313601000006113,[M]Myxopapillary ependymoma,L1:Cancer_L2:Brain,BBbA.00
+717,Cancer,Brain,a315331000006111,[M]Pineoblastoma,L1:Cancer_L2:Brain,BBa3.00
+718,Cancer,Brain,a2550105015,[M]Gliomas,L1:Cancer_L2:Brain,BBb..00
+719,Cancer,Brain,a309281000006119,Malignant glioma,L1:Cancer_L2:Brain,BBb0.00
+720,Cancer,Brain,a309261000006112,[M]Glioma NOS,L1:Cancer_L2:Brain,BBb0.11
+721,Cancer,Brain,a309321000006113,Gliosarcoma,L1:Cancer_L2:Brain,BBb0.12
+722,Cancer,Brain,a309301000006115,[M]Gliomatosis cerebri,L1:Cancer_L2:Brain,BBb1.00
+723,Cancer,Brain,a312871000006112,[M]Mixed glioma,L1:Cancer_L2:Brain,BBb2.00
+724,Cancer,Brain,a312911000006110,Mixed oligoastrocytoma,L1:Cancer_L2:Brain,BBb2.11
+725,Cancer,Brain,a305681000006115,Astrocytoma,L1:Cancer_L2:Brain,BBbB.11
+726,Cancer,Brain,a305671000006118,[M]Astroblastoma,L1:Cancer_L2:Brain,BBbK.00
+727,Cancer,Brain,a312201000006117,[M]Medullomyoblastoma,L1:Cancer_L2:Brain,BBbV.00
+728,Cancer,Brain,a291837016,Cerebellar sarcoma,L1:Cancer_L2:Brain,BBbW.00
+729,Cancer,Brain,a2552865010,[M]Glioma NOS,L1:Cancer_L2:Brain,BBbz.00
+730,Cancer,Brain,a308861000006117,[M]Ganglioneuroblastoma,L1:Cancer_L2:Brain,BBc0100
+731,Cancer,Brain,a291852011,Medulloepithelioma,L1:Cancer_L2:Brain,BBc2.00
+732,Cancer,Brain,a317441000006117,[M]Teratoid medulloepithelioma,L1:Cancer_L2:Brain,BBc3.00
+733,Cancer,Brain,a291958014,[M]Histiocytic medullary reticulosis,L1:Cancer_L2:Brain,BBm2.00
+734,Cancer,Brain,a396161000006113,Overlapping malignant neoplasm of brain and other parts of the central nervous system,L1:Cancer_L2:Brain,ByuA300

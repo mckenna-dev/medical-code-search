@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 74
+Columns: 1
+Column names: ['\tmedcode\treadcode\tclinicalevents\treadterm']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                            \tmedcode\treadcode\tclinicalevents\treadterm
+0         1\t11287\t66YM.00\t1189076\tChronic obstructive pulmonary disease annual review
+1                         3\t1001\tH3...00\t538190\tChronic obstructive pulmonary disease
+2  2\t28755\t9Oi0.00\t483732\tChronic obstructive pulmonary disease monitoring 1st letter

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 212
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build\tsite']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build\tsite
+0                                3097\t"J68..00"\t14823\t0\t2460\t11\t"Gastrointestinal haemorrhage"\t"February 2009"\t1
+1                        12471\t"J68z.00"\t736\t0\t20\t0\t"Gastrointestinal haemorrhage unspecified"\t"February 2009"\t1
+2                           4636\t"J68zz00"\t849\t0\t86\t0\t"Gastrointestinal tract haemorrhage NOS"\t"February 2009"\t1

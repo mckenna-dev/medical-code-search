@@ -1,0 +1,222 @@
+med_code_id,term,snomed_ct_concept_id,observations
+21256010,Presenile dementia,12348006,10000
+26545010,Senile dementia,15662003,300000
+251625013,H/O: dementia,161465002,70000
+294635013,Uncomplicated senile dementia,191449005,90000
+294637017,Uncomplicated presenile dementia,191451009,400
+294638010,Presenile dementia with delirium,191452002,100
+294641018,Presenile dementia with paranoia,191454001,400
+294642013,Presenile dementia with depression,191455000,900
+294643015,Presenile dementia NOS,12348006,1000
+294644014,Senile dementia with depressive or paranoid features,191457008,4000
+294645010,Senile dementia with paranoia,191458003,3000
+294646011,Senile dementia with depression,191459006,4000
+294647019,Senile dementia with depressive or paranoid features NOS,191457008,300
+294648012,Senile dementia with delirium,191461002,3000
+294652012,Uncomplicated arteriosclerotic dementia,191463004,900
+294653019,Arteriosclerotic dementia with delirium,191464005,80
+294654013,Arteriosclerotic dementia with paranoia,191465006,400
+294655014,Arteriosclerotic dementia with depression,191466007,400
+294656010,Arteriosclerotic dementia NOS,56267009,2000
+294688019,Drug-induced dementia,191493005,70
+294718018,Dementia in conditions EC,191519005,7000
+295668011,[X]Dementia in Alzheimer's disease,26929004,300000
+295671015,"[X]Dementia in Alzheimer's dis, atypical or mixed type",26929004,100000
+295672010,"[X]Dementia in Alzheimer's disease, unspecified",26929004,10000
+295680015,[X]Other vascular dementia,429998004,2000
+295681016,"[X]Vascular dementia, unspecified",429998004,20000
+295684012,Dementia associated with another disease,191519005,7000
+295685013,Dementia due to Pick's disease,21921000119103,4000
+295686014,Dementia due to Creutzfeldt Jakob disease,429458009,200
+295687017,Dementia due to Huntington chorea,442344002,2000
+295688010,Dementia in Parkinsons disease,425390006,30000
+295690011,[X]Dementia in other specified diseases classif elsewhere,191519005,1000
+295714013,[X]Delirium superimposed on dementia,2776000,2000
+346929012,Alcoholic dementia,281004,6000
+401760017,Other alcoholic dementia,281004,1000
+497559016,Arteriosclerotic dementia,56267009,50000
+3635492010,Subcortical dementia,762707000,6
+148381000006115,Senile/presenile dementia,52448006,100000
+359081000006118,[X] Presenile dementia NOS,12348006,500
+359101000006114,Cerebral degeneration presenting primarily with dementia,279982005,300
+359141000006111,[X] Senile dementia NOS,15662003,30000
+359151000006113,"[X] Senile dementia, depressed or paranoid type",191457008,600
+359241000006119,Dementia,52448006,300000
+362941000006113,[X]Alcoholic dementia NOS,281004,2000
+363021000006113,[X]Alzheimer's dementia unspec,26929004,50000
+363791000006112,[X]Arteriosclerotic dementia,56267009,6000
+376531000006119,Dementia in Alzheimer's disease with early onset,416780008,7000
+376541000006112,Dementia in Alzheimer's disease with late onset,416975007,40000
+376571000006116,[X]Dementia in human immunodef virus [HIV] disease,421529006,300
+376631000006115,[X]Dementia infantalis,71961003,4
+398571000006112,Mixed cortical and subcortical vascular dementia,230287006,9000
+399031000006111,[X]Multi-infarct dementia,56267009,9000
+408401000000119,Dementia annual review,249181000000100,800000
+423221000006117,[X]Predominantly cortical dementia,56267009,300
+423351000006115,"[X]Presenile dementia,Alzheimer's type",416780008,400
+423381000006111,"[X]Primary degen dementia of Alzheimer's type, senile onset",416975007,200
+423391000006114,"[X]Primary degen dementia, Alzheimer's type, presenile onset",416780008,60
+425901000006116,"[X]Senile dementia,Alzheimer's type",416975007,20000
+428201000006119,Subcortical vascular dementia,230286002,5000
+431681000006117,Vascular dementia,429998004,500000
+431691000006119,Vascular dementia of acute onset,230285003,900
+696161000006115,Multi-infarct dementia,56267009,30000
+882171000006115,Dementia,268612007,100000
+882191000006119,Senile and presenile dementias,268612007,900
+882201000006116,Senile dementia - simple type,191449005,5000
+882211000006118,Senile dementia-acute confused,191461002,500
+914921000006117,[D] Vascular dementia,914921000006101,4000
+914931000006119,[D] Dementia with Lewy bodies,914931000006103,1000
+914941000006112,[D] Dementia,914941000006108,20000
+914951000006114,[D] Dementia in Alzheimer's disease,914951000006105,9000
+939491000006118,[RFC] Dementia,939491000006102,2000
+1823871000006112,Dementia confirmed,1823871000006108,200
+1949631000006115,Dementia stage at diagnosis - early (mild),1949631000006104,600
+1949641000006113,Dementia stage at diagnosis - mid (moderate),1949641000006109,600
+1949651000006110,Dementia stage at diagnosis - late (severe),1949651000006106,400
+1949661000006112,Dementia stage at diagnosis - undetermined,1949661000006108,4
+1949671000006117,Dementia stage at diagnosis - not known,1949671000006101,7
+1971401000006111,"Dementia in Alzheimer's disease with early onset, without additional symptoms",1971401000006107,20
+1971541000006114,"Dementia in Alzheimer's disease with early onset, other symptoms, predominantly delusional",1971541000006105,1
+1971661000006114,"Mental & behav dis due to seds/hypntcs: resid & late-onset psychot dis, dementia",1971661000006105,1
+1971701000006118,"Mental & behav dis due to use opioids: resid & late-onset psychot dis, dementia",1971701000006102,1
+1971771000006112,"Dementia in Alzheimer's disease with early onset, other symptoms, predominantly hallucinatory",1971771000006108,1
+1972021000006119,"Unspecified dementia, without additional symptoms",1972021000006103,600
+1972041000006114,"Unspecified dementia, other symptoms, predominantly delusional",1972041000006105,20
+1972061000006113,"Unspecified dementia, other symptoms, predominantly hallucinatory",1972061000006109,10
+1972071000006118,"Unspecified dementia, other symptoms, predominantly depressive",1972071000006102,6
+1972081000006115,"Unspecified dementia, other mixed symptoms",1972081000006104,3000
+1972131000006115,"Dementia in Alzheimer's disease with early onset, other symptoms, predominantly depressive",1972131000006104,5
+1972141000006113,"Dementia in Alzheimer's disease with early onset, other mixed symptoms",1972141000006109,100
+1972171000006117,"Dementia in Alzheimer's disease with late onset, without additional symptoms",1972171000006101,70
+1972181000006119,"Dementia in Alzheimer's disease with late onset, other symptoms, predominantly delusional",1972181000006103,6
+1972191000006116,"Dementia in Alzheimer's disease with late onset, other symptoms, predominantly hallucinatory",1972191000006100,2
+1972201000006118,"Dementia in Alzheimer's disease with late onset, other symptoms, predominantly depressive",1972201000006102,10
+1972211000006115,"Dementia in Alzheimer's disease with late onset, other mixed symptoms",1972211000006104,200
+1972231000006114,"Dementia in Alzheimer's dis, atypical or mixed type, without additional symptoms",1972231000006105,700
+1972251000006119,"Dementia in Alzheimer's dis, atypical or mixed type, other symptoms, predominantly delusional",1972251000006103,40
+1972291000006113,"Dementia in Alzheimer's dis, atypical or mixed type, other symptoms, predominantly hallucinatory",1972291000006109,50
+1972311000006112,"Dementia in Alzheimer's dis, atypical or mixed type, other symptoms, predominantly depressive",1972311000006108,30
+1972341000006111,"Dementia in Alzheimer's dis, atypical or mixed type, other mixed symptoms",1972341000006107,3000
+1972371000006115,"Dementia in Alzheimer's disease, unspecified, without additional symptoms",1972371000006104,100
+1972401000006117,"Dementia in Alzheimer's disease, unspecified, other symptoms, predominantly delusional",1972401000006101,4
+1972431000006113,"Mental & behav dis due to cannabinoids: resid & late-onset psychot dis, dementia",1972431000006109,2
+1972451000006118,"Dementia in Alzheimer's disease, unspecified, other symptoms, predominantly depressive",1972451000006102,7
+1972471000006111,"Dementia in Alzheimer's disease, unspecified, other mixed symptoms",1972471000006107,2000
+1972481000006114,"Vascular dementia of acute onset, without additional symptoms",1972481000006105,9
+1972501000006116,"Vascular dementia of acute onset, other symptoms, predominantly delusional",1972501000006100,4
+1972571000006110,"Vascular dementia of acute onset, other mixed symptoms",1972571000006106,20
+1972661000006119,"Multi-infarct dementia, other symptoms, predominantly depressive",1972661000006103,1
+1972681000006112,"Multi-infarct dementia, other mixed symptoms",1972681000006108,50
+1972711000006113,"Subcortical vascular dementia, without additional symptoms",1972711000006109,3
+1972731000006119,"Subcortical vascular dementia, other symptoms, predominantly delusional",1972731000006103,1
+1972751000006114,"Subcortical vascular dementia, other symptoms, predominantly hallucinatory",1972751000006105,8
+1972791000006115,"Subcortical vascular dementia, other mixed symptoms",1972791000006104,10
+1972821000006112,"Mixed cortical and subcortical vascular dementia, without additional symptoms",1972821000006108,10
+1972831000006110,"Mixed cortical and subcortical vascular dementia, other symptoms, predominantly delusional",1972831000006106,2
+1972871000006113,"Mixed cortical and subcortical vascular dementia, other symptoms, predominantly hallucinatory",1972871000006109,2
+1972911000006111,"Mixed cortical and subcortical vascular dementia, other symptoms, predominantly depressive",1972911000006107,1
+1972931000006117,"Mixed cortical and subcortical vascular dementia, other mixed symptoms",1972931000006101,70
+1973171000006112,"Mental and behav dis due to vol solvents: resid & late-onset psychotic dis, dementia",1973171000006108,1
+1973221000006118,"Other vascular dementia, without additional symptoms",1973221000006102,6
+1973271000006117,"Other vascular dementia, other symptoms, predominantly delusional",1973271000006101,1
+1973341000006118,"Other vascular dementia, other symptoms, predominantly hallucinatory",1973341000006102,2
+1973381000006112,"Other vascular dementia, other symptoms, predominantly depressive",1973381000006108,2
+1973401000006112,"Other vascular dementia, other mixed symptoms",1973401000006108,300
+1973461000006113,"Vascular dementia, unspecified, without additional symptoms",1973461000006109,70
+1973531000006117,"Vascular dementia, unspecified, other symptoms, predominantly hallucinatory",1973531000006101,4
+1973711000006116,"Mental and behav dis due to hallucinogens: resid & late-onset psychot dis, dementia",1973711000006100,1
+1973941000006119,"Mental & behav dis due to use cocaine: resid & late-onset psychot dis, dementia",1973941000006103,1
+1974271000006119,"Mental and behav dis mlti drg use/oth psych subs: resid/late psychot dis, dementia",1974271000006103,1
+1974931000006114,"Mental & behav dis due to tobacco: resid & late-onset psychot dis, dementia",1974931000006105,1
+1975591000006119,"Mental & behav dis due to use alcohol: resid & late-onset psychot dis, dementia",1975591000006103,8
+1976091000006118,"Mental and behav dis due to other stimulants inc caffeine: resid/late-onset psycht dis, dementia",1976091000006102,1
+1976831000006111,"Vascular dementia, unspecified, other mixed symptoms",1976831000006107,500
+2502971000006115,Dementia associated with alcoholism,281004,1000
+2575731000006115,"Primary degenerative dementia of the Alzheimer type, senile onset, with delirium",4817008,3
+2664611000006117,"Vascular dementia, with delirium",10349009,1
+2729791000000114,Predominantly cortical vascular dementia,1089531000000108,2
+2929931000006112,"Primary degenerative dementia of the Alzheimer type, senile onset, with depression",26852004,3
+2931251000006113,Alzheimer dementia,26929004,500
+3414231000006117,MID - Multi-infarct dementia,56267009,1
+3414251000006112,VAD - Vascular dementia,56267009,6000
+3511181000006115,Parkinson-dementia complex of Guam,62239001,2
+3575041000006117,"Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated",66108005,8
+3802651000006111,Dementia of the Lewy body type,80098002,2000
+3964661000006114,Subcortical atherosclerotic dementia,90099008,2
+4539871000006116,History of dementia,161465002,1
+5005421000006117,Amyotrophic lateral sclerosis with dementia,230258005,1
+5005601000006112,Frontotemporal dementia,230270009,400
+5005871000006119,Semantic dementia,230288001,10
+5005881000006116,Patchy dementia,230289009,4
+5618261000006114,Dementia of frontal lobe type,278857002,50
+5618271000006119,DFT - Dementia frontal lobe type,278857002,2
+6024061000006111,Senile dementia of the Lewy body type,312991009,2000
+6024071000006116,Lewy body dementia,312991009,30
+6348031000006112,Senile dementia with delusion,371024007,1
+6348061000006115,Senile dementia with psychosis,371026009,4
+6897211000006117,"Primary degenerative dementia of the Alzheimer type, presenile onset",416780008,100
+6897241000006118,Dementia of the Alzheimers type with early onset,416780008,8
+6897251000006116,"Presenile dementia, Alzheimer's type",416780008,70
+6897271000006114,Dementia in Alzheimer's disease - type 2,416780008,100
+6900181000006114,"Primary degenerative dementia of the Alzheimer type, senile onset",416975007,500
+6900201000006110,"Dementia of the Alzheimers type, late onset",416975007,50
+6900221000006117,"SDAT - Senile dementia, Alzheimer's type",416975007,40
+6900241000006112,Dementia in Alzheimer's disease - type 1,416975007,30
+6973421000006116,Dementia associated with AIDS,421529006,1
+6973461000006110,Acquired immune deficiency syndrome dementia complex,421529006,1
+7043651000006119,Dementia associated with Parkinson's Disease,425390006,100
+7043661000006117,Dementia associated with Parkinson Disease,425390006,2
+7263021000006116,Dementia due to Huntingtons disease,442344002,1
+7484361000006111,Assessment of dementia,473203000,800
+7510731000006118,Dementia associated with normal pressure hydrocephalus,698625002,2
+7510741000006111,Dementia associated with multiple sclerosis,698626001,1
+7511421000006118,Post-traumatic dementia with behavioural change,698687007,2
+7515071000006112,Dementia in remission,698949001,1
+7560531000006110,Frontotemporal dementia with parkinsonism-17,702429008,1
+7755121000006115,Behavioural variant of frontotemporal dementia,716994006,1
+7840631000006118,Ischaemic vascular dementia,723123001,2
+7843521000006113,Rapidly progressive dementia,723390000,20
+7863681000006115,Epilepsy co-occurrent and due to dementia,724992007,2
+7874771000006117,Delirium superimposed on dementia,725898002,20
+7955111000006116,Dementia due to chronic subdural haematoma,733191004,4
+7969281000006110,Dementia of the Alzheimer type with behavioural disturbance,1581000119101,30
+7969371000006115,Dementia with behavioural disturbance,1591000119103,20
+8009521000006114,Dementia due to Picks disease,21921000119103,2
+8009531000006112,Dementia due to Pick disease,21921000119103,1
+8010111000006117,Primary degenerative dementia,22381000119105,3
+8014401000006116,Early onset dementia with delusions,31081000119101,1
+8024201000006111,Mixed dementia,79341000119107,2000
+8024641000006111,Altered behaviour in Huntington's dementia,82361000119107,1
+8024691000006119,Epileptic dementia with behavioural disturbance,82381000119103,3
+8031751000006119,Dementia due to Parkinson's disease,101421000119107,20
+8031761000006117,Dementia due to Parkinsons disease,101421000119107,1
+8042791000006116,Lewy body dementia with behavioural disturbance,135811000119107,60
+8042801000006115,Lewy body dementia with behavioral disturbance,135811000119107,1
+8089231000006110,Vascular dementia with behavioural disturbance,288631000119104,9
+8089241000006117,Vascular dementia with behavioral disturbance,288631000119104,2
+12370651000006112,MVAD - Mixed vascular Alzheimer dementia,79341000119107,80
+12370661000006114,Dementia with mixed aetiology,79341000119107,5
+13934381000006118,Cortical vascular dementia,833326008,5
+45046017,Alzheimer's disease,26929004,700000
+251194016,Alzheimer's disease society member,161108005,200
+299325013,[X]Other Alzheimer's disease,26929004,400
+499946014,Alzheimer's disease with early onset,416780008,20000
+500317011,Alzheimer's disease with late onset,416975007,20000
+363031000006111,[X]Alzheimer's disease type 1,416975007,100
+363041000006118,[X]Alzheimer's disease type 2,416780008,50
+905791000006115,[RFC] Alzheimer's disease,905791000006104,500
+1576281000006119,Cause of Death- Alzheimer'S Disease,1576281000006103,100
+2931241000006111,Alzheimer disease,26929004,100
+5005521000006118,Non-familial Alzheimer's disease of early onset,230266001,1
+5005541000006113,Familial Alzheimer's disease of late onset,230267005,1
+5005561000006112,Non-familial Alzheimer's disease of late onset,230268000,3
+5005581000006119,Focal Alzheimer's disease,230269008,3
+5005691000006117,Non-Alzheimer's progressive dysphasia,230279005,1
+5005711000006119,Progressive aphasia in Alzheimer's disease,230280008,20
+8030791000006119,Altered behaviour in Alzheimer's disease,97751000119108,3
+8032911000006111,Early onset Alzheimer's disease with behavioural disturbance,105421000119105,4
+8032931000006117,Early onset Alzheimers disease with behavioral disturbance,105421000119105,1
+8044911000006116,Delusions in Alzheimer's disease,141991000119109,2
+8044941000006117,Depressed mood in Alzheimer's disease,142001000119106,5
+8044981000006111,Alzheimer's disease co-occurrent with delirium,142011000119109,3

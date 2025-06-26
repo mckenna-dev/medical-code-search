@@ -1,0 +1,100 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+Acute infective exacerbation of chronic obstructive airways disease (disorder),b285381006,Chronic obstructive pulmonary disease (COPD) codes,a424365019,40000,Acute infective exacerbation of chronic obstructive airways disease
+Very severe chronic obstructive pulmonary disease (disorder),b293991000000106,Chronic obstructive pulmonary disease (COPD) codes,a516801000000112,50000,Very severe chronic obstructive pulmonary disease
+Moderate chronic obstructive pulmonary disease (disorder),b313297008,Chronic obstructive pulmonary disease (COPD) codes,a457169013,800000,Moderate chronic obstructive pulmonary disease
+Paraseptal emphysema (disorder),b31898008,Chronic obstructive pulmonary disease (COPD) codes,a3013801000006116,90,Paraseptal emphysema
+Paraseptal emphysema (disorder),b31898008,Chronic obstructive pulmonary disease (COPD) codes,a3013821000006114,1,Subpleural emphysema
+Acute exacerbation of chronic bronchitis (disorder),b425748003,Chronic obstructive pulmonary disease (COPD) codes,a7049011000006110,800,Acute exacerbation of chronic bronchitis
+Unilateral emphysema (situation),b45145000,Chronic obstructive pulmonary disease (COPD) codes,a1230190015,600,MacLeod's unilateral emphysema
+Unilateral emphysema (situation),b45145000,Chronic obstructive pulmonary disease (COPD) codes,a161781000006116,2,Sawyer - Jones syndrome
+Unilateral emphysema (situation),b45145000,Chronic obstructive pulmonary disease (COPD) codes,a3228301000006115,100,Unilateral emphysema
+Unilateral emphysema (situation),b45145000,Chronic obstructive pulmonary disease (COPD) codes,a3228331000006111,6,Swyer-James syndrome
+Chronic tracheobronchitis (disorder),b52571006,Chronic obstructive pulmonary disease (COPD) codes,a87480013,100,Chronic tracheobronchitis
+Chronic bronchitis (disorder),b63480004,Chronic obstructive pulmonary disease (COPD) codes,a105519017,80000,Chronic bronchitis
+Chronic bronchitis (disorder),b63480004,Chronic obstructive pulmonary disease (COPD) codes,a301457014,50,Other chronic bronchitis
+Chronic bronchitis (disorder),b63480004,Chronic obstructive pulmonary disease (COPD) codes,a301458016,30,Other chronic bronchitis NOS
+Chronic bronchitis (disorder),b63480004,Chronic obstructive pulmonary disease (COPD) codes,a301459012,10000,Chronic bronchitis NOS
+Pulmonary emphysema co-occurrent with fibrosis of lung (disorder),b708030004,Chronic obstructive pulmonary disease (COPD) codes,a7627141000006111,30,Pulmonary emphysema co-occurrent with fibrosis of lung
+Pulmonary emphysema co-occurrent with fibrosis of lung (disorder),b708030004,Chronic obstructive pulmonary disease (COPD) codes,a7627151000006113,10,CPFE - combined pulmonary fibrosis and emphysema
+Mucopurulent chronic bronchitis (disorder),b74417001,Chronic obstructive pulmonary disease (COPD) codes,a123588010,2000,Mucopurulent chronic bronchitis
+Mucopurulent chronic bronchitis (disorder),b74417001,Chronic obstructive pulmonary disease (COPD) codes,a301448015,100,Mucopurulent chronic bronchitis NOS
+Mucopurulent chronic bronchitis (disorder),b74417001,Chronic obstructive pulmonary disease (COPD) codes,a885281000006118,400,Mucopurulent chr. bronchitis
+Chronic bronchitis co-occurrent with wheeze (disorder),b785736001,Chronic obstructive pulmonary disease (COPD) codes,a13651461000006115,2,Chronic bronchitis co-occurrent with wheeze
+Pulmonary emphysema (disorder),b87433001,Chronic obstructive pulmonary disease (COPD) codes,a301469018,500,Other emphysema
+Pulmonary emphysema (disorder),b87433001,Chronic obstructive pulmonary disease (COPD) codes,a301477019,10000,Emphysema NOS
+Pulmonary emphysema (disorder),b87433001,Chronic obstructive pulmonary disease (COPD) codes,a301835010,400,[X]Other emphysema
+Pulmonary emphysema (disorder),b87433001,Chronic obstructive pulmonary disease (COPD) codes,a396110016,300,Other emphysema NOS
+Pulmonary emphysema (disorder),b87433001,Chronic obstructive pulmonary disease (COPD) codes,a640491000006111,300000,Pulmonary emphysema
+Pulmonary emphysema (disorder),b87433001,Chronic obstructive pulmonary disease (COPD) codes,a3921361000006112,10,Emphysema of lung
+Catarrhal bronchitis (disorder),b89549007,Chronic obstructive pulmonary disease (COPD) codes,a508562012,1000,Chronic catarrhal bronchitis
+Catarrhal bronchitis (disorder),b89549007,Chronic obstructive pulmonary disease (COPD) codes,a3955621000006112,7,Catarrhal bronchitis
+Emphysema of right lung (disorder),b1010334009,Chronic obstructive pulmonary disease (COPD) codes,a14161381000006113,20,Emphysema of right lung
+Chronic obstructive lung disease co-occurrent with acute bronchitis (disorder),b106001000119101,Chronic obstructive pulmonary disease (COPD) codes,a8033221000006118,1,Chronic obstructive lung disease co-occurrent with acute bronchitis
+Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),b10692761000119107,Chronic obstructive pulmonary disease (COPD) codes,a1948051000006112,30000,Asthma-chronic obstructive pulmonary disease overlap syndrome
+Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),b10692761000119107,Chronic obstructive pulmonary disease (COPD) codes,a9317331000006113,9,Asthma-COPD overlap syndrome (ACOS)
+Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),b10692761000119107,Chronic obstructive pulmonary disease (COPD) codes,a9317341000006115,80,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome
+End stage chronic obstructive airways disease (disorder),b135836000,Chronic obstructive pulmonary disease (COPD) codes,a216596014,3000,End stage chronic obstructive airways disease
+End stage chronic obstructive airways disease (disorder),b135836000,Chronic obstructive pulmonary disease (COPD) codes,a4510801000006114,2,End stage chronic obstructive pulmonary disease
+Giant bullous emphysema (disorder),b16003001,Chronic obstructive pulmonary disease (COPD) codes,a27096010,200,Giant bullous emphysema
+Chronic obstructive bronchitis (disorder),b185086009,Chronic obstructive pulmonary disease (COPD) codes,a285100019,3000,Emphysematous bronchitis
+Chronic obstructive bronchitis (disorder),b185086009,Chronic obstructive pulmonary disease (COPD) codes,a285104011,20000,Obstructive chronic bronchitis
+Chronic obstructive bronchitis (disorder),b185086009,Chronic obstructive pulmonary disease (COPD) codes,a301455018,300,Obstructive chronic bronchitis NOS
+Chronic obstructive bronchitis (disorder),b185086009,Chronic obstructive pulmonary disease (COPD) codes,a4733031000006114,2,Chronic obstructive bronchitis
+Chronic asthmatic bronchitis (disorder),b195949008,Chronic obstructive pulmonary disease (COPD) codes,a301450011,9000,Chronic asthmatic bronchitis
+Chronic asthmatic bronchitis (disorder),b195949008,Chronic obstructive pulmonary disease (COPD) codes,a301451010,1000,Chronic wheezy bronchitis
+Chronic asthmatic bronchitis (disorder),b195949008,Chronic obstructive pulmonary disease (COPD) codes,a183191000006115,10000,Recurrent wheezy bronchitis
+Acute exacerbation of chronic obstructive airways disease (disorder),b195951007,Chronic obstructive pulmonary disease (COPD) codes,a301453013,1000000,Acute exacerbation of chronic obstructive airways disease
+Acute exacerbation of chronic obstructive airways disease (disorder),b195951007,Chronic obstructive pulmonary disease (COPD) codes,a553211000006119,100000,"Chron obstruct pulmonary dis wth acute exacerbation, unspec"
+Acute exacerbation of chronic obstructive airways disease (disorder),b195951007,Chronic obstructive pulmonary disease (COPD) codes,a4781421000006111,500,Acute exacerbation of COPD
+Acute exacerbation of chronic obstructive airways disease (disorder),b195951007,Chronic obstructive pulmonary disease (COPD) codes,a4781431000006114,300,Acute exacerbation of chronic obstructive pulmonary disease
+Mixed simple and mucopurulent chronic bronchitis (disorder),b195953005,Chronic obstructive pulmonary disease (COPD) codes,a301456017,40,Mixed simple and mucopurulent chronic bronchitis
+Acute vesicular emphysema (disorder),b195963002,Chronic obstructive pulmonary disease (COPD) codes,a301470017,10,Acute vesicular emphysema
+Chronic emphysema caused by chemical fumes (disorder),b196026004,Chronic obstructive pulmonary disease (COPD) codes,a301572010,80,Chronic emphysema due to chemical fumes
+Scar emphysema (disorder),b233677001,Chronic obstructive pulmonary disease (COPD) codes,a5054311000006111,5,Scar emphysema
+Vanishing lung (disorder),b23958009,Chronic obstructive pulmonary disease (COPD) codes,a2882311000006111,1,Vanishing lung
+Bullous emphysema with collapse (disorder),b266355005,Chronic obstructive pulmonary disease (COPD) codes,a396108018,200,Bullous emphysema with collapse
+Acute exacerbation of chronic obstructive bronchitis (disorder),b293241000119100,Chronic obstructive pulmonary disease (COPD) codes,a8090191000006114,7,Acute exacerbation of chronic obstructive bronchitis
+Mild chronic obstructive pulmonary disease (disorder),b313296004,Chronic obstructive pulmonary disease (COPD) codes,a457168017,700000,Mild chronic obstructive pulmonary disease
+Severe chronic obstructive pulmonary disease (disorder),b313299006,Chronic obstructive pulmonary disease (COPD) codes,a457171013,500000,Severe chronic obstructive pulmonary disease
+Chronic mucus hypersecretion (disorder),b360470001,Chronic obstructive pulmonary disease (COPD) codes,a6213641000006118,90,Chronic mucus hypersecretion
+Panacinar emphysema (disorder),b4981000,Chronic obstructive pulmonary disease (COPD) codes,a9337016,300,Panlobular emphysema
+Simple chronic bronchitis (disorder),b61937009,Chronic obstructive pulmonary disease (COPD) codes,a301444018,100,Simple chronic bronchitis NOS
+Simple chronic bronchitis (disorder),b61937009,Chronic obstructive pulmonary disease (COPD) codes,a508561017,10000,Simple chronic bronchitis
+Congenital lobar emphysema (disorder),b66987001,Chronic obstructive pulmonary disease (COPD) codes,a3589231000006114,5,Congenital lobar emphysema
+Centriacinar emphysema (disorder),b68328006,Chronic obstructive pulmonary disease (COPD) codes,a113497011,5000,Centrilobular emphysema
+Centriacinar emphysema (disorder),b68328006,Chronic obstructive pulmonary disease (COPD) codes,a3611791000006110,20,Centriacinar emphysema
+Fetid chronic bronchitis (disorder),b84409004,Chronic obstructive pulmonary disease (COPD) codes,a139979010,10,Fetid chronic bronchitis
+Fetid chronic bronchitis (disorder),b84409004,Chronic obstructive pulmonary disease (COPD) codes,a506053014,200,Purulent chronic bronchitis
+Fetid chronic bronchitis (disorder),b84409004,Chronic obstructive pulmonary disease (COPD) codes,a3873191000006110,2,Fetid chronic bronchitis
+Acute non-infective exacerbation of chronic obstructive pulmonary disease (disorder),b847091000000104,Chronic obstructive pulmonary disease (COPD) codes,a2010061000006113,7000,Acute non-infective exacerbation of chronic obstructive pulmonary disease
+Acute non-infective exacerbation of chronic obstructive pulmonary disease (disorder),b847091000000104,Chronic obstructive pulmonary disease (COPD) codes,a8287171000006115,400,Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease)
+Emphysema of left lung (disorder),b1010333003,Chronic obstructive pulmonary disease (COPD) codes,a14161371000006110,20,Emphysema of left lung
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a301539010,5000,Other specified chronic obstructive airways disease
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a301545019,400000,Chronic obstructive airway disease
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a301836011,200,[X]Other specified chronic obstructive pulmonary disease
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a475431013,5000000,Chronic obstructive pulmonary disease
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a1222334016,40,Other specified chronic obstructive pulmonary disease
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a1222335015,20000,Chronic obstructive pulmonary disease NOS
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a555471000006114,200000,COAD - Chronic obstructive airways disease
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a990641000006110,10000,Chronic obst. pulm. dis. NOS
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a990651000006112,1,Chr. airway obstruction NOS
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a2716231000006114,300000,Chronic obstructive lung disease
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a2716241000006116,10,Chronic airway obstruction
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a2716261000006117,30,Chronic airflow obstruction
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a2716271000006112,1,CAFL - Chronic airflow limitation
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a2716301000006114,10,Chronic airflow limitation
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a2716321000006116,90000,COPD - Chronic obstructive pulmonary disease
+Chronic obstructive lung disease (disorder),b13645005,Chronic obstructive pulmonary disease (COPD) codes,a2716341000006111,8,Chronic airway disease
+Obstructive emphysema (disorder),b16846004,Chronic obstructive pulmonary disease (COPD) codes,a2767421000006111,20,Obstructive emphysema
+Acute exacerbation of chronic obstructive airways disease with asthma (disorder),b1751000119100,Chronic obstructive pulmonary disease (COPD) codes,a7970171000006119,8,Acute exacerbation of chronic obstructive airways disease with asthma
+Chronic bullous emphysema (disorder),b195957006,Chronic obstructive pulmonary disease (COPD) codes,a301460019,6000,Chronic bullous emphysema
+Chronic bullous emphysema (disorder),b195957006,Chronic obstructive pulmonary disease (COPD) codes,a301468014,800,Chronic bullous emphysema NOS
+Chronic bullous emphysema (disorder),b195957006,Chronic obstructive pulmonary disease (COPD) codes,a4781461000006117,6,Emphysematous bulla
+Chronic bullous emphysema (disorder),b195957006,Chronic obstructive pulmonary disease (COPD) codes,a4781471000006112,5,Bullous emphysema
+Segmental bullous emphysema (disorder),b195958001,Chronic obstructive pulmonary disease (COPD) codes,a301463017,300,Segmental bullous emphysema
+Zonal bullous emphysema (disorder),b195959009,Chronic obstructive pulmonary disease (COPD) codes,a301464011,200,Zonal bullous emphysema
+Chronic obstructive pulmonary disease with acute lower respiratory infection (disorder),b196001008,Chronic obstructive pulmonary disease (COPD) codes,a555461000006119,7000,Chronic obstructive pulmonary disease with acute lower respiratory infection
+Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency (disorder),b233674008,Chronic obstructive pulmonary disease (COPD) codes,a5054271000006111,2,Pulmonary emphysema in alpha-1 PI deficiency
+Toxic emphysema (disorder),b233675009,Chronic obstructive pulmonary disease (COPD) codes,a5054291000006112,1,Toxic emphysema
+Toxic emphysema (disorder),b233675009,Chronic obstructive pulmonary disease (COPD) codes,a5054301000006113,1,Chemical emphysema
+Atrophic (senile) emphysema (disorder),b266356006,Chronic obstructive pulmonary disease (COPD) codes,a396109014,7,Atrophic (senile) emphysema

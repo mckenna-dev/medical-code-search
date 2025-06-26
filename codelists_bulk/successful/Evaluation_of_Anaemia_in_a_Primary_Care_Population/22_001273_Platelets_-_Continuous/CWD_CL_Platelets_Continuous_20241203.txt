@@ -1,0 +1,8 @@
+	Column0	MedCodeId	Term	Count
+0	7	a102928018	Platelet count	73059491
+1	2245	a257443013	Platelet count NOS	1232
+2	3838	a3506391000006111	Platelet count	184
+3	3854	a1780485016	Percentage reticulated platelet count	181
+4	4716	a257441010	Platelet count abnormal	76
+5	4945	a257434016	Platelet count normal	62
+6	5179	a12622791000006117	Platelet count in blood	50

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 293
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tskin_infection']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+          \tMedCodeId\tObservations\tTerm\tskin_infection
+0  0\ta115336016\t20000\tAbscess of vulva\tskin_infection
+1  1\ta117333013\t9000\tCellulitis of toe\tskin_infection
+2    2\ta1227883019\t200000\tSkin abscess\tskin_infection

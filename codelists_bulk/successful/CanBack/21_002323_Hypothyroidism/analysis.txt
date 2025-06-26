@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 124
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order  Flag_classifyL1  Flag_classifyL2         MedCodeID                                                         Term
+0   8296  Thyroid_disease  Hypothyroidism   a101171000006116                                           Thyroid deficiency
+1   8297  Thyroid_disease  Hypothyroidism   a101581000006112                                        Thyroid insufficiency
+2   8298  Thyroid_disease  Hypothyroidism   a101891000006113  Thyrotoxicosis without mention of goitre or cause no crisis

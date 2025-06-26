@@ -1,0 +1,33 @@
+{
+  "original_file": "codelists_bulk\\successful\\Evaluation_of_Anaemia_in_a_Primary_Care_Population\\22_001273_Body_Mass_Index_(BMI)_-_Continuous\\CWD_CL_BMI_Continuous_20241203.txt",
+  "original_columns": [
+    "Unnamed: 0",
+    "Column0",
+    "MedCodeId",
+    "Term",
+    "Count"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "observations": "Count"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Count",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 15,
+  "rows_standardized": 15,
+  "project": "Evaluation_of_Anaemia_in_a_Primary_Care_Population",
+  "codelist": "22_001273_Body_Mass_Index_(BMI)_-_Continuous"
+}

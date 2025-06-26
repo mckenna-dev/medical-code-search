@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 49
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tSnomedCTConceptId\t\t\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                          MedCodeId\tObservations\tTerm\tSnomedCTConceptId\t\t\t
+0                  a142764012\t1000000\tChronic rhinitis\t86094006\tRhinitis\t\t
+1                 a102311013\t1000000\tAllergic rhinitis\t61582004\tRhinitis\t\t
+2  a396098013\t900000\tAllergic rhinitis due to allergen\t61582004\tRhinitis\t\t

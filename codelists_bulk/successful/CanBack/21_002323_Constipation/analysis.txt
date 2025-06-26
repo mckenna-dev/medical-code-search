@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 43
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2           MedCodeID                                                                 Term
+0   4489       Digestive    Constipation  a11932891000006111  IPOS patient score : degree pt affected by constipation past 3 days
+1   4490       Digestive    Constipation  a11933491000006119    IPOS patient score : degree pt affected by constipation past week
+2   4491       Digestive    Constipation   a1726521000006115                                                 Chronic constipation

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4
+Columns: 1
+Column names: ['\tColumn0\tMedCodeId\tTerm\tCount']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                    \tColumn0\tMedCodeId\tTerm\tCount
+0  0\t75\ta373708010\tSerum aspartate aminotransferase level\t6575236
+1   1\t573\ta219691000000115\tAspartate aminotransferase level\t56889
+2      2\t640\ta457989010\tPlasma aspartate transaminase level\t45264

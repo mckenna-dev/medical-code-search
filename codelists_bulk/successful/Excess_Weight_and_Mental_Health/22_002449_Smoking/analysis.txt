@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 215
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tsmoke_category']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                             \tMedCodeId\tObservations\tTerm\tsmoke_category
+0  0\ta102921000006112\t2000000\tTobacco smoking consumption\tcurrent-smoker
+1                  1\ta108938018\t20000000\tCigarette smoker\tcurrent-smoker
+2                    2\ta503483019\t10000000\tCurrent smoker\tcurrent-smoker

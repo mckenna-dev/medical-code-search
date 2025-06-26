@@ -1,0 +1,363 @@
+readterm	count	percentage_of_coh
+Chest infection NOS	283700	10.699934902757695
+Chest infection	255955	9.653513704742142
+Sore throat symptom	251794	9.49657881179052
+Upper respiratory infection NOS	248634	9.377397302122864
+Upper respiratory tract infection NOS	242018	9.12787044517311
+Acute sinusitis	176108	6.642030792579669
+Infective otitis externa	144602	5.453760968659035
+Acute bronchitis	126776	4.78144147773003
+Flu like illness	87544	3.3017804058054976
+Otitis externa NOS	73267	2.7633138192469087
+Acute tonsillitis	69895	2.636136588044586
+Acute pharyngitis	64172	2.420289822276231
+Sinusitis	51189	1.9306273096131956
+Lower resp tract infection	47477	1.7906267514213148
+Acute laryngitis	37775	1.4247093442075147
+Acute upper respiratory tract infection	32147	1.2124455668627128
+Influenza	29140	1.0990345543403568
+Acute tracheitis	27901	1.0523048421637027
+Otitis media NOS	26698	1.006932894021237
+Acute lower respiratory tract infection	23438	0.8839798175919452
+Other otitis externa	21577	0.813790960157923
+Acute exacerbation of chronic obstructive airways disease	17701	0.6676050324769615
+Bronchitis unspecified	17143	0.6465596899470396
+Viral upper respiratory tract infection NOS	17090	0.6445607595633732
+Nonsuppurative otitis media + eustachian tube disorders	16559	0.6245337400590929
+Pneumonia due to unspecified organism	16553	0.6243074460533948
+Rhinitis - acute	14392	0.5428038883344686
+Throat infection - pharyngitis	13200	0.4978468125357827
+Suppurative and unspecified otitis media	13023	0.4911711393676893
+Sore throat NOS	12344	0.46556220105618956
+Common cold	10923	0.41196823737336025
+Acute wheezy bronchitis	10510	0.39639166664780884
+Coryza - acute	10501	0.39605222563926173
+Acute non suppurative otitis media	9863	0.37198962970003224
+Bronchopneumonia due to unspecified organism	9247	0.34875677844836234
+Influenza NOS	8040	0.3032339676354313
+Acute left otitis media	5784	0.21814742149295208
+Acute right otitis media	5555	0.20951053360880856
+Tonsillitis	5290	0.19951588169047654
+Pneumonia or influenza NOS	4626	0.17447267839322203
+Acute pharyngitis NOS	4418	0.16662781952902184
+Has a sore throat	4392	0.16564721217099682
+Community acquired pneumonia	4152	0.15659545194307348
+Acute maxillary sinusitis	3875	0.14614821201334532
+Acute nasopharyngitis	3621	0.13656843243879313
+Lobar (pneumococcal) pneumonia	3488	0.13155224864581894
+Acute sinusitis NOS	3476	0.1310996606344228
+Influenza-like symptoms	3284	0.12385825245208412
+Acute suppurative otitis media	2782	0.10492498730867783
+Chest cold	2700	0.10183230256413738
+Unspecified infective otitis externa	2342	0.0883300935574851
+Inflamed throat	2239	0.08444537979300133
+Bronchitis NOS	2106	0.07942919600002715
+Acute infective otitis externa	2021	0.07622336425263765
+Influenza like illness	1986	0.0749033158860655
+Viral sore throat NOS	1912	0.0721123564824558
+Pneumonia and influenza	1876	0.0707545924482673
+Acute laryngotracheitis	1851	0.06981170075785863
+Basal pneumonia due to unspecified organism	1790	0.06751104503326144
+Maxillary sinusitis	1767	0.06664358467808545
+Acute viral pharyngitis	1729	0.06521038930866427
+Acute frontal sinusitis	1687	0.06362633126877769
+Catarrhal otitis media NOS	1602	0.06042049952138818
+Acute bronchitis NOS	1548	0.05838385347010543
+Quinsy	1521	0.057365530444464054
+Other acute upper respiratory infections	1519	0.05729009910923136
+Acute tonsillitis NOS	1427	0.053820257688527426
+Lobar pneumonia due to unspecified organism	1384	0.052198483981024495
+Acute serous otitis media	1292	0.048728642560320556
+Acute tracheobronchitis	1249	0.047106868852817625
+Streptococcal sore throat	1243	0.04688057484711954
+Sore throat symptom NOS	1194	0.04503250713391853
+Recurrent chest infection	1152	0.04344844909403195
+Acute laryngitis and tracheitis	1122	0.04231697906554153
+Tracheobronchitis NOS	1081	0.0407706366932713
+Acute viral bronchitis unspecified	1002	0.037791098951579866
+Acute secretory otitis media	991	0.03737622660780005
+Eustachian tube salpingitis	986	0.037187648269718314
+Chest infection - unspecified bronchitis	986	0.037187648269718314
+Laryngotracheitis	940	0.03545272755936635
+Atypical pneumonia	929	0.03503785521558653
+Hospital acquired pneumonia	875	0.03300120916430378
+Recurrent upper respiratory tract infection	869	0.0327749151586057
+Acute viral laryngitis unspecified	832	0.03137943545680085
+Throat infection - tonsillitis	825	0.03111542578348642
+Acute follicular tonsillitis	824	0.031077710115870075
+Streptococcal pharyngitis	780	0.0294182207407508
+Acute rhinosinusitis	743	0.028022741038945954
+Acute bilateral otitis media	720	0.027155280683769968
+Acute bronchiolitis	713	0.026891271010455534
+Acute tracheitis NOS	679	0.025608938311499733
+Streptococcal tonsillitis	657	0.0247791936239401
+Serous otitis media NOS	641	0.02417574294207854
+Frontal sinusitis	634	0.023911733268764113
+Inflammation ear external	591	0.02228995956126118
+Acute laryngitis NOS	570	0.02149793054131789
+Influenza A (H1N1) swine flu	514	0.01938585315480245
+Pharyngolaryngitis	494	0.018631539802475505
+Viral pneumonia	490	0.018480677132010116
+Peritonsillar abscess - quinsy	449	0.016934334759739884
+Other specified pneumonia or influenza	442	0.016670325086425453
+Uvulitis	437	0.016481746748343715
+Bacterial pneumonia NOS	410	0.015463423722702343
+Whooping cough	407	0.015350276719853301
+Acute otitis media with effusion	400	0.01508626704653887
+Pneumonia due to other specified organisms	400	0.01508626704653887
+Recurrent sinusitis	395	0.014897688708457134
+Acute laryngopharyngitis	381	0.014369669361828276
+Acute bacterial tonsillitis	368	0.01387936568281576
+Other bacterial pneumonia	357	0.013464493339035943
+Acute viral tonsillitis	356	0.013426777671419594
+Bordetella pertussis	333	0.01255931731624361
+Interstitial pneumonia	307	0.011578709958218584
+Laryngotracheobronchitis	296	0.011163837614438765
+Boil in nose	291	0.010975259276357029
+Pyrexial cold	286	0.010786680938275292
+Persistent sore throat	276	0.010409524262111822
+Chest infection - unspecified bronchopneumonia	273	0.01029637725926278
+Acute bacterial pharyngitis	272	0.010258661591646432
+Recurrent acute tonsillitis	259	0.009768357912633918
+Viral pneumonia NOS	252	0.009504348239319489
+Croup	247	0.009315769901237753
+Infective otitis externa NOS	235	0.008863181889841587
+Acute nonsuppurative otitis media NOS	211	0.007958005867049254
+Pneumonia - Legionella	206	0.007769427528967519
+Postmeasles otitis media	183	0.006901967173791533
+Other specified infective otitis externa	182	0.006864251506175186
+Acute ethmoidal sinusitis	173	0.006524810497628062
+Febrile cold	170	0.00641166349477902
+Influenza with respiratory manifestations NOS	146	0.005506487471986688
+Pneumonia due to streptococcus	144	0.005431056136753994
+Acute swimmers' ear	144	0.005431056136753994
+Nonsuppurative otitis media NOS	141	0.005317909133904951
+Suspected swine influenza	134	0.005053899460590522
+Acute purulent bronchitis	134	0.005053899460590522
+Acute epiglottitis (non strep)	127	0.004789889787276092
+Acute catarrhal laryngitis	126	0.004752174119659744
+Nasal septum abscess	117	0.004412733111112619
+Acute myringitis without otitis media	116	0.004375017443496272
+Influenza with bronchopneumonia	112	0.004224154773030884
+Other upper respiratory infections of multiple sites	112	0.004224154773030884
+Acute suppurative otitis media NOS	111	0.004186439105414537
+Influenza with pneumonia	109	0.004111007770181842
+Chest infection - pnemonia due to unspecified organism	108	0.004073292102565495
+Post operative chest infection	105	0.003960145099716454
+Influenza due to Influenza A virus subtype H1N1	104	0.003922429432100106
+Acute ulcerative pharyngitis	100	0.0037715667616347176
+Pneumonia due to mycoplasma pneumoniae	96	0.0036207040911693292
+Recurrent acute otitis media	96	0.0036207040911693292
+Hypostatic bronchopneumonia	96	0.0036207040911693292
+Acute bronchitis or bronchiolitis NOS	91	0.003432125753087593
+Abscess of lung	90	0.003394410085471246
+Suspected influenza A virus subtype H1N1 infection	89	0.0033566944178548986
+Pansinusitis	89	0.0033566944178548986
+Chest infection - influenza with pneumonia	88	0.0033189787502385516
+[X]Other otitis externa	84	0.003168116079773163
+Acute phlegmonous pharyngitis	82	0.0030926847445404684
+Boil of nasal septum	81	0.0030549690769241214
+Tracheopharyngitis	80	0.0030172534093077744
+Pneumonia due to klebsiella pneumoniae	80	0.0030172534093077744
+Acute pansinusitis	77	0.0029041064064587326
+Abscess of lung and mediastinum	75	0.0028286750712260386
+Herpangina	74	0.002790959403609691
+Acute erythematous tonsillitis	73	0.002753243735993344
+O/E - follicular tonsillitis	72	0.002715528068376997
+Acute suppurative otitis media tympanic membrane intact	72	0.002715528068376997
+Pneumonia due to specified organism NOS	69	0.0026023810655279554
+Acute epiglottitis NOS	68	0.002564665397911608
+Emphysematous bronchitis	68	0.002564665397911608
+Chest infection - other bacterial pneumonia	66	0.0024892340626789136
+Influenza with gastrointestinal tract involvement	66	0.0024892340626789136
+Acute mucoid otitis media	63	0.002376087059829872
+Influenza with laryngitis	62	0.002338371392213525
+Influenza with other respiratory manifestation	61	0.002300655724597178
+Purulent otitis media NOS	59	0.0022252243893644834
+Bullous myringitis	58	0.002187508721748136
+Acute pneumococcal bronchitis	52	0.001961214716050053
+Chest infection - viral pneumonia	51	0.0019234990484337062
+Acute suppurative otitis media tympanic membrane ruptured	49	0.0018480677132010116
+Postoperative pneumonia	48	0.0018103520455846646
+Pneumonia due to bacteria NOS	48	0.0018103520455846646
+Parapharyngeal abscess	48	0.0018103520455846646
+Influenza with pharyngitis	48	0.0018103520455846646
+Acute bronchiolitis with bronchospasm	47	0.0017726363779683174
+Acute ulcerative tonsillitis	46	0.00173492071035197
+Acute laryngitis and tracheitis NOS	45	0.001697205042735623
+Granular pharyngitis	45	0.001697205042735623
+Acute tracheitis without obstruction	43	0.0016217737075029288
+Acute bronchiolitis NOS	41	0.0015463423722702342
+Acute laryngotracheitis NOS	40	0.0015086267046538872
+Viral pneumonia NEC	38	0.0014331953694211928
+Other acute non infective otitis externa	38	0.0014331953694211928
+Acute bacterial bronchitis unspecified	37	0.0013954797018048456
+Streptococcal laryngitis	37	0.0013954797018048456
+Bilateral suppurative otitis media	36	0.0013577640341884984
+Unspecified nonsuppurative otitis media	36	0.0013577640341884984
+Other reactive otitis externa	35	0.0013200483665721512
+Possible influenza A virus H1N1 subtype	34	0.001282332698955804
+Varicella pneumonitis	32	0.0012069013637231096
+Pneumonia due to haemophilus influenzae	31	0.0011691856961067624
+O/E - granular pharyngitis	31	0.0011691856961067624
+Pneumonia due to staphylococcus	31	0.0011691856961067624
+Acute bronchitis due to parainfluenza virus	31	0.0011691856961067624
+Whooping cough NOS	31	0.0011691856961067624
+Acute phlegmonous laryngitis	30	0.0011314700284904154
+Pleural empyema	29	0.001093754360874068
+Viral pharyngoconjunctivitis	28	0.001056038693257721
+[X]Other acute sinusitis	28	0.001056038693257721
+Abscess of lung with pneumonia	27	0.0010183230256413738
+Acute myringitis NOS	26	0.0009806073580250266
+Other acute sinusitis	26	0.0009806073580250266
+Tympanic atelectasis	25	0.0009428916904086794
+Advice given about Influenza A virus subtype H1N1 infection	25	0.0009428916904086794
+Acute catarrhal tonsillitis	24	0.0009051760227923323
+Carbuncle of nasal septum	24	0.0009051760227923323
+Purulent pleurisy	23	0.000867460355175985
+Pneumonia due to other specified bacteria	23	0.000867460355175985
+Lingular tonsillitis	23	0.000867460355175985
+Unspecified acute tympanitis	22	0.0008297446875596379
+Abscess of lung NOS	22	0.0008297446875596379
+At risk of influenza related complication	21	0.0007920290199432907
+[X]Other pneumonia, organism unspecified	21	0.0007920290199432907
+Influenza with pneumonia NOS	21	0.0007920290199432907
+Pneumonia due to pseudomonas	19	0.0007165976847105964
+O/E - purulent ear discharge	19	0.0007165976847105964
+[X]Influenza+oth respiratory manifestatns,virus not identifd	19	0.0007165976847105964
+Pneumonia with infectious diseases EC	19	0.0007165976847105964
+Chest infection - pneumococcal pneumonia	19	0.0007165976847105964
+Acute bacterial pharyngitis NOS	19	0.0007165976847105964
+Influenza B virus detected	18	0.0006788820170942492
+Pneumonia with varicella	18	0.0006788820170942492
+Streptococcal sore throat and scarlatina	17	0.000641166349477902
+Influenza A virus, other or untyped strain detected	17	0.000641166349477902
+Acute bronchitis due to mycoplasma pneumoniae	17	0.000641166349477902
+Retropharyngeal abscess	17	0.000641166349477902
+Acute croupous bronchitis	16	0.0006034506818615548
+[X]Otitis externa in viral diseases classified elsewhere	16	0.0006034506818615548
+Acute haemophilus influenzae bronchitis	16	0.0006034506818615548
+Chlamydial pneumonia	16	0.0006034506818615548
+Acute sphenoidal sinusitis	15	0.0005657350142452077
+Pharynx or nasopharynx cellulitis	15	0.0005657350142452077
+Malignant otitis externa	15	0.0005657350142452077
+Pleural abscess	14	0.0005280193466288605
+[X]Other infective otitis externa	14	0.0005280193466288605
+Influenza A virus H1N1 subtype detected	14	0.0005280193466288605
+Streptococcal sore throat NOS	14	0.0005280193466288605
+Eustachian tube salpingitis NOS	13	0.0004903036790125133
+Telephne consultatn suspected influenza A virus subtype H1N1	13	0.0004903036790125133
+Influenza with other manifestations	13	0.0004903036790125133
+Pharynx or nasopharynx abscess	13	0.0004903036790125133
+Bordetella	12	0.00045258801139616615
+Lung empyema NOS	12	0.00045258801139616615
+[X]Influenza+other manifestations, virus not identified	12	0.00045258801139616615
+Vincent's pharyngitis	12	0.00045258801139616615
+Vincent's angina NOS	12	0.00045258801139616615
+Other acute sinusitis NOS	11	0.00041487234377981895
+Chest infection with infectious disease EC	11	0.00041487234377981895
+Acute bacterial laryngitis unspecified	10	0.0003771566761634718
+Bacterial pleurisy with effusion	10	0.0003771566761634718
+[X]Other acute lower respiratory infections	10	0.0003771566761634718
+Acute laryngotracheitis without obstruction	10	0.0003771566761634718
+Chest infection - pneumonia organism OS	9	0.0003394410085471246
+Cytomegaloviral pneumonitis	9	0.0003394410085471246
+Subacute bronchitis unspecified	9	0.0003394410085471246
+Bordetella parapertussis	9	0.0003394410085471246
+Pyopneumothorax	8	0.0003017253409307774
+Acute bacterial tonsillitis NOS	8	0.0003017253409307774
+Vincent's tonsillitis	8	0.0003017253409307774
+Unspecified eustachian tube salpingitis	8	0.0003017253409307774
+Empyema with bronchopleural fistula	8	0.0003017253409307774
+Acute obstructive laryngitis	8	0.0003017253409307774
+Pneumococcal pleurisy with effusion	7	0.00026400967331443025
+Acute bronchiolitis due to respiratory syncytial virus	7	0.00026400967331443025
+Pneumonia due to respiratory syncytial virus	7	0.00026400967331443025
+Pneumonia with infectious diseases EC NOS	6	0.00022629400569808308
+Pneumonia due to parainfluenza virus	6	0.00022629400569808308
+Herpes simplex otitis externa	6	0.00022629400569808308
+[X]Pneumonia due to other specified infectious organisms	5	0.0001885783380817359
+Influenza with pneumonia, influenza virus identified	5	0.0001885783380817359
+Influenza H1 virus detected	5	0.0001885783380817359
+Acute sanguinous otitis media	5	0.0001885783380817359
+Pleuropneumonia-like organism (PPLO) infection	5	0.0001885783380817359
+[X]Acute bronchitis due to other specified organisms	5	0.0001885783380817359
+Acute eustachian tube salpingitis	5	0.0001885783380817359
+Single lung abscess	5	0.0001885783380817359
+[X]Acute upper respiratory infections	5	0.0001885783380817359
+Pyothorax	5	0.0001885783380817359
+Encysted pleurisy	5	0.0001885783380817359
+Empyema with fistula	5	0.0001885783380817359
+[X]Other bacterial pneumonia	4	0.0001508626704653887
+Pneumonia with whooping cough	4	0.0001508626704653887
+Multiple lung abscess	4	0.0001508626704653887
+Influenza with other manifestations NOS	4	0.0001508626704653887
+Ornithosis with pneumonia	4	0.0001508626704653887
+E.coli pneumonia	4	0.0001508626704653887
+Pneumonia due to pleuropneumonia like organisms	4	0.0001508626704653887
+Avian influenza	4	0.0001508626704653887
+Acute haemophilus influenzae laryngitis	4	0.0001508626704653887
+Lemierre's syndrome	4	0.0001508626704653887
+Haemorrhagic otitis externa	4	0.0001508626704653887
+Cellulitis of vocal cords	3	0.00011314700284904154
+Human parainfluenza virus detected	3	0.00011314700284904154
+Pneumonia due to human metapneumovirus	3	0.00011314700284904154
+Pneumonia due to streptococcus, group B	3	0.00011314700284904154
+Viral epiglottitis	3	0.00011314700284904154
+Herpes simplex pneumonia	3	0.00011314700284904154
+Herpes simplex- otitis externa	3	0.00011314700284904154
+Rheumatic pneumonia	3	0.00011314700284904154
+Salmonella pneumonia	3	0.00011314700284904154
+Acute epiglottitis without obstruction	3	0.00011314700284904154
+[X]Other viral pneumonia	2	7.543133523269435e-05
+Hypertrophic pharyngitis	2	7.543133523269435e-05
+[X]Acute pharyngitis due to other specified organisms	2	7.543133523269435e-05
+Influenza with encephalopathy	2	7.543133523269435e-05
+Encephalitis due to influenza-specific virus not identified	2	7.543133523269435e-05
+Fusobacterial necrotising tonsillitis	2	7.543133523269435e-05
+Acute bronchiolitis due to human metapneumovirus	2	7.543133523269435e-05
+Beach ear	2	7.543133523269435e-05
+[X]Otitis media in other diseases classified elsewhere	2	7.543133523269435e-05
+[X]Acute tonsillitis due to other specified organisms	2	7.543133523269435e-05
+Pneumonia with cytomegalic inclusion disease	2	7.543133523269435e-05
+Acute epiglottitis with obstruction	2	7.543133523269435e-05
+Acute myocarditis - influenzal	2	7.543133523269435e-05
+Pneumococcal pleurisy	2	7.543133523269435e-05
+Acute staphylococcal pharyngitis	2	7.543133523269435e-05
+Pneumonia due to adenovirus	2	7.543133523269435e-05
+Acute suppurative otitis media due to disease EC	2	7.543133523269435e-05
+Severe acute respiratory syndrome	2	7.543133523269435e-05
+Pneumonia due to escherichia coli	2	7.543133523269435e-05
+Acute exudative bronchiolitis	2	7.543133523269435e-05
+Acute neisseria catarrhalis bronchitis	2	7.543133523269435e-05
+Atrophic pharyngitis	2	7.543133523269435e-05
+Pneumonia due to other aerobic gram-negative bacteria	1	3.7715667616347175e-05
+Empyema with no fistula	1	3.7715667616347175e-05
+[X]Otitis externa in other diseases classified elsewhere	1	3.7715667616347175e-05
+[X]Other acute nonsuppurative otitis media	1	3.7715667616347175e-05
+Acute pneumococcal pharyngitis	1	3.7715667616347175e-05
+[X]Influenza+other manifestations,influenza virus identified	1	3.7715667616347175e-05
+Acute pseudomembranous bronchitis	1	3.7715667616347175e-05
+Empyema with fistula NOS	1	3.7715667616347175e-05
+Acute gangrenous tonsillitis	1	3.7715667616347175e-05
+Acute gangrenous pharyngitis	1	3.7715667616347175e-05
+Pneumonia with measles	1	3.7715667616347175e-05
+[X]Other acute upper respiratory infections/multiple sites	1	3.7715667616347175e-05
+Avian influenza virus nucleic acid detection	1	3.7715667616347175e-05
+Bacterial pleurisy with effusion NOS	1	3.7715667616347175e-05
+Vincent's laryngitis	1	3.7715667616347175e-05
+Acute bronchiolitis due to other specified organisms	1	3.7715667616347175e-05
+Atypical pneumonia screening test	1	3.7715667616347175e-05
+Pneumonia with Q-fever	1	3.7715667616347175e-05
+Advc given about influenza A virus subtype H1N1 by telephone	1	3.7715667616347175e-05
+Acute ulcerative laryngitis	1	3.7715667616347175e-05
+Caseous tonsillitis	1	3.7715667616347175e-05
+Acute tracheitis with obstruction	1	3.7715667616347175e-05
+Streptococcal pleurisy	1	3.7715667616347175e-05
+Influenza B nucleic acid detection	1	3.7715667616347175e-05
+Influenza A nucleic acid detection	1	3.7715667616347175e-05
+Cellulitis of larynx	1	3.7715667616347175e-05
+Streptococcal sore throat with scarlatina NOS	1	3.7715667616347175e-05
+Infective otitis externa due to herpes simplex	1	3.7715667616347175e-05
+Acute streptococcal bronchitis	1	3.7715667616347175e-05
+Acute bronchitis due to coxsackievirus	1	3.7715667616347175e-05

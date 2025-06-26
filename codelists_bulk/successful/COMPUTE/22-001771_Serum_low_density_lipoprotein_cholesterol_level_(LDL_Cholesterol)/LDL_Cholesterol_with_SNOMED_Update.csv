@@ -1,0 +1,12 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+259233017,20797896,Serum low density lipoprotein cholesterol level,1022191000000100
+1488764011,5558683,Calculated LDL (low density lipoprotein) cholesterol level,1014501000000104
+458314019,722433,Plasma LDL (low density lipoprotein) cholesterol level,1010591000000104
+259246010,12262,Serum fasting LDL (low density lipoprotein) cholesterol level,1026471000000106
+259247018,5743,Serum random LDL (low density lipoprotein) cholesterol level,1026481000000108
+857141000006116,2861,LDL cholesterol level,857141000006100
+259236013,2773,Serum VLDL (very low density lipoprotein) cholesterol level,1003441000000101
+259570010,190,Plasma fasting LDL (low density lipoprotein) cholesterol level,1028861000000101
+259569014,140,Plasma random LDL (low density lipoprotein) cholesterol level,1028851000000104
+2854351000006110,106,LDL,22244007
+4079621000006115,95,LDL cholesterol,102739008

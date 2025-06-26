@@ -1,0 +1,189 @@
+MedCodeId	Observations	Term	osteoarthritis
+a221521000000114	2000000	Osteoarthritis of knee	osteoarthritis
+a1776248011	2000000	Osteoarthritis	osteoarthritis
+a310024016	1000000	"Osteoarthritis NOS, of knee"	osteoarthritis
+a41261000006115	900000	Osteoarthritis and allied disorders	osteoarthritis
+a1481870016	600000	Cervical spondylosis	osteoarthritis
+a221511000000115	500000	Osteoarthritis of hip	osteoarthritis
+a800731000006117	500000	Generalised osteoarthritis	osteoarthritis
+a400187015	400000	"Osteoarthritis NOS, of the lower leg"	osteoarthritis
+a400267013	400000	Cervical spondylosis without myelopathy	osteoarthritis
+a310020013	400000	"Osteoarthritis NOS, of hip"	osteoarthritis
+a800751000006112	400000	Polyarticular osteoarthritis	osteoarthritis
+a41281000006113	400000	Osteoarthritis NOS	osteoarthritis
+a400182014	200000	Osteoarthritis NOS	osteoarthritis
+a359432012	200000	Lumbar spondylosis	osteoarthritis
+a889921000006110	200000	Osteoarthritis - knee joint	osteoarthritis
+a18181000006118	100000	Osteoarthritis of spine	osteoarthritis
+a400266016	100000	Spondylosis and allied disorders	osteoarthritis
+a80324016	100000	Lumbosacral spondylosis without myelopathy	osteoarthritis
+a359388019	100000	Osteoarthrosis of the carpometacarpal joint of the thumb	osteoarthritis
+a1705871000006118	90000	Cervical spondylosis	osteoarthritis
+a400188013	80000	"Localised, primary osteoarthritis of the ankle and/or foot"	osteoarthritis
+a310011016	70000	Osteoarthritis of shoulder	osteoarthritis
+a240071000006115	70000	Patellofemoral osteoarthritis	osteoarthritis
+a108431018	70000	Cervical spondylosis with myelopathy	osteoarthritis
+a889911000006119	60000	Osteoarthritis - hip joint	osteoarthritis
+a359433019	60000	Osteoarthritis of lumbar spine	osteoarthritis
+a311091014	60000	Cervical spondylosis with radiculopathy	osteoarthritis
+a130001000006111	60000	Spondylosis	osteoarthritis
+a889861000006112	50000	Osteoarthritis -multiple joint	osteoarthritis
+a219611000000112	40000	Osteoarthritis cervical spine	osteoarthritis
+a508047017	40000	Osteoarthritis of spine	osteoarthritis
+a359385016	40000	Osteoarthritis of ankle	osteoarthritis
+a309896011	30000	"Localised, primary osteoarthritis of the lower leg"	osteoarthritis
+a819391000006114	30000	Heberden's node	osteoarthritis
+a41301000006112	30000	Osteoarthritis of first metatarsophalangeal joint	osteoarthritis
+a359384017	30000	Osteoarthritis of foot joint	osteoarthritis
+a359389010	20000	Osteoarthritis of finger	osteoarthritis
+a359383011	20000	Osteoarthritis of toe joint	osteoarthritis
+a255924016	20000	O/E - hands - Heberden's nodes	osteoarthritis
+a310026019	20000	"Osteoarthritis NOS, of ankle"	osteoarthritis
+a310016014	20000	"Osteoarthritis NOS, of wrist"	osteoarthritis
+a309881012	20000	"Localised, primary osteoarthritis"	osteoarthritis
+a310010015	20000	"Osteoarthritis NOS, other specified site"	osteoarthritis
+a310013018	20000	Osteoarthritis of acromioclavicular joint	osteoarthritis
+a889901000006117	20000	Osteoarthritis - hand joint	osteoarthritis
+a889621000006117	20000	Arthritis/arthrosis	osteoarthritis
+a54641000006115	20000	Osteoarthritis of wrist	osteoarthritis
+a1492276018	10000	Osteoarthritis of cervical spine	osteoarthritis
+a889931000006113	10000	Osteoarthritis - ankle/foot	osteoarthritis
+a1481872012	10000	Thoracic spondylosis	osteoarthritis
+a400271011	10000	Spondylosis NOS	osteoarthritis
+a400184010	10000	"Osteoarthritis NOS, of the forearm"	osteoarthritis
+a400181019	10000	"Localised osteoarthritis, unspecified, of the lower leg"	osteoarthritis
+a400175010	10000	Generalised osteoarthritis of the hand	osteoarthritis
+a221491000000111	10000	Osteoarthritis of elbow	osteoarthritis
+a31101000006110	10000	Osteoarthritis of metacarpophalangeal joint	osteoarthritis
+a736781000006114	10000	"Localised osteoarthritis, unspecified, pelvic region/thigh"	osteoarthritis
+a736911000006116	10000	"Localised, primary osteoarthritis of the pelvic region and thigh"	osteoarthritis
+a18191000006115	10000	Osteoarthritis spine	osteoarthritis
+a311106014	10000	Lumbosacral spondylosis with radiculopathy	osteoarthritis
+a309953017	10000	"Localised osteoarthritis, unspecified, of the hand"	osteoarthritis
+a309892013	10000	"Localised, primary osteoarthritis of the hand"	osteoarthritis
+a309880013	10000	Generalised osteoarthritis NOS	osteoarthritis
+a309942011	9000	Localised osteoarthritis	osteoarthritis
+a311082010	9000	Lumbosacral spondylosis with myelopathy	osteoarthritis
+a309965018	8000	"Localised osteoarthritis, unspecified, of the ankle and foot"	osteoarthritis
+a400268015	8000	Thoracic spondylosis without myelopathy	osteoarthritis
+a310014012	8000	"Osteoarthritis NOS, of elbow"	osteoarthritis
+a312535012	8000	[X]Arthrosis	osteoarthritis
+a309898012	7000	"Localised, primary osteoarthritis of the ankle and foot"	osteoarthritis
+a889871000006117	7000	Osteoarthritis -shoulder joint	osteoarthritis
+a359402016	7000	Osteoarthritis of spinal facet joint	osteoarthritis
+a359420013	7000	Osteoarthritis of knee	osteoarthritis
+a311081015	7000	Multiple-level lumbosacral spondylosis without myelopathy	osteoarthritis
+a311057010	6000	Multiple-level cervical spondylosis without myelopathy	osteoarthritis
+a31031000006115	6000	Osteoarthritis of distal interphalangeal joint	osteoarthritis
+a309885015	5000	"Localised, primary osteoarthritis of the shoulder region"	osteoarthritis
+a359399017	5000	Primary generalised osteoarthrosis	osteoarthritis
+a1492281010	5000	Osteoarthritis of thoracic spine	osteoarthritis
+a736711000006119	4000	"Localised osteoarthritis, unspecified, of shoulder region"	osteoarthritis
+a400183016	4000	"Osteoarthritis NOS, of the upper arm"	osteoarthritis
+a890831000006111	4000	Spondyloses	osteoarthritis
+a309972017	4000	Osteoarthritis of multiple joints	osteoarthritis
+a309877012	4000	Erosive osteoarthrosis	osteoarthritis
+a18051000006110	4000	Osteoarthritis of proximal interphalangeal joint	osteoarthritis
+a198211000006112	3000	Pseudoarthrosis	osteoarthritis
+a309878019	3000	Heberden's nodes with arthropathy	osteoarthritis
+a309899016	3000	"Localised, primary osteoarthritis of other specified site"	osteoarthritis
+a310028018	3000	Osteoarthritis of talonavicular joint	osteoarthritis
+a457121010	3000	"Localised, primary osteoarthritis of toe"	osteoarthritis
+a523471000006111	3000	Bouchard's node	osteoarthritis
+a889891000006116	3000	Osteoarthritis - wrist joint	osteoarthritis
+a889941000006115	3000	Osteoarthritis - other joint	osteoarthritis
+a5140431000006112	2000	Osteoarthritis of finger joint	osteoarthritis
+a5560451000006117	2000	Arthritis/arthrosis	osteoarthritis
+a457118013	2000	"Localised, primary osteoarthritis of the wrist"	osteoarthritis
+a309971012	2000	"Localised osteoarthritis, unspecified, NOS"	osteoarthritis
+a309930018	2000	"Localised, secondary osteoarthritis of the lower leg"	osteoarthritis
+a309914014	2000	"Localised, secondary osteoarthritis"	osteoarthritis
+a309911018	2000	"Localised, primary osteoarthritis NOS"	osteoarthritis
+a309987010	2000	"Osteoarthritis NOS, of unspecified site"	osteoarthritis
+a310027011	2000	Osteoarthritis of subtalar joint	osteoarthritis
+a297465015	2000	Nerve root and plexus compressions in spondylosis	osteoarthritis
+a311056018	2000	Two-level cervical spondylosis without myelopathy	osteoarthritis
+a311055019	2000	Single-level cervical spondylosis without myelopathy	osteoarthritis
+a311118017	2000	Spondylosis without myelopathy	osteoarthritis
+a311095017	2000	Multiple-level cervical spondylosis with radiculopathy	osteoarthritis
+a736701000006117	2000	"Localised osteoarthritis, unspecified, of other spec site"	osteoarthritis
+a31071000006117	1000	"Osteoarthritis NOS, of IP joint of toe"	osteoarthritis
+a2476044012	1000	Osteoarthritis of spine NOS	osteoarthritis
+a889881000006119	1000	Osteoarthritis - elbow joint	osteoarthritis
+a297150011	1000	Myelopathy due to spondylosis	osteoarthritis
+a312614018	1000	[X]Other spondylosis	osteoarthritis
+a310029014	1000	"Osteoarthritis NOS, of other tarsal joint"	osteoarthritis
+a309904017	1000	"Primary arthrosis of first carpometacarpal joints, bilateral"	osteoarthritis
+a309933016	1000	"Localised, secondary osteoarthritis of the ankle and foot"	osteoarthritis
+a309983014	1000	"Osteoarthritis of more than one site, unspecified, NOS"	osteoarthritis
+a310012011	1000	Osteoarthritis of sternoclavicular joint	osteoarthritis
+a311063018	1000	Multiple-level cervical spondylosis with myelopathy	osteoarthritis
+a311079017	1000	Single-level lumbosacral spondylosis without myelopathy	osteoarthritis
+a311080019	1000	Two-level lumbosacral spondylosis without myelopathy	osteoarthritis
+a311093012	1000	Single-level cervical spondylosis with radiculopathy	osteoarthritis
+a311096016	1000	Cervical spondylosis with vascular compression	osteoarthritis
+a736171000006110	900	"Localised, secondary osteoarthritis of the pelvic region and thigh"	osteoarthritis
+a457122015	900	"Localised, primary osteoarthritis of elbow"	osteoarthritis
+a311061016	900	Single-level cervical spondylosis with myelopathy	osteoarthritis
+a14466141000006110	900	Radiculopathy due to cervical spondylosis	osteoarthritis
+a400269011	800	Dorsal spondylosis without myelopathy	osteoarthritis
+a990511000006110	700	Spondyloses	osteoarthritis
+a309979014	700	"Oligoarticular osteoarthritis, unspecified, of lower leg"	osteoarthritis
+a311110012	700	Multiple-level lumbosacral spondylosis with radiculopathy	osteoarthritis
+a523461000006116	700	Bouchard's nodes with arthropathy	osteoarthritis
+a309903011	600	"Primary gonarthrosis, bilateral"	osteoarthritis
+a310700018	600	Elbow haemarthrosis	osteoarthritis
+a311070018	600	Multiple-level thoracic spondylosis without myelopathy	osteoarthritis
+a311111011	600	Other spondyloses and allied disorders	osteoarthritis
+a311108010	600	Single-level lumbosacral spondylosis with radiculopathy	osteoarthritis
+a265861000006116	500	"Oligoarticular osteoarthritis, unspecified, multiple sites"	osteoarthritis
+a312613012	500	[X]Other spondylosis with radiculopathy	osteoarthritis
+a311062011	500	Two-level cervical spondylosis with myelopathy	osteoarthritis
+a311094018	500	Two-level cervical spondylosis with radiculopathy	osteoarthritis
+a311097013	500	Thoracic spondylosis with radiculopathy	osteoarthritis
+a6357611000006112	500	Heberden node	osteoarthritis
+a31091000006116	400	"Osteoarthritis NOS, of lesser MTP joint"	osteoarthritis
+a265841000006115	400	"Oligoarticular osteoarthritis, unspec, of unspecified sites"	osteoarthritis
+a309941016	400	"Localised, secondary osteoarthritis NOS"	osteoarthritis
+a309889014	400	"Localised, primary osteoarthritis of the forearm"	osteoarthritis
+a311085012	400	Multiple-level lumbosacral spondylosis with myelopathy	osteoarthritis
+a312536013	400	Polyarthrosis	osteoarthritis
+a312557017	300	[X]Post-traumatic arthrosis of other joints	osteoarthritis
+a400355013	300	[X]Other primary gonarthrosis	osteoarthritis
+a19006012	300	Thoracic spondylosis with myelopathy	osteoarthritis
+a309977011	300	"Oligoarticular osteoarthritis, unspecified, of hand"	osteoarthritis
+a309945013	300	"Localised osteoarthritis, unspecified, of unspecified site"	osteoarthritis
+a309884016	300	"Localised, primary osteoarthritis of unspecified site"	osteoarthritis
+a309901013	300	"Primary coxarthrosis, bilateral"	osteoarthritis
+a309923012	300	"Localised, secondary osteoarthritis of the hand"	osteoarthritis
+a309918012	300	"Localised, secondary osteoarthritis of the shoulder region"	osteoarthritis
+a311083017	300	Single-level lumbosacral spondylosis with myelopathy	osteoarthritis
+a311119013	300	Spondylosis with myelopathy	osteoarthritis
+a14466091000006119	200	Myelopathy due to cervical spondylosis	osteoarthritis
+a265871000006111	200	"Oligoarticular osteoarthritis, unspecified, of ankle/foot"	osteoarthritis
+a6564781000006111	200	Referral to rheumatology service for osteoarthritis	osteoarthritis
+a6566821000006111	200	Osteoarthrosis	osteoarthritis
+a359211000006118	200	[X] Unilateral primary gonarthrosis	osteoarthritis
+a264501000006118	200	"Oligoarticular osteoarthritis, unspecified, other spec sites"	osteoarthritis
+a905311000006112	200	[RFC] Osteoarthritis	osteoarthritis
+a3046441000006118	200	Localised osteoarthrosis	osteoarthritis
+a18121000006117	200	"Osteoarthritis NOS, of tibio-fibular joint"	osteoarthritis
+a1785201000006112	200	Excepted from osteoarthritis quality indicators - patient unsuitable	osteoarthritis
+a312537016	200	[X]Other primary coxarthrosis	osteoarthritis
+a312549015	200	[X]Other primary arthrosis of first carpometacarpal joint	osteoarthritis
+a31041000006113	200	"Osteoarthritis NOS, of distal radio-ulnar joint"	osteoarthritis
+a309888018	200	"Localised, primary osteoarthritis of the upper arm"	osteoarthritis
+a309934010	200	"Localised, secondary osteoarthritis of other specified site"	osteoarthritis
+a989361000006114	200	Osteoarthritis - hip joint	osteoarthritis
+a909181000006117	200	[RFC] Osteoarthritis	osteoarthritis
+a309949019	100	"Localised osteoarthritis, unspecified, of the upper arm"	osteoarthritis
+a309876015	100	Secondary multiple arthrosis	osteoarthritis
+a309922019	100	"Localised, secondary osteoarthritis of the forearm"	osteoarthritis
+a311109019	100	Two-level lumbosacral spondylosis with radiculopathy	osteoarthritis
+a311084011	100	Two-level lumbosacral spondylosis with myelopathy	osteoarthritis
+a8103661000006113	100	Osteoarthritis of right knee joint	osteoarthritis
+a8103651000006111	100	Osteoarthritis of right hip joint	osteoarthritis
+a8103621000006119	100	Osteoarthritis of left knee joint	osteoarthritis
+a3594941000006112	100	OA - Osteoarthritis of shoulder	osteoarthritis
+a264481000006111	100	"Oligoarticular osteoarthritis, unspecified, of shoulder"	osteoarthritis
+a264471000006113	100	"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh"	osteoarthritis

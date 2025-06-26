@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 169
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tdiabetes\t\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                        \tMedCodeId\tObservations\tTerm\tdiabetes\t\t
+0                     0\ta197761014\t20000000\tType 2 diabetes mellitus\tdiabetes\t\t
+1        1\ta1658901000000118\t1000000\tType II diabetic dietary review\tdiabetes\t\t
+2  2\ta280571000006116\t700000\tNon-insulin dependent diabetes mellitus\tdiabetes\t\t

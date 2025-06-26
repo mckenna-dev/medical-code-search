@@ -1,0 +1,64 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+68613,,,,3,0,0,0,U10Ay00,[X]Fall on + from stair + step occurrn at oth specif place,February 2009
+44119,,,,119,1,0,0,8BIG.00,Falls caused by medication,February 2009
+6785,,,,137,6,0,0,ZV71B00,[V]Examination and observation following a fall,February 2009
+109088,,,,372,3,0,0,9Nlf.00,Seen by community falls team,January 2015
+19299,,,,5027,9767,0,0,66aF.00,Refer for falls assessment,February 2009
+32737,,,,3485,37,0,0,67IC.00,Falls advice,February 2009
+11307,,,,2982,35,0,0,TC0..00,Fall on or from stairs or steps,February 2009
+18007,,,,910,7,0,0,TC50.00,Fall on same level from slipping,February 2009
+53082,,,,152,2,0,0,TC02100,Fall from steps,February 2009
+39060,,,,14941,7,0,0,9Og2.00,Falls risk assessment complete,February 2009
+26266,,,,305,125,0,0,9Og0.00,Falls risk assessment referral,February 2009
+9951,,,,22316,2005,0,0,14OC.00,At risk of falls,February 2009
+105686,,,,1144,0,0,0,14OC000,At high risk of falls,January 2013
+15745,,,,378,7,0,0,TCy0.00,Fall from bump against object,February 2009
+108062,,,,12138,232,0,0,16D6.00,Fall,May 2014
+67903,,,,2,0,0,0,U105100,[X]Fall involvng wheelchair occurrence residential instit'n,February 2009
+7876,,,,67,0,0,0,TC4yz00,Other fall from one level to another NOS,February 2009
+44626,,,,170,3,0,0,TC02.00,Fall on or from steps,February 2009
+17638,,,,377,12,0,0,TH03.00,Late effects of accidental fall,February 2009
+63197,,,,11,0,0,0,TC6y000,"Fall on same level from collision with other person, unspec",February 2009
+52452,,,,17,0,0,0,U101400,"[X]Fall same level from slip trip+stumb, occ street/highway",February 2009
+15112,,,,4871,124,0,0,TC5..00,"Fall on same level from slipping, tripping or stumbling",February 2009
+18275,,,,370,17,0,0,T337.00,Fall from road vehicle NEC,February 2009
+33887,,,,1194,2,0,0,TC4..00,Other fall from one level to another,February 2009
+19751,,,,16665,909,0,0,38A..00,Falls assessment,February 2009
+105528,,,,6937,2,0,0,38GK.00,Falls risk assessment tool,January 2013
+42670,,,,1398,2063,0,0,8Hk1.00,Referral to falls service,February 2009
+26432,,,,1005,18,0,0,TC42100,Fall from bed,February 2009
+67230,,,,3,0,0,0,U104.00,[X]Fall while being carried or supported by other persons,February 2009
+52374,,,,14,0,0,0,U106.00,[X]Fall involving bed,February 2009
+43092,,,,200,0,0,0,TC02000,Fall on steps,February 2009
+41853,,,,44,0,0,0,TC4y.00,Other fall from one level to another,February 2009
+64722,,,,19,0,0,0,TC02z00,Fall on or from steps NOS,February 2009
+38818,,,,234,2,0,0,TC42000,Fall from chair,February 2009
+7970,,,,3728,227,0,0,U10..00,[X]Falls,February 2009
+49218,,,,5,0,0,0,U101y00,"[X]Fall same level, slip trip+stumb, occ other specif place",February 2009
+104080,,,,871,107,0,0,R01z600,[D]Tendency to fall,May 2012
+8730,,,,15025,2228,0,0,TCy..00,Other falls,February 2009
+68600,,,,12,0,0,0,U107000,"[X]Fall involving chair, occurrence at home",February 2009
+6815,,,,97044,3732,0,0,TC...00,Accidental falls,February 2009
+68559,,,,11,0,0,0,U100000,[X]Fall on same level involving ice and snow occurrn home,February 2009
+6835,,,,26747,460,0,0,TCz..00,Accidental falls NOS,February 2009
+6008,,,,103049,10973,1,0,16D..00,Falls,February 2009
+98223,,,,1307,35,0,0,16D5.00,Fall onto outstretched hand,December 2009
+8694,,,,16114,1374,0,0,16D1.00,Recurrent falls,February 2009
+17728,,,,1122,4,0,0,TC01000,Fall on stairs,February 2009
+41909,,,,227,2,0,0,TC01z00,Fall on or from stairs NOS,February 2009
+24776,,,,6054,346,0,0,U10z.00,[X]Unspecified fall,February 2009
+384,,,,1034161,68286,54,0,TC...11,Fall - accidental,February 2009
+17167,,,,1694,66,0,0,TC01.00,Fall on or from stairs,February 2009
+11709,,,,2042,43,0,0,TC51.00,Fall on same level from tripping,February 2009
+64193,,,,5,0,0,0,U10Az00,[X]Fall on + from stair + step occurrnce at unspecif place,February 2009
+21081,,,,659,4,0,0,TC01100,Fall from stairs,February 2009
+36402,,,,104,2,0,0,U10A.00,[X]Fall on and from stairs and steps,February 2009
+4859,,,,53394,2626,0,0,R200.12,[D] Geriatric fall,February 2009
+48496,,,,52,0,0,0,U10J.00,[X]Other fall on same level,February 2009
+60003,,,,6,0,0,0,TC42z00,Fall from chair or bed NOS,February 2009
+97365,,,,6,0,0,0,TC6y.00,Fall on same level from other push/shove/collide oth person,August 2009
+21903,,,,143,5,0,0,U100.00,[X]Fall on same level involving ice and snow,February 2009
+98876,,,,2,0,0,0,U10Jz00,[X]Other fall on same level occurrence at unspecified place,April 2010
+48309,,,,32,0,0,0,67IE.00,Falls advice - hip protectors supplied,February 2009
+21349,,,,63,3,0,0,U105.00,[X]Fall involving wheelchair,February 2009
+62109,,,,4,0,0,0,U103y00,[X]Oth fall sme levl coll/push anoth per occ oth spec place,February 2009

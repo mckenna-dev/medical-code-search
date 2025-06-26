@@ -1,0 +1,3 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2381,Cancer,Uretine,a291363015,Transitional cell carcinoma,L1:Cancer_L2:Uretine,BB43.00
+2382,Cancer,Uretine,a318001000006113,Urothelial carcinoma,L1:Cancer_L2:Uretine,BB43.11

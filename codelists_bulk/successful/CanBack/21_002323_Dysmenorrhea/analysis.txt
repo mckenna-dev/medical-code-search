@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 21
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2           MedCodeID                      Term
+0   5333   Genitourinary   Dysmenorrhoea  a11904901000006111              Dysmenorrhea
+1   5334   Genitourinary   Dysmenorrhoea  a14068111000006118  History of dysmenorrhoea
+2   5335   Genitourinary   Dysmenorrhoea          a196901010   Secondary dysmenorrhoea

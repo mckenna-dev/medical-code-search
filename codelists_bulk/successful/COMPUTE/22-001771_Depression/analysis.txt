@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 162
+Columns: 6
+Column names: ['Description', 'SNOMED_CT_Concept_ID', 'Codelist_Name', 'Med_Code_Id', 'Observations', 'Term']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                                                                 Description SNOMED_CT_Concept_ID               Codelist_Name        Med_Code_Id  Observations
+0  Recurrent reactive depressive episodes, severe, with psychosis (disorder)    b1086471000000103  Depression diagnosis codes   a424681000006118           400
+1              Recurrent depression with current moderate episode (disorder)    b1089641000000100  Depression diagnosis codes  a2730011000000110            30
+2                       Moderate major depression, single episode (disorder)            b15639000  Depression diagnosis codes         a294826016         50000

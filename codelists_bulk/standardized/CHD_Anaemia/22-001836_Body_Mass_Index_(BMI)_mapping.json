@@ -1,0 +1,82 @@
+{
+  "original_file": "codelists_bulk\\successful\\CHD_Anaemia\\22-001836_Body_Mass_Index_(BMI)\\BMI.csv",
+  "original_columns": [
+    "medcode",
+    "readcode",
+    "clinicalevents",
+    "immunisationevents",
+    "referralevents",
+    "testevents",
+    "readterm",
+    "databaserelease",
+    "Unnamed: 8",
+    "Unnamed: 9",
+    "Unnamed: 10",
+    "Unnamed: 11",
+    "Unnamed: 12",
+    "Unnamed: 13",
+    "Unnamed: 14",
+    "Unnamed: 15",
+    "Unnamed: 16",
+    "Unnamed: 17",
+    "Unnamed: 18",
+    "Unnamed: 19",
+    "Unnamed: 20",
+    "Unnamed: 21",
+    "Unnamed: 22",
+    "Unnamed: 23",
+    "Unnamed: 24",
+    "Unnamed: 25",
+    "Unnamed: 26",
+    "Unnamed: 27",
+    "Unnamed: 28",
+    "Unnamed: 29",
+    "Unnamed: 30",
+    "Unnamed: 31",
+    "Unnamed: 32",
+    "Unnamed: 33",
+    "Unnamed: 34",
+    "Unnamed: 35",
+    "Unnamed: 36",
+    "Unnamed: 37",
+    "Unnamed: 38",
+    "Unnamed: 39",
+    "Unnamed: 40",
+    "Unnamed: 41",
+    "Unnamed: 42",
+    "Unnamed: 43",
+    "Unnamed: 44",
+    "Unnamed: 45",
+    "Unnamed: 46",
+    "Unnamed: 47",
+    "Unnamed: 48",
+    "Unnamed: 49",
+    "Unnamed: 50",
+    "Unnamed: 51",
+    "Unnamed: 52",
+    "Unnamed: 53"
+  ],
+  "column_mapping": {
+    "med_code_id": "medcode",
+    "term": "Unnamed: 8",
+    "observations": "clinicalevents"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "medcode",
+      "type": "secondary"
+    },
+    "term": {
+      "column": "Unnamed: 8",
+      "type": "secondary"
+    },
+    "observations": {
+      "column": "clinicalevents",
+      "type": "secondary"
+    }
+  },
+  "rows_processed": 1,
+  "rows_standardized": 1,
+  "project": "CHD_Anaemia",
+  "codelist": "22-001836_Body_Mass_Index_(BMI)"
+}

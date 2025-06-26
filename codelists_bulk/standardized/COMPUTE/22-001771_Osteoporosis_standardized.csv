@@ -1,0 +1,40 @@
+med_code_id,term,snomed_ct_concept_id,observations
+54058015,Postmenopausal osteoporosis (disorder),102447009,10000
+24883018,Drug-induced osteoporosis (disorder),14651005,3000
+312133010,Postoophorectomy osteoporosis (disorder),203433000,100
+212431000006119,Post-surgical malabsorption osteoporosis (disorder),203434006,10
+312138018,Osteoporosis in endocrine disorders (disorder),203437004,200
+312139014,Vertebral osteoporosis (disorder),203438009,20000
+312156018,Postoophorectomy osteoporosis with pathological fracture (disorder),203444008,20
+312157010,Osteoporosis of disuse with pathological fracture (disorder),203445009,200
+312160015,Idiopathic osteoporosis with pathological fracture (disorder),203448006,1000
+40891000006118,Osteoporotic fracture of thoracic vertebra (disorder),203451004,9000
+40871000006119,Osteoporotic fracture of cervical vertebra (disorder),203452006,200
+312441019,Osteoporotic kyphosis (disorder),203657009,4000
+5144161000006119,Adult idiopathic generalized osteoporosis (disorder),240155001,2
+359833013,Osteoporotic vertebral collapse (disorder),240198002,50000
+455536018,Osteoporotic vertebral collapse (disorder),240198002,3000
+453226012,Osteoporosis localized to spine (disorder),309745002,5000
+1484866013,Osteoporosis caused by corticosteroid (disorder),390833005,700
+6515141000006116,Osteoporosis caused by corticosteroid (disorder),390833005,10
+496578010,Disuse osteoporosis (disorder),53174001,70
+625381000006110,Disuse osteoporosis (disorder),53174001,300
+3362291000006115,Disuse osteoporosis (disorder),53174001,20
+3515006019,Premenopausal idiopathic osteoporosis (disorder),735617003,1
+3515008018,Osteoporosis due to malabsorption (disorder),735618008,1
+30475015,Senile osteoporosis (disorder),18040001,5000
+786501000006117,Idiopathic generalized osteoporosis (disorder),203429007,1000
+312159013,Pathological fracture co-occurrent and due to drug-induced osteoporosis (disorder),203447001,400
+40881000006116,Osteoporotic fracture of lumbar vertebra (disorder),203450003,9000
+312165013,Postmenopausal osteoporosis with pathological fracture (disorder),203453001,1000
+5144201000006113,Secondary generalized osteoporosis (disorder),240157009,20
+5588801000006119,Primary osteoporosis (disorder),276661002,40
+5588811000006116,Primary osteoporosis (disorder),276661002,2
+3021381000006110,Menopausal osteoporosis (disorder),32369003,1
+2552271000006117,Idiopathic osteoporosis (disorder),3345002,20
+107806013,Osteoporosis (disorder),64859006,2000000
+312124013,Osteoporosis (disorder),64859006,20000
+312142015,Osteoporosis (disorder),64859006,30000
+312682011,Osteoporosis (disorder),64859006,700
+312683018,Osteoporosis (disorder),64859006,30
+3555091000006111,Osteoporosis (disorder),64859006,3

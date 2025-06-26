@@ -1,0 +1,14 @@
+	MedCodeId	Observations	Term	anorexia_diagnosis
+0	a317233013	50000	[D]Anorexia	anorexia_diagnosis
+1	a317235018	3000	[D]Anorexia NOS	anorexia_diagnosis
+2	a317234019	100000	[D]Appetite loss	anorexia_diagnosis
+3	a404431014	100000	Appetite loss - anorexia	anorexia_diagnosis
+4	a372208017	40000	Anorexia symptom	anorexia_diagnosis
+5	a664031000000110	30000	Seen in eating disorder clinic	anorexia_diagnosis
+6	a1664151000006114	1000	Seen in eating disorders clinic	anorexia_diagnosis
+7	a370419010	10000	Binge eating	anorexia_diagnosis
+8	a2308361000000115	2000	Suspected binge eating disorder	anorexia_diagnosis
+9	a295444010	1000	Non-organic loss of appetite	anorexia_diagnosis
+10	a2652391000000113	40	Signposting to Beat (beating eating disorders) support group	anorexia_diagnosis
+11	a424061000006117	400	[X]Psychogenic overeating	anorexia_diagnosis
+12	a2159265012	200	Nocturnal sleep-related eating disorder	anorexia_diagnosis

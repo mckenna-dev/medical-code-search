@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 211
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2   MedCodeID                     Term
+0   8020     Respiratory            COPD  a105519017       Chronic bronchitis
+1   8021     Respiratory            COPD  a113497011  Centrilobular emphysema
+2   8022     Respiratory            COPD  a116128010         Broncholithiasis

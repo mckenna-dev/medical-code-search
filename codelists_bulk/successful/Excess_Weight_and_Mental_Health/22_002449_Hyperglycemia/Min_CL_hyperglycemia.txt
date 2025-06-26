@@ -1,0 +1,11 @@
+	MedCodeId	Observations	Term	hyperglycemia
+0	a938351000006113	300000	Impaired glucose tolerance	hyperglycemia
+1	a1488700016	100000	[D]Impaired glucose tolerance	hyperglycemia
+2	a2476950017	80000	Impaired fasting glucose	hyperglycemia
+3	a881691000006116	4000	Impaired glucose tolerance	hyperglycemia
+4	a7535301000006114	500	Non-diabetic hyperglycemia	hyperglycemia
+5	a1699041000006110	400	Impaired glucose tolerance monitoring administration	hyperglycemia
+6	a16497016	100	Impaired glucose tolerance	hyperglycemia
+7	a5110011000006115	30	Impaired glucose tolerance in pregnancy	hyperglycemia
+8	a2865221000006115	2	Impaired glucose tolerance in obese	hyperglycemia
+9	a2650011000006113	1	IGT - Impaired glucose tolerance	hyperglycemia

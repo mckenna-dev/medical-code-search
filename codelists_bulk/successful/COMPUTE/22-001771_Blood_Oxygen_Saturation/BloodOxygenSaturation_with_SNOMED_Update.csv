@@ -1,0 +1,15 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+1218970019,8518115,Haemoglobin saturation with oxygen,103228002
+1224401018,1106855,SpO2 - oxygen saturation at periphery,431314004
+1485401019,680403,Blood oxygen saturation (calculated),1017311000000104
+2240131000000113,676490,Peripheral blood oxygen saturation on room air at rest,866661000000106
+4087721000006112,610099,Blood oxygen saturation,103228002
+2378551000000119,559642,Baseline SpO2 (oxygen saturation at periphery),927981000000106
+1806991000006118,117513,Blood oxygen saturation - on room air,1806991000006102
+1854751000006110,35525,Blood oxygen saturation at rest,1854751000006106
+1866301000006110,16924,Peripheral blood oxygen saturation on supplemental oxygen at rest,866701000000100
+2240171000000110,8756,Peripheral blood oxygen saturation on room air on exertion,866681000000102
+1807001000006114,2371,Blood oxygen saturation - on oxygen,1807001000006105
+259502015,647,Blood oxygen level normal,167025001
+5287421000006116,486,SpO2 - Oxygen saturation at periphery,250554003
+1866311000006113,396,Peripheral blood oxygen saturation on supplemental oxygen on exertion,866721000000109

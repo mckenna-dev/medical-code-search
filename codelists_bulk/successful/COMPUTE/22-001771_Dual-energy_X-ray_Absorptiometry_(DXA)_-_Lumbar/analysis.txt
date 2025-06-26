@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 5
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+    MedCodeId  Observations                                 Term  SNOMED_CT_Concept_ID
+0  1485103010          1577  Lumbar DXA scan result osteoporotic             391075000
+1  2694876017          1230                Lumbar spine DXA scan             428377003
+2  1485104016          1138    Lumbar DXA scan result osteopenic             391076004

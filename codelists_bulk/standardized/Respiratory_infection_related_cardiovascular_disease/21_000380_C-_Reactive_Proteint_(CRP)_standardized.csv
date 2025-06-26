@@ -1,0 +1,10 @@
+med_code_id,term,snomed_ct_concept_id,observations
+956721000006115,Serum C reactive protein,956721000006104,
+2013981000006114,Point-of-care C reactive protein,2013981000006105,
+1577941000006117,C Reactive Protein,1577941000006101,
+1990731000006114,Point-of-care C reactive protein level requested,1990731000006105,
+223761000006118,Plasma C reactive protein,999651000000107,
+530881000006117,C reactive protein abnormal,166584001,
+530891000006119,C reactive protein normal,166583007,
+216602012,Serum C reactive protein level,1001371000000100,
+1824331000006115,Test request : Serum C reactive protein level,1824331000006104,

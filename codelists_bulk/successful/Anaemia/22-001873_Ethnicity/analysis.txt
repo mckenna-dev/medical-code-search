@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 337
+Columns: 7
+Column names: ['medcodeid', 'term', 'snomedct_conceptid', 'snomedct_descriptionid', 'eth16_2001', 'eth18_2011', 'eth19_2021']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          medcodeid                                                  term  snomedct_conceptid  snomedct_descriptionid eth16_2001
+0   141431000000111                scottish - ethnic category 2001 census      92541000000108            1.414310e+14    British
+1  2486161000000112  white - northern ireland ethnic category 2011 census     977351000000100            2.486161e+15    British
+2   141451000000116          northern irish - ethnic category 2001 census      92561000000109            1.414510e+14    British

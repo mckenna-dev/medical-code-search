@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_chronic%20liver%20disease.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/18-186-Gold-IDFracture/main/Codelists/standardized_chronic%20liver%20disease.csv
+Codelist Name: Chronic Liver Disease
+Project Title: ID Fracture
+ERAP Number: 22-000453
+Author: Margaret Smith
+Coding System: Gold
+Year Created: 2024
+Downloaded: 2025-06-25 13:25:18
+File Size: 9621 bytes

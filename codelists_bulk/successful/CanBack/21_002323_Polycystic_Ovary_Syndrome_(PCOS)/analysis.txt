@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 12
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2           MedCodeID                             Term
+0   6769            PCOS            PCOS          a116049013               Polycystic ovaries
+1   6770            PCOS            PCOS  a13490341000006110        Polycystic ovary syndrome
+2   6771            PCOS            PCOS  a13490351000006112  PCOS- polycystic ovary syndrome

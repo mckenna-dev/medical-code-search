@@ -1,0 +1,102 @@
+# STANDARDIZATION PLAN
+==============================
+
+## APPROACH
+1. **High Priority**: Standardize common patterns first (affecting most files)
+2. **Medium Priority**: Handle project-specific patterns
+3. **Low Priority**: Deal with unique/problematic files individually
+
+## COMMON PATTERNS TO STANDARDIZE
+
+### Priority 1: 130 files
+**Pattern**: MedCodeId, Observations, SNOMED_CT_Concept_ID, Term
+**Projects**: COMPUTE
+**Suggested mapping**:
+  - MedCodeId -> med_code_id <-this is the primary
+  - Observations -> observations <-this is the primary
+  - SNOMED_CT_Concept_ID -> snomed_ct_concept_id <-this is the primary
+  - Term -> term <-this is the primary
+
+### Priority 2: 121 files
+**Pattern**: Flag_L1_L2, Flag_classifyL1, Flag_classifyL2, MedCodeID, Notes, Order, Term
+**Projects**: CanBack
+**Suggested mapping**:
+  - Flag_L1_L2 -> ?  <- this can be ignored
+  - Flag_classifyL1 -> ? <- this can be ignored
+  - Flag_classifyL2 -> ? <- this can be ignored
+  - MedCodeID -> med_code_id <-this is the primary
+  - Notes -> ? <- this can be ignored
+  - Order -> ? <- this can be ignored
+  - Term -> term <- this is the primary
+
+### Priority 3: 18 files
+**Pattern**: MedCodeId, Observations, SnomedCTConceptId, Term
+**Projects**: Consultation_Catergorisation, Evaluation_of_Anaemia_in_a_Primary_Care_Population
+**Suggested mapping**:
+  - MedCodeId -> med_code_id <-this is the primary
+  - Observations -> observations <-this is the primary
+  - SnomedCTConceptId -> snomed_ct_concept_id
+  - Term -> term <-this is the primary
+
+### Priority 4: 15 files
+**Pattern**: Codelist_Name, Description, Med_Code_Id, Observations, SNOMED_CT_Concept_ID, Term
+**Projects**: COMPUTE
+**Suggested mapping**:
+  - Codelist_Name -> med_code_id <- this can be ignored
+  - Description -> term  <- this can be ignored, or made into its own column
+  - Med_Code_Id -> med_code_id <-this is the primary
+  - Observations -> observations <-this is the primary
+  - SNOMED_CT_Concept_ID -> snomed_ct_concept_id <-this is the primary
+  - Term -> term <-this is the primary
+
+### Priority 5: 10 files
+**Pattern**: MedCodeId, Observations, SNOMED_CT_Concept_ID, Term, clinicalevents, databasebuild, immunisationevents, readcode, readterm, referralevents, testevents
+**Projects**: ID_Fracture
+**Suggested mapping**:
+  - MedCodeId -> med_code_id <-this is the primary
+  - Observations -> observations <-this is the primary
+  - SNOMED_CT_Concept_ID -> snomed_ct_concept_id <-this is the primary
+  - Term -> term <-this is the primary
+  - clinicalevents -> ? <- this can be ignored
+  - databasebuild -> ? <- this can be ignored
+  - immunisationevents -> ? <- this can be ignored
+  - readcode -> med_code_id <- this can be ignored
+  - readterm -> term <- this can be ignored
+  - referralevents -> ? <- this can be ignored
+  - testevents -> ? <- this can be ignored
+
+### Priority 6: 9 files
+**Pattern**: cleansedreadcode, medcodeid, originalreadcode, release, snomedctconceptid, snomedctdescriptionid, term
+**Projects**: Respiratory_infection_related_cardiovascular_disease
+**Suggested mapping**:
+  - cleansedreadcode -> med_code_id <- this can be ignored or modified to a "readcode" column
+  - medcodeid -> med_code_id <- this is the primary
+  - originalreadcode -> med_code_id <- this can be ignored
+  - release -> ? <- this can be ignored
+  - snomedctconceptid -> snomed_ct_concept_id <- this is the primary
+  - snomedctdescriptionid -> term <- this can be ignored
+  - term -> term <-this is the primary
+
+### Priority 7: 5 files
+**Pattern**: MedCodeId, Observations, SnomedCTConceptId, Term, Unnamed: 4
+**Projects**: Evaluation_of_Anaemia_in_a_Primary_Care_Population
+**Suggested mapping**:
+  - MedCodeId -> med_code_id <-this is the primary
+  - Observations -> observations <-this is the primary
+  - SnomedCTConceptId -> snomed_ct_concept_id <-this is the primary
+  - Term -> term <-this is the primary
+  - Unnamed: 4 -> ? <- this can be ignored
+
+### Priority 8: 5 files
+**Pattern**: cleansedreadcode, medcodeid, originalreadcode, release, snomedctconceptid, snomedctdescriptionid, term, term2
+**Projects**: Respiratory_infection_related_cardiovascular_disease
+**Suggested mapping**:
+  - cleansedreadcode -> med_code_id <- this can be ignored
+  - medcodeid -> med_code_id <- this is the primary
+  - originalreadcode -> med_code_id <- this can be ignored
+  - release -> ? <- this can be dropped
+  - snomedctconceptid -> snomed_ct_concept_id
+  - snomedctdescriptionid -> term <-this can be ignored
+  - term -> term <- this should be the primary
+  - term2 -> term <- this could be set to a secondary
+

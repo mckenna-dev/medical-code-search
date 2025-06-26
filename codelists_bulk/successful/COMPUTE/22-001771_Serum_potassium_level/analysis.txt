@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 3
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                    Term  SNOMED_CT_Concept_ID
+0   144821000006115      75187128   Serum potassium level      1000651000000109
+1        1484993012       3120703  Plasma potassium level      1017401000000106
+2  5522271000006116           353   Serum potassium level             271236005

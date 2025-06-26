@@ -1,0 +1,43 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1407,Cancer,Lung,a288808013,"Malignant neoplasm of trachea, bronchus and lung",L1:Cancer_L2:Lung,B22..00
+1408,Cancer,Lung,a721391000006116,Malignant neoplasm of trachea,L1:Cancer_L2:Lung,B220.00
+1409,Cancer,Lung,a288810010,Malignant neoplasm of mucosa of trachea,L1:Cancer_L2:Lung,B220100
+1410,Cancer,Lung,a288811014,Malignant neoplasm of trachea NOS,L1:Cancer_L2:Lung,B220z00
+1411,Cancer,Lung,a155361017,Malignant neoplasm of main bronchus,L1:Cancer_L2:Lung,B221.00
+1412,Cancer,Lung,a288813012,Malignant neoplasm of carina of bronchus,L1:Cancer_L2:Lung,B221000
+1413,Cancer,Lung,a155287019,Malignant neoplasm of hilus of lung,L1:Cancer_L2:Lung,B221100
+1414,Cancer,Lung,a288815017,Malignant neoplasm of main bronchus NOS,L1:Cancer_L2:Lung,B221z00
+1415,Cancer,Lung,a403688010,"Malignant neoplasm of upper lobe, bronchus or lung",L1:Cancer_L2:Lung,B222.00
+1416,Cancer,Lung,a414849013,Pancoast's syndrome,L1:Cancer_L2:Lung,B222.11
+1417,Cancer,Lung,a288819011,Malignant neoplasm of upper lobe bronchus,L1:Cancer_L2:Lung,B222000
+1418,Cancer,Lung,a288820017,Malignant neoplasm of upper lobe of lung,L1:Cancer_L2:Lung,B222100
+1419,Cancer,Lung,a288821018,"Malignant neoplasm of upper lobe, bronchus or lung NOS",L1:Cancer_L2:Lung,B222z00
+1420,Cancer,Lung,a288822013,"Malignant neoplasm of middle lobe, bronchus or lung",L1:Cancer_L2:Lung,B223.00
+1421,Cancer,Lung,a288823015,Malignant neoplasm of middle lobe bronchus,L1:Cancer_L2:Lung,B223000
+1422,Cancer,Lung,a288824014,Malignant neoplasm of middle lobe of lung,L1:Cancer_L2:Lung,B223100
+1423,Cancer,Lung,a288825010,"Malignant neoplasm of middle lobe, bronchus or lung NOS",L1:Cancer_L2:Lung,B223z00
+1424,Cancer,Lung,a288826011,"Malignant neoplasm of lower lobe, bronchus or lung",L1:Cancer_L2:Lung,B224.00
+1425,Cancer,Lung,a288827019,Malignant neoplasm of lower lobe bronchus,L1:Cancer_L2:Lung,B224000
+1426,Cancer,Lung,a288828012,Malignant neoplasm of lower lobe of lung,L1:Cancer_L2:Lung,B224100
+1427,Cancer,Lung,a288829016,"Malignant neoplasm of lower lobe, bronchus or lung NOS",L1:Cancer_L2:Lung,B224z00
+1428,Cancer,Lung,a288832018,Malignant neoplasm of other sites of bronchus or lung,L1:Cancer_L2:Lung,B22y.00
+1429,Cancer,Lung,a403689019,Malignant neoplasm of bronchus or lung NOS,L1:Cancer_L2:Lung,B22z.00
+1430,Cancer,Lung,a733371000006119,Lung cancer,L1:Cancer_L2:Lung,B22z.11
+1431,Cancer,Lung,a723001000006113,Malignant neoplasm of pleura,L1:Cancer_L2:Lung,B23..00
+1432,Cancer,Lung,a155447014,Malignant neoplasm of parietal pleura,L1:Cancer_L2:Lung,B230.00
+1433,Cancer,Lung,a155675017,Malignant neoplasm of visceral pleura,L1:Cancer_L2:Lung,B231.00
+1434,Cancer,Lung,a315501000006113,Pleomorphic carcinoma,L1:Cancer_L2:Lung,BB1A.00
+1435,Cancer,Lung,a291332019,Small cell carcinoma,L1:Cancer_L2:Lung,BB1J.00
+1436,Cancer,Lung,a314111000006116,Oat cell carcinoma,L1:Cancer_L2:Lung,BB1K.00
+1437,Cancer,Lung,a316591000006111,"[M]Small cell carcinoma, fusiform cell type",L1:Cancer_L2:Lung,BB1L.00
+1438,Cancer,Lung,a1231976013,"[M]Small cell carcinoma, intermediate cell",L1:Cancer_L2:Lung,BB1M.00
+1439,Cancer,Lung,a1222626017,[M]Small cell-large cell carcinoma,L1:Cancer_L2:Lung,BB1N.00
+1440,Cancer,Lung,a1870381000006113,Non-small cell carcinoma,L1:Cancer_L2:Lung,BB1P.00
+1441,Cancer,Lung,a316611000006117,[M]Small cell sarcoma,L1:Cancer_L2:Lung,BBF5.00
+1442,Cancer,Lung,a315581000006116,[M]Pneumoblastoma,L1:Cancer_L2:Lung,BBLA.11
+1443,Cancer,Lung,a1235321016,[M]Alveolar soft part sarcoma,L1:Cancer_L2:Lung,BBf2.00
+1444,Cancer,Lung,a396381000006118,[X]Malignant neoplasm of respiratory and intrathoracic organs,L1:Cancer_L2:Lung,Byu2.00
+1445,Cancer,Lung,a292105018,Malignant neoplasm of bronchus or lung,L1:Cancer_L2:Lung,Byu2000
+1446,Cancer,Lung,a396611000006118,"[X]Malignant neoplasm/upper resp tract, part unspecified",L1:Cancer_L2:Lung,Byu2200
+1447,Cancer,Lung,a396191000006117,[X]Malignant neopl/overlapping les/resp+intrathoracic organs,L1:Cancer_L2:Lung,Byu2300
+1448,Cancer,Lung,a396511000006119,[X]Malignant neoplasm/ill-defined sites within resp system,L1:Cancer_L2:Lung,Byu2400

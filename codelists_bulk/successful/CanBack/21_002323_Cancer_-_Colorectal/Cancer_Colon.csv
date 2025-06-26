@@ -1,0 +1,21 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+806,Cancer,Colon,a726331000006111,Malignant neoplasm of colon,L1:Cancer_L2:Colon,B13..00
+807,Cancer,Colon,a725191000006116,Malignant neoplasm of hepatic flexure of colon,L1:Cancer_L2:Colon,B130.00
+808,Cancer,Colon,a721421000006112,Malignant neoplasm of transverse colon,L1:Cancer_L2:Colon,B131.00
+809,Cancer,Colon,a725951000006112,Malignant neoplasm of descending colon,L1:Cancer_L2:Colon,B132.00
+810,Cancer,Colon,a721991000006115,Malignant neoplasm of sigmoid colon,L1:Cancer_L2:Colon,B133.00
+811,Cancer,Colon,a1216464010,Malignant neoplasm of caecum,L1:Cancer_L2:Colon,B134.00
+812,Cancer,Colon,a380129018,Carcinoma of caecum,L1:Cancer_L2:Colon,B134.11
+813,Cancer,Colon,a727281000006117,Malignant neoplasm of appendix,L1:Cancer_L2:Colon,B135.00
+814,Cancer,Colon,a727321000006111,Malignant neoplasm of ascending colon,L1:Cancer_L2:Colon,B136.00
+815,Cancer,Colon,a721821000006114,Malignant neoplasm of splenic flexure of colon,L1:Cancer_L2:Colon,B137.00
+816,Cancer,Colon,a288670017,"Malignant neoplasm, overlapping lesion of colon",L1:Cancer_L2:Colon,B138.00
+817,Cancer,Colon,a288671018,Malignant neoplasm of other specified sites of colon,L1:Cancer_L2:Colon,B13y.00
+818,Cancer,Colon,a403682011,Malignant neoplasm of colon NOS,L1:Cancer_L2:Colon,B13z.00
+819,Cancer,Colon,a573611000006118,Colonic cancer,L1:Cancer_L2:Colon,B13z.11
+820,Cancer,Colon,a722441000006110,Malignant neoplasm of rectosigmoid junction,L1:Cancer_L2:Colon,B140.00
+821,Cancer,Colon,a155076015,Malignant neoplasm of anal canal,L1:Cancer_L2:Colon,B142.00
+822,Cancer,Colon,a841331000006115,Cancer of bowel,L1:Cancer_L2:Colon,B1z0.11
+823,Cancer,Colon,a459527013,Hereditary nonpolyposis colon cancer,L1:Cancer_L2:Colon,B139.00
+824,Cancer,Colon,a291436015,Adenocarcinoma in villous adenoma,L1:Cancer_L2:Colon,BB5U100
+825,Cancer,Colon,a318101000006112,[M]Villous adenocarcinoma,L1:Cancer_L2:Colon,BB5U200

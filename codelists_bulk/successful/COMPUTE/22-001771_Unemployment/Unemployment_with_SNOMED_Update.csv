@@ -1,0 +1,15 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+502435010,800000,Unemployed,73438004
+250858011,20000,Recently unemployed,160899000
+250859015,20000,Chronic unemployment,160900005
+460745015,3000,[V]Problems related to employment and unemployment,75148009
+251058017,2000,Unemployment benefits,161005005
+251059013,2000,Unemployment benefit,161006006
+460996012,300,[V]Unemployment,73438004
+251061016,200,Unemployment benefit NOS,161006006
+4927271000006118,200,Seeking work,224381005
+80161000006110,60,Unemployability allow.- forces,160990000
+14282141000006111,2,Employment status : Unemployed and actively seeking work,14282141000006107
+3694131000006114,2,U/E - Unemployed,73438004
+14282191000006119,1,Employment status : Unpaid voluntary work and not working/seeking work,14282191000006103
+14282181000006117,1,Employment status : Not receiving sickness/disability benefits and not working/seeking work,14282181000006101

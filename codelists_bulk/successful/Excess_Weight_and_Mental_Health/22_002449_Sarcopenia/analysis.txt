@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tsarcopenia']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                              \tMedCodeId\tObservations\tTerm\tsarcopenia
+0                   0\ta299731000000113\t7000\tMuscle wasting\tsarcopenia
+1  1\ta311609015\t4000\tMuscle wasting/disuse atrophy NEC NOS\tsarcopenia
+2         2\ta411815016\t3000\tO/E- quadriceps muscle wasting\tsarcopenia

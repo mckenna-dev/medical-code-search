@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_angina.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/18-186-Gold-IDFracture/main/Codelists/standardized_angina.csv
+Codelist Name: Angina
+Project Title: ID Fracture
+ERAP Number: 22-000453
+Author: Margaret Smith
+Coding System: Gold
+Year Created: 2024
+Downloaded: 2025-06-25 13:24:22
+File Size: 700 bytes

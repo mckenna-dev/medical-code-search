@@ -1,0 +1,18 @@
+	MedCodeId	Observations	Term	Height category
+0	253669010	90000000	Standing height	continuous
+1	253676017	100000	O/E - height NOS	continuous
+2	11905141000006112	40000	O/E - height	continuous
+3	3315721000006119	7000	Body height	continuous
+4	1910931000006112	2000	Reported height	continuous
+5	3315711000006110	200	Body height measure	continuous
+6	923831000006115	200	O/E - height	continuous
+7	5256071000006119	80	General finding of height	continuous
+8	4551671000006115	10	On examination - height	continuous
+9	253672015	20000	O/E -height within 10% average	height within 10% average
+10	284561000006119	2000	O/E - height 10-20% < average	height 10-20% below average
+11	4551701000006119	9	O/E - height 10-20% below average	height 10-20% below average
+12	271181000006113	1000	O/E-height > 20% below average	height greater than 20% below average
+13	4551681000006117	5	O/E - height greater than 20% below average	height greater than 20% below average
+14	253673013	1000	O/E-height 10-20% over average	height 10-20% over average
+15	4551761000006118	3	O/E - height greater than 20% over average	height greater than 20% over average
+16	272151000006114	600	O/E -height > 20% over average	height greater than 20% over average

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 83
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tBipolar_diagnosis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                                                                                \tMedCodeId\tObservations\tTerm\tBipolar_diagnosis
+0\t1755911000006110\t2000\t[X]Recurrent major depressive episodes        severe  with psychosis          psychosis in remission\tBipolar_diagnosis
+1\t8232591000006117\t300\tRecurrent major depressive episodes            severe  with psychosis          psychosis in remission\tBipolar_diagnosis
+2\t362781000006116\t2000\t[X]Affective psychosis NOS\tBipolar_diagnosis NaN     NaN                                                            NaN

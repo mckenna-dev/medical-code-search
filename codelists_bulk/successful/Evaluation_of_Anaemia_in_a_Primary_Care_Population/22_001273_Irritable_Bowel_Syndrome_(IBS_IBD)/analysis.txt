@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 28
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tSnomedCTConceptId\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                                    MedCodeId\tObservations\tTerm\tSnomedCTConceptId\t
+0                          a18666015\t2000000\tIrritable bowel syndrome\t10743008\tIBS
+1  a742351000006119\t800000\tIrritable colon - Irritable bowel syndrome\t10743008\tIBS
+2                             a2670821000006113\t90000\tIrritable colon\t10743008\tIBS

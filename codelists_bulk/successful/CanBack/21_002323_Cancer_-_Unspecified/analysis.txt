@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 52
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2    MedCodeID                                    Term
+0   2329          Cancer     Unspecified  a1488798019                        Cancer confirmed
+1   2330          Cancer     Unspecified  a1488604019  Administration of antineoplastic agent
+2   2331          Cancer     Unspecified  a1488772013                Cancer treatment started

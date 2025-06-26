@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Endocrine.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/12-21-002323-CanBack/main/Codelists/Cancer_Endocrine.csv
+Codelist Name: Cancer - Endocrine
+Project Title: CanBack
+ERAP Number: 21_002323
+Author: Aron Downie
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:29:54
+File Size: 2155 bytes

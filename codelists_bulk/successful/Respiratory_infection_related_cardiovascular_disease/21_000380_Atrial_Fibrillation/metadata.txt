@@ -1,0 +1,10 @@
+Original URL: https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Atrial%20Arrhythmia/Gold_AF_codelist_010422.txt
+Downloaded from: https://raw.githubusercontent.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/main/Atrial%20Arrhythmia/Gold_AF_codelist_010422.txt
+Codelist Name: Atrial Fibrillation
+Project Title: Respiratory infection related cardiovascular disease
+ERAP Number: 21_000380
+Author: Joseph Lee
+Coding System: Gold
+Year Created: 2020
+Downloaded: 2025-06-25 13:24:37
+File Size: 1772 bytes

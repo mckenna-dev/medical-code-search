@@ -1,0 +1,944 @@
+readcode	readterm	medcode
+"B0...00"	"Malignant neoplasm of lip, oral cavity and pharynx"	19415
+"B0...11"	"Carcinoma of lip, oral cavity and pharynx"	24374
+"B00..00"	"Malignant neoplasm of lip"	14712
+"B00..11"	"Carcinoma of lip"	9984
+"B000.00"	"Malignant neoplasm of upper lip, vermilion border"	73962
+"B000000"	"Malignant neoplasm of upper lip, external"	66270
+"B000100"	"Malignant neoplasm of upper lip, lipstick area"	50296
+"B000z00"	"Malignant neoplasm of upper lip, vermilion border NOS"	98740
+"B001.00"	"Malignant neoplasm of lower lip, vermilion border"	67446
+"B001000"	"Malignant neoplasm of lower lip, external"	66384
+"B001100"	"Malignant neoplasm of lower lip, lipstick area"	95480
+"B001z00"	"Malignant neoplasm of lower lip, vermilion border NOS"	101707
+"B002.00"	"Malignant neoplasm of upper lip, inner aspect"	99493
+"B002100"	"Malignant neoplasm of upper lip, frenulum"	99001
+"B002200"	"Malignant neoplasm of upper lip, mucosa"	98500
+"B002300"	"Malignant neoplasm of upper lip, oral aspect"	90610
+"B002z00"	"Malignant neoplasm of upper lip, inner aspect NOS"	100721
+"B003.00"	"Malignant neoplasm of lower lip, inner aspect"	71147
+"B003000"	"Malignant neoplasm of lower lip, buccal aspect"	67504
+"B003100"	"Malignant neoplasm of lower lip, frenulum"	91843
+"B003200"	"Malignant neoplasm of lower lip, mucosa"	89909
+"B003300"	"Malignant neoplasm of lower lip, oral aspect"	94441
+"B003z00"	"Malignant neoplasm of lower lip, inner aspect NOS"	96782
+"B004.00"	"Malignant neoplasm of lip unspecified, inner aspect"	61692
+"B004000"	"Malignant neoplasm of lip unspecified, buccal aspect"	73614
+"B004200"	"Malignant neoplasm of lip unspecified, mucosa"	68399
+"B004300"	"Malignant neoplasm of lip, oral aspect"	100144
+"B005.00"	"Malignant neoplasm of commissure of lip"	96783
+"B006.00"	"Malignant neoplasm of overlapping lesion of lip"	18882
+"B007.00"	"Malignant neoplasm of lip, unspecified"	37553
+"B00z000"	"Malignant neoplasm of lip, unspecified, external"	100906
+"B00z100"	"Malignant neoplasm of lip, unspecified, lipstick area"	94251
+"B00zz00"	"Malignant neoplasm of lip, vermilion border NOS"	69761
+"B01..00"	"Malignant neoplasm of tongue"	10283
+"B010.00"	"Malignant neoplasm of base of tongue"	43431
+"B010.11"	"Malignant neoplasm of posterior third of tongue"	69671
+"B010000"	"Malignant neoplasm of base of tongue dorsal surface"	34409
+"B010z00"	"Malignant neoplasm of fixed part of tongue NOS"	91035
+"B011.00"	"Malignant neoplasm of dorsal surface of tongue"	43642
+"B011100"	"Malignant neoplasm of midline of tongue"	107258
+"B011z00"	"Malignant neoplasm of dorsum of tongue NOS"	43781
+"B012.00"	"Malignant neoplasm of tongue, tip and lateral border"	36161
+"B013.00"	"Malignant neoplasm of ventral surface of tongue"	62840
+"B013000"	"Malignant neoplasm of anterior 2/3 of tongue ventral surface"	102142
+"B013100"	"Malignant neoplasm of frenulum linguae"	63979
+"B013z00"	"Malignant neoplasm of ventral tongue surface NOS"	38488
+"B014.00"	"Malignant neoplasm of anterior 2/3 of tongue unspecified"	58121
+"B015.00"	"Malignant neoplasm of tongue, junctional zone"	37096
+"B016.00"	"Malignant neoplasm of lingual tonsil"	24852
+"B017.00"	"Malignant overlapping lesion of tongue"	47205
+"B01y.00"	"Malignant neoplasm of other sites of tongue"	41530
+"B01z.00"	"Malignant neoplasm of tongue NOS"	40557
+"B02..00"	"Malignant neoplasm of major salivary glands"	20292
+"B020.00"	"Malignant neoplasm of parotid gland"	4388
+"B021.00"	"Malignant neoplasm of submandibular gland"	51786
+"B022.00"	"Malignant neoplasm of sublingual gland"	70928
+"B02y.00"	"Malignant neoplasm of other major salivary glands"	70696
+"B02z.00"	"Malignant neoplasm of major salivary gland NOS"	50475
+"B03..00"	"Malignant neoplasm of gum"	43400
+"B030.00"	"Malignant neoplasm of upper gum"	32024
+"B031.00"	"Malignant neoplasm of lower gum"	49360
+"B03y.00"	"Malignant neoplasm of other sites of gum"	101753
+"B03z.00"	"Malignant neoplasm of gum NOS"	93218
+"B04..00"	"Malignant neoplasm of floor of mouth"	20092
+"B040.00"	"Malignant neoplasm of anterior portion of floor of mouth"	45408
+"B041.00"	"Malignant neoplasm of lateral portion of floor of mouth"	45986
+"B042.00"	"Malignant neoplasm, overlapping lesion of floor of mouth"	17912
+"B04y.00"	"Malignant neoplasm of other sites of floor of mouth"	56709
+"B04z.00"	"Malignant neoplasm of floor of mouth NOS"	36716
+"B05..00"	"Malignant neoplasm of other and unspecified parts of mouth"	14792
+"B050.00"	"Malignant neoplasm of cheek mucosa"	31364
+"B050.11"	"Malignant neoplasm of buccal mucosa"	30402
+"B051.00"	"Malignant neoplasm of vestibule of mouth"	103796
+"B051000"	"Malignant neoplasm of upper buccal sulcus"	95772
+"B051100"	"Malignant neoplasm of lower buccal sulcus"	97530
+"B052.00"	"Malignant neoplasm of hard palate"	37590
+"B053.00"	"Malignant neoplasm of soft palate"	40292
+"B054.00"	"Malignant neoplasm of uvula"	37516
+"B055.00"	"Malignant neoplasm of palate unspecified"	70819
+"B055000"	"Malignant neoplasm of junction of hard and soft palate"	96003
+"B055100"	"Malignant neoplasm of roof of mouth"	69951
+"B055z00"	"Malignant neoplasm of palate NOS"	28559
+"B056.00"	"Malignant neoplasm of retromolar area"	37724
+"B05y.00"	"Malignant neoplasm of other specified mouth parts"	37916
+"B05z.00"	"Malignant neoplasm of mouth NOS"	55015
+"B05z000"	"Kaposi's sarcoma of palate"	37549
+"B06..00"	"Malignant neoplasm of oropharynx"	22893
+"B060.00"	"Malignant neoplasm of tonsil"	16241
+"B060000"	"Malignant neoplasm of faucial tonsil"	26448
+"B060100"	"Malignant neoplasm of palatine tonsil"	101988
+"B060200"	"Malignant neoplasm of overlapping lesion of tonsil"	102151
+"B060z00"	"Malignant neoplasm tonsil NOS"	53884
+"B061.00"	"Malignant neoplasm of tonsillar fossa"	24397
+"B062.00"	"Malignant neoplasm of tonsillar pillar"	55066
+"B062000"	"Malignant neoplasm of faucial pillar"	51926
+"B062100"	"Malignant neoplasm of glossopalatine fold"	99185
+"B062200"	"Malignant neoplasm of palatoglossal arch"	61510
+"B062300"	"Malignant neoplasm of palatopharyngeal arch"	93842
+"B062z00"	"Malignant neoplasm of tonsillar fossa NOS"	100002
+"B063.00"	"Malignant neoplasm of vallecula"	39554
+"B064.00"	"Malignant neoplasm of anterior epiglottis"	46728
+"B064000"	"Malignant neoplasm of epiglottis, free border"	26134
+"B064100"	"Malignant neoplasm of glossoepiglottic fold"	91895
+"B064z00"	"Malignant neoplasm of anterior epiglottis NOS"	73439
+"B065.00"	"Malignant neoplasm of junctional region of epiglottis"	48519
+"B066.00"	"Malignant neoplasm of lateral wall of oropharynx"	56355
+"B067.00"	"Malignant neoplasm of posterior wall of oropharynx"	90124
+"B06y.00"	"Malignant neoplasm of oropharynx, other specified sites"	67323
+"B06yz00"	"Malignant neoplasm of other specified site of oropharynx NOS"	91037
+"B06z.00"	"Malignant neoplasm of oropharynx NOS"	43200
+"B07..00"	"Malignant neoplasm of nasopharynx"	24675
+"B070.00"	"Malignant neoplasm of roof of nasopharynx"	94390
+"B071.00"	"Malignant neoplasm of posterior wall of nasopharynx"	95429
+"B071000"	"Malignant neoplasm of adenoid"	33388
+"B071100"	"Malignant neoplasm of pharyngeal tonsil"	46548
+"B071z00"	"Malignant neoplasm of posterior wall of nasopharynx NOS"	96869
+"B072.00"	"Malignant neoplasm of lateral wall of nasopharynx"	59004
+"B072000"	"Malignant neoplasm of pharyngeal recess"	37940
+"B072z00"	"Malignant neoplasm of lateral wall of nasopharynx NOS"	102205
+"B073.00"	"Malignant neoplasm of anterior wall of nasopharynx"	44139
+"B073100"	"Malignant neoplasm of nasopharyngeal soft palate surface"	106915
+"B073200"	"Malignant neoplasm posterior margin nasal septum and choanae"	99386
+"B073z00"	"Malignant neoplasm of anterior wall of nasopharynx NOS"	100918
+"B074.00"	"Malignant neoplasm, overlapping lesion of nasopharynx"	66422
+"B07y.00"	"Malignant neoplasm of other specified site of nasopharynx"	55630
+"B07z.00"	"Malignant neoplasm of nasopharynx NOS"	28665
+"B08..00"	"Malignant neoplasm of hypopharynx"	34012
+"B080.00"	"Malignant neoplasm of postcricoid region"	43548
+"B081.00"	"Malignant neoplasm of pyriform sinus"	39897
+"B082.00"	"Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect"	57248
+"B083.00"	"Malignant neoplasm of posterior pharynx"	64462
+"B08y.00"	"Malignant neoplasm of other specified hypopharyngeal site"	88362
+"B08z.00"	"Malignant neoplasm of hypopharynx NOS"	28451
+"B0z..00"	"Malig neop other/ill-defined sites lip, oral cavity, pharynx"	46114
+"B0z0.00"	"Malignant neoplasm of pharynx unspecified"	16297
+"B0z1.00"	"Malignant neoplasm of Waldeyer's ring"	95016
+"B0z2.00"	"Malignant neoplasm of laryngopharynx"	39084
+"B0zy.00"	"Malignant neoplasm of other sites lip, oral cavity, pharynx"	49758
+"B0zz.00"	"Malignant neoplasm of lip, oral cavity and pharynx NOS"	39430
+"B20..00"	"Malig neop nasal cavities, middle ear and accessory sinuses"	26652
+"B200.00"	"Malignant neoplasm of nasal cavities"	23389
+"B200000"	"Malignant neoplasm of cartilage of nose"	71204
+"B200100"	"Malignant neoplasm of nasal conchae"	98911
+"B200200"	"Malignant neoplasm of septum of nose"	62761
+"B200300"	"Malignant neoplasm of vestibule of nose"	62182
+"B200z00"	"Malignant neoplasm of nasal cavities NOS"	42856
+"B201.00"	"Malig neop auditory tube, middle ear and mastoid air cells"	24456
+"B201000"	"Malignant neoplasm of auditory (Eustachian) tube"	107916
+"B201100"	"Malignant neoplasm of tympanic cavity"	98537
+"B201200"	"Malignant neoplasm of tympanic antrum"	54613
+"B201300"	"Malignant neoplasm of mastoid air cells"	71946
+"B201z00"	"Malig neop auditory tube, middle ear, mastoid air cells NOS"	73537
+"B202.00"	"Malignant neoplasm of maxillary sinus"	32174
+"B203.00"	"Malignant neoplasm of ethmoid sinus"	54636
+"B204.00"	"Malignant neoplasm of frontal sinus"	15684
+"B205.00"	"Malignant neoplasm of sphenoidal sinus"	65215
+"B206.00"	"Malignant neoplasm, overlapping lesion of accessory sinuses"	39590
+"B20y.00"	"Malig neop other site nasal cavity, middle ear and sinuses"	96971
+"B20z.00"	"Malignant neoplasm of accessory sinus NOS"	55246
+"B21..00"	"Malignant neoplasm of larynx"	319
+"B210.00"	"Malignant neoplasm of glottis"	318
+"B211.00"	"Malignant neoplasm of supraglottis"	26165
+"B212.00"	"Malignant neoplasm of subglottis"	22441
+"B213.00"	"Malignant neoplasm of laryngeal cartilage"	43111
+"B213000"	"Malignant neoplasm of arytenoid cartilage"	63460
+"B213100"	"Malignant neoplasm of cricoid cartilage"	37805
+"B213200"	"Malignant neoplasm of cuneiform cartilage"	107878
+"B213300"	"Malignant neoplasm of thyroid cartilage"	47862
+"B213z00"	"Malignant neoplasm of laryngeal cartilage NOS"	97332
+"B214.00"	"Malignant neoplasm, overlapping lesion of larynx"	50579
+"B215.00"	"Malignant neoplasm of epiglottis NOS"	55374
+"B21y.00"	"Malignant neoplasm of larynx, other specified site"	26813
+"B21z.00"	"Malignant neoplasm of larynx NOS"	9237
+"B550.00"	"Malignant neoplasm of head, neck and face"	68236
+"B550000"	"Malignant neoplasm of head NOS"	55098
+"B550100"	"Malignant neoplasm of cheek NOS"	41931
+"B550200"	"Malignant neoplasm of nose NOS"	12490
+"B550300"	"Malignant neoplasm of jaw NOS"	51818
+"B550400"	"Malignant neoplasm of neck NOS"	16280
+"B550500"	"Malignant neoplasm of supraclavicular fossa NOS"	73510
+"B550z00"	"Malignant neoplasm of head, neck and face NOS"	58903
+"B62x400"	"Malignant reticulosis"	62437
+"Byu0.00"	"[X]Malignant neoplasm of lip, oral cavity and pharynx"	58973
+"B10..00"	"Malignant neoplasm of oesophagus"	1062
+"B100.00"	"Malignant neoplasm of cervical oesophagus"	61695
+"B101.00"	"Malignant neoplasm of thoracic oesophagus"	41362
+"B102.00"	"Malignant neoplasm of abdominal oesophagus"	63470
+"B103.00"	"Malignant neoplasm of upper third of oesophagus"	50789
+"B104.00"	"Malignant neoplasm of middle third of oesophagus"	54171
+"B105.00"	"Malignant neoplasm of lower third of oesophagus"	42416
+"B106.00"	"Malignant neoplasm, overlapping lesion of oesophagus"	67497
+"B107.00"	"Siewert type I adenocarcinoma"	98142
+"B10y.00"	"Malignant neoplasm of other specified part of oesophagus"	53591
+"B10z.00"	"Malignant neoplasm of oesophagus NOS"	30700
+"B10z.11"	"Oesophageal cancer"	4865
+"B11..00"	"Malignant neoplasm of stomach"	8386
+"B11..11"	"Gastric neoplasm"	10368
+"B110.00"	"Malignant neoplasm of cardia of stomach"	32022
+"B110000"	"Malignant neoplasm of cardiac orifice of stomach"	100584
+"B110100"	"Malignant neoplasm of cardio-oesophageal junction of stomach"	22894
+"B110111"	"Malignant neoplasm of gastro-oesophageal junction"	94278
+"B110z00"	"Malignant neoplasm of cardia of stomach NOS"	37859
+"B111.00"	"Malignant neoplasm of pylorus of stomach"	21620
+"B111000"	"Malignant neoplasm of prepylorus of stomach"	48237
+"B111100"	"Malignant neoplasm of pyloric canal of stomach"	41215
+"B111z00"	"Malignant neoplasm of pylorus of stomach NOS"	59092
+"B112.00"	"Malignant neoplasm of pyloric antrum of stomach"	19318
+"B113.00"	"Malignant neoplasm of fundus of stomach"	32362
+"B114.00"	"Malignant neoplasm of body of stomach"	43572
+"B115.00"	"Malignant neoplasm of lesser curve of stomach unspecified"	42193
+"B116.00"	"Malignant neoplasm of greater curve of stomach unspecified"	55434
+"B117.00"	"Malignant neoplasm, overlapping lesion of stomach"	51690
+"B118.00"	"Siewert type II adenocarcinoma"	97499
+"B119.00"	"Siewert type III adenocarcinoma"	96094
+"B11y.00"	"Malignant neoplasm of other specified site of stomach"	55019
+"B11y000"	"Malignant neoplasm of anterior wall of stomach NEC"	65312
+"B11y100"	"Malignant neoplasm of posterior wall of stomach NEC"	96802
+"B11yz00"	"Malignant neoplasm of other specified site of stomach NOS"	65372
+"B11z.00"	"Malignant neoplasm of stomach NOS"	14800
+"B12..00"	"Malignant neoplasm of small intestine and duodenum"	6806
+"B120.00"	"Malignant neoplasm of duodenum"	18613
+"B121.00"	"Malignant neoplasm of jejunum"	43479
+"B122.00"	"Malignant neoplasm of ileum"	33871
+"B123.00"	"Malignant neoplasm of Meckel's diverticulum"	63995
+"B12y.00"	"Malignant neoplasm of other specified site small intestine"	99896
+"B12z.00"	"Malignant neoplasm of small intestine NOS"	43390
+"B13..00"	"Malignant neoplasm of colon"	1220
+"B130.00"	"Malignant neoplasm of hepatic flexure of colon"	9088
+"B131.00"	"Malignant neoplasm of transverse colon"	6935
+"B132.00"	"Malignant neoplasm of descending colon"	10864
+"B133.00"	"Malignant neoplasm of sigmoid colon"	2815
+"B134.00"	"Malignant neoplasm of caecum"	3811
+"B134.11"	"Carcinoma of caecum"	22163
+"B135.00"	"Malignant neoplasm of appendix"	18632
+"B136.00"	"Malignant neoplasm of ascending colon"	10946
+"B137.00"	"Malignant neoplasm of splenic flexure of colon"	18619
+"B138.00"	"Malignant neoplasm, overlapping lesion of colon"	93478
+"B13y.00"	"Malignant neoplasm of other specified sites of colon"	48231
+"B13z.00"	"Malignant neoplasm of colon NOS"	28163
+"B13z.11"	"Colonic cancer"	9118
+"B140.00"	"Malignant neoplasm of rectosigmoid junction"	27855
+"B142.00"	"Malignant neoplasm of anal canal"	24370
+"B1z0.11"	"Cancer of bowel"	11628
+"B14..00"	"Malignant neoplasm of rectum, rectosigmoid junction and anus"	35357
+"B141.00"	"Malignant neoplasm of rectum"	1800
+"B141.11"	"Carcinoma of rectum"	7219
+"B141.12"	"Rectal carcinoma"	5901
+"B14y.00"	"Malig neop other site rectum, rectosigmoid junction and anus"	55659
+"B14z.00"	"Malignant neoplasm rectum,rectosigmoid junction and anus NOS"	50974
+"B142.11"	"Anal carcinoma"	9491
+"B142000"	"Malignant neoplasm of cloacogenic zone"	46159
+"B143.00"	"Malignant neoplasm of anus unspecified"	27897
+"B15..00"	"Malignant neoplasm of liver and intrahepatic bile ducts"	8918
+"B150.00"	"Primary malignant neoplasm of liver"	25535
+"B150000"	"Primary carcinoma of liver"	16126
+"B150100"	"Hepatoblastoma of liver"	31210
+"B150200"	"Primary angiosarcoma of liver"	68410
+"B150300"	"Hepatocellular carcinoma"	22187
+"B150z00"	"Primary malignant neoplasm of liver NOS"	44399
+"B152.00"	"Malignant neoplasm of liver unspecified"	26393
+"Byu1100"	"[X]Other specified carcinomas of liver"	43490
+"B16..00"	"Malignant neoplasm gallbladder and extrahepatic bile ducts"	54103
+"B160.00"	"Malignant neoplasm of gallbladder"	16105
+"B160.11"	"Carcinoma gallbladder"	31393
+"B16y.00"	"Malignant neoplasm other gallbladder/extrahepatic bile duct"	60312
+"B16z.00"	"Malignant neoplasm gallbladder/extrahepatic bile ducts NOS"	15907
+"B151.00"	"Malignant neoplasm of intrahepatic bile ducts"	16915
+"B151000"	"Malignant neoplasm of interlobular bile ducts"	65124
+"B151100"	"Malignant neoplasm of interlobular biliary canals"	110775
+"B151200"	"Malignant neoplasm of intrahepatic biliary passages"	89593
+"B151400"	"Malignant neoplasm of intrahepatic gall duct"	58088
+"B151z00"	"Malignant neoplasm of intrahepatic bile ducts NOS"	61643
+"B15z.00"	"Malignant neoplasm of liver and intrahepatic bile ducts NOS"	38978
+"B161.00"	"Malignant neoplasm of extrahepatic bile ducts"	23433
+"B161000"	"Malignant neoplasm of cystic duct"	72445
+"B161100"	"Malignant neoplasm of hepatic duct"	52537
+"B161200"	"Malignant neoplasm of common bile duct"	7982
+"B161211"	"Carcinoma common bile duct"	36495
+"B161300"	"Malignant neoplasm of sphincter of Oddi"	105613
+"B161z00"	"Malignant neoplasm of extrahepatic bile ducts NOS"	74896
+"B162.00"	"Malignant neoplasm of ampulla of Vater"	10949
+"B163.00"	"Malignant neoplasm, overlapping lesion of biliary tract"	35039
+"B17..00"	"Malignant neoplasm of pancreas"	8166
+"B170.00"	"Malignant neoplasm of head of pancreas"	8771
+"B171.00"	"Malignant neoplasm of body of pancreas"	40810
+"B172.00"	"Malignant neoplasm of tail of pancreas"	39870
+"B173.00"	"Malignant neoplasm of pancreatic duct"	35535
+"B174.00"	"Malignant neoplasm of Islets of Langerhans"	35795
+"B17y.00"	"Malignant neoplasm of other specified sites of pancreas"	48537
+"B17y000"	"Malignant neoplasm of ectopic pancreatic tissue"	96635
+"B17yz00"	"Malignant neoplasm of specified site of pancreas NOS"	95783
+"B17z.00"	"Malignant neoplasm of pancreas NOS"	34388
+"B717011"	"Endocrine tumour of pancreas"	55675
+"B18..00"	"Malignant neoplasm of retroperitoneum and peritoneum"	44108
+"B180.00"	"Malignant neoplasm of retroperitoneum"	21330
+"B180100"	"Malignant neoplasm of perinephric tissue"	65159
+"B180200"	"Malignant neoplasm of retrocaecal tissue"	24048
+"B180z00"	"Malignant neoplasm of retroperitoneum NOS"	61555
+"B181.00"	"Mesothelioma of peritoneum"	17874
+"B18y.00"	"Malignant neoplasm of specified parts of peritoneum"	46613
+"B18y100"	"Malignant neoplasm of mesocaecum"	59388
+"B18y200"	"Malignant neoplasm of mesorectum"	30165
+"B18y300"	"Malignant neoplasm of omentum"	50898
+"B18y400"	"Malignant neoplasm of parietal peritoneum"	64516
+"B18y500"	"Malignant neoplasm of pelvic peritoneum"	39413
+"B18y600"	"Malignant neoplasm of the pouch of Douglas"	69821
+"B18y700"	"Malignant neoplasm of mesentery"	90290
+"B18yz00"	"Malignant neoplasm of specified parts of peritoneum NOS"	64106
+"B18z.00"	"Malignant neoplasm of retroperitoneum and peritoneum NOS"	16298
+"B1z1.00"	"Malignant neoplasm of spleen NEC"	65460
+"B1z1000"	"Angiosarcoma of spleen"	108667
+"B1z1100"	"Fibrosarcoma of spleen"	72224
+"B1z1z00"	"Malignant neoplasm of spleen NOS"	93778
+"B22..00"	"Malignant neoplasm of trachea, bronchus and lung"	13243
+"B220.00"	"Malignant neoplasm of trachea"	15221
+"B220100"	"Malignant neoplasm of mucosa of trachea"	103946
+"B220z00"	"Malignant neoplasm of trachea NOS"	37810
+"B221.00"	"Malignant neoplasm of main bronchus"	12870
+"B221000"	"Malignant neoplasm of carina of bronchus"	17391
+"B221100"	"Malignant neoplasm of hilus of lung"	33444
+"B221z00"	"Malignant neoplasm of main bronchus NOS"	21698
+"B222.00"	"Malignant neoplasm of upper lobe, bronchus or lung"	10358
+"B222.11"	"Pancoast's syndrome"	20170
+"B222000"	"Malignant neoplasm of upper lobe bronchus"	31700
+"B222100"	"Malignant neoplasm of upper lobe of lung"	25886
+"B222z00"	"Malignant neoplasm of upper lobe, bronchus or lung NOS"	44169
+"B223.00"	"Malignant neoplasm of middle lobe, bronchus or lung"	31268
+"B223000"	"Malignant neoplasm of middle lobe bronchus"	41523
+"B223100"	"Malignant neoplasm of middle lobe of lung"	39923
+"B223z00"	"Malignant neoplasm of middle lobe, bronchus or lung NOS"	54134
+"B224.00"	"Malignant neoplasm of lower lobe, bronchus or lung"	31188
+"B224000"	"Malignant neoplasm of lower lobe bronchus"	18678
+"B224100"	"Malignant neoplasm of lower lobe of lung"	12582
+"B224z00"	"Malignant neoplasm of lower lobe, bronchus or lung NOS"	42566
+"B22y.00"	"Malignant neoplasm of other sites of bronchus or lung"	38961
+"B22z.00"	"Malignant neoplasm of bronchus or lung NOS"	3903
+"B22z.11"	"Lung cancer"	2587
+"B23..00"	"Malignant neoplasm of pleura"	31573
+"B230.00"	"Malignant neoplasm of parietal pleura"	67107
+"B231.00"	"Malignant neoplasm of visceral pleura"	106194
+"B23y.00"	"Malignant neoplasm of other specified pleura"	98104
+"B24..00"	"Malignant neoplasm of thymus, heart and mediastinum"	62556
+"B240.00"	"Malignant neoplasm of thymus"	27483
+"B241.00"	"Malignant neoplasm of heart"	95644
+"B241000"	"Malignant neoplasm of endocardium"	63430
+"B241200"	"Malignant neoplasm of myocardium"	65605
+"B241300"	"Malignant neoplasm of pericardium"	94975
+"B241400"	"Mesothelioma of pericardium"	101885
+"B241z00"	"Malignant neoplasm of heart NOS"	50289
+"B242.00"	"Malignant neoplasm of anterior mediastinum"	27715
+"B243.00"	"Malignant neoplasm of posterior mediastinum"	92720
+"B24X.00"	"Malignant neoplasm of mediastinum, part unspecified"	61064
+"B24y.00"	"Malig neop of other site of heart, thymus and mediastinum"	100232
+"B24z.00"	"Malignant neoplasm of heart, thymus and mediastinum NOS"	66750
+"B225.00"	"Malignant neoplasm of overlapping lesion of bronchus & lung"	36371
+"B3...12"	"Sarcoma of bone and connective tissue"	12539
+"B30..00"	"Malignant neoplasm of bone and articular cartilage"	18314
+"B300.00"	"Malignant neoplasm of bones of skull and face"	59036
+"B300000"	"Malignant neoplasm of ethmoid bone"	53594
+"B300100"	"Malignant neoplasm of frontal bone"	53599
+"B300200"	"Malignant neoplasm of malar bone"	59520
+"B300300"	"Malignant neoplasm of nasal bone"	95458
+"B300400"	"Malignant neoplasm of occipital bone"	55953
+"B300500"	"Malignant neoplasm of orbital bone"	50298
+"B300600"	"Malignant neoplasm of parietal bone"	54747
+"B300700"	"Malignant neoplasm of sphenoid bone"	55595
+"B300800"	"Malignant neoplasm of temporal bone"	62104
+"B300900"	"Malignant neoplasm of zygomatic bone"	50299
+"B300A00"	"Malignant neoplasm of maxilla"	17475
+"B300B00"	"Malignant neoplasm of turbinate"	96445
+"B300C00"	"Malignant neoplasm of vomer"	44452
+"B300z00"	"Malignant neoplasm of bones of skull and face NOS"	69146
+"B301.00"	"Malignant neoplasm of mandible"	33833
+"B302.00"	"Malignant neoplasm of vertebral column"	16704
+"B302000"	"Malignant neoplasm of cervical vertebra"	46939
+"B302100"	"Malignant neoplasm of thoracic vertebra"	32372
+"B302200"	"Malignant neoplasm of lumbar vertebra"	54691
+"B302z00"	"Malignant neoplasm of vertebral column NOS"	49701
+"B303.00"	"Malignant neoplasm of ribs, sternum and clavicle"	27528
+"B303000"	"Malignant neoplasm of rib"	37842
+"B303100"	"Malignant neoplasm of sternum"	49491
+"B303200"	"Malignant neoplasm of clavicle"	66639
+"B303300"	"Malignant neoplasm of costal cartilage"	60403
+"B303400"	"Malignant neoplasm of costo-vertebral joint"	67763
+"B303500"	"Malignant neoplasm of xiphoid process"	54493
+"B303z00"	"Malignant neoplasm of rib, sternum and clavicle NOS"	51237
+"B304.00"	"Malignant neoplasm of scapula and long bones of upper arm"	71810
+"B304000"	"Malignant neoplasm of scapula"	49054
+"B304100"	"Malignant neoplasm of acromion"	105797
+"B304200"	"Malignant neoplasm of humerus"	61741
+"B304300"	"Malignant neoplasm of radius"	92371
+"B304400"	"Malignant neoplasm of ulna"	64848
+"B304z00"	"Malig neop of scapula and long bones of upper arm NOS"	65880
+"B305.00"	"Malignant neoplasm of hand bones"	73530
+"B305.11"	"Malignant neoplasm of carpal bones"	106069
+"B305.12"	"Malignant neoplasm of metacarpal bones"	72464
+"B305000"	"Malignant neoplasm of carpal bone - scaphoid"	57988
+"B305100"	"Malignant neoplasm of carpal bone - lunate"	69104
+"B305800"	"Malignant neoplasm of first metacarpal bone"	110993
+"B305A00"	"Malignant neoplasm of third metacarpal bone"	108638
+"B305C00"	"Malignant neoplasm of fifth metacarpal bone"	94427
+"B305D00"	"Malignant neoplasm of phalanges of hand"	86812
+"B305z00"	"Malignant neoplasm of hand bones NOS"	73556
+"B306.00"	"Malignant neoplasm of pelvic bones, sacrum and coccyx"	54631
+"B306000"	"Malignant neoplasm of ilium"	44609
+"B306100"	"Malignant neoplasm of ischium"	59223
+"B306200"	"Malignant neoplasm of pubis"	51921
+"B306300"	"Malignant neoplasm of sacral vertebra"	40966
+"B306400"	"Malignant neoplasm of coccygeal vertebra"	66908
+"B306500"	"Malignant sacral teratoma"	50152
+"B306z00"	"Malignant neoplasm of pelvis, sacrum or coccyx NOS"	38938
+"B307.00"	"Malignant neoplasm of long bones of leg"	68055
+"B307000"	"Malignant neoplasm of femur"	56513
+"B307100"	"Malignant neoplasm of fibula"	50402
+"B307200"	"Malignant neoplasm of tibia"	40814
+"B307z00"	"Malignant neoplasm of long bones of leg NOS"	62630
+"B308.00"	"Malignant neoplasm of short bones of leg"	105475
+"B308100"	"Malignant neoplasm of talus"	95182
+"B308200"	"Malignant neoplasm of calcaneum"	72212
+"B308300"	"Malignant neoplasm of medial cuneiform"	34878
+"B308800"	"Malignant neoplasm of first metatarsal bone"	69927
+"B308B00"	"Malignant neoplasm of fourth metatarsal bone"	92382
+"B308D00"	"Malignant neoplasm of phalanges of foot"	58949
+"B308z00"	"Malignant neoplasm of short bones of leg NOS"	103354
+"B30W.00"	"Malignant neoplasm/overlap lesion/bone+articulr cartilage"	67451
+"B30X.00"	"Malignant neoplasm/bones+articular cartilage/limb,unspfd"	43614
+"B30z.00"	"Malignant neoplasm of bone and articular cartilage NOS"	16075
+"B30z000"	"Osteosarcoma"	19437
+"B600.00"	"Reticulosarcoma"	1481
+"B600000"	"Reticulosarcoma of unspecified site"	60242
+"BBV..11"	"[M]Juxtacortical osteogenic sarcoma"	99665
+"BBV..13"	"[M]Periosteal osteogenic sarcoma"	105275
+"BBV1.00"	"[M]Osteosarcoma NOS"	8660
+"BBV1.11"	"[M]Osteoblastic sarcoma"	49862
+"BBV1.12"	"[M]Osteochondrosarcoma"	59310
+"BBV1.13"	"[M]Osteogenic sarcoma NOS"	5052
+"BBV2.00"	"[M]Chondroblastic osteosarcoma"	24539
+"BBV3.00"	"[M]Fibroblastic osteosarcoma"	21447
+"BBV4.00"	"[M]Telangiectatic osteosarcoma"	22561
+"BBV5.00"	"[M]Osteosarcoma in Paget's disease of bone"	60631
+"BBV8.00"	"[M]Osteoblastoma"	62492
+"BBVA.00"	"[M] Small cell osteosarcoma"	29337
+"BBVz.00"	"[M]Osteoma or osteosarcoma NOS"	48271
+"BBX..00"	"[M]Giant cell tumours"	22330
+"BBX0.00"	"[M]Giant cell tumour of bone NOS"	38477
+"BBX1.00"	"[M]Giant cell tumour of bone, malignant"	68956
+"BBX1.11"	"[M]Giant cell bone sarcoma"	50859
+"BBX1.12"	"[M]Osteoclastoma, malignant"	31673
+"BBXz.00"	"[M]Giant cell tumour NOS"	37830
+"BBY..00"	"[M]Miscellaneous bone tumours"	9102
+"BBY0.00"	"[M]Ewing's sarcoma"	4473
+"BBY0.11"	"[M]Endothelial bone sarcoma"	49023
+"BBYz.00"	"[M]Miscellaneous bone tumour NOS"	66502
+"BBZ2.11"	"[M]Intraosseous carcinoma"	93175
+"BBZG.11"	"[M]Adamantinoma, malignant"	100267
+"B32..00"	"Malignant melanoma of skin"	865
+"B320.00"	"Malignant melanoma of lip"	70637
+"B321.00"	"Malignant melanoma of eyelid including canthus"	54632
+"B322.00"	"Malignant melanoma of ear and external auricular canal"	57260
+"B322000"	"Malignant melanoma of auricle (ear)"	59061
+"B322100"	"Malignant melanoma of external auditory meatus"	102145
+"B322z00"	"Malignant melanoma of ear and external auricular canal NOS"	73744
+"B323.00"	"Malignant melanoma of other and unspecified parts of face"	47252
+"B323000"	"Malignant melanoma of external surface of cheek"	41278
+"B323100"	"Malignant melanoma of chin"	71136
+"B323200"	"Malignant melanoma of eyebrow"	47094
+"B323300"	"Malignant melanoma of forehead"	68133
+"B323400"	"Malignant melanoma of external surface of nose"	45139
+"B323500"	"Malignant melanoma of temple"	58958
+"B323z00"	"Malignant melanoma of face NOS"	67806
+"B324.00"	"Malignant melanoma of scalp and neck"	65625
+"B324000"	"Malignant melanoma of scalp"	55881
+"B324100"	"Malignant melanoma of neck"	45306
+"B324z00"	"Malignant melanoma of scalp and neck NOS"	99257
+"B325.00"	"Malignant melanoma of trunk (excluding scrotum)"	38689
+"B325000"	"Malignant melanoma of axilla"	49814
+"B325100"	"Malignant melanoma of breast"	32768
+"B325200"	"Malignant melanoma of buttock"	53629
+"B325300"	"Malignant melanoma of groin"	34259
+"B325400"	"Malignant melanoma of perianal skin"	109002
+"B325500"	"Malignant melanoma of perineum"	95629
+"B325600"	"Malignant melanoma of umbilicus"	43715
+"B325700"	"Malignant melanoma of back"	43463
+"B325800"	"Malignant melanoma of chest wall"	51209
+"B325z00"	"Malignant melanoma of trunk, excluding scrotum, NOS"	45760
+"B326.00"	"Malignant melanoma of upper limb and shoulder"	65164
+"B326000"	"Malignant melanoma of shoulder"	50505
+"B326100"	"Malignant melanoma of upper arm"	54685
+"B326200"	"Malignant melanoma of fore-arm"	45755
+"B326300"	"Malignant melanoma of hand"	62475
+"B326400"	"Malignant melanoma of finger"	25602
+"B326500"	"Malignant melanoma of thumb"	63997
+"B326z00"	"Malignant melanoma of upper limb or shoulder NOS"	55292
+"B327.00"	"Malignant melanoma of lower limb and hip"	46255
+"B327000"	"Malignant melanoma of hip"	73536
+"B327100"	"Malignant melanoma of thigh"	51873
+"B327200"	"Malignant melanoma of knee"	54305
+"B327300"	"Malignant melanoma of popliteal fossa area"	39878
+"B327400"	"Malignant melanoma of lower leg"	37872
+"B327500"	"Malignant melanoma of ankle"	42714
+"B327600"	"Malignant melanoma of heel"	61246
+"B327700"	"Malignant melanoma of foot"	41490
+"B327800"	"Malignant melanoma of toe"	36899
+"B327900"	"Malignant melanoma of great toe"	53369
+"B327z00"	"Malignant melanoma of lower limb or hip NOS"	64327
+"B328.00"	"Malignant melanoma stage IA"	111079
+"B329.00"	"Malignant melanoma stage IB"	109827
+"B32A.00"	"Malignant melanoma stage IIA"	110139
+"B32B.00"	"Malignant melanoma stage IIB"	110180
+"B32F.00"	"Malignant melanoma stage IIIC"	110961
+"B32G.00"	"Malignant melanoma stage IV M1a"	109745
+"B32H.00"	"Malignant melanoma stage IV M1b"	110483
+"B32J.00"	"Malignant melanoma stage IV M1c"	111162
+"B32y.00"	"Malignant melanoma of other specified skin site"	42153
+"B32y000"	"Overlapping malignant melanoma of skin"	96585
+"B32z.00"	"Malignant melanoma of skin NOS"	28556
+"B226.00"	"Mesothelioma"	7484
+"B232.00"	"Mesothelioma of pleura"	9600
+"B23z.00"	"Malignant neoplasm of pleura NOS"	34742
+"B31..00"	"Malignant neoplasm of connective and other soft tissue"	34451
+"B310.00"	"Malig neop of connective and soft tissue head, face and neck"	43475
+"B310000"	"Malignant neoplasm of soft tissue of head"	59382
+"B310100"	"Malignant neoplasm of soft tissue of face"	40014
+"B310200"	"Malignant neoplasm of soft tissue of neck"	48517
+"B310300"	"Malignant neoplasm of cartilage of ear"	60035
+"B310400"	"Malignant neoplasm of tarsus of eyelid"	49463
+"B310500"	"Malignant neoplasm soft tissues of cervical spine"	108389
+"B310z00"	"Malig neop connective and soft tissue head, face, neck NOS"	73718
+"B311.00"	"Malig neop connective and soft tissue upper limb/shoulder"	53989
+"B311000"	"Malignant neoplasm of connective and soft tissue of shoulder"	50222
+"B311100"	"Malignant neoplasm of connective and soft tissue, upper arm"	64345
+"B311200"	"Malignant neoplasm of connective and soft tissue of fore-arm"	57482
+"B311300"	"Malignant neoplasm of connective and soft tissue of hand"	19321
+"B311400"	"Malignant neoplasm of connective and soft tissue of finger"	91586
+"B311500"	"Malignant neoplasm of connective and soft tissue of thumb"	63988
+"B311z00"	"Malig neop connective soft tissue upper limb/shoulder NOS"	104913
+"B312.00"	"Malig neop of connective and soft tissue of hip and leg"	66088
+"B312000"	"Malignant neoplasm of connective and soft tissue of hip"	102949
+"B312100"	"Malig neop of connective and soft tissue thigh and upper leg"	44805
+"B312200"	"Malig neop connective and soft tissue of popliteal space"	54965
+"B312300"	"Malig neop of connective and soft tissue of lower leg"	30542
+"B312400"	"Malignant neoplasm of connective and soft tissue of foot"	54222
+"B312500"	"Malignant neoplasm of connective and soft tissue of toe"	99572
+"B312z00"	"Malig neop connective and soft tissue hip and leg NOS"	90546
+"B313.00"	"Malignant neoplasm of connective and soft tissue of thorax"	22290
+"B313000"	"Malignant neoplasm of connective and soft tissue of axilla"	29160
+"B313100"	"Malignant neoplasm of diaphragm"	54186
+"B313200"	"Malignant neoplasm of great vessels"	72522
+"B313300"	"Malig neoplasm of connective and soft tissues of thor spine"	104139
+"B313z00"	"Malig neop of connective and soft tissue of thorax NOS"	98408
+"B314.00"	"Malignant neoplasm of connective and soft tissue of abdomen"	45071
+"B314000"	"Malig neop of connective and soft tissue of abdominal wall"	66488
+"B314100"	"Malig neoplasm of connective and soft tissues of lumb spine"	94272
+"B314z00"	"Malig neop of connective and soft tissue of abdomen NOS"	60247
+"B315.00"	"Malignant neoplasm of connective and soft tissue of pelvis"	51965
+"B315000"	"Malignant neoplasm of connective and soft tissue of buttock"	70463
+"B315100"	"Malig neop of connective and soft tissue of inguinal region"	67324
+"B315200"	"Malignant neoplasm of connective and soft tissue of perineum"	59152
+"B315300"	"Malig neopl of connective and soft tissue - sacrum or coccyx"	110192
+"B315z00"	"Malig neop of connective and soft tissue of pelvis NOS"	58836
+"B316.00"	"Malig neop of connective and soft tissue trunk unspecified"	57471
+"B31y.00"	"Malig neop connective and soft tissue other specified site"	65233
+"B31z.00"	"Malignant neoplasm of connective and soft tissue, site NOS"	15182
+"B31z000"	"Kaposi's sarcoma of soft tissue"	104128
+"B524000"	"Malignant neoplasm of peripheral nerves of head, face & neck"	63568
+"B524100"	"Malignant neoplasm of peripheral nerve,upp limb,incl should"	61716
+"B524200"	"Malignant neoplasm of peripheral nerve of low limb, incl hip"	89258
+"B524300"	"Malignant neoplasm of peripheral nerve of thorax"	63695
+"B524400"	"Malignant neoplasm of peripheral nerve of abdomen"	86046
+"B524500"	"Malignant neoplasm of peripheral nerve of pelvis"	73988
+"B62D.00"	"Histiocytic sarcoma"	105083
+"B653.00"	"Myeloid sarcoma"	70724
+"BBT1.11"	"[M]Angiosarcoma"	22650
+"BBTA.00"	"[M]Kaposi's sarcoma"	27439
+"BBTD200"	"[M]Haemangiopericytoma, malignant"	105296
+"BBV9.00"	"[M]Myxoid chondrosarcoma"	4118
+"BBW..00"	"[M]Chondromatous neoplasms"	36503
+"BBW4.00"	"[M]Chondrosarcoma NOS"	7941
+"BBW4.11"	"[M]Fibrochondrosarcoma"	68220
+"BBW6.00"	"[M]Juxtacortical chondrosarcoma"	63659
+"BBW7.00"	"[M]Chondroblastoma NOS"	68524
+"BBW7.11"	"[M]Chondromatous giant cell tumour"	32442
+"BBW8.00"	"[M]Chondroblastoma, malignant"	98559
+"BBW9.00"	"[M]Mesenchymal chondrosarcoma"	52684
+"BBWz.00"	"[M]Chondromatous neoplasm NOS"	33973
+"BBrA300"	"[M]Myeloid sarcoma"	96893
+"BBrA312"	"[M]Granulocytic sarcoma"	98009
+"Byu5000"	"[X]Mesothelioma of other sites"	67034
+"Byu5011"	"[X]Mesothelioma of lung"	21715
+"Byu5100"	"[X]Mesothelioma, unspecified"	30526
+"B34..00"	"Malignant neoplasm of female breast"	3968
+"B34..11"	"Ca female breast"	348
+"B340.00"	"Malignant neoplasm of nipple and areola of female breast"	26853
+"B340000"	"Malignant neoplasm of nipple of female breast"	23380
+"B340100"	"Malignant neoplasm of areola of female breast"	64686
+"B340z00"	"Malignant neoplasm of nipple or areola of female breast NOS"	59831
+"B341.00"	"Malignant neoplasm of central part of female breast"	31546
+"B342.00"	"Malignant neoplasm of upper-inner quadrant of female breast"	29826
+"B343.00"	"Malignant neoplasm of lower-inner quadrant of female breast"	45222
+"B344.00"	"Malignant neoplasm of upper-outer quadrant of female breast"	23399
+"B345.00"	"Malignant neoplasm of lower-outer quadrant of female breast"	42070
+"B346.00"	"Malignant neoplasm of axillary tail of female breast"	20685
+"B347.00"	"Malignant neoplasm, overlapping lesion of breast"	49148
+"B34y.00"	"Malignant neoplasm of other site of female breast"	56715
+"B34y000"	"Malignant neoplasm of ectopic site of female breast"	95057
+"B34yz00"	"Malignant neoplasm of other site of female breast NOS"	38475
+"B34z.00"	"Malignant neoplasm of female breast NOS"	9470
+"B35..00"	"Malignant neoplasm of male breast"	19423
+"B350.00"	"Malignant neoplasm of nipple and areola of male breast"	54494
+"B350000"	"Malignant neoplasm of nipple of male breast"	68480
+"B350100"	"Malignant neoplasm of areola of male breast"	67884
+"B35z.00"	"Malignant neoplasm of other site of male breast"	54202
+"B35z000"	"Malignant neoplasm of ectopic site of male breast"	95323
+"B35zz00"	"Malignant neoplasm of male breast NOS"	48809
+"Byu6.00"	"[X]Malignant neoplasm of breast"	12499
+"B450.00"	"Malignant neoplasm of vagina"	37328
+"B450100"	"Malignant neoplasm of vaginal vault"	10698
+"B450z00"	"Malignant neoplasm of vagina NOS"	60772
+"B451.00"	"Malignant neoplasm of labia majora"	43761
+"B451000"	"Malignant neoplasm of greater vestibular (Bartholin's) gland"	47899
+"B451z00"	"Malignant neoplasm of labia majora NOS"	59362
+"B452.00"	"Malignant neoplasm of labia minora"	58061
+"B453.00"	"Malignant neoplasm of clitoris"	53910
+"B454.00"	"Malignant neoplasm of vulva unspecified"	4554
+"B454.11"	"Primary vulval cancer"	11991
+"B410.00"	"Malignant neoplasm of endocervix"	48820
+"B410000"	"Malignant neoplasm of endocervical canal"	57235
+"B410100"	"Malignant neoplasm of endocervical gland"	53103
+"B410z00"	"Malignant neoplasm of endocervix NOS"	50285
+"B411.00"	"Malignant neoplasm of exocervix"	50297
+"B412.00"	"Malignant neoplasm, overlapping lesion of cervix uteri"	58094
+"B41y.00"	"Malignant neoplasm of other site of cervix"	32955
+"B41y000"	"Malignant neoplasm of cervical stump"	95505
+"B41y100"	"Malignant neoplasm of squamocolumnar junction of cervix"	57719
+"B41yz00"	"Malignant neoplasm of other site of cervix NOS"	43435
+"B41z.00"	"Malignant neoplasm of cervix uteri NOS"	28311
+"B40..00"	"Malignant neoplasm of uterus, part unspecified"	2744
+"B41..00"	"Malignant neoplasm of cervix uteri"	2747
+"B41..11"	"Cervical carcinoma (uterus)"	3230
+"B43..00"	"Malignant neoplasm of body of uterus"	7046
+"B430.00"	"Malignant neoplasm of corpus uteri, excluding isthmus"	3213
+"B430000"	"Malignant neoplasm of cornu of corpus uteri"	72723
+"B430100"	"Malignant neoplasm of fundus of corpus uteri"	68155
+"B430200"	"Malignant neoplasm of endometrium of corpus uteri"	2890
+"B430211"	"Malignant neoplasm of endometrium"	49400
+"B430300"	"Malignant neoplasm of myometrium of corpus uteri"	45793
+"B430z00"	"Malignant neoplasm of corpus uteri NOS"	45490
+"B431.00"	"Malignant neoplasm of isthmus of uterine body"	43940
+"B431000"	"Malignant neoplasm of lower uterine segment"	59097
+"B431z00"	"Malignant neoplasm of isthmus of uterine body NOS"	70729
+"B43y.00"	"Malignant neoplasm of other site of uterine body"	31608
+"B43z.00"	"Malignant neoplasm of body of uterus NOS"	33617
+"B441.00"	"Malignant neoplasm of fallopian tube"	49828
+"B44z.00"	"Malignant neoplasm of uterine adnexa NOS"	65106
+"Byu7000"	"[X]Malignant neoplasm of uterine adnexa, unspecified"	64497
+"B440.00"	"Malignant neoplasm of ovary"	7805
+"B440.11"	"Cancer of ovary"	1986
+"B420.00"	"Choriocarcinoma"	28003
+"B48..00"	"Malignant neoplasm of penis and other male genital organs"	3541
+"B480.00"	"Malignant neoplasm of prepuce (foreskin)"	50681
+"B481.00"	"Malignant neoplasm of glans penis"	17841
+"B482.00"	"Malignant neoplasm of body of penis"	48743
+"B483.00"	"Malignant neoplasm of penis, part unspecified"	43392
+"B46..00"	"Malignant neoplasm of prostate"	780
+"B47..00"	"Malignant neoplasm of testis"	15148
+"B470.00"	"Malignant neoplasm of undescended testis"	64602
+"B470200"	"Seminoma of undescended testis"	7740
+"B470300"	"Teratoma of undescended testis"	36325
+"B470z00"	"Malignant neoplasm of undescended testis NOS"	96429
+"B471.00"	"Malignant neoplasm of descended testis"	19475
+"B471000"	"Seminoma of descended testis"	21786
+"B471100"	"Teratoma of descended testis"	9476
+"B471z00"	"Malignant neoplasm of descended testis NOS"	91509
+"B47z.00"	"Malignant neoplasm of testis NOS"	38510
+"B47z.11"	"Seminoma of testis"	2961
+"B47z.12"	"Teratoma of testis"	15989
+"B484.00"	"Malignant neoplasm of epididymis"	72127
+"B485.00"	"Malignant neoplasm of spermatic cord"	63331
+"B48y100"	"Malignant neoplasm of tunica vaginalis"	47668
+"B4A..00"	"Malig neop of kidney and other unspecified urinary organs"	13559
+"B4A..11"	"Renal malignant neoplasm"	18712
+"B4A0.00"	"Malignant neoplasm of kidney parenchyma"	1599
+"B4A0000"	"Hypernephroma"	7978
+"B4A1.00"	"Malignant neoplasm of renal pelvis"	12389
+"B4A1000"	"Malignant neoplasm of renal calyces"	27540
+"B4A1100"	"Malignant neoplasm of ureteropelvic junction"	101608
+"B4A1z00"	"Malignant neoplasm of renal pelvis NOS"	54184
+"B4A2.00"	"Malignant neoplasm of ureter"	15223
+"B4A3.00"	"Malignant neoplasm of urethra"	15644
+"B4Az.00"	"Malignant neoplasm of kidney or urinary organs NOS"	29462
+"B49..00"	"Malignant neoplasm of urinary bladder"	779
+"B490.00"	"Malignant neoplasm of trigone of urinary bladder"	38862
+"B491.00"	"Malignant neoplasm of dome of urinary bladder"	44996
+"B492.00"	"Malignant neoplasm of lateral wall of urinary bladder"	35963
+"B493.00"	"Malignant neoplasm of anterior wall of urinary bladder"	19162
+"B494.00"	"Malignant neoplasm of posterior wall of urinary bladder"	42012
+"B495.00"	"Malignant neoplasm of bladder neck"	41571
+"B496.00"	"Malignant neoplasm of ureteric orifice"	28241
+"B497.00"	"Malignant neoplasm of urachus"	42023
+"B49y.00"	"Malignant neoplasm of other site of urinary bladder"	36949
+"B49z.00"	"Malignant neoplasm of urinary bladder NOS"	31102
+"B50..00"	"Malignant neoplasm of eye"	20160
+"B500.00"	"Malig neop eyeball excl conjunctiva, cornea, retina, choroid"	98813
+"B500000"	"Malignant neoplasm of ciliary body"	59041
+"B500100"	"Malignant neoplasm of iris"	59381
+"B500200"	"Malignant neoplasm of crystalline lens"	106569
+"B500z00"	"Malignant neoplasm of eyeball NOS"	56718
+"B501.00"	"Malignant neoplasm of orbit"	45667
+"B501000"	"Malignant neoplasm of connective tissue of orbit"	86996
+"B501z00"	"Malignant neoplasm of orbit NOS"	63104
+"B502.00"	"Malignant neoplasm of lacrimal gland"	64817
+"B503.00"	"Malignant neoplasm of conjunctiva"	63657
+"B504.00"	"Malignant neoplasm of cornea"	73992
+"B505.00"	"Malignant neoplasm of retina"	28069
+"B506.00"	"Malignant neoplasm of choroid"	15991
+"B507.00"	"Malignant neoplasm of lacrimal duct"	71584
+"B507000"	"Malignant neoplasm of lacrimal sac"	101805
+"B507100"	"Malignant neoplasm of nasolacrimal duct"	65357
+"B508.00"	"Malignant neoplasm, overlapping lesion of eye and adnexa"	45922
+"B509.00"	"Malignant melanoma of eye"	108363
+"B50y.00"	"Malignant neoplasm of other specified site of eye"	40437
+"B50z.00"	"Malignant neoplasm of eye NOS"	54956
+"B521.00"	"Malignant neoplasm of cerebral meninges"	28919
+"B521000"	"Malignant neoplasm of cerebral dura mater"	110766
+"B521200"	"Malignant neoplasm of cerebral pia mater"	109473
+"B521z00"	"Malignant neoplasm of cerebral meninges NOS"	70104
+"B523.00"	"Malignant neoplasm of spinal meninges"	49714
+"B523z00"	"Malignant neoplasm of spinal meninges NOS"	67211
+"B52X.00"	"Malignant neoplasm of meninges, unspecified"	49875
+"BBbG.12"	"[M]Piloid astrocytoma"	98800
+"ByuA200"	"[X]Malignant neoplasm of meninges, unspecified"	63925
+"B51..00"	"Malignant neoplasm of brain"	18617
+"B51..11"	"Cerebral tumour - malignant"	10851
+"B510.00"	"Malignant neoplasm cerebrum (excluding lobes and ventricles)"	15711
+"B510000"	"Malignant neoplasm of basal ganglia"	48073
+"B510100"	"Malignant neoplasm of cerebral cortex"	61399
+"B510300"	"Malignant neoplasm of globus pallidus"	99913
+"B510400"	"Malignant neoplasm of hypothalamus"	70942
+"B510500"	"Malignant neoplasm of thalamus"	62126
+"B510z00"	"Malignant neoplasm of cerebrum NOS"	54133
+"B511.00"	"Malignant neoplasm of frontal lobe"	42426
+"B512.00"	"Malignant neoplasm of temporal lobe"	46792
+"B512000"	"Malignant neoplasm of hippocampus"	67236
+"B512z00"	"Malignant neoplasm of temporal lobe NOS"	47556
+"B513.00"	"Malignant neoplasm of parietal lobe"	19226
+"B514.00"	"Malignant neoplasm of occipital lobe"	39088
+"B515.00"	"Malignant neoplasm of cerebral ventricles"	52511
+"B515000"	"Malignant neoplasm of choroid plexus"	46789
+"B516.00"	"Malignant neoplasm of cerebellum"	45154
+"B517.00"	"Malignant neoplasm of brain stem"	44089
+"B517000"	"Malignant neoplasm of cerebral peduncle"	64557
+"B517100"	"Malignant neoplasm of medulla oblongata"	49132
+"B517200"	"Malignant neoplasm of midbrain"	93537
+"B517300"	"Malignant neoplasm of pons"	91240
+"B517z00"	"Malignant neoplasm of brain stem NOS"	68641
+"B51y.00"	"Malignant neoplasm of other parts of brain"	71139
+"B51y000"	"Malignant neoplasm of corpus callosum"	59170
+"B51yz00"	"Malignant neoplasm of other part of brain NOS"	100733
+"B51z.00"	"Malignant neoplasm of brain NOS"	41520
+"B52..00"	"Malig neop of other and unspecified parts of nervous system"	65458
+"B542100"	"Malignant neoplasm of craniopharyngeal duct"	39899
+"B542z00"	"Malig neop pituitary gland or craniopharyngeal duct NOS"	59718
+"B543.00"	"Malignant neoplasm of pineal gland"	42460
+"B544.00"	"Malignant neoplasm of carotid body"	57047
+"B545.00"	"Malignant neoplasm of aortic body and other paraganglia"	50035
+"B545000"	"Malignant neoplasm of glomus jugulare"	51795
+"B546.00"	"Neuroblastoma"	100083
+"BBTF.00"	"[M]Haemangioblastoma"	1969
+"BBTF.11"	"[M]Angioblastoma"	41349
+"BBb3.11"	"[M]Subependymal astrocytoma NOS"	90487
+"BBb3.12"	"[M]Subependymal astrocytoma NOS"	28344
+"BBb3.13"	"[M]Subependymoma"	50834
+"BBb4.00"	"[M]Subependymal giant cell astrocytoma"	49168
+"BBb7.00"	"[M]Ependymoma NOS"	20084
+"BBb8.00"	"[M]Ependymoma, anaplastic type"	52751
+"BBb9.00"	"[M]Papillary ependymoma"	70151
+"BBbA.00"	"[M]Myxopapillary ependymoma"	43114
+"BBbB.00"	"[M]Astrocytoma NOS"	8547
+"BBbC.00"	"[M]Astrocytoma, anaplastic type"	8328
+"BBbE.00"	"[M]Gemistocytic astrocytoma"	45531
+"BBbF.00"	"[M]Fibrillary astrocytoma"	27846
+"BBbG.00"	"[M]Pilocytic astrocytoma"	30273
+"BBbG.11"	"[M]Juvenile astrocytoma"	61783
+"BBbL.00"	"[M]Glioblastoma NOS"	23083
+"BBbL.11"	"[M]Glioblastoma multiforme"	9575
+"BBbM.00"	"[M]Giant cell glioblastoma"	66064
+"BBbQ.00"	"[M]Oligodendroglioma NOS"	27744
+"BBbR.00"	"[M]Oligodendroglioma, anaplastic type"	49186
+"BBbS.00"	"[M]Oligodendroblastoma"	46404
+"BBbT.00"	"[M]Medulloblastoma NOS"	34763
+"BBbU.00"	"[M]Desmoplastic medulloblastoma"	65952
+"BBbZ.00"	"[M]Pleomorphic xanthoastrocytoma"	67587
+"BBba.00"	"[M]Primitive neuroectodermal tumour"	41695
+"BBc7.11"	"[M]Neuroastrocytoma"	68479
+"B51y200"	"Malignant neoplasm, overlapping lesion of brain"	65241
+"B520.00"	"Malignant neoplasm of cranial nerves"	99621
+"B520000"	"Malignant neoplasm of olfactory bulb"	64971
+"B520100"	"Malignant neoplasm of optic nerve"	70126
+"B520200"	"Malignant neoplasm of acoustic nerve"	65599
+"B520z00"	"Malignant neoplasm of cranial nerves NOS"	101086
+"B522.00"	"Malignant neoplasm of spinal cord"	51115
+"B525.00"	"Malignant neoplasm of cauda equina"	9622
+"B53..00"	"Malignant neoplasm of thyroid gland"	5637
+"B540.00"	"Malignant neoplasm of adrenal gland"	28148
+"B540.11"	"Phaeochromocytoma"	18231
+"B540000"	"Malignant neoplasm of adrenal cortex"	61390
+"B540100"	"Malignant neoplasm of adrenal medulla"	94220
+"B540z00"	"Malignant neoplasm of adrenal gland NOS"	70824
+"B541.00"	"Malignant neoplasm of parathyroid gland"	4218
+"B542.00"	"Malignant neoplasm pituitary gland and craniopharyngeal duct"	59823
+"B542000"	"Malignant neoplasm of pituitary gland"	8550
+"1D18.00"	"Pain from metastases"	8600
+"B153.00"	"Secondary malignant neoplasm of liver"	36147
+"B56..00"	"Secondary and unspecified malignant neoplasm of lymph nodes"	9618
+"B56..11"	"Lymph node metastases"	7830
+"B560.00"	"Secondary and unspec malig neop lymph nodes head/face/neck"	49214
+"B560000"	"Secondary and unspec malig neop of superficial parotid LN"	64918
+"B560100"	"Secondary and unspec malignant neoplasm mastoid lymph nodes"	66775
+"B560200"	"Secondary and unspec malig neop superficial cervical LN"	33395
+"B560300"	"Secondary and unspec malignant neoplasm occipital lymph node"	65253
+"B560400"	"Secondary and unspec malig neop deep parotid lymph nodes"	92703
+"B560500"	"Secondary and unspec malig neop submandibular lymph nodes"	39433
+"B560600"	"Secondary and unspec malig neop of facial lymph nodes"	28059
+"B560700"	"Secondary and unspec malig neop submental lymph nodes"	38343
+"B560800"	"Secondary and unspec malig neop anterior cervical LN"	44627
+"B560900"	"Secondary and unspec malig neop deep cervical LN"	68611
+"B561.00"	"Secondary and unspec malig neop intrathoracic lymph nodes"	64116
+"B561000"	"Secondary and unspec malig neop internal mammary lymph nodes"	37919
+"B561100"	"Secondary and unspec malig neop intercostal lymph nodes"	105953
+"B561200"	"Secondary and unspec malig neop diaphragmatic lymph nodes"	95378
+"B561300"	"Secondary and unspec malig neop ant mediastinal lymph nodes"	25366
+"B561400"	"Secondary and unspec malig neop post mediastinal lymph nodes"	55463
+"B561500"	"Secondary and unspec malig neop paratracheal lymph nodes"	58692
+"B561600"	"Secondary and unspec malig neop superfic tracheobronchial LN"	67797
+"B561700"	"Secondary and unspec malig neop inferior tracheobronchial LN"	69392
+"B561800"	"Secondary and unspec malig neop bronchopulmonary lymph nodes"	62124
+"B561900"	"Secondary and unspec malig neop pulmonary lymph nodes"	52190
+"B561z00"	"Secondary and unspec malig neop intrathoracic LN NOS"	93716
+"B562.00"	"Secondary and unspec malig neop intra-abdominal lymph nodes"	52736
+"B562000"	"Secondary and unspec malig neop coeliac lymph nodes"	41691
+"B562100"	"Secondary and unspec malig neop superficial mesenteric LN"	72713
+"B562200"	"Secondary and unspec malig neop inferior mesenteric LN"	61677
+"B562300"	"Secondary and unspec malig neop common iliac lymph nodes"	18658
+"B562400"	"Secondary and unspec malig neop external iliac lymph nodes"	69132
+"B562z00"	"Secondary and unspec malig neop intra-abdominal LN NOS"	44931
+"B563.00"	"Secondary and unspec malig neop axilla and upper limb LN"	50199
+"B563000"	"Secondary and unspec malig neop axillary lymph nodes"	37540
+"B563100"	"Secondary and unspec malig neop supratrochlear lymph nodes"	98626
+"B563200"	"Secondary and unspec malig neop infraclavicular lymph nodes"	50904
+"B563300"	"Secondary and unspec malig neop pectoral lymph nodes"	46409
+"B563z00"	"Secondary and unspec malig neop axilla and upper limb LN NOS"	73538
+"B564.00"	"Secondary and unspec malig neop inguinal and lower limb LN"	63915
+"B564000"	"Secondary and unspec malig neop superficial inguinal LN"	54278
+"B564100"	"Secondary and unspec malig neop deep inguinal lymph nodes"	61289
+"B564z00"	"Secondary and unspec malig neop of inguinal and leg LN NOS"	70747
+"B565.00"	"Secondary and unspec malig neop intrapelvic lymph nodes"	6701
+"B565000"	"Secondary and unspec malig neop internal iliac lymph nodes"	84368
+"B565200"	"Secondary and unspec malig neop circumflex iliac LN"	101662
+"B565300"	"Secondary and unspec malig neop sacral lymph nodes"	47366
+"B565z00"	"Secondary and unspec malig neop intrapelvic LN NOS"	72803
+"B56y.00"	"Secondary and unspec malig neop lymph nodes multiple sites"	20159
+"B56z.00"	"Secondary and unspec malig neop lymph nodes NOS"	15507
+"B57..00"	"Secondary malig neop of respiratory and digestive systems"	35053
+"B57..11"	"Metastases of respiratory and/or digestive systems"	6471
+"B570.00"	"Secondary malignant neoplasm of lung"	4137
+"B571.00"	"Secondary malignant neoplasm of mediastinum"	51551
+"B572.00"	"Secondary malignant neoplasm of pleura"	16213
+"B573.00"	"Secondary malignant neoplasm of other respiratory organs"	62584
+"B574.00"	"Secondary malignant neoplasm of small intestine and duodenum"	64680
+"B574000"	"Secondary malignant neoplasm of duodenum"	55946
+"B574100"	"Secondary malignant neoplasm of jejunum"	110433
+"B574200"	"Secondary malignant neoplasm of ileum"	99511
+"B574z00"	"Secondary malig neop of small intestine or duodenum NOS"	70026
+"B575.00"	"Secondary malignant neoplasm of large intestine and rectum"	44529
+"B575000"	"Secondary malignant neoplasm of colon"	28727
+"B575100"	"Secondary malignant neoplasm of rectum"	62909
+"B575z00"	"Secondary malig neop of large intestine or rectum NOS"	36200
+"B576.00"	"Secondary malig neop of retroperitoneum and peritoneum"	67396
+"B576000"	"Secondary malignant neoplasm of retroperitoneum"	35364
+"B576100"	"Secondary malignant neoplasm of peritoneum"	27391
+"B576z00"	"Secondary malig neop of retroperitoneum or peritoneum NOS"	97672
+"B577.00"	"Secondary malignant neoplasm of liver"	15103
+"B577.11"	"Liver metastases"	4403
+"B57y.00"	"Secondary malignant neoplasm of other digestive organ"	56345
+"B57z.00"	"Secondary malig neop of respiratory or digestive system NOS"	66083
+"B58..00"	"Secondary malignant neoplasm of other specified sites"	5842
+"B580.00"	"Secondary malignant neoplasm of kidney"	1952
+"B581.00"	"Secondary malignant neoplasm of other urinary organs"	73213
+"B581000"	"Secondary malignant neoplasm of ureter"	60134
+"B581100"	"Secondary malignant neoplasm of bladder"	22146
+"B581200"	"Secondary malignant neoplasm of urethra"	53528
+"B581z00"	"Secondary malignant neoplasm of other urinary organ NOS"	62828
+"B582.00"	"Secondary malignant neoplasm of skin"	19945
+"B582000"	"Secondary malignant neoplasm of skin of head"	43930
+"B582100"	"Secondary malignant neoplasm of skin of face"	100296
+"B582200"	"Secondary malignant neoplasm of skin of neck"	35999
+"B582300"	"Secondary malignant neoplasm of skin of trunk"	41144
+"B582400"	"Secondary malignant neoplasm of skin of shoulder and arm"	63896
+"B582500"	"Secondary malignant neoplasm of skin of hip and leg"	48828
+"B582600"	"Secondary malignant neoplasm of skin of breast"	9505
+"B582z00"	"Secondary malignant neoplasm of skin NOS"	55096
+"B583.00"	"Secondary malignant neoplasm of brain and spinal cord"	33843
+"B583000"	"Secondary malignant neoplasm of brain"	5198
+"B583100"	"Secondary malignant neoplasm of spinal cord"	38918
+"B583200"	"Cerebral metastasis"	5199
+"B583z00"	"Secondary malignant neoplasm of brain or spinal cord NOS"	59375
+"B584.00"	"Secondary malignant neoplasm of other part of nervous system"	54120
+"B585.00"	"Secondary malignant neoplasm of bone and bone marrow"	7654
+"B585000"	"Pathological fracture due to metastatic bone disease"	18676
+"B586.00"	"Secondary malignant neoplasm of ovary"	44615
+"B587.00"	"Secondary malignant neoplasm of adrenal gland"	36401
+"B58y.00"	"Secondary malignant neoplasm of other specified sites"	18616
+"B58y000"	"Secondary malignant neoplasm of breast"	16760
+"B58y100"	"Secondary malignant neoplasm of uterus"	55090
+"B58y200"	"Secondary malignant neoplasm of cervix uteri"	73616
+"B58y211"	"Secondary cancer of the cervix"	97832
+"B58y300"	"Secondary malignant neoplasm of vagina"	70736
+"B58y400"	"Secondary malignant neoplasm of vulva"	60335
+"B58y411"	"Secondary cancer of the vulva"	65490
+"B58y500"	"Secondary malignant neoplasm of prostate"	21590
+"B58y600"	"Secondary malignant neoplasm of testis"	34145
+"B58y700"	"Secondary malignant neoplasm of penis"	49145
+"B58y800"	"Secondary malignant neoplasm of epididymis and vas deferens"	104480
+"B58y900"	"Secondary malignant neoplasm of tongue"	45824
+"B58yz00"	"Secondary malignant neoplasm of other specified site NOS"	22524
+"B58z.00"	"Secondary malignant neoplasm of other specified site NOS"	16500
+"B590.00"	"Disseminated malignancy NOS"	13569
+"B590.11"	"Carcinomatosis"	6170
+"B594.00"	"Secondary malignant neoplasm of unknown site"	54679
+"BB03.00"	"[M]Neoplasm, metastatic"	3197
+"BB03.11"	"[M]Secondary neoplasm"	6985
+"BB04.00"	"[M]Neoplasm, malig, uncertain whether primary or metastatic"	22267
+"BB13.00"	"[M]Carcinoma, metastatic, NOS"	3152
+"BB2B.00"	"[M]Squamous cell carcinoma, metastatic NOS"	24293
+"BB53.00"	"[M]Adenocarcinoma, metastatic, NOS"	5455
+"BB85100"	"[M]Metastatic signet ring cell carcinoma"	54874
+"BBy2.00"	"[M]No microscopic confirmation tumour, clinically metastatic"	104699
+"ByuC.00"	"[X]Malignant neoplasm of ill-defined, secondary and unspeci"	35186
+"ByuC300"	"[X]Secondary malignant neoplasm/oth+unspc respiratory organs"	57481
+"ByuC400"	"[X]Secondary malignant neoplasm/oth+unspcfd digestive organs"	88022
+"ByuC700"	"[X]Secondary malignant neoplasm of other specified sites"	54253
+"C354A00"	"Metastatic calcification"	12204
+"G240000"	"Secondary malignant renovascular hypertension"	59383

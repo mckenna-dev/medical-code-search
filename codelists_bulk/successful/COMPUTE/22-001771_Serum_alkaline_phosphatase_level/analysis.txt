@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 8
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                               Term  SNOMED_CT_Concept_ID
+0  150381000006115      59751359   Serum alkaline phosphatase level      1000621000000104
+1   96961000006113       6682286   Total alkaline phosphatase level       997611000000101
+2       1484991014       2356703  Plasma alkaline phosphatase level      1013041000000106

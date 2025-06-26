@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 58
+Columns: 5
+Column names: ['MedCodeId', 'Term', 'Observations', 'SNOMED_CT_Concept_ID', 'READcode']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId                                                  Term  Observations  SNOMED_CT_Concept_ID READcode
+0        241                           Acute myocardial infarction           NaN                   NaN  G30..00
+1      13566                                        Attack - heart           NaN                   NaN  G30..11
+2      30421  Cardiac rupture following myocardial infarction (MI)           NaN                   NaN  G30..13

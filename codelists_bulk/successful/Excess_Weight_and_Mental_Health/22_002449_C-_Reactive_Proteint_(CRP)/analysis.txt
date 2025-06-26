@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 12
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tCRP']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                  \tMedCodeId\tObservations\tTerm\tCRP
+0   0\ta216602012\t20000000\tSerum CRP (C reactive protein) level\tCRP
+1  1\ta109711000006113\t700000\tTest request : C-reactive Protein\tCRP
+2           2\ta530891000006119\t40000\tC-reactive protein normal\tCRP

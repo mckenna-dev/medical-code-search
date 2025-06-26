@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 39
+Columns: 6
+Column names: ['Description', 'SNOMED_CT_Concept_ID', 'Codelist_Name', 'Med_Code_Id', 'Observations', 'Term']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                                Description SNOMED_CT_Concept_ID       Codelist_Name Med_Code_Id  Observations
+0    Postmenopausal osteoporosis (disorder)           b102447009  Osteoporosis codes   a54058015         10000
+1      Drug-induced osteoporosis (disorder)            b14651005  Osteoporosis codes   a24883018          3000
+2  Postoophorectomy osteoporosis (disorder)           b203433000  Osteoporosis codes  a312133010           100

@@ -1,0 +1,10 @@
+Original URL: https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Bleeding%20and%20negative%20outcomes/Gold_skinlesion_codelist_300323.txt
+Downloaded from: https://raw.githubusercontent.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/main/Bleeding%20and%20negative%20outcomes/Gold_skinlesion_codelist_300323.txt
+Codelist Name: Skin Lesion
+Project Title: Respiratory infection related cardiovascular disease
+ERAP Number: 21_000380
+Author: Joseph Lee
+Coding System: Gold
+Year Created: 2020
+Downloaded: 2025-06-25 13:28:44
+File Size: 71867 bytes

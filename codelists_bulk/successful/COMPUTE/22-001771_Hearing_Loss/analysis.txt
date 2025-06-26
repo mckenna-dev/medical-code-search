@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 101
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                        Term  SNOMED_CT_Concept_ID
+0         25788011       2000000                Hearing loss              15188001
+1  608101000006118        400000                    Deafness              15188001
+2        100850012        300000  Sensorineural hearing loss              60700002

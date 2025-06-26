@@ -1,1 +1,2 @@
-web: gunicorn medical_code_search.wsgi --log-file -
+web: gunicorn your_project_name.wsgi:application
+release: python manage.py migrate

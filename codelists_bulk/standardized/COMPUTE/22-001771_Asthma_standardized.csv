@@ -1,0 +1,125 @@
+med_code_id,term,snomed_ct_concept_id,observations
+13930321000006112,Thunderstorm asthma (disorder),829976001,1
+4020511000006119,Drug-induced asthma (disorder),93432008,2
+8031201000006110,Acute exacerbation of asthma co-occurrent with allergic rhinitis (disorder),99031000119107,1
+9315071000006117,Severe controlled persistent asthma (disorder),10675391000119101,1
+9315301000006113,Mild persistent asthma uncontrolled (finding),10676191000119106,10
+9315461000006115,Moderate persistent asthma uncontrolled (finding),10676711000119103,10
+9317311000006119,Chronic obstructive asthma co-occurrent with acute exacerbation of asthma (disorder),10692721000119102,4
+1948051000006112,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),10692761000119107,30000
+9317331000006113,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),10692761000119107,9
+9317341000006115,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),10692761000119107,80
+151338014,Life threatening acute exacerbation of allergic asthma (disorder),1086701000000102,2000
+12618341000006116,Severe asthma with fungal sensitisation (disorder),1103911000000103,2
+2685251000006117,Millers' asthma (disorder),11641008,1
+7970131000006117,Intermittent asthma uncontrolled (disorder),1741000119102,10
+301509017,Mixed asthma (disorder),195977004,10000
+350147016,Childhood asthma (disorder),233678006,70000
+350153016,Hay fever with asthma (disorder),233683003,10000
+350154010,Hay fever with asthma (disorder),233683003,20000
+817361000006114,Hay fever with asthma (disorder),233683003,50000
+8555681000006115,Steroid dependent asthma (disorder),2360001000004109,8
+11922851000006115,Acute asthma (disorder),304527002,1000
+655601000006113,Exercise-induced asthma (disorder),31387002,400000
+655611000006111,Exercise-induced asthma (disorder),31387002,20000
+3005811000006119,Exercise-induced asthma (disorder),31387002,1
+3047731000006119,Bakers' asthma (disorder),34015007,1
+1208970013,Moderate asthma (disorder),370219009,60000
+1208972017,Severe asthma (disorder),370221004,10000
+350152014,Allergic asthma (disorder),389145006,6000
+1483199016,Allergic asthma (disorder),389145006,40000
+660351000006118,Allergic asthma (disorder),389145006,300000
+885291000006115,Allergic asthma (disorder),389145006,20000
+6512381000006116,Allergic asthma (disorder),389145006,50
+1780388018,Asthma confirmed (situation),401193004,70000
+2163183015,Asthmatic bronchitis (disorder),405944004,300000
+6720721000006111,Asthmatic bronchitis (disorder),405944004,3000
+69311016,Detergent asthma (disorder),41553006,70
+301499010,Immunoglobulin E-mediated allergic asthma (disorder),424643009,10000
+7030311000006117,Immunoglobulin E-mediated allergic asthma (disorder),424643009,200
+7030321000006113,Immunoglobulin E-mediated allergic asthma (disorder),424643009,2
+7062421000006112,Severe persistent asthma (disorder),426656000,4
+7067211000006115,Mild persistent asthma (disorder),426979002,10
+7077481000006119,Mild intermittent asthma (disorder),427679007,10
+7307941000006113,Seasonal asthma (disorder),445427006,300
+94731013,Asthma caused by wood dust (disorder),56968009,10
+95786019,Occupational asthma (disorder),57607007,5000
+983771000006118,Occupational asthma (disorder),57607007,100
+3435971000006119,Occupational asthma (disorder),57607007,1
+7966291000006118,Intermittent asthma well controlled (finding),641000119106,100
+7617621000006116,Exacerbation of moderate persistent asthma (disorder),707446004,3
+7618791000006110,Uncomplicated mild persistent asthma (disorder),707511009,2
+396119015,Acute exacerbation of asthma (disorder),708038006,200000
+409865018,Acute exacerbation of asthma (disorder),708038006,10000
+419211018,Acute exacerbation of asthma (disorder),708038006,2000000
+350156012,Acute exacerbation of intrinsic asthma (disorder),708094006,200
+7628331000006115,Acute severe exacerbation of intrinsic asthma (disorder),708096008,1
+396118011,Life threatening acute exacerbation of asthma (disorder),734904007,10000
+3511374015,Moderate acute exacerbation of asthma (disorder),734905008,100
+3514925011,Acute severe exacerbation of asthma co-occurrent and due to allergic asthma (disorder),735587000,1
+3637387011,Exacerbation of allergic asthma (disorder),762521001,3
+13619961000006119,Exacerbation of allergic asthma due to infection (disorder),782520007,90
+142162019,Byssinosis (disorder),85761009,800
+2240591000000119,Chronic asthma with fixed airflow obstruction (disorder),866881000000101,7000
+13997031000006117,Intermittent allergic asthma (disorder),10674991000119104,3
+9315091000006116,Severe persistent allergic asthma (disorder),10675431000119106,3
+9315171000006116,Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis (disorder),10675711000119106,1
+9315181000006118,Severe uncontrolled persistent asthma (disorder),10675751000119107,4
+9315201000006117,Mild persistent allergic asthma (disorder),10675871000119106,2
+9315251000006118,Mild persistent allergic asthma controlled (finding),10676031000119106,1
+9315261000006116,Mild persistent asthma controlled (finding),10676071000119109,8
+9315321000006115,Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis (disorder),10676231000119102,1
+9315341000006110,Moderate persistent asthma controlled (finding),10676351000119103,1
+98546013,Life threatening acute exacerbation of intrinsic asthma (disorder),1086711000000100,900
+21390015,Intrinsic asthma without status asthmaticus (disorder),12428000,4000
+8038971000006116,Intermittent asthma co-occurrent with allergic rhinitis (disorder),125021000119107,1
+22508019,Flax-dressers' disease (disorder),13151001,1
+8042571000006111,Acute exacerbation of moderate persistent asthma (disorder),135171000119106,2
+8042581000006114,Acute exacerbation of mild persistent asthma (disorder),135181000119109,9
+9934311000006111,Oral steroid-dependent asthma (disorder),16584951000119101,6
+7970171000006119,Acute exacerbation of chronic obstructive airways disease with asthma (disorder),1751000119100,8
+301450011,Chronic asthmatic bronchitis (disorder),195949008,9000
+301451010,Chronic asthmatic bronchitis (disorder),195949008,1000
+183191000006115,Chronic asthmatic bronchitis (disorder),195949008,10000
+301480018,Asthma (disorder),195967001,90000
+301485011,Asthma (disorder),195967001,20000000
+301511014,Asthma (disorder),195967001,90000
+396120014,Asthma (disorder),195967001,700000
+2535857010,Asthma (disorder),195967001,5000
+4781521000006110,Asthma (disorder),195967001,6
+4781531000006113,Asthma (disorder),195967001,60
+4781551000006118,Asthma (disorder),195967001,100
+4781561000006116,Asthma (disorder),195967001,4
+4781571000006111,Asthma (disorder),195967001,8
+4781581000006114,Asthma (disorder),195967001,9
+338238011,Brittle asthma (disorder),225057002,10000
+350148014,Late onset asthma (disorder),233679003,20000
+350149018,Late onset asthma (disorder),233679003,10000
+5054341000006110,Late onset asthma (disorder),233679003,7
+5054431000006112,Asthmatic pulmonary eosinophilia (disorder),233691007,200
+301508013,Non-allergic asthma (disorder),266361008,4000
+396114013,Non-allergic asthma (disorder),266361008,300000
+5492441000006114,Non-allergic asthma (disorder),266361008,30
+5649191000006110,Exacerbation of asthma (disorder),281239006,20000
+456163018,Asthma - currently active (finding),312453004,60000
+1208969012,Mild asthma (disorder),370218001,100000
+1208971012,Occasional asthma (disorder),370220003,60000
+7965491000006114,Asthma with irreversible airway obstruction (disorder),401000119107,4
+929091000006111,Aspirin-induced asthma (disorder),407674008,800
+6782071000006115,Cough variant asthma (disorder),409663006,60
+7015991000006110,Non-immunoglobulin E mediated allergic asthma (disorder),423889005,3
+7052221000006118,Exacerbation of intermittent asthma (disorder),425969006,3
+7071891000006112,Moderate persistent asthma (disorder),427295004,1
+7076331000006112,Intermittent asthma (disorder),427603009,10
+7258581000006114,Acute exacerbation of chronic asthmatic bronchitis (disorder),442025000,10
+104872017,Allergic asthma without status asthmaticus (disorder),63088003,9000
+13775501000006113,Allergic asthma without status asthmaticus (disorder),63088003,40
+7617611000006112,Exacerbation of mild persistent asthma (disorder),707445000,30
+7626521000006110,Acute severe exacerbation of severe persistent asthma (disorder),707979007,1
+145961000006117,Acute severe exacerbation of asthma (disorder),708090002,30000
+350151019,Acute exacerbation of immunoglobulin E-mediated allergic asthma (disorder),708093000,2000
+7628301000006111,Acute severe exacerbation of immunoglobin E-mediated allergic asthma (disorder),708095007,3
+7628321000006118,Acute severe exacerbation of immunoglobin E-mediated allergic asthma (disorder),708095007,1
+3514315010,Asthma in pregnancy (disorder),72301000119103,3
+7961271000006111,Acute severe refractory exacerbation of asthma (disorder),733858005,2
+7961281000006114,Acute severe refractory exacerbation of asthma (disorder),733858005,8

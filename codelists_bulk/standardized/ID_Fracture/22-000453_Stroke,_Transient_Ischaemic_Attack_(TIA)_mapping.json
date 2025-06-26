@@ -1,0 +1,44 @@
+{
+  "original_file": "codelists_bulk\\successful\\ID_Fracture\\22-000453_Stroke,_Transient_Ischaemic_Attack_(TIA)\\standardized_stroke%20and%20tia.csv",
+  "original_columns": [
+    "MedCodeId",
+    "Term",
+    "Observations",
+    "SNOMED_CT_Concept_ID",
+    "clinicalevents",
+    "referralevents",
+    "testevents",
+    "immunisationevents",
+    "readcode",
+    "readterm",
+    "databasebuild"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "snomed_ct_concept_id": "SNOMED_CT_Concept_ID",
+    "observations": "Observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "snomed_ct_concept_id": {
+      "column": "SNOMED_CT_Concept_ID",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 69,
+  "rows_standardized": 69,
+  "project": "ID_Fracture",
+  "codelist": "22-000453_Stroke,_Transient_Ischaemic_Attack_(TIA)"
+}

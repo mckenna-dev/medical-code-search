@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/CHD.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22_001836_CHD_Anaemia/main/Codelists/CHD.csv
+Codelist Name: Congenital Heart Disease (CHD)
+Project Title: CHD Anaemia
+ERAP Number: 22-001836
+Author: Cynthia Wright Drakesmith, Margaret Smith
+Coding System: Gold
+Year Created: 2024
+Downloaded: 2025-06-25 13:25:28
+File Size: 48823 bytes

@@ -1,0 +1,57 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+42602,,,,40,1,0,0,E001000,Uncomplicated presenile dementia,February 2009
+38438,,,,234,3,0,0,E001z00,Presenile dementia NOS,February 2009
+44674,,,,260,12,0,0,E002.00,Senile dementia with depressive or paranoid features,February 2009
+60059,,,,20,2,0,0,Eu00012,"[X]Primary degen dementia, Alzheimer's type, presenile onset",February 2009
+25704,,,,56,0,0,0,Eu00011,"[X]Presenile dementia,Alzheimer's type",February 2009
+41185,,,,23,0,0,0,Eu02400,[X]Dementia in human immunodef virus [HIV] disease,February 2009
+4693,,,,39081,991,0,0,Eu02z00,[X] Unspecified dementia,February 2009
+26323,,,,606,22,0,0,Eu10711,[X]Alcoholic dementia NOS,February 2009
+11175,,,,1213,59,0,0,Eu01100,[X]Multi-infarct dementia,February 2009
+15165,,,,1744,147,0,0,E001.00,Presenile dementia,February 2009
+49513,,,,84,2,0,0,E001100,Presenile dementia with delirium,February 2009
+62132,,,,28,2,0,0,E02y100,Drug-induced dementia,February 2009
+6578,,,,49082,904,0,0,Eu01.00,[X]Vascular dementia,February 2009
+26270,,,,3192,81,0,0,Eu02500,[X]Lewy body dementia,February 2009
+49263,,,,387,4,0,0,Eu00000,[X]Dementia in Alzheimer's disease with early onset,February 2009
+37015,,,,424,9,0,0,E003.00,Senile dementia with delirium,February 2009
+19477,,,,2779,122,0,0,E004.00,Arteriosclerotic dementia,February 2009
+55467,,,,42,6,0,0,E004200,Arteriosclerotic dementia with paranoia,February 2009
+38678,,,,953,1,0,0,Eu00100,[X]Dementia in Alzheimer's disease with late onset,February 2009
+42279,,,,346,10,0,0,E004z00,Arteriosclerotic dementia NOS,February 2009
+9565,,,,1009,36,0,0,Eu01.11,[X]Arteriosclerotic dementia,February 2009
+46488,,,,56,0,0,0,Eu01000,[X]Vascular dementia of acute onset,February 2009
+7664,,,,23018,483,0,0,Eu00.00,[X]Dementia in Alzheimer's disease,February 2009
+8634,,,,4483,147,0,0,E004.11,Multi infarct dementia,February 2009
+28402,,,,196,7,0,0,Eu02000,[X]Dementia in Pick's disease,February 2009
+41089,,,,37,1,0,0,E002z00,Senile dementia with depressive or paranoid features NOS,February 2009
+43346,,,,74,0,0,0,Eu00113,"[X]Primary degen dementia of Alzheimer's type, senile onset",February 2009
+11379,,,,1303,18,0,0,Eu00112,"[X]Senile dementia,Alzheimer's type",February 2009
+1916,,,,27286,1552,3,0,E00..11,Senile dementia,February 2009
+31016,,,,1150,0,0,0,Eu01300,[X]Mixed cortical and subcortical vascular dementia,February 2009
+55313,,,,251,1,0,0,Eu01y00,[X]Other vascular dementia,February 2009
+53446,,,,103,2,0,0,Eu04100,[X]Delirium superimposed on dementia,February 2009
+48501,,,,68,3,0,0,Eu02z11,[X] Presenile dementia NOS,February 2009
+27759,,,,186,12,0,0,Eu02z16,"[X] Senile dementia, depressed or paranoid type",February 2009
+4357,,,,12533,715,0,0,Eu02z14,[X] Senile dementia NOS,February 2009
+21887,,,,694,46,0,0,E002100,Senile dementia with depression,February 2009
+54106,,,,44,2,0,0,Eu02100,[X]Dementia in Creutzfeldt-Jakob disease,February 2009
+8195,,,,8423,132,0,0,Eu00z11,[X]Alzheimer's dementia unspec,February 2009
+55838,,,,33,1,0,0,Eu01111,[X]Predominantly cortical dementia,February 2009
+30032,,,,154,26,0,0,E001200,Presenile dementia with paranoia,February 2009
+34944,,,,87,15,0,0,Eu02z13,[X] Primary degenerative dementia NOS,February 2009
+12621,,,,848,15,0,0,Eu02.00,[X]Dementia in other diseases classified elsewhere,February 2009
+8934,,,,279,1,0,0,Eu01200,[X]Subcortical vascular dementia,February 2009
+1350,,,,68328,8029,12,0,E00..12,Senile/presenile dementia,February 2009
+18386,,,,546,58,0,0,E002000,Senile dementia with paranoia,February 2009
+27342,,,,749,33,0,0,E012.11,Alcoholic dementia NOS,February 2009
+37014,,,,192,9,0,0,Eu02200,[X]Dementia in Huntington's disease,February 2009
+27677,,,,99,5,0,0,E001300,Presenile dementia with depression,February 2009
+9509,,,,2051,157,0,0,Eu02300,[X]Dementia in Parkinson's disease,February 2009
+64267,,,,80,1,0,0,Eu02y00,[X]Dementia in other specified diseases classif elsewhere,February 2009
+30706,,,,2709,11,0,0,Eu00200,"[X]Dementia in Alzheimer's dis, atypical or mixed type",February 2009
+56912,,,,24,2,0,0,E004100,Arteriosclerotic dementia with delirium,February 2009
+7323,,,,16228,1225,0,0,E000.00,Uncomplicated senile dementia,February 2009
+29386,,,,1210,27,0,0,Eu00z00,"[X]Dementia in Alzheimer's disease, unspecified",February 2009
+54505,,,,151,3,0,0,E012.00,Other alcoholic dementia,February 2009
+19393,,,,1047,15,0,0,Eu01z00,"[X]Vascular dementia, unspecified",February 2009

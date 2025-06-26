@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 21
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tpcos']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                      MedCodeId\tObservations\tTerm\tpcos
+0     a116049013\t600000\tPolycystic ovary syndrome\tpcos
+1  a2478811014\t300000\tPolycystic ovarian syndrome\tpcos
+2           a253671000006116\t200000\tOvarian cysts\tpcos

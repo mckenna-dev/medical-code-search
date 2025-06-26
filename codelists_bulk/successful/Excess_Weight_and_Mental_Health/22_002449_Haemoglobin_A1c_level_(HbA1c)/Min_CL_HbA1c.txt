@@ -1,0 +1,38 @@
+	MedCodeId	Observations	Term	HbA1c
+0	a1700711000006113	40000000	Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised	HbA1c
+1	a457954013	20000000	HbA1c level (Diabetes Control and Complications Trial aligned)	HbA1c
+2	a129761000000114	7000000	Haemoglobin A1c level	HbA1c
+3	a404444016	3000000	Haemoglobin A1C - diabetic control interpretation	HbA1c
+4	a109871000006113	1000000	Test request : Haemoglobin A1c	HbA1c
+5	a484835011	200000	Haemoglobin A level	HbA1c
+6	a257620012	100000	Hb. A1C 7-10% - borderline	HbA1c
+7	a453910015	100000	Haemoglobin A1C - diabetic control finding	HbA1c
+8	a257619018	100000	Hb. A1C < 7% - good control	HbA1c
+9	a257623014	90000	Hb. A1C - diabetic control	HbA1c
+10	a803891000006119	80000	Glycated haemoglobin	HbA1c
+11	a257621011	50000	Hb. A1C > 10% - bad control	HbA1c
+12	a817491000006111	40000	Haemoglobin A1c between 7%-10% indicating borderline diabetic control	HbA1c
+13	a457953019	40000	HbA1 level (Diabetes Control and Complications Trial aligned)	HbA1c
+14	a817471000006110	30000	Haemoglobin A1c less than 7% indicating good diabetic control	HbA1c
+15	a1927791000006119	20000	Raised HbA1c level	HbA1c
+16	a2154205011	20000	Total glycosylated haemoglobin level	HbA1c
+17	a451418011	20000	Haemoglobin A1 level	HbA1c
+18	a817481000006113	10000	Haemoglobin A1c greater than 10% indicating poor diabetic control	HbA1c
+19	a3199161000006117	3000	Haemoglobin A1c measurement	HbA1c
+20	a5417451000006114	600	Glycosylated haemoglobin	HbA1c
+21	a6036711000006118	300	HbA1c level (DCCT aligned)	HbA1c
+22	a3199191000006113	300	HbA1c - Hemoglobin A1c level	HbA1c
+23	a8121181000006118	80	Hb A1c (Haemoglobin A1c) level - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised	HbA1c
+24	a3199181000006110	50	HbA1c - Haemoglobin A1c level	HbA1c
+25	a7960861000006110	20	Glycated haemoglobin	HbA1c
+26	a7285151000006113	20	HBA1c (Hemoglobin A1c) level	HbA1c
+27	a8121171000006116	10	Hb A1c (Haemoglobin A1c) measurement - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised	HbA1c
+28	a7285141000006111	10	HBA1c (Haemoglobin A1c) level	HbA1c
+29	a7960891000006119	10	Glycated haemoglobin-A1c	HbA1c
+30	a6036701000006116	9	HbA1c measurement (DCCT aligned)	HbA1c
+31	a7960911000006117	3	HbA1c - Glycated hemoglobin-A1c	HbA1c
+32	a7960921000006113	1	HbA1c - Glycated haemoglobin-A1c	HbA1c
+33	a7960871000006115	1	Glycated hemoglobin	HbA1c
+34	a804121000006112	300000	Glycosylated Hb	HbA1c
+35	a5417451000006114	600	Glycosylated haemoglobin	HbA1c
+36	a7297311000006119	1	High haemoglobin A1c level	HbA1c

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 20
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                    Term  SNOMED_CT_Concept_ID
+0  2402891000000110       2007471  Serum total 25-hydroxy vitamin D level      1007991000000105
+1   145751000006117       1818637                   Serum vitamin D level      1031181000000107
+2         457822017        846150        Serum 25-Hydroxyvitamin D3 level      1001211000000100

@@ -1,0 +1,45 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+735,Cancer,Breast,a1210642019,Malignant neoplasm of female breast,L1:Cancer_L2:Breast,B34..00
+736,Cancer,Breast,a531851000006119,Ca female breast,L1:Cancer_L2:Breast,B34..11
+737,Cancer,Breast,a289137018,Malignant neoplasm of nipple and areola of female breast,L1:Cancer_L2:Breast,B340.00
+738,Cancer,Breast,a155417012,Malignant neoplasm of nipple of female breast,L1:Cancer_L2:Breast,B340000
+739,Cancer,Breast,a155089014,Malignant neoplasm of areola of female breast,L1:Cancer_L2:Breast,B340100
+740,Cancer,Breast,a289140018,Malignant neoplasm of nipple or areola of female breast NOS,L1:Cancer_L2:Breast,B340z00
+741,Cancer,Breast,a289141019,Malignant neoplasm of central part of female breast,L1:Cancer_L2:Breast,B341.00
+742,Cancer,Breast,a289142014,Malignant neoplasm of upper-inner quadrant of female breast,L1:Cancer_L2:Breast,B342.00
+743,Cancer,Breast,a289143016,Malignant neoplasm of lower-inner quadrant of female breast,L1:Cancer_L2:Breast,B343.00
+744,Cancer,Breast,a289144010,Malignant neoplasm of upper-outer quadrant of female breast,L1:Cancer_L2:Breast,B344.00
+745,Cancer,Breast,a289145011,Malignant neoplasm of lower-outer quadrant of female breast,L1:Cancer_L2:Breast,B345.00
+746,Cancer,Breast,a289146012,Malignant neoplasm of axillary tail of female breast,L1:Cancer_L2:Breast,B346.00
+747,Cancer,Breast,a289147015,"Malignant neoplasm, overlapping lesion of breast",L1:Cancer_L2:Breast,B347.00
+748,Cancer,Breast,a289148013,Malignant neoplasm of other site of female breast,L1:Cancer_L2:Breast,B34y.00
+749,Cancer,Breast,a289149017,Malignant neoplasm of ectopic site of female breast,L1:Cancer_L2:Breast,B34y000
+750,Cancer,Breast,a289150017,Malignant neoplasm of other site of female breast NOS,L1:Cancer_L2:Breast,B34yz00
+751,Cancer,Breast,a289151018,Malignant neoplasm of female breast NOS,L1:Cancer_L2:Breast,B34z.00
+752,Cancer,Breast,a155364013,Malignant neoplasm of male breast,L1:Cancer_L2:Breast,B35..00
+753,Cancer,Breast,a289153015,Malignant neoplasm of nipple and areola of male breast,L1:Cancer_L2:Breast,B350.00
+754,Cancer,Breast,a155418019,Malignant neoplasm of nipple of male breast,L1:Cancer_L2:Breast,B350000
+755,Cancer,Breast,a155090017,Malignant neoplasm of areola of male breast,L1:Cancer_L2:Breast,B350100
+756,Cancer,Breast,a289157019,Malignant neoplasm of other site of male breast,L1:Cancer_L2:Breast,B35z.00
+757,Cancer,Breast,a289158012,Malignant neoplasm of ectopic site of male breast,L1:Cancer_L2:Breast,B35z000
+758,Cancer,Breast,a289159016,Malignant neoplasm of male breast NOS,L1:Cancer_L2:Breast,B35zz00
+759,Cancer,Breast,a292137017,[X]Malignant neoplasm of breast,L1:Cancer_L2:Breast,Byu6.00
+760,Cancer,Breast,a317821000006114,Tubular adenocarcinoma,L1:Cancer_L2:Breast,BB5M100
+761,Cancer,Breast,a310311000006110,Infiltrating duct carcinoma,L1:Cancer_L2:Breast,BB91.00
+762,Cancer,Breast,a307631000006111,Duct carcinoma,L1:Cancer_L2:Breast,BB91.11
+763,Cancer,Breast,a1232564019,[M]Intraductal papillary adenocarcinoma with invasion,L1:Cancer_L2:Breast,BB91000
+764,Cancer,Breast,a1228259019,[M]Infiltrating duct and lobular carcinoma,L1:Cancer_L2:Breast,BB91100
+765,Cancer,Breast,a291536017,[M]Comedocarcinoma NOS,L1:Cancer_L2:Breast,BB93.00
+766,Cancer,Breast,a310741000006110,Juvenile carcinoma of the breast,L1:Cancer_L2:Breast,BB94.00
+767,Cancer,Breast,a316311000006112,[M]Secretory breast carcinoma,L1:Cancer_L2:Breast,BB94.11
+768,Cancer,Breast,a291540014,Lobular carcinoma,L1:Cancer_L2:Breast,BB9F.00
+769,Cancer,Breast,a310321000006119,Infiltrating ductular carcinoma,L1:Cancer_L2:Breast,BB9G.00
+770,Cancer,Breast,a310341000006114,[M]Inflammatory carcinoma,L1:Cancer_L2:Breast,BB9H.00
+771,Cancer,Breast,a314711000006117,Mammary Paget's disease,L1:Cancer_L2:Breast,BB9J.00
+772,Cancer,Breast,a314691000006115,Paget's disease of breast,L1:Cancer_L2:Breast,BB9J.11
+773,Cancer,Breast,a314671000006116,Paget's disease and infiltrating duct carcinoma of breast,L1:Cancer_L2:Breast,BB9K.00
+774,Cancer,Breast,a1231363012,[M]Paget's disease and intraductal carcinoma of breast,L1:Cancer_L2:Breast,BB9K000
+775,Cancer,Breast,a314701000006115,"[M]Paget's disease, extramammary, excluding Paget's disease of bone",L1:Cancer_L2:Breast,BB9L.00
+776,Cancer,Breast,a310411000006117,[M]Intracystic carcinoma NOS,L1:Cancer_L2:Breast,BB9M.00
+777,Cancer,Breast,a304271000006116,Acinar cell carcinoma,L1:Cancer_L2:Breast,BBA2.00
+778,Cancer,Breast,a307441000006115,Malignant cystosarcoma phyllodes,L1:Cancer_L2:Breast,BBM9.00

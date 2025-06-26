@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 90
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tAnxiety_diagnosis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                      \tMedCodeId\tObservations\tTerm\tAnxiety_diagnosis
+0  0\t488211000006112\t8000000\tMixed anxiety and depressive disorder\tAnxiety_diagnosis
+1                       1\t488201000006114\t6000000\tAnxiety disorder\tAnxiety_diagnosis
+2                          2\t363661000006113\t500000\t[X]Anxiety NOS\tAnxiety_diagnosis

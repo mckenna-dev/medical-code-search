@@ -3,6 +3,34 @@
 {% block content %}
 <h1>Medical Code Search</h1>
 <p>Welcome to the Medical Code Search application.</p>
+
+<div class="row mb-4">
+    <div class="col-md-4">
+        <div class="card text-center">
+            <div class="card-body">
+                <h5 class="card-title">{{ codelists_count }}</h5>
+                <p class="card-text">Codelists Available</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-center">
+            <div class="card-body">
+                <h5 class="card-title">{{ codes_count }}</h5>
+                <p class="card-text">Medical Codes</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-center">
+            <div class="card-body">
+                <h5 class="card-title">{{ sources.count }}</h5>
+                <p class="card-text">Data Sources</p>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="row">
     <div class="col-md-6">
         <div class="card mb-4">

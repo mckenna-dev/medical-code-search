@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 6
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                                      Term  SNOMED_CT_Concept_ID
+0  2465711000000116        791639  Estimated creatinine clearance (Cockcroft-Gault formula)       968191000000100
+1        2470380013        204729                            Estimated creatinine clearance             395680003
+2         259689015         10241                                 Creatinine clearance test      1015981000000103

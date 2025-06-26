@@ -1,0 +1,57 @@
+	MedCodeId	Observations	Term	multiple_sclerosis			
+0	a2894411000006110	9	MS - Multiple sclerosis	multiple_sclerosis			
+1	a641301000000114	8	Malignant multiple sclerosis	multiple_sclerosis			
+2	a41398015	700000	Multiple sclerosis	multiple_sclerosis			
+3	a297180018	7000	Exacerbation of multiple sclerosis	multiple_sclerosis			
+4	a297177019	700	Multiple sclerosis of the spinal cord	multiple_sclerosis			
+5	a7058051000006116	7	Multiple sclerosis (MS) relapsing remitting	multiple_sclerosis			
+6	a5006901000006111	4	Chronic progressive multiple sclerosis	multiple_sclerosis			
+7	a1223979019	3000	Disseminated sclerosis	multiple_sclerosis			
+8	a2674605012	3000	Secondary progressive multiple sclerosis	multiple_sclerosis			
+9	a2692565012	3000	Primary progressive multiple sclerosis	multiple_sclerosis			
+10	a641211000000118	300	Benign multiple sclerosis	multiple_sclerosis			
+11	a695191000006119	300	Multiple sclerosis of the brain stem	multiple_sclerosis			
+12	a5006911000006114	3	Multiple sclerosis (MS) chronic/progressive	multiple_sclerosis			
+13	a297181019	20000	Multiple sclerosis NOS	multiple_sclerosis			
+14	a297179016	2000	Generalised multiple sclerosis	multiple_sclerosis			
+15	a2475876012	20	Balo's concentric sclerosis	multiple_sclerosis			
+16	a345223012	20	Concentric sclerosis	multiple_sclerosis			
+17	a4769281000006110	20	Multiple sclerosis of the brainstem	multiple_sclerosis			
+18	a5007011000006110	20	Balo concentric sclerosis	multiple_sclerosis			
+19	a5006921000006118	2	Remittent-progressive multiple sclerosis	multiple_sclerosis			
+20	a7092351000006112	2	Multiple sclerosis (MS) primary progressive	multiple_sclerosis			
+21	a1682241000006111	10000	Relapsing remitting multiple sclerosis	multiple_sclerosis			
+22	a5006891000006112	10	Acute relapsing multiple sclerosis	multiple_sclerosis			
+23	a7045281000006112	1	Multiple sclerosis (MS) secondary progressive	multiple_sclerosis			
+24	a7510741000006111	1	Dementia associated with multiple sclerosis	multiple_sclerosis			
+25	a7861151000006116	1	Progressive relapsing multiple sclerosis	multiple_sclerosis			
+26	a908811000006112	20000	[RFC] Multiple sclerosis	multiple_sclerosis			
+27	a983311000006114	10000	Multiple sclerosis - relapsing remitting	multiple_sclerosis			
+28	a299241000000110	8000	Multiple sclerosis review	multiple_sclerosis			
+29	a983291000006110	4000	Multiple sclerosis - primary progressive	multiple_sclerosis			
+30	a983301000006111	2000	Multiple sclerosis - secondary progressive	multiple_sclerosis			
+31	a979461000006111	700	Specialised services for patients with multipl...	multiple_sclerosis			
+32	a315671000000110	700	Multiple sclerosis multidisciplinary review	multiple_sclerosis			
+33	a1674381000000115	500	Multiple sclerosis monitoring first letter	multiple_sclerosis			
+34	a300141000000119	500	Multiple sclerosis care plan agreed	multiple_sclerosis			
+35	a1674121000000119	200	Multiple sclerosis monitoring administration	multiple_sclerosis			
+36	a1148911000000119	100	Multiple sclerosis review declined	multiple_sclerosis			
+37	a1674661000000118	100	Multiple sclerosis monitoring second letter	multiple_sclerosis			
+38	a983261000006119	100	Multiple sclerosis - personal health plan	multiple_sclerosis			
+39	a1674971000000118	60	Multiple sclerosis monitoring telephone invita...	multiple_sclerosis			
+40	a699791000000111	60	Management of multiple sclerosis in stable dis...	multiple_sclerosis			
+41	a1675051000000110	50	Multiple sclerosis monitoring third letter	multiple_sclerosis			
+42	a699731000000110	40	Management of multiple sclerosis in early dise...	multiple_sclerosis			
+43	a905781000006118	30	[RFC] Multiple sclerosis	multiple_sclerosis			
+44	a1747821000006117	30	Multiple sclerosis monitoring administration	multiple_sclerosis			
+45	a1747831000006119	30	Multiple sclerosis monitoring first letter	multiple_sclerosis			
+46	a699911000000117	20	Management of multiple sclerosis in palliative...	multiple_sclerosis			
+47	a699671000000115	9	Management of multiple sclerosis in onset phase	multiple_sclerosis			
+48	a1747851000006114	4	Multiple sclerosis monitoring third letter	multiple_sclerosis			
+49	a1747861000006111	4	Multiple sclerosis monitoring telephone invit	multiple_sclerosis			
+							
+							
+							
+							
+							
+							

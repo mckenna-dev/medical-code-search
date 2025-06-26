@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 60
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tSnomedCTConceptId']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                            MedCodeId\tObservations\tTerm\tSnomedCTConceptId
+0                             a64984100000611\t40741714\tEx-smoker\tb8517006
+1  a250365011\t2790339\tEx-moderate cigarette smoker (10-19/day)\tb266923002
+2                        a41891401\t2281755\tEx-cigarette smoker\tb281018007

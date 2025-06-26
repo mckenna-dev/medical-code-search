@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 17
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                                            Term  SNOMED_CT_Concept_ID
+0        249794016       5000000                           FH: Diabetes mellitus             160303001
+1       2549389017        300000  FH: Diabetes mellitus in first degree relative             416855002
+2  339351000006110        200000               Family history: Diabetes mellitus             160303001

@@ -1,0 +1,49 @@
+	MedCodeId	Observations	Term	Psychosis_diagnosis
+0	296022017	10000	[X]Schizophrenia, schizotypal and delusional disorders	Psychosis_diagnosis
+1	294769018	10	Acute exacerbation of chronic latent schizophrenia	Psychosis_diagnosis
+2	294768014	3	Acute exacerbation of subchronic latent schizophrenia	Psychosis_diagnosis
+3	367971000006115	1	[X]Bouffee delirante with symptoms of schizophrenia	Psychosis_diagnosis
+4	367951000006113	100	Borderline schizophrenia	Psychosis_diagnosis
+5	294767016	40	Chronic latent schizophrenia	Psychosis_diagnosis
+6	294771018	300	Latent schizophrenia NOS	Psychosis_diagnosis
+7	294765012	10	Unspecified latent schizophrenia	Psychosis_diagnosis
+8	395021000006111	8	[X]Latent schizophrenia	Psychosis_diagnosis
+9	376251000006112	1	[X]Cyclic schizophrenia	Psychosis_diagnosis
+10	294773015	3	Cyclic schizophrenia	Psychosis_diagnosis
+11	294766013	1	Subchronic latent schizophrenia	Psychosis_diagnosis
+12	294770017	100	Latent schizophrenia in remission	Psychosis_diagnosis
+13	395031000006114	3	[X]Latent schizophrenic reaction	Psychosis_diagnosis
+14	12480451000006112	30	[X]Schizophrenia, schizotypal and delusional disorders	Psychosis_diagnosis
+15	294764011	100	Latent schizophrenia	Psychosis_diagnosis
+16	423731000006114	60	[X]Pseudoneurotic schizophrenia	Psychosis_diagnosis
+17	423741000006116	20	[X]Pseudopsychopathic schizophrenia	Psychosis_diagnosis
+18	3118041000006112	1	Schizoaffective disorder, bipolar type	Psychosis_diagnosis
+19	425541000006110	100000	Schizoaffective disorder	Psychosis_diagnosis
+20	296096013	20000	[X]Schizoaffective disorder, unspecified	Psychosis_diagnosis
+21	296095012	600	[X]Other schizoaffective disorders	Psychosis_diagnosis
+22	425501000006113	7000	Schizoaffective disorder, depressive type	Psychosis_diagnosis
+23	425511000006111	5000	Schizoaffective disorder, manic type	Psychosis_diagnosis
+24	425521000006115	4000	Schizoaffective disorder, mixed type	Psychosis_diagnosis
+25	398631000006113	1000	Mixed schizophrenic and affective pschosis	Psychosis_diagnosis
+26	376281000006116	60	Cycloid psychosis	Psychosis_diagnosis
+27	425551000006112	2000	[X]Schizoaffective psychosis NOS	Psychosis_diagnosis
+28	425561000006114	1000	[X]Schizoaffective psychosis, depressive type	Psychosis_diagnosis
+29	425691000006119	300	[X]Schizophreniform psychosis, depressive type	Psychosis_diagnosis
+30	425571000006119	600	[X]Schizoaffective psychosis, manic type	Psychosis_diagnosis
+31	425701000006119	100	[X]Schizophreniform psychosis, manic type	Psychosis_diagnosis
+32	296066015	2000	[X]Persistent delusional disorder, unspecified	Psychosis_diagnosis
+33	401857019	600	[X]Other persistent delusional disorders	Psychosis_diagnosis
+34	161371000006118	6	Sander's disease	Psychosis_diagnosis
+35	376271000006119	300	[X]Cycloid psychosis	Psychosis_diagnosis
+36	5517971000006118	1	Mixed schizophrenic and affective psychosis	Psychosis_diagnosis
+37	882301000006112	3000	Acute schizo affective psychosis	Psychosis_diagnosis
+38	996171000006114	20000	Psychosis, schizophrenia and bipolar affective disorder resolved	Psychosis_diagnosis
+39	362421000006113	4000	Acute schizophrenia-like psychotic disorder	Psychosis_diagnosis
+40	294902017	3000	Other affective psychosis NOS	Psychosis_diagnosis
+41	294897018	3000	Affective psychosis	Psychosis_diagnosis
+42	10122017	1000	Brief reactive psychosis	Psychosis_diagnosis
+43	401768012	8000	Chronic paranoid psychosis	Psychosis_diagnosis
+44	1227584015	300	[V]Personal history of manic-depressive psychosis	Psychosis_diagnosis
+45	1975731000006111	40	Acute schizophrenia-like psychotic disorder, with associated acute stress	Psychosis_diagnosis
+46	1973091000006112	4	Mental & behav dis due to hallucinogens: psychotic disord, mixed	Psychosis_diagnosis
+47	1667591000000111	4000	[X]Nonorganic psychosis in remission	Psychosis_diagnosis

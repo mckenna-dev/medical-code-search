@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 43
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+0                       18443\t"662a.00"\t794\t0\t3\t317\t"Pre-treatment serum cholesterol level"\t"February 2009"
+1                              35720\t"44P4.00"\t185\t0\t105\t4841\t"Serum cholesterol very high"\t"February 2009"
+2                          13733\t"44PJ.00"\t896\t0\t27\t1724350\t"Serum total cholesterol level"\t"February 2009"

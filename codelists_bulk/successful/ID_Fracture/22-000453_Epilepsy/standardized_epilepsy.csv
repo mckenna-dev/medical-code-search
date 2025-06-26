@@ -1,0 +1,118 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+108372,,,,7,27,0,0,8T0L.00,Referral to epilepsy service,2014-07-01 00:00:00
+26511,,,,10034,21,0,0,6672,Follow-up epilepsy assessment,2009-02-01 00:00:00
+36203,,,,8,1,0,0,F254200,Psychosensory epilepsy,2009-02-01 00:00:00
+6983,,,,121914,1811,1,0,667..00,Epilepsy monitoring,2009-02-01 00:00:00
+45746,,,,1514,10,0,0,6671,Initial epilepsy assessment,2009-02-01 00:00:00
+3607,,,,15793,808,2,0,F25z.11,Fit (in known epileptic) NOS,2009-02-01 00:00:00
+988,,,,18489,1207,2,0,F251000,Grand mal (major) epilepsy,2009-02-01 00:00:00
+4093,,,,2841,576,0,0,F253.11,Status epilepticus,2009-02-01 00:00:00
+53483,,,,32,0,0,0,F25y100,Gelastic epilepsy,2009-02-01 00:00:00
+13073,,,,1154,0,0,0,6677,Epilepsy drug side effects,2009-02-01 00:00:00
+52632,,,,2364,0,0,0,667X.00,No epilepsy drug side effects,2009-02-01 00:00:00
+98536,,,,1393,0,0,0,9Of6.00,Epilepsy monitoring call second letter,2010-02-01 00:00:00
+37592,,,,22,1,0,0,F255200,Somatosensory epilepsy,2009-02-01 00:00:00
+4602,,,,2338,147,0,0,667B.00,Nocturnal epilepsy,2009-02-01 00:00:00
+26620,,,,99,1,0,0,667G.00,Epilepsy restricts employment,2009-02-01 00:00:00
+26015,,,,391,15,0,0,F255.00,Partial epilepsy without impairment of consciousness,2009-02-01 00:00:00
+11394,,,,4237,80,0,0,F254500,Complex partial epileptic seizure,2009-02-01 00:00:00
+59120,,,,7,0,0,0,Fyu5200,[X]Other status epilepticus,2009-02-01 00:00:00
+22341,,,,1728,44,0,0,1O30.00,Epilepsy confirmed,2009-02-01 00:00:00
+31920,,,,210,8,0,0,F254z00,Partial epilepsy with impairment of consciousness NOS,2009-02-01 00:00:00
+4109,,,,1128,36,0,0,SC20000,Traumatic epilepsy,2009-02-01 00:00:00
+26512,,,,1605,6,0,0,6678,Epilepsy treatment changed,2009-02-01 00:00:00
+99548,,,,4,0,0,0,F250100,Pykno-epilepsy,2010-05-01 00:00:00
+573,,,,387713,20213,98,0,F25..00,Epilepsy,2009-02-01 00:00:00
+65699,,,,18,0,0,0,F255012,Motor epilepsy,2009-02-01 00:00:00
+5525,,,,3573,208,0,0,F255011,Focal epilepsy,2009-02-01 00:00:00
+38919,,,,76,0,0,0,1B1W.00,Transient epileptic amnesia,2009-02-01 00:00:00
+19363,,,,1298,12,0,0,F25A.00,Juvenile myoclonic epilepsy,2009-02-01 00:00:00
+12848,,,,4174,4,0,0,212J.00,Epilepsy resolved,2009-02-01 00:00:00
+46603,,,,110,4,0,0,667W.00,Emergency epilepsy treatment since last appointment,2009-02-01 00:00:00
+73542,,,,8,0,0,0,F255300,Visceral reflex epilepsy,2009-02-01 00:00:00
+40105,,,,1208,38,0,0,F255600,Simple partial epileptic seizure,2009-02-01 00:00:00
+26733,,,,64,1,0,0,F255y00,Partial epilepsy without impairment of consciousness OS,2009-02-01 00:00:00
+34079,,,,62,12,0,0,F254400,Epileptic automatism,2009-02-01 00:00:00
+31877,,,,63,3,0,0,Eu05212,[X]Schizophrenia-like psychosis in epilepsy,2009-02-01 00:00:00
+56359,,,,12,0,0,0,F25D.00,Menstrual epilepsy,2009-02-01 00:00:00
+22991,,,,236,21,0,0,667N.00,Epilepsy severity,2009-02-01 00:00:00
+54365,,,,28,1,0,0,U606.00,[X]Antiepilept + antiparksn drug caus advers eff therap use,2009-02-01 00:00:00
+6271,,,,2901,94,0,0,F25X.00,"Status epilepticus, unspecified",2009-02-01 00:00:00
+47117,,,,10560,15,0,0,9N0r.00,Seen in epilepsy clinic,2009-02-01 00:00:00
+105382,,,,121,526,0,0,8Hlp.00,Referral to epilepsy clinic,2012-12-01 00:00:00
+17399,,,,879,32,0,0,F250400,Juvenile absence epilepsy,2009-02-01 00:00:00
+19551,,,,228,0,0,0,667E.00,Epilepsy care arrangement,2009-02-01 00:00:00
+20566,,,,593,1,0,0,667A.00,Epilepsy treatment stopped,2009-02-01 00:00:00
+44252,,,,81,1,0,0,F250z00,Generalised nonconvulsive epilepsy NOS,2009-02-01 00:00:00
+22804,,,,396,7,0,0,F251011,Tonic-clonic epilepsy,2009-02-01 00:00:00
+2907,,,,11498,1227,1,0,F250000,Petit mal (minor) epilepsy,2009-02-01 00:00:00
+34473,,,,371,2,0,0,6679,Epilepsy treatment started,2009-02-01 00:00:00
+102191,,,,674,0,0,0,8IAi.00,Pregnancy advice for patients with epilepsy declined,2011-05-01 00:00:00
+102359,,,,16860,2,0,0,67AF.00,Pregnancy advice for patients with epilepsy,2011-06-01 00:00:00
+56455,,,,996,0,0,0,8CE7.00,Epilepsy leaflet given,2009-02-01 00:00:00
+19550,,,,5936,2,0,0,667C.00,Epilepsy control good,2009-02-01 00:00:00
+11186,,,,365,12,0,0,F250.00,Generalised nonconvulsive epilepsy,2009-02-01 00:00:00
+102375,,,,5487,1,0,0,8IB4.00,Pregnancy advice for patients with epilepsy not indicated,2011-06-01 00:00:00
+32288,,,,467,12,0,0,F254.00,Partial epilepsy with impairment of consciousness,2009-02-01 00:00:00
+45757,,,,338,0,0,0,9Of3.00,Epilepsy monitoring verbal invite,2009-02-01 00:00:00
+40806,,,,287,1,0,0,F251z00,Generalised convulsive epilepsy NOS,2009-02-01 00:00:00
+35217,,,,1386,11,0,0,9N4V.00,DNA - Did not attend epilepsy clinic,2009-02-01 00:00:00
+9979,,,,358,5,0,0,F25yz00,Other forms of epilepsy NOS,2009-02-01 00:00:00
+19170,,,,1193,15,0,0,F25y400,Benign Rolandic epilepsy,2009-02-01 00:00:00
+73879,,,,34,0,0,0,U606600,[X]Oth unspec antiepileptics caus adverse eff in therap use,2009-02-01 00:00:00
+71801,,,,12,1,0,0,Fyu5900,"[X]Status epilepticus, unspecified",2009-02-01 00:00:00
+19552,,,,618,0,0,0,667L.00,Epilepsy does not limit activities,2009-02-01 00:00:00
+50012,,,,226,6,0,0,6674,Epilepsy associated problems,2009-02-01 00:00:00
+31830,,,,198,17,0,0,F250300,Epileptic seizures - akinetic,2009-02-01 00:00:00
+23634,,,,97,6,0,0,F254100,Psychomotor epilepsy,2009-02-01 00:00:00
+30635,,,,305,5,0,0,F25F.00,Photosensitive epilepsy,2009-02-01 00:00:00
+6709,,,,294,35,0,0,Eu05y11,[X]Epileptic psychosis NOS,2009-02-01 00:00:00
+30816,,,,26,0,0,0,F25C.00,Drug-induced epilepsy,2009-02-01 00:00:00
+49889,,,,2,0,0,0,ZS82.00,Acquired epileptic aphasia,2009-02-01 00:00:00
+55706,,,,791,2,0,0,667M.00,Epilepsy management plan given,2009-02-01 00:00:00
+1715,,,,3503,1050,1,0,F250011,Epileptic absences,2009-02-01 00:00:00
+99731,,,,16,0,0,0,Fyu5000,[X]Other generalized epilepsy and epileptic syndromes,2010-06-01 00:00:00
+48134,,,,36,1,0,0,F255100,Sensory induced epilepsy,2009-02-01 00:00:00
+98442,,,,4310,2,0,0,9Of5.00,Epilepsy monitoring call first letter,2010-02-01 00:00:00
+5152,,,,3590,255,0,0,F251400,Epileptic seizures - tonic,2009-02-01 00:00:00
+55739,,,,4,1,0,0,F255400,Visual reflex epilepsy,2009-02-01 00:00:00
+40863,,,,31,1,0,0,667J.00,Epilepsy impairs education,2009-02-01 00:00:00
+43679,,,,47,4,0,0,Eu80300,[X]Acquired aphasia with epilepsy [Landau - Kleffner],2009-02-01 00:00:00
+9887,,,,565,30,0,0,F25y200,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset,2009-02-01 00:00:00
+102265,,,,844,0,0,0,8IAh.00,Pre-conception advice for patients with epilepsy declined,2011-05-01 00:00:00
+69831,,,,100,2,0,0,Fyu5100,[X]Other epilepsy,2009-02-01 00:00:00
+71719,,,,3,0,0,0,F257.00,Kojevnikov's epilepsy,2009-02-01 00:00:00
+26144,,,,1437,12,0,0,F251.00,Generalised convulsive epilepsy,2009-02-01 00:00:00
+8187,,,,3079,85,0,0,F251500,Tonic-clonic epilepsy,2009-02-01 00:00:00
+98977,,,,635,0,0,0,9Of7.00,Epilepsy monitoring call third letter,2010-04-01 00:00:00
+24309,,,,499,74,0,0,F250200,Epileptic seizures - atonic,2009-02-01 00:00:00
+3175,,,,13762,662,2,0,F254000,Temporal lobe epilepsy,2009-02-01 00:00:00
+65673,,,,17,1,0,0,F25E.00,Stress-induced epilepsy,2009-02-01 00:00:00
+59185,,,,23,0,0,0,F250y00,Other specified generalised nonconvulsive epilepsy,2009-02-01 00:00:00
+50702,,,,93,0,0,0,667H.00,Epilepsy prevents employment,2009-02-01 00:00:00
+9569,,,,701,31,0,0,F255000,"Jacksonian, focal or motor epilepsy",2009-02-01 00:00:00
+18471,,,,3322,198,0,0,F251200,Epileptic seizures - clonic,2009-02-01 00:00:00
+100652,,,,22023,4,0,0,6110,Contraceptive advice for patients with epilepsy,2010-09-01 00:00:00
+25330,,,,442,13,0,0,F25y300,Complex partial status epilepticus,2009-02-01 00:00:00
+48462,,,,15,1,0,0,Eu06013,[X]Limbic epilepsy personality,2009-02-01 00:00:00
+37644,,,,97,1,0,0,F132100,Progressive myoclonic epilepsy,2009-02-01 00:00:00
+101143,,,,5218,0,0,0,8IB2.00,Contraceptiv advice for patients with epilepsy not indicated,2010-12-01 00:00:00
+72384,,,,623,0,0,0,9Of4.00,Epilepsy monitoring telephone invite,2009-02-01 00:00:00
+55665,,,,11,0,0,0,F254300,Limbic system epilepsy,2009-02-01 00:00:00
+9326,,,,446767,547,0,0,8BIF.00,Epilepsy medication review,2009-02-01 00:00:00
+8385,,,,7173,37,0,0,2126000,Epilepsy resolved,2009-02-01 00:00:00
+13220,,,,1388,23,0,0,667D.00,Epilepsy control poor,2009-02-01 00:00:00
+100920,,,,17301,8,0,0,67IJ000,Pre-conception advice for patients with epilepsy,2010-11-01 00:00:00
+9747,,,,10442,284,1,0,F25z.00,Epilepsy NOS,2009-02-01 00:00:00
+26619,,,,257,8,0,0,667K.00,Epilepsy limits activities,2009-02-01 00:00:00
+38307,,,,328,9,0,0,F25y.00,Other forms of epilepsy,2009-02-01 00:00:00
+36696,,,,4688,72,0,0,667Z.00,Epilepsy monitoring NOS,2009-02-01 00:00:00
+102190,,,,867,0,0,0,8IAg.00,Contraceptive advice for patients with epilepsy declined,2011-05-01 00:00:00
+4801,,,,1424,79,0,0,F251300,Epileptic seizures - myoclonic,2009-02-01 00:00:00
+27526,,,,125,4,0,0,F255z00,Partial epilepsy without impairment of consciousness NOS,2009-02-01 00:00:00
+98870,,,,3,0,0,0,F255311,Partial epilepsy with autonomic symptoms,2010-04-01 00:00:00
+45927,,,,111,0,0,0,F251y00,Other specified generalised convulsive epilepsy,2009-02-01 00:00:00
+55260,,,,3,1,0,0,F25y000,Cursive (running) epilepsy,2009-02-01 00:00:00
+3783,,,,19562,991,0,0,1473,H/O: epilepsy,2009-02-01 00:00:00
+68946,,,,4,0,0,0,F255500,Unilateral epilepsy,2009-02-01 00:00:00
+30604,,,,503,2,0,0,F25B.00,Alcohol-induced epilepsy,2009-02-01 00:00:00

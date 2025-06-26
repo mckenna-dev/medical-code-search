@@ -1,0 +1,18 @@
+med_code_id,term,snomed_ct_concept_id,observations
+249794016,FH: Diabetes mellitus,160303001,5000000
+2549389017,FH: Diabetes mellitus in first degree relative,416855002,300000
+339351000006110,Family history: Diabetes mellitus,160303001,200000
+2773644011,Family history of diabetes mellitus type 1,430678008,100000
+2773645012,Family history of diabetes mellitus type 2,430679000,100000
+460375010,[V]Family history of diabetes mellitus,160303001,20000
+958051000006110,FH: Diabetes mellitus father,958051000006106,10000
+13788911000006117,Family history of diabetes mellitus,160303001,10000
+1227610014,[V]Family history of diabetes mellitus (DM),160303001,9000
+1751441000006116,Family history of diabetes mellitus type II,430679000,8000
+958041000006113,FH: Diabetes mellitus brother,958041000006109,4000
+958061000006112,FH: Diabetes mellitus mother,958061000006108,4000
+958031000006115,FH: Diabetes mellitus sister,958031000006104,3000
+958011000006114,FH: Diabetes mellitus in first degree relative,958011000006105,3000
+13831691000006117,Family history of diabetes mellitus in first degree relative,416855002,700
+958021000006118,FH: Diabetes mellitus child,958021000006102,600
+6898471000006112,Family history: Diabetes mellitus in first degree relative,416855002,2

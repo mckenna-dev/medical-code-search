@@ -1,0 +1,183 @@
+	MedCodeId	Observations	Term	thyroid_disease
+0	a101891000006113	800	Thyrotoxicosis without mention of goitre or cause no crisis	thyroid_disease
+1	a101911000006110	200	"Thyrotoxicosis without mention of goitre, cause with crisis"	thyroid_disease
+2	a1233040016	100	Myopathy due to thyrotoxicosis	thyroid_disease
+3	a123651000006111	5000	Subclinical iodine deficiency hypothyroidism	thyroid_disease
+4	a150375010	500000	Thyrotoxicosis	thyroid_disease
+5	a1539151000006110	500	Secondary hypothyroidism	thyroid_disease
+6	a178809013	2000000	Acquired hypothyroidism	thyroid_disease
+7	a1823931000006116	20	Hypothyroidism confirmed	thyroid_disease
+8	a1842051000006119	10	Subclinical hyperthyroidism	thyroid_disease
+9	a1842051000006119	10	Subclinical hyperthyroidism	thyroid_disease
+10	a211321000006115	100	Postinfectious hypothyroidism	thyroid_disease
+11	a216181000006112	5000	Postablative hypothyroidism	thyroid_disease
+12	a225971000000116	20000	Hypothyroidism monitoring administration	thyroid_disease
+13	a23518016	200	Neonatal thyrotoxicosis	thyroid_disease
+14	a2474336017	3000	Hypothyroidism clinical management plan	thyroid_disease
+15	a2533420013	10000	Hypothyroidism monitoring third letter	thyroid_disease
+16	a2533422017	200000	Hypothyroidism monitoring first letter	thyroid_disease
+17	a2533534011	40000	Hypothyroidism monitoring second letter	thyroid_disease
+18	a2536050019	90000	Post-surgical hypothyroidism	thyroid_disease
+19	a2548835019	5000	Hypothyroidism monitoring verbal invite	thyroid_disease
+20	a2588971000006116	1	Neonatal transient hyperthyroidism	thyroid_disease
+21	a2694637015	50000	Congenital hypothyroidism not suspected	thyroid_disease
+22	a2694637015	50000	Congenital hypothyroidism not suspected	thyroid_disease
+23	a2694980014	20000	Subclinical hyperthyroidism	thyroid_disease
+24	a2694980014	20000	Subclinical hyperthyroidism	thyroid_disease
+25	a2922501000006118	9	Thyrotoxicosis due to multinodular goitre	thyroid_disease
+26	a2922511000006115	1	Thyrotoxicosis with toxic multinodular goitre	thyroid_disease
+27	a292355019	10	Thyrotoxicosis from ectopic thyroid nodule with no crisis	thyroid_disease
+28	a292356018	2	Thyrotoxicosis from ectopic thyroid nodule with crisis	thyroid_disease
+29	a292357010	20	Thyrotoxicosis from ectopic thyroid nodule NOS	thyroid_disease
+30	a292361016	200	Thyrotoxicosis of other specified origin with no crisis	thyroid_disease
+31	a292362011	40	Thyrotoxicosis of other specified origin with crisis	thyroid_disease
+32	a292365013	300	Thyrotoxicosis of other specified origin NOS	thyroid_disease
+33	a292366014	40000	Thyrotoxicosis without mention of goitre or other cause	thyroid_disease
+34	a292372014	40000	Thyrotoxicosis NOS	thyroid_disease
+35	a292373016	60000	Congenital hypothyroidism	thyroid_disease
+36	a292373016	60000	Congenital hypothyroidism	thyroid_disease
+37	a292376012	80	Other specified congenital hypothyroidism	thyroid_disease
+38	a292376012	80	Other specified congenital hypothyroidism	thyroid_disease
+39	a292394018	2000	Other postablative hypothyroidism	thyroid_disease
+40	a292395017	20000	Irradiation hypothyroidism	thyroid_disease
+41	a292396016	3000	Postablative hypothyroidism NOS	thyroid_disease
+42	a292397013	10000	Iodine hypothyroidism	thyroid_disease
+43	a292400016	3000	Iatrogenic hypothyroidism	thyroid_disease
+44	a292401017	20	Hypothyroidism resulting from para-aminosalicylic acid	thyroid_disease
+45	a292402012	1	Hypothyroidism resulting from phenylbutazone	thyroid_disease
+46	a292403019	4	Hypothyroidism resulting from resorcinol	thyroid_disease
+47	a292404013	7000	Iatrogenic hypothyroidism NOS	thyroid_disease
+48	a292408011	500000	Other acquired hypothyroidism	thyroid_disease
+49	a292417011	40	Premature puberty due to hypothyroidism	thyroid_disease
+50	a2933321000006112	300	Postoperative hypothyroidism	thyroid_disease
+51	a2933341000006117	300	Postsurgical hypothyroidism	thyroid_disease
+52	a293750016	900	[X]Other thyrotoxicosis	thyroid_disease
+53	a297588017	20	Myasthenic syndrome due to hypothyroidism	thyroid_disease
+54	a297591017	40	Myasthenic syndrome due to thyrotoxicosis	thyroid_disease
+55	a3152641000006114	30	Hypothyroidism following radioiodine therapy	thyroid_disease
+56	a3152651000006111	1	Radioactive iodine-induced hypothyroidism	thyroid_disease
+57	a316625012	50	Neonatal jaundice with congenital hypothyroidism	thyroid_disease
+58	a316625012	50	Neonatal jaundice with congenital hypothyroidism	thyroid_disease
+59	a3508461000006113	8	Hyperthyroidism secondary to amiodarone	thyroid_disease
+60	a3508471000006118	1	Amiodarone-induced thyrotoxicosis	thyroid_disease
+61	a3513939016	2	Hyperthyroidism in pregnancy	thyroid_disease
+62	a355957018	90	Congenital hypothyroidism without goitre	thyroid_disease
+63	a355957018	90	Congenital hypothyroidism without goitre	thyroid_disease
+64	a355987012	70	Chronic thyroiditis with transient thyrotoxicosis	thyroid_disease
+65	a355987012	70	Chronic thyroiditis with transient thyrotoxicosis	thyroid_disease
+66	a355987012	70	Chronic thyroiditis with transient thyrotoxicosis	thyroid_disease
+67	a3700961000006117	8	Thyrotoxicosis with toxic single thyroid nodule	thyroid_disease
+68	a3843671000006116	900	Secondary hypothyroidism	thyroid_disease
+69	a3918261000006117	2	Hyperthyroidism due to ectopic thyroid nodule	thyroid_disease
+70	a3918281000006110	1	Thyrotoxicosis from ectopic thyroid tissue	thyroid_disease
+71	a398782015	700	Thyrotoxicosis of other specified origin	thyroid_disease
+72	a398783013	2000	Congenital hypothyroidism NOS	thyroid_disease
+73	a398783013	2000	Congenital hypothyroidism NOS	thyroid_disease
+74	a398784019	500000	Hypothyroidism NOS	thyroid_disease
+75	a406721000000115	6000	Hypothyroidism monitoring telephone invitation	thyroid_disease
+76	a413721000006119	500	[X]Other sp cified hypothyroidism	thyroid_disease
+77	a415432015	60	Congenital hypothyroidism with diffuse goitre	thyroid_disease
+78	a415432015	60	Congenital hypothyroidism with diffuse goitre	thyroid_disease
+79	a4197341000006114	6	Primary hypothyroidism	thyroid_disease
+80	a507481016	200	Thyrotoxicosis from ectopic thyroid nodule	thyroid_disease
+81	a5108031000006113	200	Thyrotoxicosis due to Graves' disease	thyroid_disease
+82	a5108041000006115	4	Autoimmune thyrotoxicosis	thyroid_disease
+83	a5108061000006116	2	Thyrotoxicosis due to acute thyroiditis	thyroid_disease
+84	a5108061000006116	2	Thyrotoxicosis due to acute thyroiditis	thyroid_disease
+85	a5108061000006116	2	Thyrotoxicosis due to acute thyroiditis	thyroid_disease
+86	a5108071000006111	10	Borderline thyrotoxicosis	thyroid_disease
+87	a5108121000006111	1	Gestational thyrotoxicosis	thyroid_disease
+88	a5108191000006113	4	Thyrotoxicosis on thyroxine therapy	thyroid_disease
+89	a5108191000006113	4	Thyrotoxicosis on thyroxine therapy	thyroid_disease
+90	a5108351000006116	1000	Autoimmune hypothyroidism	thyroid_disease
+91	a5108381000006112	10	Hypothyroidism with positive thyroid antibodies	thyroid_disease
+92	a5108391000006110	80	Hypothyroidism due to Hashimoto's thyroiditis	thyroid_disease
+93	a5108391000006110	80	Hypothyroidism due to Hashimoto's thyroiditis	thyroid_disease
+94	a5108391000006110	80	Hypothyroidism due to Hashimoto's thyroiditis	thyroid_disease
+95	a5108391000006110	80	Hypothyroidism due to Hashimoto's thyroiditis	thyroid_disease
+96	a5108401000006112	1	Hypothyroidism due to Hashimoto thyroiditis	thyroid_disease
+97	a5108401000006112	1	Hypothyroidism due to Hashimoto thyroiditis	thyroid_disease
+98	a5108401000006112	1	Hypothyroidism due to Hashimoto thyroiditis	thyroid_disease
+99	a5108411000006110	3	Hypothyroidism due to TSH receptor blocking antibody	thyroid_disease
+100	a5108411000006110	3	Hypothyroidism due to TSH receptor blocking antibody	thyroid_disease
+101	a5108431000006116	8	Borderline hypothyroidism	thyroid_disease
+102	a5108441000006114	30	Compensated hypothyroidism	thyroid_disease
+103	a5108491000006117	7	Post-infectious hypothyroidism	thyroid_disease
+104	a5500041000006112	2	Thyrotoxicosis with diffuse goitre	thyroid_disease
+105	a5581861000006113	1	Ophthalmic Graves disease	thyroid_disease
+106	a5587171000006118	4	Transient neonatal hypothyroidism	thyroid_disease
+107	a5720991000006112	30	Thyrotoxicosis with or without goitre	thyroid_disease
+108	a5721011000006111	5	Hypothyroidism - congenital and acquired	thyroid_disease
+109	a57561015	500000	Hyperthyroidism	thyroid_disease
+110	a6196461000006114	100	Graves disease	thyroid_disease
+111	a637341000000118	30000	Hypothyroidism annual review	thyroid_disease
+112	a661271000006114	20	Factitia thyrotoxicosis	thyroid_disease
+113	a68268011	3000000	Hypothyroidism	thyroid_disease
+114	a6858301000006118	70	Hypothyroidism monitoring invitation	thyroid_disease
+115	a7084321000006110	2	Hypothyroidism in pregnancy	thyroid_disease
+116	a7096871000006113	200	Congenital hypothyroidism (CHT) not suspected	thyroid_disease
+117	a7096871000006113	200	Congenital hypothyroidism (CHT) not suspected	thyroid_disease
+118	a8026401000006116	6	Did not attend hyperthyroidism clinic	thyroid_disease
+119	a8065681000006113	200	Hypothyroidism review	thyroid_disease
+120	a8118651000006118	5	Hypothyroidism caused by drug	thyroid_disease
+121	a8118661000006116	6	Drug-induced hypothyroidism	thyroid_disease
+122	a881371000006111	4000	Thyrotoxicosis +/- goitre	thyroid_disease
+123	a881381000006114	10000	Hypothyroidism-congen.+ acqui.	thyroid_disease
+124	a881391000006112	70000	Acquired hypothyroidism NOS	thyroid_disease
+125	a905741000006112	1000	[RFC] Hyperthyroidism	thyroid_disease
+126	a91116012	200000	Subclinical hypothyroidism	thyroid_disease
+127	a91116012	200000	Subclinical hypothyroidism	thyroid_disease
+128	a933261000006110	400	Subclinical hypothyroidism	thyroid_disease
+129	a933261000006110	400	Subclinical hypothyroidism	thyroid_disease
+130	a9370014	20	Thyrotoxicosis factitia	thyroid_disease
+131	a939981000006114	6000	Hypothyroidism medication review	thyroid_disease
+132	a940091000006115	2	Hypothyroidism monitoring administration	thyroid_disease
+133	a940101000006114	10000	Hypothyroidism monitoring invite 1	thyroid_disease
+134	a940111000006112	2000	Hypothyroidism monitoring invite 2	thyroid_disease
+135	a940121000006116	500	Hypothyroidism monitoring invite 3	thyroid_disease
+136	a988821000006117	10	Subclinical hypothyroidism	thyroid_disease
+137	a988821000006117	10	Subclinical hypothyroidism	thyroid_disease
+138	a988831000006119	30	Acquired hypothyroidism NOS	thyroid_disease
+139	a101171000006116	80000	Thyroid deficiency	thyroid_disease
+140	a101581000006112	1000	Thyroid insufficiency	thyroid_disease
+141	a196525014	10000	Toxic multinodular goitre	thyroid_disease
+142	a200396013	2000	Toxic uninodular goitre	thyroid_disease
+143	a208391000006113	700	Pretibial myxoedema - hypothyroid	thyroid_disease
+144	a292327018	400	Toxic diffuse goitre with no crisis	thyroid_disease
+145	a292330013	40	Toxic diffuse goitre with crisis	thyroid_disease
+146	a292331012	500	Toxic diffuse goitre NOS	thyroid_disease
+147	a292334016	50	Toxic uninodular goitre with no crisis	thyroid_disease
+148	a292335015	1	Toxic uninodular goitre with crisis	thyroid_disease
+149	a292338018	30	Toxic uninodular goitre NOS	thyroid_disease
+150	a292339014	300	Toxic multinodular goitre with no crisis	thyroid_disease
+151	a292342015	10	Toxic multinodular goitre with crisis	thyroid_disease
+152	a292343013	800	Toxic multinodular goitre NOS	thyroid_disease
+153	a292347014	80	Toxic nodular goitre unspecified with no crisis	thyroid_disease
+154	a292350012	6	Toxic nodular goitre unspecified with crisis	thyroid_disease
+155	a292354015	900	Toxic nodular goitre NOS	thyroid_disease
+156	a297611000006111	80000	Non-toxic multinodular goitre	thyroid_disease
+157	a297631000006117	1000	Nontoxic nodular goitre NOS	thyroid_disease
+158	a297641000006110	5000	Non-toxic uninodular goitre	thyroid_disease
+159	a3084131000006118	1	Multinodular non-toxic goitre	thyroid_disease
+160	a329968011	90	Cretinism	thyroid_disease
+161	a355932011	5000	Toxic goitre	thyroid_disease
+162	a355961012	2000	"Hypothyroid goitre, acquired"	thyroid_disease
+163	a355964016	10000	Autoimmune myxoedema	thyroid_disease
+164	a356012016	700	Acquired atrophy of thyroid	thyroid_disease
+165	a356406019	20	Thyroid-associated dermopathy	thyroid_disease
+166	a35727012	70	Myxoedema coma	thyroid_disease
+167	a3771061000006115	8	Pretibial myxoedema	thyroid_disease
+168	a3927661000006113	2	Myxoedema myopathy	thyroid_disease
+169	a398780011	10000	Toxic diffuse goitre	thyroid_disease
+170	a415431010	10	Goitrous cretin	thyroid_disease
+171	a416051000006119	400	[X]Other specified nontoxic goitre	thyroid_disease
+172	a428591000006112	2	[X]Systemic atrophy affecting the CNS in myxoedema	thyroid_disease
+173	a48600017	200	Thyroid crisis	thyroid_disease
+174	a493538010	100000	Myxoedema	thyroid_disease
+175	a542301000006117	8	Cerebellar ataxia due to myxoedema	thyroid_disease
+176	a542671000006117	20	Cerebral degeneration due to myxoedema	thyroid_disease
+177	a5500011000006113	6	Non-toxic goitre	thyroid_disease
+178	a583291000006115	30	"Congenital iodine-deficiency syndrome, myxoedematous type"	thyroid_disease
+179	a588661000006115	60	Congenital thyroid insufficiency	thyroid_disease
+180	a600791000006112	200	Cretinism	thyroid_disease
+181	a682701000006117	60	Myopathy due to myxoedema	thyroid_disease

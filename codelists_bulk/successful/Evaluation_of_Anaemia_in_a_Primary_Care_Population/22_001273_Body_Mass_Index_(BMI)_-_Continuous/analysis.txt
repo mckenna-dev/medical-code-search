@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 15
+Columns: 1
+Column names: ['\tColumn0\tMedCodeId\tTerm\tCount']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                      \tColumn0\tMedCodeId\tTerm\tCount
+0                          0\t18\ta100716012\tBody mass index\t66499074
+1             1\t305\ta253848011\tBody mass index 30+ - obesity\t270339
+2  2\t324\ta253847018\tBody mass index index 25-29 - overweight\t235946

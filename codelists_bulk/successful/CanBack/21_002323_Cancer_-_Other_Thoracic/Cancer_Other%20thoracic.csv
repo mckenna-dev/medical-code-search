@@ -1,0 +1,2 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2032,Cancer,Other thoracic,a723301000006110,Malignant neoplasm of overlapping lesion of bronchus & lung,L1:Cancer_L2:Other thoracic,B225.00

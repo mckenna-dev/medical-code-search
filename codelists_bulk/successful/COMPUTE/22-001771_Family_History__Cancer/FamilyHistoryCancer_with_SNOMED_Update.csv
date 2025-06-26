@@ -1,0 +1,27 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+411911014,700000,FH: Cancer - *,275937001
+672921000006116,400000,Family history of breast cancer,429740004
+411038017,200000,FH: Bowel cancer,275109007
+460341014,100000,Family history of cancer,275937001
+2533391019,80000,Family history of prostate cancer,414205003
+672891000006110,60000,FH: Bowel cancer,275109007
+411037010,30000,FH: Stomach cancer,275108004
+411039013,3000,FH: Bronchus cancer,275110002
+1882771000006119,3000,FH: Bladder cancer,430542006
+707381000006116,2000,FH: Intestinal cancer,429006005
+6021761000006112,300,Family history of cancer of colon,312824007
+5569431000006119,40,Family history: Bowel cancer,275109007
+7097031000006118,20,Family history of lung cancer,429011007
+12348091000006114,10,Family history of breast cancer,429740004
+7968451000006112,4,Family history of colorectal cancer,1421000119104
+7096891000006114,4,Family history of pancreatic cancer,429000004
+5569411000006113,4,Family history: Stomach cancer,275108004
+7972601000006118,3,Family history of ovarian cancer in first degree relative,2301000119106
+7082661000006119,3,Family history of cancer of the uterine cervix,428047000
+7100281000006116,3,Family history of liver cancer,429236009
+7118411000006112,2,Family history of cancer of the oesophagus,430331003
+7102791000006110,2,Family history of skin cancer,429405004
+7100531000006119,1,Family history of cancer of the bone,429252007
+7093041000006119,1,Family history of male breast cancer,428748002
+7122721000006118,1,Family history of cancer of testicle,430527008
+3515819019,1,Family history of breast cancer gene BRCA mutation,31881000119108

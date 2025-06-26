@@ -1,0 +1,11 @@
+	MedCodeId	Observations	Term	unexpected_weight_loss
+0	a1715211000000118	40000	Unintentional weight loss	unexpected_weight_loss
+1	a1780210016	70000	Weight loss from baseline weight	unexpected_weight_loss
+2	a2549043017	30000	Intentional weight loss	unexpected_weight_loss
+3	a299281000000119	100000	Complaining of weight loss	unexpected_weight_loss
+4	a317962019	8000	Cachexia	unexpected_weight_loss
+5	a397867018	600000	Abnormal weight loss	unexpected_weight_loss
+6	a437661000006118	200000	Abnormal weight loss - symptom	unexpected_weight_loss
+7	a252192019	300000	Weight decreasing	unexpected_weight_loss
+8	a317237014	200000	[D]Abnormal loss of weight	unexpected_weight_loss
+9	a253562014	5000	O/E - cachexic	unexpected_weight_loss

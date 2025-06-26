@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 7
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                      Term  SNOMED_CT_Concept_ID
+0  145701000006116      14205817   Serum vitamin B12 level       993391000000108
+1       2159281019        269796  Plasma vitamin B12 level      1003061000000105
+2  836101000006119          2544         Vitamin B12 level             365604004

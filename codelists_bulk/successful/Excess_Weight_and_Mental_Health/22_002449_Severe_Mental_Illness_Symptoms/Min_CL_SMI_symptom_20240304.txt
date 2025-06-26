@@ -1,0 +1,317 @@
+	MedCodeId	Observations	Term	SMI_symptom
+0	223601000000119	4000.0	Manic psychosis	SMI_symptom
+1	294806015	1000.0	Single manic episode, severe, with psychosis	SMI_symptom
+2	396741000006113	8000.0	[X]Manic episode	SMI_symptom
+3	2157096015	1000.0	Manic mood	SMI_symptom
+4	851691000006114		Hypomanic	SMI_symptom
+5	3175731000006118	2.0	Amok	SMI_symptom
+6	914461000006118	300.0	[X]Capgras syndrome	SMI_symptom
+7	914471000006113	100.0	[X]Delusional misidentification syndrome	SMI_symptom
+8	3224391000006119	3.0	Capgras syndrome	SMI_symptom
+9	967791000006111	70.0	[X]Cotard syndrome	SMI_symptom
+10	5128661000006118	1.0	Delusion of foul odour	SMI_symptom
+11	2532965018	200.0	Erotomania	SMI_symptom
+12	5645621000006116	5.0	De Clerambault's syndrome	SMI_symptom
+13	369805011	900.0	Grandiose delusions	SMI_symptom
+14	389401000006111	40000.0	Hypomania	SMI_symptom
+15	5649431000006118	8.0	Hypomanic mood	SMI_symptom
+16	492910018	400.0	Ideas of reference	SMI_symptom
+17	425921000006114	10.0	[X]Sensitiver Beziehungswahn	SMI_symptom
+18	3760411000006111	4.0	Jealous delusion disorder	SMI_symptom
+19	423041000006119	200.0	[X]Post-schizophrenic depression	SMI_symptom
+20	5023901000006110	4.0	Post-schizophrenic depression	SMI_symptom
+21	294920014	3000.0	Reactive confusion	SMI_symptom
+22	294810017	2000.0	Recurrent manic episodes	SMI_symptom
+23	294811018	400.0	Recurrent manic episodes, unspecified	SMI_symptom
+24	294818012	300.0	Recurrent manic episode NOS	SMI_symptom
+25	424661000006111	200.0	[X]Recurrent manic episodes	SMI_symptom
+26	294812013	200.0	Recurrent manic episodes, mild	SMI_symptom
+27	294813015	300.0	Recurrent manic episodes, moderate	SMI_symptom
+28	182871000006115	60.0	Recurrent manic episodes, severe	SMI_symptom
+29	294927012	50.0	Psychogenic stupor	SMI_symptom
+30	294817019	400.0	Recurrent manic episodes, in full remission	SMI_symptom
+31	182861000006110	60.0	Recurrent manic episodes, in partial remission	SMI_symptom
+32	294808019	1000.0	Single manic episode in full remission	SMI_symptom
+33	294807012	20.0	Single manic episode in partial remission	SMI_symptom
+34	8237871000006117	5.0	Single manic episode in remission	SMI_symptom
+35	7515091000006113	1.0	Delusional disorder in remission	SMI_symptom
+36	424231000006116	100000.0	Psychotic	SMI_symptom
+37	294840015	10000.0	Recurrent major depressive episodes, severe, with psychosis	SMI_symptom
+38	423271000006116	30.0	Prepsychotic schizophrenia	SMI_symptom
+39	423471000006117	300.0	Prodromal schizophrenia	SMI_symptom
+40	294828015	10000.0	Single major depressive episode, severe, with psychosis	SMI_symptom
+41	426921000006115	800.0	[X]Single episode of major depression and psychotic symptoms	SMI_symptom
+42	789221000006116	6000.0	Hypomanic psychoses	SMI_symptom
+43	294803011	2000.0	Single manic episode, mild	SMI_symptom
+44	294804017	300.0	Single manic episode, moderate	SMI_symptom
+45	294805016	200.0	Single manic episode, severe	SMI_symptom
+46	425671000006115	80.0	[X]Schizophrenic reaction	SMI_symptom
+47	368011000006110	60.0	[X]Brief schizophrenifrm psych	SMI_symptom
+48	368001000006112	50.0	[X]Brief schizophreniform disorder	SMI_symptom
+49	294898011	2000.0	Unspecified affective psychoses NOS	SMI_symptom
+50	296118012	200.0	[X]Other manic episodes	SMI_symptom
+51	396761000006112	8.0	[X]Manic stupor	SMI_symptom
+52	294802018	2000.0	Single manic episode, unspecified	SMI_symptom
+53	401864017	1000.0	[X]Manic episode, unspecified	SMI_symptom
+54	294809010	500.0	Manic disorder, single episode NOS	SMI_symptom
+55	1972351000006113	9.0	Mental & behav dis due to cannabinoids: psychotic disordr, predominantly manic symptoms	SMI_symptom
+56	1971571000006118	6.0	Mental & behav dis due to use opioids: psychotic disorder, predominantly depressive symptoms	SMI_symptom
+57	1973151000006119	3.0	Mental and behav dis due to vol solvents: resid & late-onset psychotic dis, personality or behaviour disorder	SMI_symptom
+58	1972331000006118	3.0	Mental & behav dis due to cannabinoids: psychotic disordr, predominantly depressive symptoms	SMI_symptom
+59	1975371000006110	3.0	Mental & behav dis due to use alcohol: psychotic disorder, predominantly depressive symptoms	SMI_symptom
+60	1973751000006115	2.0	Mental & behav dis due to use cocaine: psychotic disorder, predominantly manic symptoms	SMI_symptom
+61	1973061000006116	1.0	Mental & behav dis due to hallucinogens: psychotic disord, predominantly manic symptoms	SMI_symptom
+62	1973041000006115	1.0	Mental & behav dis due to hallucinogens: psychotic disord, predominantly depressive symptoms	SMI_symptom
+63	1972961000006114	1.0	Mental & behav dis due to seds/hypntcs: psychotic disordr, predominantly manic symptoms	SMI_symptom
+64	1972941000006110	1.0	Mental & behav dis due to seds/hypntcs: psychotic disordr, predominantly depressive symptoms	SMI_symptom
+65	1971601000006113	1.0	Mental & behav dis due to use opioids: psychotic disorder, predominantly manic symptoms	SMI_symptom
+66	1973111000006115	1.0	Mental & behav dis due to vol solvents: psychotic disordr, predominantly depressive symptoms	SMI_symptom
+67	1975701000006115	1.0	Mental and behav dis due to other stimulants inc caffeine: psychotic dis, predominantly manic symptoms	SMI_symptom
+68	1975651000006114	1.0	Mental and behav dis due to other stimulants inc caffeine: psychotic dis, predominantly depressive symptoms	SMI_symptom
+69	1975411000006111	1.0	Mental & behav dis due to use alcohol: psychotic disorder, predominantly manic symptoms	SMI_symptom
+70	1974791000006111	1.0	Mental & behav dis due to use tobacco: psychotic disorder, predominantly manic symptoms	SMI_symptom
+71	1974761000006115	1.0	Mental & behav dis due to use tobacco: psychotic disorder, predominantly depressive symptoms	SMI_symptom
+72	1973121000006111	1.0	Mental & behav dis due to vol solvents: psychotic disordr, predominantly manic symptoms	SMI_symptom
+73	1973731000006110	1.0	Mental & behav dis due to use cocaine: psychotic disorder, predominantly depressive symptoms	SMI_symptom
+74	1755901000006112	2000.0	[X]Single major depressive episode, severe, with psychosis, psychosis in remission	SMI_symptom
+75	8232571000006118	400.0	Single major depressive episode, severe, with psychosis, psychosis in remission	SMI_symptom
+76	294938012	7.0	Active disintegrative psychoses	SMI_symptom
+77	401770015	2000.0	Acute paranoid reaction	SMI_symptom
+78	362971000006117	200.0	[X]Alcoholic paranoia	SMI_symptom
+79	397201000006116	100.0	[X]Men & behav dis due alcoh: resid & late-onset psychot dis	SMI_symptom
+80	362961000006112	30.0	[X]Alcoholic jealousy	SMI_symptom
+81	523481000006114	20.0	Bouffee delirante	SMI_symptom
+82	3527771000006116	1.0	Boufface daclirante	SMI_symptom
+83	367961000006110	1.0	[X]Bouffee delirante	SMI_symptom
+84	1452014	2000.0	Delusion of persecution	SMI_symptom
+85	2502001000006113	5.0	Persecutory delusion	SMI_symptom
+86	2501991000006111	2.0	Paranoid reaction	SMI_symptom
+87	5614141000006110	10.0	Delusional dysmorphophobia	SMI_symptom
+88	5128691000006114	1.0	Delusional hyperhidrosis	SMI_symptom
+89	5247211000006115	7.0	Delusional mood	SMI_symptom
+90	480834016	30000.0	Delusions	SMI_symptom
+91	4569010	3000.0	Delusion	SMI_symptom
+92	2531671000006114	40.0	Delusional thoughts	SMI_symptom
+93	2531681000006112	20.0	Delusional ideas	SMI_symptom
+94	5128651000006115	7.0	Delusions of infestation	SMI_symptom
+95	5128641000006117	40.0	Delusions of parasitosis	SMI_symptom
+96	294686015	500.0	Other drug psychoses	SMI_symptom
+97	294692014	100.0	Other drug psychoses NOS	SMI_symptom
+98	389651000006112	60.0	[X]Induced paranoid disorder	SMI_symptom
+99	3504791000006115	30.0	Induced paranoid disorder	SMI_symptom
+100	5023961000006111	7.0	Manic	SMI_symptom
+101	401765010	40000.0	Manic disorder, single episode	SMI_symptom
+102	753321000006116	700.0	Korsakoff's syndrome - non-alcoholic	SMI_symptom
+103	1221500015	200.0	Non-alcoholic amnestic syndrome	SMI_symptom
+104	2773831000006113	30.0	Korsakov's syndrome - non-alcoholic	SMI_symptom
+105	294724012	30000.0	Non-organic psychoses	SMI_symptom
+106	25461000006115	3000.0	Other nonorganic psychoses	SMI_symptom
+107	294949018	500.0	Other specified non-organic psychoses	SMI_symptom
+108	2549129012	5000.0	O/E - paranoid delusions	SMI_symptom
+109	397161000006110	3.0	[X]Men & beh dis due opioids: resid & late-onset psychot dis	SMI_symptom
+110	882221000006114	200.0	Other alcoholic psychoses	SMI_symptom
+111	4941461000006118	90.0	Paranoid delusion	SMI_symptom
+112	243361000006117	100000.0	Paranoid disorder	SMI_symptom
+113	418231000006115	5000.0	[X]Paranoid state	SMI_symptom
+114	882331000006116	2000.0	Paranoia	SMI_symptom
+115	294910016	900.0	Other paranoid states	SMI_symptom
+116	294912012	600.0	Other paranoid states NOS	SMI_symptom
+117	4764391000006115	300.0	Paranoia	SMI_symptom
+118	2548181016	30000.0	Paranoid ideation	SMI_symptom
+119	215871000000115	30000.0	[X]Paranoia	SMI_symptom
+120	376501000006110	900.0	[X]Delusional dysmorphophobia	SMI_symptom
+121	394461000006110	30.0	[X]Involutional paranoid state	SMI_symptom
+122	418181000006110	10.0	[X]Paranoia querulans	SMI_symptom
+123	5933701000006116	6.0	Profile of mood states, bipolar	SMI_symptom
+124	346896012	1000.0	Reactive psychoses	SMI_symptom
+125	294926015	300.0	Other reactive psychoses	SMI_symptom
+126	294929010	300.0	Other reactive psychoses NOS	SMI_symptom
+127	294939016	4.0	Residual disintegrative psychoses	SMI_symptom
+128	5248961000006113	20.0	Schizophrenic prodrome	SMI_symptom
+129	4082931000006110	3.0	Schizophrenic reaction	SMI_symptom
+130	424571000006115	5000.0	[X]Recurrent depress disorder cur epi severe with psyc symp	SMI_symptom
+131	294908018	60.0	Folie a deux	SMI_symptom
+132	294909014	30.0	Shared paranoid disorder	SMI_symptom
+133	387071000006117	10.0	[X]Folie a deux	SMI_symptom
+134	294904016	5000.0	Simple paranoid state	SMI_symptom
+135	3036131000006117	3.0	Somatic delusion disorder	SMI_symptom
+136	613791000006115	30000.0	Depressive psychoses	SMI_symptom
+137	370981000006112	700.0	[X]Chronic hallucinatory psychosis	SMI_symptom
+138	294919015	900.0	Acute hysterical psychosis	SMI_symptom
+139	5568191000006118	100.0	Acute polymorphic psychotic disorder	SMI_symptom
+140	362381000006115	2000.0	Acute polymorphic psychotic disorder co-occurrent with symptoms of schizophrenia	SMI_symptom
+141	7696261000006113	1.0	Acute polymorphic psychotic disorder with symptoms of schizophrenia	SMI_symptom
+142	362391000006117	2000.0	Acute polymorphic psychotic disorder without symptoms of schizophrenia	SMI_symptom
+143	2730111000000111	10.0	Acute predominantly delusional psychotic disorder	SMI_symptom
+144	362271000006110	20000.0	Acute transient psychotic disorder	SMI_symptom
+145	401860014	4000.0	[X]Acute and transient psychotic disorder, unspecified	SMI_symptom
+146	367991000006119	1000.0	[X]Brief reactive psychosis NOS	SMI_symptom
+147	401859016	700.0	[X]Other acute predominantly delusional psychotic disorders	SMI_symptom
+148	296083012	600.0	[X]Other acute and transient psychotic disorders	SMI_symptom
+149	476741000006111	4000.0	Alcohol-induced psychosis	SMI_symptom
+150	294673012	3000.0	Other alcoholic psychosis	SMI_symptom
+151	362981000006119	900.0	[X]Alcoholic psychosis NOS	SMI_symptom
+152	397621000006111	900.0	Alcohol-induced psychosis	SMI_symptom
+153	294676016	600.0	Alcoholic psychosis NOS	SMI_symptom
+154	294675017	40.0	Other alcoholic psychosis NOS	SMI_symptom
+155	2586801000006115	3.0	Brief psychotic disorder	SMI_symptom
+156	397581000006111	2000.0	Cannabis-induced psychosis	SMI_symptom
+157	397641000006116	200.0	Cocaine-induced psychosis	SMI_symptom
+158	294693016	20000.0	Drug psychosis NOS	SMI_symptom
+159	630831000006113	10000.0	Drug psychosis	SMI_symptom
+160	4763211000006118	3000.0	Drug-induced psychosis	SMI_symptom
+161	397541000006117	400.0	[X]Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: psychotic disorder	SMI_symptom
+162	4763231000006112	20.0	Drug induced psychosis	SMI_symptom
+163	12736721000006110	300.0	FEP - first episode psychosis	SMI_symptom
+164	397591000006114	80.0	[X]Mental and behavioural disorders due to use of hallucinogens: psychotic disorder	SMI_symptom
+165	389661000006114	1000.0	[X]Induced psychotic disorder	SMI_symptom
+166	3504751000006114	100.0	Induced psychosis	SMI_symptom
+167	3504721000006117	4.0	Induced psychotic disorder	SMI_symptom
+168	401863011	6000.0	[X]Mania with psychotic symptoms	SMI_symptom
+169	396701000006111	100.0	[X]Mania with mood-congruent psychotic symptoms	SMI_symptom
+170	396711000006114	50.0	[X]Mania with mood-incongruent psychotic symptoms	SMI_symptom
+171	2730071000000117	1.0	Mania with mood-incongruent psychotic features	SMI_symptom
+172	2730091000000118	90.0	Mania with psychotic features	SMI_symptom
+173	5106071000006112	3.0	Mild postnatal psychosis	SMI_symptom
+174	223611000000117	30000.0	Non-organic psychosis	SMI_symptom
+175	401862018	10000.0	[X]Unspecified nonorganic psychosis	SMI_symptom
+176	401771016	8000.0	Non-organic psychosis NOS	SMI_symptom
+177	412201000006113	2000.0	[X]Other nonorganic psychotic disorders	SMI_symptom
+178	397661000006117	300.0	Opioid-induced psychosis	SMI_symptom
+179	294913019	70000.0	Paranoid psychosis	SMI_symptom
+180	215851000000112	40000.0	[X]Paranoid psychosis	SMI_symptom
+181	418261000006112	200.0	[X]Paraphrenic schizophrenia	SMI_symptom
+182	294714016	6000.0	Postpartum psychosis	SMI_symptom
+183	294924017	1000.0	Psychogenic paranoid psychosis	SMI_symptom
+184	424071000006112	500.0	[X]Psychogenic paranoid psychosis	SMI_symptom
+185	346895011	100000.0	Psychotic disorder	SMI_symptom
+186	3627341000006115	200.0	Psychosis	SMI_symptom
+187	398281000006112	50.0	[X]Mental and behavioural disorders due to use of other stimulants, including caffeine: psychotic disorder	SMI_symptom
+188	398741000006114	10.0	[X]Mental and behavioural disorders due to use of other stimulants, including caffeine: residual and late onset psychotic disorder	SMI_symptom
+189	3636410011	2.0	Psychotic disorder caused by stimulant	SMI_symptom
+190	1807561000006117	40.0	Psychotic symptom	SMI_symptom
+191	428451000006119	4000.0	Psychotic symptom present	SMI_symptom
+192	294918011	20000.0	Psychotic reactive depression	SMI_symptom
+193	294917018	10000.0	Reactive depressive psychosis	SMI_symptom
+194	426981000006116	200.0	[X]Single episode of reactive depressive psychosis	SMI_symptom
+195	426951000006112	100.0	[X]Single episode of psychogenic depressive psychosis	SMI_symptom
+196	8089301000006110	20.0	Reactive depressive psychosis, single episode	SMI_symptom
+197	424511000006112	2000.0	[X]Reactive psychosis	SMI_symptom
+198	2729751000000118	30.0	Recurrent depression with current severe episode and psychotic features	SMI_symptom
+199	424671000006116	4000.0	[X]Recurrent severe episodes of psychotic depression	SMI_symptom
+200	424551000006113	1000.0	[X]Recurr severe episodes/psychogenic depressive psychosis	SMI_symptom
+201	294815010	500.0	Recurrent manic episodes, severe, with psychosis	SMI_symptom
+202	424681000006118	400.0	Recurrent reactive depressive episodes, severe, with psychosis	SMI_symptom
+203	12115591000006111	1.0	Referral for cognitive behavioural therapy for psychosis	SMI_symptom
+204	300931000000113	4000.0	Referral to psychosis early intervention service	SMI_symptom
+205	397601000006118	30.0	[X]Mental and behavioural disorders due to use of sedatives or hypnotics: psychotic disorder	SMI_symptom
+206	424541000006111	2000.0	[X]Recurr severe episodes/major depression+psychotic symptom	SMI_symptom
+207	2957311000006113	500.0	Severe recurrent major depression with psychotic features	SMI_symptom
+208	401869010	50000.0	[X]Severe depressive episode with psychotic symptoms	SMI_symptom
+209	426961000006114	2000.0	[X]Single episode of psychotic depression	SMI_symptom
+210	882251000006117	400.0	Puerperal psychosis	SMI_symptom
+211	397691000006113	6.0	Volatile inhalant-induced psychosis	SMI_symptom
+212	853201000006116	5000.0	Obsessional compulsive psychosis	SMI_symptom
+213	424281000006115	4000.0	[X]Puerperal psychosis NOS	SMI_symptom
+214	402504012	2000.0	Psychotic condition, insight present	SMI_symptom
+215	215691000006112	800.0	Poor insight into psychotic condition	SMI_symptom
+216	2502581000000119	600.0	CBTp - cognitive behavioural therapy for psychosis	SMI_symptom
+217	7766271000006113	400.0	Cognitive behavioural therapy for psychosis	SMI_symptom
+218	401772011	400.0	Child psychosis NOS	SMI_symptom
+219	389451000006110	200.0	[X]Hysterical psychosis	SMI_symptom
+220	366551000006116	200.0	[X]Atypical childhood psychosis	SMI_symptom
+221	1972361000006110	200.0	Mental & behav dis due to cannabinoids: psychotic disordr, mixed	SMI_symptom
+222	1975461000006114	100.0	Mental & behav dis due to use alcohol: psychotic disorder, mixed	SMI_symptom
+223	1975901000006117	100.0	Acute and transient psychotic disorder, unspecified, with associated acute stress	SMI_symptom
+224	1975871000006117	90.0	Acute and transient psychotic disorder, unspecified, without associated acute stress	SMI_symptom
+225	1971631000006117	90.0	Mental & behav dis due to use opioids: psychotic disorder, mixed	SMI_symptom
+226	1975851000006110	60.0	Other acute and transient psychotic disorders, with associated acute stress	SMI_symptom
+227	119579013	60.0	Disintegrative psychosis	SMI_symptom
+228	1973791000006114	50.0	Mental & behav dis due to use cocaine: psychotic disorder, mixed	SMI_symptom
+229	8028531000006112	40.0	Early intervention in psychosis team	SMI_symptom
+230	980141000006119	40.0	[X]Mental and behavioural disorders due to use of crack cocaine: psychotic disorder	SMI_symptom
+231	294944011	30.0	Borderline psychosis of childhood	SMI_symptom
+232	1975291000006117	20.0	Mental & behav dis due to use alcohol: psychotic disorder, predominantly hallucinatory	SMI_symptom
+233	4764511000006119	20.0	Psychosis with origin in childhood	SMI_symptom
+234	6515001000006117	20.0	Early intervention in psychosis	SMI_symptom
+235	1012941000006110	20.0	Adverse reaction to Antipsychotic Depot Injections	SMI_symptom
+236	1975821000006118	20.0	Other acute and transient psychotic disorders, without associated acute stress	SMI_symptom
+237	1972261000006117	20.0	Mental & behav dis due to cannabinoids: psychotic disordr, schizophrenia-like	SMI_symptom
+238	428441000006116	20.0	[X]Symbiotic psychosis	SMI_symptom
+239	1975711000006117	10.0	Acute schizophrenia-like psychotic disorder, without associated acute stress	SMI_symptom
+240	1975721000006113	10.0	Mental and behav dis due to other stimulants inc caffeine psychotic dis, mixed	SMI_symptom
+241	1974321000006110	10.0	Mental and behav dis mlti drg use/oth psych subs: resid/late psychot dis, late-onset psychotic disorder	SMI_symptom
+242	1971501000006112	10.0	Mental & behav dis due to use opioids: psychotic disorder, predominantly delusional	SMI_symptom
+243	1972301000006114	10.0	Mental & behav dis due to cannabinoids: psychotic disordr, predominantly hallucinatory	SMI_symptom
+244	377461000006113	9.0	[X]Disintegrative psychosis	SMI_symptom
+245	1974811000006110	8.0	Mental & behav dis due to use tobacco: psychotic disorder, mixed	SMI_symptom
+246	397681000006110	8.0	[X]Mental and behavioural disorders due to use of tobacco: psychotic disorder	SMI_symptom
+247	1975781000006112	7.0	Other acute predominantly delusional psychotic disorders, with associated acute stress	SMI_symptom
+248	1972281000006110	7.0	Mental & behav dis due to cannabinoids: psychotic disordr, predominantly delusional	SMI_symptom
+249	1972971000006119	7.0	Mental & behav dis due to seds/hypntcs: psychotic disordr, mixed	SMI_symptom
+250	1975761000006119	5.0	Other acute predominantly delusional psychotic disorders, without associated acute stress	SMI_symptom
+251	1975611000006113	5.0	Mental and behav dis due to other stimulants inc caffeine: psychotic dis, predominantly hallucinatory	SMI_symptom
+252	1971471000006117	5.0	Mental & behav dis due to use opioids: psychotic disorder, schizophrenia-like	SMI_symptom
+253	1972461000006116	4.0	Mental & behav dis due to cannabinoids: resid & late-onset psychot dis, late-onset psychotic disorder	SMI_symptom
+254	1976191000006117	4.0	Mental and behav dis due to other stimulants inc caffeine: resid/late-onset psycht dis, late-onset psychotic disorder	SMI_symptom
+255	1975631000006119	4.0	Mental and behav dis due to other stimulants inc caffeine: psychotic dis, predominantly polymorphic	SMI_symptom
+256	1975561000006110	4.0	Mental and behav dis due to other stimulants inc caffeine: psychotic dis, schizophrenia-like	SMI_symptom
+257	1971531000006116	3.0	Mental & behav dis due to use opioids: psychotic disorder, predominantly polymorphic	SMI_symptom
+258	1976111000006110	3.0	Mental & behav dis due to use alcohol: resid & late-onset psychot dis, late-onset psychotic disorder	SMI_symptom
+259	1973161000006117	2.0	Mental and behav dis due to vol solvents: resid & late-onset psychotic dis, residual affective disorder	SMI_symptom
+260	1972051000006111	2.0	Mental & behav dis due to hallucinogens: psychotic disord, predominantly hallucinatory	SMI_symptom
+261	1973581000006116	2.0	Mental & behav dis due to use cocaine: psychotic disorder, schizophrenia-like	SMI_symptom
+262	1975181000006111	2.0	Mental & behav dis due to use alcohol: psychotic disorder, predominantly delusional	SMI_symptom
+263	1972321000006116	2.0	Mental & behav dis due to cannabinoids: psychotic disordr, predominantly polymorphic	SMI_symptom
+264	1973001000006117	2.0	Mental & behav dis due to hallucinogens: psychotic disord, predominantly polymorphic	SMI_symptom
+265	1974651000006110	2.0	Mental & behav dis due to use tobacco: psychotic disorder, schizophrenia-like	SMI_symptom
+266	294941015	2.0	Disintegrative psychosis NOS	SMI_symptom
+267	1975581000006117	2.0	Mental and behav dis due to other stimulants inc caffeine: psychotic dis, predominantly delusional	SMI_symptom
+268	1975141000006117	2.0	Mental & behav dis due to use alcohol: psychotic disorder, schizophrenia-like	SMI_symptom
+269	8342781000006115	1.0	Psychoactive substance-induced psychosis	SMI_symptom
+270	7859641000006116	1.0	Cocaine-induced psychotic disorder	SMI_symptom
+271	6519941000006116	1.0	Early intervention in psychosis - <1 contact/month	SMI_symptom
+272	1974681000006119	1.0	Mental & behav dis due to use tobacco: psychotic disorder, predominantly delusional	SMI_symptom
+273	1972861000006118	1.0	Mental & behav dis due to seds/hypntcs: psychotic disordr, schizophrenia-like	SMI_symptom
+274	1973071000006111	1.0	Mental & behav dis due to vol solvents: psychotic disordr, predominantly delusional	SMI_symptom
+275	1973051000006118	1.0	Mental & behav dis due to vol solvents: psychotic disordr, schizophrenia-like	SMI_symptom
+276	1972921000006115	1.0	Mental & behav dis due to seds/hypntcs: psychotic disordr, predominantly polymorphic	SMI_symptom
+277	1972901000006113	1.0	Mental & behav dis due to seds/hypntcs: psychotic disordr, predominantly hallucinatory	SMI_symptom
+278	1972881000006111	1.0	Mental & behav dis due to seds/hypntcs: psychotic disordr, predominantly delusional	SMI_symptom
+279	1972031000006116	1.0	Mental & behav dis due to hallucinogens: psychotic disord, predominantly delusional	SMI_symptom
+280	1973101000006118	1.0	Mental & behav dis due to vol solvents: psychotic disordr, predominantly polymorphic	SMI_symptom
+281	1972011000006110	1.0	Mental & behav dis due to hallucinogens: psychotic disord, schizophrenia-like	SMI_symptom
+282	1971761000006117	1.0	Mental & behav dis due to seds/hypntcs: resid & late-onset psychot dis, late-onset psychotic disorder	SMI_symptom
+283	1971741000006116	1.0	Mental & behav dis due to use opioids: resid & late-onset psychot dis, late-onset psychotic disorder	SMI_symptom
+284	1971521000006119	1.0	Mental & behav dis due to use opioids: psychotic disorder, predominantly hallucinatory	SMI_symptom
+285	1911731000006119	1.0	FACE CARAS -Schedule for Risk of Aggression in Psychosis (ScRAP)	SMI_symptom
+286	1821491000006112	1.0	Possible psychosis prodrome	SMI_symptom
+287	397181000006117	1.0	[X]Mental and behavioural disorders due to use of tobacco: residual and late-onset psychotic disorder	SMI_symptom
+288	398751000006111	1.0	[X]Mnt/bh dis vol solvents: resid & late-onset psychotic dis	SMI_symptom
+289	1973081000006114	1.0	Mental & behav dis due to vol solvents: psychotic disordr, predominantly hallucinatory	SMI_symptom
+290	1974001000006119	1.0	Mental & behav dis due to use cocaine: resid & late-onset psychot dis, late-onset psychotic disorder	SMI_symptom
+291	1975341000006119	1.0	Mental & behav dis due to use alcohol: psychotic disorder, predominantly polymorphic	SMI_symptom
+292	1974981000006110	1.0	Mental & behav dis due to tobacco: resid & late-onset psychot dis, late-onset psychotic disorder	SMI_symptom
+293	1974741000006119	1.0	Mental & behav dis due to use tobacco: psychotic disorder, predominantly polymorphic	SMI_symptom
+294	1974711000006118	1.0	Mental & behav dis due to use tobacco: psychotic disorder, predominantly hallucinatory	SMI_symptom
+295	1973781000006111	1.0	Mental and behav dis due to hallucinogens: resid & late-onset psychot dis, late-onset psychotic disorder	SMI_symptom
+296	1973691000006119	1.0	Mental & behav dis due to use cocaine: psychotic disorder, predominantly polymorphic	SMI_symptom
+297	1973651000006113	1.0	Mental & behav dis due to use cocaine: psychotic disorder, predominantly hallucinatory	SMI_symptom
+298	1973611000006112	1.0	Mental & behav dis due to use cocaine: psychotic disorder, predominantly delusional	SMI_symptom
+299	1973191000006113	1.0	Mental and behav dis due to vol solvents: resid & late-onset psychotic dis, late-onset psychotic disorder	SMI_symptom
+300	1973181000006110	1.0	Mental and behav dis due to vol solvents: resid & late-onset psychotic dis, other persisting cognitive impairment	SMI_symptom
+301	1973171000006112	1.0	Mental and behav dis due to vol solvents: resid & late-onset psychotic dis, dementia	SMI_symptom
+302	1973141000006116	1.0	Mental and behav dis due to vol solvents: resid & late-onset psychotic dis, flashbacks	SMI_symptom
+303	1973131000006114	1.0	Mental & behav dis due to vol solvents: psychotic disordr, mixed	SMI_symptom
+304	1821481000006114	1.0	Possible early psychosis	SMI_symptom
+305	1973831000006119	6.0	Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis, schizophrenia-like	SMI_symptom
+306	419861000006117	30000.0	Persistent delusional disorder	SMI_symptom
+307	215841000000114	50000.0	Delusional disorder	SMI_symptom
+308	389641000006110	400.0	Induced delusional disorder	SMI_symptom
+309	296110017	4000.0	Mania	SMI_symptom
+310	882321000006119	8000.0	Mania/hypomania	SMI_symptom
+311	396691000006111	6000.0	[X]Mania NOS	SMI_symptom
+312	8232541000006114	1000.0	Non-organic psychosis in remission	SMI_symptom
+313	105029017	3000.0	Paranoid schizophrenia in remission	SMI_symptom
+314	3515942013	3.0	Postpartum psychosis in remission	SMI_symptom
+315	300411000000110	20000.0	H/O: psychosis	SMI_symptom

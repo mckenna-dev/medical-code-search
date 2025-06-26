@@ -1,0 +1,12 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2225,Cancer,Small intestine,a721601000006117,Malignant neoplasm of small intestine and duodenum,L1:Cancer_L2:Small intestine,B12..00
+2226,Cancer,Small intestine,a726021000006110,Malignant neoplasm of duodenum,L1:Cancer_L2:Small intestine,B120.00
+2227,Cancer,Small intestine,a725451000006118,Malignant neoplasm of jejunum,L1:Cancer_L2:Small intestine,B121.00
+2228,Cancer,Small intestine,a725271000006112,Malignant neoplasm of ileum,L1:Cancer_L2:Small intestine,B122.00
+2229,Cancer,Small intestine,a288659012,Malignant neoplasm of Meckel's diverticulum,L1:Cancer_L2:Small intestine,B123.00
+2230,Cancer,Small intestine,a723221000006112,Malignant neoplasm of other specified site small intestine,L1:Cancer_L2:Small intestine,B12y.00
+2231,Cancer,Small intestine,a288663017,Malignant neoplasm of small intestine NOS,L1:Cancer_L2:Small intestine,B12z.00
+2232,Cancer,Small intestine,a1219535016,"Malignant neoplasm, overlapping lesion of small intestine",L1:Cancer_L2:Small intestine,B124.00
+2233,Cancer,Small intestine,a288759015,Malignant tumour of intestine,L1:Cancer_L2:Small intestine,B1z0.00
+2234,Cancer,Small intestine,a304661000006114,Adenocarcinoma - intestinal type,L1:Cancer_L2:Small intestine,BB57.00
+2235,Cancer,Small intestine,a292102015,"[X]Malignant neoplasm of intestinal tract, part unspecified",L1:Cancer_L2:Small intestine,Byu1200

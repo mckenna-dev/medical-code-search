@@ -1,0 +1,858 @@
+	MedCodeId	Observations	Term	stroke			
+0	a405339016	900000	Cerebrovascular accident	stroke			
+1	a405339016	900000	Cerebrovascular accident	stroke			
+2	a395783012	800000	Transient ischaemic attack	stroke			
+3	a395783012	800000	Transient ischaemic attack	stroke			
+4	a395788015	700000	Transient cerebral ischaemia	stroke			
+5	a395788015	700000	Transient cerebral ischaemia	stroke			
+6	a104563015	600000	Cerebrovascular disease	stroke			
+7	a605501000006117	400000	CVA unspecified	stroke			
+8	a605501000006117	400000	CVA unspecified	stroke			
+9	a1780304018	300000	CVA annual review	stroke			
+10	a605491000006113	200000	CVA - Cerebrovascular accident	stroke			
+11	a605491000006113	200000	CVA - Cerebrovascular accident	stroke			
+12	a395780010	200000	Cerebral infarction	stroke			
+13	a395780010	200000	Cerebral infarction	stroke			
+14	a1222398015	100000	Cerebral arterial occlusion	stroke			
+15	a481028017	100000	Subarachnoid haemorrhage	stroke			
+16	a605461000006117	100000	CVA - cerebrovascular accident due to cerebral artery occlusion	stroke			
+17	a605461000006117	100000	CVA - cerebrovascular accident due to cerebral artery occlusion	stroke			
+18	a1222398015	100000	Cerebral arterial occlusion	stroke			
+19	a122401000006115	90000	Stroke unspecified	stroke			
+20	a122401000006115	90000	Stroke unspecified	stroke			
+21	a744901000006114	70000	Intracerebral haemorrhage (ICH)	stroke			
+22	a744901000006114	70000	Intracerebral haemorrhage (ICH)	stroke			
+23	a251692018	70000	H/O: TIA	stroke			
+24	a145925010	70000	Amaurosis fugax	stroke			
+25	a113392018	60000	Benign intracranial hypertension	stroke			
+26	a300371014	60000	Right sided CVA	stroke			
+27	a300370010	60000	Left sided CVA	stroke			
+28	a300370010	60000	Left sided CVA	stroke			
+29	a300371014	60000	Right sided CVA	stroke			
+30	a1130181000000113	50000	Small vessel cerebrovascular disease	stroke			
+31	a497559016	50000	Arteriosclerotic dementia	stroke			
+32	a497559016	50000	Arteriosclerotic dementia	stroke			
+33	a411518010	40000	H/O: CVA	stroke			
+34	a605471000006112	40000	Cerebral hemorrhage	stroke			
+35	a605471000006112	40000	Cerebral hemorrhage	stroke			
+36	a696161000006115	30000	Multi-infarct dementia	stroke			
+37	a2476091017	30000	H/O: stroke	stroke			
+38	a451133011	30000	Left sided cerebral infarction	stroke			
+39	a451133011	30000	Left sided cerebral infarction	stroke			
+40	a696161000006115	30000	Multi-infarct dementia	stroke			
+41	a122361000006113	30000	Stroke due to cerebral arterial occlusion	stroke			
+42	a122361000006113	30000	Stroke due to cerebral arterial occlusion	stroke			
+43	a158118014	30000	Cerebellar infarction	stroke			
+44	a391035012	30000	Traumatic subdural hematoma	stroke			
+45	a158118014	30000	Cerebellar infarction	stroke			
+46	a118689010	20000	Cerebral thrombosis	stroke			
+47	a122371000006118	20000	Cerebral haemorrhage	stroke			
+48	a67511000006117	20000	Vertebro-basilar insufficiency	stroke			
+49	a5010981000006119	20000	Stroke	stroke			
+50	a2534198011	20000	Subdural haemorrhage	stroke			
+51	a884521000006115	20000	Stroke/CVA - undefined	stroke			
+52	a122371000006118	20000	Cerebral haemorrhage	stroke			
+53	a118689010	20000	Cerebral thrombosis	stroke			
+54	a5010981000006119	20000	Stroke	stroke			
+55	a451134017	20000	Right sided cerebral infarction	stroke			
+56	a451134017	20000	Right sided cerebral infarction	stroke			
+57	a67511000006117	20000	Vertebro-basilar insufficiency	stroke			
+58	a2475119012	20000	Non-traumatic subdural haemorrhage	stroke			
+59	a1229954013	20000	"Cerebral aneurysm, nonruptured"	stroke			
+60	a95931000006111	10000	Transient cerebral ischaemia NOS	stroke			
+61	a300298011	10000	Intracranial haemorrhage	stroke			
+62	a884531000006117	10000	Stroke	stroke			
+63	a95931000006111	10000	Transient cerebral ischaemia NOS	stroke			
+64	a218511000000117	10000	Infarction - cerebral	stroke			
+65	a300419019	10000	Cerebrovascular disease NOS	stroke			
+66	a218511000000117	10000	Infarction - cerebral	stroke			
+67	a395778016	10000	Carotid artery occlusion	stroke			
+68	a399031000006111	9000	[X]Multi-infarct dementia	stroke			
+69	a398571000006112	9000	Mixed cortical and subcortical vascular dementia	stroke			
+70	a399031000006111	9000	[X]Multi-infarct dementia	stroke			
+71	a502878012	9000	Cerebellar haemorrhage	stroke			
+72	a299342019	9000	Lacunar infarction	stroke			
+73	a299342019	9000	Lacunar infarction	stroke			
+74	a502878012	9000	Cerebellar haemorrhage	stroke			
+75	a2126181000000114	8000	Stroke annual review	stroke			
+76	a2474651019	7000	Infarction of basal ganglia	stroke			
+77	a300349016	7000	Transient cerebral ischaemia NOS	stroke			
+78	a2474651019	7000	Infarction of basal ganglia	stroke			
+79	a524511000006116	7000	Brainstem stroke syndrome	stroke			
+80	a300366019	7000	Cerebellar stroke syndrome	stroke			
+81	a300349016	7000	Transient cerebral ischaemia NOS	stroke			
+82	a524511000006116	7000	Brainstem stroke syndrome	stroke			
+83	a300366019	7000	Cerebellar stroke syndrome	stroke			
+84	a3414251000006112	6000	VAD - Vascular dementia	stroke			
+85	a300362017	6000	Middle cerebral artery syndrome	stroke			
+86	a125470015	6000	Cerebral embolism	stroke			
+87	a106394016	6000	Vertebrobasilar insufficiency	stroke			
+88	a363791000006112	6000	[X]Arteriosclerotic dementia	stroke			
+89	a300294013	6000	Subdural haemorrhage - nontraumatic	stroke			
+90	a3414251000006112	6000	VAD - Vascular dementia	stroke			
+91	a363791000006112	6000	[X]Arteriosclerotic dementia	stroke			
+92	a106394016	6000	Vertebrobasilar insufficiency	stroke			
+93	a300362017	6000	Middle cerebral artery syndrome	stroke			
+94	a125470015	6000	Cerebral embolism	stroke			
+95	a92070010	5000	Cerebral atherosclerosis	stroke			
+96	a360778011	5000	Chronic cerebral ischaemia	stroke			
+97	a4778181000006119	4000	Left sided cerebral hemisphere cerebrovascular accident	stroke			
+98	a4778181000006119	4000	Left sided cerebral hemisphere cerebrovascular accident	stroke			
+99	a524541000006117	4000	Brain stem infarction	stroke			
+100	a543141000006110	4000	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	stroke			
+101	a1160471000000111	4000	Stroke 6 month review	stroke			
+102	a7519441000006112	4000	Cerebrovascular accident annual review	stroke			
+103	a391028016	4000	Traumatic extradural haematoma	stroke			
+104	a300287010	4000	Intracerebral haemorrhage NOS	stroke			
+105	a345701012	4000	Cerebral amyloid angiopathy	stroke			
+106	a300287010	4000	Intracerebral haemorrhage NOS	stroke			
+107	a543141000006110	4000	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	stroke			
+108	a524541000006117	4000	Brain stem infarction	stroke			
+109	a300364016	3000	Posterior cerebral artery syndrome	stroke			
+110	a300364016	3000	Posterior cerebral artery syndrome	stroke			
+111	a4778201000006118	3000	Right sided cerebral hemisphere cerebrovascular accident	stroke			
+112	a100721000006111	3000	Cerebral venous sinus thrombosis	stroke			
+113	a586241000006116	3000	Non-pyogenic venous sinus thrombosis	stroke			
+114	a320836010	3000	Subdural haemorrhage following injury	stroke			
+115	a4778201000006118	3000	Right sided cerebral hemisphere cerebrovascular accident	stroke			
+116	a320835014	3000	Traumatic subdural haemorrhage	stroke			
+117	a300321011	3000	Cerebral infarction due to thrombosis of cerebral arteries	stroke			
+118	a499739014	3000	Insufficiency - basilar artery	stroke			
+119	a300277011	3000	"Intracerebral haemorrhage, intraventricular"	stroke			
+120	a300321011	3000	Cerebral infarction due to thrombosis of cerebral arteries	stroke			
+121	a505322013	3000	Cerebral haemorrhage following injury	stroke			
+122	a300257016	3000	Subarachnoid haemorrhage NOS	stroke			
+123	a300277011	3000	"Intracerebral haemorrhage, intraventricular"	stroke			
+124	a320752018	3000	Closed traumatic subdural haemorrhage	stroke			
+125	a499739014	3000	Insufficiency - basilar artery	stroke			
+126	a294656010	2000	Arteriosclerotic dementia NOS	stroke			
+127	a106392017	2000	Basilar artery syndrome	stroke			
+128	a106392017	2000	Basilar artery syndrome	stroke			
+129	a300363010	2000	Anterior cerebral artery syndrome	stroke			
+130	a25897016	2000	Subclavian steal syndrome	stroke			
+131	a300363010	2000	Anterior cerebral artery syndrome	stroke			
+132	a2118011000000114	2000	Stroke self-management plan agreed	stroke			
+133	a25897016	2000	Subclavian steal syndrome	stroke			
+134	a300312010	2000	Cerebral infarct due to thrombosis of precerebral arteries	stroke			
+135	a503791000006114	2000	Basal ganglia haemorrhage	stroke			
+136	a841051000006113	2000	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	stroke			
+137	a300312010	2000	Cerebral infarct due to thrombosis of precerebral arteries	stroke			
+138	a503791000006114	2000	Basal ganglia haemorrhage	stroke			
+139	a294656010	2000	Arteriosclerotic dementia NOS	stroke			
+140	a345655015	2000	Pure motor lacunar syndrome	stroke			
+141	a395777014	2000	Precerebral arterial occlusion	stroke			
+142	a800691000006113	2000	Diffuse cerebrovascular disease	stroke			
+143	a503469016	2000	Pontine haemorrhage	stroke			
+144	a345655015	2000	Pure motor lacunar syndrome	stroke			
+145	a67501000006115	2000	Vertebrobasilar artery syndrome	stroke			
+146	a67501000006115	2000	Vertebrobasilar artery syndrome	stroke			
+147	a123511000006114	2000	Subarachnoid haemorrhage from middle cerebral artery	stroke			
+148	a300374018	2000	Other cerebrovascular disease	stroke			
+149	a501622012	2000	Perinatal intraventricular haemorrhage	stroke			
+150	a503469016	2000	Pontine haemorrhage	stroke			
+151	a300941014	2000	[X]Other cerebral infarction	stroke			
+152	a300941014	2000	[X]Other cerebral infarction	stroke			
+153	a345710016	2000	Vertebral artery dissection	stroke			
+154	a300322016	1000	Cerebral infarction due to embolism of cerebral arteries	stroke			
+155	a371641000000112	1000	Delivery of rehabilitation for stroke	stroke			
+156	a416991000006112	1000	Transient cerebral ischemia	stroke			
+157	a325051016	1000	Cerebral anoxia complication	stroke			
+158	a300309012	1000	Vertebral artery occlusion	stroke			
+159	a300242011	1000	Ruptured berry aneurysm	stroke			
+160	a402929011	1000	Subarachnoid haemorrhage following injury without open intracranial wound	stroke			
+161	a123481000006118	1000	Subarachnoid haemorrhage from anterior communicating artery	stroke			
+162	a300348012	1000	Other transient cerebral ischaemia	stroke			
+163	a660121000006113	1000	Traumatic intracranial haemorrhage	stroke			
+164	a416991000006112	1000	Transient cerebral ischemia	stroke			
+165	a300313017	1000	Cerebral infarction due to embolism of precerebral arteries	stroke			
+166	a402930018	1000	Extradural haemorrhage following injury without open intracranial wound	stroke			
+167	a496232015	1000	Internal capsule haemorrhage	stroke			
+168	a300313017	1000	Cerebral infarction due to embolism of precerebral arteries	stroke			
+169	a496232015	1000	Internal capsule haemorrhage	stroke			
+170	a300348012	1000	Other transient cerebral ischaemia	stroke			
+171	a300939013	1000	Cerebral haemorrhage	stroke			
+172	a300943012	1000	Cerebral artery occlusion	stroke			
+173	a748941000006115	1000	"Left sided intracerebral haemorrhage, unspecified"	stroke			
+174	a114794013	1000	Moyamoya disease	stroke			
+175	a884421000006119	1000	Cerebral haemorrhage	stroke			
+176	a350804018	1000	Congenital cerebral arteriovenous malformation	stroke			
+177	a296939018	1000	Thrombosis transverse sinus	stroke			
+178	a748941000006115	1000	"Left sided intracerebral haemorrhage, unspecified"	stroke			
+179	a884421000006119	1000	Cerebral haemorrhage	stroke			
+180	a300939013	1000	Cerebral haemorrhage	stroke			
+181	a300943012	1000	Cerebral artery occlusion	stroke			
+182	a449935012	1000	Admission to stroke unit	stroke			
+183	a884441000006114	1000	Subdural haemorrhage	stroke			
+184	a296940016	1000	Thrombosis of central nervous system venous sinus NOS	stroke			
+185	a300290016	1000	Other and unspecified intracranial haemorrhage	stroke			
+186	a300322016	1000	Cerebral infarction due to embolism of cerebral arteries	stroke			
+187	a345650013	900	Brainstem infarction NOS	stroke			
+188	a542261000006114	900	Cerebral infarction due to occlusion of precerebral artery	stroke			
+189	a2115821000000118	900	Stroke self-management plan review	stroke			
+190	a345650013	900	Brainstem infarction NOS	stroke			
+191	a542261000006114	900	Cerebral infarction due to occlusion of precerebral artery	stroke			
+192	a431691000006119	900	Vascular dementia of acute onset	stroke			
+193	a345684012	900	Carotid territory transient ischaemic attack	stroke			
+194	a345684012	900	Carotid territory transient ischaemic attack	stroke			
+195	a58046010	800	Vertebral artery syndrome	stroke			
+196	a542251000006112	800	"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic"	stroke			
+197	a300379011	800	Generalised ischaemic cerebrovascular disease NOS	stroke			
+198	a345675012	800	Lobar cerebral haemorrhage	stroke			
+199	a100691000006118	800	Cerebral venous thrombosis of cavernous sinus	stroke			
+200	a345675012	800	Lobar cerebral haemorrhage	stroke			
+201	a660111000006117	800	Nontraumatic extradural haemorrhage	stroke			
+202	a130375018	800	Lateral medullary syndrome	stroke			
+203	a130375018	800	Lateral medullary syndrome	stroke			
+204	a542251000006112	800	"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic"	stroke			
+205	a812561000006116	800	Haemangioma of intracranial structure	stroke			
+206	a451371010	800	H/O: Stroke in last year	stroke			
+207	a58046010	800	Vertebral artery syndrome	stroke			
+208	a356251016	800	Pituitary apoplexy	stroke			
+209	a163261000006119	800	"Right sided intracerebral haemorrhage, unspecified"	stroke			
+210	a163261000006119	800	"Right sided intracerebral haemorrhage, unspecified"	stroke			
+211	a417171000006111	700	[X]Other vascular syndroms/brain in cerebrovasculr diseases	stroke			
+212	a928621000006111	700	"MELAS - Mitochondrial encephalopathy, lactic acidosis and stroke-like episodes"	stroke			
+213	a300403014	700	Late effects of cerebrovascular disease	stroke			
+214	a413750011	700	Central post-stroke pain	stroke			
+215	a884471000006118	700	Carotid artery occluded	stroke			
+216	a300303013	700	Basilar artery occlusion	stroke			
+217	a486896012	700	Intracranial haematoma following injury	stroke			
+218	a1235913017	700	Cerebral vein thrombosis	stroke			
+219	a883081000006112	600	Benign intracranial hyperten.	stroke			
+220	a538601000006110	600	Caroticocavernous sinus fistula	stroke			
+221	a300353019	600	Intermittent cerebral ischaemia	stroke			
+222	a3610821000006113	600	Idiopathic intracranial hypertension	stroke			
+223	a300353019	600	Intermittent cerebral ischaemia	stroke			
+224	a123521000006118	600	Subarachnoid haemorrhage from posterior communicating artery	stroke			
+225	a345658018	600	Pure sensory lacunar syndrome	stroke			
+226	a345658018	600	Pure sensory lacunar syndrome	stroke			
+227	a966981000006112	600	Referral to multidisciplinary stroke function improvement service	stroke			
+228	a300314011	600	Precerebral artery occlusion NOS	stroke			
+229	a505324014	600	Traumatic cerebral haemorrhage	stroke			
+230	a5263018	600	Congenital cerebral arteriovenous aneurysm	stroke			
+231	a300389010	600	Nonruptured cerebral aneurysm due to dissection of cerebral artery	stroke			
+232	a300395011	500	Occlusion and stenosis of middle cerebral artery	stroke			
+233	a300418010	500	Other specified cerebrovascular disease	stroke			
+234	a47484015	500	Cerebral arteritis	stroke			
+235	a2262511000000116	500	Reversible cerebral vasoconstriction syndrome	stroke			
+236	a300344014	500	Carotid artery syndrome hemispheric	stroke			
+237	a123441000006112	500	"Subarachnoid haemorrh from intracranial artery, unspecif"	stroke			
+238	a300344014	500	Carotid artery syndrome hemispheric	stroke			
+239	a495394013	500	Cortical haemorrhage	stroke			
+240	a495394013	500	Cortical haemorrhage	stroke			
+241	a316516014	400	Intraventricular haemorrhage due to birth injury	stroke			
+242	a767651000006116	400	"Intraventricular (nontraumatic) haemorrhage, grade 2, of fetus and newborn"	stroke			
+243	a744921000006116	400	"Intracerebral haemorrhage in hemisphere, unspecified"	stroke			
+244	a300956017	400	"[X]Intracerebral haemorrhage in hemisphere, unspecified"	stroke			
+245	a744921000006116	400	"Intracerebral haemorrhage in hemisphere, unspecified"	stroke			
+246	a4056981000006115	400	Cerebral venous thrombosis	stroke			
+247	a300956017	400	"[X]Intracerebral haemorrhage in hemisphere, unspecified"	stroke			
+248	a1212072018	400	Occlusive stroke	stroke			
+249	a459511018	400	Traumatic subdural haematoma without open intracranial wound	stroke			
+250	a5011741000006115	400	Dissection of vertebral artery	stroke			
+251	a100701000006118	400	Thrombosis lateral sinus	stroke			
+252	a5011131000006112	400	Posterior cerebral circulation infarction	stroke			
+253	a123491000006115	400	Subarachnoid haemorrhage from basilar artery	stroke			
+254	a8044481000006118	400	Ischaemic stroke without coma	stroke			
+255	a8044481000006118	400	Ischaemic stroke without coma	stroke			
+256	a213421000006113	400	Precerebral atherosclerosis	stroke			
+257	a149347010	400	Binswanger's disease	stroke			
+258	a149347010	400	Binswanger's disease	stroke			
+259	a5060581000006110	400	Cerebral arteriovenous malformation	stroke			
+260	a5011091000006110	400	Partial anterior cerebral circulation infarction	stroke			
+261	a5011131000006112	400	Posterior cerebral circulation infarction	stroke			
+262	a5011091000006110	400	Partial anterior cerebral circulation infarction	stroke			
+263	a149571000006118	400	"Sequelae of stroke,not specfd as h'morrhage or infarction"	stroke			
+264	a512234017	400	Cerebral lupus	stroke			
+265	a296931015	400	Phlebitis and thrombophlebitis of intracranial sinuses	stroke			
+266	a1212072018	400	Occlusive stroke	stroke			
+267	a5459271000006119	400	Traumatic intracranial subarachnoid haemorrhage	stroke			
+268	a13796131000006110	300	Subarachnoid haemorrhage due to traumatic injury	stroke			
+269	a12223101000006118	300	Intracerebral haemorrhage	stroke			
+270	a4056871000006112	300	Subdural haematoma	stroke			
+271	a300402016	300	Other cerebrovascular disease NOS	stroke			
+272	a542831000006116	300	Cerebral embolus	stroke			
+273	a8453031000006117	300	Haemorrhagic stroke	stroke			
+274	a8453031000006117	300	Haemorrhagic stroke	stroke			
+275	a370701000006118	300	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	stroke			
+276	a320852013	300	Cerebral haemorrhage following injury NOS	stroke			
+277	a57341000006119	300	Wallenberg's syndrome	stroke			
+278	a505381016	300	Epidural haemorrhage	stroke			
+279	a4411861000006113	300	Cerebral arterial aneurysm	stroke			
+280	a884551000006112	300	Cerebral aneurysm-non ruptured	stroke			
+281	a370701000006118	300	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	stroke			
+282	a423221000006117	300	[X]Predominantly cortical dementia	stroke			
+283	a423221000006117	300	[X]Predominantly cortical dementia	stroke			
+284	a5492171000006112	300	TIA	stroke			
+285	a647051000006114	300	Epidural haematoma following injury	stroke			
+286	a300411016	300	Sequelae of cerebral infarction	stroke			
+287	a5492171000006112	300	TIA	stroke			
+288	a2476647018	300	Vertebral artery compression syndrome	stroke			
+289	a2476647018	300	Vertebral artery compression syndrome	stroke			
+290	a542831000006116	300	Cerebral embolus	stroke			
+291	a57341000006119	300	Wallenberg's syndrome	stroke			
+292	a12223101000006118	300	Intracerebral haemorrhage	stroke			
+293	a884541000006110	300	Cerebral arteriosclerosis	stroke			
+294	a300936018	300	[X]Other subarachnoid haemorrhage	stroke			
+295	a5582311000006110	300	Occipital cerebral infarction	stroke			
+296	a5582311000006110	300	Occipital cerebral infarction	stroke			
+297	a313568013	200	Cerebrovascular system anomalies	stroke			
+298	a5011051000006116	200	Total anterior cerebral circulation infarction	stroke			
+299	a5011051000006116	200	Total anterior cerebral circulation infarction	stroke			
+300	a316149014	200	Cerebral haematoma in fetus or newborn	stroke			
+301	a316818019	200	Neonatal cerebral ischaemia	stroke			
+302	a300380014	200	Acute cerebrovascular insufficiency	stroke			
+303	a370711000006115	200	[X]Cerebrovascular diseases	stroke			
+304	a300401011	200	Other cerebrovascular disease OS	stroke			
+305	a370661000006114	200	[X]Cereb infarct due unsp occlus/stenos precerebr arteries	stroke			
+306	a9912271000006112	200	Cerebellar stroke	stroke			
+307	a884451000006111	200	Cerebral haemorrhage NOS	stroke			
+308	a2549322011	200	Vein of Galen malformation	stroke			
+309	a884561000006114	200	Cerebrovasc. dis. late effects	stroke			
+310	a320853015	200	Other cerebral haemorrhage following injury	stroke			
+311	a9912271000006112	200	Cerebellar stroke	stroke			
+312	a370661000006114	200	[X]Cereb infarct due unsp occlus/stenos precerebr arteries	stroke			
+313	a325050015	200	Anoxic brain damage complication	stroke			
+314	a2267791000000116	200	Susac's syndrome	stroke			
+315	a769281000006119	200	Intracranial haemorrhage in fetus or newborn	stroke			
+316	a6990981000006114	200	Ischaemic stroke	stroke			
+317	a6990981000006114	200	Ischaemic stroke	stroke			
+318	a767641000006118	200	"Intraventricular (nontraumatic) haemorrhage, grade 1, of fetus and newborn"	stroke			
+319	a5011491000006115	200	Anterior circulation transient ischaemic attack	stroke			
+320	a5011491000006115	200	Anterior circulation transient ischaemic attack	stroke			
+321	a767661000006119	200	"Intraventricular (nontraumatic) hemorrhage, grade 3, of fetus and newborn"	stroke			
+322	a500972019	200	Pseudotumour cerebri	stroke			
+323	a5583061000006119	100	Subarachnoid haemorrhage from anterior communicating artery aneurysm	stroke			
+324	a5011411000006113	100	Thalamic haemorrhage	stroke			
+325	a5967391000006111	100	Multiple lacunar infarcts	stroke			
+326	a5492221000006118	100	Transient ischemic attack	stroke			
+327	a5492221000006118	100	Transient ischemic attack	stroke			
+328	a5011471000006116	100	Posterior circulation stroke of uncertain pathology	stroke			
+329	a5011471000006116	100	Posterior circulation stroke of uncertain pathology	stroke			
+330	a313576010	100	Other specified cerebrovascular anomaly	stroke			
+331	a300399017	100	Occlusion and stenosis of cerebellar arteries	stroke			
+332	a5011411000006113	100	Thalamic haemorrhage	stroke			
+333	a300311015	100	Other precerebral artery occlusion	stroke			
+334	a231561000006110	100	Phlebitis or thrombophlebitis of CNS venous sinus NOS	stroke			
+335	a884431000006116	100	Extradural haemorrhage	stroke			
+336	a6348301000006119	100	Embolic stroke	stroke			
+337	a3610811000006117	100	IIH - Idiopathic intracranial hypertension	stroke			
+338	a63408013	100	Locked in syndrome	stroke			
+339	a6348301000006119	100	Embolic stroke	stroke			
+340	a300352012	100	Impending cerebral ischaemia	stroke			
+341	a437650013	100	Vertebral artery aneurysm	stroke			
+342	a300276019	100	External capsule haemorrhage	stroke			
+343	a5967391000006111	100	Multiple lacunar infarcts	stroke			
+344	a359985011	100	Intracerebral haemorrhage in foetus or newborn	stroke			
+345	a884481000006115	100	Vertebral artery occluded	stroke			
+346	a300398013	100	Occlusion and stenosis of posterior cerebral artery	stroke			
+347	a350815011	100	Congenital arteriovenous fistula of brain	stroke			
+348	a149701000006118	100	Sequelae/other + unspecified cerebrovascular diseases	stroke			
+349	a390713015	100	Injury of vertebral artery	stroke			
+350	a746571000006116	100	"Intracerebral haemorrhage, multiple localized"	stroke			
+351	a428181000006115	100	Subarachnoid hemorrhage	stroke			
+352	a746571000006116	100	"Intracerebral haemorrhage, multiple localized"	stroke			
+353	a7054171000006115	100	Acute lacunar infarction	stroke			
+354	a300276019	100	External capsule haemorrhage	stroke			
+355	a7054171000006115	100	Acute lacunar infarction	stroke			
+356	a300352012	100	Impending cerebral ischaemia	stroke			
+357	a5011191000006111	90	Pure motor lacunar infarction	stroke			
+358	a7285511000006116	90	Cerebral small vessel disease	stroke			
+359	a300407010	90	Sequelae of intracerebral haemorrhage	stroke			
+360	a316141012	90	Local subdural haematoma due to birth trauma	stroke			
+361	a1870501000006114	90	Cerebral amyloidosis	stroke			
+362	a307781012	90	Cerebral venous thrombosis in pregnancy	stroke			
+363	a84583018	90	Sinus pericranii	stroke			
+364	a296947018	90	Thrombophlebitis of central nervous system venous sinuses	stroke			
+365	a12370651000006112	90	MVAD - Mixed vascular Alzheimer dementia	stroke			
+366	a5011191000006111	90	Pure motor lacunar infarction	stroke			
+367	a300935019	90	[X]Subarachnoid haemorrhage from other intracranial arteries	stroke			
+368	a459514014	90	Traumatic subdural haematoma with open intracranial wound	stroke			
+369	a4411871000006118	80	Intracranial aneurysm	stroke			
+370	a605481000006110	80	CVA - cerebrovascular accident in the puerperium	stroke			
+371	a345639010	80	Infarction - precerebral	stroke			
+372	a345639010	80	Infarction - precerebral	stroke			
+373	a300406018	80	Sequelae of subarachnoid haemorrhage	stroke			
+374	a605481000006110	80	CVA - cerebrovascular accident in the puerperium	stroke			
+375	a86021000006119	80	Traumatic extradural haematoma without open intracranial wound	stroke			
+376	a5011291000006119	80	Haemorrhagic cerebral infarction	stroke			
+377	a5011291000006119	80	Haemorrhagic cerebral infarction	stroke			
+378	a5011461000006111	70	Anterior circulation stroke of uncertain pathology	stroke			
+379	a5583021000006113	70	Subarachnoid haemorrhage from middle cerebral artery aneurysm	stroke			
+380	a426321000006116	70	"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"	stroke			
+381	a316130010	70	Subdural and cerebral haemorrhage due to birth trauma	stroke			
+382	a5518041000006112	70	Spontaneous subarachnoid haemorrhage	stroke			
+383	a5011161000006115	70	Lacunar stroke	stroke			
+384	a5011161000006115	70	Lacunar stroke	stroke			
+385	a5011461000006111	70	Anterior circulation stroke of uncertain pathology	stroke			
+386	a3515794015	70	Acute cerebral ischaemia	stroke			
+387	a296938014	70	Thrombosis of superior longitudinal sinus	stroke			
+388	a3515794015	70	Acute cerebral ischaemia	stroke			
+389	a316153011	70	Cerebral haemorrhage due to birth injury	stroke			
+390	a5011041000006118	70	Anterior cerebral circulation infarction	stroke			
+391	a5011041000006118	70	Anterior cerebral circulation infarction	stroke			
+392	a1988841000006112	60	"Intraventricular (nontraumatic) haemorrhage, grade 4, of fetus and newborn"	stroke			
+393	a4777881000006112	60	"Intracerebral haemorrhage, multiple localised"	stroke			
+394	a1842021000006111	60	Neonatal cerebral haemorrhage	stroke			
+395	a307780013	60	Obstetric cerebral venous thrombosis	stroke			
+396	a300253017	60	Subarachnoid haemorrhage from vertebral artery	stroke			
+397	a158442019	60	Systemic lupus erythematosus encephalitis	stroke			
+398	a4777881000006112	60	"Intracerebral haemorrhage, multiple localised"	stroke			
+399	a4056881000006110	60	Subdural hematoma	stroke			
+400	a300396012	60	Occlusion and stenosis of anterior cerebral artery	stroke			
+401	a307782017	60	Cerebral venous thrombosis in the puerperium	stroke			
+402	a884461000006113	60	Basilar artery occluded	stroke			
+403	a75861010	50	Cerebrovascular amyloidosis	stroke			
+404	a316553015	50	Intracranial nontraumatic haemorrhage of fetus and newborn	stroke			
+405	a35801000006116	50	Other cerebral h'ge after injury no open intracranial wound	stroke			
+406	a5583081000006112	50	Subarachnoid haemorrhage from posterior communicating artery aneurysm	stroke			
+407	a2267781000000118	50	Retinocochleocerebral vasculopathy	stroke			
+408	a313569017	50	"Congenital anomaly of cerebral vessel, unspecified"	stroke			
+409	a313577018	50	Cerebrovascular system anomaly NOS	stroke			
+410	a3193191000006110	50	Nonruptured cerebral aneurysm	stroke			
+411	a5492201000006111	40	TIA - Transient ischaemic attack	stroke			
+412	a296936013	40	Embolism central nervous system venous sinus NOS	stroke			
+413	a300944018	40	[X]Other specified cerebrovascular diseases	stroke			
+414	a12761901000006117	40	Subarachnoid hemorrhage	stroke			
+415	a744871000006114	40	Intracranial nontraumatic haemorrhage of foetus and newborn	stroke			
+416	a296951016	40	Thrombophlebitis of central nervous system venous sinus NOS	stroke			
+417	a1235534016	40	Binswanger's encephalopathy	stroke			
+418	a1235534016	40	Binswanger's encephalopathy	stroke			
+419	a7378271000006116	40	Intracranial haemorrhage following injury	stroke			
+420	a5934331000006110	40	Chronic intracranial subdural haematoma	stroke			
+421	a5011141000006119	40	Posterior cerebral circulation stroke	stroke			
+422	a316151013	40	Extradural haemorrhage in foetus or newborn	stroke			
+423	a320735017	40	Subarachnoid haemorrhage following injury with open intracranial wound	stroke			
+424	a394431000006118	40	Intracranial nontraumatic haemorrhage of foetus and newborn	stroke			
+425	a296949015	40	Thrombophlebitis of superior longitudinal venous sinus	stroke			
+426	a7071901000006111	40	Thalamic infarction	stroke			
+427	a5492201000006111	40	TIA - Transient ischaemic attack	stroke			
+428	a5011141000006119	40	Posterior cerebral circulation stroke	stroke			
+429	a287283010	40	Rupture of syphilitic cerebral aneurysm	stroke			
+430	a267321000006114	40	"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction"	stroke			
+431	a12223121000006111	40	ICH - intracerebral haemorrhage	stroke			
+432	a296932010	40	Embolism cavernous sinus	stroke			
+433	a12223121000006111	40	ICH - intracerebral haemorrhage	stroke			
+434	a6846141000006118	40	Cardioembolic stroke	stroke			
+435	a6846141000006118	40	Cardioembolic stroke	stroke			
+436	a300244012	40	Subarachnoid haemorrhage from carotid siphon and bifurcation	stroke			
+437	a5011121000006114	30	PACS - Partial anterior cerebral circulation stroke	stroke			
+438	a6990991000006112	30	Ischemic stroke	stroke			
+439	a13909901000006119	30	Cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage	stroke			
+440	a6990991000006112	30	Ischemic stroke	stroke			
+441	a5011121000006114	30	PACS - Partial anterior cerebral circulation stroke	stroke			
+442	a7085871000006117	30	Extradural intracranial haematoma	stroke			
+443	a13909901000006119	30	Cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage	stroke			
+444	a126301000006113	30	Stenosis of precerebral artery	stroke			
+445	a896531000006110	30	Cerebral h'ge after injury	stroke			
+446	a320897016	30	Other cerebral haemorrhage following injury NOS	stroke			
+447	a543251000006116	30	Cerebrovascular disorder in the puerperium	stroke			
+448	a6348291000006115	30	Thrombotic stroke	stroke			
+449	a6348291000006115	30	Thrombotic stroke	stroke			
+450	a483988011	30	Bulbar haemorrhage	stroke			
+451	a483988011	30	Bulbar haemorrhage	stroke			
+452	a320771016	30	Open traumatic subdural haemorrhage	stroke			
+453	a5011211000006112	30	Pure sensory lacunar infarction	stroke			
+454	a124141000006116	30	Subdural h'ge inj no open intracran wnd+LOC unspec duration	stroke			
+455	a5011211000006112	30	Pure sensory lacunar infarction	stroke			
+456	a480952017	30	Perinatal subarachnoid haemorrhage	stroke			
+457	a884501000006113	30	Cerebral A. occlusion NOS	stroke			
+458	a267311000006118	30	Occlusion and stenosis of multiple and bilateral cerebral arteries	stroke			
+459	a300942019	30	[X]Occlusion and stenosis of other precerebral arteries	stroke			
+460	a7855631000006111	20	Cerebral ischaemic stroke due to small artery occlusion	stroke			
+461	a14014251000006116	20	Cerebrovascular accident due to occlusion of bilateral pontine arteries	stroke			
+462	a884491000006117	20	Precerebral A. occlusion NOS	stroke			
+463	a300345010	20	Multiple and bilateral precerebral artery syndromes	stroke			
+464	a370681000006116	20	[X]Cerebral arteritis in other diseases CE	stroke			
+465	a14014251000006116	20	Cerebrovascular accident due to occlusion of bilateral pontine arteries	stroke			
+466	a5589641000006112	20	Intracerebellar and posterior fossa haemorrhage	stroke			
+467	a542271000006119	20	Cerebellar (nontraumatic) and posterior fossa haemorrhage of foetus and newborn	stroke			
+468	a894091000006111	20	Cerebral haemorrhage - birth	stroke			
+469	a7071911000006114	20	Thalamic stroke	stroke			
+470	a5011451000006114	20	Stroke of uncertain pathology	stroke			
+471	a300345010	20	Multiple and bilateral precerebral artery syndromes	stroke			
+472	a316519019	20	Subarachnoid haemorrhage due to birth injury	stroke			
+473	a7855631000006111	20	Cerebral ischaemic stroke due to small artery occlusion	stroke			
+474	a660071000006113	20	Extradural h'ge inj no open intracran wnd+concussion unspec	stroke			
+475	a5589641000006112	20	Intracerebellar and posterior fossa haemorrhage	stroke			
+476	a2901571000006113	20	Completed stroke	stroke			
+477	a296942012	20	Phlebitis cavernous sinus	stroke			
+478	a1221072019	20	Embolism of central nervous system venous sinus	stroke			
+479	a7289121000006119	20	Recurrent transient cerebral ischaemic attack	stroke			
+480	a3508964014	20	Cerebrovascular accident due to thrombus of left middle cerebral artery	stroke			
+481	a7289121000006119	20	Recurrent transient cerebral ischaemic attack	stroke			
+482	a320814012	20	Extradural haemorrhage following injury with open intracranial wound	stroke			
+483	a2901571000006113	20	Completed stroke	stroke			
+484	a4837471000006112	20	"Intraventricular (nontraumatic) haemorrhage, grade 3, of fetus and newborn"	stroke			
+485	a3509810017	20	Cerebrovascular accident due to occlusion of right middle cerebral artery	stroke			
+486	a316150014	20	Intracerebral haematoma in fetus or newborn	stroke			
+487	a3508964014	20	Cerebrovascular accident due to thrombus of left middle cerebral artery	stroke			
+488	a5011521000006118	20	Vertebrobasilar territory transient ischaemic attack	stroke			
+489	a459518012	20	Traumatic extradural haematoma with open intracranial wound	stroke			
+490	a7598981000006119	20	Cerebral infarction due to embolism of middle cerebral artery	stroke			
+491	a5011521000006118	20	Vertebrobasilar territory transient ischaemic attack	stroke			
+492	a5011451000006114	20	Stroke of uncertain pathology	stroke			
+493	a4056931000006116	20	Brain stem haemorrhage	stroke			
+494	a3778021000006116	20	LMS - Lateral medullary syndrome	stroke			
+495	a4056931000006116	20	Brain stem haemorrhage	stroke			
+496	a3505637014	20	Occlusion of left middle cerebral artery	stroke			
+497	a5011111000006118	20	Partial anterior cerebral circulation stroke	stroke			
+498	a3505637014	20	Occlusion of left middle cerebral artery	stroke			
+499	a5011111000006118	20	Partial anterior cerebral circulation stroke	stroke			
+500	a3778021000006116	20	LMS - Lateral medullary syndrome	stroke			
+501	a3648381000006112	10	Thrombosis of superior sagittal sinus	stroke			
+502	a2838001000006118	10	Cerebral venous thrombosis of lateral sinus	stroke			
+503	a3509794017	10	Cerebrovascular accident due to occlusion of left middle cerebral artery	stroke			
+504	a3193201000006113	10	Unruptured cerebral aneurysm	stroke			
+505	a5011071000006114	10	Total anterior cerebral circulation stroke	stroke			
+506	a3509794017	10	Cerebrovascular accident due to occlusion of left middle cerebral artery	stroke			
+507	a3508965010	10	Stroke due to thrombus of left middle cerebral artery	stroke			
+508	a5011081000006112	10	TACS - Total anterior cerebral circulation stroke	stroke			
+509	a3508965010	10	Stroke due to thrombus of left middle cerebral artery	stroke			
+510	a7861171000006114	10	White matter disorder with CADASIL	stroke			
+511	a124161000006117	10	Subdural h'ge inj no open intracranial wnd + unspec consc	stroke			
+512	a5011501000006111	10	Anterior circulation transient ischemic attack	stroke			
+513	a3522701000006112	10	CVD - Cerebrovascular disease	stroke			
+514	a296935012	10	Embolism transverse sinus	stroke			
+515	a2729571000000119	10	Cerebral infarction due to stenosis of cerebral artery	stroke			
+516	a2729571000000119	10	Cerebral infarction due to stenosis of cerebral artery	stroke			
+517	a2871271000006114	10	Intraventricular haemorrhage	stroke			
+518	a426481000006114	10	[X]Sequelae/other + unspecified cerebrovascular diseases	stroke			
+519	a2729551000000111	10	Cerebral infarction due to occlusion of cerebral artery	stroke			
+520	a2729551000000111	10	Cerebral infarction due to occlusion of cerebral artery	stroke			
+521	a286395017	10	Listerial cerebral arteritis	stroke			
+522	a13909881000006116	10	Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct	stroke			
+523	a13909881000006116	10	Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct	stroke			
+524	a3511955015	10	Thrombosis of right middle cerebral artery	stroke			
+525	a3511955015	10	Thrombosis of right middle cerebral artery	stroke			
+526	a300310019	10	Multiple and bilateral precerebral arterial occlusion	stroke			
+527	a660031000006110	10	Extradural h'ge inj no open intracra wnd+LOC unspec duration	stroke			
+528	a3930491000006117	10	Transient monocular blindness	stroke			
+529	a2262521000000110	10	Call-Fleming syndrome	stroke			
+530	a5011501000006111	10	Anterior circulation transient ischemic attack	stroke			
+531	a5588471000006111	10	Intraventricular haemorrhage of prematurity	stroke			
+532	a5582901000006111	10	Unruptured aneurysm of middle cerebral artery	stroke			
+533	a404781000006115	10	[X]Oth intracranial(nontraumatic)haemorrhages/fetus+newborn	stroke			
+534	a2622631000006114	10	Intrapontine haemorrhage	stroke			
+535	a3508961018	10	Cerebrovascular accident due to thrombus of right middle cerebral artery	stroke			
+536	a313575014	10	Congenital stricture of cerebral artery	stroke			
+537	a3508961018	10	Cerebrovascular accident due to thrombus of right middle cerebral artery	stroke			
+538	a3511959014	10	Thrombosis of left middle cerebral artery	stroke			
+539	a3511959014	10	Thrombosis of left middle cerebral artery	stroke			
+540	a3508962013	10	Stroke due to thrombus of right middle cerebral artery	stroke			
+541	a3505639012	10	Occlusion of right middle cerebral artery	stroke			
+542	a7839991000006115	10	Silent cerebral infarct	stroke			
+543	a988951000006117	10	Transient Ischaemic Attacks	stroke			
+544	a988951000006117	10	Transient Ischaemic Attacks	stroke			
+545	a7839991000006115	10	Silent cerebral infarct	stroke			
+546	a3505639012	10	Occlusion of right middle cerebral artery	stroke			
+547	a5011081000006112	10	TACS - Total anterior cerebral circulation stroke	stroke			
+548	a2622631000006114	10	Intrapontine haemorrhage	stroke			
+549	a3508962013	10	Stroke due to thrombus of right middle cerebral artery	stroke			
+550	a5011071000006114	10	Total anterior cerebral circulation stroke	stroke			
+551	a5595891000006118	9	Berry aneurysm	stroke			
+552	a660091000006114	9	Extradural h'ge inj no open intracranial wnd + unspec consc	stroke			
+553	a7378421000006118	9	Traumatic intracerebral haemorrhage	stroke			
+554	a11920121000006117	9	Transient cerebral ischemia	stroke			
+555	a11920121000006117	9	Transient cerebral ischemia	stroke			
+556	a124051000006118	9	Subdural h'ge inj + open intracran wnd+LOC unspec duration	stroke			
+557	a7363341000006119	8	Intraparenchymal haemorrhage of brain	stroke			
+558	a5934341000006117	8	Chronic intracranial subdural hematoma	stroke			
+559	a315694014	8	Congenital anomaly of precerebral vessel	stroke			
+560	a5011241000006111	8	Lacunar ataxic hemiparesis	stroke			
+561	a3507383012	8	Spontaneous haemorrhage of cortical intracerebral hemisphere	stroke			
+562	a407291000006117	8	[X]Other cerebrovascular disorders in diseases CE	stroke			
+563	a7067291000006113	8	Infarction of medulla oblongata	stroke			
+564	a7067291000006113	8	Infarction of medulla oblongata	stroke			
+565	a639231000006117	8	Embolus of central nervous system venous sinus	stroke			
+566	a5904271000006110	8	CCF - carotid cavernous fistula	stroke			
+567	a5459261000006114	8	Traumatic subdural haematoma	stroke			
+568	a124151000006119	8	Subdural h'ge inj no open intracran wound+concussion unspec	stroke			
+569	a5597281000006110	8	Ruptured cerebral arteriovenous malformation	stroke			
+570	a3507383012	8	Spontaneous haemorrhage of cortical intracerebral hemisphere	stroke			
+571	a3777981000006119	8	Posterior inferior cerebellar artery syndrome	stroke			
+572	a3777981000006119	8	Posterior inferior cerebellar artery syndrome	stroke			
+573	a5011241000006111	8	Lacunar ataxic hemiparesis	stroke			
+574	a5011171000006110	7	LACI - Lacunar infarction	stroke			
+575	a5459301000006117	7	Traumatic cranial subarachnoid haemorrhage	stroke			
+576	a5011541000006113	7	Posterior circulation transient ischemic attack	stroke			
+577	a5011541000006113	7	Posterior circulation transient ischemic attack	stroke			
+578	a660021000006112	7	"Extradural haemorrhage following injury with open intracranial wound, with no loss of consciousness"	stroke			
+579	a3508955016	7	Cerebrovascular accident due to thrombus of basilar artery	stroke			
+580	a5011101000006116	7	PACI - Partial anterior cerebral circulation infarction	stroke			
+581	a7134251000006110	7	Intraparenchymal hematoma of brain	stroke			
+582	a5011171000006110	7	LACI - Lacunar infarction	stroke			
+583	a3071661000006112	7	Subdural hemorrhage	stroke			
+584	a14182621000006113	7	Cryptogenic stroke	stroke			
+585	a3508955016	7	Cerebrovascular accident due to thrombus of basilar artery	stroke			
+586	a4198341000006113	7	Intracranial haemorrhage following injury without open intracranial wound	stroke			
+587	a5588511000006118	7	Perinatal subependymal haemorrhage	stroke			
+588	a5011101000006116	7	PACI - Partial anterior cerebral circulation infarction	stroke			
+589	a7085881000006119	7	Extradural haematoma	stroke			
+590	a12223111000006115	6	Intracerebral hemorrhage	stroke			
+591	a2841141000006111	6	SAH - Subarachnoid haemorrhage	stroke			
+592	a4056971000006118	6	Thrombosis of cerebral veins	stroke			
+593	a5898441000006118	6	Haematoma of brain	stroke			
+594	a13717171000006112	6	Cerebrovascular accident due to stenosis of bilateral carotid arteries	stroke			
+595	a5011351000006119	6	Posterior cerebral circulation haemorrhagic infarction	stroke			
+596	a5904251000006117	6	Carotid cavernous fistula	stroke			
+597	a13717171000006112	6	Cerebrovascular accident due to stenosis of bilateral carotid arteries	stroke			
+598	a4837421000006111	6	"Intraventricular (nontraumatic) haemorrhage, grade 2, of foetus and newborn"	stroke			
+599	a296946010	6	Phlebitis of central nervous system venous sinus NOS	stroke			
+600	a4056901000006112	6	SDH - Subdural hematoma	stroke			
+601	a12223111000006115	6	Intracerebral hemorrhage	stroke			
+602	a5011351000006119	6	Posterior cerebral circulation haemorrhagic infarction	stroke			
+603	a660081000006111	5	Extradural h'ge inj no open intracranial wnd + no loss consc	stroke			
+604	a660041000006117	5	Extradural h'ge inj no open intracran wnd+>24hr LOC+recovery	stroke			
+605	a4777861000006119	5	Intracerebral haemorrhage with intraventricular haemorrhage	stroke			
+606	a3553621000006119	5	Vertebral artery thrombosis	stroke			
+607	a5459181000006112	5	Extradural haemorrhage after injury	stroke			
+608	a123391000006113	5	Subarachnoid h'ge inj no open intracran wnd+<1hr loss consc	stroke			
+609	a123411000006113	5	Subarachnoid h'ge inj no open intracran wnd+no loss consc	stroke			
+610	a4056891000006113	5	SDH - Subdural haematoma	stroke			
+611	a4777861000006119	5	Intracerebral haemorrhage with intraventricular haemorrhage	stroke			
+612	a3507370011	5	Spontaneous haemorrhage of cerebral hemisphere	stroke			
+613	a3512178012	5	Embolus of right middle cerebral artery	stroke			
+614	a3507370011	5	Spontaneous haemorrhage of cerebral hemisphere	stroke			
+615	a5582941000006113	5	Unruptured aneurysm of posterior communicating artery	stroke			
+616	a3512178012	5	Embolus of right middle cerebral artery	stroke			
+617	a124191000006113	5	Subdural h'ge inj no open intracranial wound+no loss consc	stroke			
+618	a5898461000006119	5	Cerebellar haematoma	stroke			
+619	a123381000006110	5	"Subarachnoid haemorrhage following injury with open intracranial wound, with no loss of consciousness"	stroke			
+620	a307879017	5	Puerperal cerebrovascular disorder unspecified	stroke			
+621	a4193641000006111	5	Nonparalytic stroke	stroke			
+622	a4193641000006111	5	Nonparalytic stroke	stroke			
+623	a4835801000006114	5	Cerebral haematoma in foetus or newborn	stroke			
+624	a39831000006110	5	Oth cerebral h'ge inj no open intracranial wnd+no loss consc	stroke			
+625	a6837051000006119	5	Basal ganglion stroke	stroke			
+626	a5595911000006116	5	Saccular aneurysm	stroke			
+627	a659991000006112	5	Extradural h'ge inj + open intracran wnd+LOC unspec duration	stroke			
+628	a6837051000006119	5	Basal ganglion stroke	stroke			
+629	a12370661000006114	5	Dementia with mixed aetiology	stroke			
+630	a3610801000006115	5	BIH - Benign intracranial hypertension	stroke			
+631	a307880019	5	Puerperal cerebrovascular disorder - delivered	stroke			
+632	a124111000006115	5	"Subdural haemorrhage following injury with open intracranial wound, with no loss of consciousness"	stroke			
+633	a702641000006119	5	Middle meningeal haemmorhage following injury	stroke			
+634	a2871261000006119	5	Intraventricular hemorrhage	stroke			
+635	a5011661000006113	4	Cerebral venous thrombosis of cortical vein	stroke			
+636	a3505651014	4	Occlusion of left posterior cerebral artery	stroke			
+637	a3505651014	4	Occlusion of left posterior cerebral artery	stroke			
+638	a307884011	4	Puerperal cerebrovascular disorder NOS	stroke			
+639	a296941017	4	Phlebitis of central nervous system venous sinuses	stroke			
+640	a2832651000006111	4	Subcortical haemorrhage	stroke			
+641	a894331000006110	4	Fetal cerebral haemorrhage	stroke			
+642	a2832651000006111	4	Subcortical haemorrhage	stroke			
+643	a2475584018	4	Phlebitis lateral sinus	stroke			
+644	a296945014	4	Phlebitis transverse sinus	stroke			
+645	a5011551000006110	4	Posterior circulation transient ischaemic attack	stroke			
+646	a411416011	4	Stroke in the puerperium	stroke			
+647	a6349401000006115	4	Neonatal stroke	stroke			
+648	a5582931000006115	4	Unruptured aneurysm of anterior communicating artery	stroke			
+649	a411416011	4	Stroke in the puerperium	stroke			
+650	a5011551000006110	4	Posterior circulation transient ischaemic attack	stroke			
+651	a5011431000006119	4	Lacunar haemorrhage	stroke			
+652	a5011431000006119	4	Lacunar haemorrhage	stroke			
+653	a30981000006112	4	Oth cerebral h'ge inj no open intracran wnd+unspec consc	stroke			
+654	a7598991000006116	4	Thrombosis of middle cerebral artery	stroke			
+655	a5459281000006116	4	Traumatic cranial subarachnoid hemorrhage	stroke			
+656	a7834511000006116	4	Traumatic subarachnoid haemorrhage without coma	stroke			
+657	a5011231000006118	3	Pure sensorimotor lacunar infarction	stroke			
+658	a5011231000006118	3	Pure sensorimotor lacunar infarction	stroke			
+659	a9478321000006112	3	Amaurosis fugax of left eye	stroke			
+660	a123311000006115	3	Subarach h'ge inj no open intracran wnd + concussion unspec	stroke			
+661	a7599001000006116	3	Cerebral infarction due to thrombosis of middle cerebral artery	stroke			
+662	a2520541000006112	3	Intracranial hemorrhage	stroke			
+663	a3648521000006115	3	Neonatal intraventricular haemorrhage	stroke			
+664	a3508956015	3	Stroke due to basilar artery thrombus	stroke			
+665	a4189401000006111	3	Fahr disease	stroke			
+666	a3512176011	3	Embolus of left middle cerebral artery	stroke			
+667	a3512176011	3	Embolus of left middle cerebral artery	stroke			
+668	a13967201000006117	3	Occlusion of branch of basilar artery	stroke			
+669	a3509817019	3	Left hemispheric cerebellar artery embolism with stroke	stroke			
+670	a3509817019	3	Left hemispheric cerebellar artery embolism with stroke	stroke			
+671	a13967201000006117	3	Occlusion of branch of basilar artery	stroke			
+672	a7090271000006110	3	Occipital subdural haematoma	stroke			
+673	a5011061000006119	3	TACI - Total anterior cerebral circulation infarction	stroke			
+674	a4777811000006117	3	Basal ganglia hemorrhage	stroke			
+675	a296934011	3	Embolism lateral sinus	stroke			
+676	a5011061000006119	3	TACI - Total anterior cerebral circulation infarction	stroke			
+677	a3971061000006111	3	Vertebral artery stenosis	stroke			
+678	a5011581000006119	3	Subarachnoid haemorrhage due to ruptured aneurysm	stroke			
+679	a7378401000006111	3	Traumatic intracerebral hemorrhage	stroke			
+680	a5011261000006110	3	Multi-infarct state	stroke			
+681	a5011261000006110	3	Multi-infarct state	stroke			
+682	a9478331000006110	3	Amaurosis fugax of right eye	stroke			
+683	a124171000006112	3	Subdural h'ge inj no open intracranial wnd+>24 LOC +recovery	stroke			
+684	a8195431000006118	3	Stroke/cerebrovascular accident 6 month review	stroke			
+685	a5011651000006111	3	Cerebral venous thrombosis of sigmoid sinus	stroke			
+686	a3508956015	3	Stroke due to basilar artery thrombus	stroke			
+687	a4777811000006117	3	Basal ganglia hemorrhage	stroke			
+688	a5518071000006116	3	SAH - Spontaneous subarachnoid haemorrhage	stroke			
+689	a123351000006119	2	Subarachnoid h'ge inj + open intracran wnd+concussion unspec	stroke			
+690	a200591000006119	2	Puerperal cerebrovascular disorder - delivered with postnatal complication	stroke			
+691	a5597481000006114	2	Ruptured aneurysm of anterior cerebral artery	stroke			
+692	a4057031000006117	2	Brain stem infarct	stroke			
+693	a300945017	2	[X]Cerebral arteritis in infectious and parasitic diseases	stroke			
+694	a5060601000006117	2	AVM - Cerebral arteriovenous malformation	stroke			
+695	a4057031000006117	2	Brain stem infarct	stroke			
+696	a12370641000006110	2	Dementia with mixed etiology	stroke			
+697	a7295961000006113	2	Superior cerebellar artery syndrome	stroke			
+698	a39751000006114	2	Oth cereb h'ge inj no open intracran wnd+concussion unspec	stroke			
+699	a7295961000006113	2	Superior cerebellar artery syndrome	stroke			
+700	a3510963013	2	Lacunar ataxic hemiparesis of left dominant side	stroke			
+701	a296933017	2	Embolism superior longitudinal sinus	stroke			
+702	a3510961010	2	Lacunar ataxic hemiparesis of right dominant side	stroke			
+703	a3510961010	2	Lacunar ataxic hemiparesis of right dominant side	stroke			
+704	a5583101000006116	2	Subarachnoid haemorrhage from basilar artery aneurysm	stroke			
+705	a8087231000006116	2	Right carotid artery occlusion	stroke			
+706	a39711000006113	2	Oth cereb h'ge inj + open intracran wnd+concussion unspec	stroke			
+707	a3964661000006114	2	Subcortical atherosclerotic dementia	stroke			
+708	a124131000006114	2	Subdural h'ge inj no open intracran wnd+1-24hr loss consc	stroke			
+709	a3964661000006114	2	Subcortical atherosclerotic dementia	stroke			
+710	a5589431000006117	2	Perinatal cerebral ischaemia	stroke			
+711	a3533574016	2	Spontaneous intracranial haemorrhage	stroke			
+712	a3533578018	2	Nontraumatic intracranial haemorrhage	stroke			
+713	a7067811000006116	2	Cerebral vasculitis	stroke			
+714	a3508958019	2	Cerebrovascular accident due to thrombus of right carotid artery	stroke			
+715	a3522691000006112	2	Cerebrovascular lesion	stroke			
+716	a3508958019	2	Cerebrovascular accident due to thrombus of right carotid artery	stroke			
+717	a3971071000006116	2	Vertebral artery narrowing	stroke			
+718	a3511086012	2	Thrombosis of right vertebral artery	stroke			
+719	a3509799010	2	Cerebrovascular accident due to occlusion of left posterior cerebral artery	stroke			
+720	a3511086012	2	Thrombosis of right vertebral artery	stroke			
+721	a3636969013	2	Occlusion of right middle cerebral artery by embolus	stroke			
+722	a3083011000006110	2	R.I.N.D. syndrome	stroke			
+723	a3636969013	2	Occlusion of right middle cerebral artery by embolus	stroke			
+724	a659981000006114	2	Extradural h'ge inj + open intracran wnd+concussion unspec	stroke			
+725	a4405821000006119	2	Disorder of intracranial venous sinus	stroke			
+726	a7134241000006113	2	Intraparenchymal haematoma of brain	stroke			
+727	a4854331000006110	2	Traumatic subdural hemorrhage	stroke			
+728	a5836951000006117	2	Intracranial venous thrombosis	stroke			
+729	a5058411000006114	2	Ruptured cerebral aneurysm	stroke			
+730	a123431000006119	2	Subarachnoid h'ge inj no open intracran wound + unspec consc	stroke			
+731	a3510963013	2	Lacunar ataxic hemiparesis of left dominant side	stroke			
+732	a13909861000006114	2	Cerebral ischaemic stroke due to dissection of artery	stroke			
+733	a13909861000006114	2	Cerebral ischaemic stroke due to dissection of artery	stroke			
+734	a3962581000006110	2	Thrombosis of cavernous venous sinus	stroke			
+735	a4056911000006110	2	Subdural intracranial haematoma	stroke			
+736	a5583121000006114	2	Subarachnoid haemorrhage from posterior inferior cerebellar artery aneurysm	stroke			
+737	a660051000006115	2	Extradural h'ge inj no open intracran wnd+>24hr LOC-restored	stroke			
+738	a39791000006115	1	Oth cerebral h'ge inj + open intracran wnd+1-24hr loss consc	stroke			
+739	a9843691000006117	1	Left vertebral artery dissection	stroke			
+740	a3509863013	1	Non-ruptured acquired cerebral aneurysm	stroke			
+741	a3561811000006118	1	Cerebral arteriosclerosis	stroke			
+742	a5011861000006114	1	Asymptomatic cerebrovascular disease	stroke			
+743	a7572361000006118	1	Non-aneurysmal subarachnoid intracranial haemorrhage	stroke			
+744	a659951000006118	1	Extradural haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	stroke			
+745	a5011331000006114	1	Anterior cerebral circulation haemorrhagic infarction	stroke			
+746	a3648391000006110	1	Sagittal sinus thrombosis	stroke			
+747	a5588531000006112	1	Germinal matrix haemorrhage	stroke			
+748	a2664611000006117	1	"Vascular dementia, with delirium"	stroke			
+749	a659961000006116	1	Extradural haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	stroke			
+750	a3964651000006112	1	Subcortical arteriosclerotic encephalopathy	stroke			
+751	a660001000006119	1	Extradural h'ge inj + open intracranial wnd + unspec consc	stroke			
+752	a3512174014	1	Embolus of right posterior cerebral artery	stroke			
+753	a7572421000006118	1	Cerebral vasoconstriction syndrome	stroke			
+754	a8026081000006119	1	Visual disturbance as sequela of cerebrovascular disease	stroke			
+755	a7108011000006118	1	Occipital extradural haematoma	stroke			
+756	a123301000006118	1	Subarach h'ge inj + open intracran wnd+LOC unspec duration	stroke			
+757	a5004981000006112	1	Intracranial septic embolism	stroke			
+758	a3512174014	1	Embolus of right posterior cerebral artery	stroke			
+759	a2871241000006118	1	Ventricular haemorrhage	stroke			
+760	a3636133016	1	Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus	stroke			
+761	a6837061000006117	1	Basal ganglion infarct	stroke			
+762	a3636133016	1	Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus	stroke			
+763	a8087221000006119	1	Left carotid artery occlusion	stroke			
+764	a6837061000006117	1	Basal ganglion infarct	stroke			
+765	a660101000006115	1	Extradural h'ge inj no open intracranial wnd+<1hr loss consc	stroke			
+766	a3964651000006112	1	Subcortical arteriosclerotic encephalopathy	stroke			
+767	a296943019	1	Phlebitis of superior longitudinal sinus	stroke			
+768	a9843651000006111	1	Right vertebral artery dissection	stroke			
+769	a3687331000006115	1	Acute hemorrhagic leukoencephalitis	stroke			
+770	a124081000006114	1	Subdural h'ge inj + open intracranial wnd+concussion unspec	stroke			
+771	a5597601000006115	1	Ruptured aneurysm of basilar artery	stroke			
+772	a7289131000006116	1	Recurrent transient cerebral ischemic attack	stroke			
+773	a3070021000006116	1	Orbital apex-sphenoid syndrome	stroke			
+774	a7497191000006114	1	Chronic non-traumatic intracranial subdural haemorrhage	stroke			
+775	a123331000006114	1	Subarach h'ge inj no open intracran wnd+LOC unspec duration	stroke			
+776	a200621000006117	1	Puerperal cerebrovascular disorder with antenatal complication	stroke			
+777	a13905301000006116	1	Bilateral occlusion of pontine arteries	stroke			
+778	a7572391000006114	1	Perimesencephalic subarachnoid hemorrhage	stroke			
+779	a3533575015	1	Spontaneous intracranial hemorrhage	stroke			
+780	a13905301000006116	1	Bilateral occlusion of pontine arteries	stroke			
+781	a3930501000006113	1	Amaurosis fugax (one sided temporary vision loss)	stroke			
+782	a5011331000006114	1	Anterior cerebral circulation haemorrhagic infarction	stroke			
+783	a7289131000006116	1	Recurrent transient cerebral ischemic attack	stroke			
+784	a3505881015	1	Right middle cerebral artery thrombosis	stroke			
+785	a13909891000006118	1	Cerebral ischaemic stroke due to hypercoagulable state	stroke			
+786	a5011571000006117	1	Subarachnoid hemorrhage due to ruptured arteriovenous malformation	stroke			
+787	a200631000006119	1	Puerperal cerebrovascular disorder with postnatal complication	stroke			
+788	a5597491000006112	1	Ruptured aneurysm of middle cerebral artery	stroke			
+789	a3505881015	1	Right middle cerebral artery thrombosis	stroke			
+790	a659971000006111	1	Extradural haemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours)	stroke			
+791	a7751381000006116	1	Sneddon syndrome	stroke			
+792	a13909891000006118	1	Cerebral ischaemic stroke due to hypercoagulable state	stroke			
+793	a3505555010	1	Occlusion of right vertebral artery	stroke			
+794	a2832661000006113	1	Subcortical hemorrhage	stroke			
+795	a3515795019	1	Acute nontraumatic subdural haemorrhage	stroke			
+796	a7951271000006116	1	Haemorrhage of medulla oblongata	stroke			
+797	a7951271000006116	1	Haemorrhage of medulla oblongata	stroke			
+798	a989211000006119	1	Cerebral haemorrhage NOS	stroke			
+799	a7525971000006116	1	Embolism of middle cerebral artery	stroke			
+800	a3610791000006116	1	Pseudotumour cerebri	stroke			
+801	a5649201000006113	1	Extension of cerebrovascular accident	stroke			
+802	a2841171000006115	1	Subarachnoid intracranial hemorrhage	stroke			
+803	a2841151000006113	1	SAH - Subarachnoid hemorrhage	stroke			
+804	a5656921000006118	1	Non-traumatic intracranial subdural haematoma	stroke			
+805	a4056951000006111	1	Brainstem haemorrhage	stroke			
+806	a4056951000006111	1	Brainstem haemorrhage	stroke			
+807	a7064691000006118	1	Transient cerebral ischaemia due to atrial fibrillation	stroke			
+808	a3509790014	1	Cerebrovascular accident due to occlusion of right posterior cerebral artery	stroke			
+809	a7064691000006118	1	Transient cerebral ischaemia due to atrial fibrillation	stroke			
+810	a3509790014	1	Cerebrovascular accident due to occlusion of right posterior cerebral artery	stroke			
+811	a5726831000006118	1	Cerebral ischaemia	stroke			
+812	a2893541000006113	1	Weber-Gubler syndrome	stroke			
+813	a3509777019	1	Cerebrovascular accident due to occlusion of left pontine artery	stroke			
+814	a12223131000006114	1	ICH - intracerebral hemorrhage	stroke			
+815	a5011421000006117	1	Thalamic hemorrhage	stroke			
+816	a989201000006117	1	Cerebral haemorrhage	stroke			
+817	a5011421000006117	1	Thalamic hemorrhage	stroke			
+818	a660011000006116	1	Extradural haemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour)	stroke			
+819	a3508952018	1	Cerebrovascular accident due to thrombus of left carotid artery	stroke			
+820	a3414231000006117	1	MID - Multi-infarct dementia	stroke			
+821	a3508952018	1	Cerebrovascular accident due to thrombus of left carotid artery	stroke			
+822	a3414231000006117	1	MID - Multi-infarct dementia	stroke			
+823	a660061000006118	1	Extradural h'ge inj no open intracran wnd+1-24hr loss consc	stroke			
+824	a3964671000006119	1	Chronic progressive subcortical encephalopathy	stroke			
+825	a2893541000006113	1	Weber-Gubler syndrome	stroke			
+826	a5649201000006113	1	Extension of cerebrovascular accident	stroke			
+827	a124101000006118	1	Subdural haemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour)	stroke			
+828	a4396451000006110	1	Intracranial haemorrhage following injury with brief loss of consciousness	stroke			
+829	a3964671000006119	1	Chronic progressive subcortical encephalopathy	stroke			
+830	a3687811000006118	1	Cerebral hemisphere haemorrhage	stroke			
+831	a39761000006111	1	Oth cereb h'ge inj no open intracran wnd+LOC unspec duration	stroke			
+832	a2726591000006119	1	Anterior choroidal artery syndrome	stroke			
+833	a2832661000006113	1	Subcortical hemorrhage	stroke			
+834	a8089851000006116	1	Nontraumatic intracerebral haemorrhage	stroke			
+835	a2726591000006119	1	Anterior choroidal artery syndrome	stroke			
+836	a39731000006119	1	Oth cereb h'ge inj no open intracran wnd+>24hr LOC +recovery	stroke			
+837	a5582951000006110	1	Unruptured aneurysm of basilar artery	stroke			
+838	a35791000006117	1	Other cerebral h'ge after injury + open intracranial wound	stroke			
+839	a12223131000006114	1	ICH - intracerebral hemorrhage	stroke			
+840	a989201000006117	1	Cerebral haemorrhage	stroke			
+841	a3510816012	1	Acute nontraumatic subdural hemorrhage	stroke			
+842	a5459241000006110	1	Traumatic intracranial subdural hematoma	stroke			
+843	a4057041000006110	1	Brain stem stroke	stroke			
+844	a4057051000006112	1	Infarction of brain stem	stroke			
+845	a3719851000006116	1	Cerebellar hemorrhage	stroke			
+846	a989211000006119	1	Cerebral haemorrhage NOS	stroke			
+847	a8089871000006114	1	Spontaneous subacute subdural hemorrhage	stroke			
+848	a7563211000006113	1	Susac syndrome	stroke			
+849	a4057041000006110	1	Brain stem stroke	stroke			
+850	a4057051000006112	1	Infarction of brain stem	stroke			
+851	a5111331000006119	1	Pituitary haemorrhage	stroke			
+852	a8011371000006117	1	Sequela of ischaemic cerebral infarction	stroke			
+853	a4778311000006112	1	Sequelae of cerebrovascular disease	stroke			
+854	a124181000006110	1	Subdural h'ge inj no open intracranial wound+<1hr loss consc	stroke			
+855	a3719851000006116	1	Cerebellar hemorrhage	stroke			
+856	a5459221000006115	1	Traumatic cranial subdural haematoma	stroke			

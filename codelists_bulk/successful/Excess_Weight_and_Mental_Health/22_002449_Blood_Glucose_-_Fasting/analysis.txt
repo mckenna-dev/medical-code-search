@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 10
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tf_blood_glucose']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                            \tMedCodeId\tObservations\tTerm\tf_blood_glucose
+0                       0\ta405633013\t2000000\tFasting blood glucose level\tf_blood_glucose
+1  1\ta1822521000006119\t300000\tTest request : Fasting blood glucose level\tf_blood_glucose
+2               2\ta5519881000006117\t90\tFasting blood glucose measurement\tf_blood_glucose

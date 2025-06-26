@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 43
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tSnomedCTConceptId']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+             MedCodeId\tObservations\tTerm\tSnomedCTConceptId
+0  a212251000006113\t73888\tPostpartum haemorrhage\tb47821001
+1           a1230526013\t4613\tBleeding postpartum\tb47821001
+2     a307386017\t3939\tPostpartum haemorrhage NOS\tb47821001

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 42
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2          MedCodeID                                                            Term
+0   6166    Neurological    Parkinsons_D  a1776241000006114  Staff group: Nursing - Parkinson and Alzheimer Nursing/Liaison
+1   6167    Neurological    Parkinsons_D  a1776901000006117                         Reason for referral: Parkinsons Disease
+2   6168    Neurological    Parkinsons_D  a1863311000006117                 Referral by Parkinsons disease nurse specialist

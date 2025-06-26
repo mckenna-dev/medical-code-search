@@ -1,0 +1,5 @@
+	Column0	MedCodeId	Term	Count
+0	75	a373708010	Serum aspartate aminotransferase level	6575236
+1	573	a219691000000115	Aspartate aminotransferase level	56889
+2	640	a457989010	Plasma aspartate transaminase level	45264
+3	4378	a2917641000006113	Aspartate transaminase	104

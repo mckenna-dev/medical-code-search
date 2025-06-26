@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 11
+Columns: 4
+Column names: ['MedCodeId', 'Term', 'Count', 'Unnamed: 3']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+          MedCodeId                    Term     Count  Unnamed: 3
+0   813551000006113  Haemoglobin estimation  73716624         NaN
+1         411758010           Hb estimation    246430         NaN
+2  3113081000006110             Haemoglobin      1576         NaN

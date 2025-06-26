@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 11
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1  Flag_classifyL2         MedCodeID                                                Term
+0   2225          Cancer  Small intestine  a721601000006117  Malignant neoplasm of small intestine and duodenum
+1   2226          Cancer  Small intestine  a726021000006110                      Malignant neoplasm of duodenum
+2   2227          Cancer  Small intestine  a725451000006118                       Malignant neoplasm of jejunum

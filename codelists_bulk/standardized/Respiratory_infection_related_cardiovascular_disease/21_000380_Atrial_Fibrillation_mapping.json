@@ -1,0 +1,39 @@
+{
+  "original_file": "codelists_bulk\\successful\\Respiratory_infection_related_cardiovascular_disease\\21_000380_Atrial_Fibrillation\\Aurum_AF_codelist_010422.txt",
+  "original_columns": [
+    "v1",
+    "medcodeid",
+    "observations",
+    "cleansedreadcode",
+    "term",
+    "snomedctconceptid"
+  ],
+  "column_mapping": {
+    "med_code_id": "medcodeid",
+    "term": "term",
+    "snomed_ct_concept_id": "snomedctconceptid",
+    "observations": "observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "medcodeid",
+      "type": "primary"
+    },
+    "term": {
+      "column": "term",
+      "type": "primary"
+    },
+    "snomed_ct_concept_id": {
+      "column": "snomedctconceptid",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 68,
+  "rows_standardized": 68,
+  "project": "Respiratory_infection_related_cardiovascular_disease",
+  "codelist": "21_000380_Atrial_Fibrillation"
+}

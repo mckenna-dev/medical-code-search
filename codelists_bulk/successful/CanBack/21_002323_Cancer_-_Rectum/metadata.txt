@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Rectum.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/12-21-002323-CanBack/main/Codelists/Cancer_Rectum.csv
+Codelist Name: Cancer - Rectum
+Project Title: CanBack
+ERAP Number: 21_002323
+Author: Aron Downie
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:30:18
+File Size: 692 bytes

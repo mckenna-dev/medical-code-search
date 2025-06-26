@@ -1,0 +1,185 @@
+MedCodeId	Observations	Term	copd
+a475431013	5000000	Chronic obstructive pulmonary disease	copd
+a1488424013	3000000	Chronic obstructive pulmonary disease annual review	copd
+a977911000006114	2000000	Number of chronic obstructive pulmonary disease exacerbations in past year	copd
+a301453013	1000000	Acute exacerbation of chronic obstructive airways disease (disorder)	copd
+a189761000000117	1000000	Chronic obstructive pulmonary disease monitoring first letter (procedure)	copd
+a1484924013	1000000	COPD self-management plan given	copd
+a1176861000000111	800000	Chronic obstructive pulmonary disease assessment test score	copd
+a457169013	800000	Moderate chronic obstructive pulmonary disease (disorder)	copd
+a839001000006111	700000	COPD self-management plan given	copd
+a457168017	700000	Mild chronic obstructive pulmonary disease (disorder)	copd
+a457171013	500000	Severe chronic obstructive pulmonary disease	copd
+a301545019	400000	Chronic obstructive airway disease	copd
+a2716231000006114	300000	Chronic obstructive lung disease	copd
+a198471000000111	300000	Chronic obstructive pulmonary disease monitoring 2nd letter	copd
+a640491000006111	300000	Pulmonary emphysema	copd
+a555471000006114	200000	COAD - Chronic obstructive airways disease	copd
+a939991000006112	200000	COPD medication review	copd
+a139141000000114	200000	Excepted from chronic obstructive pulmonary disease quality indicators - informed dissent	copd
+a139131000000117	200000	Excepted from COPD quality indicators - patient unsuitable	copd
+a1573111000000115	200000	Issue of chronic obstructive pulmonary disease rescue pack	copd
+a966841000006111	100000	Chronic obstructive pulmonary disease clini management plan	copd
+a299031000000110	100000	Chronic obstructive pulmonary disease does not disturb sleep	copd
+a1488423019	100000	Chronic obstructive pulmonary disease follow-up	copd
+a199481000000116	100000	Chronic obstructive pulmonary disease monitoring third letter	copd
+a1811661000006110	100000	Chronic obstructive pulmonary disease self-management plan agreed (finding)	copd
+a405121000000111	100000	Education about chronic obstructive pulmonary disease (procedure)	copd
+a1811741000006117	90000	Chronic obstructive pulmonary disease self-management plan review	copd
+a2716321000006116	90000	COPD - Chronic obstructive pulmonary disease	copd
+a105519017	80000	Chronic bronchitis (disorder)	copd
+a967581000006118	80000	Chronic obstructive pulmonary disease monitoring telephone invitation (procedure)	copd
+a1683221000000119	60000	Chronic obstructive pulmonary disease 6 monthly review	copd
+a967531000006119	60000	Chronic obstructive pulmonary disease monitoring administration	copd
+a931451000006113	60000	DNA - Did not attend chronic obstructive pulmonary disease clinic	copd
+a967571000006116	50000	Chronic obstructive pulmonary disease monitoring verbal invite	copd
+a516801000000112	50000	Very severe chronic obstructive pulmonary disease (disorder)	copd
+a424365019	40000	Acute infective exacerbation of chronic obstructive airways disease	copd
+a1488856013	40000	Chronic obstructive pulmonary disease leaflet given	copd
+a1704531000006115	40000	Chronic obstructive pulmonary disease patient unsuitable for pulmonary rehabilitation - enhanced services administration (procedure)	copd
+a1813021000006111	40000	Chronic obstructive pulmonary disease rescue pack not indicated	copd
+a845451000006118	40000	COPD follow-up	copd
+a1948051000006112	30000	Asthma-chronic obstructive pulmonary disease overlap syndrome	copd
+a1683181000000112	30000	Chronic obstructive pulmonary disease 3 monthly review	copd
+a977891000006112	30000	Chronic obstructive pulmonary disease accident and emergency attendance since last visit	copd
+a8439171000006119	30000	Chronic obstructive pulmonary disease monitoring short message service text message invitation (procedure)	copd
+a977901000006111	30000	Emergency chronic obstructive pulmonary disease admission since last appointment	copd
+a2160051010	30000	Emergency hospital admission for chronic obstructive pulmonary disease	copd
+a1783891000006115	30000	Optimisation of medication for chronic obstructive pulmonary disease	copd
+a299001000000116	20000	Chronic obstructive pulmonary disease disturbs sleep (finding)	copd
+a1704521000006118	20000	Chronic obstructive pulmonary disease enhanced services administration	copd
+a1222335015	20000	Chronic obstructive pulmonary disease NOS	copd
+a553001000006111	20000	Chronic obstructive pulmonary disease screening	copd
+a1970571000006114	20000	COPD assessment test score - activity limitation at home	copd
+a1970561000006119	20000	COPD assessment test score - breathless walking up hill/stairs	copd
+a1970551000006116	20000	COPD assessment test score - chest tightness	copd
+a1970581000006112	20000	COPD assessment test score - confidence leaving home	copd
+a1970531000006111	20000	COPD assessment test score - cough	copd
+a1970601000006119	20000	COPD assessment test score - energy	copd
+a1970541000006118	20000	COPD assessment test score - phlegm (mucus)	copd
+a1970591000006110	20000	COPD assessment test score - sleeping soundly	copd
+a1704541000006113	20000	COPD patient unsuitable for pulmonary rehabilitation	copd
+a139011000000112	20000	Exception reporting - COPD quality indicators	copd
+a285104011	20000	Obstructive chronic bronchitis	copd
+a1784371000006111	20000	Referral to COPD community nursing team	copd
+a301459012	10000	Chronic bronchitis NOS	copd
+a1780380013	10000	Chronic obstructive pulmonary disease monitoring by nurse	copd
+a1484971019	10000	Chronic obstructive pulmonary disease monitoring due (finding)	copd
+a8214721000006112	10000	Chronic obstructive pulmonary disease monitoring invitation	copd
+a8439851000006117	10000	Chronic obstructive pulmonary disease monitoring short message service text message first invitation (procedure)	copd
+a2408831000000112	10000	Chronic obstructive pulmonary disease resolved (finding)	copd
+a1161361000000118	10000	Clinical chronic obstructive pulmonary disease questionnaire total score	copd
+a1724351000006112	10000	Clinical COPD Questionnaire	copd
+a301477019	10000	Emphysema NOS	copd
+a2152091000000112	10000	Has chronic obstructive pulmonary disease care plan	copd
+a508561017	10000	Simple chronic bronchitis	copd
+a2219861000000114	9000	Chronic obstructive pulmonary disease rescue pack declined	copd
+a8197651000006115	8000	CAT - COPD (chronic obstructive pulmonary disease) assessment test	copd
+a2010061000006113	7000	Acute non-infective exacerbation of chronic obstructive pulmonary disease	copd
+a555461000006119	7000	Chronic obstructive pulmonary disease with acute lower respiratory infection	copd
+a11932341000006113	7000	COPD GOLD group B	copd
+a301460019	6000	Chronic bullous emphysema	copd
+a998281000006115	6000	Multiple COPD emergency hospital admissions	copd
+a1699821000006113	5000	At risk of COPD (chronic obstructive pulmonary disease) exacerbation	copd
+a113497011	5000	Centriacinar emphysema (disorder)	copd
+a301539010	5000	Chronic obstructive lung disease	copd
+a1882451000006116	5000	No COPD exacerbations in past year	copd
+a12626281000006113	5000	Quality and Outcomes Framework chronic obstructive pulmonary disease quality indicator-related care invitation (procedure)	copd
+a2219551000000113	5000	Seen in chronic obstructive pulmonary disease clinic (finding)	copd
+a1904861000006117	4000	Chronic obstructive pulmonary disease management plan declined (situation)	copd
+a11932361000006112	4000	COPD GOLD group D	copd
+a285100019	3000	Chronic obstructive bronchitis	copd
+a8439871000006110	3000	Chronic obstructive pulmonary disease monitoring short message service text message second invitation	copd
+a11932331000006115	3000	COPD GOLD group A	copd
+a216596014	3000	End stage chronic obstructive pulmonary disease	copd
+a1785171000006113	3000	GP OOH service notified of COPD care plan	copd
+a1813871000006117	3000	On chronic obstructive pulmonary disease supportive care pathway (finding)	copd
+a909711000006111	2000	[RFC] Chronic obstructive pulmonary disease (COPD)	copd
+a909721000006115	2000	[RFC] Emphysema	copd
+a1882421000006113	2000	1 COPD exacerbation in past year	copd
+a1885981000006112	2000	Chronic obstructive pulmon dis wr self managem plan declined	copd
+a1780381012	2000	Chronic obstructive pulmonary disease monitoring by doctor (regime/therapy)	copd
+a2199261000000110	2000	COPD (chronic obstructive pulmonary disease) care pathway	copd
+a8260631000006112	2000	COPD (chronic obstructive pulmonary disease) self-management plan review	copd
+a8034781000006113	2000	Did not attend chronic obstructive pulmonary disease clinic	copd
+a123588010	2000	Mucopurulent chronic bronchitis NOS	copd
+a8249051000006111	2000	Referral to COPD (chronic obstructive pulmonary disease) community nursing team	copd
+a1882441000006118	1000	2 COPD exacerbations in past year	copd
+a1882431000006111	1000	3+ COPD exacerbations in past year	copd
+a508562012	1000	Chronic catarrhal bronchitis	copd
+a1889321000006114	1000	Chronic obstructive pulmonary disease screening invitation	copd
+a1704571000006117	1000	Chronic obstructive pulmonary disease structured smoking assessment declined	copd
+a11932351000006110	1000	COPD GOLD group C	copd
+a8437811000006110	1000	Number of hospital admissions due to COPD (chronic obstructive pulmonary disease) in past year	copd
+a1813881000006119	1000	On COPD (chronic obstructive pulmonary disease) supportive care pathway	copd
+a1704561000006112	1000	Referred for chronic obstructive pulmonary disease structured smoking assessment	copd
+a2423731000000115	1000	Telehealth chronic obstructive pulmonary disease monitoring	copd
+a1916531000006115	800	Access to online patient COPD education given	copd
+a7049011000006110	800	Acute exacerbation of chronic bronchitis	copd
+a301468014	800	Chronic bullous emphysema NOS	copd
+a8231811000006116	700	Discussion about chronic obstructive pulmonary disease exacerbation plan	copd
+a12116581000006116	700	Registration for online access to myCOPD application offered	copd
+a8294561000006110	700	Seen in COPD (chronic obstructive pulmonary disease) clinic	copd
+a851261000006116	600	"Chronic bronchitis, acute exac"	copd
+a1823851000006119	600	Chronic obstructive pulmonary disease confirmed	copd
+a12623621000006118	600	Excepted from COPD (chronic obstructive pulmonary disease) quality indicators - service unavailable	copd
+a2009511000006113	600	Not suitable for step down change in COPD management plan	copd
+a4781421000006111	500	Acute exacerbation of COPD	copd
+a940141000006111	500	COPD monitoring invite 1	copd
+a301469018	500	Emphysema	copd
+a8287171000006115	400	Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease)	copd
+a8439881000006113	400	Chronic obstructive pulmonary disease monitoring short message service text message third invitation (procedure)	copd
+a4781431000006114	300	Acute exacerbation of chronic obstructive pulmonary disease	copd
+a885301000006119	300	Chronic obstructive airways disease NOS	copd
+a11929151000006117	300	Chronic obstructive pulmonary disease assessment test	copd
+a8257861000006113	300	Chronic obstructive pulmonary disease monitoring due date	copd
+a1856491000006119	300	Chronic obstructive pulmonary disease monitoring in primary care	copd
+a1771441000006118	300	COPD patient experience discussed	copd
+a1704581000006119	300	COPD structured smoking assessment declined	copd
+a3295361000006115	300	Emphysema	copd
+a301455018	300	Obstructive chronic bronchitis NOS	copd
+a9337016	300	Panacinar emphysema	copd
+a1784071000006113	300	Preferred place of care for next exacerbation of COPD	copd
+a301463017	300	Segmental bullous emphysema	copd
+a3011135010	300	Step down change in chronic obstructive pulmonary disease management plan (regime/therapy)	copd
+a301836011	200	[X]Other specified chronic obstructive pulmonary disease	copd
+a396108018	200	Bullous emphysema with collapse	copd
+a1856591000006115	200	Chronic obstructive pulmonary disease follow-up assessment	copd
+a1856581000006118	200	Chronic obstructive pulmonary disease monitoring default	copd
+a1856571000006116	200	Chronic obstructive pulmonary disease severity	copd
+a27096010	200	Giant bullous emphysema	copd
+a506053014	200	Purulent chronic bronchitis	copd
+a301464011	200	Zonal bullous emphysema	copd
+a1889301000006116	100	Chronic obstructive pulmonary disease screening admin	copd
+a87480013	100	Chronic tracheobronchitis	copd
+a11929131000006112	100	Clinical chronic obstructive pulmonary disease questionnaire	copd
+a940131000006118	100	COPD monitoring administration	copd
+a12116551000006112	100	Declined to register for online access to myCOPD application	copd
+a12116261000006112	100	GOLD (Global Initiative for Chronic Obstructive Lung Disease) 2017 ABCD assessment tool	copd
+a301448015	100	Mucopurulent chronic bronchitis NOS	copd
+a301444018	100	Simple chronic bronchitis	copd
+a2009451000006113	90	Chronic obstructive pulmonary disease post discharge review	copd
+a2308511000000113	90	Shared care chronic obstructive pulmonary disease monitoring	copd
+a301572010	80	Chronic emphysema due to chemical fumes	copd
+a12734311000006114	80	Quality and Outcomes Framework chronic obstructive pulmonary disease quality indicator-related care invitation using preferred method of communication	copd
+a1704551000006110	80	Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration (procedure)	copd
+a7586711000006111	70	Step up change in chronic obstructive pulmonary disease management plan (regime/therapy)	copd
+a2009501000006110	70	Suitable for step down change in COPD management plan	copd
+a1856501000006110	60	Chronic obstructive pulmonary disease monitoring secondary care	copd
+a55602016	50	Compensatory emphysema (disorder)	copd
+a11928221000006113	50	Education about chronic obstructive pulmonary disease (procedure)	copd
+a8439091000006119	40	Chronic obstructive pulmonary disease monitoring email invitation (procedure)	copd
+a301456017	40	Mixed simple and mucopurulent chronic bronchitis	copd
+a940151000006113	30	COPD monitoring invite 2	copd
+a940161000006110	30	COPD monitoring invite 3	copd
+a7627141000006111	30	Pulmonary emphysema co-occurrent with fibrosis of lung (disorder)	copd
+a1771201000006116	20	Chronic obstructive pulmonary disease multidisciplinary review	copd
+a2767421000006111	20	Obstructive emphysema	copd
+a7970171000006119	8	Acute exacerbation of chronic obstructive airways disease with asthma	copd
+a1839331000006117	8	Seen in chronic obstructive pulmonary disease clinic	copd
+a8090191000006114	7	Acute exacerbation of chronic obstructive bronchitis	copd
+a1656601000006119	4	COPD patient unsuitable for pulmonary rehabilitation	copd
+a13651461000006115	2	Chronic bronchitis co-occurrent with wheeze	copd
+a1880061000006110	2	COPD management plan declined	copd
+a8033221000006118	1	Chronic obstructive lung disease co-occurrent with acute bronchitis	copd
+a1882371000006118	1	Shared care chronic obstructive pulmonary disease monitoring	copd

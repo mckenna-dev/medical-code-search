@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 69
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tphysical_category']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                         \tMedCodeId\tObservations\tTerm\tphysical_category
+0   0\ta250390013\t1000000\tAvoids even trivial exercise\t limited_exercise
+1  1\ta250389016\t900000\tExercise physically impossible\t limited_exercise
+2   2\ta250397011\t600000\tAerobic exercise 0 times/week\t limited_exercise

@@ -1,0 +1,69 @@
+med_code_id,term,snomed_ct_concept_id,observations
+82343012,Atrial fibrillation,49436004,4000000
+636721000000112,Permanent atrial fibrillation,440028005,3000
+1854971000006115,Did not attend atrial fibrillation monitoring,1854971000006104,30
+5669591000006113,AF - Paroxysmal atrial fibrillation,282825002,50
+8214691000006119,Atrial fibrillation monitoring invitation,711411000000101,700
+8037691000006113,Atrial fibrillation with rapid ventricular response,120041000119109,200
+3309351000006110,Multifocal atrial tachycardia,49982000,200
+5057041000006118,Ectopic atrial tachycardia,233892002,1
+1000031000006118,Excepted from atrial fibrillation quality indicators - informed dissent,717381000000109,20000
+406861000000119,Atrial fibrillation annual review,248411000000105,200000
+7610331000006110,Longstanding persistent atrial fibrillation,706923002,1
+350465014,Non-rheumatic atrial fibrillation,233911009,2000
+1856431000006118,Atrial fibrillation follow-up,1856431000006102,500
+14161691000006116,Paroxysmal atrial fibrillation with rapid ventricular response,1010405004,2
+406251000000118,Atrial fibrillation monitoring administration,713801000000102,30000
+7046981000006110,Chronic atrial flutter,425615007,1
+12626271000006110,QOF (Quality and Outcomes Framework) atrial fibrillation quality indicator-related care invitation,1110851000000100,500
+5590611000006118,Atrial tachycardia,276796006,1000
+421235014,Paroxysmal atrial fibrillation,282825002,700000
+636701000000115,Persistent atrial fibrillation,440059007,4000
+408081000000116,Atrial fibrillation monitoring first letter,717221000000101,100000
+3299911000006116,AF - Atrial fibrillation,49436004,50
+456154015,H/O: atrial fibrillation,312442005,100000
+216183015,Atrial fibrillation monitoring,134377004,100000
+2587711000000116,High risk of atrial fibrillation,1025021000000107,200
+783761000006118,Implantation of intravenous pacemaker for atrial fibrillation,175146007,600
+1978701000006112,Atrial fibrillation screen using BP monitor with AF detector,1978701000006108,200
+408241000000115,Atrial fibrillation monitoring telephone invite,716721000000107,3000
+2692063011,History of atrial flutter,428076002,3000
+256479014,ECG: atrial flutter,164890007,30000
+5669601000006117,PAF - Paroxysmal atrial fibrillation,282825002,100
+2587671000000117,At risk of atrial fibrillation,719008003,10000
+408101000000110,Atrial fibrillation monitoring second letter,716981000000106,40000
+300132017,Atrial fibrillation and flutter NOS,195080001,30000
+294171000000112,Exception reporting - atrial fibrillation quality indicators,716871000000101,2000
+8440101000006118,Atrial fibrillation not detected,1067061000000104,30
+1000021000006116,Excepted from atrial fibrillation quality indicators - patient unsuitable,715941000000109,40000
+4586661000006110,Electrocardiogram: paroxysmal atrial tachycardia,164891006,20
+9988012,Atrial flutter,5370000,200000
+5057261000006110,Lone atrial fibrillation,233910005,10
+1855511000006115,Atrial fibrillation monitoring in secondary care,1855511000006104,40
+300130013,Atrial fibrillation and flutter,195080001,500000
+1855501000006118,Atrial fibrillation monitoring in primary care,1855501000006102,5000
+2675253013,Chronic atrial fibrillation,426749004,400
+8439861000006115,Atrial fibrillation detected,1066831000000104,4
+12734511000006116,Evaluation of AF (atrial fibrillation) burden,143601000000104,1
+300106011,Paroxysmal atrial tachycardia,195069001,40000
+1587611000006119,Percutaneous transluminal ablation of atrial wall for atrial flutter,707832008,5000
+8218281000006110,Atrial fibrillation monitoring telephone invitation,716721000000107,700
+408141000000113,Atrial fibrillation monitoring verbal invite,717011000000100,2000
+408121000000118,Atrial fibrillation monitoring third letter,716181000000109,8000
+2608211000000115,Typical atrial flutter,720448006,90
+6016401000006115,History of atrial fibrillation,312442005,4
+1823951000006111,Atrial fibrillation confirmed,1823951000006107,40
+256478018,ECG: atrial fibrillation,164889003,400000
+5057071000006114,Incessant atrial tachycardia,233894001,1
+6043781000006115,Rapid atrial fibrillation,314208002,400
+1587631000006113,Perc translum ablat conduct sys heart for atrial flutter NEC,707832008,2000
+5887651000006116,Controlled atrial fibrillation,300996004,20
+1951131000006110,Atrial fibrillation screening,1951131000006106,1000
+7731461000006119,Familial atrial fibrillation,715395008,2
+8218591000006111,Atrial fibrillation monitoring verbal invitation,717011000000100,7
+7375931000006117,Insertion of pacemaker for control of atrial fibrillation,449863006,2
+1932021000006117,3D study - problems with atrial fibrillation management,1932021000006101,100
+5669611000006119,Intermittent atrial fibrillation,282825002,9
+2608251000000116,Atypical atrial flutter,15964901000119108,200
+2675306013,Paroxysmal atrial flutter,427665004,5000
+12734281000006112,QOF (Quality and Outcomes Framework) atrial fibrillation quality indicator-related care invitation using preferred method of communication,133111000000106,3

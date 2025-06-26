@@ -1,0 +1,16 @@
+	Column0	MedCodeId	Term	Count
+0	18	a100716012	Body mass index	66499074
+1	305	a253848011	Body mass index 30+ - obesity	270339
+2	324	a253847018	Body mass index index 25-29 - overweight	235946
+3	394	a253844013	Normal body mass index	149212
+4	516	a453856012	Body mass index less than 20	74427
+5	796	a253845014	Increased body mass index	24175
+6	1059	a2474325012	Body mass index 20-24 - normal	10797
+7	1090	a11923361000006119	Finding of body mass index	9963
+8	1208	a2160062010	Body mass index 40+ - severely obese	7187
+9	1266	a3484801000006114	BMI - Body mass index	6133
+10	1366	a253846010	Decreased body mass index	5079
+11	2242	a1900331000006113	Obese class III (body mass index equal to or greater than 40.0)	1242
+12	2945	a923861000006112	Body mass index	481
+13	4298	a4553741000006118	BMI 30+ - obesity	113
+14	4711	a5998281000006119	BMI less than 20	76

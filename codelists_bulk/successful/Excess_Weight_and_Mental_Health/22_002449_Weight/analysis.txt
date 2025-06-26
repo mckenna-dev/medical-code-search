@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 21
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tWeight category']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+     \tMedCodeId\tObservations\tTerm\tWeight category
+0    0\t253677014\t100000000\tBody weight\tcontinuous
+1  1\t253688015\t100000\tO/E - weight NOS\tcontinuous
+2   2\t1780175010\t70000\tBaseline weight\tcontinuous

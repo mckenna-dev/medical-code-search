@@ -1,0 +1,10 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+1700711000006113,34511558,Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised,999791000000106
+2397571000000119,332281,Haemoglobin A1c (diagnostic reference range),1010951000000100
+1753211000006115,242047,HbA1c (haemoglobin A1c) target level - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised,446074002
+1986181000006111,174717,HbA1c (haemoglobin A1c) level (diagnostic reference range) - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised,1049301000000100
+1986191000006114,102874,HbA1c (haemoglobin A1c) level (monitoring ranges) - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised,1049321000000109
+7318681000006111,2896,Haemoglobin A1c target value using International Federation of Clinical Chemistry and Laboratory Medicine standardised method,446074002
+2397611000000111,568,Haemoglobin A1c (monitoring ranges),1010941000000103
+6764261000006113,342,HBA1c target,408591000
+6764271000006118,64,Target HbA1c level,408591000

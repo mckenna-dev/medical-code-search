@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 92
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1        Flag_classifyL2           MedCodeID                                                                                       Term
+0   3481  Cardiovascular  Peripheral_vascular_D          a105536013                                                                  Intermittent claudication
+1   3482  Cardiovascular  Peripheral_vascular_D   a1176621000000116                                          Referred for peripheral artery disease assessment
+2   3483  Cardiovascular  Peripheral_vascular_D  a12122231000006112  Bilateral lower limb atherosclerosis pain at rest co-occurrent and due to atherosclerosis

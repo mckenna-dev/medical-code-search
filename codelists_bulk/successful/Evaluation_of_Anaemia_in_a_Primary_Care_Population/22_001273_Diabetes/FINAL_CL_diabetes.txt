@@ -1,0 +1,1541 @@
+	medcodeid	observations	term	snomedctconceptid	Typei	Typeii	unknowntype/other
+0	a197761014	20000000	Type 2 diabetes mellitus	44054006	0	1	0
+1	a264727014	7000000	Diabetic annual review	170777000	0	0	1
+2	a1488397014	6000000	O/E - Left diabetic foot at low risk	394675000	0	0	1
+3	a1488393013	6000000	O/E - Right diabetic foot at low risk	394671009	0	0	1
+4	a264676010	6000000	Diabetic monitoring	170742000	0	0	1
+5	a216201011	5000000	Diabetic retinopathy screening	134395001	0	0	1
+6	a121589010	5000000	Diabetes mellitus	73211009	0	0	1
+7	a285223014	4000000	Seen in diabetic clinic	185229005	0	0	1
+8	a264681018	4000000	Diabetic on oral treatment	170746002	0	0	1
+9	a616731000006114	4000000	Diabetes monitoring first letter	185756006	0	0	1
+10	a404444016	3000000	Haemoglobin A1C - diabetic control interpretation	269823000	0	0	1
+11	a1658821000000117	2000000	Diabetic dietary review	7.54E+14	0	0	1
+12	a197984010	2000000	Type 1 diabetes mellitus	46635009	1	0	0
+13	a264678011	2000000	Follow-up diabetic assessment	170744004	0	0	1
+14	a264723013	2000000	Diabetes: practice programme	170774007	0	0	1
+15	a2117891000000114	1000000	Diabetes self-management plan agreed	8.12E+14	0	0	1
+16	a457231013	1000000	Seen in diabetic eye clinic	313340009	0	0	1
+17	a1658901000000118	1000000	Type II diabetic dietary review	7.54E+14	0	1	0
+18	a1484886012	1000000	O/E - no left diabetic retinopathy	390853009	0	0	1
+19	a21631000000117	1000000	Diabetes monitoring administration	7.14E+14	0	0	1
+20	a1484883016	1000000	O/E - no right diabetic retinopathy	390850007	0	0	1
+21	a1488403015	1000000	O/E - Left diabetic foot at moderate risk	394681008	0	0	1
+22	a264679015	1000000	Diabetic on diet only	170745003	0	1	0
+23	a264682013	1000000	Diabetic on insulin	170747006	0	0	1
+24	a1488404014	1000000	O/E - Right diabetic foot at moderate risk	394682001	0	0	1
+25	a2548271013	1000000	Agreeing on diabetes care plan	703040004	0	0	1
+26	a1780286017	900000	Diabetic peripheral neuropathy screening	401081006	0	0	1
+27	a616741000006116	900000	Diabetes monitoring second letter	185757002	0	0	1
+28	a616691000006118	800000	Diabetes monitoring check done	270445003	0	0	1
+29	a280571000006116	700000	Non-insulin dependent diabetes mellitus	44054006	0	1	0
+30	a1785332013	700000	Background diabetic retinopathy	390834004	0	0	1
+31	a616341000006117	700000	Diabetes mellitus screening	171183004	0	0	1
+32	a493774016	600000	Type II diabetes mellitus	44054006	0	1	0
+33	a1488441010	600000	Diabetes medication review	394725008	0	0	1
+34	a2159958014	600000	Under care of diabetic foot screener	408394009	0	0	1
+35	a1780386019	600000	Diabetic foot examination	401191002	0	0	1
+36	a2159170012	600000	Patient on maximal tolerated therapy for diabetes	407569005	0	0	1
+37	a264726017	600000	Diabetes management plan given	170742000	0	0	1
+38	a264701014	600000	Fundoscopy - diabetic check	170757007	0	0	1
+39	a914391000006116	500000	Insulin treated Type 2 diabetes mellitus	237599002	0	1	0
+40	a264729012	500000	Diabetic monitoring NOS	170742000	0	0	1
+41	a692951000000111	500000	Diabetic foot screen	3.67E+14	0	0	1
+42	a546471000000114	500000	Diabetes structured education programme declined	3.07E+14	0	0	1
+43	a200111000006116	500000	Diabetes mellitus diet education	284350006	0	0	1
+44	a2159973010	500000	O/E - right eye background diabetic retinopathy	408409007	0	0	1
+45	a2533110014	500000	Referral to diabetes structured education programme	415270003	0	0	1
+46	a139121000000119	400000	Excepted from diabetes quality indicators - informed dissent	7.16E+14	0	0	1
+47	a2159974016	400000	O/E - left eye background diabetic retinopathy	408410002	0	0	1
+48	a264693010	400000	Has seen dietician - diabetes	170752001	0	0	1
+49	a264707013	400000	Diabetic - good control	170763003	0	0	1
+50	a616751000006119	400000	Diabetes monitoring third letter	185758007	0	0	1
+51	a301191000000119	400000	Did not attend diabetic retinopathy clinic	1.99E+14	0	0	1
+52	a1484954015	300000	Did not attend diabetic clinic	390922008	0	0	1
+53	a1488398016	300000	O/E - Left diabetic foot at high risk	394676004	0	0	1
+54	a1488394019	300000	O/E - Right diabetic foot at high risk	394672002	0	0	1
+55	a9093013	300000	Diabetic retinopathy	4855003	0	0	1
+56	a401531012	300000	Diabetic - poor control	268519009	0	0	1
+57	a931191000006110	300000	Excepted from diabetes quality indicators - patient unsuitable	7.17E+14	0	0	1
+58	a299261000000111	300000	Diabetic 6 month review	1.99E+14	0	0	1
+59	a264695015	300000	Understands diet - diabetes	170753006	0	0	1
+60	a264724019	300000	Diabetes: shared care programme	170775008	0	0	1
+61	a1755441000006119	300000	Diabetes monitoring invitation by short message service text messaging	705072004	0	0	1
+62	a347657010	200000	Diabetic maculopathy	232020009	0	0	1
+63	a2279261000000115	200000	Education about diabetes and driving	700414001	0	0	1
+64	a2287311000000111	200000	Diabetes Year of Care annual review	8.88E+14	0	0	1
+65	a908831000006118	200000	[RFC] Diabetes mellitus	9.09E+14	0	0	1
+66	a169731000006118	200000	Retinal abnormality - diabetes-related	4855003	0	0	1
+67	a2693189019	200000	Health education - diabetes	385805005	0	0	1
+68	a406351000000114	200000	Referral for diabetic retinopathy screening	2.48E+14	0	0	1
+69	a285751016	200000	Attends diabetes monitoring	185753003	0	0	1
+70	a1484888013	200000	O/E - diabetic maculopathy absent both eyes	390855002	0	0	1
+71	a283620017	200000	Referral to diabetologist	183530004	0	0	1
+72	a458512016	200000	Diabetic on insulin and oral treatment	314194001	0	0	1
+73	a1734721000000114	200000	Assessment of diabetic erectile dysfunction	473208009	0	0	1
+74	a1484923019	200000	Refer to diabetic foot screener	390890005	0	0	1
+75	a2474671011	200000	Diabetic retinopathy screening refused	413122001	0	0	1
+76	a546961000000111	200000	Referral to DESMOND diabetes structured education programme	3.07E+14	0	0	1
+77	a616701000006118	200000	Diabetes monitoring telephone invite	185760009	0	0	1
+78	a2156571000000116	200000	Provision of diabetes clinical summary	8.30E+14	0	0	1
+79	a84471000006119	200000	Type 2 diabetes mellitus	44054006	0	1	0
+80	a1488405010	200000	Diabetic foot risk assessment	394683006	0	0	1
+81	a2474309019	200000	Diabetic foot examination declined	412752009	0	0	1
+82	a453910015	100000	Haemoglobin A1C - diabetic control finding	365845005	0	0	1
+83	a1666931000000117	100000	O/E - Right diabetic foot at increased risk	7.56E+14	0	0	1
+84	a2159271018	100000	Seen in diabetic foot clinic	407672007	0	0	1
+85	a257619018	100000	Hb. A1C < 7% - good control	165679005	0	0	1
+86	a479571000000110	100000	Diabetes type 2 review	2.79E+14	0	1	0
+87	a452078013	100000	Subcutaneous injection of insulin	308755006	0	0	1
+88	a456646018	100000	Referral to diabetes nurse	312856000	0	0	1
+89	a264677018	100000	Initial diabetic assessment	170743005	0	0	1
+90	a1666911000000113	100000	O/E - Left diabetic foot at increased risk	7.56E+14	0	0	1
+91	a264728016	100000	Annual diabetic blood test	170778005	0	0	1
+92	a621911000000114	100000	Invitation for diabetes screening	704408003	0	0	1
+93	a73466011	100000	Non-insulin dependent diabetes mellitus	44054006	0	1	0
+94	a616891000006119	100000	Diabetic - moderate control	6.17E+14	0	0	1
+95	a345486016	100000	Diabetic neuropathy	230572002	0	0	1
+96	a250447011	100000	Diabetic diet	160670007	0	0	1
+97	a616711000006115	100000	Diabetes monitoring verbal invite	185759004	0	0	1
+98	a737031000000119	100000	Diabetic retinopathy screening declined	8.40E+14	0	0	1
+99	a772171000006114	100000	Insulin dependent diabetes mellitus	73211009	0	0	1
+100	a2474334019	100000	Diabetes clinical management plan	736284000	0	0	1
+101	a257623014	90000	Hb. A1C - diabetic control	269823000	0	0	1
+102	a1784621000006118	90000	Referral to diabetes education and self management for ongoing and newly diagnosed structured programme declined	7.81E+14	0	0	1
+103	a2159948010	90000	Diabetic retinopathy 12 month review	408384004	0	0	1
+104	a63021000000116	90000	Good compliance with diabetic diet	2.54E+13	0	0	1
+105	a2116661000000116	90000	Referral to community diabetes service	8.11E+14	0	0	1
+106	a16171000000110	90000	Diabetes monitoring admin.NOS	7.14E+14	0	0	1
+107	a1484867016	90000	Non proliferative diabetic retinopathy	390834004	0	0	1
+108	a1734281000000117	80000	Diabetic erectile dysfunction review	473209001	0	0	1
+109	a456686014	80000	Attending diabetes clinic	312888008	0	0	1
+110	a547061000000110	80000	Referral to XPERT diabetes structured education programme	3.07E+14	0	0	1
+111	a2159961010	80000	Diabetic foot examination not indicated	408397002	0	0	1
+112	a216195015	80000	Diabetes care by hospital only	243860001	0	0	1
+113	a2549196011	80000	Patient offered diabetes structured education programme	1.10E+15	0	0	1
+114	a1682801000006113	80000	Diabetic sick day rules advice	1.68E+15	0	0	1
+115	a2548205017	80000	Diabetic retinopathy screening offered	1.10E+15	0	0	1
+116	a459694018	80000	Diabetic lipid lowering diet	315207000	0	0	1
+117	a1799301000000112	80000	Insulin passport given	8.05E+14	0	0	1
+118	a777231000006119	80000	Diabetic monitoring - injection sites	268517006	0	0	1
+119	a98476015	80000	Proliferative diabetic retinopathy	59276001	0	0	1
+120	a772161000006119	80000	Insulin dependent diabetes mellitus	73211009	0	0	1
+121	a2159980012	70000	Maculopathy of left eye with diabetes mellitus	769245002	0	0	1
+122	a2159979014	70000	Maculopathy of right eye with diabetes mellitus	769244003	0	0	1
+123	a1658861000000113	70000	Type I diabetic dietary review	7.54E+14	1	0	0
+124	a2159969012	70000	Patient held diabetic record issued	408405001	0	0	1
+125	a616511000006110	70000	"Diabetes mellitus, adult onset, no mention of complication"	313436004	0	1	0
+126	a494564012	70000	Type I diabetes mellitus	46635009	1	0	0
+127	a2227861000000112	60000	Diabetic foot screening invitation first letter	8.62E+14	0	0	1
+128	a264706016	60000	Conversion to insulin	170762008	0	1	0
+129	a2368911000000117	60000	Diabetic foot care education	9.23E+14	0	0	1
+130	a459695017	60000	Diabetic weight reducing diet	315208005	0	0	1
+131	a77727018	60000	Insulin dependent diabetes mellitus	73211009	0	0	1
+132	a405561000000113	60000	Diabetic digital retinopathy screening offered	2.48E+14	0	0	1
+133	a928561000006118	50000	Persistent microalbuminuria associated with type 2 diabetes mellitus	420715001	0	1	0
+134	a2115761000000117	50000	Diabetes self-management plan review	8.11E+14	0	0	1
+135	a297754014	50000	Preproliferative diabetic retinopathy	193349004	0	0	1
+136	a2622193012	50000	Diabetes mellitus with ketoacidosis	420422005	1	0	0
+137	a532331000000119	50000	Diabetes structured education programme completed	7.55E+14	0	0	1
+138	a1732691000000113	50000	Insulin dose	7.76E+14	0	0	1
+139	a264705017	50000	Diabetic treatment changed	170761001	0	0	1
+140	a2549901010	50000	Diabetic patient unsuitable for digital retinal photography	417681008	0	0	1
+141	a257621011	50000	Hb. A1C > 10% - bad control	165681007	0	0	1
+142	a84841000006113	50000	Type II diabetes mellitus	44054006	0	1	0
+143	a479981000000119	50000	Referral to community diabetes specialist nurse	2.80E+14	0	0	1
+144	a2533107019	50000	Patient diabetes education review	385805005	0	0	1
+145	a2533102013	50000	Attended diabetes structured education programme	413597006	0	0	1
+146	a308811000000110	50000	Referral to diabetic eye clinic	2.02E+14	0	0	1
+147	a2182651000000118	50000	Referral to community diabetes clinic	8.41E+14	0	0	1
+148	a840951000006119	40000	Insulin treated Type 2 diabetes mellitus	237599002	0	1	0
+149	a616391000006114	40000	Nervous system disorder due to diabetes mellitus	422088007	0	0	1
+150	a2549222013	40000	Seen in community diabetic specialist nurse clinic	416696002	0	0	1
+151	a2549069011	40000	Seen in community diabetes specialist clinic	416554009	0	0	1
+152	a283709014	40000	Referral to diabetic liaison nurse	308458007	0	0	1
+153	a8439941000006112	40000	Diabetes monitoring SMS (short message service) text message first invitation	1.07E+15	0	0	1
+154	a2586611000000113	40000	Seen by diabetes specialist nurse	720685006	0	0	1
+155	a2227781000000112	40000	Diabetic foot screening invitation	8.61E+14	0	0	1
+156	a817491000006111	40000	Haemoglobin A1c between 7%-10% indicating borderline diabetic control	165680008	0	0	1
+157	a139001000000110	40000	Exception reporting - diabetes quality indicators	7.17E+14	0	0	1
+158	a493773010	40000	NIDDM - Non-insulin dependent diabetes mellitus	44054006	0	1	0
+160	a1164191000000111	40000	Education about self management of diabetes	698610002	0	0	1
+161	a2159976019	40000	O/E - left eye preproliferative diabetic retinopathy	408412005	0	0	1
+162	a2159975015	40000	O/E - right eye preproliferative diabetic retinopathy	408411003	0	0	1
+163	a405057014	30000	Diabetes monitored	270445003	0	0	1
+165	a1488396017	30000	O/E - Left diabetic foot - ulcerated	394674001	0	0	1
+166	a2139121000000115	30000	Insulin passport checked	8.22E+14	0	0	1
+167	a1918361000006116	30000	Diabetes care planning test results sent to patient	1.92E+15	0	0	1
+168	a309179013	30000	Neuropathic diabetic ulcer - foot	201251005	0	0	1
+169	a63041000000111	30000	Poor compliance with diabetic diet	2.54E+13	0	0	1
+170	a2159960011	30000	Diabetic retinopathy screening not indicated	408396006	0	0	1
+171	a881451000006113	30000	Diabetes mellitus -adult onset	5.32E+14	0	1	0
+172	a205225016	30000	Diabetic nephropathy	127013003	0	0	1
+173	a928541000006117	30000	Persistent proteinuria associated with type 2 diabetes mellitus	421986006	0	1	0
+174	a817471000006110	30000	Haemoglobin A1c less than 7% indicating good diabetic control	165679005	0	0	1
+175	a1488395018	30000	O/E - Right diabetic foot - ulcerated	394673007	0	0	1
+176	a2249831000000111	30000	In-house diabetic foot screening	8.71E+14	0	0	1
+177	a1856641000006113	30000	Diabetes monitoring in primary care	1.86E+15	0	0	1
+178	a472901000000116	30000	Insulin dose changed	703972004	0	0	1
+179	a13949671000006113	30000	No diabetic maculopathy of bilateral eyes	860711003	0	0	1
+180	a285753018	30000	Diabetes monitoring default	185755005	0	0	1
+181	a2279291000000114	30000	Advice about diabetes and driving	700414001	0	0	1
+182	a451410016	30000	O/E - Right diabetic foot at risk	308105005	0	0	1
+183	a451411017	30000	O/E - Left diabetic foot at risk	308106006	0	0	1
+184	a84281000006115	30000	Type 1 diabetes mellitus	46635009	1	0	0
+185	a25261000000111	20000	Diabetes clinic administration	7.14E+14	0	0	1
+186	a2287971000000119	20000	Diabetes mellitus in remission	703136005	0	0	1
+187	a84651000006114	20000	Type I diabetes mellitus	46635009	1	0	0
+188	a1484887015	20000	O/E - diabetic maculopathy present both eyes	390854003	0	0	1
+189	a448261010	20000	Seen by diabetic liaison nurse	305738006	0	0	1
+190	a2369111000000112	20000	Lifestyle education for diabetes	9.23E+14	0	0	1
+191	a2283241000000113	20000	Diabetes structured education programme not available	8.86E+14	0	0	1
+192	a2159956013	20000	Under care of diabetes specialist nurse	408392008	0	0	1
+193	a264719017	20000	Diabetic - follow-up default	170771004	0	0	1
+194	a264716012	20000	Diabetic - poor control NOS	268519009	0	0	1
+195	a408811014	20000	DTSQs (Diabetes Treatment Satisfaction Questionnaire status version) score	765147009	0	0	1
+196	a2159978018	20000	O/E - left eye proliferative diabetic retinopathy	408414006	0	0	1
+197	a2159977011	20000	O/E - right eye proliferative diabetic retinopathy	408413000	0	0	1
+198	a12626341000006114	20000	QOF (Quality and Outcomes Framework) diabetes mellitus quality indicator-related care invitation	1.11E+15	0	0	1
+199	a2474726011	20000	Pan retinal photocoagulation for diabetes	413180006	0	0	1
+200	a309180011	20000	Mixed diabetic ulcer - foot	201252003	0	0	1
+201	a1868141000006110	20000	Referral to DAFNE diabetes structured education programme declined	8.61E+14	0	0	1
+202	a1773381000006119	20000	Seen in in-house nurse-led diabetic clinic	1.77E+15	0	0	1
+203	a646031000000112	20000	Insulin treatment initiated	3.45E+14	0	0	1
+204	a621511000000117	20000	Diabetes screening administration	7.15E+14	0	0	1
+205	a616421000006118	20000	Eye disorder due to diabetes mellitus	25093002	0	0	1
+206	a223291000000111	20000	Maturity onset diabetes	44054006	0	0	1
+207	a345487013	20000	Diabetes mellitus with neuropathy	230572002	0	0	1
+208	a297758012	20000	Diabetic retinopathy NOS	4855003	0	0	1
+209	a1876341000006117	20000	Diabetic 3 month review	1.88E+15	0	0	1
+210	a1799541000000117	20000	Insulin passport completed	8.05E+14	0	0	1
+212	a547191000000117	20000	Did not attend diabetes structured education programme	3.07E+14	0	0	1
+213	a787111000006112	20000	IDDM-Insulin dependent diabetes mellitus	73211009	0	0	1
+214	a987441000006113	20000	Six month diabetic review	9.87E+14	0	0	1
+215	a1767201000006118	20000	Diabetic pre-pregnancy education	394684000	0	0	1
+216	a2227981000000110	10000	Diabetic foot screening invitation second letter	8.62E+14	0	0	1
+217	a857971000006110	10000	Right non-proliferative diabetic retinopathy	8.58E+14	0	0	1
+218	a857761000006118	10000	Right diabetic foot low current risk	8.58E+14	0	0	1
+219	a817481000006113	10000	Haemoglobin A1c greater than 10% indicating poor diabetic control	165681007	0	0	1
+220	a616461000006112	10000	Diabetes mellitus with renal manifestation	127013003	0	0	1
+221	a616621000006115	10000	Type 1 diabetes mellitus without complication	313435000	1	0	0
+223	a546871000000112	10000	Referral to DAFNE diabetes structured education programme	3.07E+14	0	0	1
+224	a643691000000114	10000	Insulin initiation enhanced services administration	3.45E+14	0	0	1
+225	a1799241000000115	10000	Insulin alert patient information booklet given	8.05E+14	0	0	1
+226	a1839671000006113	10000	Diabetic short review	1.84E+15	0	0	1
+227	a1842001000006118	10000	Diabetic annual review by practice nurse	1.84E+15	0	0	1
+228	a1850931000006111	10000	Reason for influenza vaccine - diabetes mellitus	1.85E+15	0	0	1
+229	a309177010	10000	Ischaemic ulcer diabetic foot	201250006	0	0	1
+230	a1804191000006114	10000	Diabetic retinopathy screen done by optician	1.80E+15	0	0	1
+231	a1947151000006112	10000	Joint consultation with practice nurse and community diabetes specialist nurse	9.57E+14	0	0	1
+232	a1824571000006112	10000	Referral to walking away from diabetes programme	1.82E+15	0	0	1
+233	a264717015	10000	Diabetic - cooperative patient	170769004	0	0	1
+234	a2460251000000115	10000	Diabetic on non-insulin injectable medication	719566006	0	1	0
+235	a264720011	10000	Date diabetic treatment start	170772006	0	0	1
+236	a2288061000000111	10000	Type II diabetes mellitus in remission	703138006	0	1	0
+237	a264704018	10000	Diabetic drug side effects	170760000	0	0	1
+238	a857031000006113	10000	Left non-proliferative diabetic retinopathy	8.57E+14	0	0	1
+239	a1916521000006118	10000	Access to online patient diabetes education given	1.92E+15	0	0	1
+240	a856551000006114	10000	Diabetic - hospital eye check	8.57E+14	0	0	1
+241	a2159955012	10000	Under care of diabetologist	408391001	0	0	1
+242	a461270012	10000	[V]Screening for diabetes mellitus	171183004	0	0	1
+243	a910501000006113	10000	[RFC] Diabetic foot ulcer	9.11E+14	0	0	1
+244	a2549778010	10000	Seen in diabetic nurse consultant clinic	417566006	0	0	1
+245	a928501000006119	10000	Ketoacidosis in type 1 diabetes mellitus	420270002	1	0	0
+246	a8439961000006111	10000	Diabetes monitoring SMS (short message service) text message second invitation	1.07E+15	0	0	1
+247	a1220321013	10000	Diabetes mellitus arising in pregnancy	11687002	0	0	1
+248	a1479985016	10000	Insulin administration education	385793003	0	0	1
+249	a1704651000006111	10000	Diabetic retinopathy screening administrative status	3.73E+14	0	0	1
+250	a1694761000006113	10000	Newly diagnosed diabetes	405749004	0	0	1
+251	a1682711000006119	10000	Declined referral to DESMOND diabet. structured educat programme	1.68E+15	0	0	1
+252	a1628621000006112	10000	Did not attend DESMOND diabetes structured education programme	3.07E+14	0	0	1
+253	a546221000000114	10000	DESMOND diabetes structured education programme completed	3.07E+14	0	0	1
+254	a1484875010	10000	Seen by diabetologist	390842003	0	0	1
+255	a13949611000006116	10000	No maculopathy of left eye due to diabetes mellitus	860709007	0	0	1
+256	a13949641000006117	10000	No maculopathy of right eye due to diabetes mellitus	860710002	0	0	1
+257	a297551015	10000	Chronic painful diabetic neuropathy	193184006	0	0	1
+258	a1621011000006115	10000	No evidence of diabetic peripheral neuropathy	1.62E+15	0	0	1
+259	a12121371000006111	10000	Diabetes structured education programme offered	1.10E+15	0	0	1
+260	a292590011	10000	Type II diabetes mellitus poorly controlled	443694000	0	1	0
+261	a292466013	10000	Diabetes mellitus without complication	111552007	0	0	1
+262	a299991000000112	10000	Referral to multidisciplinary diabetic clinic	1.99E+14	0	0	1
+263	a127041000006110	10000	Steroid-induced diabetes	190447002	0	1	0
+264	a5999771000006115	10000	Diabetes monitoring invitation	310425007	0	0	1
+265	a457329019	9000	Type 2 diabetes mellitus without complication	313436004	0	1	0
+266	a2205911000000116	9000	Diabetes clinical pathway	8.52E+14	0	0	1
+267	a1628691000006114	9000	Seen by general practitioner with special interest in diabetes	3.01E+14	0	0	1
+268	a856691000006116	9000	Left diabetic foot low current risk	8.57E+14	0	0	1
+269	a479511000000117	9000	Diabetes type 1 review	2.79E+14	1	0	0
+270	a297552010	9000	Asymptomatic diabetic neuropathy	193185007	0	0	1
+271	a616971000006114	9000	Diabetic Charcot's arthropathy	201724008	0	0	1
+273	a12623631000006115	8000	Referral to online diabetes structured education programme	1.11E+15	0	0	1
+274	a259365016	8000	Glucose tolerance test indicates diabetes mellitus	166928007	0	0	1
+275	a14920031000006112	8000	NHS diabetic eye screening programme	1.60E+15	0	0	1
+276	a8098931000006110	8000	Referral to diabetes education and self management for ongoing and newly diagnosed diabetes structured programme	3.07E+14	0	0	1
+277	a1759911000000118	8000	Diabetes care plan declined	7.87E+14	0	0	1
+278	a251187019	8000	Diabetic association member	161102006	0	0	1
+279	a6953861000006110	8000	Diabetic ketoacidosis	420422005	1	0	0
+280	a12121381000006114	8000	Diabetic retinopathy screening offered	1.10E+15	0	0	1
+281	a1690631000000113	8000	Did not attend diabetes foot screening	7.63E+14	0	0	1
+282	a1665721000000112	8000	Type 2 diabetic dietary review	7.54E+14	0	1	0
+283	a307661000000114	8000	Referral to diabetic register	2.02E+14	0	0	1
+284	a281171000006119	8000	Type II diabetes mellitus uncontrolled	443694000	0	1	0
+285	a1775381000006118	8000	Referred to Diabetes Service	1.78E+15	0	0	1
+286	a73294018	8000	Diabetic cataract	43959009	0	0	1
+287	a764191000006112	8000	Foot abnormality - diabetes related	280137006	0	0	1
+288	a14667031000006117	8000	Diabetic retinopathy screening declined	413122001	0	0	1
+289	a300021000000110	8000	Seen in multidisciplinary diabetic clinic	1.99E+14	0	0	1
+290	a214921000006116	8000	Polyneuropathy in diabetes	49455004	0	0	1
+291	a2288071000000116	8000	Type 2 diabetes mellitus in remission	703138006	0	1	0
+292	a1967341000006115	7000	Not suitable for DESMOND (Diabetes Education and Self Management for Ongoing and Newly Diagnosed) programme	720504004	0	0	1
+293	a546291000000112	7000	XPERT diabetes structured education programme completed	3.07E+14	0	0	1
+294	a1966311000006116	7000	Diabetic on oral treatment and glucagon-like peptide 1 receptor agonist	9.76E+14	0	0	1
+295	a298811000000118	7000	Insulin therapy declined	1.98E+14	0	0	1
+296	a1682761000006116	7000	Advice given about insulin storage	1.97E+14	0	0	1
+297	a616821000006116	7000	Diabetes wellbeing questionnaire	273413007	0	0	1
+298	a1754911000006114	7000	Excepted from diabetes quality indicators: service unavailable	7.51E+14	0	0	1
+299	a620171000000113	7000	Referral to diabetes special interest general practitioner	3.35E+14	0	0	1
+300	a189831000000116	6000	Informed consent for diabetes national audit	1.13E+14	0	0	1
+301	a6022921000006114	6000	Diabetic macular oedema	312912001	0	0	1
+302	a1230890017	6000	Autonomic neuropathy due to diabetes	50620007	0	0	1
+303	a1856651000006110	6000	Diabetes monitoring in secondary care	1.86E+15	0	0	1
+304	a2160025013	6000	Diabetic medicine	408475000	0	0	1
+305	a905621000006113	6000	[RFC] Diabetes	9.06E+14	0	0	1
+306	a1824581000006110	6000	Referral to walking away from diabetes programme declined	1.82E+15	0	0	1
+307	a285752011	6000	Refuses diabetes monitoring	185754009	0	0	1
+308	a1227774019	6000	[V]Dietary counselling in diabetes mellitus	284350006	0	0	1
+309	a2230301000000116	6000	Diabetic foot screening invitation third letter	8.62E+14	0	0	1
+310	a297550019	6000	Acute painful diabetic neuropathy	193183000	0	0	1
+311	a2674067015	6000	Latent autoimmune diabetes mellitus in adult	426875007	0	0	1
+312	a297755010	5000	Advanced diabetic maculopathy	193350004	0	0	1
+313	a737331000000117	5000	Excluded from diabetic retinopathy screening	3.75E+14	0	0	1
+314	a3603911000006118	5000	Insulin	67866001	0	0	1
+315	a548131000000119	5000	Did not attend XPERT diabetes structured education programme	3.07E+14	0	0	1
+316	a546001000000113	5000	Attended XPERT diabetes structured education programme	3.06E+14	0	0	1
+317	a1966441000006113	5000	Recommendation to self-refer for diabetes structured education	9.77E+14	0	0	1
+318	a616241000006112	5000	Diabetes mellitus induced by steroids	190447002	0	1	0
+319	a1947161000006114	5000	Joint consultation with General Practitioner and community diabetes specialist nurse	9.57E+14	0	0	1
+320	a8060931000006110	5000	No diabetic retinopathy	2.01E+14	0	0	1
+321	a881501000006110	5000	Diabetes + neuropathy	230572002	0	0	1
+322	a1776581000006117	5000	Reason for referral: Diabetes	1.78E+15	0	0	1
+323	a1884591000006118	5000	Further diabetic monitoring	170742000	0	0	1
+324	a457328010	5000	Non-insulin-dependent diabetes mellitus without complication	313436004	0	1	0
+325	a881441000006111	5000	Diabetes mellitus - juvenile	73211009	1	0	0
+326	a299211000000114	5000	Insulin needles changed for each injection	1.98E+14	0	0	1
+327	a914151000006112	5000	Retinopathy with type 2 diabetes mellitus	422034002	0	1	0
+328	a914261000006119	5000	Diabetes type 2 with nephropathy	420279001	0	1	0
+329	a299601000000114	5000	Gastroparesis with type 1 diabetes mellitus	713702000	1	0	0
+330	a975251000006111	4000	O/E - right eye stable treated proliferative diabetic retinopathy	414910007	0	0	1
+331	a2548633012	4000	Provision of patient held diabetes record refused	763782001	0	0	1
+332	a292475010	4000	Diabetes mellitus NOS with no mention of complication	111552007	0	0	1
+333	a1488406011	4000	Diabetic pre-pregnancy counselling	394684000	0	0	1
+334	a283544013	4000	Diabetic emergency hospital admission	183472000	0	0	1
+335	a1573121000006119	4000	Insulin started by GP	1.57E+15	0	0	1
+336	a1177721000000112	4000	Diabetic on subcutaneous treatment	5.28E+14	0	0	1
+337	a2532967014	4000	Clinically significant macular oedema of right eye due to diabetes mellitus	769221001	0	0	1
+338	a2337941000000112	4000	Diabetes Distress Scale 2 item score	9.09E+14	0	0	1
+339	a1799591000000110	4000	Informed dissent not to carry insulin passport	8.05E+14	0	0	1
+340	a616441000006113	4000	Peripheral vascular disorder due to diabetes mellitus	421895002	0	0	1
+341	a616191000006112	4000	"Diabetes mellitus during pregnancy, childbirth and the puerperium"	199223000	0	0	1
+342	a730411000000115	4000	Eligible for diabetic retinopathy screening	3.72E+14	0	0	1
+343	a856611000006114	4000	Laser treated diabetic retinopathy	8.57E+14	0	0	1
+344	a178798017	4000	Diabetic ketoacidosis without coma	111556005	1	0	0
+345	a453050019	4000	Education score - diabetes	309593006	0	0	1
+346	a308071000000112	4000	Patient consent given for addition to diabetic register	2.02E+14	0	0	1
+347	a1763421000006116	3000	Insulin dose	1.76E+15	0	0	1
+348	a617041000006117	3000	Diabetic Foot Risk Assessment	6.17E+14	0	0	1
+349	a1783381000006112	3000	Insulin alert patient information booklet information discussed	8.05E+14	0	0	1
+350	a914031000006118	3000	Renal disorder associated with type II diabetes mellitus	420279001	0	1	0
+351	a918281000006116	3000	Pt advised re diabetic diet	9.18E+14	0	0	1
+352	a308360012	3000	Cellulitis in diabetic foot	200687002	0	0	1
+353	a1780311019	3000	Type 1 diabetes mellitus with persistent microalbuminuria	401110002	1	0	0
+354	a928461000006119	3000	Persistent proteinuria associated with type 1 diabetes mellitus	420514000	1	0	0
+355	a483886014	3000	Maturity onset diabetes in youth	609561005	0	0	1
+356	a358035014	3000	Insulin lipohypertrophy	238894004	0	0	1
+357	a975261000006113	3000	O/E - left eye stable treated proliferative diabetic retinopathy	414894003	0	0	1
+358	a299621000000117	3000	Gastroparesis with type 2 diabetes mellitus	713703005	0	1	0
+359	a1230929011	3000	Secondary pancreatic diabetes mellitus	51002006	0	0	1
+360	a2586731000000110	3000	Under care of community-based diabetes specialist nurse	1.02E+15	0	0	1
+361	a1966321000006112	3000	Diabetic on insulin and glucagon-like peptide 1 receptor agonist	9.76E+14	0	0	1
+362	a302011	3000	Diabetic peripheral angiopathy	127014009	0	0	1
+364	a282570016	3000	Diabetic stabilisation	182781000	0	0	1
+365	a2168881000000114	3000	Subcutaneous infusion with insulin pump	180178009	0	0	1
+366	a411891014	3000	Unstable diabetes	11530004	0	0	1
+367	a1139861000000119	3000	Declined consent for diabetes year of care programme	5.13E+14	0	0	1
+368	a764201000006110	3000	Foot abnormality - diabetes related	280137006	0	0	1
+369	a2159949019	3000	Diabetic retinopathy 6 month review	408385003	0	0	1
+370	a2359401000000111	3000	Conversion to non-insulin injectable medication	9.19E+14	0	1	0
+371	a2159854012	3000	Diabetes key contact	9.32E+14	0	0	1
+372	a4636471000006118	2000	Has seen dietitian - diabetes	170752001	0	0	1
+373	a264718013	2000	Diabetic-uncooperative patient	170770003	0	0	1
+374	a910491000006117	2000	[RFC] Diabetic leg ulcer	9.10E+14	0	0	1
+375	a8098961000006118	2000	Referral to expert patient education versus routine treatment diabetes structured education programme	3.07E+14	0	0	1
+376	a913451000006117	2000	Type 1 diabetes mellitus with renal complications	421893009	1	0	0
+377	a913661000006118	2000	Retinopathy with type 1 diabetes mellitus	420789003	1	0	0
+378	a928581000006111	2000	Ketoacidosis in type 2 diabetes mellitus	421750000	0	1	0
+379	a928571000006113	2000	Type II diabetes mellitus with persistent microalbuminuria	420715001	0	1	0
+380	a82373015	2000	Diabetic polyneuropathy	49455004	0	0	1
+381	a6515171000006112	2000	Nonproliferative diabetic retinopathy	390834004	0	0	1
+382	a2243331000000115	2000	Erectile dysfunction due to diabetes mellitus	8.68E+14	0	0	1
+383	a1841461000006118	2000	Diabetic foot screening invitation letter	1.84E+15	0	0	1
+384	a6444071000006112	2000	Diabetic care education	385805005	0	0	1
+385	a2548430017	2000	Discharged from care of diabetes specialist nurse	417467000	0	0	1
+386	a292577016	2000	Type 2 diabetes mellitus with multiple complications	190388001	0	1	0
+387	a292617015	2000	Diabetes mellitus with other specified manifestation	74627003	0	0	1
+388	a292512019	2000	Diabetes mellitus NOS with neurological manifestation	422088007	0	0	1
+389	a1627291000006113	2000	Did not complete DESMOND diabetes structured education programme	3.07E+14	0	0	1
+390	a1223147012	2000	Insulin treated Type II diabetes mellitus	237599002	0	1	0
+391	a8439971000006116	2000	Diabetes monitoring SMS (short message service) text message third invitation	1.07E+15	0	0	1
+392	a906711000006116	2000	[RFC] Diabetic foot/leg ulcer	9.07E+14	0	0	1
+393	a856631000006115	2000	Left laser treated diabetic retinopathy	8.57E+14	0	0	1
+394	a293759015	2000	Diabetic renal disease	127013003	0	0	1
+395	a19931010	2000	Brittle diabetes	11530004	0	0	1
+396	a546071000000117	2000	Attended DAFNE diabetes structured education programme	3.06E+14	0	0	1
+397	a546151000000110	2000	DAFNE diabetes structured education programme completed	3.06E+14	0	0	1
+398	a2415191000000113	2000	Diabetic peripheral neuropathic pain	9.44E+14	0	0	1
+399	a1704731000006113	2000	Excluded from diabetic retinopathy screening as under care of ophthalmologist	3.75E+14	0	0	1
+400	a358036010	2000	Insulin site lipohypertrophy	238894004	0	0	1
+401	a1488749011	2000	Diabetic monitoring not required	395049009	0	0	1
+402	a1752811000000118	2000	No evidence of diabetic nephropathy	7.84E+14	0	0	1
+403	a14083811000006118	2000	Persistent microalbuminuria due to type 2 diabetes mellitus	420715001	0	1	0
+404	a283938017	2000	Diabetology D.V. done	183751004	0	0	1
+405	a857741000006117	2000	Right diabetic foot moderate risk	8.58E+14	0	0	1
+406	a15518018	2000	Secondary diabetes mellitus	8801005	0	0	1
+407	a13488551000006115	2000	Nonproliferative retinopathy of right eye due to diabetes mellitus	816178004	0	0	1
+408	a616921000006113	2000	Diabetic amyotrophy	39058009	0	0	1
+409	a856681000006119	2000	Left diabetic foot moderate risk	8.57E+14	0	0	1
+410	a857421000006119	2000	Right laser treated diabetic retinopathy	8.57E+14	0	0	1
+411	a297510017	2000	Diabetic mononeuritis NOS	193141005	0	0	1
+412	a856771000006110	2000	Patient has been told has diabetes	8.57E+14	0	0	1
+413	a2465001000000115	2000	Diabetic injection administration education	9.68E+14	0	0	1
+414	a13488541000006117	2000	Nonproliferative retinopathy of left eye due to diabetes mellitus	816177009	0	0	1
+415	a547331000000115	1000	Did not complete diabetes structured education programme	3.07E+14	0	0	1
+416	a938321000006116	1000	Exudative maculopathy associated with type 2 diabetes mellitus	421779007	0	1	0
+417	a1583841000006111	1000	Ineligibility for diabetic eye screening	1.58E+15	0	0	1
+418	a5192411000006114	1000	Diabetic monitoring status	243860001	0	0	1
+419	a730471000000113	1000	Ineligible for diabetic retinopathy screening	3.72E+14	0	0	1
+420	a1824931000006119	1000	Home visit for diabetes monitoring	1.82E+15	0	0	1
+421	a1704801000006113	1000	Excluded from diabetic retinopathy screening as physical disorder	3.75E+14	0	0	1
+422	a317347010	1000	[D]Gangrene of toe in diabetic	195302000	0	0	1
+423	a881481000006117	1000	Diabetes + nephropathy	127013003	0	0	1
+424	a881491000006119	1000	Diabetes + eye manifestation	25093002	0	0	1
+425	a914071000006115	1000	Neurologic disorder associated with type 2 diabetes mellitus	421326000	0	1	0
+426	a856531000006119	1000	Diabetic - GP eye check	8.57E+14	0	0	1
+427	a914051000006113	1000	Disorder of eye with type 2 diabetes mellitus	422099009	0	1	0
+428	a913841000006116	1000	Renal disorder associated with type 1 diabetes mellitus	421893009	1	0	0
+429	a309737011	1000	Diabetic cheiroarthropathy	201723002	0	0	1
+430	a841351000006110	1000	Insulin treated Type II diabetes mellitus	237599002	0	1	0
+431	a284124018	1000	Private referral to diabetologist	183910005	0	0	1
+432	a1780981000006115	1000	Diabetic on non-insulin injectable	1.78E+15	0	1	0
+433	a278718015	1000	Continuous subcutaneous infusion of insulin	180178009	0	0	1
+434	a616571000006118	1000	"Diabetes mellitus, adult, + other specified manifestation"	73211009	0	0	1
+435	a616481000006119	1000	"Diabetes mellitus, adult onset, + neurological manifestation"	421326000	0	1	0
+436	a494831000000119	1000	Diabetes mellitus associated with cystic fibrosis	426705001	0	0	1
+437	a616641000006110	1000	"Diabetes mellitus, juvenile type, with ketoacidosis"	420270002	1	0	0
+438	a2176771000000110	1000	Referral to community diabetes specialist nurse declined	8.39E+14	0	0	1
+439	a345492010	1000	Diabetic mononeuropathy	230577008	0	0	1
+440	a1996751000006117	1000	Insulin injection technique checked	2.00E+15	0	0	1
+441	a2533106011	1000	Referral to diabetes preconception counselling clinic	415269004	0	0	1
+442	a354509014	1000	Proteinuric diabetic nephropathy	236500003	0	0	1
+443	a1223148019	1000	Insulin treated non-insulin dependent diabetes mellitus	237599002	0	1	0
+444	a2378231000000112	1000	Discharge from secondary care diabetes service	9.28E+14	0	0	1
+445	a7107831000006117	1000	Diabetic education completed	429729007	0	0	1
+446	a6615341000006112	1000	Diabetic monitoring - injection sites normal	398985007	0	0	1
+447	a1488898011	1000	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	395204000	0	1	0
+448	a8286801000006115	1000	Education about diabetic neuropathy	8.47E+14	0	0	1
+449	a84481000006116	1000	Type 2 diabetes mellitus - poor control	443694000	0	1	0
+450	a7567371000006117	1000	Diabetic retinopathy clinic	702850009	0	0	1
+451	a2014951000006115	1000	New diabetic foot ulcer	2.01E+15	0	0	1
+452	a4938911000006118	1000	Insulin regime	225302006	0	0	1
+453	a292579018	1000	Type 2 diabetes mellitus with ulcer	190389009	0	1	0
+454	a292479016	1000	Diabetes mellitus NOS with ketoacidosis	420422005	1	0	0
+455	a2586691000000116	1000	Under care of hospital-based diabetes specialist nurse	1.02E+15	0	0	1
+456	a292553010	1000	Type 1 diabetes mellitus maturity onset	190372001	1	0	0
+457	a292548017	1000	Type 1 diabetes mellitus - poor control	444073006	1	0	0
+458	a292496015	1000	Diabetes mellitus with nephropathy NOS	127013003	0	0	1
+459	a14079681000006115	900	Nonproliferative retinopathy due to diabetes mellitus	390834004	0	0	1
+460	a913541000006118	900	Type 1 diabetes mellitus with multiple complications	422228004	1	0	0
+461	a198461000000116	900	Diabetes mellitus associated with pancreatic disease	51002006	0	0	1
+462	a455408014	900	Advanced diabetic retinal disease	311782002	0	0	1
+463	a8064411000006119	900	Diabetic with adequate control	2.04E+14	0	0	1
+464	a736731000000118	900	Excluded from diabetic retinopathy screening as moved away	3.75E+14	0	0	1
+465	a13916191000006119	900	Insulin dose	789480007	0	0	1
+466	a457330012	900	Type II diabetes mellitus without complication	313436004	0	1	0
+467	a914241000006118	800	Polyneuropathy due to type 2 diabetes mellitus	713706002	0	1	0
+468	a391111000006119	800	Adverse reaction to antidiabetic drug	430400006	0	0	1
+469	a1785163015	800	High risk proliferative diabetic retinopathy	312907002	0	0	1
+470	a1583861000006110	800	Ineligibility for diabetic eye screening: Persistent DNA	1.58E+15	0	0	1
+471	a306112011	800	"Pre-existing diabetes mellitus, insulin-dependent"	3.85E+14	0	0	1
+472	a2500921000000110	800	Diabetic carbohydrate counting diet	9.83E+14	0	0	1
+473	a2532976019	800	O/E - left chronic diabetic foot ulcer	414890007	0	0	1
+474	a189841000000113	800	Informed dissent for diabetes national audit	1.13E+14	0	0	1
+475	a616381000006111	800	Diabetes mellitus with ketoacidotic coma	26298008	0	0	1
+476	a616491000006116	800	"Diabetes mellitus, adult onset, + ophthalmic manifestation"	422099009	0	1	0
+477	a459313016	800	Type 2 diabetes mellitus with neuropathic arthropathy	314904008	0	1	0
+478	a2532977011	700	O/E - right chronic diabetic foot ulcer	414906009	0	0	1
+479	a282568013	700	Diabetic crisis monitoring	182780004	0	0	1
+480	a1935341000006117	700	Patient in diabetes study	1.94E+15	0	0	1
+481	a2262381000000117	700	Conversion to insulin by diabetes specialist nurse	8.76E+14	0	1	0
+482	a297492014	700	Diabetic mononeuritis multiplex	193141005	0	0	1
+483	a356085010	700	Maturity onset diabetes in youth type 2	237604008	0	1	0
+484	a4636411000006110	700	Diet controlled diabetes mellitus	170745003	0	1	0
+485	a3515955014	700	Diabetes self management plan	735985000	0	0	1
+486	a772181000006112	700	Insulin dependent diabetes mellitus - poor control	268519009	0	0	1
+487	a1628311000006111	700	Did not complete XPERT diabetes structured education programme	3.07E+14	0	0	1
+488	a1065811000000118	700	Discharged from diabetes shared care programme	4.95E+14	0	0	1
+489	a2532974016	700	Transition of diabetes care options discussed	415744000	0	0	1
+490	a881511000006113	700	Diabetes + periph.circulat.dis	422275004	0	0	1
+491	a640011000006114	700	Emergency Diabetic Admission since last appointment	6.40E+14	0	0	1
+492	a299191000000110	700	Insulin needles changed daily	1.98E+14	0	0	1
+493	a913711000006112	700	Insulin dependent diabetes maturity onset	73211009	0	0	1
+494	a84661000006111	700	Type I diabetes mellitus poorly controlled	444073006	1	0	0
+495	a65526011	700	Diabetic amyotrophy	39058009	0	0	1
+496	a616531000006116	700	"Diabetes mellitus, adult onset, with ketoacidosis"	421750000	0	0	1
+497	a587521000006111	700	Non-insulin-dependent diabetes mellitus with renal comps	420279001	0	1	0
+498	a303846016	700	Nephrotic syndrome in diabetes mellitus	197605007	0	0	1
+499	a292523015	700	Diabetes mellitus NOS with peripheral circulatory disorder	421895002	0	0	1
+500	a127051000006112	600	Steroid-induced diabetes mellitus without complication	190416008	0	1	0
+501	a84851000006110	600	Type II diabetes mellitus - poor control	443694000	0	1	0
+502	a84291000006117	600	Type 1 diabetes mellitus - poor control	444073006	1	0	0
+503	a881461000006110	600	Diabetes+ketoacidosis -no coma	420422005	1	0	0
+504	a84551000006113	600	Type 2 diabetes mellitus with nephropathy	420279001	0	1	0
+505	a616501000006112	600	Disorder due to type 2 diabetes mellitus	422014003	0	1	0
+506	a616551000006111	600	"Diabetes mellitus, adult onset, with renal manifestation"	420279001	0	1	0
+507	a616581000006115	600	"Diabetes mellitus, adult, + peripheral circulatory disorder"	422166005	0	0	1
+508	a641581000006115	600	Non-insulin-dependent diabetes mellitus with retinopathy	422034002	0	1	0
+509	a2265851000000114	600	Insulin passport not checked	8.78E+14	0	0	1
+510	a1823921000006119	600	Diabetes mellitus confirmed	1.82E+15	0	0	1
+511	a840971000006112	600	Diabetes mellitus autosomal dominant type II	237604008	0	1	0
+512	a1583921000006113	600	Ineligibility for diabetic eye screening: Deceased	1.58E+15	0	0	1
+513	a292622015	600	Diabetes mellitus with unspecified complication	74627003	0	0	1
+514	a292480018	600	Diabetes mellitus with hyperosmolar coma	422126006	0	1	0
+515	a928511000006116	600	Type I diabetes mellitus with ketoacidosis	420270002	1	0	0
+516	a283584016	600	Non-urgent diabetic admission	183506001	0	0	1
+517	a1665751000000119	600	Type 1 diabetic dietary review	7.54E+14	1	0	0
+518	a841011000006112	600	Severe nonproliferative diabetic retinopathy	312905005	0	0	1
+519	a483882011	500	Maturity-onset diabetes of the young	609561005	1	0	0
+520	a746791000006111	500	Insulin-dependent diabetes without complication	111552007	0	0	1
+521	a857721000006112	500	Right diabetic foot high risk	8.58E+14	0	0	1
+522	a454092018	500	Diabetic hyperosmolar non-ketotic state	310505005	0	1	0
+523	a928551000006115	500	Type II diabetes mellitus with persistent proteinuria	421986006	0	1	0
+524	a7086021000006115	500	Dietary advice for type II diabetes	428274007	0	1	0
+525	a7086001000006113	500	Dietary education for type 2 diabetes mellitus	428274007	0	1	0
+526	a6348911000006117	500	Diabetic foot ulcer	371087003	0	0	1
+527	a8098861000006114	500	Referral to dose adjustment for normal eating diabetes structured education programme	3.07E+14	0	0	1
+528	a928521000006112	500	Ketoacidotic coma in type 1 diabetes mellitus	421075007	1	0	0
+529	a4808921000006113	500	Diabetic neuropathic arthropathy	201724008	0	0	1
+530	a84921000006110	500	Renal disorder due to type 2 diabetes mellitus	420279001	0	1	0
+532	a377001000006117	500	[X]Diabetes mellitus	73211009	0	0	1
+533	a14500421000006119	500	Haemoglobin A1c between 7 percent to 10 percent indicating borderline diabetic control	165680008	0	0	1
+534	a616831000006118	500	Diabetes with gangrene	422275004	0	0	1
+535	a587111000006111	500	Non-insulin-dependent diabetes mellitus with ophthalm comps	422099009	0	1	0
+536	a5979491000006119	500	Diabetes monitoring call	308505000	0	0	1
+537	a2476117016	500	Maturity onset diabetes in youth type 1	609562003	1	0	0
+538	a548121000000116	500	Did not attend DAFNE diabetes structured education programme	3.07E+14	0	0	1
+539	a772151000006116	500	Insulin dependent diabetes maturity onset	73211009	0	0	1
+540	a308110013	400	Pre-existing diabetes mellitus	3.85E+14	0	0	1
+541	a674961000006118	400	Peripheral circulatory disorder associated with type 2 diabetes mellitus	422166005	0	1	0
+542	a1704681000006115	400	Eligibility temporarily inactive for diabetic retinopathy screening	3.72E+14	0	0	1
+543	a850691000006118	400	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	395204000	0	1	0
+544	a1667921000000117	400	Type II diabetes mellitus with gastroparesis	713703005	0	1	0
+545	a1673581000006117	400	Ineligibility for diabetic eye screening: Physical disability	1.67E+15	0	0	1
+546	a429971019	400	Unstable type 1 diabetes mellitus	290002008	1	0	0
+547	a457326014	400	Type 1 diabetes mellitus without complication	313435000	1	0	0
+548	a306110015	400	Diabetes mellitus during pregnancy - baby not yet delivered	199227004	0	0	1
+549	a306108017	400	Diabetes mellitus during pregnancy - baby delivered	199225007	0	0	1
+550	a8413691000006118	400	X-PERT (expert patient education versus routine treatment) First Steps diabetes self-management programme completed	1.03E+15	0	0	1
+551	a285759019	400	Diabetes monitoring deleted	185761008	0	0	1
+552	a292478012	400	Other specified diabetes mellitus with ketoacidosis	420422005	1	0	0
+553	a1920661000006119	400	Unsuitable for DESMOND diabetes structured education programme	1.92E+15	0	0	1
+554	a6953901000006115	400	DKA - diabetic ketoacidosis	420422005	1	0	0
+555	a5109611000006116	400	MODY - Maturity onset diabetes in youth type 2	237604008	0	1	0
+556	a887971000006115	400	Preg.+ diabetes mellitus	199223000	0	0	1
+557	a8043301000006116	400	Hyperlipidaemia due to type 2 diabetes mellitus	1.38E+14	0	1	0
+558	a84741000006118	400	Type I diabetes mellitus with nephropathy	421893009	1	0	0
+559	a913481000006113	400	Type 1 diabetes mellitus with ophthalmic complications	739681000	1	0	0
+560	a7483291000006111	400	Symptomatic diabetic peripheral neuropathy absent	473134007	0	0	1
+561	a856671000006117	400	Left diabetic foot high risk	8.57E+14	0	0	1
+562	a280591000006115	400	Non-insulin-dependent diabetes mellitus with neuro comps	421326000	0	1	0
+563	a301161000000113	400	Insulin needles changed less than once a day	1.99E+14	0	0	1
+564	a938301000006114	400	Exudative maculopathy with type 1 diabetes mellitus	420486006	1	0	0
+565	a14084041000006114	400	Persistent proteinuria due to type 2 diabetes mellitus	421986006	0	1	0
+566	a6444051000006119	400	Diabetic care	385804009	0	0	1
+567	a616351000006115	400	Diabetes mellitus with gangrene	422275004	0	0	1
+568	a1539131000006115	400	Referral for diabetic retinopathy screening	1.54E+15	0	0	1
+569	a857441000006114	300	Right advanced diabetic retinal disease	8.57E+14	0	0	1
+570	a283889016	300	Diabetology D.V. requested	183722003	0	0	1
+571	a7381691000006117	300	Insulin pump present	450657002	0	0	1
+572	a8098321000006111	300	Diabetes education and self management for ongoing and newly diagnosed structured programme completed	3.07E+14	0	0	1
+573	a8099311000006114	300	Did not attend diabetes education and self management for ongoing and newly diagnosed structured programme	3.07E+14	0	0	1
+574	a14500411000006110	300	Haemoglobin A1c less than 7 percent indicating good diabetic control	165679005	0	0	1
+575	a82979011	300	Neonatal diabetes mellitus	49817004	0	0	1
+576	a2597931000006119	300	Diabetic education	6143009	0	0	1
+577	a292626017	300	Diabetic complication	74627003	0	0	1
+578	a1744471000006112	300	Needs carer to administer insulin	1.74E+15	0	0	1
+579	a1139821000000110	300	Unsuitable for diabetes year of care programme	5.13E+14	0	0	1
+580	a1744461000006117	300	Self-administration of insulin	1.74E+15	0	0	1
+581	a292583018	300	Type 2 diabetes mellitus with gangrene	421631007	0	1	0
+582	a292503016	300	Diabetes mellitus NOS with ophthalmic manifestation	25093002	0	0	1
+583	a8459531000006110	300	Diabetes monitoring invitation email	1.08E+15	0	0	1
+584	a12734741000006114	300	Registration for access to online diabetes self-management application	1.44E+14	0	0	1
+585	a856651000006110	300	Left advanced diabetic retinal disease	8.57E+14	0	0	1
+586	a1704781000006114	300	Excluded from diabetic retinopathy screening as terminal illness	3.75E+14	0	0	1
+587	a13751000006117	300	Other specified diabetes mellitus with multiple comps	3.85E+14	0	0	1
+588	a8027521000006110	300	Microalbuminuria due to type 2 diabetes mellitus	9.08E+13	0	1	0
+589	a1227832019	300	[V]Screening for diabetes mellitus (DM)	171183004	0	0	1
+590	a1583911000006117	300	Ineligibility for diabetic eye screening: Under ophthalmic care	1.58E+15	0	0	1
+591	a771411000006117	300	Insulin dependent diabetes mellitus with retinopathy	4855003	0	0	1
+592	a1667941000000112	300	Type I diabetes mellitus with gastroparesis	713702000	1	0	0
+593	a8297051000006113	300	Referral to DAFNE (dose adjustment for normal eating) diabetes structured education programme declined	8.61E+14	0	0	1
+594	a881521000006117	300	Diabetes + other complications	6.58E+14	0	0	1
+595	a84731000006111	300	Multiple complications of type 1 diabetes mellitus	422228004	1	0	0
+596	a2249951000000114	300	In-house diabetic foot screening follow-up appointment	8.71E+14	0	0	1
+597	a14918991000006115	300	Basal-bolus insulin regime	1.52E+15	0	0	1
+598	a12117381000006110	300	Referral for diabetic care	1.10E+15	0	0	1
+599	a12115561000006115	300	Remote diabetes structured education and support programme commenced	1.10E+15	0	0	1
+600	a914301000006111	300	Type 2 diabetes mellitus with diabetic cataract	420756003	0	1	0
+601	a8259591000006113	300	Referral to diabetic clinic	8.09E+14	0	0	1
+602	a913681000006111	300	Insulin dependent diabetes mellitus - poor control	268519009	0	0	1
+603	a280581000006118	300	Non-insulin-dependent diabetes mellitus with multiple complications	190388001	0	1	0
+604	a12010091000006116	300	Provision of patient held diabetes record	763783006	0	0	1
+605	a1583931000006111	300	Ineligibility for diabetic eye screening: Moved away	1.58E+15	0	0	1
+606	a616211000006113	300	Diabetes mellitus in pregnancy/childbirth/puerperium NOS	199223000	0	0	1
+607	a14136361000006117	300	Ketosis-prone diabetes mellitus	890171006	0	0	1
+608	a457327017	300	Insulin-dependent diabetes without complication	111552007	0	0	1
+609	a354316011	300	Kidney disorder due to diabetes mellitus	127013003	0	0	1
+610	a280551000006114	300	Non-insulin-dependent diabetes mellitus with ulcer	190389009	0	1	0
+611	a449540010	200	Discharge by diabetic liaison nurse	306499007	0	0	1
+612	a84671000006116	200	Type I diabetes mellitus maturity onset	190372001	1	0	0
+613	a459308015	200	Type 2 diabetes mellitus with peripheral angiopathy	314902007	0	1	0
+614	a459310018	200	Type 2 diabetes mellitus with arthropathy	314903002	0	1	0
+615	a6022581000006116	200	Mild non-proliferative diabetic retinopathy	312903003	0	0	1
+616	a213141000006111	200	"Pre-existing diabetes mellitus, unspecified"	3.85E+14	0	0	1
+617	a616561000006113	200	"Diabetes mellitus, adult with gangrene"	421631007	0	0	1
+618	a616451000006110	200	Diabetes mellitus with polyneuropathy	49455004	0	0	1
+619	a913651000006115	200	Insulin dependent diabetes mellitus with retinopathy	4855003	0	0	1
+620	a914221000006113	200	Type 2 diabetes mellitus with mononeuropathy	420436000	0	1	0
+621	a913441000006119	200	Insulin-dependent diabetes mellitus with renal complications	127013003	0	0	1
+622	a297964010	200	Diabetic iritis	193489006	0	0	1
+623	a771361000006113	200	Insulin dependent diabetes mellitus with hypoglycaemic coma	237632004	0	0	1
+624	a84611000006113	200	Type 2 diabetes mellitus with renal complications	420279001	0	1	0
+625	a459296014	200	Type 1 diabetes mellitus with neuropathic arthropathy	7.18E+13	1	0	0
+626	a12086281000006113	200	Diabetic maculopathy of right eye	769244003	0	0	1
+627	a459161015	200	Type 1 diabetes mellitus with hypoglycaemic coma	314771006	1	0	0
+628	a84541000006111	200	Type 2 diabetes mellitus with multiple complications	190388001	0	1	0
+629	a459167016	200	Type 2 diabetes mellitus with hypoglycaemic coma	719216001	0	1	0
+630	a6022721000006112	200	Proliferative diabetic retinopathy - high risk	312907002	0	0	1
+631	a84371000006110	200	Type 1 diabetes mellitus with nephropathy	421893009	1	0	0
+632	a12086331000006116	200	Diabetic maculopathy of left eye	769245002	0	0	1
+633	a399419012	200	Myasthenic syndrome due to diabetic amyotrophy	267604001	0	0	1
+634	a457157017	200	[V]Admitted for commencement of insulin	3.45E+14	0	0	1
+635	a622221000000118	200	Maternally inherited diabetes mellitus	3.36E+14	0	0	1
+636	a771381000006115	200	Insulin dependent diabetes mellitus with multiple complicatn	3.85E+14	0	0	1
+637	a616601000006113	200	"Diabetes mellitus, juvenile type, + ophthalmic manifestation"	739681000	1	0	0
+638	a14092431000006119	200	Disorder of right macula due to diabetes mellitus	769244003	0	0	1
+639	a14092441000006112	200	Disorder of left macula due to diabetes mellitus	769245002	0	0	1
+640	a8286851000006116	200	Education about diabetic retinopathy	8.47E+14	0	0	1
+641	a84581000006117	200	Type 2 diabetes mellitus with ophthalmic complications	422099009	0	1	0
+642	a771491000006110	200	Insulin-dependent diabetes mellitus with ophthalmic comps	25093002	0	0	1
+643	a913471000006110	200	Insulin-dependent diabetes mellitus with ophthalmic comps	25093002	0	0	1
+644	a1932051000006114	200	3D study - problems with diabetes management	1.93E+15	0	0	1
+645	a317348017	200	[D]Widespread diabetic foot gangrene	195303005	0	0	1
+646	a1704791000006112	200	Excluded from diabetic retinopathy screening as learning disability	3.75E+14	0	0	1
+647	a1704691000006117	200	Eligibility permanently inactive for diabetic retinopathy screening	3.72E+14	0	0	1
+648	a280531000006119	200	Non-insulin dependent diabetes mellitus with nephropathy	420279001	0	1	0
+649	a356121018	200	Diabetic severe hyperglycaemia	237621004	0	0	1
+650	a3319861000006118	200	Diabetic autonomic neuropathy	50620007	0	0	1
+651	a3209441000006114	200	Diabetes mellitus type 2	44054006	0	1	0
+652	a736911000000111	200	Excluded from diabetic retinopathy screening as blind	3.75E+14	0	0	1
+653	a1856661000006112	200	Diabetes treatment type	1.86E+15	0	0	1
+654	a2262341000000113	200	Conversion to insulin in secondary care	8.76E+14	0	1	0
+655	a7257031000006118	200	Does rotate site of insulin injection	441922002	0	0	1
+656	a1694811000006118	200	Insulin administration education	1.69E+15	0	0	1
+657	a1696331000006114	200	Diabetic dermopathy	238982009	0	0	1
+658	a7565341000006118	200	Diabetes clinic	702706001	0	0	1
+659	a7098211000006116	200	Dietary education for type 1 diabetes mellitus	429094000	1	0	0
+660	a719531000006118	200	Malnutrition related diabetes mellitus	75524006	0	0	1
+661	a8120431000006115	200	Mild nonproliferative retinopathy due to secondary diabetes mellitus	3.69E+14	0	0	1
+662	a14072461000006116	200	Neuropathy due to diabetes mellitus	230572002	0	0	1
+663	a292541011	200	Type 1 diabetes mellitus with gangrene	420825003	1	0	0
+664	a14072591000006111	200	Disorder of macula due to diabetes mellitus	232020009	0	0	1
+665	a7828041000006115	200	Diabetic retinal eye exam	722161008	0	0	1
+666	a845341000006111	200	Diabetes: shared care in pregnancy - diabetologist and obstetrician	2.45E+13	0	0	1
+667	a5634901000006116	200	Diabetic foot	280137006	0	0	1
+668	a2160090014	200	Diabetes mellitus induced by non-steroid drugs	408540003	0	1	0
+669	a857691000006119	200	Right diabetic foot active ulceration	8.58E+14	0	0	1
+670	a292540012	200	Type 1 diabetes mellitus with ulcer	190368000	1	0	0
+671	a292589019	200	Type II diabetes mellitus - poor control	443694000	0	1	0
+672	a12734341000006113	200	QOF (Quality and Outcomes Framework) diabetes mellitus quality indicator-related care invitation using preferred method of communication	1.43E+14	0	0	1
+673	a309738018	200	Diabetic cheiropathy	201723002	0	0	1
+674	a856661000006112	200	Left diabetic foot active ulceration	8.57E+14	0	0	1
+675	a910211000006114	200	[RFC] Diabetic health promotion	9.10E+14	0	0	1
+676	a8232101000006117	100	Referral to type I diabetes structured education programme	7.54E+14	1	0	0
+677	a1233307015	100	Wolfram syndrome	70694009	0	0	1
+678	a967701000006116	100	Lipoatrophic diabetes mellitus	127012008	0	0	1
+679	a2817479019	100	Hyperglycaemic crisis in diabetes mellitus	441656006	0	0	1
+680	a13761000006115	100	Other specified diabetes mellitus with neurological comps	422088007	0	0	1
+681	a857431000006116	100	Right diabetic maculopathy	8.57E+14	0	0	1
+682	a857411000006110	100	Right proliferative diabetic retinopathy	8.57E+14	0	0	1
+683	a938331000006118	100	Exudative maculopathy with type 2 diabetes mellitus	421779007	0	1	0
+684	a292484010	100	Hyperosmolar coma associated with diabetes mellitus	422126006	0	1	0
+685	a292489017	100	Diabetes mellitus NOS with ketoacidotic coma	420422005	0	0	1
+686	a292495016	100	Other specified diabetes mellitus with renal complications	127013003	0	0	1
+687	a292565014	100	Diabetes mellitus with multiple complications	3.85E+14	0	0	1
+688	a292606016	100	Malnutrition-related diabetes mellitus with ketoacidosis	190406000	1	0	0
+689	a2549896013	100	O/E - sight threatening diabetic retinopathy	417677008	0	0	1
+690	a8098261000006110	100	Attended dose adjustment for normal eating diabetes structured education programme	3.06E+14	0	0	1
+691	a305158015	100	Diabetic glomerulopathy	309426007	0	0	1
+692	a281161000006114	100	Non-insulin depend diabetes mellitus with diabetic cataract	420756003	0	1	0
+693	a8098291000006119	100	Dose adjustment for normal eating diabetes structured education programme completed	3.06E+14	0	0	1
+694	a8098221000006116	100	Attended expert patient education versus routine treatment diabetes structured education programme	3.06E+14	0	0	1
+695	a301611000000118	100	Diabetes monitoring lower risk albumin excretion	1.99E+14	0	0	1
+696	a1673601000006110	100	Ineligibility for diabetic eye screening: Terminal illness	1.67E+15	0	0	1
+697	a8099221000006113	100	Did not complete expert patient education versus routine treatment diabetes structured education programme	3.07E+14	0	0	1
+698	a6613341000006113	100	Diabetic monitoring - injection sites abnormal	398871001	0	0	1
+699	a14500431000006116	100	Haemoglobin A1c greater than 10 percent indicating poor diabetic control	165681007	0	0	1
+700	a1013661000006110	100	Adverse reaction to Drugs Used In Diabetes	1.01E+15	0	0	1
+701	a1013691000006119	100	Adverse reaction to Intermediate And Long Acting Insulin Preparations	1.01E+15	0	0	1
+702	a6515391000006110	100	On examination - no right diabetic retinopathy	390850007	0	0	1
+703	a6515431000006116	100	On examination - no left diabetic retinopathy	390853009	0	0	1
+704	a8239391000006115	100	Insulin/carbohydrate ratio - lunch	7.68E+14	0	0	1
+705	a8239401000006118	100	Insulin/carbohydrate ratio - breakfast	7.68E+14	0	0	1
+706	a8239371000006116	100	Insulin/carbohydrate ratio - evening meal	7.68E+14	0	0	1
+707	a913591000006110	100	Skin ulcer associated with diabetes mellitus	422183001	0	0	1
+708	a913531000006111	100	Insulin dependent diabetes mellitus with multiple complicat	3.85E+14	0	0	1
+709	a2288011000000114	100	Type I diabetes mellitus in remission	703137001	1	0	0
+711	a14058811000006115	100	Pancreatogenic type 3c diabetes mellitus	51002006	0	0	1
+712	a7567351000006110	100	Diabetes in pregnancy clinic	702849009	0	0	1
+713	a8012091000006113	100	Type II diabetes on diet only	2.45E+13	0	1	0
+714	a2380481000000115	100	Enquiry about diabetic erectile dysfunction declined	9.29E+14	0	0	1
+715	a13949591000006110	100	No diabetic retinopathy of right eye	860707009	0	0	1
+716	a13949711000006112	100	Diabetic maculopathy of bilateral eyes present	860712005	0	0	1
+717	a468191000006114	100	Adverse reaction to insulins and antidiabetic agents	430400006	0	0	1
+718	a1784711000006118	100	Professional judgement not to engage patient with insulin alert requirements	8.06E+14	0	0	1
+719	a9986011	100	Drug-induced diabetes mellitus	5368009	0	0	1
+720	a2249871000000113	100	In-house diabetic foot screening first appointment	8.71E+14	0	0	1
+721	a14233341000006113	100	Diabetes care plan	1.36E+15	0	0	1
+722	a1763361000006116	100	Participant in ASCEND(A Study of Cardiovascu.Events in Diabetes)	1.76E+15	0	0	1
+723	a8082941000006118	100	Attended DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme	2.77E+14	0	0	1
+724	a913501000006115	100	Insulin-dependent diabetes mellitus with neurological comps	422088007	0	0	1
+725	a306113018	100	"Pre-existing diabetes mellitus, non-insulin-dependent"	199230006	0	1	0
+726	a1987971000006114	100	X-PERT First Steps diabetes self-management programme completed	1.03E+15	0	0	1
+727	a1960621000006117	100	Diabetic foot examination - no action required	1.96E+15	0	0	1
+728	a14059421000006119	100	Proliferative retinopathy due to diabetes mellitus	59276001	0	0	1
+729	a84761000006119	100	Type I diabetes mellitus with neuropathic arthropathy	7.18E+13	1	0	0
+730	a616661000006114	100	"Diabetes mellitus, juvenile type, with renal manifestation"	421893009	1	0	0
+731	a913511000006117	100	Type 1 diabetes mellitus with neurological complications	421468001	1	0	0
+732	a72651000006114	100	Unstable insulin dependent diabetes mellitus	11530004	0	0	1
+733	a459162010	100	Insulin dependent diabetes mellitus with hypoglycaemic coma	237632004	0	0	1
+734	a84991000006112	100	Type II diabetes mellitus with retinopathy	422034002	0	1	0
+735	a84871000006117	100	Cataract due to diabetes mellitus type 2	420756003	0	1	0
+736	a8267081000006115	100	Diabetes monitoring injection site not checked	8.19E+14	0	0	1
+737	a84621000006117	100	Type 2 diabetes mellitus with retinopathy	422034002	0	1	0
+738	a787101000006114	100	IDDM with peripheral circulatory disorder	421895002	0	0	1
+739	a771391000006117	100	Insulin dependent diabetes mellitus with nephropathy	127013003	0	0	1
+740	a616681000006116	100	"Diabetes mellitus, juvenile, + other specified manifestation"	73211009	1	0	0
+741	a616671000006119	100	"Diabetes mellitus, juvenile, + neurological manifestation"	421468001	1	0	0
+742	a84561000006110	100	Type 2 diabetes mellitus with neurological complications	421326000	0	1	0
+743	a1968641000006114	90	"Maturity-onset diabetes of the young, type 5"	609572000	0	0	1
+744	a733161000000116	90	Impaired vision due to diabetic retinopathy	3.73E+14	0	0	1
+745	a6630561000006115	90	Diabetic macular oedema not clinically significant	399864000	0	0	1
+746	a13771000006110	90	Other specified diabetes mellitus with ophthalmic complicatn	25093002	0	0	1
+747	a5095031000006114	90	Microalbuminuric diabetic nephropathy	236499007	0	0	1
+748	a84811000006114	90	Type I diabetes mellitus with retinopathy	420789003	1	0	0
+749	a84401000006113	90	Type 1 diabetes mellitus with ophthalmic complications	739681000	1	0	0
+750	a5110071000006112	90	Hypoglycaemic event in diabetes	237632004	0	0	1
+751	a13949561000006119	90	No diabetic retinopathy of left eye	860706000	0	0	1
+752	a913811000006115	90	Type 1 diabetes mellitus with polyneuropathy	713705003	1	0	0
+753	a281211000006117	90	Gangrene associated with type 2 diabetes mellitus	421631007	0	1	0
+754	a457156014	90	[V]Admitted for conversion to insulin	8.76E+14	0	1	0
+755	a8275381000006118	90	Endocrinology and diabetes	8.29E+14	0	0	1
+756	a8099341000006113	90	Did not attend expert patient education versus routine treatment diabetes structured education programme	3.07E+14	0	0	1
+757	a8012061000006117	90	Type 2 diabetic on insulin	2.45E+13	0	1	0
+758	a914311000006114	90	Type II diabetes mellitus with diabetic cataract	420756003	0	1	0
+759	a2906401000006113	90	Diabetic retinal microaneurysm	25412000	0	0	1
+760	a8082951000006116	90	Attended diabetes education and self management for ongoing and newly diagnosed structured programme	2.77E+14	0	0	1
+761	a928491000006110	90	Type I diabetes mellitus with persistent microalbuminuria	401110002	1	0	0
+762	a14920101000006117	90	Diabetic digital retinal screening image quality of left eye ungradable	1.60E+15	0	0	1
+763	a14920041000006119	90	NHS (National Health Service) DES (diabetic eye screening) programme	1.60E+15	0	0	1
+764	a4808881000006117	90	Diabetic hand syndrome	201723002	0	0	1
+765	a914271000006114	90	Type II diabetes mellitus with nephropathy	420279001	0	1	0
+766	a6516331000006118	80	DNA - Did not attend diabetic clinic	390922008	0	0	1
+767	a12224731000006112	80	Moderate non-proliferative diabetic retinopathy	312904009	0	0	1
+768	a468181000006111	80	Insulin adverse reaction	293177002	0	0	1
+769	a12734771000006118	80	Declined to register for access to online diabetes self-management application	1.44E+14	0	0	1
+770	a457325013	80	Type I diabetes mellitus without complication	313435000	1	0	0
+771	a914161000006114	80	Type II diabetes mellitus with retinopathy	422034002	0	1	0
+772	a2249991000000118	80	Discharge from in-house diabetic foot screening	8.71E+14	0	0	1
+773	a330806013	80	Adverse reaction to insulins and antidiabetic agents NOS	430400006	0	0	1
+774	a14920121000006110	80	Diabetic digital retinal screening image quality of right eye ungradable	1.60E+15	0	0	1
+775	a84641000006112	80	Type 2 diabetes mellitus without complication	313436004	0	1	0
+776	a8098351000006119	80	Expert patient education versus routine treatment diabetes structured education programme completed	3.07E+14	0	0	1
+777	a771501000006119	80	Insulin-dependent diabetes mellitus with renal complications	127013003	0	0	1
+778	a616611000006111	80	Disorder due to type 1 diabetes mellitus	420868002	1	0	0
+779	a857981000006113	80	Right preproliferative diabetic retinopathy	8.58E+14	0	0	1
+780	a84631000006119	80	Type 2 diabetes mellitus with ulcer	190389009	0	1	0
+781	a771331000006116	70	Insulin dependent diabetes mellitus with arthropathy	39710007	0	0	1
+782	a7812121000006117	70	Diabetic retinopathy of eye not detected	721103006	0	0	1
+783	a8099331000006115	70	Did not attend DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme	3.07E+14	0	0	1
+784	a881471000006115	70	Diabetes with coma	26298008	0	0	1
+785	a14071361000006118	70	Preproliferative retinopathy due to diabetes mellitus	193349004	0	0	1
+786	a429972014	70	Unstable insulin dependent diabetes mellitus	11530004	0	0	1
+787	a293756010	70	[X]Other specified diabetes mellitus	73211009	0	0	1
+788	a84501000006114	70	Type 2 diabetes mellitus with diabetic cataract	420756003	0	1	0
+789	a913671000006113	70	Type I diabetes mellitus with retinopathy	420789003	1	0	0
+790	a292483016	70	"Diabetes mellitus, adult onset, with hyperosmolar coma"	190331003	0	1	0
+791	a928591000006114	70	Type II diabetes mellitus with ketoacidosis	421750000	0	1	0
+792	a1667891000000113	70	Hyperosmolar non-ketotic state in type II diabetes mellitus	395204000	0	1	0
+793	a6022621000006116	70	Moderate nonproliferative diabetic retinopathy	312904009	0	0	1
+794	a8043321000006114	60	Hyperlipidaemia due to type 1 diabetes mellitus	1.38E+14	1	0	0
+795	a6843971000006117	60	Attended diabetes structured education program	413597006	0	0	1
+796	a1704771000006111	60	Excluded from diabetic retinopathy screening as no current contact details	3.75E+14	0	0	1
+797	a8099161000006114	60	Did not complete diabetes education and self management for ongoing and newly diagnosed structured programme	3.07E+14	0	0	1
+799	a454093011	60	HONKS - Diabetic hyperosmolar non-ketotic state	310505005	0	1	0
+800	a1100981000006112	60	Adverse reaction to Codeine Linctus Diabetic	1.10E+15	0	0	1
+801	a771481000006112	60	Insulin-dependent diabetes mellitus with neurological comps	422088007	0	0	1
+802	a7966561000006111	60	Mixed hyperlipidaemia due to type 2 diabetes mellitus	7.01E+11	0	1	0
+803	a2288041000000110	60	Type 1 diabetes mellitus in remission	703137001	1	0	0
+804	a280511000006113	60	Non-insulin dependent diabetes mellitus with hypoglyca coma	719216001	0	1	0
+805	a8243411000006117	60	Referral to DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme declined	7.81E+14	0	0	1
+806	a771421000006113	60	Insulin dependent diabetes mellitus with ulcer	422183001	0	0	1
+807	a280561000006111	60	Non-insulin-dependent diabetes mellitus with peripheral angiopathy	314902007	0	1	0
+808	a8012081000006110	60	Type 2 diabetic on diet only	2.45E+13	0	1	0
+809	a8240791000006113	60	Insulin/carbohydrate ratio	7.72E+14	0	0	1
+810	a84981000006114	60	Type II diabetes mellitus with renal complications	420279001	0	1	0
+811	a5109621000006112	60	MODY - Maturity onset diabetes glucokinase-related	237604008	0	0	1
+812	a85001000006117	60	Type II diabetes mellitus with ulcer	190389009	0	1	0
+813	a84711000006117	60	Type I diabetes mellitus with hypoglycaemic coma	314771006	1	0	0
+814	a459169018	60	Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II	719216001	0	1	0
+815	a292551012	60	Type I diabetes mellitus maturity onset	190372001	1	0	0
+816	a547441000000118	60	Did not complete DAFNE diabetes structured education program	3.07E+14	0	0	1
+817	a1873301000006114	60	Care contact service: diabetes	1.87E+15	0	0	1
+818	a178800012	60	Insulin coma	111558006	0	0	1
+819	a1855341000006113	60	Conversion to insulin by hospital	1.86E+15	0	1	0
+820	a8048421000006113	50	Proteinuria due to type 2 diabetes mellitus	1.57E+14	0	1	0
+821	a13832391000006118	50	Infection of foot due to diabetes mellitus	419100001	0	0	1
+822	a8098341000006116	50	DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme completed	3.07E+14	0	0	1
+823	a292550013	50	Type I diabetes mellitus - poor control	444073006	1	0	0
+824	a301641000000117	50	Diabetes monitoring higher risk albumin excretion	1.99E+14	0	0	1
+825	a8240001000006116	50	Mean total daily insulin dose	7.70E+14	0	0	1
+826	a8239331000006119	50	Insulin sensitivity factor - breakfast	7.68E+14	0	0	1
+827	a7287611000006113	50	Type 1 diabetes mellitus uncontrolled	444073006	1	0	0
+828	a85011000006119	50	Type II diabetes mellitus without complication	313436004	0	1	0
+829	a84801000006111	50	Type I diabetes mellitus with renal complications	421893009	1	0	0
+830	a14918981000006118	50	Basal insulin regime	1.52E+15	0	0	1
+831	a459306016	50	Type II diabetes mellitus with peripheral angiopathy	314902007	0	1	0
+832	a429970018	50	Unstable type I diabetes mellitus	290002008	1	0	0
+833	a1960611000006113	50	Diabetic foot examination - action required	1.96E+15	0	0	1
+834	a14077691000006113	50	Mild nonproliferative retinopathy due to diabetes mellitus	312903003	0	0	1
+835	a12085921000006112	50	Clinically significant macular oedema of left eye due to diabetes mellitus	769222008	0	0	1
+836	a292621010	50	Diabetes mellitus NOS with other specified manifestation	73211009	0	0	1
+837	a8428521000006115	50	Seen in hospital diabetes antenatal clinic	1.05E+15	0	0	1
+838	a913831000006114	50	Insulin dependent diabetes mellitus with nephropathy	127013003	0	0	1
+839	a84301000006116	50	Type 1 diabetes mellitus maturity onset	190372001	1	0	0
+840	a84431000006117	50	Type 1 diabetes mellitus with renal complications	421893009	1	0	0
+841	a14920141000006115	50	Diabetic digital retinal screening image quality of bilateral eyes ungradable	1.60E+15	0	0	1
+842	a14073081000006114	50	Hypoglycaemic event due to diabetes	237632004	0	0	1
+843	a14131411000006119	50	Telehealth monitoring for diabetes mellitus	879782007	0	0	1
+844	a856621000006118	40	Left proliferative diabetic retinopathy	8.57E+14	0	0	1
+845	a459292011	40	Type 1 diabetes mellitus with arthropathy	314893005	1	0	0
+846	a280541000006112	40	Non-insulin dependent diabetes mellitus with polyneuropathy	713706002	0	1	0
+847	a913981000006115	40	Insulin dependent diab mell with neuropathic arthropathy	201724008	0	0	1
+848	a84441000006110	40	Type 1 diabetes mellitus with retinopathy	420789003	1	0	0
+849	a13790061000006119	40	Neuropathic ulcer of foot due to diabetes mellitus	201251005	0	0	1
+850	a499479018	40	Shock therapy - insulin	63105004	0	0	1
+851	a857051000006118	40	Left preproliferative diabetic retinopathy	8.57E+14	0	0	1
+852	a14083901000006110	40	Persistent microalbuminuria due to type 1 diabetes mellitus	421305000	1	0	0
+853	a13810181000006111	40	Macular oedema due to diabetes mellitus	312912001	0	0	1
+854	a928601000006118	40	Ketoacidotic coma in type 2 diabetes mellitus	421847006	0	1	0
+855	a14095251000006116	40	Neuropathic ulcer of toe due to type 2 diabetes mellitus	1.40E+14	0	1	0
+856	a1013671000006115	40	Adverse reaction to Insulins	1.01E+15	0	0	1
+857	a616151000006118	40	Diabetes mellitus - unspec whether in pregnancy/puerperium	199223000	0	0	1
+858	a616651000006112	40	"Diabetes mellitus, juvenile type, with ketoacidotic coma"	421075007	1	0	0
+859	a6872991000006113	40	Referral to diabetes structured education program	415270003	0	0	1
+860	a8099881000006113	40	Diabetes structured education programme	3.08E+14	0	0	1
+861	a283974014	40	Listed for Diabetology admission	183781007	0	0	1
+862	a292581016	40	Type II diabetes mellitus with ulcer	190389009	0	1	0
+863	a12705021000006112	40	Clinically significant macular oedema of right eye due to diabetes mellitus	769221001	0	0	1
+864	a12116461000006113	40	Did not commence remote structured diabetes education and support programme	1.10E+15	0	0	1
+865	a5110001000006118	40	Pregnancy and type 2 diabetes mellitus	237627000	0	1	0
+866	a7861581000006118	40	Diabetic radiculoplexus neuropathy	724810001	0	0	1
+867	a12704971000006113	40	Neurologic disorder associated with type 2 diabetes mellitus	421326000	0	1	0
+868	a8283131000006114	40	Date insulin pump therapy started	8.42E+14	0	0	1
+869	a8286821000006113	40	Education about diabetic nephropathy	8.47E+14	0	0	1
+870	a8240801000006114	40	Insulin sensitivity factor	7.72E+14	0	0	1
+871	a8239351000006114	40	Insulin sensitivity factor - evening meal	7.68E+14	0	0	1
+872	a4796321000006113	40	Pre-existing type 2 diabetes mellitus	199230006	0	1	0
+873	a8239341000006112	40	Insulin sensitivity factor - lunch	7.68E+14	0	0	1
+874	a14092491000006115	30	Erectile dysfunction due to diabetes mellitus	770096002	0	0	1
+875	a14083741000006114	30	Ketoacidosis due to type 1 diabetes mellitus	420270002	1	0	0
+876	a7979841000006113	30	Diabetic retinal eye exam not done	4.58E+12	0	0	1
+877	a14083781000006115	30	Persistent proteinuria due to type 1 diabetes mellitus	420514000	1	0	0
+878	a12085021000006113	30	Preproliferative diabetic retinopathy of right eye	769181007	0	0	1
+879	a7500211000006117	30	Pre-existing diabetes mellitus in pregnancy	609563008	0	0	1
+880	a7469421000006113	30	Ambulatory insulin infusion pump	470153003	0	0	1
+881	a914251000006116	30	Type II diabetes mellitus with polyneuropathy	713706002	0	1	0
+882	a914231000006111	30	Type II diabetes mellitus with mononeuropathy	420436000	0	1	0
+883	a14095271000006114	30	Neuropathic ulcer of foot due to type 2 diabetes mellitus	1.41E+14	0	1	0
+884	a932641000006116	30	Diabetes with coma	6.31E+14	0	0	1
+885	a7851731000006116	30	Diabetic mastopathy	724136006	0	0	1
+886	a938311000006112	30	Type I diabetes mellitus with exudative maculopathy	420486006	1	0	0
+887	a1550571000000114	30	Jamaica type diabetes	75524006	0	0	1
+888	a2338051000000112	30	Diabetes Distress Scale 17 item score	9.11E+14	0	0	1
+889	a13811000006110	30	Other specified diabetes mellitus with unspecified comps	74627003	0	0	1
+890	a13791000006111	30	Other specified diabetes mellitus with periph circ comps	421895002	0	0	1
+891	a356078011	30	Secondary endocrine diabetes mellitus	237601000	0	0	1
+892	a12115571000006110	30	Remote diabetes structured education and support programme completed	1.10E+15	0	0	1
+893	a771341000006114	30	Insulin dependent diabetes mellitus with diabetic cataract	43959009	0	0	1
+894	a14920051000006117	30	Diabetic digital retinal screening image quality ungradable	1.60E+15	0	0	1
+895	a902201000006112	30	Reaction: insulin/antidiabetic	293190009	0	0	1
+896	a8242331000006114	30	Diabetic retinopathy detected by national screening programme	7.76E+14	0	0	1
+897	a280521000006117	30	Non-insulin dependent diabetes mellitus with mononeuropathy	420436000	0	1	0
+898	a14077701000006113	30	Moderate nonproliferative retinopathy due to diabetes mellitus	312904009	0	0	1
+899	a354508018	30	Clinical diabetic nephropathy	236500003	0	0	1
+900	a354651000006115	30	[X] Adverse reaction to insulins	293177002	0	0	1
+901	a12085721000006110	30	Diabetic macular oedema of right eye	769217008	0	0	1
+902	a459312014	30	Type II diabetes mellitus with neuropathic arthropathy	314904008	0	1	0
+903	a459311019	30	Type II diabetes mellitus with arthropathy	314903002	0	1	0
+904	a84451000006112	30	Type 1 diabetes mellitus with ulcer	190368000	1	0	0
+905	a459163017	30	Type I diabetes mellitus with hypoglycaemic coma	314771006	1	0	0
+906	a84901000006117	30	Mononeuropathy with type 2 diabetes mellitus	420436000	0	1	0
+907	a616081000006113	30	Diabetes mellitus insulin-glucose infusion in acute myocardial infarction	315287002	0	0	1
+908	a84951000006118	30	Disorder of eye with type 2 diabetes mellitus	422099009	0	1	0
+909	a84931000006113	30	Neurological disorder with diabetes type 2	421326000	0	1	0
+910	a2461101000000116	30	Has diabetes identity card	720724003	0	0	1
+911	a13917091000006117	30	Neuropathic ulcer of heel due to type 2 diabetes mellitus	789569005	0	1	0
+912	a616591000006117	30	"Diabetes mellitus, juvenile +peripheral circulatory disorder"	421365002	1	0	0
+913	a4929251000006115	30	Diabetic nurse	224543004	0	0	1
+914	a856641000006113	30	Left diabetic maculopathy	8.57E+14	0	0	1
+915	a12085761000006116	30	Diabetic macular oedema of left eye	769218003	0	0	1
+916	a5988631000006117	30	Diabetes dietitian	309417009	0	0	1
+917	a14067581000006118	30	Disorder of kidney due to diabetes mellitus	127013003	0	0	1
+918	a292576013	30	Type II diabetes mellitus with multiple complications	190388001	0	1	0
+919	a8263801000006112	30	Variable rate intravenous infusion of insulin	8.16E+14	0	0	1
+920	a1119981000006119	30	Adverse reaction to Insulin glargine	1.12E+15	0	0	1
+921	a292488013	30	Coma associated with diabetes mellitus	420662003	0	0	1
+922	a3253231000006110	30	Diabetes mellitus type I	46635009	0	0	1
+923	a1098831000006113	30	Adverse reaction to Hypodermic Insulin	1.10E+15	0	0	1
+924	a84961000006116	20	Type II diabetes mellitus with peripheral angiopathy	314902007	0	1	0
+925	a84771000006114	20	Disorder of eye with type 1 diabetes mellitus	739681000	1	0	0
+926	a72711000006117	20	Unstable type 1 diabetes mellitus	290002008	1	0	0
+927	a84381000006113	20	Type 1 diabetes mellitus with neurological complications	421468001	1	0	0
+928	a84341000006119	20	Type 1 diabetes mellitus with hypoglycaemic coma	314771006	1	0	0
+929	a84521000006116	20	Type 2 diabetes mellitus with hypoglycaemic coma	719216001	0	1	0
+930	a84821000006118	20	Type I diabetes mellitus with ulcer	190368000	1	0	0
+931	a3636751012	20	Acute complication with diabetes mellitus	762489000	0	0	1
+932	a84691000006115	20	Cataract due to diabetes mellitus type 1	421920002	1	0	0
+933	a459294012	20	Type I diabetes mellitus with arthropathy	314893005	1	0	0
+934	a84531000006118	20	Type 2 diabetes mellitus with mononeuropathy	420436000	0	1	0
+935	a894461000006112	20	Diabetic mother syndrome	21584002	0	0	1
+936	a1030541000006112	20	Adverse reaction to Insulin Glargine	1.03E+15	0	0	1
+937	a8267041000006114	20	Diabetes monitoring injection site check declined	8.19E+14	0	0	1
+938	a84971000006111	20	Type II diabetes mellitus with polyneuropathy	713706002	0	1	0
+939	a4758121000006115	20	Insulin-dependent diabetes maturity onset	190372001	0	0	1
+940	a5754581000006110	20	Brittle type 1 diabetes mellitus	290002008	1	0	0
+941	a12704411000006113	20	Peripheral circulatory disorder associated with diabetes mellitus	421895002	0	0	1
+942	a771401000006115	20	Insulin dependent diabetes mellitus with polyneuropathy	49455004	0	0	1
+943	a771351000006111	20	Insulin dependent diabetes mellitus with gangrene	422275004	0	0	1
+944	a772131000006111	20	Insulin dependent diab mell with neuropathic arthropathy	201724008	0	0	1
+945	a2160089017	20	Insulin autoimmune syndrome	408539000	0	0	1
+946	a1583871000006115	20	Ineligibility for diabetic eye screening: No contact details	1.58E+15	0	0	1
+947	a12489821000006114	20	Diabetes key contact	408290003	0	0	1
+948	a281181000006116	20	Non-insulin dependent diabetes mellitus with neuropathic arthropathy	314904008	0	1	0
+949	a12490041000006117	20	Diabetic retinopathy screening offered	417256004	0	0	1
+950	a189721000000113	20	Secondary diabetes mellitus without complication	8801005	0	0	1
+951	a12189891000006110	20	PDR - proliferative diabetic retinopathy	59276001	0	0	1
+952	a12185421000006113	20	Polyneuropathy due to diabetes mellitus	49455004	0	0	1
+953	a1135131000006110	20	Adverse reaction to Insulin Detemir	1.14E+15	0	0	1
+954	a292482014	20	"Diabetes mellitus, juvenile type, with hyperosmolar coma"	190330002	1	0	0
+955	a8274621000006113	20	Paediatric diabetic medicine	8.28E+14	0	0	1
+956	a84571000006115	20	Type 2 diabetes mellitus with neuropathic arthropathy	314904008	0	1	0
+957	a5994181000006119	20	Diabetic department	309924002	0	0	1
+958	a1822391000006114	20	Date other antidiabetic drug started	1.82E+15	0	0	1
+959	a3253241000006117	20	Diabetes mellitus type 1	46635009	1	0	0
+960	a14060651000006114	20	Complication due to diabetes mellitus	74627003	0	0	1
+961	a14071341000006117	20	Asymptomatic neuropathy due to diabetes mellitus	193185007	0	0	1
+963	a14077711000006111	20	Severe nonproliferative retinopathy due to diabetes mellitus	312905005	0	0	1
+964	a1977221000006114	20	Adverse reaction to Insulin Human	1.98E+15	0	0	1
+965	a1988741000006117	20	Pregnancy and non-insulin-dependent diabetes mellitus	237627000	0	0	1
+966	a1784011000006116	20	Advised to maintain back up supply of insulin for subcutaneous injection	7.83E+14	0	0	1
+967	a6761781000006114	20	On examination - right eye background diabetic retinopathy	408409007	0	0	1
+968	a6761801000006113	20	On examination - left eye background diabetic retinopathy	408410002	0	0	1
+969	a8236711000006119	20	DNA (did not attend) diabetes foot screening	7.63E+14	0	0	1
+970	a3416171000006118	20	Necrobiosis lipoidica diabeticorum	56391002	0	0	1
+971	a8241041000006113	20	Symptomatic diabetic peripheral neuropathy	7.73E+14	0	0	1
+972	a12085141000006119	20	Mild non-proliferative diabetic retinopathy of left eye	769184004	0	0	1
+973	a6630701000006110	20	Visually threatening diabetic retinopathy	399871005	0	0	1
+974	a7299971000006116	20	Diabetes mellitus service	444913002	0	0	1
+975	a10928019	20	Diabetes mellitus associated with genetic syndrome	5969009	0	0	1
+976	a913801000006118	20	Insulin dependent diabetes mellitus with polyneuropathy	49455004	0	0	1
+977	a12085051000006116	20	Preproliferative diabetic retinopathy of left eye	769182000	0	0	1
+978	a8006221000006115	20	Microalbuminuria due to type 1 diabetes mellitus	1.85E+13	1	0	0
+979	a913461000006115	20	Type I diabetes mellitus with renal complications	421893009	1	0	0
+980	a913931000006116	20	Type 1 diabetes mellitus with peripheral angiopathy	3.12E+13	1	0	0
+981	a913901000006112	20	Type 1 diabetes mellitus with diabetic cataract	421920002	1	0	0
+982	a913851000006119	20	Type I diabetes mellitus with nephropathy	421893009	1	0	0
+983	a8242821000006115	20	No diabetic autonomic neuropathy	7.78E+14	0	0	1
+984	a913621000006112	20	Insulin dependent diabetes mellitus with gangrene	422275004	0	0	1
+985	a914041000006111	20	Type II diabetes mellitus with renal complications	420279001	0	1	0
+986	a5505651000006113	20	Diabetes mellitus uncontrolled	268519009	0	0	1
+987	a2683581000006112	20	Labile diabetes	11530004	0	0	1
+988	a616231000006119	20	Diabetes mellitus in the puerperium - baby delivered during current episode of care	199226008	0	0	1
+989	a616541000006114	20	"Diabetes mellitus, adult onset, with ketoacidotic coma"	421847006	0	0	1
+990	a913551000006116	10	Type I diabetes mellitus with multiple complications	422228004	1	0	0
+991	a12085091000006110	10	Mild non-proliferative diabetic retinopathy of right eye	769183005	0	0	1
+992	a12085181000006113	10	Moderate non-proliferative diabetic retinopathy of right eye	769185003	0	0	1
+993	a12085231000006118	10	Moderate non-proliferative diabetic retinopathy of left eye	769186002	0	0	1
+994	a913891000006113	10	Insulin dependent diabetes mellitus with diabetic cataract	43959009	0	0	1
+995	a914061000006110	10	Type II diabetes mellitus with ophthalmic complications	422099009	0	1	0
+996	a914081000006117	10	Type II diabetes mellitus with neurological complications	421326000	0	1	0
+997	a1118981000006112	10	Adverse reaction to Insulin Aspart	1.12E+15	0	0	1
+998	a913781000006117	10	Type 1 diabetes mellitus with mononeuropathy	420918009	1	0	0
+999	a13949621000006112	10	No diabetic maculopathy of left eye	860709007	0	0	1
+1000	a1745771000006118	10	Adverse reaction to Hypodermic Insulin Injection	1.75E+15	0	0	1
+1001	a1855351000006110	10	Conversion to insulin by diabetic specialist nurse	1.86E+15	0	1	0
+1002	a1132301000006114	10	Adverse reaction to Insulin Soluble Human	1.13E+15	0	0	1
+1003	a14057771000006116	10	Lumbosacral radiculoplexus neuropathy due to diabetes mellitus	39058009	0	0	1
+1004	a12490031000006110	10	Patient offered diabetes structured education programme	416672007	0	0	1
+1005	a14071551000006111	10	Ischaemic ulcer of foot due to diabetes mellitus	201250006	0	0	1
+1006	a967681000006119	10	Fibrocalculous pancreatic diabetes	2751001	0	0	1
+1007	a14073101000006118	10	Nocturnal hypoglycaemia due to diabetes mellitus	237635002	0	0	1
+1008	a7969211000006115	10	Mixed hyperlipidaemia due to type 1 diabetes mellitus	1.57E+12	1	0	0
+1009	a13947521000006119	10	Insulin pump education	846662007	0	0	1
+1010	a14070771000006115	10	Loss of hypoglycaemic warning due to diabetes mellitus	170766006	0	0	1
+1011	a8027471000006112	10	Chronic kidney disease stage 4 due to type 1 diabetes mellitus	9.08E+13	1	0	0
+1012	a11924351000006118	10	Diabetes treatment satisfaction questionnaire	273412002	0	0	1
+1013	a12623641000006113	10	Referral to HeLP-Diabetes (Healthy Living for People with Diabetes) online self-management programme	1.11E+15	0	0	1
+1014	a8098241000006111	10	Attended XPERT (expert patient education versus routine treatment) diabetes structured education programme	3.06E+14	0	0	1
+1015	a8098981000006111	10	Referral to XPERT (expert patient education versus routine treatment) diabetes structured education programme	3.07E+14	0	0	1
+1016	a8098951000006115	10	Referral to DESMOND (diabetes education and self management for ongoing and newly diagnosed) diabetes structured programme	3.07E+14	0	0	1
+1017	a928471000006114	10	Type I diabetes mellitus with persistent proteinuria	420514000	1	0	0
+1018	a1861341000006117	10	Adverse reaction to Insulin Degludec	1.86E+15	0	0	1
+1019	a12300391000006115	10	Macular oedema not clinically significant with diabetes mellitus	399864000	0	0	1
+1020	a11633211000006112	10	Atypical diabetes mellitus	5.31E+17	0	0	1
+1021	a84461000006114	10	Type 1 diabetes mellitus without complication	313435000	1	0	0
+1022	a292543014	10	Type I diabetes mellitus with gangrene	420825003	1	0	0
+1023	a12119681000006110	10	Ketosis-prone diabetes mellitus	1.10E+15	0	0	1
+1024	a84421000006115	10	Type 1 diabetes mellitus with polyneuropathy	713705003	1	0	0
+1025	a356118015	10	Diabetes-deafness syndrome maternally transmitted	237619009	0	0	1
+1026	a1786715019	10	Bronzed diabetes	399144008	0	0	1
+1027	a14084061000006113	10	Retinopathy due to type 2 diabetes mellitus	422034002	0	1	0
+1028	a14084121000006118	10	Skin ulcer due to diabetes mellitus	422183001	0	0	1
+1029	a2156000010	10	"Lipodystrophy, partial, with Rieger anomaly, short stature, and insulinopenic diabetes mellitus"	237608006	0	0	1
+1030	a14084031000006116	10	Non-ketotic non-hyperosmolar coma due to diabetes mellitus	421966007	0	0	1
+1031	a14084101000006111	10	Disorder of eye due to type 2 diabetes mellitus	422099009	0	1	0
+1032	a14083841000006119	10	Gangrene due to type 1 diabetes mellitus	420825003	1	0	0
+1033	a6030001000006116	10	Insulin-dependent diabetes without complication	313435000	0	0	1
+1034	a6022831000006119	10	Diabetic vitreous haemorrhage	312910009	0	0	1
+1035	a354661000006118	10	[X] Adverse reaction to insulins and antidiabetic agents	430400006	0	0	1
+1036	a6515201000006111	10	NPDR - Non proliferative diabetic retinopathy	390834004	0	0	1
+1037	a6546431000006119	10	On examination - Right diabetic foot at moderate risk	394682001	0	0	1
+1038	a6546411000006113	10	On examination - Left diabetic foot at moderate risk	394681008	0	0	1
+1039	a6546241000006111	10	On examination - Right diabetic foot at low risk	394671009	0	0	1
+1040	a5549741000006110	10	Diabetes clinic satisfaction questionnaire	273411009	0	0	1
+1041	a6444031000006114	10	Diabetic care assessment	385803003	0	0	1
+1042	a84701000006115	10	Type I diabetes mellitus with gangrene	420825003	1	0	0
+1043	a72721000006113	10	Unstable type I diabetes mellitus	290002008	1	0	0
+1044	a84321000006114	10	Type 1 diabetes mellitus with diabetic cataract	421920002	1	0	0
+1045	a84311000006118	10	Type 1 diabetes mellitus with arthropathy	314893005	1	0	0
+1046	a84491000006118	10	Type 2 diabetes mellitus with arthropathy	314903002	0	1	0
+1047	a84511000006112	10	Type 2 diabetes mellitus with gangrene	421631007	0	1	0
+1048	a84941000006115	10	Type II diabetes mellitus with neuropathic arthropathy	314904008	0	1	0
+1049	a84361000006115	10	Type 1 diabetes mellitus with multiple complications	422228004	1	0	0
+1050	a84601000006110	10	Type 2 diabetes mellitus with polyneuropathy	713706002	0	1	0
+1051	a7032031000006112	10	Diabetic peripheral neuropathy	424736006	0	0	1
+1052	a13781000006113	10	Other specified diabetes mellitus with other spec comps	73211009	0	0	1
+1053	a2683561000006119	10	Brittle diabetes mellitus	11530004	0	0	1
+1054	a5109561000006119	10	"Maturity onset diabetes of the young, type 2"	237604008	0	1	0
+1055	a7068831000006114	10	Diabetes mellitus due to cystic fibrosis	427089005	0	0	1
+1056	a5110091000006113	10	Hypoglycaemic state in diabetes	237633009	0	0	1
+1057	a1954041000006119	9	Diabetic - uses carbohydrate counting	1.95E+15	0	0	1
+1058	a12078961000006117	9	Diabetic cataract of bilateral eyes	768794008	0	0	1
+1059	a7500191000006118	9	"Maturity onset diabetes of the young, type 1"	609562003	1	0	0
+1060	a14084091000006117	9	Disorder of nervous system due to diabetes mellitus	422088007	0	0	1
+1061	a12078901000006118	9	Cataract of right eye due to diabetes mellitus	768792007	0	0	1
+1062	a14077471000006114	9	Advanced retinal disease due to diabetes mellitus	311782002	0	0	1
+1063	a13949651000006115	9	No diabetic maculopathy of right eye	860710002	0	0	1
+1064	a6546321000006111	9	On examination - Left diabetic foot at low risk	394675000	0	0	1
+1065	a13767911000006119	9	Disorder of eye due to diabetes mellitus	25093002	0	0	1
+1066	a292538019	9	Type I diabetes mellitus with ulcer	190368000	1	0	0
+1067	a292582011	8	Type II diabetes mellitus with gangrene	421631007	0	1	0
+1068	a3511581000006114	8	Pretibial pigmental patches in diabetes	62260007	0	0	1
+1069	a5933621000006118	8	Perceived control of insulin-dependent diabetes	304752002	0	0	1
+1070	a1099861000006110	8	Adverse reaction to Isophane Insulin	1.10E+15	0	0	1
+1071	a6022691000006119	8	Early proliferative diabetic retinopathy	312906006	0	0	1
+1072	a967631000006115	8	Diabetes mellitus induced by non-steroid drugs without complication	413183008	0	1	0
+1073	a14073071000006111	8	Severe hyperglycaemia due to diabetes mellitus	237621004	0	0	1
+1074	a2460621000000111	8	Provision of diabetes identity card	719570003	0	0	1
+1075	a459309011	8	Non-insulin dependent diabetes mellitus with arthropathy	314903002	0	1	0
+1076	a4636711000006116	8	Diabetes: shared care program	170775008	0	0	1
+1077	a9482651000006115	8	Diabetes screening declined	1.23E+16	0	0	1
+1078	a2967831017	8	Pre-existing type 1 diabetes mellitus in pregnancy	199223000	1	0	0
+1079	a6022611000006112	7	Mild nonproliferative diabetic retinopathy	312903003	0	0	1
+1080	a771371000006118	7	Insulin dependent diabetes mellitus with mononeuropathy	230577008	0	0	1
+1081	a6022931000006112	7	Diabetic macular edema	312912001	0	0	1
+1082	a7507871000006114	7	Diabetes self management plan	698360004	0	0	1
+1083	a6982521000006119	7	Diabetes type 2 with retinopathy	422034002	0	1	0
+1084	a14077871000006111	7	Ischaemic maculopathy due to diabetes mellitus	314014002	0	0	1
+1085	a84881000006119	7	Type II diabetes mellitus with gangrene	421631007	0	1	0
+1086	a4726201000006118	7	Diabetology domiciliary visit requested	183722003	0	0	1
+1087	a14077731000006117	7	High risk proliferative retinopathy due to diabetes mellitus	312907002	0	0	1
+1088	a14073091000006112	7	Hypoglycaemia due to diabetes mellitus	237633009	0	0	1
+1089	a913771000006115	7	Insulin dependent diabetes mellitus with mononeuropathy	230577008	0	0	1
+1090	a7567341000006113	7	Diabetes foot care clinic	702848001	0	0	1
+1091	a14691561000006113	7	Type 1 Diabetes Distress Scale total score	1.37E+15	1	0	0
+1092	a1103761000006114	7	Adverse reaction to Biphasic Insulin	1.10E+15	0	0	1
+1093	a12078931000006114	7	Cataract of left eye due to diabetes mellitus	768793002	0	0	1
+1094	a6515211000006114	7	BDR - Background diabetic retinopathy	390834004	0	0	1
+1095	a14071441000006113	7	Cellulitis of foot due to diabetes mellitus	200687002	0	0	1
+1096	a616221000006117	7	Diabetes mellitus in the puerperium - baby delivered during previous episode of care	199228009	0	0	1
+1097	a7863811000006111	7	Lumbosacral plexopathy with diabetes mellitus	724997001	0	0	1
+1098	a6612501000006110	7	Diabetic foot at risk	398819009	0	0	1
+1099	a8098371000006112	7	XPERT (expert patient education versus routine treatment) diabetes structured education programme completed	3.07E+14	0	0	1
+1100	a4392221000006118	6	Peripheral angiopathy due to diabetes mellitus	127014009	0	0	1
+1101	a7728071000006113	6	Referral to diabetes service	715159005	0	0	1
+1102	a84591000006119	6	Type 2 diabetes mellitus with peripheral angiopathy	314902007	0	1	0
+1103	a459293018	6	Insulin dependent diabetes mellitus with arthropathy	39710007	0	0	1
+1104	a14920291000006115	6	Closed loop insulin delivery using continuous automated insulin delivery system active	1.60E+15	0	0	1
+1105	a7966641000006113	6	Chronic kidney disease stage 4 due to type 2 diabetes mellitus	7.21E+11	0	1	0
+1106	a1088571000006114	6	Adverse reaction to Insulin Syringe	1.09E+15	0	0	1
+1107	a8110861000006117	6	Referral to children's diabetes nurse specialist	3.44E+14	0	0	1
+1108	a6611521000006112	6	Diabetes self-monitoring health education	398773005	0	0	1
+1109	a8099281000006112	6	Did not attend dose adjustment for normal eating diabetes structured education programme	3.07E+14	0	0	1
+1110	a8099131000006117	6	Did not complete dose adjustment for normal eating diabetes structured education programme	3.07E+14	0	0	1
+1111	a6047101000006117	6	Diabetic optic papillopathy	314537004	0	0	1
+1112	a14072601000006115	6	Proliferative retinopathy with optic disc neovascularisation due to diabetes mellitus	232021008	0	0	1
+1113	a14071331000006110	6	Chronic painful neuropathy due to diabetes mellitus	193184006	0	0	1
+1114	a14765381000006118	6	Diabetic neurotrophic keratitis	1217674007	0	0	1
+1115	a14083961000006111	6	Gangrene due to type 2 diabetes mellitus	421631007	0	1	0
+1116	a8454931000006116	5	Paediatric diabetes service	1.08E+15	0	0	1
+1117	a356111014	5	Insulin-dependent diabetes mellitus secretory diarrhoea syndrome	237618001	0	0	1
+1118	a356119011	5	Abnormal metabolic state in diabetes mellitus	237620003	0	0	1
+1119	a14919001000006115	5	Premixed insulin regime	1.52E+15	0	0	1
+1120	a13791991000006116	5	Proteinuric nephropathy due to diabetes mellitus	236500003	0	0	1
+1121	a6866901000006111	5	On examination - right eye stable treated proliferative diabetic retinopathy	414910007	0	0	1
+1122	a6718121000006115	5	Diabetes type	405751000	0	0	1
+1123	a8099181000006116	5	Did not complete DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme	3.07E+14	0	0	1
+1124	a2843291000006110	5	Maternal diabetes syndrome	21584002	0	0	1
+1125	a14077721000006115	5	Non-high-risk proliferative retinopathy due to diabetes mellitus	312906006	0	0	1
+1126	a913921000006119	5	Insulin dependent diab mell with peripheral angiopathy	421895002	0	0	1
+1127	a12078971000006112	5	Bilateral diabetic cataracts	768794008	0	0	1
+1128	a4392141000006116	5	Lipoatrophic diabetes	127012008	0	0	1
+1129	a6041411000006117	5	Ischaemic diabetic maculopathy	314014002	0	0	1
+1130	a8098881000006116	5	Referral to DAFNE (dose adjustment for normal eating) diabetes structured education programme	3.07E+14	0	0	1
+1131	a12705081000006111	5	Gastroparesis due to type 2 diabetes mellitus	713703005	0	1	0
+1132	a6041341000006114	5	Focal diabetic maculopathy	314011005	0	0	1
+1133	a1015121000006112	5	Adverse reaction to Insulin Detemir	1.02E+15	0	0	1
+1134	a6022671000006115	5	Proliferative diabetic retinopathy - non high risk	312906006	0	0	1
+1135	a12085841000006110	5	Macular oedema due to type 2 diabetes mellitus	769220000	0	1	0
+1136	a125705011	5	Diabetes mellitus due to insulin receptor antibodies	75682002	0	0	1
+1137	a8313901000006110	5	Paediatric diabetic medicine service	8.94E+14	0	0	1
+1138	a6630581000006113	4	Very severe proliferative diabetic retinopathy	399865004	0	0	1
+1139	a84721000006113	4	Mononeuropathy with type 1 diabetes mellitus	420918009	1	0	0
+1140	a12085241000006111	4	Moderate nonproliferative retinopathy of left eye due to diabetes mellitus	769186002	0	0	1
+1141	a8118151000006112	4	Hyperosmolarity co-occurrent and due to drug induced diabetes mellitus	3.67E+14	0	1	0
+1142	a14077751000006112	4	Proliferative retinopathy with iris neovascularisation due to diabetes mellitus	312909004	0	0	1
+1143	a14083911000006113	4	Disorder of nervous system due to type 2 diabetes mellitus	421326000	0	1	0
+1144	a8043621000006117	4	Mild nonproliferative retinopathy due to type 2 diabetes mellitus	1.39E+14	0	1	0
+1145	a719601000006110	4	Malnutrition-related diabetes mellitus with peripheral circulatory complications	190410002	0	0	1
+1146	a8099361000006112	4	Did not attend XPERT (expert patient education versus routine treatment) diabetes structured education programme	3.07E+14	0	0	1
+1147	a84891000006116	4	Type II diabetes mellitus with hypoglycaemic coma	719216001	0	1	0
+1148	a14084001000006112	4	Exudative maculopathy due to type 2 diabetes mellitus	421779007	0	1	0
+1149	a719541000006111	4	Malnutrition-related diabetes mellitus with coma	420996007	0	0	1
+1150	a3690681000006114	4	DM - Diabetes mellitus	73211009	0	0	1
+1151	a6931861000006110	4	Infection of foot associated with diabetes	419100001	0	0	1
+1152	a84831000006115	4	Type I diabetes mellitus without complication	313435000	1	0	0
+1153	a14085781000006119	4	Macroalbuminuric nephropathy due to diabetes mellitus	445170001	0	0	1
+1154	a12085171000006110	4	Moderate nonproliferative diabetic retinopathy of right eye	769185003	0	0	1
+1155	a1079341000006112	4	Adverse reaction to Insulin Lispro	1.08E+15	0	0	1
+1156	a12180791000006114	4	Diabetic lumbosacral plexopathy	39058009	0	0	1
+1157	a928531000006110	4	Type I diabetes mellitus with ketoacidotic coma	421075007	1	0	0
+1158	a928611000006115	4	Ketoacidotic coma in type II diabetes mellitus	421847006	0	1	0
+1159	a6951091000006110	4	Diabetes type 1 with ketoacidosis	420270002	1	0	0
+1160	a14058781000006117	4	Autonomic neuropathy due to diabetes mellitus	50620007	0	0	1
+1161	a189711000000119	4	Lipoatrophic diabetes mellitus without complication	1.13E+14	0	0	1
+1162	a5549771000006119	4	DTSQ - Diabetes treatment satisfaction questionnaire	273412002	0	0	1
+1163	a7741101000006113	4	Diabetic embryopathy	716020005	0	0	1
+1164	a7966691000006116	4	Chronic kidney disease stage 3 due to type 2 diabetes mellitus	7.31E+11	0	1	0
+1165	a2575261000006118	4	Maternal diabetes mellitus with hypoglycaemia affecting foetus OR newborn	4783006	0	0	1
+1166	a2451551000000117	4	Diabetes education care plan	9.62E+14	0	0	1
+1167	a7481691000006114	4	Complication associated with insulin pump	473033004	0	0	1
+1168	a12085891000006118	4	Clinically significant macular oedema of right eye co-occurrent and due to diabetes mellitus	769221001	0	0	1
+1169	a4071011000006119	3	Insulin human	96367001	0	0	1
+1170	a2576431000006117	3	DR - Diabetic retinopathy	4855003	0	0	1
+1171	a14091771000006115	3	Disorder of eye due to type 1 diabetes mellitus	739681000	1	0	0
+1172	a6022761000006118	3	Proliferative diabetic retinopathy - quiescent	312908007	0	0	1
+1173	a6959811000006110	3	Diabetes type 2 with cataract	420756003	0	1	0
+1174	a14083791000006117	3	Coma due to diabetes mellitus	420662003	0	0	1
+1175	a5128771000006115	3	Diabetic rubeosis	238984005	0	0	1
+1176	a14084021000006119	3	Renal disorder due to type 1 diabetes mellitus	421893009	1	0	0
+1177	a3136191000006114	3	Administration of insulin	39543009	0	0	1
+1178	a4392201000006111	3	Diabetic peripheral vascular disease	127014009	0	0	1
+1179	a5987801000006113	3	Diabetologist	309350005	0	0	1
+1180	a13833601000006113	3	Hyperosmolar coma due to diabetes mellitus	422126006	0	0	1
+1181	a7281511000006118	3	Type 2 diabetes mellitus uncontrolled	443694000	0	1	0
+1182	a8044181000006113	3	Ulcer of toe due to type 2 diabetes mellitus	1.40E+14	0	1	0
+1183	a12085931000006110	3	Clinically significant macular oedema of left eye co-occurrent and due to diabetes mellitus	769222008	0	0	1
+1184	a5127801000006119	3	Insulin lipoatrophy	238901000	0	0	1
+1185	a6761861000006114	3	On examination - right eye proliferative diabetic retinopathy	408413000	0	0	1
+1186	a6761821000006115	3	On examination - right eye preproliferative diabetic retinopathy	408411003	0	0	1
+1187	a84751000006116	3	Type I diabetes mellitus with neurological complications	421468001	1	0	0
+1188	a84911000006119	3	Type II diabetes mellitus with multiple complications	190388001	0	1	0
+1189	a84391000006111	3	Type 1 diabetes mellitus with neuropathic arthropathy	7.18E+13	1	0	0
+1190	a6630631000006111	3	Diabetic intraretinal microvascular anomaly	399868002	0	0	1
+1191	a292612014	3	Malnutrition-related diabetes mellitus without complications	190412005	0	0	1
+1192	a12085731000006113	3	Diabetic macular edema of right eye	769217008	0	0	1
+1193	a1858831000006115	3	AURAS-AF - more time needed to decide on diabetes status	1.86E+15	0	0	1
+1194	a772141000006118	3	Insulin dependent diab mell with peripheral angiopathy	421895002	0	0	1
+1195	a1567721000006116	3	Adverse reaction to Insulin Human (Inhaled)	1.57E+15	0	0	1
+1196	a14071371000006113	3	Advanced maculopathy due to diabetes mellitus	193350004	0	0	1
+1197	a8044221000006116	3	Ischaemic foot ulcer due to type 2 diabetes mellitus	1.41E+14	0	1	0
+1198	a1094311000006115	3	Adverse reaction to Diabetamide	1.09E+15	0	0	1
+1199	a12078941000006116	3	Diabetic cataract of left eye	768793002	0	0	1
+1200	a14078401000006119	3	Arthropathy due to type 2 diabetes mellitus	314903002	0	1	0
+1201	a913491000006111	3	Type I diabetes mellitus with ophthalmic complications	739681000	1	0	0
+1202	a3209431000006116	3	Diabetes mellitus type II	44054006	0	1	0
+1203	a7305321000006114	3	Posttransplant diabetes mellitus	445260006	0	0	1
+1204	a7963261000006115	3	Wolfram-like syndrome	734022008	0	0	1
+1205	a13953411000006118	3	At low risk of ulcer of right foot due to diabetes mellitus	863879002	0	0	1
+1206	a13790071000006114	3	Neuropathic arthropathy due to diabetes mellitus	201724008	0	0	1
+1207	a5231271000006117	3	Insulin used	246491008	0	0	1
+1208	a8027391000006115	3	Chronic kidney disease stage 1 due to type 1 diabetes mellitus	9.07E+13	1	0	0
+1209	a3748251000006115	3	"Diabetes mellitus in mother complicating pregnancy, childbirth AND/OR puerperium"	76751001	0	0	1
+1210	a6546261000006110	3	On examination - Right diabetic foot at high risk	394672002	0	0	1
+1211	a6546341000006116	3	On examination - Left diabetic foot at high risk	394676004	0	0	1
+1212	a14056961000006112	3	Ketoacidotic coma due to diabetes mellitus	26298008	0	0	1
+1213	a14079871000006119	3	Hyperosmolar non-ketotic state due to type 2 diabetes mellitus	395204000	0	1	0
+1214	a7809981000006113	3	Insulin declined	720971004	0	0	1
+1215	a7861571000006116	3	Radiculoplexoneuropathy due to diabetes mellitus	724810001	0	0	1
+1216	a14918961000006111	3	Uses continuous subcutaneous automated insulin delivery system	1.52E+15	0	0	1
+1217	a1841451000006115	3	Diabetic foot screening invitation	1.84E+15	0	0	1
+1218	a14308961000006115	3	Paediatric diabetes care plan	1.36E+15	0	0	1
+1219	a12702381000006118	3	Diabetic oculopathy due to type I diabetes mellitus	739681000	1	0	0
+1220	a6866541000006117	3	On examination - left eye stable treated proliferative diabetic retinopathy	414894003	0	0	1
+1221	a12085251000006113	3	Severe nonproliferative diabetic retinopathy of right eye	769187006	0	0	1
+1222	a6630571000006110	3	Diabetic macular edema not clinically significant	399864000	0	0	1
+1223	a719571000006115	3	Malnutrition-related diabetes mellitus with renal complications	190407009	0	0	1
+1224	a12085791000006112	3	Diabetic macular edema of left eye	769218003	0	0	1
+1225	a6670981000006118	3	Diabetic wet gangrene of the foot	402864004	0	0	1
+1226	a8259001000006114	3	Self management of diabetes	8.07E+14	0	0	1
+1227	a396661000006115	3	Malnutrition-related diabetes mellitus with multiple complications	190411003	0	0	1
+1228	a1025241000006118	3	Adverse reaction to Insulin Aspart	1.03E+15	0	0	1
+1229	a12102571000006117	3	Clinically significant macular oedema with diabetes mellitus	770097006	0	0	1
+1230	a14083991000006115	3	Ketoacidosis due to type 2 diabetes mellitus	421750000	0	1	0
+1231	a7811801000006113	2	"Developmental delay, epilepsy, neonatal diabetes syndrome"	721088003	0	0	1
+1232	a7968821000006118	2	Diabetic vitreous haemorrhage associated with type II diabetes mellitus	1.49E+12	0	1	0
+1233	a8119451000006114	2	Hyperglycaemia due to type 2 diabetes mellitus	3.68E+14	0	1	0
+1234	a8120381000006111	2	Neuropathy due to type 2 diabetes mellitus	3.69E+14	0	1	0
+1235	a6022841000006112	2	Diabetic vitreous hemorrhage	312910009	0	0	1
+1236	a8044061000006119	2	Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus	1.40E+14	0	1	0
+1237	a7700041000006112	2	Assessment of diabetic foot ulcer	713130008	0	0	1
+1238	a8037841000006115	2	Hypoglycaemia due to type 2 diabetes mellitus	1.21E+14	0	1	0
+1239	a8034861000006113	2	Leg ulcer due to type 2 diabetes mellitus	1.10E+14	0	1	0
+1240	a1093131000006110	2	Adverse reaction to Isophane Insulin (Human Pyr)	1.09E+15	0	0	1
+1241	a8099151000006112	2	Did not complete DAFNE (dose adjustment for normal eating) diabetes structured education programme	3.07E+14	0	0	1
+1242	a8027451000006119	2	Chronic kidney disease stage 3 due to type 1 diabetes mellitus	9.07E+13	1	0	0
+1243	a1136831000006111	2	Adverse reaction to Re-usable insulin injection device	1.14E+15	0	0	1
+1244	a8284551000006114	2	Assessment of diabetic ulcer of lower limb	8.44E+14	0	0	1
+1245	a1099881000006117	2	Adverse reaction to Isophane Insulin (Human)	1.10E+15	0	0	1
+1246	a1132291000006113	2	"Adverse reaction to Soluble Insulin (Bovine, highly purified)"	1.13E+15	0	0	1
+1247	a1135841000006113	2	Adverse reaction to Insulin Glulisine	1.14E+15	0	0	1
+1248	a1127141000006114	2	"Adverse reaction to Insulin (Zinc Suspension, Bovine)"	1.13E+15	0	0	1
+1249	a1140931000006117	2	Adverse reaction to Insulin Isophane Porcine	1.14E+15	0	0	1
+1250	a1124301000006115	2	"Adverse reaction to Human Soluble Insulin, Prb"	1.12E+15	0	0	1
+1251	a1120491000006114	2	Adverse reaction to Insulin Zinc Solution	1.12E+15	0	0	1
+1252	a3292081000006115	2	Bullosis diabeticorum	48951005	0	0	1
+1253	a2444761000000113	2	Paediatric diabetic medicine care plan	9.59E+14	0	0	1
+1254	a1934931000006112	2	Adverse reaction to Allpresan Diabetic	1.93E+15	0	0	1
+1255	a14811191000006115	2	Diabetes Distress Scale 17 item Emotional Burden score	1.37E+15	0	0	1
+1256	a958321000006115	2	DHDS pilot project outcome - new diagnosis Diabetes	9.58E+14	0	0	1
+1257	a3511972010	2	Diabetic education service	734920002	0	0	1
+1258	a14084111000006114	2	Peripheral circulatory disorder due to type 2 diabetes mellitus	422166005	0	1	0
+1259	a4758011000006112	2	Type 2 diabetes mellitus with hyperosmolar coma	190331003	0	1	0
+1260	a14181911000006117	2	Bilateral nonproliferative retinopathy due to diabetes mellitus type 2	1.67E+16	0	1	0
+1261	a84331000006112	2	Type 1 diabetes mellitus with gangrene	420825003	1	0	0
+1262	a84861000006112	2	Type II diabetes mellitus with arthropathy	314903002	0	1	0
+1263	a84781000006112	2	Type I diabetes mellitus with peripheral angiopathy	3.12E+13	1	0	0
+1264	a14811251000006118	2	Diabetes Distress Scale 17 item Interpersonal Distress score	1.37E+15	0	0	1
+1265	a14811231000006113	2	Diabetes Distress Scale 17 item Regimen Distress score	1.37E+15	0	0	1
+1266	a14811211000006119	2	Diabetes Distress Scale 17 item Physician Distress score	1.37E+15	0	0	1
+1267	a189701000000116	2	Insulin autoimmune syndrome without complication	408539000	0	0	1
+1268	a14728721000006117	2	Neovascular glaucoma due to diabetes mellitus type 2	1196922005	0	1	0
+1269	a1977131000006118	2	Adverse reaction to Insulin Human	1.98E+15	0	0	1
+1270	a3514795011	2	Hyperosmolar hyperglycaemic coma due to diabetes mellitus without ketoacidosis	735537007	0	0	1
+1271	a5109461000006115	2	Diabetes type 2 on insulin	237599002	0	1	0
+1272	a5128751000006113	2	Diabetic thick skin syndrome	238983004	0	0	1
+1273	a5030771000006114	2	Diabetic traction retinal detachment	232023006	0	0	1
+1274	a356110010	2	"Megaloblastic anaemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness"	237617006	0	0	1
+1275	a354671000006113	2	[X] Adverse reaction to insulins and antidiabetic agents NOS	430400006	0	0	1
+1276	a1031051000006113	2	Adverse reaction to Protamine Zinc Bovine Insulin	1.03E+15	0	0	1
+1277	a1841481000006111	2	Diabetic foot screening invitation second letter	1.84E+15	0	0	1
+1278	a1853141000006111	2	In-house diabetes foot screening	1.85E+15	0	0	1
+1279	a1999901000006113	2	Adverse reaction to Glucorx Allpresan Diabetic	2.00E+15	0	0	1
+1280	a13966641000006115	2	Newly diagnosed diabetes mellitus type 1	870528001	1	0	0
+1281	a7968881000006119	2	Proliferative diabetic retinopathy due to type 2 diabetes mellitus	1.50E+12	0	1	0
+1282	a3634971000006115	2	Insulin pump	69805005	0	0	1
+1283	a4392131000006114	2	Diabetic sensory polyneuropathy	127011001	0	0	1
+1284	a8428511000006111	2	Seen in community diabetes antenatal clinic	1.05E+15	0	0	1
+1285	a6041431000006111	2	Mixed diabetic maculopathy	314015001	0	0	1
+1286	a6866781000006116	2	On examination - right chronic diabetic foot ulcer	414906009	0	0	1
+1287	a8098311000006115	2	DAFNE (dose adjustment for normal eating) diabetes structured education programme completed	3.06E+14	0	0	1
+1288	a6969931000006116	2	Diabetes type 2 with neurological disorder	421326000	0	1	0
+1289	a6977421000006110	2	Ketoacidosis in type II diabetes mellitus	421750000	0	1	0
+1290	a6953871000006115	2	Ketoacidosis in diabetes mellitus	420422005	1	0	0
+1291	a6953891000006119	2	Diabetic acidosis	420422005	0	0	1
+1292	a6985411000006117	2	Diabetic skin ulcer	422183001	0	0	1
+1293	a6022871000006116	2	Clinically significant diabetic macular oedema	312911008	0	0	1
+1294	a8352721000006117	2	Diabetic medicine service	9.63E+14	0	0	1
+1295	a14083831000006112	2	Retinopathy due to type 1 diabetes mellitus	420789003	1	0	0
+1296	a14083941000006112	2	Disorder of nervous system due to type 1 diabetes mellitus	421468001	1	0	0
+1297	a14128861000006110	2	No evidence of diabetic nephropathy	874908001	0	0	1
+1298	a14077861000006116	2	Focal exudative maculopathy due to diabetes mellitus	314011005	0	0	1
+1299	a12705071000006113	2	Gastroparesis due to type 1 diabetes mellitus	713702000	1	0	0
+1300	a14083931000006119	2	Hypoglycaemic coma due to type 1 diabetes mellitus	421437000	1	0	0
+1301	a12085071000006114	2	Mild nonproliferative diabetic retinopathy of right eye	769183005	0	0	1
+1302	a5809871000006117	2	Insulin allergy	294714000	0	0	1
+1303	a14083771000006118	2	Exudative maculopathy due to type 1 diabetes mellitus	420486006	1	0	0
+1304	a12085211000006112	2	Moderate nonproliferative diabetic retinopathy of left eye	769186002	0	0	1
+1305	a12224761000006115	2	Severe NPDR (nonproliferative diabetic retinopathy)	312905005	0	0	1
+1306	a14073061000006116	2	Abnormal metabolic state due to diabetes mellitus	237620003	0	0	1
+1307	a4383621000006112	2	Diabetic mixed sensory-motor polyneuropathy	126534007	0	0	1
+1308	a8084961000006111	2	Diabetes type II review	2.79E+14	0	1	0
+1309	a8440231000006115	2	Eating disorder co-occurrent with diabetes mellitus type 1	1.07E+15	1	0	0
+1310	a96244016	2	Protein-deficient diabetes mellitus	57886004	0	0	1
+1311	a913941000006114	2	Peripheral angiopathy due to type 1 diabetes mellitus	3.12E+13	1	0	0
+1312	a6443801000006114	2	Insulin administration assessment	385792008	0	0	1
+1313	a6444101000006119	2	Diabetic care management	385806006	0	0	1
+1314	a913521000006113	2	Neurological disorder with type 1 diabetes mellitus	421468001	1	0	0
+1315	a2575271000006113	2	Maternal diabetes mellitus with hypoglycemia affecting fetus OR newborn	4783006	0	0	1
+1316	a2609971000000114	2	Referred by Diabetes UK roadshow clinician	1.03E+15	0	0	1
+1317	a719561000006110	2	Malnutrition-related diabetes mellitus with multiple comps	190411003	0	0	1
+1318	a2900951000006115	2	Diabetic eye disease	25093002	0	0	1
+1319	a7306751000006110	2	Brittle type 2 diabetes mellitus	445353002	0	1	0
+1320	a5976641000006118	2	Admission to diabetic department	308253000	0	0	1
+1321	a8044171000006110	2	Neuropathic toe ulcer due to type 2 diabetes mellitus	1.40E+14	0	1	0
+1322	a7318191000006115	2	Change in insulin dose	446047003	0	0	1
+1323	a14057821000006112	2	Radiculoplexus neuropathy due to diabetes mellitus	39181008	0	0	1
+1324	a7812131000006119	2	Diabetic retinopathy absent	721103006	0	0	1
+1325	a7968751000006116	2	Diabetes mellitus type 2 without retinopathy	1.48E+12	0	1	0
+1326	a3938481000006117	2	Impaired glucose tolerance associated with insulin receptor abnormality	88512005	0	0	1
+1327	a7966931000006114	2	Angina associated with type 2 diabetes mellitus	7.91E+11	0	1	0
+1328	a7966611000006114	2	Chronic kidney disease stage 5 due to type 2 diabetes mellitus	7.11E+11	0	1	0
+1329	a8120401000006111	2	Hyperosmolar coma due to secondary diabetes mellitus	3.69E+14	0	1	0
+1330	a14072611000006117	2	Proliferative retinopathy with neovascularisation elsewhere than the optic disc due to diabetes mellitus	232022001	0	0	1
+1331	a3039941000006118	2	Pineal hyperplasia AND diabetes mellitus syndrome	33559001	0	0	1
+1332	a6515471000006118	2	On examination - diabetic maculopathy absent both eyes	390855002	0	0	1
+1333	a719471000006119	1	Malnutrit-related diabetes mellitus with unspec complics	190411003	0	0	1
+1334	a7966791000006111	1	Chronic kidney disease stage 1 due to type 2 diabetes mellitus	7.51E+11	0	1	0
+1335	a7863801000006113	1	Lumbosacral plexopathy co-occurrent and due to diabetes mellitus	724997001	0	0	1
+1336	a7288191000006110	1	Type 2 diabetes mellitus well controlled	444110003	0	1	0
+1337	a7500351000006110	1	Renal cysts and diabetes syndrome	609572000	0	0	1
+1338	a719481000006116	1	Malnutrit-related diabetes mellitus wth ophthalmic complicat	421256007	0	0	1
+1339	a719591000006119	1	Malnutrition-related diabetes mellitus wth neuro complicatns	420683009	0	0	1
+1340	a720311000006119	1	Malnutrit-relat diabetes mellitus with other spec comps	190411003	0	0	1
+1341	a7966761000006115	1	Chronic kidney disease stage 2 due to type 2 diabetes mellitus	7.41E+11	0	1	0
+1342	a933231000006118	1	Hypo states in diabetes	6.58E+14	0	0	1
+1343	a7966571000006116	1	Mixed hyperlipidaemia associated with type II diabetes mellitus	7.01E+11	0	1	0
+1344	a7708081000006116	1	Gastroparesis due to diabetes mellitus	713704004	0	0	1
+1345	a8024771000006113	1	Rubeosis iridis due to type 1 diabetes mellitus	8.26E+13	1	0	0
+1346	a8012071000006112	1	Type II diabetes on insulin	2.45E+13	0	1	0
+1347	a8035211000006110	1	Dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus	1.11E+14	0	1	0
+1348	a8033291000006116	1	Pre-existing diabetes mellitus in mother complicating childbirth	1.06E+14	0	0	1
+1349	a8026041000006113	1	Forefoot ulcer due to type 2 diabetes mellitus	8.75E+13	0	1	0
+1350	a8027491000006113	1	Chronic kidney disease stage 5 due to type 1 diabetes mellitus	9.08E+13	1	0	0
+1351	a7969001000006112	1	Foot ulcer due to type 2 diabetes mellitus	1.52E+12	0	1	0
+1352	a7613941000006113	1	Diabetic glomerulosclerosis	707221002	0	0	1
+1353	a7809991000006111	1	Insulin refused	720971004	0	0	1
+1354	a7804621000006115	1	Not suitable for DESMOND (Diabetes Education and Self Management for Ongoing and Newly Diagnosed) program	720504004	0	0	1
+1355	a7708051000006112	1	Gastroparesis due to diabetes mellitus type I	713702000	0	0	1
+1356	a913821000006111	1	Type I diabetes mellitus with polyneuropathy	713705003	1	0	0
+1357	a6546281000006117	1	On examination - Right diabetic foot - ulcerated	394673007	0	0	1
+1358	a913911000006110	1	Type I diabetes mellitus with diabetic cataract	421920002	1	0	0
+1359	a3516393017	1	Insulin infusion rate	736101003	0	0	1
+1360	a913791000006119	1	Type I diabetes mellitus with mononeuropathy	420918009	1	0	0
+1361	a1132361000006110	1	"Adverse reaction to Insulin zinc suspension (human, prb)"	1.13E+15	0	0	1
+1362	a3636752017	1	Acute complication co-occurrent and due to diabetes mellitus	762489000	0	0	1
+1363	a3513752015	1	Absence of lower limb due to diabetes mellitus	735200002	0	0	1
+1364	a5981421000006112	1	Insulin injection	308755006	0	0	1
+1365	a84791000006110	1	Polyneuropathy due to diabetes mellitus type I	713705003	0	0	1
+1366	a84681000006118	1	Type I diabetes mellitus with arthropathy	314893005	1	0	0
+1367	a498512013	1	Genetic syndromes of diabetes mellitus	5969009	0	0	1
+1368	a1013681000006117	1	Adverse reaction to Short-Acting Insulin Preparations	1.01E+15	0	0	1
+1369	a1020731000006114	1	Adverse reaction to Insulin Zinc Suspension Lente (Evans)	1.02E+15	0	0	1
+1370	a1048331000006114	1	Adverse reaction to Insulin Glulisine	1.05E+15	0	0	1
+1371	a1039391000006117	1	"Adverse reaction to U100 Insulin Sterile, Single Use"	1.04E+15	0	0	1
+1372	a1132371000006115	1	Adverse reaction to Insulin zinc suspension (bovine and porcine)	1.13E+15	0	0	1
+1373	a1133641000006111	1	Adverse reaction to Porcine Neutral Insulin	1.13E+15	0	0	1
+1374	a1099341000006117	1	Adverse reaction to Insulin Zinc Suspension	1.10E+15	0	0	1
+1375	a1128051000006111	1	Adverse reaction to U 100 Insulin Syringe	1.13E+15	0	0	1
+1376	a1131211000006113	1	Adverse reaction to Insulin zinc suspension mixed bovine	1.13E+15	0	0	1
+1377	a1128561000006115	1	Adverse reaction to Insulin Lispro Protamine Suspension	1.13E+15	0	0	1
+1378	a1137501000006119	1	Adverse reaction to Human Neutral Soluble Insulin	1.14E+15	0	0	1
+1379	a1137491000006110	1	Adverse reaction to Biphasic Isophane Insulin (Human)	1.14E+15	0	0	1
+1380	a1118121000006110	1	"Adverse reaction to Isophane insulin (human, crb)"	1.12E+15	0	0	1
+1381	a1119321000006119	1	Adverse reaction to Insulin Soluble Aspart	1.12E+15	0	0	1
+1382	a1140951000006112	1	Adverse reaction to Insulin Isophane Bovine	1.14E+15	0	0	1
+1383	a1140501000006116	1	Adverse reaction to Soluble Insulin	1.14E+15	0	0	1
+1384	a1067271000006114	1	Adverse reaction to Human Initard 50/50 Insulin	1.07E+15	0	0	1
+1385	a1063651000006112	1	"Adverse reaction to Isophane Insulin (Human, Prb)"	1.06E+15	0	0	1
+1386	a5997431000006115	1	Diabetic liaison nurse	310185003	0	0	1
+1387	a8099301000006111	1	Did not attend DAFNE (dose adjustment for normal eating) diabetes structured education programme	3.07E+14	0	0	1
+1388	a6961081000006118	1	Gangrene associated with type 1 diabetes mellitus	420825003	1	0	0
+1389	a11931121000006112	1	Diabetes Distress Scale 17 item	9.09E+14	0	0	1
+1390	a14077381000006115	1	Hyperosmolar non-ketotic state due to diabetes mellitus	310505005	0	0	1
+1391	a14072621000006113	1	Traction detachment of retina due to diabetes mellitus	232023006	0	0	1
+1392	a14015311000006110	1	Coronary artery disease due to type 2 diabetes mellitus	1.69E+16	0	1	0
+1393	a14071211000006113	1	Multiple complications due to type 2 diabetes mellitus	190388001	0	1	0
+1394	a13810171000006113	1	Vitreous haemorrhage due to diabetes mellitus	312910009	0	0	1
+1395	a13947541000006114	1	Administration of insulin using insulin pump	846663002	0	0	1
+1396	a13953211000006119	1	Ulcer of left foot due to diabetes mellitus	860978005	0	0	1
+1397	a13953421000006114	1	At low risk of ulcer of left foot due to diabetes mellitus	863880004	0	0	1
+1398	a12085121000006114	1	Mild nonproliferative diabetic retinopathy of left eye	769184004	0	0	1
+1399	a12085291000006119	1	Severe nonproliferative diabetic retinopathy of left eye	769188001	0	0	1
+1400	a12166111000006116	1	Retinopathy due to diabetes mellitus	4855003	0	0	1
+1401	a12010081000006119	1	Provision of patient held diabetes record declined	763782001	0	0	1
+1402	a6888611000006119	1	Diabetic record status	416193009	0	0	1
+1403	a12704991000006114	1	Ketoacidotic coma in type 2 diabetes mellitus	421847006	0	1	0
+1404	a12704401000006110	1	Diabetic oculopathy	25093002	0	0	1
+1405	a12703741000006118	1	Adverse reaction to antidiabetic drug	430400006	0	0	1
+1406	a12224911000006115	1	Focal exudative diabetic maculopathy	314011005	0	0	1
+1407	a12363701000006117	1	Gastroparesis with diabetes mellitus	713704004	0	0	1
+1408	a5009561000006114	1	Diabetic chronic painful polyneuropathy	230575000	0	0	1
+1409	a4771421000006116	1	PPDR - Preproliferative diabetic retinopathy	193349004	0	0	1
+1410	a4938901000006116	1	Sliding scale insulin regime	225301004	0	0	1
+1412	a3459801000006118	1	Diabetes mellitus associated with hormonal aetiology	59079001	0	0	1
+1413	a396671000006110	1	[X]Malnutrit-related diabetes mellitus with unspec complics	190411003	0	0	1
+1414	a14090011000006118	1	Hypoglycaemic coma due to type 2 diabetes mellitus	719216001	0	1	0
+1415	a13966631000006113	1	Newly diagnosed type 1 diabetes mellitus	870528001	1	0	0
+1416	a8241711000006112	1	Discussion about changing insulin requirement in pregnancy	7.75E+14	0	0	1
+1417	a8239411000006115	1	Active insulin time	7.68E+14	0	0	1
+1418	a7065531000006115	1	Latent autoimmune diabetes mellitus in adult (LADA)	426875007	0	0	1
+1419	a6630821000006112	1	Non-high-risk proliferative diabetic retinopathy with clinically significant macular oedema	399875001	0	0	1
+1420	a6630851000006115	1	Very severe nonproliferative diabetic retinopathy	399876000	0	0	1
+1421	a6630751000006114	1	Severe nonproliferative diabetic retinopathy with no macular oedema	399873008	0	0	1
+1422	a6630721000006117	1	Severe nonproliferative diabetic retinopathy with clinically significant macular oedema	399872003	0	0	1
+1423	a6630661000006119	1	Non-high-risk proliferative diabetic retinopathy with no macular oedema	399870006	0	0	1
+1424	a6630591000006111	1	Diabetic retinal venous beading	399866003	0	0	1
+1425	a6630481000006114	1	Proliferative diabetic retinopathy - high risk with no macular oedema	399862001	0	0	1
+1426	a6837961000006116	1	Panretinal photocoagulation for diabetes	413180006	0	0	1
+1427	a6823401000006118	1	Insulin lispro	412210000	0	0	1
+1428	a6761841000006110	1	On examination - left eye preproliferative diabetic retinopathy	408412005	0	0	1
+1429	a6761881000006116	1	On examination - left eye proliferative diabetic retinopathy	408414006	0	0	1
+1430	a1088671000006113	1	"Adverse reaction to Isophane Insulin (Bovine, Highly Purified)"	1.09E+15	0	0	1
+1431	a1144371000006112	1	Adverse reaction to Insulin Zinc Suspension(Crystalline)	1.14E+15	0	0	1
+1432	a1137821000006110	1	Adverse reaction to Human Neutral Isophane Insulin	1.14E+15	0	0	1
+1433	a3527174019	1	Diabetes mellitus caused by chemical	737212004	0	0	1
+1434	a2649991000006110	1	Latent diabetes	9414007	0	0	1
+1435	a8428501000006113	1	Seen in diabetes preconception counselling clinic	1.05E+15	0	0	1
+1436	a11633221000006116	1	ADM - atypical diabetes mellitus	5.31E+17	0	0	1
+1437	a9313441000006115	1	Diabetes type 2 with diabetic ulcer of left foot	1.07E+16	0	1	0
+1438	a8119331000006114	1	Hyperglycaemia due to type 1 diabetes mellitus	3.68E+14	1	0	0
+1439	a8098281000006117	1	Attended DAFNE (dose adjustment for normal eating) diabetes structured education programme	3.06E+14	0	0	1
+1440	a8077141000006113	1	Proteinuria due to type 1 diabetes mellitus	2.43E+14	1	0	0
+1441	a306114012	1	Pre-existing malnutrition-related diabetes mellitus	199231005	0	0	1
+1442	a14181961000006119	1	Bilateral proliferative retinopathy due to diabetes mellitus type 2	1.67E+16	0	1	0
+1443	a1955171000006110	1	Keele ENHANCE trial - diabetic review	1.96E+15	0	0	1
+1444	a3102571000006114	1	Diabetic urine	37398008	0	0	1
+1445	a14920201000006110	1	Replacement of continuous subcutaneous insulin patch pump	1.60E+15	0	0	1
+1446	a14083761000006113	1	Mononeuropathy due to type 2 diabetes mellitus	420436000	0	1	0
+1447	a14920111000006119	1	Diabetic digital retinal screening image quality of left eye inadequate for grading	1.60E+15	0	0	1
+1448	a14691571000006118	1	T1-DDS (Type 1 Diabetes Distress Scale) total score	1.37E+15	1	0	0
+1449	a14920061000006115	1	Diabetic digital retinal screening image quality inadequate for grading	1.60E+15	0	0	1
+1450	a14077741000006110	1	Quiescent proliferative retinopathy due to diabetes mellitus	312908007	0	0	1
+1451	a14918541000006116	1	Mean total daily basal insulin dose	1.52E+15	0	0	1
+1452	a13810021000006111	1	Glomerulopathy due to diabetes mellitus	309426007	0	0	1
+1453	a12224771000006110	1	Vitreous haemorrhage with diabetes mellitus	312910009	0	0	1
+1454	a12218471000006119	1	Mixed sensorimotor polyneuropathy co-occurrent and due to diabetes mellitus	126534007	0	0	1
+1455	a12180901000006116	1	DRPN - diabetic radiculoplexus neuropathy	39181008	0	0	1
+1456	a3115111000006117	1	Diarrhoea in diabetes	38205001	0	0	1
+1457	a14083881000006113	1	Ketoacidotic coma due to type 1 diabetes mellitus	421075007	1	0	0
+1458	a12370381000006111	1	Peripheral neuropathy with type 2 diabetes	1.51E+12	0	1	0
+1459	a14917951000006110	1	DSMQ (Diabetes Self Management Questionnaire) Cooperation with diabetes team score	1.46E+15	0	0	1
+1460	a14918101000006113	1	Diabetes Self Management Questionnaire Medication Taking score	1.47E+15	0	0	1
+1461	a13965721000006114	1	Severe nonproliferative diabetic retinopathy with venous beading	870420005	0	0	1
+1462	a9313421000006110	1	Diabetic ulcer of left foot due to diabetes mellitus type 2	1.07E+16	0	1	0
+1463	a3050291000006112	1	Adult diabetes diet	34170007	0	0	1
+1464	a13973601000006116	1	Centrally involved macular oedema due to diabetes mellitus	871778008	0	0	1
+1465	a14918941000006112	1	Insulin priming dose	1.52E+15	0	0	1
+1466	a13947531000006116	1	Education about administration of insulin using insulin pump	846662007	0	0	1
+1467	a12078921000006111	1	Diabetic cataract of right eye	768792007	0	0	1
+1468	a12102611000006110	1	Clinically significant macular oedema due to diabetes mellitus	770097006	0	0	1
+1469	a14691581000006115	1	Assessment using Type 1 Diabetes Distress Scale	1.37E+15	1	0	0
+1470	a14077851000006118	1	Diffuse exudative maculopathy due to diabetes mellitus	314010006	0	0	1
+1471	a2493341000000118	1	Young Townson FootSkin Scale for Diabetic Neuropathy	9.80E+14	0	0	1
+1472	a8030601000006119	1	Macular oedema and retinopathy due to type 2 diabetes mellitus	9.73E+13	0	1	0
+1473	a8284561000006111	1	Assessment of diabetic ulcer of lower leg	8.44E+14	0	0	1
+1474	a8014501000006115	1	Diabetes mellitus type 1 without retinopathy	3.13E+13	1	0	0
+1475	a8022481000006112	1	Peripheral neuropathy due to type 1 diabetes mellitus	7.18E+13	1	0	0
+1476	a8019521000006112	1	Nonproliferative diabetic retinopathy due to type 1 diabetes mellitus	6.10E+13	1	0	0
+1477	a8019531000006110	1	Proliferative retinopathy due to type 1 diabetes mellitus	6.10E+13	1	0	0
+1478	a14174321000006116	1	Chronic kidney disease stage 5 due to drug induced diabetes mellitus	3.68E+14	0	0	1
+1479	a14174261000006117	1	Nephropathy due to drug induced diabetes mellitus	3.68E+14	0	0	1
+1480	a8050101000006114	1	Type 2 diabetes mellitus controlled by diet	1.65E+14	0	1	0
+1481	a8044011000006117	1	Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus	1.40E+14	0	1	0
+1482	a8044041000006118	1	Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus	1.40E+14	0	1	0
+1483	a8026031000006115	1	Heel AND/OR midfoot ulcer due to type 2 diabetes mellitus	8.75E+13	0	1	0
+1484	a8026061000006112	1	Heel AND/OR midfoot ulcer due to type 1 diabetes mellitus	8.75E+13	1	0	0
+1485	a14920381000006111	1	Automated predictive low glucose suspend of insulin delivery using sensor augmented insulin pump device	1.60E+15	0	0	1
+1486	a8027411000006115	1	Chronic kidney disease stage 2 due to type 1 diabetes mellitus	9.07E+13	1	0	0
+1487	a14757801000006116	1	Fulminant type 1 diabetes mellitus	1217068008	1	0	0
+1488	a7968951000006118	1	Diabetic peripheral neuropathy associated with type II diabetes mellitus	1.51E+12	0	1	0
+1489	a7969151000006110	1	Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus	1.55E+12	0	1	0
+1490	a7979721000006113	1	Diabetic foot exam not done	4.55E+12	0	0	1
+1491	a14811151000006114	1	Assessment using diabetes management self-efficacy scale United Kingdom 15-item	1.37E+15	0	0	1
+1492	a14181871000006115	1	Severe nonproliferative diabetic retinopathy of bilateral eyes due to diabetes mellitus type 1	1.67E+16	1	0	0
+1493	a14182011000006110	1	Bilateral proliferative retinopathy of eyes due to diabetes mellitus type 1	1.67E+16	1	0	0
+1494	a8107641000006119	1	Advised to contact diabetic liaison nurse	3.36E+14	0	0	1
+1495	a14094571000006111	1	Neuropathic arthropathy due to type 2 diabetes mellitus	7.81E+11	0	1	0
+1496	a14072481000006114	1	Chronic painful polyneuropathy due to diabetes mellitus	230575000	0	0	1
+1497	a12085031000006111	1	Preproliferative retinopathy of right eye co-occurrent and due to diabetes mellitus	769181007	0	0	1
+1498	a12085271000006115	1	Severe nonproliferative retinopathy of right eye due to diabetes mellitus	769187006	0	0	1
+1499	a12085281000006117	1	Severe NPDR (nonproliferative diabetic retinopathy) of right eye	769187006	0	0	1
+1500	a1713371000006112	1	Diabetic medicine	1.71E+15	0	0	1
+1501	a6515451000006111	1	On examination - diabetic maculopathy present both eyes	390854003	0	0	1
+1502	a6630641000006118	1	High risk proliferative diabetic retinopathy not amenable to photocoagulation	399869005	0	0	1
+1503	a6630671000006114	1	Non-high-risk proliferative diabetic retinopathy with no macular edema	399870006	0	0	1
+1504	a6630801000006119	1	Proliferative diabetic retinopathy - high risk with clinically significant macular edema	399874002	0	0	1
+1505	a6443841000006111	1	Insulin administration management	385794009	0	0	1
+1506	a6977431000006113	1	Diabetes type 2 with ketoacidosis	421750000	0	1	0
+1507	a6954991000006112	1	Exudative maculopathy associated with type I diabetes mellitus	420486006	1	0	0
+1508	a7069481000006115	1	Small vessel disease due to type 2 diabetes mellitus	427134009	0	1	0
+1509	a7081131000006113	1	Diabetic ophthalmoplegia	427943001	0	0	1
+1510	a6811591000006115	1	Short-acting insulin	411531001	0	0	1
+1511	a1824081000006117	1	Diabetes clinical pathway protocol followed	1.82E+15	0	0	1
+1512	a1697221000006119	1	Adverse reaction to Ts-A Safety Insulin	1.70E+15	0	0	1
+1513	a12085351000006119	1	Very severe nonproliferative diabetic retinopathy of right eye	769190000	0	0	1
+1514	a2867421000006114	1	Insulin dependent diabetes mellitus type 1A	23045005	1	0	0
+1515	a2867431000006112	1	Insulin dependent diabetes mellitus type IA	23045005	1	0	0
+1518	a2575281000006111	1	Maternal diabetes mellitus with hypoglycaemia affecting fetus OR newborn	4783006	0	0	1
+1519	a2683591000006110	1	Unstable diabetes mellitus	11530004	0	0	1
+1520	a2920981000006117	1	Diabetic coma	26298008	0	0	1
+1521	a3039971000006114	1	"Pineal hyperplasia, insulin-resistant diabetes mellitus and somatic abnormalities"	33559001	0	0	1
+1522	a1891061000006117	1	Participant in Diabetes Aerobic and Resistance Exercise study	1.89E+15	0	0	1
+1523	a1858811000006114	1	AURAS-AF - consider the patient to have diabetes	1.86E+15	0	0	1
+1524	a1984081000006115	1	Manchester triage - Diabetes	1.98E+15	0	0	1
+1525	a7704351000006117	1	Neovascular glaucoma due to diabetes mellitus	713457002	0	0	1
+1526	a7233161000006117	1	Initiation of first time insulin therapy	440163003	0	0	1
+1527	a7484011000006111	1	Discussion about diabetic ketoacidosis in pregnancy	473180009	0	0	1
+1528	a7500251000006116	1	Pregnancy and type 1 diabetes mellitus	609566000	1	0	0
+1529	a12085411000006113	1	Very severe NPDR (nonproliferative diabetic retinopathy) of left eye	769191001	0	0	1
+1530	a12085801000006113	1	Macular oedema due to type 1 diabetes mellitus	769219006	1	0	0
+1531	a12086321000006119	1	Maculopathy of left eye due to diabetes mellitus	769245002	0	0	1
+1532	a12086341000006114	1	Disorder of left macula co-occurrent and due to diabetes mellitus	769245002	0	0	1
+1533	a13949541000006118	1	No retinopathy of left eye due to diabetes mellitus	860706000	0	0	1
+1534	a13949731000006118	1	Bilateral maculopathy due to diabetes mellitus present	860712005	0	0	1
+1535	a5792231000006112	1	Biphasic insulin adverse reaction	293179004	0	0	1
+1536	a4808891000006119	1	Diabetic cheirarthropathy	201723002	0	0	1
+1537	a4807571000006117	1	Ischemic ulcer diabetic foot	201250006	0	0	1
+1538	a6041331000006116	1	Diffuse diabetic maculopathy	314010006	0	0	1
+1539	a6041421000006113	1	Ischemic diabetic maculopathy	314014002	0	0	1
+1540	a6050041000006115	1	Insulin dependent diabetes mellitus with hypoglycaemic coma	314771006	0	0	1
+1541	a5949691000006115	1	Referral by diabetic liaison nurse	306032006	0	0	1
+1542	a5127711000006113	1	Insulin injection pad	238894004	0	0	1
+1543	a5110101000006119	1	Hypoglycemic state in diabetes	237633009	0	0	1
+1544	a5110081000006110	1	Hypoglycemic event in diabetes	237632004	0	0	1
+1545	a5513671000006116	1	Hemoglobin A1C - diabetic control interpretation	269823000	0	0	1
+1546	a5030691000006115	1	Proliferative diabetic retinopathy with new vessels on disc	232021008	0	0	1
+1547	a5030741000006118	1	Proliferative diabetic retinopathy with new vessels elsewhere than on disc	232022001	0	0	1
+1548	a7303881000006118	1	Macroalbuminuric diabetic nephropathy	445170001	0	0	1
+1549	a7287621000006117	1	Type I diabetes mellitus uncontrolled	444073006	1	0	0
+1550	a7287641000006112	1	Type 1 diabetes mellitus well controlled	444074000	1	0	0
+1551	a7306781000006119	1	Unstable type II diabetes mellitus	445353002	0	1	0
+1552	a5942001000006110	1	Under care of diabetic liaison nurse	305561005	0	0	1

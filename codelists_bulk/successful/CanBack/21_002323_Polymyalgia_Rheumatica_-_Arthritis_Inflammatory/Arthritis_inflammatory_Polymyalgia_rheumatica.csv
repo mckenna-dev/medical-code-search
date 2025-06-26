@@ -1,0 +1,9 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+142,Arthritis_inflammatory,Polymyalgia_rheumatica,a108529013,Polymyalgia rheumatica,L1:Arthritis_inflammatory_L2:Polymyalgia_rheumatica,
+143,Arthritis_inflammatory,Polymyalgia_rheumatica,a158050019,Polymyalgia,L1:Arthritis_inflammatory_L2:Polymyalgia_rheumatica,
+144,Arthritis_inflammatory,Polymyalgia_rheumatica,a1822561000006113,Keele polymyalgia rheumatica (PMR) study,L1:Arthritis_inflammatory_L2:Polymyalgia_rheumatica,
+145,Arthritis_inflammatory,Polymyalgia_rheumatica,a1822571000006118,Keele PMR study - patient eligible,L1:Arthritis_inflammatory_L2:Polymyalgia_rheumatica,
+146,Arthritis_inflammatory,Polymyalgia_rheumatica,a1822591000006117,Keele PMR study - consent to medical record review given,L1:Arthritis_inflammatory_L2:Polymyalgia_rheumatica,
+147,Arthritis_inflammatory,Polymyalgia_rheumatica,a3562021000006111,PMR - Polymyalgia rheumatica,L1:Arthritis_inflammatory_L2:Polymyalgia_rheumatica,
+148,Arthritis_inflammatory,Polymyalgia_rheumatica,a359513016,Giant cell arteritis with polymyalgia rheumatica,L1:Arthritis_inflammatory_L2:Polymyalgia_rheumatica,
+149,Arthritis_inflammatory,Polymyalgia_rheumatica,a4056291000006112,Polymyalgia,L1:Arthritis_inflammatory_L2:Polymyalgia_rheumatica,

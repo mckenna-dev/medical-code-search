@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 667
+Columns: 1
+Column names: ['v1\tmedcode\treadcode\tclinicalevents\treadterm\tTypei\tTypeii\tunknowntype']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                   v1\tmedcode\treadcode\tclinicalevents\treadterm\tTypei\tTypeii\tunknowntype
+0  511\t50937\t"8HTe.00"\t61\t"Referral to diabetes preconception counselling clinic"\t0\t0\t1
+1                           333\t22487\t"C10N.00"\t321\t"Secondary diabetes mellitus"\t0\t0\t1
+2        718\t91164\t"ZRB4.11"\t6\t"CSQ - Diabetes clinic satisfaction questionnaire"\t0\t0\t1

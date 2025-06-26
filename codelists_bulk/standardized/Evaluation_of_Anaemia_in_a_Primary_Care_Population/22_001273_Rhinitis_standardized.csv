@@ -1,0 +1,50 @@
+med_code_id,term,snomed_ct_concept_id,observations
+142764012,Chronic rhinitis,86094006.0,1000000
+102311013,Allergic rhinitis,61582004.0,1000000
+396098013,Allergic rhinitis due to allergen,61582004.0,900000
+481104016,Allergic rhinitis due to pollens,21719001.0,600000
+66718013,Chronic sinusitis,40055000.0,500000
+224001000000114,Perennial allergic rhinitis,446096008.0,200000
+301187012,Chronic rhinitis NOS,86094006.0,100000
+396095011,Chronic catarrhal rhinitis,266342009.0,100000
+1229598015,Chronic rhinosinusitis,40055000.0,90000
+301214019,Chronic sinusitis NOS,40055000.0,80000
+59944016,Chronic maxillary sinusitis,35923002.0,40000
+301210011,Recurrent sinusitis,195788001.0,40000
+99894013,Chronic frontal sinusitis,60130002.0,10000
+301176016,Chronic simple rhinitis,195765002.0,9000
+301181013,Chronic hypertrophic rhinitis,195768000.0,7000
+14149861000006118,Chronic rhinosinusitis,897657000.0,2000
+301182018,Chronic atrophic rhinitis,195769008.0,2000
+301183011,Chronic infective rhinitis,195770009.0,2000
+121629017,Chronic ethmoidal sinusitis,73237007.0,2000
+755691000006114,Kartageners syndrome,42402006.0,1000
+961831000006111,Rhinorrhea/nasal congestion,961831000000000.0,1000
+147320013,Chronic pansinusitis,88850006.0,700
+65349012,Chronic sphenoidal sinusitis,38961000.0,400
+301211010,Other chronic sinusitis,40055000.0,400
+301825016,[X]Other chronic sinusitis,40055000.0,300
+301213013,Other chronic sinusitis NOS,40055000.0,200
+5035141000006112,Perennial allergic rhinitis with seasonal variation,232353008.0,80
+301185016,Chronic membranous rhinitis,195772001.0,80
+301184017,Chronic ulcerative rhinitis,195771008.0,40
+3549401000006110,Rhinorrhea,64531003.0,10
+5035011000006114,Rhinitis caseosa,232344001.0,10
+301186015,Chronic fibrinous rhinitis,195773006.0,10
+7965251000006116,Non-allergic rhinitis,311000000000.0,8
+3183581000006119,Kartagener syndrome,42402006.0,6
+7080681000006111,Chronic recurrent sinusitis,427909005.0,5
+3994131000006110,Allergic rhinitis due to tree pollen,91927006.0,4
+3994111000006116,Allergic rhinitis due to grass pollen,91926002.0,4
+8016801000006110,Sinusitis co-occurrent with nasal polyps,41931000000000.0,4
+5035711000006112,Chronic panethmoidal sinusitis,232395004.0,3
+3632601000006112,Severe chronic rhinitis,69646003.0,2
+7036961000006118,Allergic fungal sinusitis,425011002.0,2
+5035741000006111,Chronic frontoethmoidal sinusitis,232397007.0,2
+3994161000006118,Allergic rhinitis caused by weed pollen,91928001.0,1
+2617581000006119,Disorder of paranasal sinuses,7393007.0,1
+13938371000006110,Allergic aspergillus rhinosinusitis,838367000.0,1
+3691001000006119,Chronic ethmoiditis,73237007.0,1
+3903021000006111,Hypertrophic rhinitis,86287004.0,1
+5035031000006115,Non-infective non-allergic rhinitis,232345000.0,30
+14149851000006115,Rhinosinusitis,897656009.0,4

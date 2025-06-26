@@ -1,0 +1,7 @@
+Failed to download: https://github.com/ndpchs-cprd/12-21-002323-CanBack/edit/main/Codelists/Cardiovascular_Vessel_atherosclerosisaneurysmstenosis.csv
+Error: HTML_response
+Metadata:
+  Codelist: Vessel atherosclerosis, Aneurysm, Stenosis
+  Project: CanBack
+  ERAP: 21_002323
+  Author: Aron Downie

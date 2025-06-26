@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 74
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tendometriosis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                         MedCodeId\tObservations\tTerm\tendometriosis
+0                                   a1784724014\t600000\tEndometriosis\tendometriosis
+1                                 a304803014\t10000\tEndometriosis NOS\tendometriosis
+2  a2548653011\t10000\tLaparoscopic laser destruction of endometriosis\tendometriosis

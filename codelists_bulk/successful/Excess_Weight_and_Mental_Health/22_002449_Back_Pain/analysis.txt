@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 132
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tback_pain']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+               \tMedCodeId\tObservations\tTerm\tback_pain
+0       0\ta416139010\t10000000\tLow back pain\tback_pain
+1              1\ta38727013\t3000000\tSciatica\tback_pain
+2  2\ta252314011\t3000000\tC/O - low back pain\tback_pain

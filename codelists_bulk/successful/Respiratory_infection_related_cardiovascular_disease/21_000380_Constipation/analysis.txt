@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 20
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+0                                 53778\t"Jyu5100"\t2\t0\t0\t0\t"[X]Other impaction of intestine"\t"February 2009"
+1                                          23641\t"J520000"\t2631\t0\t19\t0\t"Acute constipation"\t"February 2009"
+2                                             99999\t"J520400"\t1170\t0\t6\t0\t"Chronic constipation"\t"June 2010"

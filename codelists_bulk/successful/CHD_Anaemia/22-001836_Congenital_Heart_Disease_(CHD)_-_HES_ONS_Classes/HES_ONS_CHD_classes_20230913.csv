@@ -1,0 +1,115 @@
+class,s,cause,desc
+DILV,0,Q20.4,Double inlet ventricle
+VSD,1,Q21.0,Ventricular septal defect
+ASD,3,Q21.2,Atrioventricular septal defect
+AV,5,Q23.0,Congenital stenosis of aortic valve
+HLHS,6,Q23.4,Hypoplastic left heart syndrome
+GENV,9,Q23.9,"Congenital malformation of aortic and mitral valves, unspecified"
+GEN,10,Q24.8,Other specified congenital malformations of heart
+GEN,11,Q24.9,"Congenital malformation of heart, unspecified"
+PDA,17,Q25.0,Patent ductus arteriosus
+AO,18,Q25.4,Other congenital malformations of aorta
+PA,19,Q25.5,Atresia of pulmonary artery
+PTA,20,745,Common truncus
+TGA,21,745.1,Transposition of great vessels
+TOF,25,745.2,Tetralogy of fallot
+VSD,38,745.4,Ventricular septal defect
+ASD,87,745.5,Ostium secundum type atrial septal defect
+GENV,121,745.6,Endocardial cushion defects
+TV,123,746.2,Ebstein's anomaly
+AV,124,746.3,Congenital stenosis of aortic valve
+AV,125,746.4,Congenital insufficiency of aortic valve
+MV,157,746.6,Congenital mitral insufficiency
+HLHS,159,746.7,Hypoplastic left heart syndrome
+GEN,166,746.8,Other specified congenital anomalies of heart
+AO,180,747.1,Coarctation of aorta
+AO,187,747.2,Other congenital anomalies of aorta
+PA,188,747.3,Congenital anomalies of pulmonary artery
+GENVE,200,747.4,Congenital anomalies of great veins
+DORV,201,Q20.1,Double outlet right ventricle
+TGA,203,Q20.3,Discordant ventriculoarterial connection
+LVRA,244,Q20.5,Discordant atrioventricular connection
+GEN,245,Q20.8,Other congenital malformations of cardiac chambers and connections
+ASD,462,Q21.1,Atrial septal defect
+TOF,745,Q21.3,Tetralogy of Fallot
+PTA,850,Q21.4,Aortopulmonary septal defect
+GENSD,851,Q21.8,Other congenital malformations of cardiac septa
+GENSD,900,Q21.9,"Congenital malformation of cardiac septum, unspecified"
+PV,905,Q22.1,Congenital pulmonary valve stenosis
+TV,906,Q22.4,Congenital tricuspid stenosis
+TV,917,Q22.5,Ebstein's anomaly
+TV,929,Q22.9,"Congenital malformation of tricuspid valve, unspecified"
+AV,971,Q23.1,Congenital insufficiency of aortic valve
+MV,1184,Q23.2,Congenital mitral stenosis
+MV,1190,Q23.3,Congenital mitral insufficiency
+GENV,1230,Q23.8,Other congenital malformations of aortic and mitral valves
+PA,1246,Q24.3,Pulmonary infundibular stenosis
+AO,1247,Q24.4,Congenital subaortic stenosis
+COR,1258,Q24.5,Malformation of coronary vessels
+HB,1333,Q24.6,Congenital heart block
+AO,1940,Q25.1,Coarctation of aorta
+AO,1983,Q25.3,Supravalvular aortic stenosis
+PA,2034,Q25.6,Stenosis of pulmonary artery
+PA,2063,Q25.7,Other congenital malformations of pulmonary artery
+PVR,2076,Q26.2,Total anomalous pulmonary venous connection
+PVR,2080,Q26.3,Partial anomalous pulmonary venous connection
+PVR,2081,Q26.4,"Anomalous pulmonary venous connection, unspecified"
+PVR,2095,Q26.8,Other congenital malformations of great veins
+LR,2104,Q89.3,Situs inversus
+PTA,0,Q20.0,Common arterial trunk
+DORV,341,Q20.1,Double outlet right ventricle
+DOLV,1319,Q20.2,Double outlet left ventricle
+TGA,1382,Q20.3,Discordant ventriculoarterial connection
+DILV,2976,Q20.4,Double inlet ventricle
+LVRA,3447,Q20.5,Discordant atrioventricular connection
+LR,3700,Q20.6,Isomerism of atrial appendages
+GEN,4015,Q20.8,Other congenital malformations of cardiac chambers and connections
+GEN,4416,Q20.9,"Congenital malformation of cardiac chambers and connections, unspecified"
+VSD,4475,Q21.0,Ventricular septal defect
+ASD,14670,Q21.1,Atrial septal defect
+TOF,29623,Q21.3,Tetralogy of Fallot
+PTA,32319,Q21.4,Aortopulmonary septal defect
+GENSD,32407,Q21.8,Other congenital malformations of cardiac septa
+GENSD,32741,Q21.9,"Congenital malformation of cardiac septum, unspecified"
+PV,33148,Q22.0,Pulmonary valve atresia
+PV,33587,Q22.1,Congenital pulmonary valve stenosis
+PV,35053,Q22.2,Congenital pulmonary valve insufficiency
+PV,35430,Q22.3,Other congenital malformations of pulmonary valve
+TV,35679,Q22.4,Congenital tricuspid stenosis
+TV,36199,Q22.5,Ebstein's anomaly
+HLRH,36620,Q22.6,Hypoplastic right heart syndrome
+TV,36730,Q22.8,Other congenital malformations of tricuspid valve
+TV,37449,Q22.9,"Congenital malformation of tricuspid valve, unspecified"
+AV,37485,Q23.0,Congenital stenosis of aortic valve
+AV,38597,Q23.1,Congenital insufficiency of aortic valve
+MV,41885,Q23.2,Congenital mitral stenosis
+MV,42121,Q23.3,Congenital mitral insufficiency
+HLHS,43147,Q23.4,Hypoplastic left heart syndrome
+GENV,44232,Q23.8,Other congenital malformations of aortic and mitral valves
+GENV,44592,Q23.9,"Congenital malformation of aortic and mitral valves, unspecified"
+RL,44710,Q24.0,Dextrocardia
+PA,45798,Q24.3,Pulmonary infundibular stenosis
+AO,46140,Q24.4,Congenital subaortic stenosis
+COR,46602,Q24.5,Malformation of coronary vessels
+HB,47142,Q24.6,Congenital heart block
+GEN,47497,Q24.8,Other specified congenital malformations of heart
+GEN,49402,Q24.9,"Congenital malformation of heart, unspecified"
+PDA,51269,Q25.0,Patent ductus arteriosus
+AO,59743,Q25.1,Coarctation of aorta
+AO,61712,Q25.2,Atresia of aorta
+AO,61759,Q25.3,Supravalvular aortic stenosis
+AO,62203,Q25.4,Other congenital malformations of aorta
+PA,64118,Q25.5,Atresia of pulmonary artery
+PA,65228,Q25.6,Stenosis of pulmonary artery
+PA,68335,Q25.7,Other congenital malformations of pulmonary artery
+GENVE,69384,Q25.8,Other congenital malformations of other great arteries
+GENVE,69535,Q25.9,"Congenital malformation of great arteries, unspecified"
+PVR,69556,Q26.0,Congenital stenosis of vena cava
+PVR,69597,Q26.1,Persistent left superior vena cava
+PVR,69815,Q26.2,Total anomalous pulmonary venous connection
+PVR,70069,Q26.3,Partial anomalous pulmonary venous connection
+PVR,70362,Q26.4,"Anomalous pulmonary venous connection, unspecified"
+PVR,70480,Q26.5,Anomalous portal venous connection
+PVR,70526,Q26.8,Other congenital malformations of great veins
+PVR,70940,Q26.9,"Congenital malformation of great vein, unspecified"
+LR,71011,Q89.3,Situs inversus

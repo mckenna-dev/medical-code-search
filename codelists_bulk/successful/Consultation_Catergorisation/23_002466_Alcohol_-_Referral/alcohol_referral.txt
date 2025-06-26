@@ -1,0 +1,21 @@
+MedCodeId,Observations,Term,SnomedCTConceptId
+a1484890014,80000,Referral to community alcohol team,390857005
+a2549646014,50000,Referral to community drug and alcohol team,417096006
+a622961000000116,30000,Referral to specialist alcohol treatment service,431260004
+a831091000006115,7000,Referral to alcohol abuse team,831091000006104
+a831101000006114,4000,Referral to alcohol counsellor,831101000006105
+a740641000000115,4000,Referral to alcohol brief intervention service,376401000000103
+a2419601000000110,1000,Specialist alcohol treatment service signposted,946101000000100
+a851931000006116,800,Referral to alcohol recovery project,851931000006100
+a2716771000000111,400,Signposting to alcohol misuse service,1084171000000100
+a1675391000006112,200,Referral by community alcohol team,1675391000006108
+a2475831000000114,100,Alcohol harm reduction programme,720175009
+a3122331000006110,60,Patient referral for alcoholism rehabilitation,38670004
+a7613321000006119,30,Alcohol reduction programme,707166002
+a13770661000006117,20,Referral to alcoholism rehabilitation service,38670004
+a8259601000006117,20,Referral to alcohol misuse clinic,809401000000103
+a12117371000006112,10,Referral to alcohol misuse service,1099141000000106
+a2485391000000114,5,Alcohol twelve step programme,720178006
+a12618991000006114,2,Signposting to drug and alcohol support service,1104571000000100
+a7613331000006116,1,Alcohol reduction program,707166002
+a1808611000006118,1,AREP - Alcohol rehabilitation education program,1808611000006102

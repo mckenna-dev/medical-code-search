@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 13
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                                 Term  SNOMED_CT_Concept_ID
+0        103844015          6000  Acquired immune deficiency syndrome              62479008
+1  825831000006113           800  Pneumocystosis associated with AIDS             420403001
+2  908851000006113           300                       [RFC] AIDS/HIV       908851000006109

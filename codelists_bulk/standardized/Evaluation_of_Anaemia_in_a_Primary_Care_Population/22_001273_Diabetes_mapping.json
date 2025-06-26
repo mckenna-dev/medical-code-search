@@ -1,0 +1,41 @@
+{
+  "original_file": "codelists_bulk\\successful\\Evaluation_of_Anaemia_in_a_Primary_Care_Population\\22_001273_Diabetes\\FINAL_CL_diabetes.txt",
+  "original_columns": [
+    "Unnamed: 0",
+    "medcodeid",
+    "observations",
+    "term",
+    "snomedctconceptid",
+    "Typei",
+    "Typeii",
+    "unknowntype/other"
+  ],
+  "column_mapping": {
+    "med_code_id": "medcodeid",
+    "term": "term",
+    "snomed_ct_concept_id": "snomedctconceptid",
+    "observations": "observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "medcodeid",
+      "type": "primary"
+    },
+    "term": {
+      "column": "term",
+      "type": "primary"
+    },
+    "snomed_ct_concept_id": {
+      "column": "snomedctconceptid",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 1540,
+  "rows_standardized": 1540,
+  "project": "Evaluation_of_Anaemia_in_a_Primary_Care_Population",
+  "codelist": "22_001273_Diabetes"
+}

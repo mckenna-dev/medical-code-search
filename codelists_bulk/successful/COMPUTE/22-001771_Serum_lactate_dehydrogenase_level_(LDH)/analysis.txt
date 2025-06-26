@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 7
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                                Term  SNOMED_CT_Concept_ID
+0        457992014        617847   Serum lactate dehydrogenase level      1000921000000108
+1        457995011         15416  Plasma lactate dehydrogenase level      1000901000000104
+2  749151000006110          3166         Lactate dehydrogenase level      1028111000000107

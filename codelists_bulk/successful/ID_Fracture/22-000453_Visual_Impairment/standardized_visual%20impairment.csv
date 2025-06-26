@@ -1,0 +1,256 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+160,,,,589,136,0,0,8D36.00,Removable artificial eye,2009-02-01 00:00:00
+510,,,,34573,505,1,0,6689,Registered blind,2009-02-01 00:00:00
+555,,,,34674,11039,113,0,668B.00,Poor visual acuity,2009-02-01 00:00:00
+567,,,,77950,23189,1,0,F48..00,Visual disturbances,2009-02-01 00:00:00
+570,,,,22147,9971,2,0,F484.00,Visual field defects,2009-02-01 00:00:00
+746,,,,89655,19329,2,0,F48y000,Blurred vision NOS,2009-02-01 00:00:00
+1444,,,,43320,21230,14,0,F49z.00,Visual loss NOS,2009-02-01 00:00:00
+1714,,,,21508,3725,0,0,1B76.00,Temporary visual disturbance,2009-02-01 00:00:00
+1806,,,,1045,34,1,0,8D3..00,Visual aid,2009-02-01 00:00:00
+1990,,,,4169,449,1,0,F490.00,"Blindness, both eyes",2009-02-01 00:00:00
+3268,,,,20134,5116,2,0,1B75.00,Loss of vision,2009-02-01 00:00:00
+3553,,,,15517,3495,0,0,1B72.12,Double vision,2009-02-01 00:00:00
+3839,,,,190,34,1,0,22EF.00,O/E - has one eye,2009-02-01 00:00:00
+3851,,,,2176,107,0,0,F495000,"Blindness, one eye, unspecified",2009-02-01 00:00:00
+3852,,,,1826,50,0,0,2B7A.11,O/E - blind L-eye,2009-02-01 00:00:00
+4086,,,,303,11,0,0,P3...00,Congenital eye anomalies,2009-02-01 00:00:00
+4147,,,,242,39,0,0,F483.00,Other binocular vision disorders,2009-02-01 00:00:00
+4628,,,,844,42,0,0,7200,Excision of eye,2009-02-01 00:00:00
+5046,,,,2986,88,0,0,7200100,Enucleation of eyeball,2009-02-01 00:00:00
+5991,,,,17823,3350,0,0,1B72.00,Diplopia/double vision,2009-02-01 00:00:00
+6020,,,,3132,412,0,0,F49..11,Impaired vision,2009-02-01 00:00:00
+6726,,,,994,189,0,0,F484G11,Tunnel vision,2009-02-01 00:00:00
+7203,,,,1848,250,0,0,F492.00,"Low vision, both eyes",2009-02-01 00:00:00
+8186,,,,9116,2231,0,0,1B77.00,Deteriorating vision,2009-02-01 00:00:00
+8308,,,,119,11,0,0,Z9E1.00,Provision of orbital or ocular prosthesis,2009-02-01 00:00:00
+8367,,,,9450,1693,0,0,F49..00,Blindness and low vision,2009-02-01 00:00:00
+9835,,,,3709,173,0,0,2BBL.00,O/E - diabetic maculopathy present both eyes,2009-02-01 00:00:00
+10388,,,,1918,62,0,0,2B6A.11,O/E - blind R-eye,2009-02-01 00:00:00
+10833,,,,19,2,0,0,Z9E1400,Provision of orbital prosthesis,2009-02-01 00:00:00
+10868,,,,43,3,0,0,F404100,Blind hypotensive eye,2009-02-01 00:00:00
+10911,,,,699,109,0,0,Z9E1100,Provision of artificial eye,2009-02-01 00:00:00
+12194,,,,5200,521,0,0,F48z.00,Visual disturbance NOS,2009-02-01 00:00:00
+12407,,,,742,56,0,0,F4H..00,Disorders of optic nerve and visual pathways,2009-02-01 00:00:00
+12493,,,,3059,1594,0,0,F49..12,Low vision,2009-02-01 00:00:00
+13102,,,,11630,70,53,0,2BBW.00,O/E - right eye diabetic maculopathy,2009-02-01 00:00:00
+13107,,,,869,15,0,0,2BBn.00,O/E - left eye clinically significant macular oedema,2009-02-01 00:00:00
+13108,,,,11845,55,58,0,2BBX.00,O/E - left eye diabetic maculopathy,2009-02-01 00:00:00
+13152,,,,2266,15,0,0,668C.00,Certificate of vision impairment,2009-02-01 00:00:00
+15209,,,,999,269,0,0,F484z00,Visual field defects NOS,2009-02-01 00:00:00
+15269,,,,897,84,0,0,F495.00,"Profound impairment, one eye",2009-02-01 00:00:00
+15604,,,,8442,511,0,0,1B7Z.00,Visual symptom NOS,2009-02-01 00:00:00
+15605,,,,16,6,0,0,29J3.00,O/E - visual suppression,2009-02-01 00:00:00
+16258,,,,350,54,0,0,1484,H/O: visual disturbance,2009-02-01 00:00:00
+16535,,,,685,20,0,0,F4K5.00,Nystagmus and other irregular eye movements,2009-02-01 00:00:00
+16720,,,,370,52,0,0,F484D00,Peripheral visual field defect,2009-02-01 00:00:00
+17312,,,,345,32,0,0,14T2.00,H/O: artificial eye lens,2009-02-01 00:00:00
+18070,,,,182,9,0,0,ZV43000,[V]Has artificial eye globe,2009-02-01 00:00:00
+18109,,,,272,43,0,0,14T1.00,H/O: artificial eyeglobe,2009-02-01 00:00:00
+18462,,,,3862,196,0,0,F482.00,Diplopia (double vision),2009-02-01 00:00:00
+19646,,,,165,124,0,0,8D3..13,Visual aid provision,2009-02-01 00:00:00
+20256,,,,711,284,0,0,F493.00,"Visual loss, both eyes unqualified",2009-02-01 00:00:00
+20446,,,,11872,12,0,0,2B65.00,O/E - visual acuity R-eye=6/18,2009-02-01 00:00:00
+20585,,,,67,0,0,0,F4H7.00,Visual cortex disorder,2009-02-01 00:00:00
+20607,,,,105,21,0,0,F496000,"Low vision, one eye, unspecified",2009-02-01 00:00:00
+20736,,,,654,75,0,0,F481100,Sudden visual loss,2009-02-01 00:00:00
+20757,,,,542,7,0,0,8D3..12,Spectacles provision,2009-02-01 00:00:00
+21491,,,,221,51,0,0,22E6.12,O/E - glass eye,2009-02-01 00:00:00
+23020,,,,51497,40,0,0,2B63.00,O/E - visual acuity R-eye =6/9,2009-02-01 00:00:00
+23021,,,,20276,20,0,0,2B64.00,O/E - visual acuity R-eye=6/12,2009-02-01 00:00:00
+23022,,,,4336,3,0,0,2B67.00,O/E - visual acuity R-eye=6/36,2009-02-01 00:00:00
+23023,,,,50314,34,0,0,2B73.00,O/E - visual acuity L-eye =6/9,2009-02-01 00:00:00
+23025,,,,20344,19,0,0,2B74.00,O/E - visual acuity L-eye=6/12,2009-02-01 00:00:00
+23026,,,,4452,5,0,0,2B77.00,O/E - visual acuity L-eye=6/36,2009-02-01 00:00:00
+23027,,,,11534,16,0,0,2B75.00,O/E - visual acuity L-eye=6/18,2009-02-01 00:00:00
+23028,,,,3323,6,0,0,2B78.00,O/E - visual acuity L-eye=6/60,2009-02-01 00:00:00
+23742,,,,251,45,0,0,F49z.11,Acquired blindness,2009-02-01 00:00:00
+24923,,,,184,58,0,0,Z9E2.00,Optical low vision aid provision,2009-02-01 00:00:00
+25056,,,,466,7,0,0,8D3..11,Glasses provision,2009-02-01 00:00:00
+25168,,,,3,0,0,0,F496200,"Lesser eye: severe VI, Better eye: near normal vision",2009-02-01 00:00:00
+25547,,,,467,42,0,0,F49y.00,"Visual loss, one eye, unqualified",2009-02-01 00:00:00
+25831,,,,1065,83,0,0,F496.00,"Low vision, one eye",2009-02-01 00:00:00
+25888,,,,1018,55,0,0,2BBm.00,O/E - right eye clinically significant macular oedema,2009-02-01 00:00:00
+26722,,,,773,24,0,0,2B6A.00,O/E-R-eye perceives light only,2009-02-01 00:00:00
+26723,,,,5579,3,0,0,2B66.00,O/E - visual acuity R-eye=6/24,2009-02-01 00:00:00
+26726,,,,5550,5,0,0,2B76.00,O/E - visual acuity L-eye=6/24,2009-02-01 00:00:00
+26850,,,,19,2,0,0,F465300,After-cataract with vision obscured,2009-02-01 00:00:00
+27983,,,,35,1,0,0,7200z00,Excision of eye NOS,2009-02-01 00:00:00
+28414,,,,577,160,0,0,Z7CLD00,Distortion of visual image,2009-02-01 00:00:00
+28993,,,,509,63,0,0,22E6.11,O/E - false eye,2009-02-01 00:00:00
+29063,,,,626,9,0,0,12A3.00,FH: Blindness/low vision,2009-02-01 00:00:00
+29387,,,,49,7,0,0,F491000,"One eye blind, one eye low vision",2009-02-01 00:00:00
+30025,,,,1283,12,0,0,8D33.00,Provision of spectacles,2009-02-01 00:00:00
+31884,,,,285,64,0,0,22E6.13,O/E - prosthetic eye,2009-02-01 00:00:00
+32044,,,,322,13,0,0,SJ0z.11,Blindness - traumatic - NOS,2009-02-01 00:00:00
+32467,,,,269,6,0,0,F4H7300,Cortical blindness,2009-02-01 00:00:00
+32583,,,,35,9,0,0,Z9E1200,Provision of removable artificial eye,2009-02-01 00:00:00
+32905,,,,83,23,0,0,Z96..00,Provision for visual and hearing impairment,2009-02-01 00:00:00
+33013,,,,3150,4,0,0,2B68.00,O/E - visual acuity R-eye=6/60,2009-02-01 00:00:00
+33014,,,,387,1,0,0,2B6B.00,O/E - R-eye completely blind,2009-02-01 00:00:00
+33015,,,,1723,7,0,0,2B69.00,O/E -R-eye counts fingers only,2009-02-01 00:00:00
+33016,,,,379,0,0,0,2B7B.00,O/E - L-eye completely blind,2009-02-01 00:00:00
+33017,,,,869,7,0,0,2B7C.00,O/E - L-eye sees hand movements,2009-02-01 00:00:00
+33261,,,,37,11,0,0,2BJ7.00,O/E - poor visual fixation,2009-02-01 00:00:00
+33447,,,,250,25,0,0,F492z00,"Low vision, both eyes NOS",2009-02-01 00:00:00
+34435,,,,74,2,0,0,F4K5z00,Nystagmus or other irregular eye movement NOS,2009-02-01 00:00:00
+34957,,,,4,0,0,0,F4H6100,Visual pathway disorder due to vascular disorder,2009-02-01 00:00:00
+35515,,,,1909,8,0,0,2B79.00,O/E -L-eye counts fingers only,2009-02-01 00:00:00
+35731,,,,410,54,29,0,3124,Visual testing abnormal,2009-02-01 00:00:00
+37086,,,,50,1,0,0,F404200,Blind hypertensive eye,2009-02-01 00:00:00
+37146,,,,33,2,0,0,F483000,Unspecified binocular vision disorder,2009-02-01 00:00:00
+37705,,,,69,3,0,0,Z9E3100,Provision of magnifier low vision aid - near,2009-02-01 00:00:00
+37893,,,,163,6,0,0,F496z00,"Low vision, one eye NOS",2009-02-01 00:00:00
+38000,,,,184,1,0,0,F495A00,"Acquired blindness, one eye",2009-02-01 00:00:00
+38166,,,,30,0,0,0,2B6W.00,O/E - R-eye visual acuity (corrected) 4/60,2009-02-01 00:00:00
+38167,,,,911,11,0,0,2B7A.00,O/E-L-eye perceives light only,2009-02-01 00:00:00
+38168,,,,17,0,0,0,2B7W.00,O/E - L-eye visual acuity (corrected) 4/60,2009-02-01 00:00:00
+38169,,,,1337,0,0,0,2B7G.00,O/E - pinhole visual acuity L-eye=6/12,2009-02-01 00:00:00
+38550,,,,119,14,0,0,F4Jy.00,Other disorders of binocular eye movements,2009-02-01 00:00:00
+38717,,,,19,2,0,0,Z961.00,Provision of guide help for visual and hearing impairment,2009-02-01 00:00:00
+39170,,,,190,0,0,0,2B7E.00,O/E - visual acuity L-eye=3/60,2009-02-01 00:00:00
+39309,,,,77,3,0,0,F481400,Other transient visual loss,2009-02-01 00:00:00
+39587,,,,2,1,0,0,Z9E4.00,Provision of optical low vision aid - distance,2009-02-01 00:00:00
+39673,,,,37,4,0,0,F481z00,Subjective visual disturbance NOS,2009-02-01 00:00:00
+39674,,,,31,6,0,0,F4H..11,Visual path disorder,2009-02-01 00:00:00
+39820,,,,3,0,0,0,F481L00,Other psychophysical visual disturbance,2009-02-01 00:00:00
+39924,,,,60,4,0,0,F48yz00,Other specified visual disturbance NOS,2009-02-01 00:00:00
+40158,,,,359,36,0,0,F484000,Unspecified visual field defect,2009-02-01 00:00:00
+40451,,,,260,40,0,0,F492000,"Low vision, both eyes unspecified",2009-02-01 00:00:00
+40877,,,,154,0,0,0,2B6L.00,O/E - pinhole visual acuity R-eye=6/60,2009-02-01 00:00:00
+40878,,,,3083,1,0,0,2B6F.00,O/E - pinhole visual acuity R-eye=6/9,2009-02-01 00:00:00
+40879,,,,614,0,0,0,2B7H.00,O/E - pinhole visual acuity L-eye=6/18,2009-02-01 00:00:00
+40955,,,,85,33,0,0,F48y012,Dull vision NOS,2009-02-01 00:00:00
+41055,,,,341,0,0,0,2B6J.00,O/E - pinhole visual acuity R-eye=6/24,2009-02-01 00:00:00
+41057,,,,646,0,0,0,2B6H.00,O/E - pinhole visual acuity R-eye=6/18,2009-02-01 00:00:00
+41059,,,,1321,0,0,0,2B6G.00,O/E - pinhole visual acuity R-eye=6/12,2009-02-01 00:00:00
+41060,,,,65,0,0,0,2B6R.00,O/E - pinhole R-eye perceives light only,2009-02-01 00:00:00
+41062,,,,2987,0,0,0,2B7F.00,O/E - pinhole visual acuity L-eye=6/9,2009-02-01 00:00:00
+41063,,,,146,0,0,0,2B7L.00,O/E - pinhole visual acuity L-eye=6/60,2009-02-01 00:00:00
+42262,,,,16,1,0,0,F490900,"Acquired blindness, both eyes",2009-02-01 00:00:00
+42691,,,,185,2,0,0,S813.11,Enucleation of eye - traumatic,2009-02-01 00:00:00
+43143,,,,57,2,0,0,F481G00,Other visual distortion,2009-02-01 00:00:00
+43783,,,,123,2,0,0,P3z..00,Congenital eye anomalies NOS,2009-02-01 00:00:00
+45030,,,,804,1,0,0,2B6C.00,O/E - R-eye sees hand movements,2009-02-01 00:00:00
+45786,,,,108,0,0,0,2B6T.00,O/E - R-eye visual acuity (corrected) 1/60,2009-02-01 00:00:00
+46492,,,,129,2,0,0,F4Hz.00,Disorder of optic nerve or visual pathway NOS,2009-02-01 00:00:00
+47158,,,,75,0,0,0,2B6Q.00,O/E - pinhole R-eye counts fingers only,2009-02-01 00:00:00
+47910,,,,180,0,0,0,2B6E.00,O/E - visual acuity R-eye=3/60,2009-02-01 00:00:00
+47911,,,,45,0,0,0,2B6V.00,O/E - R-eye visual acuity (corrected) 2/60,2009-02-01 00:00:00
+47912,,,,118,0,0,0,2B7T.00,O/E - L-eye visual acuity (corrected) 1/60,2009-02-01 00:00:00
+47913,,,,374,0,0,0,2B7J.00,O/E - pinhole visual acuity L-eye =6/24,2009-02-01 00:00:00
+47956,,,,241,2,0,0,F490z00,Blindness both eyes NOS,2009-02-01 00:00:00
+48983,,,,77,0,0,0,2B6P.00,O/E - pinhole R-eye sees hand movements,2009-02-01 00:00:00
+49283,,,,100,0,0,0,2B7Q.00,O/E - pinhole L-eye counts fingers only,2009-02-01 00:00:00
+49306,,,,230,0,0,0,2B6K.00,O/E - pinhole visual acuity R-eye=6/36,2009-02-01 00:00:00
+49336,,,,519,7,0,0,22E6.00,O/E - glass (prosthetic) eye,2009-02-01 00:00:00
+49466,,,,73,6,0,0,F48y.00,Other specified visual disturbance,2009-02-01 00:00:00
+49723,,,,8,1,0,0,8E1..00,Visual defect-remedial therapy,2009-02-01 00:00:00
+50679,,,,2,0,0,0,F491300,"Better eye: severe VI, Lesser eye: near total VI",2009-02-01 00:00:00
+50925,,,,78,0,0,0,2B7P.00,O/E - pinhole L-eye sees hand movements,2009-02-01 00:00:00
+50938,,,,403,4,0,0,8D3Z.00,Visual aid NOS,2009-02-01 00:00:00
+51174,,,,8,3,0,0,Z9E6.00,Provision of visual appliance,2009-02-01 00:00:00
+51274,,,,25,0,0,0,2B6S.00,O/E - pinhole R-eye completely blind,2009-02-01 00:00:00
+52041,,,,176,0,0,0,2BBl.00,O/E - left eye stable treated prolif diabetic retinopathy,2009-02-01 00:00:00
+52680,,,,8,0,0,0,038Z.11,Blind teacher,2009-02-01 00:00:00
+53038,,,,86,0,0,0,2BN2.00,O/E - visual nystagmus,2009-02-01 00:00:00
+53690,,,,77,3,0,0,S813.00,Avulsion of eye,2009-02-01 00:00:00
+54126,,,,2,1,0,0,Z9E5400,Provision of ancillary low vision aid,2009-02-01 00:00:00
+54513,,,,24,0,0,0,2B7S.00,O/E - pinhole L-eye completely blind,2009-02-01 00:00:00
+54514,,,,46,0,0,0,2B7R.00,O/E - pinhole L-eye perceives light only,2009-02-01 00:00:00
+54562,,,,25,0,0,0,F483z00,Other binocular vision disturbance NOS,2009-02-01 00:00:00
+54962,,,,14,0,0,0,F491z00,"One eye blind, one eye low vision NOS",2009-02-01 00:00:00
+55108,,,,49,2,0,0,F490000,Unspecified blindness both eyes,2009-02-01 00:00:00
+55436,,,,33,1,0,0,F490100,Both eyes total visual impairment,2009-02-01 00:00:00
+55844,,,,15,3,0,0,F491.00,"Better eye: low vision, Lesser eye: profound VI",2009-02-01 00:00:00
+55846,,,,16,2,0,0,8F6..11,Blind rehabilitation,2009-02-01 00:00:00
+56285,,,,10,0,0,0,P300100,Agenesis of eye,2009-02-01 00:00:00
+56814,,,,242,0,0,0,2B7K.00,O/E - pinhole visual acuity L-eye=6/36,2009-02-01 00:00:00
+57631,,,,11,0,0,0,F4H7z00,Visual cortex disorder NOS,2009-02-01 00:00:00
+57890,,,,53,3,0,0,F484G00,Generalised visual contraction,2009-02-01 00:00:00
+57951,,,,3,0,0,0,8O0D.00,Provision of support as Braille user,2009-02-01 00:00:00
+59260,,,,381,0,0,0,2B6b.00,O/E- visual acuity R-eye =6/15,2009-02-01 00:00:00
+59261,,,,401,0,0,0,2B7b.00,O/E- visual acuity L-eye =6/15,2009-02-01 00:00:00
+60032,,,,38,0,0,0,2B7V.00,O/E - L-eye visual acuity (corrected) 2/60,2009-02-01 00:00:00
+60043,,,,2,0,0,0,F495400,"Lesser eye: near total VI, Better eye: unspecified",2009-02-01 00:00:00
+60057,,,,30,2,0,0,1B79.00,Visual perceptual weakness,2009-02-01 00:00:00
+60184,,,,4,1,0,0,F4H6.00,Other visual pathway disorder,2009-02-01 00:00:00
+61000,,,,10,1,0,0,Z9E3.00,Provision of optical low vision aid - near,2009-02-01 00:00:00
+61454,,,,35,0,0,0,Z9E3B00,Near low vision aid - integral spectacle telescope,2009-02-01 00:00:00
+62166,,,,2,1,0,0,Z9E5.00,Provision of non-optical low vision aid,2009-02-01 00:00:00
+62545,,,,243,1,0,0,2B82.00,O/E - near vision abnormal,2009-02-01 00:00:00
+62657,,,,3,1,0,0,F496500,"Lesser eye: moderate VI, Better eye: near normal vision",2009-02-01 00:00:00
+63045,,,,2,0,0,0,F495100,"Lesser eye: total visual impairment, Better eye: unspecified",2009-02-01 00:00:00
+63075,,,,15,3,0,0,Z9E3500,Provision of spectacle low vision aid - near,2009-02-01 00:00:00
+63732,,,,13,1,0,0,FyuL100,[X]Other visual disturbances,2009-02-01 00:00:00
+63928,,,,1,0,0,0,F495500,"Lesser eye: near total VI, Better eye: near normal vision",2009-02-01 00:00:00
+64221,,,,15,0,0,0,ZX1L500,Enucleation of own eyes,2009-02-01 00:00:00
+65144,,,,2,0,0,0,F495600,"Lesser eye: near total VI, Better eye: normal vision",2009-02-01 00:00:00
+65569,,,,22,0,0,0,2B7X.00,O/E - L-eye visual acuity (corrected) 5/60,2009-02-01 00:00:00
+65639,,,,8,1,0,0,8E1Z.00,Visual defect-remed.therap.NOS,2009-02-01 00:00:00
+65888,,,,4,0,0,0,P310200,Rudimentary eye,2009-02-01 00:00:00
+66372,,,,1,0,0,0,F4H7100,Visual cortex disorder due to vascular disorder,2009-02-01 00:00:00
+66391,,,,35,0,0,0,2B6X.00,O/E - R-eye visual acuity (corrected) 5/60,2009-02-01 00:00:00
+66731,,,,1,0,0,0,F492200,"Better eye: severe VI, Lesser eye: severe VI",2009-02-01 00:00:00
+67126,,,,2,0,0,0,8F61.00,Blind rehabilitation,2009-02-01 00:00:00
+67398,,,,48,0,0,0,Z9E3300,Provision of low vision stand magnifier,2009-02-01 00:00:00
+67594,,,,0,1,0,0,F491400,"Better eye: severe VI, Lesser eye: profound VI",2009-02-01 00:00:00
+67756,,,,3,0,0,0,P303.00,Congenital absence of eyes,2009-02-01 00:00:00
+67765,,,,4,1,0,0,F496300,"Lesser eye: severe VI, Better eye: normal vision",2009-02-01 00:00:00
+67872,,,,5,0,0,0,F496600,"Lesser eye: moderate VI, Better eye: normal vision",2009-02-01 00:00:00
+68048,,,,6,0,0,0,F4K5300,Visual deprivation nystagmus,2009-02-01 00:00:00
+68208,,,,6,0,0,0,P300200,Congenital absence of eye,2009-02-01 00:00:00
+68386,,,,5,3,0,0,F492400,"Better eye: moderate VI, Lesser eye: severe VI",2009-02-01 00:00:00
+68391,,,,1,1,0,0,F491500,"Better eye: moderate VI, Lesser eye: blind, unspecified",2009-02-01 00:00:00
+68391,,,,1,1,0,0,F491500,"Better eye: moderate VI, Lesser eye: blind, unspecified",2009-02-01 00:00:00
+68907,,,,65,1,0,0,Z9E3200,Provision of low vision hand magnifier,2009-02-01 00:00:00
+69051,,,,5,0,0,0,Z9E3700,Provision of spectacle magnifier,2009-02-01 00:00:00
+69128,,,,2,0,0,0,Z9E3A00,Provision of spectacle telescope,2009-02-01 00:00:00
+69998,,,,1,0,0,0,F495800,"Lesser eye: profound VI, Better eye: near normal vision",2009-02-01 00:00:00
+71319,,,,1,0,0,0,F492500,"Better eye: moderate VI, Lesser eye: moderate VI",2009-02-01 00:00:00
+71390,,,,186,0,0,0,7200211,Evisceration of eye,2009-02-01 00:00:00
+71618,,,,1,0,0,0,Z9E3E00,Provision of headband telescope,2009-02-01 00:00:00
+72411,,,,2,0,0,0,F491700,"Better eye: moderate VI, Lesser eye: near total VI",2009-02-01 00:00:00
+73224,,,,3,1,0,0,F492300,"Better eye: moderate VI, Lesser eye: low vision unspecified",2009-02-01 00:00:00
+73508,,,,3,0,0,0,ZN56800,Blind telephone user,2009-02-01 00:00:00
+93265,,,,1,0,0,0,Z9E3900,Near low vision aid - clip-on spectacle magnifier,2009-02-01 00:00:00
+96455,,,,1,0,0,0,F490400,"Better eye: near total VI, Lesser eye: near total VI",2009-04-01 00:00:00
+96890,,,,2,0,0,0,Z9E3600,Provision of telescopic spectacles,2009-05-01 00:00:00
+98123,,,,2,0,0,0,Z9E3C00,Near low vision aid - clip-on spectacle telescope,2009-12-01 00:00:00
+98226,,,,6,0,0,0,9NlD.00,Seen by visual impairment teacher,2009-12-01 00:00:00
+98637,,,,3,0,0,0,FyuL.00,[X]Visual disturbances and blindness,2010-03-01 00:00:00
+98672,,,,1,0,0,0,F490200,"Better eye: near total VI, Lesser eye: unspecified",2010-03-01 00:00:00
+99165,,,,1,0,0,0,F495200,"Lesser eye: total VI, Better eye: near normal vision",2010-04-01 00:00:00
+99166,,,,1,0,0,0,F495300,"Lesser eye: total VI, Better eye: normal vision",2010-04-01 00:00:00
+99191,,,,1,0,0,0,F490600,"Better eye: profound VI, Lesser eye: total VI",2010-04-01 00:00:00
+99504,,,,2,0,0,0,F491100,"Better eye: severe VI, Lesser eye: blind, unspecified",2010-05-01 00:00:00
+99504,,,,2,0,0,0,F491100,"Better eye: severe VI, Lesser eye: blind, unspecified",2010-05-01 00:00:00
+100755,,,,1,0,0,0,F496400,"Lesser eye: moderate VI, Better eye: unspecified",2010-11-01 00:00:00
+101881,,,,6,0,0,0,2BBr.00,Impaired vision due to diabetic retinopathy,2011-03-01 00:00:00
+101918,,,,2,0,0,0,FyuM200,[X]Visual disturbances in diseases classified elsewhere,2011-03-01 00:00:00
+103006,,,,81,0,0,0,2B7d.00,O/E - visual acuity left eye = 6/48,2011-09-01 00:00:00
+103205,,,,4,0,0,0,Z9E3D00,Near low vision aid - extra cap for telescope,2011-10-01 00:00:00
+103223,,,,77,0,0,0,2B6e.00,O/E - visual acuity right eye = 6/48,2011-10-01 00:00:00
+103907,,,,51,6,0,0,Fy1..00,Combined visual and hearing impairment,2012-03-01 00:00:00
+104077,,,,76,0,0,0,F49A.00,"Blindness, monocular",2012-05-01 00:00:00
+104087,,,,2,0,0,0,F496100,"Lesser eye: severe VI, Better eye: unspecified",2012-05-01 00:00:00
+104640,,,,38,0,0,0,2B7g.00,O/E visual acuity left eye = 6/10,2012-08-01 00:00:00
+104853,,,,47,1,0,0,F497.00,"Severe visual impairment, binocular",2012-08-01 00:00:00
+104918,,,,21,0,0,0,2B6g.00,O/E visual acuity right eye = 6/10,2012-09-01 00:00:00
+105023,,,,20,0,0,0,2B6f.00,O/E visual acuity right eye = 6/20,2012-09-01 00:00:00
+105135,,,,18,0,0,0,2B7f.00,O/E - visual acuity left eye = 6/20,2012-11-01 00:00:00
+105206,,,,6,0,0,0,F49B.00,"Severe visual impairment, monocular",2012-11-01 00:00:00
+105493,,,,11,3,0,0,F49C.00,"Moderate visual impairment, monocular",2012-12-01 00:00:00
+105665,,,,10,1,0,0,F498.00,"Moderate visual impairment, binocular",2013-01-01 00:00:00
+105752,,,,6,0,0,0,FyuJ.00,[X]Disorders of optic nerve and visual pathway,2013-01-01 00:00:00
+105795,,,,3,0,0,0,9NfB.00,Requires deafblind communicator guide,2013-02-01 00:00:00
+106329,,,,8,0,0,0,9m08.00,Excluded from diabetic retinopathy screening as blind,2013-06-01 00:00:00
+106881,,,,1,0,0,0,Z37F.00,Provision of support as Braille user,2013-08-01 00:00:00
+107376,,,,17,0,0,0,1a00000,Uses guide dog for the blind,2013-12-01 00:00:00
+107912,,,,2,0,0,0,Z962.00,Provision of communicator for visual and hearing impairment,2014-04-01 00:00:00
+108199,,,,129,1,0,0,F49D.00,Visual impairment,2014-06-01 00:00:00
+108703,,,,2,0,0,0,Fy1..12,Deafblind,2014-10-01 00:00:00
+109177,,,,44,0,0,0,2B7i.00,O/E - visual acuity L = 6/30,2015-01-01 00:00:00
+109294,,,,49,0,0,0,2B6i.00,O/E - visual acuity R = 6/30,2015-02-01 00:00:00
+109994,,,,0,0,0,0,9Nfb.00,Requires deafblind block alphabet interpreter,2015-08-01 00:00:00
+110179,,,,1,0,0,0,ZN56A00,Deaf-blind telephone user,2015-10-01 00:00:00

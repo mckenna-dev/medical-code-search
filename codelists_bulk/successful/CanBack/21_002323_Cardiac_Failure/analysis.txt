@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 216
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1  Flag_classifyL2           MedCodeID                                                                                                                                  Term
+0   2686  Cardiovascular  Cardiac_failure  a12623611000006114                                                                  Excepted from heart failure quality indicators - service unavailable
+1   2687  Cardiovascular  Cardiac_failure  a12626351000006111                                          QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation
+2   2688  Cardiovascular  Cardiac_failure  a12734351000006110  QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation using preferred method of communication

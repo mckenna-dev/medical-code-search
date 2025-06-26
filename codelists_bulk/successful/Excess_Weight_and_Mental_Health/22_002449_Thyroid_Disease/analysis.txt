@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 179
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tthyroid_disease']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                                         \tMedCodeId\tObservations\tTerm\tthyroid_disease
+0  0\ta101891000006113\t800\tThyrotoxicosis without mention of goitre or cause no crisis\tthyroid_disease
+1                                    2\ta1233040016\t100\tMyopathy due to thyrotoxicosis\tthyroid_disease
+2                3\ta123651000006111\t5000\tSubclinical iodine deficiency hypothyroidism\tthyroid_disease

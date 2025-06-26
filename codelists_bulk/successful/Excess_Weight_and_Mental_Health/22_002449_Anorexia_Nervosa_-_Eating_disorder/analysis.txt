@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 5
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tEatingdisorder_Anorexianervosa_diagnosis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                       \tMedCodeId\tObservations\tTerm\tEatingdisorder_Anorexianervosa_diagnosis
+0                0\t94597012\t200000\tAnorexia nervosa\tEatingdisorder_Anorexianervosa_diagnosis
+1       1\t363321000006111\t10000\t[X]Anorexia nervosa\tEatingdisorder_Anorexianervosa_diagnosis
+2  2\t366521000006113\t6000\tAtypical anorexia nervosa\tEatingdisorder_Anorexianervosa_diagnosis

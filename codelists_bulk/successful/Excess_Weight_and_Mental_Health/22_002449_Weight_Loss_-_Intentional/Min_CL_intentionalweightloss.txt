@@ -1,0 +1,2 @@
+	MedCodeId	Observations	Term	intentional_weight_loss
+0	a2549043017	30000	Intentional weight loss	intentional_weight_loss

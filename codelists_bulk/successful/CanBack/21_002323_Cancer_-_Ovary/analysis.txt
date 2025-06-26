@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                             Term
+0   2035          Cancer           Ovary  a407801000000116  [M]Borderline mucinous cystadenoma of the ovary
+1   2036          Cancer           Ovary  a306091000006115                     [M]Brenner tumour, malignant
+2   2037          Cancer           Ovary  a317041000006111                      [M]Struma ovarii, malignant

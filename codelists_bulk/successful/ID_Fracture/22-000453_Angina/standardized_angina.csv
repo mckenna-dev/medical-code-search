@@ -1,0 +1,19 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,READcode
+4656,Crescendo angina,,,G311.11
+19655,Angina at rest,,,G311.14
+17307,Angina at rest,,,G311200
+34328,Refractory angina,,,G311300
+18118,Worsening angina,,,G311400
+1430,Angina pectoris,,,G33..00
+20095,Angina decubitus,,,G330.00
+18125,Nocturnal angina,,,G330000
+29902,Angina decubitus NOS,,,G330z00
+12986,Prinzmetal's angina,,,G331.00
+11048,Variant angina pectoris,,,G331.11
+25842,Angina pectoris NOS,,,G33z.00
+1414,Angina on effort,,,G33z300
+9555,Post infarct angina,,,G33z500
+26863,New onset angina,,,G33z600
+12804,Stable angina,,,G33z700
+28554,Angina pectoris NOS,,,G33zz00
+39546,[X]Other forms of angina pectoris,,,Gyu3000

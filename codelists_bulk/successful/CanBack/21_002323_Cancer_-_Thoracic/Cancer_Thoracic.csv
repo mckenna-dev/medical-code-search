@@ -1,0 +1,33 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2290,Cancer,Thoracic,a288839010,Malignant neoplasm of other specified pleura,L1:Cancer_L2:Thoracic,B23y.00
+2291,Cancer,Thoracic,a288841011,"Malignant neoplasm of thymus, heart and mediastinum",L1:Cancer_L2:Thoracic,B24..00
+2292,Cancer,Thoracic,a721271000006114,Malignant neoplasm of thymus,L1:Cancer_L2:Thoracic,B240.00
+2293,Cancer,Thoracic,a725151000006110,Malignant neoplasm of heart,L1:Cancer_L2:Thoracic,B241.00
+2294,Cancer,Thoracic,a726071000006111,Malignant neoplasm of endocardium,L1:Cancer_L2:Thoracic,B241000
+2295,Cancer,Thoracic,a724051000006110,Malignant neoplasm of myocardium,L1:Cancer_L2:Thoracic,B241200
+2296,Cancer,Thoracic,a155459013,Malignant neoplasm of pericardium,L1:Cancer_L2:Thoracic,B241300
+2297,Cancer,Thoracic,a173941016,Mesothelioma of pericardium,L1:Cancer_L2:Thoracic,B241400
+2298,Cancer,Thoracic,a288847010,Malignant neoplasm of heart NOS,L1:Cancer_L2:Thoracic,B241z00
+2299,Cancer,Thoracic,a155078019,Malignant neoplasm of anterior mediastinum,L1:Cancer_L2:Thoracic,B242.00
+2300,Cancer,Thoracic,a155473016,Malignant neoplasm of posterior mediastinum,L1:Cancer_L2:Thoracic,B243.00
+2301,Cancer,Thoracic,a724671000006113,"Malignant neoplasm of mediastinum, part unspecified",L1:Cancer_L2:Thoracic,B24X.00
+2302,Cancer,Thoracic,a729521000006112,"Malig neop of other site of heart, thymus and mediastinum",L1:Cancer_L2:Thoracic,B24y.00
+2303,Cancer,Thoracic,a288852017,"Malignant neoplasm of heart, thymus and mediastinum NOS",L1:Cancer_L2:Thoracic,B24z.00
+2304,Cancer,Thoracic,a729531000006110,Malignant neoplasm of thoracic cavity structure,L1:Cancer_L2:Thoracic,B2...00
+2305,Cancer,Thoracic,a380110012,Neoplasm of respiratory tract,L1:Cancer_L2:Thoracic,B2...11
+2306,Cancer,Thoracic,a730001000006117,"Malignant neoplasm, overlapping lesion of heart, mediastinum and pleura",L1:Cancer_L2:Thoracic,B25..00
+2307,Cancer,Thoracic,a720581000006118,Primary malignant neoplasm of intrathoracic organs,L1:Cancer_L2:Thoracic,B26..00
+2308,Cancer,Thoracic,a729601000006118,Malig neop other/ill-defined sites resp/intrathoracic organs,L1:Cancer_L2:Thoracic,B2z..00
+2309,Cancer,Thoracic,a729551000006115,"Malig neop of upper respiratory tract, part unspecified",L1:Cancer_L2:Thoracic,B2z0.00
+2310,Cancer,Thoracic,a288857011,Malignant neoplasm of other site of respiratory tract,L1:Cancer_L2:Thoracic,B2zy.00
+2311,Cancer,Thoracic,a288858018,Malignant neoplasm of respiratory system,L1:Cancer_L2:Thoracic,B2zz.00
+2312,Cancer,Thoracic,a155085015,Malignant neoplasm of aortic body,L1:Cancer_L2:Thoracic,B545100
+2313,Cancer,Thoracic,a155193017,Malignant neoplasm of coccygeal body,L1:Cancer_L2:Thoracic,B545200
+2314,Cancer,Thoracic,a289419010,Malignant neoplasm of aortic body or paraganglia NOS,L1:Cancer_L2:Thoracic,B545z00
+2315,Cancer,Thoracic,a720011000006116,"Malignant neoplasm-pluriglandular involvement,unspecified",L1:Cancer_L2:Thoracic,B54X.00
+2316,Cancer,Thoracic,a289432017,Malignant neoplasm of thorax,L1:Cancer_L2:Thoracic,B551.00
+2317,Cancer,Thoracic,a289436019,Malignant neoplasm of chest wall,L1:Cancer_L2:Thoracic,B551100
+2318,Cancer,Thoracic,a289437011,Malignant neoplasm of intrathoracic site NOS,L1:Cancer_L2:Thoracic,B551200
+2319,Cancer,Thoracic,a289438018,Malignant neoplasm of thorax NOS,L1:Cancer_L2:Thoracic,B551z00
+2320,Cancer,Thoracic,a396561000006116,"[X]Malignant neoplasm/overlap lesion/heart,mediastinm+pleura",L1:Cancer_L2:Thoracic,Byu2100
+2321,Cancer,Thoracic,a292110019,Malignant tumour of mediastinum,L1:Cancer_L2:Thoracic,Byu2500

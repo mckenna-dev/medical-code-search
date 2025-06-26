@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 83
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2           MedCodeID                                              Term
+0   6965     Psychiatric         Bipolar  a12059201000006117  Bipolar disorder, most recent episode depression
+1   6966     Psychiatric         Bipolar  a12059211000006119       Bipolar disorder, most recent episode manic
+2   6967     Psychiatric         Bipolar  a13911951000006118                 Rapid cycling bipolar II disorder

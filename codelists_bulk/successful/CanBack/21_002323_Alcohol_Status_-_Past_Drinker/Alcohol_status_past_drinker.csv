@@ -1,0 +1,12 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+8845,Alcohol_status,past_drinker,a250317010,Stopped drinking alcohol,L1:Alcohol_status_L2:past_drinker,
+8846,Alcohol_status,past_drinker,a250321015,Ex-trivial drinker (<1u/day),L1:Alcohol_status_L2:past_drinker,
+8847,Alcohol_status,past_drinker,a250322010,Ex-light drinker - (1-2u/day),L1:Alcohol_status_L2:past_drinker,
+8848,Alcohol_status,past_drinker,a250323017,Ex-moderate drinker - (3-6u/d),L1:Alcohol_status_L2:past_drinker,
+8849,Alcohol_status,past_drinker,a250324011,Ex-heavy drinker - (7-9u/day),L1:Alcohol_status_L2:past_drinker,
+8850,Alcohol_status,past_drinker,a250329018,Ex-very heavy drinker-(>9u/d),L1:Alcohol_status_L2:past_drinker,
+8851,Alcohol_status,past_drinker,a3843491000006118,Ex-drinker,L1:Alcohol_status_L2:past_drinker,
+8852,Alcohol_status,past_drinker,a4533271000006119,Ex-trivial drinker - less than 1 unit/day,L1:Alcohol_status_L2:past_drinker,
+8853,Alcohol_status,past_drinker,a4533331000006113,Ex-very heavy drinker - greater than 9 units/day,L1:Alcohol_status_L2:past_drinker,
+8854,Alcohol_status,past_drinker,a5720641000006112,Ex-problem drinker,L1:Alcohol_status_L2:past_drinker,
+8855,Alcohol_status,past_drinker,a5886961000006112,Abstinent alcoholic,L1:Alcohol_status_L2:past_drinker,

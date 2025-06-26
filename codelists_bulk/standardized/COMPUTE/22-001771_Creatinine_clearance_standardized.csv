@@ -1,0 +1,7 @@
+med_code_id,term,snomed_ct_concept_id,observations
+2465711000000116,Estimated creatinine clearance (Cockcroft-Gault formula),968191000000100,791639
+2470380013,Estimated creatinine clearance,395680003,204729
+259689015,Creatinine clearance test,1015981000000103,10241
+599911000006119,Creatinine clearance-glom filt,1015981000000103,8748
+993971000006117,Estimated creatinine clearance using Cockcroft-Gault equation,993971000006101,1817
+599891000006116,Creatinine clearance,1015981000000103,1670

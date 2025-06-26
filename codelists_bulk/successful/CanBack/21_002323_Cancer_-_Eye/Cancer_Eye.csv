@@ -1,0 +1,22 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+997,Cancer,Eye,a1208876015,Malignant neoplasm of eye,L1:Cancer_L2:Eye,B50..00
+998,Cancer,Eye,a729311000006110,"Malig neop eyeball excl conjunctiva, cornea, retina, choroid",L1:Cancer_L2:Eye,B500.00
+999,Cancer,Eye,a289308013,Malignant neoplasm of ciliary body,L1:Cancer_L2:Eye,B500000
+1000,Cancer,Eye,a289311014,Malignant neoplasm of iris,L1:Cancer_L2:Eye,B500100
+1001,Cancer,Eye,a289314018,Malignant neoplasm of crystalline lens,L1:Cancer_L2:Eye,B500200
+1002,Cancer,Eye,a289316016,Malignant neoplasm of eyeball NOS,L1:Cancer_L2:Eye,B500z00
+1003,Cancer,Eye,a723541000006115,Malignant neoplasm of orbit,L1:Cancer_L2:Eye,B501.00
+1004,Cancer,Eye,a289317013,Malignant neoplasm of connective tissue of orbit,L1:Cancer_L2:Eye,B501000
+1005,Cancer,Eye,a289319011,Malignant neoplasm of orbit NOS,L1:Cancer_L2:Eye,B501z00
+1006,Cancer,Eye,a289322013,Malignant neoplasm of lacrimal gland,L1:Cancer_L2:Eye,B502.00
+1007,Cancer,Eye,a726371000006114,Malignant neoplasm of conjunctiva,L1:Cancer_L2:Eye,B503.00
+1008,Cancer,Eye,a726561000006114,Malignant neoplasm of cornea,L1:Cancer_L2:Eye,B504.00
+1009,Cancer,Eye,a722521000006116,Malignant neoplasm of retina,L1:Cancer_L2:Eye,B505.00
+1010,Cancer,Eye,a727181000006113,Malignant neoplasm of choroid,L1:Cancer_L2:Eye,B506.00
+1011,Cancer,Eye,a724721000006116,Malignant neoplasm of lacrimal duct,L1:Cancer_L2:Eye,B507.00
+1012,Cancer,Eye,a289325010,Malignant neoplasm of lacrimal sac,L1:Cancer_L2:Eye,B507000
+1013,Cancer,Eye,a289326011,Malignant neoplasm of nasolacrimal duct,L1:Cancer_L2:Eye,B507100
+1014,Cancer,Eye,a1217367011,"Malignant neoplasm, overlapping lesion of eye and adnexa",L1:Cancer_L2:Eye,B508.00
+1015,Cancer,Eye,a409844012,Malignant melanoma of eye,L1:Cancer_L2:Eye,B509.00
+1016,Cancer,Eye,a289329016,Malignant neoplasm of other specified site of eye,L1:Cancer_L2:Eye,B50y.00
+1017,Cancer,Eye,a289330014,Malignant neoplasm of eye NOS,L1:Cancer_L2:Eye,B50z.00

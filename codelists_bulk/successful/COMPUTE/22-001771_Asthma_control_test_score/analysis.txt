@@ -1,0 +1,11 @@
+=== FILE ANALYSIS ===
+Rows: 2
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                 Term  SNOMED_CT_Concept_ID
+0  1118291000000110       1351376            Asthma control test score             443117005
+1  2328001000000113         49057  Childhood Asthma Control Test score       905301000000103

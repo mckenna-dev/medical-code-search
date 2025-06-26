@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 43
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build\tterm1\ttotalcholesterol\tHDL\ttotaloverHDL\tHDLovertotal\thypercholesterolaemia\tcholesterolnormal\tnonHDL\tLDL\tVLDL\tcholtoLDLratio\tcholtoVLDLratio\tHDLtononHDLratio']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build\tterm1\ttotalcholesterol\tHDL\ttotaloverHDL\tHDLovertotal\thypercholesterolaemia\tcholesterolnormal\tnonHDL\tLDL\tVLDL\tcholtoLDLratio\tcholtoVLDLratio\tHDLtononHDLratio
+0                                                                                                            53091\t"C320y00"\t307\t0\t1\t0\t"Other specified pure hypercholesterolaemia"\t"February 2009"\t"other specified pure hypercholesterolaemia"\t0\t0\t0\t0\t1\t0\t0\t0\t0\t0\t0\t0
+1                                                                                                                                         50393\t"44lI.00"\t0\t0\t0\t30\t"Plasma cholesterol/LDL ratio"\t"February 2009"\t"plasma cholesterol/ldl ratio"\t0\t0\t0\t0\t0\t0\t0\t0\t0\t1\t0\t0
+2                                                                                                                           13766\t"44PI.00"\t12\t0\t7\t2149720\t"Calculated LDL cholesterol level"\t"February 2009"\t"calculated ldl cholesterol level"\t0\t0\t0\t0\t0\t0\t0\t1\t0\t0\t0\t0

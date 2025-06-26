@@ -1,0 +1,130 @@
+med_code_id,term,snomed_ct_concept_id,observations
+475431013,Chronic obstructive pulmonary disease,13645005,5000000
+1488424013,Chronic obstructive pulmonary disease annual review,394703002,3000000
+977911000006114,Number of chronic obstructive pulmonary disease exacerbations in past year,723245007,1000000
+189761000000117,Chronic obstructive pulmonary disease monitoring first letter,716241000000106,1000000
+301453013,Acute exacerbation of chronic obstructive airways disease,195951007,900000
+457169013,Moderate chronic obstructive pulmonary disease,313297008,800000
+21163015,Bronchiectasis,12295008,800000
+457168017,Mild chronic obstructive pulmonary disease,313296004,700000
+457171013,Severe chronic obstructive pulmonary disease,313299006,500000
+301545019,Chronic obstructive airway disease,13645005,400000
+640491000006111,Pulmonary emphysema,87433001,300000
+198471000000111,Chronic obstructive pulmonary disease monitoring second letter,717021000000106,300000
+2716231000006114,Chronic obstructive lung disease,13645005,300000
+12625101000006116,QOF (Quality and Outcomes Framework) quality indicator-related care invitation,1109921000000106,200000
+139131000000117,Excepted from COPD quality indicators - patient unsuitable,716311000000100,200000
+139141000000114,Excepted from COPD quality indicators - informed dissent,716291000000101,200000
+555471000006114,COAD - Chronic obstructive airways disease,13645005,200000
+199481000000116,Chronic obstructive pulmonary disease monitoring third letter,717521000000104,100000
+553211000006119,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",195951007,100000
+967581000006118,Chronic obstructive pulmonary disease monitoring telephone invitation,716901000000101,80000
+105519017,Chronic bronchitis,63480004,80000
+2716321000006116,COPD - Chronic obstructive pulmonary disease,13645005,70000
+1683221000000119,Chronic obstructive pulmonary disease 6 monthly review,760621000000103,60000
+516801000000112,Very severe chronic obstructive pulmonary disease,293991000000106,50000
+967571000006116,Chronic obstructive pulmonary disease monitoring verbal invite,716281000000103,50000
+424365019,Acute infective exacerbation of chronic obstructive airways disease,285381006,40000
+1948051000006112,Asthma-chronic obstructive pulmonary disease overlap syndrome,10692761000119107,30000
+2160051010,Emergency hospital admission for chronic obstructive pulmonary disease,408501008,30000
+1683181000000112,Chronic obstructive pulmonary disease 3 monthly review,760601000000107,30000
+301526011,Bronchiectasis NOS,12295008,30000
+8439171000006119,COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message invitation,1066281000000104,20000
+285104011,Obstructive chronic bronchitis,185086009,20000
+1222335015,Chronic obstructive pulmonary disease NOS,13645005,20000
+301477019,Emphysema NOS,87433001,10000
+508561017,Simple chronic bronchitis,61937009,10000
+8439851000006117,COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message first invitation,1066821000000101,10000
+301459012,Chronic bronchitis NOS,63480004,10000
+990641000006110,Chronic obst. pulm. dis. NOS,13645005,10000
+183191000006115,Recurrent wheezy bronchitis,195949008,10000
+301450011,Chronic asthmatic bronchitis,195949008,9000
+8214721000006112,Chronic obstructive pulmonary disease monitoring invitation,711431000000109,9000
+301524014,Recurrent bronchiectasis,195984007,8000
+555461000006119,Chronic obstructive pulmonary disease with acute lower respiratory infection,196001008,7000
+2010061000006113,Acute non-infective exacerbation of chronic obstructive pulmonary disease,847091000000104,7000
+301460019,Chronic bullous emphysema,195957006,6000
+113497011,Centrilobular emphysema,68328006,5000
+1765681000000110,History of chronic obstructive pulmonary disease,270473001,5000
+12626281000006113,QOF (Quality and Outcomes Framework) chronic obstructive pulmonary disease quality indicator-related care invitation,1110861000000102,5000
+301539010,Other specified chronic obstructive airways disease,13645005,5000
+285100019,Emphysematous bronchitis,185086009,3000
+216596014,End stage chronic obstructive airways disease,135836000,3000
+116128010,Broncholithiasis,69921001,2000
+8439871000006110,COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message second invitation,1066841000000108,2000
+38677017,Tuberculous bronchiectasis,23022004,2000
+301525010,Post-infective bronchiectasis,195985008,2000
+123588010,Mucopurulent chronic bronchitis,74417001,2000
+301451010,Chronic wheezy bronchitis,195949008,1000
+508562012,Chronic catarrhal bronchitis,89549007,1000
+7049011000006110,Acute exacerbation of chronic bronchitis,425748003,800
+301468014,Chronic bullous emphysema NOS,195957006,800
+19421011,Interstitial pulmonary emphysema,77690003,800
+12623621000006118,Excepted from COPD (chronic obstructive pulmonary disease) quality indicators - service unavailable,1108721000000102,600
+1230190015,MacLeod's unilateral emphysema,45145000,600
+851261000006116,"Chronic bronchitis, acute exac",851261000006100,600
+301469018,Other emphysema,87433001,500
+4781421000006111,Acute exacerbation of COPD,195951007,500
+79212010,Simple silicosis,47515009,400
+301835010,[X]Other emphysema,87433001,400
+8287171000006115,Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease),847091000000104,400
+8439881000006113,COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message third invitation,1066851000000106,400
+885281000006118,Mucopurulent chr. bronchitis,74417001,400
+301463017,Segmental bullous emphysema,195958001,300
+301455018,Obstructive chronic bronchitis NOS,185086009,300
+9337016,Panlobular emphysema,4981000,300
+396110016,Other emphysema NOS,87433001,300
+301464011,Zonal bullous emphysema,195959009,200
+396108018,Bullous emphysema with collapse,266355005,200
+130626012,Cannabinosis,78723001,200
+4781431000006114,Acute exacerbation of chronic obstructive pulmonary disease,195951007,200
+506053014,Purulent chronic bronchitis,84409004,200
+301836011,[X]Other specified chronic obstructive pulmonary disease,13645005,200
+27096010,Giant bullous emphysema,16003001,200
+301444018,Simple chronic bronchitis NOS,61937009,100
+457581000006111,Acute interstitial emphysema,77690003,100
+87480013,Chronic tracheobronchitis,52571006,100
+301448015,Mucopurulent chronic bronchitis NOS,74417001,100
+3228301000006115,Unilateral emphysema,45145000,100
+6213641000006118,Chronic mucus hypersecretion,360470001,90
+1772931000006114,Desquamative interstitial pneumonia,8549006,80
+301572010,Chronic emphysema due to chemical fumes,196026004,80
+55602016,Compensatory emphysema,33325001,50
+3013801000006116,Paraseptal emphysema,31898008,50
+301457014,Other chronic bronchitis,63480004,50
+8439091000006119,Chronic obstructive pulmonary disease monitoring email invitation,1066231000000103,40
+1222334016,Other specified chronic obstructive pulmonary disease,13645005,40
+301456017,Mixed simple and mucopurulent chronic bronchitis,195953005,40
+2716261000006117,Chronic airflow obstruction,13645005,30
+301458016,Other chronic bronchitis NOS,63480004,30
+8235101000006114,COPD (chronic obstructive pulmonary disease) 3 monthly review,760601000000107,20
+8235131000006118,COPD (chronic obstructive pulmonary disease) 6 monthly review,760621000000103,20
+3611791000006110,Centriacinar emphysema,68328006,20
+7627151000006113,CPFE - combined pulmonary fibrosis and emphysema,708030004,10
+301470017,Acute vesicular emphysema,195963002,10
+5053671000006110,Acquired bronchiectasis,233628009,10
+3921361000006112,Emphysema of lung,87433001,10
+2716241000006116,Chronic airway obstruction,13645005,10
+139979010,Fetid chronic bronchitis,84409004,10
+2716301000006114,Chronic airflow limitation,13645005,10
+2867041000006113,Post-tuberculous bronchiectasis,23022004,8
+2716341000006111,Chronic airway disease,13645005,8
+8090191000006114,Acute exacerbation of chronic obstructive bronchitis,293241000119100,7
+396109014,Atrophic (senile) emphysema,266356006,7
+3228331000006111,Swyer-James syndrome,45145000,6
+4781461000006117,Emphysematous bulla,195957006,5
+5054311000006111,Scar emphysema,233677001,5
+4781471000006112,Bullous emphysema,195957006,5
+3589231000006114,Congenital lobar emphysema,66987001,5
+3764021000006117,Interstitial emphysema of lung,77690003,4
+6763251000006114,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),408501008,3
+4733031000006114,Chronic obstructive bronchitis,185086009,2
+3873191000006110,Fetid chronic bronchitis,84409004,2
+161781000006116,Sawyer - Jones syndrome,45145000,2
+3437401000006110,Emphysematous bleb of lung,57686001,2
+4374681000006116,Chronic emphysema,125295001,1
+2545391000006116,Cystic-bullous disease of the lung,2912004,1
+3013821000006114,Subpleural emphysema,31898008,1
+4510801000006114,End stage chronic obstructive pulmonary disease,135836000,1
+5054301000006113,Chemical emphysema,233675009,1
+2716271000006112,CAFL - Chronic airflow limitation,13645005,1

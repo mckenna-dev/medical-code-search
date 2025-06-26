@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 76
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1    Flag_classifyL2         MedCodeID                                                            Term
+0    901          Cancer  Connective tissue  a825771000006119                           Kaposi's sarcoma associated with AIDS
+1    902          Cancer  Connective tissue  a729331000006116  Malignant neoplasm of bone, connective tissue, skin and breast
+2    903          Cancer  Connective tissue        a380094018           Carcinoma of bone, connective tissue, skin and breast

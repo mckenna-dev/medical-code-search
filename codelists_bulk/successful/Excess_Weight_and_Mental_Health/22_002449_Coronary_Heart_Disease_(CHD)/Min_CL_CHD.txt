@@ -1,0 +1,337 @@
+	MedCodeId	Observations	Term	CHD		
+0	a2534664018	5000000	Ischaemic heart disease	CHD		
+1	a299757012	3000000	Angina pectoris	CHD		
+2	a460133017	2000000	Coronary heart disease annual review	CHD		
+3	a94884017	1000000	Acute myocardial infarction	CHD		
+4	a1780444014	1000000	Coronary heart disease monitoring 1st letter	CHD		
+5	a2537480011	1000000	IHD - Ischaemic heart disease	CHD		
+6	a1780501013	400000	Acute non-ST segment elevation myocardial infarction	CHD		
+7	a219531000000117	300000	MI - acute myocardial infarction	CHD		
+8	a1780445010	300000	Coronary heart disease monitoring 2nd letter	CHD		
+9	a1488382011	200000	Acute coronary syndrome	CHD		
+10	a1780491019	200000	Acute ST segment elevation myocardial infarction	CHD		
+11	a2536395017	200000	Coronary artery disease	CHD		
+12	a1484833014	100000	Coronary heart disease review	CHD		
+13	a299835014	100000	Ischaemic heart disease NOS	CHD		
+14	a411904010	100000	Aspirin prophylaxis for ischaemic heart disease	CHD		
+15	a495371000000110	100000	Review of patient at risk from coronary heart disease	CHD		
+16	a1488440011	100000	Coronary heart disease medication review	CHD		
+17	a1780446011	100000	Coronary heart disease monitoring 3rd letter	CHD		
+18	a7845011	90000	Unstable angina	CHD		
+19	a299714019	90000	Acute myocardial infarction of inferior wall	CHD		
+20	a1484939014	80000	Coronary heart disease monitoring administration	CHD		
+21	a350348018	70000	Stable angina	CHD		
+22	a299721019	60000	Acute myocardial infarction NOS	CHD		
+23	a72571000006115	60000	Unstable angina	CHD		
+24	a4031011	60000	Old myocardial infarction	CHD		
+25	a482941000006119	50000	Angina pectoris NOS	CHD		
+26	a1780518012	50000	Coronary heart disease monitoring check done	CHD		
+27	a299765010	50000	Angina pectoris NOS	CHD		
+28	a350346019	40000	Triple vessel disease of the heart	CHD		
+29	a595731000006114	40000	Coronary atherosclerosis	CHD		
+30	a406961000000113	30000	Coronary heart disease monitoring telephone invite	CHD		
+31	a1780447019	30000	Coronary heart disease monitoring verbal invitation	CHD		
+32	a299709018	20000	Anterior myocardial infarction NOS	CHD		
+33	a455641000006112	20000	Acute anterolateral myocardial infarction	CHD		
+34	a299782012	20000	Single coronary vessel disease	CHD		
+35	a299783019	20000	Double coronary vessel disease	CHD		
+36	a1780442013	10000	Attends coronary heart disease monitoring	CHD		
+37	a457531000006110	10000	Acute inferolateral myocardial infarction	CHD		
+38	a37443015	10000	Heart attack	CHD		
+39	a299776014	10000	Chronic ischaemic heart disease	CHD		
+40	a810821000006112	10000	H/O: myocardial infarct at greater than 60	CHD		
+41	a1780517019	10000	Coronary heart disease monitoring default	CHD		
+42	a442204010	10000	Angina on effort	CHD		
+43	a810811000006116	10000	H/O: myocardial infarct at less than 60	CHD		
+44	a299796018	10000	Ischaemic cardiomyopathy	CHD		
+45	a116992017	9000	Acute subendocardial infarction	CHD		
+46	a7847015	8000	Crescendo angina	CHD		
+47	a299745015	8000	Acute coronary insufficiency	CHD		
+48	a451132018	8000	[V]Presence of coronary artery bypass graft	CHD		
+49	a884151000006119	7000	Myocardial Infarction	CHD		
+50	a338974012	6000	Ischaemic chest pain	CHD		
+51	a299707016	6000	Acute anterior myocardial infarction	CHD		
+52	a494261017	6000	Worsening angina	CHD		
+53	a2160096015	6000	Coronary artery bypass graft occlusion	CHD		
+54	a7844010	5000	Preinfarction syndrome	CHD		
+55	a459859010	5000	Asymptomatic coronary heart disease	CHD		
+56	a1235225010	5000	Prinzmetal's angina	CHD		
+57	a8079871000006116	5000	Coronary heart disease monitoring telephone invitation	CHD		
+58	a299741012	5000	Preinfarction syndrome	CHD		
+59	a299834013	4000	Other specified ischaemic heart disease	CHD		
+60	a498328016	4000	Angina at rest	CHD		
+61	a299710011	4000	Acute posterior myocardial infarction	CHD		
+62	a455651000006114	4000	Acute anteroseptal myocardial infarction	CHD		
+63	a12626301000006112	4000	QOF (Quality and Outcomes Framework) secondary prevention of coronary heart disease quality indicator-related care invitation	CHD		
+64	a451372015	4000	H/O: Treatment for ischaemic heart disease	CHD		
+65	a450322013	3000	Acute non-Q wave infarction	CHD		
+66	a1786197015	3000	Coronary thrombosis	CHD		
+67	a2855301000006112	3000	Myocardial infarction	CHD		
+68	a8459551000006115	3000	Coronary heart disease monitoring invitation	CHD		
+69	a350350014	3000	New onset angina	CHD		
+70	a1235573016	3000	Ventricular cardiac aneurysm	CHD		
+71	a1234005010	3000	Acute inferoposterior infarction	CHD		
+72	a299711010	3000	Acute lateral myocardial infarction	CHD		
+73	a350376014	3000	Silent myocardial infarction	CHD		
+74	a2534674015	3000	Chronic myocardial ischaemia	CHD		
+75	a108561012	2000	Aneurysm of heart	CHD		
+76	a299718016	2000	Other acute myocardial infarction	CHD		
+77	a13823711000006118	2000	Coronary heart disease monitoring first letter	CHD		
+78	a451369010	2000	H/O: Myocardial infarction in last year	CHD		
+79	a39111000006114	2000	Other acute and subacute ischaemic heart disease	CHD		
+80	a394541000006112	2000	[X]Ischaemic heart diseases	CHD		
+81	a98087016	2000	Angina decubitus	CHD		
+82	a299805019	2000	Other chronic ischaemic heart disease NOS	CHD		
+83	a350354017	2000	Silent myocardial ischaemia	CHD		
+84	a1654891000000110	1000	Coronary angioplasty planned	CHD		
+85	a459487012	1000	Refractory angina	CHD		
+86	a1550991000000116	1000	Coronary artery bypass graft operation planned	CHD		
+87	a4776121000006117	1000	Generalised ischaemic myocardial dysfunction	CHD		
+88	a13930051000006117	1000	Dressler's syndrome	CHD		
+89	a2115181000000110	1000	Coronary microvascular disease	CHD		
+90	a459488019	1000	Transient myocardial ischaemia	CHD		
+91	a3371421000006117	1000	Coronary heart disease	CHD		
+92	a482811000006113	1000	Angina at rest	CHD		
+93	a89332015	1000	Atherosclerotic heart disease	CHD		
+94	a458410010	1000	Post infarct angina	CHD		
+95	a219521000000119	1000	Attack - heart	CHD		
+96	a3371411000006113	900	CHD - Coronary heart disease	CHD		
+97	a2536393012	800	Arteriosclerotic heart disease	CHD		
+98	a119261000006115	800	Sudden cardiac death	CHD		
+99	a884141000006116	700	Coronary thrombosis	CHD		
+100	a299808017	700	Subsequent myocardial infarction	CHD		
+101	a4032016	700	Healed myocardial infarction	CHD		
+102	a208365015	700	Postoperative myocardial infarction	CHD		
+103	a5887611000006117	700	Exercise-induced angina	CHD		
+104	a6651391000006114	600	NSTEMI - Non-ST segment elevation MI	CHD		
+105	a1234306015	600	Acute septal infarction	CHD		
+106	a2609111000000119	600	Non-obstructive coronary atherosclerosis	CHD		
+107	a884171000006112	600	Chr. ischaemic heart dis. NOS	CHD		
+108	a1780448012	500	Coronary heart disease monitoring deleted	CHD		
+109	a299720018	500	Other acute myocardial infarction NOS	CHD		
+110	a299712015	500	True posterior myocardial infarction	CHD		
+111	a447324018	500	Acute Q-wave infarct	CHD		
+112	a3600701000006114	500	Coronary artery atheroma	CHD		
+113	a109916013	500	Dressler's syndrome	CHD		
+114	a59952018	400	Nocturnal angina	CHD		
+115	a2537483013	400	Chronic coronary insufficiency	CHD		
+116	a299723016	400	Other acute and subacute ischaemic heart disease	CHD		
+117	a884161000006117	400	Acute/subacute IHD NOS	CHD		
+118	a4775971000006114	400	Angina	CHD		
+119	a144819018	400	Variant angina pectoris	CHD		
+120	a1786198013	400	Thrombosis - coronary	CHD		
+121	a460681000006116	400	Acute transmural myocardial infarction of unspecif site	CHD		
+122	a5058231000006119	400	Coronary artery stenosis	CHD		
+123	a682481000006118	400	Myocardial infarction aborted	CHD		
+124	a216351000006118	300	Post infarction pericarditis	CHD		
+125	a4005601000006116	300	Calcific coronary arteriosclerosis	CHD		
+126	a300874013	300	[X]Other forms of angina pectoris	CHD		
+127	a109915012	300	Post-myocardial infarction syndrome	CHD		
+128	a299804015	300	Other specified chronic ischaemic heart disease NOS	CHD		
+129	a299800012	300	Other specified chronic ischaemic heart disease	CHD		
+130	a1232666014	300	Cardiac aneurysm	CHD		
+131	a12734391000006116	200	QOF (Quality and Outcomes Framework) secondary prevention of coronary heart disease quality indicator-related care invitation using preferred method of communication	CHD		
+132	a967931000006114	200	Acute myocardial infarction of posterolateral wall	CHD		
+133	a537751000006115	200	Cardiac rupture after acute myocardial infarction	CHD		
+134	a6850801000006111	200	Disorder of coronary artery	CHD		
+135	a494438016	200	Subendocardial ischaemia	CHD		
+136	a299763015	200	Angina decubitus NOS	CHD		
+137	a299790012	200	Aneurysm of heart NOS	CHD		
+138	a299708014	200	Acute anteroapical infarction	CHD		
+139	a299750014	200	Other acute and subacute ischaemic heart disease NOS	CHD		
+140	a460686018	200	[V]Presence of aortocoronary bypass graft	CHD		
+141	a299742017	200	Coronary thrombosis not resulting in myocardial infarction	CHD		
+142	a6360391000006118	200	Atypical angina	CHD		
+143	a6651221000006117	200	STEMI - ST elevation myocardial infarction	CHD		
+144	a931961000006117	200	Acute coronary syndrome	CHD		
+145	a299812011	100	Subsequent myocardial infarction of inferior wall	CHD		
+146	a412682010	100	Transient myocardial ischaemia of newborn	CHD		
+147	a3920021000006112	100	Coronary artery spasm angina	CHD		
+148	a455422014	100	Postoperative subendocardial myocardial infarction	CHD		
+149	a36036010	100	Syncope anginosa	CHD		
+150	a7571581000006113	100	Acute anterior ST segment elevation myocardial infarction	CHD		
+151	a6360351000006112	100	Multi vessel coronary artery disease	CHD		
+152	a585631000000113	100	Emergency hospital admission for ischaemic heart disease	CHD		
+153	a299719012	100	Acute atrial infarction	CHD		
+154	a3371381000006110	90	CAD - Coronary artery disease	CHD		
+155	a3381601000006117	90	Acute myocardial infarction of anterior wall	CHD		
+156	a6864781000006110	90	Myocardial ischaemia	CHD		
+157	a299811016	90	Subsequent myocardial infarction of anterior wall	CHD		
+158	a813961000006116	90	Haemopericardium as current complication following acute myocardial infarction	CHD		
+159	a362461000006119	80	[X]Acute transmural myocardial infarction of unspecif site	CHD		
+160	a100681000006116	80	"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"	CHD		
+161	a7572321000006112	80	Acute ST segment elevation myocardial infarction of inferior wall	CHD		
+162	a455423016	80	"Postoperative myocardial infarction, unspecified"	CHD		
+163	a7105241000006116	80	Typical angina	CHD		
+164	a6601121000006118	80	Coronary artery thrombosis	CHD		
+165	a498031000006112	80	Atrial septal defect as current complication following acute myocardial infarction	CHD		
+166	a395755010	80	Other cardiac wall aneurysm	CHD		
+167	a2619484018	70	MI - Myocardial infarction aborted	CHD		
+168	a5887631000006111	70	Exertional angina	CHD		
+169	a6546111000006118	70	ACS - Acute coronary syndrome	CHD		
+170	a7572331000006110	70	Acute STEMI (ST elevation myocardial infarction) of inferior wall	CHD		
+171	a7571601000006115	70	Acute STEMI (ST elevation myocardial infarction) of anterior wall	CHD		
+172	a300879015	70	[X]Other forms of chronic ischaemic heart disease	CHD		
+173	a67081000006119	60	Ventricular septal defect as current complication following acute myocardial infarction	CHD		
+174	a6860251000006115	60	Ischemic heart disease	CHD		
+175	a5056201000006111	50	Triple vessel coronary artery disease	CHD		
+176	a32122016	50	Status anginosus	CHD		
+177	a300876010	50	[X]Other forms of acute ischaemic heart disease	CHD		
+178	a2729671000000118	40	Acute transmural myocardial infarction	CHD		
+179	a8036721000006118	40	Chronic total occlusion of coronary artery	CHD		
+180	a1229885017	40	Microinfarction of heart	CHD		
+181	a411503014	40	Mural cardiac aneurysm	CHD		
+182	a9868571000006116	40	Mural thrombus of left ventricle following acute myocardial infarction	CHD		
+183	a543291000006110	40	Myocardial infarction with complication	CHD		
+184	a14130101000006118	40	Stenosis of anterior descending branch of left coronary artery	CHD		
+185	a4354151000006115	40	Right coronary artery occlusion	CHD		
+186	a118831000006118	40	Subsequent myocardial infarction of unspecified site	CHD		
+187	a4776071000006117	30	Two coronary vessel disease	CHD		
+188	a6360361000006114	30	Left main coronary artery disease	CHD		
+189	a616081000006113	30	Diabetes mellitus insulin-glucose infusion in acute myocardial infarction	CHD		
+190	a3536581000006113	30	Coronary occlusion	CHD		
+191	a14132941000006118	30	Myocardial infarction with non-obstructive coronary artery	CHD		
+192	a3920011000006116	30	Variant angina	CHD		
+193	a6860261000006118	30	IHD - Ischemic heart disease	CHD		
+194	a3371361000006117	20	Coronary arteriosclerosis	CHD		
+195	a4776031000006115	20	Ischaemic heart disease - angina	CHD		
+196	a5056421000006119	20	Old inferior myocardial infarction	CHD		
+197	a5056941000006119	20	Post-infarction pericarditis	CHD		
+198	a3919991000006112	20	Prinzmetal angina	CHD		
+199	a13941171000006115	20	Occlusion of mid left anterior descending coronary artery	CHD		
+200	a212061000006119	20	Postoperative transmural myocardial infarction of anterior wall	CHD		
+201	a4776141000006112	20	Ischemic cardiomyopathy	CHD		
+202	a14130061000006116	20	Stenosis of right coronary artery	CHD		
+203	a212071000006114	20	Postoperative transmural myocardial infarction of inferior wall	CHD		
+204	a7475751000006117	20	Ischaemic dilated cardiomyopathy due to coronary artery disease	CHD		
+205	a13941121000006116	20	Occlusion of proximal left anterior descending coronary artery	CHD		
+206	a3166141000006114	20	"Angina, class II"	CHD		
+207	a313424014	20	Congenital aneurysm of heart	CHD		
+208	a6546751000006118	20	First myocardial infarction	CHD		
+209	a299813018	20	Subsequent myocardial infarction of other sites	CHD		
+210	a8459561000006118	20	Coronary heart disease monitoring invitation email	CHD		
+211	a5056411000006110	10	Old anterior myocardial infarction	CHD		
+212	a3641641000006116	10	Acute myocardial infarction of anterolateral wall	CHD		
+213	a2855351000006111	10	Myocardial infarct	CHD		
+214	a6841231000006113	10	Acute ischaemic heart disease	CHD		
+215	a13941191000006119	10	Occlusion of distal left anterior descending coronary artery	CHD		
+216	a3699921000006110	10	Acute inferior myocardial infarction	CHD		
+217	a13930031000006112	10	Delayed postmyocardial infarction pericarditis	CHD		
+218	a3565871000006113	10	Acute myocardial infarction of inferolateral wall	CHD		
+219	a158601000006116	10	Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction	CHD		
+220	a12122341000006114	10	Acute ST segment elevation myocardial infarction of inferoposterior wall	CHD		
+221	a12122331000006116	10	Acute ST segment elevation myocardial infarction of inferolateral wall	CHD		
+222	a5935321000006111	10	Acute Q wave myocardial infarction	CHD		
+223	a7508021000006119	10	CABG (coronary artery bypass graft) operation planned	CHD		
+224	a300882013	10	[X]Subsequent myocardial infarction of unspecified site	CHD		
+225	a3971381000006115	9	Ventricular aneurysm	CHD		
+226	a14130081000006114	9	Stenosis of left coronary artery main stem	CHD		
+227	a7502661000006117	9	Microvascular ischaemia of myocardium	CHD		
+228	a2855341000006114	8	MI - Myocardial infarction	CHD		
+229	a14130091000006112	8	Stenosis of circumflex branch of left coronary artery	CHD		
+230	a7065281000006117	8	Ischaemic congestive cardiomyopathy	CHD		
+231	a7573181000006118	8	Heart failure with reduced ejection fraction due to coronary artery disease	CHD		
+232	a299758019	8	Stenocardia	CHD		
+233	a5294511000006117	7	Coronary graft stenosis	CHD		
+234	a3745741000006117	7	Acute myocardial infarction of inferoposterior wall	CHD		
+235	a7572351000006115	7	Silent coronary vasospastic disease	CHD		
+236	a3499001000006116	7	"Angina, class I"	CHD		
+237	a3886751000006118	7	"Angina, class III"	CHD		
+238	a13941141000006111	7	Acute ST segment elevation myocardial infarction due to mid left anterior descending coronary artery occlusion	CHD		
+239	a7574491000006114	6	Subsequent NSTEMI (non-ST segment elevation myocardial infarction)	CHD		
+240	a212091000006110	6	Postoperative transmural myocardial infarction unspec site	CHD		
+241	a6841391000006118	6	Acute myocardial ischaemia	CHD		
+242	a7572341000006117	6	Acute inferior ST segment elevation myocardial infarction	CHD		
+243	a159001000006119	6	Rupture of papillary muscle as current complication following acute myocardial infarction	CHD		
+244	a4354131000006110	6	Left coronary artery occlusion	CHD		
+245	a5056501000006113	6	Post-infarction ventricular septal defect	CHD		
+246	a1218860015	6	Acute papillary muscle infarction	CHD		
+247	a3452181000006112	5	Acute myocardial infarction of lateral wall	CHD		
+248	a2515471000006117	5	Septal infarction by electrocardiogram	CHD		
+249	a13945191000006117	5	Occlusion of anterior descending branch of left coronary artery	CHD		
+250	a8087751000006116	5	Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery	CHD		
+251	a9868461000006110	5	Unstable angina co-occurrent and due to coronary arteriosclerosis	CHD		
+252	a6043771000006118	5	Non-Q wave myocardial infarction	CHD		
+253	a4776051000006110	5	Single vessel coronary artery disease	CHD		
+254	a7703511000006110	4	Subacute ischaemic heart disease	CHD		
+255	a8011041000006111	4	Acute myocardial infarction due to right coronary artery occlusion	CHD		
+256	a7084801000006112	4	Mixed myocardial ischaemia and infarction	CHD		
+257	a494260016	4	Impending infarction	CHD		
+258	a5647291000006110	4	Ischaemic myocardial dysfunction	CHD		
+259	a300881018	4	[X]Subsequent myocardial infarction of other sites	CHD		
+260	a3536601000006115	4	Coronary artery occluded	CHD		
+261	a7572301000006119	3	Acute myocardial infarction during procedure	CHD		
+262	a2571561000006118	3	Pre-infarction syndrome	CHD		
+263	a9844011000006119	3	Acute ST segment elevation myocardial infarction of posterior wall	CHD		
+264	a4775931000006111	3	Aborted myocardial infarction	CHD		
+265	a5056431000006116	3	Old lateral myocardial infarction	CHD		
+266	a9843961000006118	3	Acute ST segment elevation myocardial infarction of anterolateral wall	CHD		
+267	a14145381000006119	3	Occlusion of circumflex branch of left coronary artery	CHD		
+268	a4776001000006111	3	Anginal syndrome	CHD		
+269	a4776081000006119	3	Double vessel coronary artery disease	CHD		
+270	a12276271000006112	3	Progressive angina	CHD		
+271	a8259701000006112	3	Referral to coronary heart disease clinic	CHD		
+272	a14130111000006115	3	LAD (left anterior descending) coronary artery stenosis	CHD		
+273	a3842391000006115	2	Ischaemic contracture of left ventricle syndrome	CHD		
+274	a14130071000006111	2	RCA (right coronary artery) stenosis	CHD		
+275	a9843981000006111	2	Acute ST segment elevation myocardial infarction of lateral wall	CHD		
+276	a13935211000006117	2	Acute myocardial infarction of inferolateral wall with posterior extension	CHD		
+277	a5056461000006113	2	MI - Silent myocardial infarction	CHD		
+278	a7298951000006115	2	Arteriosclerosis of coronary artery bypass graft of transplanted heart	CHD		
+279	a212081000006112	2	Postoperative transmural myocardial infarction other sites	CHD		
+280	a7966931000006114	2	Angina associated with type 2 diabetes mellitus	CHD		
+281	a5476971000006117	2	Aneurysm of membranous septum	CHD		
+282	a5056441000006114	2	Old posterior myocardial infarction	CHD		
+283	a13941091000006115	2	Acute ST segment elevation myocardial infarction due to proximal left anterior descending coronary artery occlusion	CHD		
+284	a13945211000006116	2	Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery	CHD		
+285	a158611000006118	2	Rupture of chordae tendinae as current complication following acute myocardial infarction	CHD		
+286	a13947581000006115	2	Occlusion of diagonal branch of anterior descending branch of left coronary artery	CHD		
+287	a5836981000006113	2	Left ventricular aneurysm	CHD		
+288	a7093091000006111	2	Recent myocardial infarction	CHD		
+289	a13945971000006115	2	Occlusion of septal branch of anterior descending branch of left coronary artery	CHD		
+290	a13961321000006113	2	Occlusion of proximal portion of right coronary artery	CHD		
+291	a14015031000006119	2	Myocardial infarction due to demand ischaemia	CHD		
+292	a7789771000006114	2	Non-obstructive atherosclerosis of coronary artery	CHD		
+293	a3024781000006112	2	"Past myocardial infarction diagnosed on ECG AND/OR other special investigation, but currently presenting no symptoms"	CHD		
+294	a5056331000006111	2	Acute Q wave infarction - inferolateral	CHD		
+295	a3458791000006114	2	Anginal chest pain at rest	CHD		
+296	a3576371000006117	2	Postmyocardial infarction syndrome	CHD		
+297	a7574481000006111	2	Subsequent non-ST segment elevation myocardial infarction	CHD		
+298	a13961371000006114	1	Acute ST segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery	CHD		
+299	a7696501000006114	1	Resting ischaemia	CHD		
+300	a13941231000006112	1	Acute STEMI (ST elevation myocardial infarction) due to distal LAD (left anterior descending) coronary artery occlusion	CHD		
+301	a13941161000006110	1	Acute STEMI (ST elevation myocardial infarction) due to mid LAD (left anterior descending) coronary artery occlusion	CHD		
+302	a3920001000006119	1	Variant angina pectoris	CHD		
+303	a7855741000006112	1	Atherosclerosis of autologous coronary artery bypass graft	CHD		
+304	a4056701000006114	1	Atrial septal aneurysm	CHD		
+305	a14015311000006110	1	Coronary artery disease due to type 2 diabetes mellitus	CHD		
+306	a5056471000006118	1	Accelerated coronary artery disease in transplanted heart	CHD		
+307	a13961461000006113	1	Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery	CHD		
+308	a6847761000006118	1	Chronic ischemic heart disease	CHD		
+309	a3551171000006114	1	Acute myocardial infarction of high lateral wall	CHD		
+310	a7574041000006111	1	Mitral valve regurgitation due to acute myocardial infarction	CHD		
+311	a5837001000006115	1	Left ventricular wall aneurysmal	CHD		
+312	a7572221000006117	1	Subsequent ST segment elevation myocardial infarction of inferior wall	CHD		
+313	a12125951000006116	1	Arteriosclerosis of autologous vein coronary artery bypass graft with angina	CHD		
+314	a3459561000006119	1	Acute myocardial infarction of apical-lateral wall	CHD		
+315	a5056311000006117	1	Acute Q wave infarction - inferior	CHD		
+316	a6360421000006114	1	Recurrent angina after coronary stent placement	CHD		
+317	a6601131000006115	1	CT - Coronary thrombosis	CHD		
+318	a5056261000006112	1	Asymptomatic ischaemia	CHD		
+319	a7100421000006116	1	Recurrent coronary arteriosclerosis after percutaneous transluminal coronary angioplasty	CHD		
+320	a3427201000006111	1	AMI - Acute myocardial infarction	CHD		
+321	a7571611000006117	1	Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle	CHD		
+322	a7278491000006111	1	Atherosclerosis of coronary artery	CHD		
+323	a7106991000006111	1	Coronary arteriosclerosis of coronary artery bypass graft	CHD		
+324	a5887641000006118	1	Angina of effort	CHD		
+325	a13935161000006114	1	Acute myocardial infarction of right ventricle	CHD		
+326	a6360441000006119	1	Recurrent angina after coronary artery bypass graft	CHD		
+327	a9844051000006118	1	Acute ST segment elevation myocardial infarction due to right coronary artery occlusion	CHD		
+328	a13941211000006118	1	Acute ST segment elevation myocardial infarction due to distal left anterior descending coronary artery occlusion	CHD		
+329	a4775981000006112	1	Cardiac angina	CHD		
+330	a9843991000006114	1	Acute ST segment elevation myocardial infarction of anteroseptal wall	CHD		
+331	a3191111000006116	1	Congenital coronary artery sclerosis	CHD		
+332	a6360401000006116	1	Recurrent angina after percutaneous transluminal coronary angioplasty	CHD		
+333	a13947721000006111	1	Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery	CHD		
+334	a5837011000006117	1	LVA - Left ventricular aneurysm	CHD		
+335	a13961451000006111	1	Acute STEMI (ST elevation myocardial infarction) due to PDA (posterior descending artery) branch of RCA (right coronary artery) occlusion	CHD		

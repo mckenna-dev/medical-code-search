@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                        Term  SNOMED_CT_Concept_ID
+0   128101000000116        171247              Carcinoembryonic antigen level      1026701000000107
+1  2336481000000110         96231  Serum CEA (carcinoembryonic antigen) level      1000471000000102
+2   540511000006114          9786        CEA - Carcinoembryonic antigen level      1026701000000107

@@ -1,0 +1,156 @@
+	MedCodeId	Observations	Term	Depression_diagnosis
+0	488211000006112	8000000.0	Mixed anxiety and depressive disorder	Depression_diagnosis
+1	376691000006116	5000000.0	Depression	Depression_diagnosis
+2	295535012	5000000.0	Depressive disorder	Depression_diagnosis
+3	2164006016	3000000.0	Depressed	Depression_diagnosis
+4	376721000006114	1000000.0	Depressive episode	Depression_diagnosis
+5	675861000006113	800000.0	Reactive depression (situational)	Depression_diagnosis
+6	296138013	700000.0	[X]Moderate depressive episode	Depression_diagnosis
+7	401872015	600000.0	[X]Depressive episode, unspecified	Depression_diagnosis
+8	223651000000118	500000.0	Postpartum depression	Depression_diagnosis
+9	359121000006116	400000.0	Reactive depression	Depression_diagnosis
+10	401766011	400000.0	Major depression, single episode	Depression_diagnosis
+11	882671000006112	300000.0	Depression	Depression_diagnosis
+12	295537016	300000.0	Chronic depression	Depression_diagnosis
+13	398561000006117	300000.0	[X]Mixed anxiety and depressive disorder	Depression_diagnosis
+14	401873013	300000.0	[X]Recurrent depressive disorder	Depression_diagnosis
+15	294844012	300000.0	Recurrent depression	Depression_diagnosis
+16	296137015	200000.0	Mild depression	Depression_diagnosis
+17	441826016	200000.0	Endogenous depression	Depression_diagnosis
+18	882681000006110	200000.0	Depression NOS	Depression_diagnosis
+19	410861011	200000.0	Endogenous depression - recurrent	Depression_diagnosis
+20	473201000006114	200000.0	Mood disorder	Depression_diagnosis
+21	401866015	100000.0	[X]Severe depressive episode without psychotic symptoms	Depression_diagnosis
+22	138421012	100000.0	Agitated depression	Depression_diagnosis
+23	213641000000111	90000.0	[X]Mild depression	Depression_diagnosis
+24	346972018	80000.0	Endogenous depression first episode	Depression_diagnosis
+25	882401000006115	80000.0	Reactive (neurotic) depression	Depression_diagnosis
+26	474171000006112	80000.0	Agitated depression	Depression_diagnosis
+27	294826016	50000.0	Moderate major depression, single episode	Depression_diagnosis
+28	294825017	50000.0	Mild major depression, single episode	Depression_diagnosis
+29	642461000006116	50000.0	Endogenous depression first episode	Depression_diagnosis
+30	182721000006111	50000.0	Recurrent major depressive episodes	Depression_diagnosis
+31	376711000006118	50000.0	[X]Depressive disorder NOS	Depression_diagnosis
+32	1231868010	30000.0	Puerperal depression	Depression_diagnosis
+33	294824018	30000.0	Single major depressive episode, unspecified	Depression_diagnosis
+34	398351000006110	30000.0	[X]Mild anxiety depression	Depression_diagnosis
+35	6000711000006112	20000.0	Moderate depression	Depression_diagnosis
+36	1839581000006112	20000.0	PHQ9 total score 20-27 (severe depression)	Depression_diagnosis
+37	1839571000006114	20000.0	PHQ9 total score 15-19 (moderately severe depression)	Depression_diagnosis
+38	1839561000006119	20000.0	PHQ9 total score 10-14 (moderate depression)	Depression_diagnosis
+39	142541000006115	20000.0	Severe major depression, single episode	Depression_diagnosis
+40	379781000006118	20000.0	[X]Endogenous depression without psychotic symptoms	Depression_diagnosis
+41	296181011	20000.0	[X]Recurrent depressive disorder, current episode moderate	Depression_diagnosis
+42	294838013	20000.0	Recurrent major depressive episodes, moderate	Depression_diagnosis
+43	882821000006110	10000.0	Moderate depression	Depression_diagnosis
+44	294837015	10000.0	Recurrent major depressive episodes, mild	Depression_diagnosis
+45	419841000006116	10000.0	[X]Persistant anxiety depression	Depression_diagnosis
+46	294836012	10000.0	Recurrent major depressive episodes, unspecified	Depression_diagnosis
+47	1715181000006114	10000.0	Moderate major depression	Depression_diagnosis
+48	1715191000006112	10000.0	Severe major depression with psychotic features	Depression_diagnosis
+49	423131000006113	10000.0	[X]Postnatal depression NOS	Depression_diagnosis
+50	294845013	10000.0	Recurrent major depressive episode NOS	Depression_diagnosis
+51	401876017	10000.0	[X]Recurrent depressive disorder, unspecified	Depression_diagnosis
+52	401871010	9000.0	[X]Other depressive episodes	Depression_diagnosis
+53	294832014	9000.0	Single major depressive episode NOS	Depression_diagnosis
+54	182771000006112	9000.0	Recurrent major depressive episodes, severe	Depression_diagnosis
+55	223741000000112	9000.0	Severe depression	Depression_diagnosis
+56	908731000006114	9000.0	[RFC] Postnatal depression	Depression_diagnosis
+57	399961000006118	8000.0	Depressive neurosis	Depression_diagnosis
+58	426971000006119	8000.0	[X]Single episode of reactive depression	Depression_diagnosis
+59	426911000006111	7000.0	[X]Single episode of depressive reaction	Depression_diagnosis
+60	346973011	6000.0	Masked depression	Depression_diagnosis
+61	296180012	6000.0	[X]Recurrent depressive disorder, current episode mild	Depression_diagnosis
+62	909681000006110	6000.0	[RFC] Depression	Depression_diagnosis
+63	424651000006114	5000.0	[X]Recurrent episodes of reactive depression	Depression_diagnosis
+64	882831000006113	5000.0	Severe depression	Depression_diagnosis
+65	882811000006119	5000.0	Mild depression	Depression_diagnosis
+66	1715781000006110	5000.0	Severe major depression without psychotic features	Depression_diagnosis
+67	294646011	4000.0	Senile dementia with depression	Depression_diagnosis
+68	376741000006119	3000.0	[X]Depressive neurosis	Depression_diagnosis
+69	1976491000006113	2000.0	Mixed anxiety and depressive reaction	Depression_diagnosis
+70	396081000006116	2000.0	[X]Major depression, recurrent without psychotic symptoms	Depression_diagnosis
+71	424641000006112	2000.0	[X]Recurrent episodes of psychogenic depression	Depression_diagnosis
+72	1715771000006112	1000.0	Mild major depression	Depression_diagnosis
+73	2620391000000111	1000.0	Maternal postnatal depression	Depression_diagnosis
+74	423611000006111	1000.0	[X]Prolonged single episode of reactive depression	Depression_diagnosis
+75	423141000006115	1000.0	[X]Postpartum depression NOS	Depression_diagnosis
+76	13974501000006115	1000.0	Depressive episode	Depression_diagnosis
+77	294894013	1000.0	Atypical depressive disorder	Depression_diagnosis
+78	366561000006119	1000.0	[X]Atypical depression	Depression_diagnosis
+79	296199015	1000.0	[X]Other recurrent depressive disorders	Depression_diagnosis
+80	426941000006110	1000.0	[X]Single episode of psychogenic depression	Depression_diagnosis
+81	424551000006113	1000.0	[X]Recurr severe episodes/psychogenic depressive psychosis	Depression_diagnosis
+82	294642013	900.0	Presenile dementia with depression	Depression_diagnosis
+83	1785881000006119	900.0	Antenatal depression	Depression_diagnosis
+84	426891000006114	500.0	[X] Single episode agitated depression without psychotic symptoms	Depression_diagnosis
+85	425751000006115	400.0	[X]Seasonal depressive disorder	Depression_diagnosis
+86	1976251000006115	300.0	Recurrent depressive disorder, current episode moderate, without somatic syndrome	Depression_diagnosis
+87	1976051000006112	300.0	Moderate depressive episode, with somatic syndrome	Depression_diagnosis
+88	1976021000006115	300.0	Moderate depressive episode, without somatic syndrome	Depression_diagnosis
+89	423041000006119	200.0	[X]Post-schizophrenic depression	Depression_diagnosis
+90	1823881000006110	200.0	Depression confirmed	Depression_diagnosis
+91	6337491000006116	200.0	Major depressive disorder	Depression_diagnosis
+92	3153071000006116	100.0	Recurrent brief depressive disorder	Depression_diagnosis
+93	426931000006117	100.0	[X]Single episode of masked depression NOS	Depression_diagnosis
+94	426991000006118	100.0	[X]Single episode vital depression w'out psychotic symptoms	Depression_diagnosis
+95	3071791000006111	100.0	Depressive illness	Depression_diagnosis
+96	853871000006111	100.0	Post natal depression	Depression_diagnosis
+97	1976271000006113	100.0	Recurrent depressive disorder, current episode moderate, with somatic syndrome	Depression_diagnosis
+98	398841000006119	100.0	[X]Monopolar depression NOS	Depression_diagnosis
+99	5106051000006119	100.0	Mild postnatal depression	Depression_diagnosis
+100	12127551000006118	80.0	Recurrent moderate major depressive disorder co-occurrent with anxiety	Depression_diagnosis
+101	3743451000006110	70.0	Severe major depression, single episode, without psychotic features	Depression_diagnosis
+102	1976211000006116	70.0	Recurrent depressive disorder, current episode mild, without somatic syndrome	Depression_diagnosis
+103	5024071000006118	60.0	Anxiety depression	Depression_diagnosis
+104	12127531000006113	60.0	Recurrent mild major depressive disorder co-occurrent with anxiety	Depression_diagnosis
+105	1976411000006115	60.0	Other recurrent mood affective disorders, recurrent brief depressive disorder	Depression_diagnosis
+106	3578861000006116	60.0	Recurrent major depressive disorder	Depression_diagnosis
+107	1976231000006110	50.0	Recurrent depressive disorder, current episode mild, with somatic syndrome	Depression_diagnosis
+108	1975991000006112	40.0	Mild depressive episode, with somatic syndrome	Depression_diagnosis
+109	1975981000006114	40.0	Mild depressive episode, without somatic syndrome	Depression_diagnosis
+110	5359021000006116	30.0	Depression	Depression_diagnosis
+111	2730011000000110	30.0	Recurrent depression with current moderate episode	Depression_diagnosis
+112	13902421000006110	30.0	Antenatal depression	Depression_diagnosis
+113	12727931000006110	20.0	Depressive disorder NEC	Depression_diagnosis
+114	8465321000006112	20.0	Reactive depression, prolonged single episode	Depression_diagnosis
+115	9901161000006119	20.0	Mild major depressive disorder co-occurrent with anxiety single episode	Depression_diagnosis
+116	8089301000006110	20.0	Reactive depressive psychosis, single episode	Depression_diagnosis
+117	7803711000006118	20.0	Moderately severe major depression single episode	Depression_diagnosis
+118	3606411000006115	20.0	Recurrent major depression in remission	Depression_diagnosis
+119	1972111000006114	20.0	Organic depressive disorder	Depression_diagnosis
+120	432511000006119	20.0	[X]Vital depression, recurrent without psychotic symptoms	Depression_diagnosis
+121	2798691000006112	20.0	Moderate recurrent major depression	Depression_diagnosis
+122	12127541000006115	10.0	Recurrent severe major depressive disorder co-occurrent with anxiety	Depression_diagnosis
+123	7788661000006119	10.0	Moderately severe depression	Depression_diagnosis
+124	3087971000006112	10.0	Severe recurrent major depression without psychotic features	Depression_diagnosis
+125	5106061000006117	10.0	Severe postnatal depression	Depression_diagnosis
+126	3628471000006116	9.0	Major depressive disorder, single episode with catatonic features	Depression_diagnosis
+127	1976921000006116	7.0	Post-schizophrenic depression, other	Depression_diagnosis
+128	9901261000006114	6.0	Moderate major depressive disorder co-occurrent with anxiety single episode	Depression_diagnosis
+129	1971571000006118	6.0	Mental & behav dis due to use opioids: psychotic disorder, predominantly depressive symptoms	Depression_diagnosis
+130	8237841000006113	5.0	Recurrent major depressive episodes, in remission	Depression_diagnosis
+131	6337501000006112	5.0	Major depression	Depression_diagnosis
+132	3767531000006119	5.0	Severe major depression, single episode, with psychotic features, mood-congruent	Depression_diagnosis
+133	9901281000006116	4.0	Severe major depressive disorder co-occurrent with anxiety single episode	Depression_diagnosis
+134	3149661000006117	4.0	Mild recurrent major depression	Depression_diagnosis
+135	5023901000006110	4.0	Post-schizophrenic depression	Depression_diagnosis
+136	3286331000006115	2.0	Minor depressive disorder	Depression_diagnosis
+137	2540711000006115	2.0	Chronic recurrent major depressive disorder	Depression_diagnosis
+138	3094951000006111	2.0	Major depressive disorder, single episode	Depression_diagnosis
+139	2914841000006115	2.0	Major depressive disorder, single episode with postpartum onset	Depression_diagnosis
+140	1975211000006110	1.0	Post-schizophrenic depression, episodic with progressive deficit	Depression_diagnosis
+141	1975231000006116	1.0	Post-schizophrenic depression, episodic with stable deficit	Depression_diagnosis
+142	1975321000006114	1.0	Post-schizophrenic depression, course uncertain, period of observation too short	Depression_diagnosis
+143	2646121000006115	1.0	Moderate mood disorder	Depression_diagnosis
+144	1975191000006114	1.0	Post-schizophrenic depression, continuous	Depression_diagnosis
+145	7991681000006114	1.0	Perinatal depression	Depression_diagnosis
+146	7965191000006118	1.0	Severe recurrent major depression	Depression_diagnosis
+147	7803731000006112	1.0	Minimal major depression single episode	Depression_diagnosis
+148	369982012		Seasonal affective disorder	Depression_diagnosis
+149	425411000006110		SAD - Seasonal affective disorder	Depression_diagnosis
+150	424531000006118		[X]Recurr depress disorder cur epi severe without psyc sympt	Depression_diagnosis
+151	2534092010	1000000.0	Depression medication review	Depression_diagnosis
+152	424561000006110	400.0	[X]Recurrent brief depressive episodes	Depression_diagnosis
+153	1680571000006118	300.0	On full dose long term treatment depression - enh serv admin	Depression_diagnosis
+154	681801000000113	30.0	On full dose long term treatment for depression	Depression_diagnosis

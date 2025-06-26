@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 5
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SnomedCTConceptId']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                         Term  SnomedCTConceptId
+0        a460928017       1000000                              Palliative care          103735009
+1       a2534178018        400000  On gold standards palliative care framework          414937009
+2  a294031000000111        300000                  Palliative care plan review    196121000000104

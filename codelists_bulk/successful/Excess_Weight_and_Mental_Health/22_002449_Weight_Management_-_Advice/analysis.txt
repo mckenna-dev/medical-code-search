@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 14
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tweight_management_advice\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                           \tMedCodeId\tObservations\tTerm\tweight_management_advice\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+0       0\ta1662431000000112\t900000\tAdvice given about weight management\tweight_management_advice\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+1        1\ta977951000006110\t600000\tHealth education - weight management\tweight_management_advice\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+2  2\ta200241000006114\t600000\tPatient advised about weight-reducing diet\tweight_management_advice\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t

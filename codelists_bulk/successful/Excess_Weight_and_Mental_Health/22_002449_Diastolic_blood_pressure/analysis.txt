@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 9
+Columns: 1
+Column names: ['\tMedCodeId\tTerm\tCount']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                     \tMedCodeId\tTerm\tCount
+0  0\t619931000006119\tDiastolic arterial pressure\t144554947
+1  236\t1780183016\tStanding diastolic blood pressure\t446421
+2   264\t2159156012\tSitting diastolic blood pressure\t372058

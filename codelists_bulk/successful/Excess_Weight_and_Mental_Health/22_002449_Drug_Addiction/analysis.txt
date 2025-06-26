@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 51
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tdrug_addiction']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                   \tMedCodeId\tObservations\tTerm\tdrug_addiction
+0                          0\ta295145018\t1000000\tDrug dependence\tdrug_addiction
+1                    1\ta397153012\t700000\tDrug addiction therapy\tdrug_addiction
+2  2\ta630131000006118\t300000\tDrug addiction therapy - methadone\tdrug_addiction

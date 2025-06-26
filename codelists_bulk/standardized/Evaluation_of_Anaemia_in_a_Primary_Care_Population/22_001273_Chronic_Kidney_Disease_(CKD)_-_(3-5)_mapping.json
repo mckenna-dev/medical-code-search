@@ -1,0 +1,32 @@
+{
+  "original_file": "codelists_bulk\\successful\\Evaluation_of_Anaemia_in_a_Primary_Care_Population\\22_001273_Chronic_Kidney_Disease_(CKD)_-_(3-5)\\AK_CL_CKD_3to5.txt",
+  "original_columns": [
+    "MedCodeId",
+    "Observations",
+    "Term",
+    "chronic_kidney_disease_3_to_5"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "observations": "Observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 91,
+  "rows_standardized": 91,
+  "project": "Evaluation_of_Anaemia_in_a_Primary_Care_Population",
+  "codelist": "22_001273_Chronic_Kidney_Disease_(CKD)_-_(3-5)"
+}

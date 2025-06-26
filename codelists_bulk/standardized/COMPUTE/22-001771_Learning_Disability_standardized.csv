@@ -1,0 +1,269 @@
+med_code_id,term,snomed_ct_concept_id,observations
+2548475019,On learning disability register,416075005.0,300000
+628281000006114,Down's syndrome,41040004.0,60000
+1129811000000119,Moderate learning disability,984671000000103.0,60000
+1129781000000117,Severe learning disability,508171000000105.0,50000
+1550041000000110,Mild learning disability,984661000000105.0,50000
+151009017,Mental retardation,110359009.0,40000
+378493013,Down's syndrome NOS,41040004.0,20000
+146051000006113,"Severe mental retardation, IQ in range 20-34",40700009.0,9000
+398811000006118,Moderate intellectual disability,61152003.0,8000
+700071000006118,"Moderate mental retardation, IQ in range 35-49",61152003.0,8000
+426591000006111,Severe intellectual disability,40700009.0,8000
+507246016,"Mild mental retardation, IQ in range 50-70",86765009.0,8000
+222101000000116,Sjogren-Larsson's syndrome,111303009.0,6000
+424971000006111,Rett syndrome,68618008.0,5000
+3161031000006112,Complete trisomy 21 syndrome,41040004.0,5000
+345782015,Dysequilibrium syndrome,230782004.0,5000
+1232445010,William syndrome,63247009.0,4000
+398381000006119,[X]Mild mental retardation,86765009.0,4000
+1550051000000113,Profound learning disability,984681000000101.0,4000
+212911000006116,Prader-Willi syndrome,89392001.0,3000
+295664013,Intellectual disability,110359009.0,3000
+222121000000113,Trisomy 21,41040004.0,2000
+295662012,Other specified mental retardation NOS,110359009.0,2000
+127638013,Angelman syndrome,76880004.0,2000
+345281011,Lennox-Gastaut syndrome,230418006.0,2000
+893481000006117,Down's syndrome,41040004.0,2000
+9881000006115,Other specified mental retardation,110359009.0,1000
+158401000006118,Rubenstein - Tayi syndrome,45582004.0,1000
+212921000006112,Prader-Willi Syndrome,89392001.0,1000
+63896011,Cornelia de Lange syndrome,40354009.0,1000
+4193701000006119,Sjögren-Larsson syndrome,111303009.0,1000
+398231000006111,[X]Mental retardation,110359009.0,1000
+398251000006116,[X]Mental subnormality NOS,110359009.0,1000
+600811000006111,Cri du chat syndrome,70173007.0,1000
+133918015,Marinesco-Sjogren syndrome,80734006.0,1000
+1231577014,Biedl-Bardet syndrome,5619004.0,1000
+1780502018,Smith-Magenis syndrome,401315004.0,900
+882791000006118,Severe mental retardation,40700009.0,800
+423501000006112,Profound intellectual disability,31216003.0,700
+127639017,Happy puppet syndrome,76880004.0,700
+10374011,Laurence-Moon-Biedl syndrome,5619004.0,600
+636711000006113,Edward's syndrome - trisomy 18,51500006.0,600
+377070012,Joubert syndrome,716997004.0,600
+137341000006114,Smith - Lemli - Opitz syndrome,43929004.0,600
+239991000006111,Patau syndrome,21111006.0,500
+1494665012,Pallister-Killian syndrome,9527009.0,500
+13784441000006119,Learning disability,110359009.0,500
+398391000006116,Mild intellectual disability,86765009.0,500
+426611000006117,[X]Severe mental subnormality,40700009.0,500
+882771000006119,Mild mental retardation,86765009.0,500
+1234038018,Angelman's syndrome,76880004.0,500
+345138018,Aicardi Goutieres syndrome,230312006.0,400
+88371000006116,Trisomy 21- mitotic nondisjunction mosaicism,205616004.0,400
+1705901000006118,Angelman syndrome,76880004.0,400
+8337561000006119,Significant learning disability,931001000000105.0,400
+315463017,"Klinefelter's syndrome, XXYY",205699007.0,400
+398411000006116,[X]Mild mental subnormality,86765009.0,400
+398821000006114,[X]Moderate mental subnormality,61152003.0,300
+146555015,Sanfilippo syndrome,88393000.0,300
+378496017,Edward's syndrome NOS,51500006.0,300
+882781000006116,Moderate mental retardation,61152003.0,300
+2478440016,Ohdo blepharophimosis syndrome,412787009.0,300
+76004014,Rubinstein-Taybi syndrome,45582004.0,300
+401902015,[X]Unspecified mental retardation,110359009.0,300
+201751000006110,Profound mental retardation with IQ less than 20,31216003.0,300
+63898012,Amsterdam dwarf,40354009.0,200
+222141000000118,"Klinefelter's syndrome, XXXXY",275264009.0,200
+296574014,"[X]Severe mental retardation, other impairments of behaviour",40700009.0,200
+296557014,"[X]Mild mental retardation, other impairments of behaviour",86765009.0,200
+295661017,Other specified mental retardation,110359009.0,200
+600251000000118,Jacobsen syndrome,715438008.0,200
+68472012,Mongolism,41040004.0,200
+1234503010,Aicardi syndrome,80651009.0,200
+1782780019,Cardio-facio-cutaneous syndrome,403770008.0,200
+398651000006118,[X]Mld mental retard sig impairment behav req attent/treatmt,86765009.0,200
+94131019,Cohen syndrome,56604005.0,200
+2114791000000110,Kleefstra syndrome,724207001.0,200
+398201000006115,[X]Mental deficiency NOS,110359009.0,200
+829441000006116,Hurler's syndrome,65327002.0,200
+1234352010,Lowe disease,79385002.0,100
+398761000006113,[X]Mod mental retard sig impairment behav req attent/treatmt,61152003.0,100
+131704013,Oculocerebrorenal syndrome,79385002.0,100
+426521000006114,[X]Sev mental retard sig impairment behav req attent/treatmt,40700009.0,100
+398661000006116,[X]Mld mental retard with statement no or min impairm behav,86765009.0,100
+1224878018,Trisomy 21 NOS,41040004.0,100
+426541000006119,[X]Sev mental retardation without mention impairment behav,40700009.0,100
+148214012,Prader-Willi syndrome,89392001.0,100
+1694831000006112,Pitt-Hopkins syndrome,702344008.0,100
+108541018,Hurler's syndrome,65327002.0,100
+395051000006119,[X]Learn acquisition disab NOS,110359009.0,100
+718341000006111,Mannosidosis,65524005.0,100
+17479015,Coffin-Siris syndrome,10007009.0,100
+1224880012,Trisomy 13 NOS,21111006.0,100
+1224879014,Trisomy 18 NOS,51500006.0,100
+785941000006115,Imbecile,61152003.0,100
+2296351000000113,MECP2 duplication syndrome,702816000.0,90
+829841000006118,Hydrocephauls with anomaly of aqueduct of Sylvius,253133004.0,90
+378494019,Partial trisomy 21 in Down's syndrome,254264002.0,80
+110901011,Acrodysostosis,66758006.0,80
+405349018,Deletion of short arm of chromosome 18,270890001.0,70
+222131000000110,"Klinefelter's syndrome, XXXY",275263003.0,70
+107550019,Fucosidosis,64716005.0,70
+161411000006117,Sanfilippo's syndrome,88393000.0,70
+378499012,Patau's syndrome NOS,21111006.0,70
+405348014,18p- syndrome,270890001.0,60
+398771000006118,[X]Mod mental retard with statement no or min impairm behav,61152003.0,60
+696701000006117,Mucopolysaccharidosis type III,88393000.0,60
+315607013,Carpenter syndrome,403767009.0,60
+1233229018,Deletion of short arm of chromosome 5,70173007.0,60
+3910951000006114,Mild learning disability,86765009.0,50
+88381000006118,"Trisomy 21, translocation",254264002.0,50
+378500015,Partial trisomy 13 in Patau's syndrome,254268004.0,50
+430081000006115,[X]Unsp mentl retard sig impairment behav req attent/treatmt,110359009.0,50
+96285014,Seckel syndrome,57917004.0,50
+3493681000006118,Moderate learning disability,61152003.0,40
+3334501000006112,Edwards syndrome,51500006.0,40
+91352015,Aspartylglucosaminuria,54954004.0,40
+398781000006115,[X]Mod mental retardation without mention impairment behav,61152003.0,40
+430071000006118,[X]Unsp mental retardation without mention impairment behav,110359009.0,40
+2835541000006116,Complete trisomy 13 syndrome,21111006.0,40
+121704017,Marshall-Smith syndrome,73284007.0,30
+88271000006113,"Trisomy 13, translocation",254268004.0,30
+423481000006119,[X]Profound ment retard sig impairmnt behav req attent/treat,31216003.0,30
+423521000006119,[X]Profound mental subnormality,31216003.0,30
+296586012,[X]Other mental retardation,110359009.0,30
+3790911000006117,Lowe syndrome,79385002.0,30
+426531000006112,[X]Sev mental retard with statement no or min impairm behav,40700009.0,30
+3207351000006113,Smith-Lemli-Opitz syndrome,43929004.0,30
+198204019,Succinic semialdehyde dehydrogenase deficiency,49748000.0,30
+88351000006114,"Trisomy 21, meiotic nondisjunction",205615000.0,30
+296592018,"[X]Other mental retardation, other impairments of behaviour",110359009.0,30
+108872013,Mannosidosis,65524005.0,20
+667621000006119,Feeble-minded,86765009.0,20
+1780251019,Nicolaides-Baraitser syndrome,401046009.0,20
+13697811000006116,Significant learning disability,1239331000000100.0,20
+377071011,Gillespie syndrome,253176002.0,20
+3161041000006119,Down syndrome,41040004.0,20
+13503701000006111,Autism spectrum disorder due to AUTS2 deficiency,771512003.0,20
+1234349019,Oculocerebrorenal dystrophy,79385002.0,20
+431231000006115,"[X]Unspecified mental retardatn, other impairments of behav",110359009.0,20
+296565012,[X]Mod retard oth behav impair,61152003.0,20
+5012461000006115,Disequilibrium,230782004.0,20
+3528631000006110,Williams syndrome,63247009.0,20
+430061000006113,[X]Unsp mental retard with statement no or min impairm behav,110359009.0,20
+1229639017,Bruck-de Lange syndrome,40354009.0,20
+423511000006110,"[X]Profound mental retardation, other impairments of behavr",31216003.0,10
+215821000000119,Moron,86765009.0,10
+1786311000006113,18p- syndrome,270890001.0,10
+481636010,Hyperargininaemia,23501004.0,10
+787151000006113,Idiocy,31216003.0,10
+79051000006114,"Ullrich - Feichtiger syndrome, chimaera",21111006.0,10
+3155151000006112,Severe learning disability,40700009.0,10
+3750051000006112,Angelman syndrome,76880004.0,10
+4830941000006112,Trisomy 21- meiotic nondisjunction,205615000.0,10
+36300015,Borjeson-Forssman-Lehmann syndrome,21634003.0,10
+404851000006117,[X]Oth mental retard sig impairment behav req attent/treatmt,110359009.0,10
+302051000000118,Lujan-Fryns syndrome,422437002.0,10
+968201000006114,"Mental retardation, congenital heart disease, blepharophimosis, blepharoptosis and hypoplastic teeth",412787009.0,9
+73230013,beta-Glucuronidase deficiency,43916004.0,9
+696731000006113,Mucopolysaccharidosis type VII,43916004.0,9
+137189016,Dyggve-Melchior-Clausen syndrome,82699004.0,8
+423491000006116,[X]Profound ment retrd wth statement no or min impairm behav,31216003.0,8
+2730351000000112,Moderate intellectual development disorder with minimal impairment of behaviour,1089811000000102.0,8
+3155171000006119,Severe mental handicap,40700009.0,7
+3161061000006115,Downs syndrome,41040004.0,7
+7769521000006118,Wolf Hirschhorn syndrome,718226002.0,7
+5326081000006114,Hydrocephalus with anomaly of aqueduct of Sylvius,253133004.0,7
+3813051000006112,Marinesco-Sjögren syndrome,80734006.0,7
+129954018,Histidinuria,78311009.0,7
+7810331000006116,"Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome",720982007.0,6
+7809711000006116,Filippi syndrome,720954000.0,5
+7881411000006110,Weaver Williams syndrome,726670008.0,5
+13572191000006116,KCNQ2-related epileptic encephalopathy,778001003.0,5
+13510661000006110,White Sutton syndrome,772127009.0,5
+13622051000006117,"Intellectual disability, facial dysmorphism syndrome due to SETD5 haploinsufficiency",782736007.0,4
+13501631000006113,Polymicrogyria with optic nerve hypoplasia,771336003.0,4
+2740581000000111,Intellectual development disorder with impairment of behaviour,1094031000000100.0,4
+404861000006115,[X]Oth mental retard with statement no or min impairm behav,110359009.0,4
+7558801000006110,Chromosome 2q37 deletion syndrome,702357000.0,4
+1234728017,Dyggve-Melchior-Clausen dysplasia,82699004.0,4
+386751000006111,[X]Feeble-mindedness,86765009.0,4
+3640931000006110,5p partial monosomy syndrome,70173007.0,4
+411791000006118,[X]Other mental retardation without mention impairment behav,110359009.0,3
+7774181000006117,Achalasia microcephaly syndrome,718573009.0,3
+423361000006118,[X]Prfnd mental retardation without mention impairment behav,31216003.0,3
+3910901000006110,Mild mental handicap,86765009.0,3
+3790971000006114,Cerebro-oculorenal dystrophy,79385002.0,3
+88361000006111,"Trisomy 21, mitotic nondisjunction",205616004.0,3
+7791221000006119,Chromosome Xp11.3 microdeletion syndrome,719808002.0,3
+3493641000006112,Moderate mental handicap,61152003.0,3
+7788461000006116,16p13.11 microdeletion syndrome,719577000.0,3
+13624181000006116,"Infantile spasms, psychomotor retardation, progressive brain atrophy, basal ganglia disease syndrome",782886007.0,3
+7842691000006118,Isodicentric chromosome 15 syndrome,723332005.0,2
+13491161000006116,10q22.3q23.3 microdeletion syndrome,770401007.0,2
+13520601000006115,Cyclin-dependent kinase-like 5 deficiency,773230003.0,2
+2730271000000113,Severe intellectual development disorder with impairment of behaviour,1089771000000102.0,2
+3505252012,Alpha-thalassaemia intellectual disability syndrome linked to chromosome 16,734349003.0,2
+13530051000006113,"AHDC1-related intellectual disability, obstructive sleep apnoea, mild dysmorphism syndrome",774068004.0,2
+73229015,Sly syndrome,43916004.0,2
+7759751000006114,Koolen De Vries syndrome,717338006.0,2
+7832001000006117,"Male hypergonadotropic hypogonadism, intellectual disability, skeletal anomaly syndrome",722459008.0,2
+7560021000006117,Partington syndrome,702412005.0,2
+7781091000006114,Shprintzen-Goldberg syndrome,719069008.0,2
+2730311000000113,Moderate intellectual development disorder with significant impairment of behaviour,1089791000000103.0,2
+5127861000006118,Encephalocraniocutaneous lipomatosis,238905009.0,2
+7781071000006113,Shprintzen Goldberg craniosynostosis syndrome,719069008.0,2
+5012471000006110,Dysequilibrium,230782004.0,2
+2740461000000118,Mild intellectual development disorder with impairment of behaviour,1093991000000101.0,2
+3562061000006117,"Mucopolysaccharidosis, MPS-I-H",,2
+12321891000006112,"Intellectual disability, congenital heart disease, blepharophimosis, blepharoptosis and hypoplastic teeth",412787009.0,2
+7525391000006116,Renpenning syndrome,699669001.0,1
+7520191000006112,Chromosome 1p36 deletion syndrome,699306003.0,1
+7519871000006119,"Ohdo syndrome, Say-Barber-Biesecker-Young-Simpson variant",699298009.0,1
+3565521000006114,Alpha-D-mannosidosis,65524005.0,1
+3562141000006117,Mucopolysaccharidosis type I-H,65327002.0,1
+3552561000006118,alpha-L-fucosidase deficiency,64716005.0,1
+223481000000110,A-fucosidase deficiency,64716005.0,1
+6682941000006119,"Oculo-cerebro-cutaneous syndrome (aplasia cutis, skin tags, eye & brain defects)",403554008.0,1
+3003361000006114,Profound learning disability,31216003.0,1
+12009911000006119,Macrocephaly and developmental delay syndrome,763773007.0,1
+12022541000006113,Intellectual disability Birk-Barel type,764861005.0,1
+12027071000006111,Proximal 16p11.2 microduplication syndrome,765142003.0,1
+4196581000006114,Walker Warburg syndrome,111504002.0,1
+1229637015,Degenerative amsterodamensis typus,40354009.0,1
+3462421000006114,Cutis laxa-corneal clouding-oligophrenia syndrome,59252009.0,1
+2589171000006110,Bardet-Biedl syndrome,5619004.0,1
+3334491000006116,Complete trisomy 18 syndrome,51500006.0,1
+7740511000006113,Autosomal recessive primary microcephaly,715981004.0,1
+2887931000006119,Cystathionine beta-synthase deficiency,24308003.0,1
+2740551000000117,Intellectual development disorder with minimal impairment of behaviour,1094021000000102.0,1
+12081281000006115,Duplication 1q,768927001.0,1
+2730411000000116,Mild intellectual development disorder with significant impairment of behaviour,1089841000000101.0,1
+14163361000006116,X-linked complicated corpus callosum dysgenesis,1010630006.0,1
+14152831000006119,Mosaic 1q duplication,1003389000.0,1
+13632231000006117,"White matter hypoplasia, corpus callosum agenesis, intellectual disability syndrome",783703004.0,1
+13622001000006116,"Severe intellectual disability, progressive spastic diplegia syndrome",782723007.0,1
+13492091000006117,Microcephalic primordial dwarfism Alazami type,770564004.0,1
+7558081000006114,Allan-Herndon-Dudley syndrome,702327009.0,1
+7952891000006114,"Encephalopathy, intracerebral calcification, retinal degeneration syndrome",,1
+7780351000006110,X-linked intellectual disability Schimke type,719010001.0,1
+2740451000000116,Mild mental retardation with impairment of behaviour,1093991000000101.0,1
+7791151000006115,DOOR syndrome,719800009.0,1
+7780911000006113,14q11.2 microdeletion syndrome,719047001.0,1
+7782551000006115,Syndromic X-linked intellectual disability type 7,719160009.0,1
+7842741000006116,Faciocardiorenal syndrome,723333000.0,1
+12009571000006115,"Intellectual disability, brachydactyly, Pierre Robin syndrome",763744009.0,1
+12010231000006113,Agenesis of corpus callosum and abnormal genitalia syndrome,763797003.0,1
+12073641000006117,PURA syndrome,768473009.0,1
+7791131000006110,DOORS syndrome,719800009.0,1
+4164891000006115,Kohlschutter's syndrome,,1
+7792771000006118,Chromosome Xq28 trisomy syndrome,719909009.0,1
+2740521000000110,Intellectual development disorder with significant impairment of behaviour,1094011000000108.0,1
+13493791000006114,"Progressive encephalopathy with oedema, hypsarrhythmia, and optic atrophy-like syndrome",770678005.0,1
+7804931000006111,Autosomal recessive limb girdle muscular dystrophy type 2K,720523006.0,1
+7781471000006115,BSG syndrome,719097002.0,1
+13497341000006114,"49,XXXYY syndrome",770908007.0,1
+2730291000000112,Moderate intellectual development disorder without significant impairment of behaviour,1089781000000100.0,1
+2730211000000115,Severe intellectual development disorder without significant impairment of behaviour,1089741000000108.0,1
+13522651000006117,Bainbridge Roppers syndrome,773400009.0,1
+13525931000006114,Distal Xq28 microduplication syndrome,773670004.0,1
+13621171000006117,Distal trisomy 18q,782676009.0,1
+7828621000006116,"Spastic paraplegia, intellectual disability, palmoplantar hyperkeratosis syndrome",722209002.0,1
+13493821000006117,"Polyneuropathy, intellectual disability, acromicria, premature menopause syndrome",,1
+7747191000006111,3q29 microdeletion syndrome,716456000.0,1
+7560111000006112,Snyder-Robinson syndrome,702416008.0,1
+7952761000006111,Epilepsy telangiectasia syndrome,733032006.0,1
+7881921000006114,Primrose syndrome,726709001.0,1
+4193711000006116,Sjogren-Larsson syndrome,,1

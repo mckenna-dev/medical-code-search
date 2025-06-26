@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 17
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SnomedCTConceptId']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+     MedCodeId  Observations                                     Term  SnomedCTConceptId
+0   a454407012        200000                 Exercise on prescription          310882002
+1  a2549517012        100000          Referred for exercise programme          416974006
+2  a1476247014         70000  Referral to physical activity programme          390893007

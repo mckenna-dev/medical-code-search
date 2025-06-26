@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 69
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tSnomedCTConceptId\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                       MedCodeId\tObservations\tTerm\tSnomedCTConceptId\t
+0                    a56765016\t700000\tCrohn's disease\t34000006\tCrohns
+1  a179501000006113\t200000\tCrohn's regional enteritis\t34000006\tCrohns
+2         a41137017\t100000\tInflammatory bowel disease\t24526004\tCrohns

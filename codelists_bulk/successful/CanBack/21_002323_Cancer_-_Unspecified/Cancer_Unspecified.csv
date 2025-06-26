@@ -1,0 +1,53 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2329,Cancer,Unspecified,a1488798019,Cancer confirmed,L1:Cancer_L2:Unspecified,1O0..00
+2330,Cancer,Unspecified,a1488604019,Administration of antineoplastic agent,L1:Cancer_L2:Unspecified,8B3p.00
+2331,Cancer,Unspecified,a1488772013,Cancer treatment started,L1:Cancer_L2:Unspecified,8BC6.00
+2332,Cancer,Unspecified,a2533540016,Cancer hospital treatment completed,L1:Cancer_L2:Unspecified,8BCF.00
+2333,Cancer,Unspecified,a1488780018,Cancer diagnosis discussed,L1:Cancer_L2:Unspecified,8CL0.00
+2334,Cancer,Unspecified,a1489328015,Cancer diagnosis discussed with significant other,L1:Cancer_L2:Unspecified,8CL1.00
+2335,Cancer,Unspecified,a1489329011,Cancer diagnosis discussed with patient,L1:Cancer_L2:Unspecified,8CL2.00
+2336,Cancer,Unspecified,a226911000000117,Date cancer diagnosis received in primary care,L1:Cancer_L2:Unspecified,9Ok3.00
+2337,Cancer,Unspecified,a2534102018,Cancer pain and symptom management,L1:Cancer_L2:Unspecified,9Ok5.00
+2338,Cancer,Unspecified,a2534080010,Cancer rehabilitation and readaption,L1:Cancer_L2:Unspecified,9Ok7.00
+2339,Cancer,Unspecified,a287014015,Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection,L1:Cancer_L2:Unspecified,A788600
+2340,Cancer,Unspecified,a825841000006115,HIV disease resulting in unspecified malignant neoplasm,L1:Cancer_L2:Unspecified,A788W00
+2341,Cancer,Unspecified,a287031010,HIV disease resulting in multiple malignant neoplasms,L1:Cancer_L2:Unspecified,A789800
+2342,Cancer,Unspecified,a406265010,Malignant neoplastic disease,L1:Cancer_L2:Unspecified,B5...00
+2343,Cancer,Unspecified,a380211016,Carcinoma of other and unspecified sites,L1:Cancer_L2:Unspecified,B5...11
+2344,Cancer,Unspecified,a289423019,Malignant neoplasm of other and ill-defined sites,L1:Cancer_L2:Unspecified,B55..00
+2345,Cancer,Unspecified,a289561018,Malignant neoplasm of unspecified site,L1:Cancer_L2:Unspecified,B59..00
+2346,Cancer,Unspecified,a289565010,Other malignant neoplasm NOS,L1:Cancer_L2:Unspecified,B591.00
+2347,Cancer,Unspecified,a289566011,Malignant neoplasms of independent (primary) multiple sites,L1:Cancer_L2:Unspecified,B592.00
+2348,Cancer,Unspecified,a454091013,Primary malignant neoplasm of unknown site,L1:Cancer_L2:Unspecified,B593.00
+2349,Cancer,Unspecified,a380059013,Malignant tumour of unknown origin,L1:Cancer_L2:Unspecified,B595.00
+2350,Cancer,Unspecified,a289571016,Malignant neoplasm of unspecified site NOS,L1:Cancer_L2:Unspecified,B59z.00
+2351,Cancer,Unspecified,a723641000006119,Malignant neoplasm of other and unspecified site OS,L1:Cancer_L2:Unspecified,B5y..00
+2352,Cancer,Unspecified,a289574012,Malignant neoplasm of other and unspecified site NOS,L1:Cancer_L2:Unspecified,B5z..00
+2353,Cancer,Unspecified,a313701000006118,Malignant neoplasm,L1:Cancer_L2:Unspecified,BB02.00
+2354,Cancer,Unspecified,a317901000006110,Malignant tumour cells,L1:Cancer_L2:Unspecified,BB07.00
+2355,Cancer,Unspecified,a312071000006117,Malignant tumour - small cell type,L1:Cancer_L2:Unspecified,BB08.00
+2356,Cancer,Unspecified,a312061000006112,"[M]Malignant tumour, giant cell type",L1:Cancer_L2:Unspecified,BB09.00
+2357,Cancer,Unspecified,a312051000006110,"[M]Malignant tumour, fusiform cell type",L1:Cancer_L2:Unspecified,BB0A.00
+2358,Cancer,Unspecified,a291326012,Malignant Neoplasm (Morphology),L1:Cancer_L2:Unspecified,BB12.00
+2359,Cancer,Unspecified,a291329017,"Carcinoma, undifferentiated",L1:Cancer_L2:Unspecified,BB18.00
+2360,Cancer,Unspecified,a291330010,"Carcinoma, anaplastic",L1:Cancer_L2:Unspecified,BB19.00
+2361,Cancer,Unspecified,a304681000006116,[M]Adenocarcinomas,L1:Cancer_L2:Unspecified,BB5..11
+2362,Cancer,Unspecified,a291372011,Adenocarcinoma,L1:Cancer_L2:Unspecified,BB52.00
+2363,Cancer,Unspecified,a1231622010,[M]Adenocarcinoma in tubulovillous adenoma,L1:Cancer_L2:Unspecified,BB52000
+2364,Cancer,Unspecified,a306401000006115,"[M]Carcinoma, diffuse type",L1:Cancer_L2:Unspecified,BB58.00
+2365,Cancer,Unspecified,a310661000006117,[M]Islet cell carcinoma,L1:Cancer_L2:Unspecified,BB5B100
+2366,Cancer,Unspecified,a304531000006116,Adenocarcinoma in situ in a polyp,L1:Cancer_L2:Unspecified,BB5L100
+2367,Cancer,Unspecified,a1230440012,[M]Adenocarcinoma in multiple adenomatous polyps,L1:Cancer_L2:Unspecified,BB5L300
+2368,Cancer,Unspecified,a304521000006119,[M]Adenocarcinoma in adenomatous polposis coli,L1:Cancer_L2:Unspecified,BB5N100
+2369,Cancer,Unspecified,a291403016,[M]Solid carcinoma NOS,L1:Cancer_L2:Unspecified,BB5P.00
+2370,Cancer,Unspecified,a291414018,"[M]Carcinoid tumour, malignant",L1:Cancer_L2:Unspecified,BB5R100
+2371,Cancer,Unspecified,a1217037013,Adenocarcinoid tumour,L1:Cancer_L2:Unspecified,BB5R800
+2372,Cancer,Unspecified,a291669010,"[M]Mixed tumour, malignant, NOS",L1:Cancer_L2:Unspecified,BBL4.00
+2373,Cancer,Unspecified,a313211000006113,Mullerian mixed tumour,L1:Cancer_L2:Unspecified,BBL5.00
+2374,Cancer,Unspecified,a396571000006111,Overlapping malignant neoplasm of ill-defined site,L1:Cancer_L2:Unspecified,ByuC100
+2375,Cancer,Unspecified,a292166019,[X]Malignant neoplasm without specification of site,L1:Cancer_L2:Unspecified,ByuC800
+2376,Cancer,Unspecified,a297584015,Myasthenic syndrome due to other malignancy,L1:Cancer_L2:Unspecified,F381100
+2377,Cancer,Unspecified,a682691000006117,Myopathy due to malignant disease,L1:Cancer_L2:Unspecified,F396200
+2378,Cancer,Unspecified,a340421000006119,[V]Follow-up examination after combined treatment for malignant neoplasm,L1:Cancer_L2:Unspecified,ZV67900
+2379,Cancer,Unspecified,a340541000006110,[V]Follow-up examination after other treatment for malignant neoplasm,L1:Cancer_L2:Unspecified,ZV67A00
+2380,Cancer,Unspecified,a340561000006114,[V]Follow-up examination after unspecified treatment for malignant neoplasm,L1:Cancer_L2:Unspecified,ZV67B00

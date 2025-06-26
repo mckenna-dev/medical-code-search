@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 23
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1               Flag_classifyL2         MedCodeID                                                        Term
+0   5444  Genitourinary   Female_Pelvic_Inflammatory_D       a1227343019    [V]Personal history of pelvic inflammatory disease - PID
+1   5445  Genitourinary   Female_Pelvic_Inflammatory_D       a1227345014  [V] Personal history of female pelvic inflammatory disease
+2   5446  Genitourinary   Female_Pelvic_Inflammatory_D  a253801000006111    Ovarian, fallopian tube and pelvic inflammatory diseases

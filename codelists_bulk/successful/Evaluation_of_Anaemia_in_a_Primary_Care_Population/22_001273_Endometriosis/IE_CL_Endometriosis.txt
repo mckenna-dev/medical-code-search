@@ -1,0 +1,75 @@
+MedCodeId	Observations	Term	endometriosis
+a1784724014	600000	Endometriosis	endometriosis
+a304803014	10000	Endometriosis NOS	endometriosis
+a2548653011	10000	Laparoscopic laser destruction of endometriosis	endometriosis
+a396767017	10000	Endometriosis of ovary	endometriosis
+a126835018	8000	Endometriosis of uterus	endometriosis
+a4422371000006110	5000	Endometriosis (clinical)	endometriosis
+a355412016	3000	Chocolate cyst of ovary	endometriosis
+a642741000006112	3000	Endometriosis of pelvic peritoneum	endometriosis
+a106864016	2000	Endometriosis of pouch of Douglas	endometriosis
+a89618011	700	Endometriosis in scar of skin	endometriosis
+a770611000006110	700	Internal endometriosis	endometriosis
+a305247015	600	[X]Other endometriosis	endometriosis
+a304796018	500	Endometriosis of the pelvic peritoneum NOS	endometriosis
+a304801011	500	Other endometriosis	endometriosis
+a355411011	400	Endometriosis of myometrium	endometriosis
+a642661000006119	300	Endometriosis of the bladder	endometriosis
+a642771000006116	300	Endometriosis of the rectovaginal septum	endometriosis
+a642691000006110	300	Endometriosis of the fallopian tube	endometriosis
+a304802016	300	Other endometriosis NOS	endometriosis
+a642781000006118	200	Endometriosis of the rectovaginal septum and vagina	endometriosis
+a642821000006112	200	Endometriosis of the umbilicus	endometriosis
+a642831000006110	200	Endometriosis of the vagina	endometriosis
+a304791011	200	Endometriosis of uterus NOS	endometriosis
+a102424012	200	Endometriosis of cervix	endometriosis
+a642701000006110	100	Endometriosis of the intestine	endometriosis
+a642671000006114	100	Endometriosis of the broad ligament	endometriosis
+a642681000006112	100	Endometriosis of the colon	endometriosis
+a642801000006119	100	Endometriosis of the rectum	endometriosis
+a304798017	100	Endometriosis of rectovaginal septum	endometriosis
+a906431000006116	100	[RFC] Endometriosis	endometriosis
+a2927311000006112	90	Endometriosis of pelvis	endometriosis
+a7700571000006113	70	Laparoscopic excision of pelvic endometriosis	endometriosis
+a642721000006117	70	Endometriosis of the lung	endometriosis
+a4791931000006119	40	Endometriosis interna	endometriosis
+a642651000006116	40	Endometriosis of the appendix	endometriosis
+a642811000006116	40	Endometriosis of the round ligament	endometriosis
+a3558461000006116	30	Endometriosis of bladder	endometriosis
+a304799013	30	Endometriosis of intestine	endometriosis
+a8257781000006113	20	Diagnostic laparoscopy with diathermy to endometriosis	endometriosis
+a317021000006116	20	[M]Stromal endometriosis	endometriosis
+a3545631000006119	20	Endometriosis of the cul-de-sac	endometriosis
+a2860411000006119	20	Endometriosis of fallopian tube	endometriosis
+a642841000006117	20	Endometriosis of the vulva	endometriosis
+a2652481000006113	20	Endometriosis of rectum	endometriosis
+a3219061000006118	10	Endometriosis of colon	endometriosis
+a2782801000006115	10	Endometriosis of umbilicus	endometriosis
+a642731000006119	10	Endometriosis of the parametrium	endometriosis
+a7856071000006111	10	Deep endometriosis	endometriosis
+a12625901000006119	10	Seen by endometriosis nurse specialist	endometriosis
+a6565991000006110	9	Endometriosis	endometriosis
+a2927321000006116	9	Pelvic endometriosis	endometriosis
+a3434271000006111	8	Endometriosis of vagina	endometriosis
+a2634531000006119	4	Endometriosis of appendix	endometriosis
+a3326141000006114	4	Endometriosis of lung	endometriosis
+a7856041000006115	4	Peritoneal pockets and endometriosis	endometriosis
+a7737891000006119	3	Laparoscopic ablation of pelvic endometriosis	endometriosis
+a6041791000006118	3	Endometriosis of uterosacral ligament	endometriosis
+a3072591000006114	2	Cutaneous endometriosis	endometriosis
+a3515016010	2	Adhesions due to endometriosis	endometriosis
+a7856031000006113	2	Superficial endometriosis of pelvic peritoneum	endometriosis
+a4414001000006117	2	Stromal endometriosis	endometriosis
+a13705611000006116	1	Endometriosis of bilateral ovaries	endometriosis
+a13705621000006112	1	Endometriosis of both ovaries	endometriosis
+a14433391000006117	1	Dense adnexal adhesions due to endometriosis	endometriosis
+a5053951000006113	1	Pleural endometriosis	endometriosis
+a3871661000006111	1	Endometriosis of parametrium	endometriosis
+a2667541000006114	1	Endometriosis of broad ligament	endometriosis
+a3124151000006112	1	Endometriosis of vulva	endometriosis
+a2584781000006113	1	Endometriosis of round ligament	endometriosis
+a8268221000006110	1	Laparoscopic helium plasma coagulation of endometriosis	endometriosis
+a13713411000006117	1	Endometriosis of left ovary	endometriosis
+a3545641000006112	1	Endometriosis of the pouch of Douglas	endometriosis
+a3374421000006115	1	Scar endometriosis	endometriosis
+a5103551000006119	1	Endometriosis outside pelvis	endometriosis

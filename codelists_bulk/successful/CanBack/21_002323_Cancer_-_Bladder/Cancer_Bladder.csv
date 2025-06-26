@@ -1,0 +1,23 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+518,Cancer,Bladder,a1786811017,Malignant neoplasm of urinary bladder,L1:Cancer_L2:Bladder,B49..00
+519,Cancer,Bladder,a289262014,Malignant neoplasm of trigone of urinary bladder,L1:Cancer_L2:Bladder,B490.00
+520,Cancer,Bladder,a289267015,Malignant neoplasm of dome of urinary bladder,L1:Cancer_L2:Bladder,B491.00
+521,Cancer,Bladder,a289270016,Malignant neoplasm of lateral wall of urinary bladder,L1:Cancer_L2:Bladder,B492.00
+522,Cancer,Bladder,a289271017,Malignant neoplasm of anterior wall of urinary bladder,L1:Cancer_L2:Bladder,B493.00
+523,Cancer,Bladder,a289272012,Malignant neoplasm of posterior wall of urinary bladder,L1:Cancer_L2:Bladder,B494.00
+524,Cancer,Bladder,a289275014,Malignant neoplasm of bladder neck,L1:Cancer_L2:Bladder,B495.00
+525,Cancer,Bladder,a289276010,Malignant neoplasm of ureteric orifice,L1:Cancer_L2:Bladder,B496.00
+526,Cancer,Bladder,a720951000006119,Malignant neoplasm of urachus,L1:Cancer_L2:Bladder,B497.00
+527,Cancer,Bladder,a289279015,Malignant neoplasm of other site of urinary bladder,L1:Cancer_L2:Bladder,B49y.00
+528,Cancer,Bladder,a289281018,Malignant neoplasm of urinary bladder NOS,L1:Cancer_L2:Bladder,B49z.00
+529,Cancer,Bladder,a767711000006113,Bladder instillation of anticarcinogenic agent,L1:Cancer_L2:Bladder,7B2C700
+530,Cancer,Bladder,a459399016,Local recurrence of malignant tumour of urinary bladder,L1:Cancer_L2:Bladder,B498.00
+531,Cancer,Bladder,a289280017,"Malignant neoplasm, overlapping lesion of bladder",L1:Cancer_L2:Bladder,B49y000
+532,Cancer,Bladder,a289297011,Malignant neoplasm of other urinary organs,L1:Cancer_L2:Bladder,B4Ay.00
+533,Cancer,Bladder,a289298018,Malignant neoplasm of overlapping lesion of urinary organs,L1:Cancer_L2:Bladder,B4Ay000
+534,Cancer,Bladder,a315031000006113,Papillary transitional cell carcinoma,L1:Cancer_L2:Bladder,BB4A.00
+535,Cancer,Bladder,a1755801000006118,[M]Grade 1 (Stage pTa) papillary urothelial/transitional cell carcinoma,L1:Cancer_L2:Bladder,BB4B.00
+536,Cancer,Bladder,a1755811000006115,[M]Grade 2 (Stage pTa) papillary urothelial/transitional cell carcinoma,L1:Cancer_L2:Bladder,BB4C.00
+537,Cancer,Bladder,a1755821000006111,[M]Grade 3 (Stage pTa) papillary urothelial/transitional cell carcinoma,L1:Cancer_L2:Bladder,BB4D.00
+538,Cancer,Bladder,a292147019,[X]Malignant neoplasm of urinary tract,L1:Cancer_L2:Bladder,Byu9.00
+539,Cancer,Bladder,a359271000006110,Secondary malignant neoplasm of urinary system,L1:Cancer_L2:Bladder,ByuC500

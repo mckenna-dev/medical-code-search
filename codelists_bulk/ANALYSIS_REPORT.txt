@@ -1,0 +1,911 @@
+# CODELIST FILES ANALYSIS REPORT
+==================================================
+
+## SUMMARY STATISTICS
+Total files analyzed: 454
+Successfully readable: 454
+Unreadable files: 0
+Success rate: 100.0%
+
+## FILE TYPES
+.csv: 316 files
+.txt: 138 files
+
+## PROJECTS
+Anaemia: 5 codelists
+CHD_Anaemia: 11 codelists
+COMPUTE: 145 codelists
+CanBack: 122 codelists
+Consultation_Catergorisation: 9 codelists
+Evaluation_of_Anaemia_in_a_Primary_Care_Population: 37 codelists
+Excess_Weight_and_Mental_Health: 65 codelists
+ID_Fracture: 34 codelists
+Respiratory_infection_related_cardiovascular_disease: 27 codelists
+
+## FILE SIZES
+Average: 9.8 KB
+Largest: 427.4 KB
+Smallest: 0.1 KB
+
+## COLUMN PATTERNS
+Found 131 unique column patterns:
+
+### Pattern 1 (1 files):
+Columns: eth16_2001, eth18_2011, eth19_2021, medcodeid, snomedct_conceptid, snomedct_descriptionid, term
+Example files:
+  - Anaemia: 337 rows
+
+### Pattern 2 (3 files):
+Columns: Count, MedCodeId, Term, Unnamed: 3
+Example files:
+  - Anaemia: 8 rows
+  - Anaemia: 11 rows
+  - Anaemia: 9 rows
+
+### Pattern 3 (1 files):
+Columns: 	Count, 	Term, MedCodeId
+Example files:
+  - Anaemia: 6 rows
+
+### Pattern 4 (121 files):
+Columns: Flag_L1_L2, Flag_classifyL1, Flag_classifyL2, MedCodeID, Notes, Order, Term
+Example files:
+  - CanBack: 69 rows
+  - CanBack: 140 rows
+  - CanBack: 32 rows
+  ... and 118 more
+
+### Pattern 5 (1 files):
+Columns: Term, Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 17, Unnamed: 18, Unnamed: 19, Unnamed: 20, Unnamed: 21, Unnamed: 22, Unnamed: 23, Unnamed: 24, Unnamed: 25, Unnamed: 26, Unnamed: 27, Unnamed: 28, Unnamed: 29, Unnamed: 3, Unnamed: 30, Unnamed: 31, Unnamed: 32, Unnamed: 33, Unnamed: 34, Unnamed: 35, Unnamed: 36, Unnamed: 37, Unnamed: 38, Unnamed: 39, Unnamed: 4, Unnamed: 40, Unnamed: 41, Unnamed: 42, Unnamed: 43, Unnamed: 44, Unnamed: 45, Unnamed: 46, Unnamed: 47, Unnamed: 48, Unnamed: 49, Unnamed: 5, Unnamed: 50, Unnamed: 51, Unnamed: 52, Unnamed: 53, Unnamed: 54, Unnamed: 55, Unnamed: 56, Unnamed: 57, Unnamed: 58, Unnamed: 59, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, clin_events, medcode
+Example files:
+  - CHD_Anaemia: 196 rows
+
+### Pattern 6 (1 files):
+Columns: Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 17, Unnamed: 18, Unnamed: 19, Unnamed: 20, Unnamed: 21, Unnamed: 22, Unnamed: 23, Unnamed: 24, Unnamed: 25, Unnamed: 26, Unnamed: 27, Unnamed: 28, Unnamed: 29, Unnamed: 30, Unnamed: 31, Unnamed: 32, Unnamed: 33, Unnamed: 34, Unnamed: 35, Unnamed: 36, Unnamed: 37, Unnamed: 38, Unnamed: 39, Unnamed: 40, Unnamed: 41, Unnamed: 42, Unnamed: 43, Unnamed: 44, Unnamed: 45, Unnamed: 46, Unnamed: 47, Unnamed: 48, Unnamed: 49, Unnamed: 50, Unnamed: 51, Unnamed: 52, Unnamed: 53, Unnamed: 8, Unnamed: 9, clinicalevents, databaserelease, immunisationevents, medcode, readcode, readterm, referralevents, testevents
+Example files:
+  - CHD_Anaemia: 1 rows
+
+### Pattern 7 (1 files):
+Columns: Class, Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 17, Unnamed: 18, Unnamed: 19, Unnamed: 20, Unnamed: 21, Unnamed: 22, Unnamed: 23, Unnamed: 24, Unnamed: 25, Unnamed: 26, Unnamed: 27, Unnamed: 28, Unnamed: 29, Unnamed: 30, Unnamed: 31, Unnamed: 32, Unnamed: 33, Unnamed: 34, Unnamed: 35, Unnamed: 36, Unnamed: 37, Unnamed: 38, Unnamed: 39, Unnamed: 40, Unnamed: 41, Unnamed: 42, Unnamed: 43, Unnamed: 44, Unnamed: 45, Unnamed: 46, Unnamed: 47, Unnamed: 48, Unnamed: 49, Unnamed: 50, Unnamed: 51, Unnamed: 52, Unnamed: 53, Unnamed: 54, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, clinicalevents, medcode, readterm, referralevents, testevents
+Example files:
+  - CHD_Anaemia: 464 rows
+
+### Pattern 8 (1 files):
+Columns: cause, class, desc, s
+Example files:
+  - CHD_Anaemia: 114 rows
+
+### Pattern 9 (1 files):
+Columns: Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 17, Unnamed: 18, Unnamed: 19, Unnamed: 20, Unnamed: 21, Unnamed: 22, Unnamed: 23, Unnamed: 24, Unnamed: 25, Unnamed: 26, Unnamed: 27, Unnamed: 28, Unnamed: 29, Unnamed: 30, Unnamed: 31, Unnamed: 32, Unnamed: 33, Unnamed: 34, Unnamed: 35, Unnamed: 36, Unnamed: 37, Unnamed: 38, Unnamed: 39, Unnamed: 4, Unnamed: 40, Unnamed: 41, Unnamed: 42, Unnamed: 43, Unnamed: 44, Unnamed: 45, Unnamed: 46, Unnamed: 47, Unnamed: 48, Unnamed: 49, Unnamed: 5, Unnamed: 50, Unnamed: 51, Unnamed: 52, Unnamed: 53, Unnamed: 54, Unnamed: 55, Unnamed: 56, Unnamed: 57, Unnamed: 58, Unnamed: 59, Unnamed: 6, Unnamed: 60, Unnamed: 61, Unnamed: 62, Unnamed: 63, Unnamed: 7, Unnamed: 8, Unnamed: 9, clinicalevents, medcode, readcode, readterm
+Example files:
+  - CHD_Anaemia: 155 rows
+
+### Pattern 10 (1 files):
+Columns: Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 17, Unnamed: 18, Unnamed: 19, Unnamed: 20, Unnamed: 21, Unnamed: 22, Unnamed: 23, Unnamed: 24, Unnamed: 25, Unnamed: 26, Unnamed: 27, Unnamed: 28, Unnamed: 29, Unnamed: 30, Unnamed: 31, Unnamed: 32, Unnamed: 33, Unnamed: 34, Unnamed: 35, Unnamed: 36, Unnamed: 37, Unnamed: 38, Unnamed: 39, Unnamed: 4, Unnamed: 40, Unnamed: 41, Unnamed: 42, Unnamed: 43, Unnamed: 44, Unnamed: 45, Unnamed: 46, Unnamed: 47, Unnamed: 48, Unnamed: 49, Unnamed: 5, Unnamed: 50, Unnamed: 51, Unnamed: 52, Unnamed: 53, Unnamed: 54, Unnamed: 55, Unnamed: 56, Unnamed: 57, Unnamed: 58, Unnamed: 59, Unnamed: 6, Unnamed: 60, Unnamed: 61, Unnamed: 62, Unnamed: 63, Unnamed: 64, Unnamed: 7, Unnamed: 8, Unnamed: 9, clinicalevents, medcode, readcode, readterm
+Example files:
+  - CHD_Anaemia: 155 rows
+
+### Pattern 11 (1 files):
+Columns: Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 17, Unnamed: 18, Unnamed: 19, Unnamed: 20, Unnamed: 21, Unnamed: 22, Unnamed: 23, Unnamed: 24, Unnamed: 25, Unnamed: 26, Unnamed: 27, Unnamed: 28, Unnamed: 29, Unnamed: 30, Unnamed: 31, Unnamed: 32, Unnamed: 33, Unnamed: 34, Unnamed: 35, Unnamed: 36, Unnamed: 37, Unnamed: 38, Unnamed: 39, Unnamed: 40, Unnamed: 41, Unnamed: 42, Unnamed: 43, Unnamed: 44, Unnamed: 45, Unnamed: 46, Unnamed: 47, Unnamed: 48, Unnamed: 49, Unnamed: 50, Unnamed: 51, Unnamed: 52, Unnamed: 53, Unnamed: 54, Unnamed: 55, Unnamed: 8, Unnamed: 9, clinicalevents, databaserelease, immunisationevents, medcode, readcode, readterm, referralevents, testevents
+Example files:
+  - CHD_Anaemia: 3 rows
+
+### Pattern 12 (1 files):
+Columns: Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 17, Unnamed: 18, Unnamed: 19, Unnamed: 20, Unnamed: 21, Unnamed: 22, Unnamed: 23, Unnamed: 24, Unnamed: 25, Unnamed: 26, Unnamed: 27, Unnamed: 28, Unnamed: 29, Unnamed: 30, Unnamed: 31, Unnamed: 32, Unnamed: 33, Unnamed: 34, Unnamed: 35, Unnamed: 36, Unnamed: 37, Unnamed: 38, Unnamed: 39, Unnamed: 40, Unnamed: 41, Unnamed: 42, Unnamed: 43, Unnamed: 44, Unnamed: 45, Unnamed: 46, Unnamed: 47, Unnamed: 48, Unnamed: 49, Unnamed: 50, Unnamed: 51, Unnamed: 52, Unnamed: 53, Unnamed: 54, Unnamed: 55, Unnamed: 56, Unnamed: 57, Unnamed: 8, Unnamed: 9, clinicalevents, databaserelease, immunisationevents, medcode, readcode, readterm, referralevents, testevents
+Example files:
+  - CHD_Anaemia: 1 rows
+
+### Pattern 13 (1 files):
+Columns: Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 17, Unnamed: 18, Unnamed: 19, Unnamed: 20, Unnamed: 21, Unnamed: 22, Unnamed: 23, Unnamed: 24, Unnamed: 25, Unnamed: 26, Unnamed: 27, Unnamed: 28, Unnamed: 29, Unnamed: 30, Unnamed: 31, Unnamed: 32, Unnamed: 33, Unnamed: 34, Unnamed: 35, Unnamed: 36, Unnamed: 37, Unnamed: 38, Unnamed: 39, Unnamed: 40, Unnamed: 41, Unnamed: 42, Unnamed: 43, Unnamed: 44, Unnamed: 45, Unnamed: 46, Unnamed: 47, Unnamed: 48, Unnamed: 49, Unnamed: 50, Unnamed: 51, Unnamed: 52, Unnamed: 53, Unnamed: 54, Unnamed: 55, Unnamed: 56, Unnamed: 57, Unnamed: 58, Unnamed: 8, Unnamed: 9, clinicalevents, databaserelease, immunisationevents, medcode, readcode, readterm, referralevents, testevents
+Example files:
+  - CHD_Anaemia: 1 rows
+
+### Pattern 14 (1 files):
+Columns: Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 17, Unnamed: 18, Unnamed: 19, Unnamed: 20, Unnamed: 21, Unnamed: 22, Unnamed: 23, Unnamed: 24, Unnamed: 25, Unnamed: 26, Unnamed: 27, Unnamed: 28, Unnamed: 29, Unnamed: 30, Unnamed: 31, Unnamed: 32, Unnamed: 33, Unnamed: 34, Unnamed: 35, Unnamed: 36, Unnamed: 37, Unnamed: 38, Unnamed: 39, Unnamed: 40, Unnamed: 41, Unnamed: 42, Unnamed: 43, Unnamed: 44, Unnamed: 45, Unnamed: 46, Unnamed: 47, Unnamed: 48, Unnamed: 49, Unnamed: 50, Unnamed: 51, Unnamed: 52, Unnamed: 53, Unnamed: 54, Unnamed: 55, Unnamed: 56, Unnamed: 57, Unnamed: 58, Unnamed: 59, Unnamed: 60, Unnamed: 8, Unnamed: 9, clinicalevents, databaserelease, immunisationevents, medcode, readcode, readterm, referralevents, testevents
+Example files:
+  - CHD_Anaemia: 13 rows
+
+### Pattern 15 (1 files):
+Columns: Term, Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 17, Unnamed: 18, Unnamed: 19, Unnamed: 20, Unnamed: 21, Unnamed: 22, Unnamed: 23, Unnamed: 24, Unnamed: 25, Unnamed: 26, Unnamed: 27, Unnamed: 28, Unnamed: 29, Unnamed: 30, Unnamed: 31, Unnamed: 32, Unnamed: 33, Unnamed: 34, Unnamed: 35, Unnamed: 36, Unnamed: 37, Unnamed: 38, Unnamed: 39, Unnamed: 40, Unnamed: 41, Unnamed: 42, Unnamed: 43, Unnamed: 44, Unnamed: 45, Unnamed: 46, Unnamed: 47, Unnamed: 48, Unnamed: 49, Unnamed: 50, Unnamed: 51, Unnamed: 52, Unnamed: 53, Unnamed: 54, Unnamed: 55, Unnamed: 56, Unnamed: 57, Unnamed: 58, Unnamed: 59, Unnamed: 60, Unnamed: 61, Unnamed: 8, Unnamed: 9, a, b, c, clin_events, medcode, readcode, release
+Example files:
+  - CHD_Anaemia: 144 rows
+
+### Pattern 16 (130 files):
+Columns: MedCodeId, Observations, SNOMED_CT_Concept_ID, Term
+Example files:
+  - COMPUTE: 13 rows
+  - COMPUTE: 4 rows
+  - COMPUTE: 299 rows
+  ... and 127 more
+
+### Pattern 17 (15 files):
+Columns: Codelist_Name, Description, Med_Code_Id, Observations, SNOMED_CT_Concept_ID, Term
+Example files:
+  - COMPUTE: 124 rows
+  - COMPUTE: 24 rows
+  - COMPUTE: 60 rows
+  ... and 12 more
+
+### Pattern 18 (18 files):
+Columns: MedCodeId, Observations, SnomedCTConceptId, Term
+Example files:
+  - Consultation_Catergorisation: 18 rows
+  - Consultation_Catergorisation: 20 rows
+  - Consultation_Catergorisation: 5 rows
+  ... and 15 more
+
+### Pattern 19 (1 files):
+Columns: Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, ÿþM
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 940 rows
+
+### Pattern 20 (4 files):
+Columns: Column0, Count, MedCodeId, Term, Unnamed: 0
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 15 rows
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 7 rows
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 4 rows
+  ... and 1 more
+
+### Pattern 21 (1 files):
+Columns: MedCodeId, Observations, Term, bronchiectasis
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 16 rows
+
+### Pattern 22 (5 files):
+Columns: MedCodeId, Observations, SnomedCTConceptId, Term, Unnamed: 4
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 72 rows
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 36 rows
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 216 rows
+  ... and 2 more
+
+### Pattern 23 (1 files):
+Columns: MedCodeId, Observations, Term, chronic_kidney_disease_3_to_5
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 91 rows
+
+### Pattern 24 (1 files):
+Columns: MedCodeId, Observations, Term, copd
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 184 rows
+
+### Pattern 25 (1 files):
+Columns: MedCodeId, Observations, Term, cirrhosis
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 156 rows
+
+### Pattern 26 (1 files):
+Columns: MedCodeId, Observations, SnomedCTConceptId, Term, Unnamed: 0, type_alc, type_non_alc, type_unknown
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 156 rows
+
+### Pattern 27 (1 files):
+Columns: MedCodeId, Observations, Term, dementia
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 129 rows
+
+### Pattern 28 (1 files):
+Columns: Typei, Typeii, Unnamed: 0, medcodeid, observations, snomedctconceptid, term, unknowntype/other
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 1540 rows
+
+### Pattern 29 (1 files):
+Columns: MedCodeId, Observations, Term, endometriosis
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 74 rows
+
+### Pattern 30 (1 files):
+Columns: MedCodeId, Observations, Term, frailty
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 1 rows
+
+### Pattern 31 (1 files):
+Columns: GORD, MedCodeId, Observations, Term
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 89 rows
+
+### Pattern 32 (1 files):
+Columns: MedCodeId, Observations, Term, multiple_sclerosis 
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 54 rows
+
+### Pattern 33 (1 files):
+Columns: MedCodeId, Observations, Term, osteoarthritis
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 188 rows
+
+### Pattern 34 (1 files):
+Columns: MedCodeId, Observations, Term, parkinsons
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 42 rows
+
+### Pattern 35 (1 files):
+Columns: MedCodeId, Observations, Term, pcos
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 24 rows
+
+### Pattern 36 (1 files):
+Columns: MedCodeId, Observations, Term, rheumatoid_arthritis
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 167 rows
+
+### Pattern 37 (1 files):
+Columns: MedCodeId, Observations, SnomedCTConceptId, Term, Unnamed: 4, Unnamed: 5, Unnamed: 6
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 49 rows
+
+### Pattern 38 (1 files):
+Columns: MedCodeId, Observations, Term, stroke
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 611 rows
+
+### Pattern 39 (1 files):
+Columns: MedCodeId, Observations, Term, liver transplant
+Example files:
+  - Evaluation_of_Anaemia_in_a_Primary_Care_Population: 27 rows
+
+### Pattern 40 (2 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, alcohol_dependence
+Example files:
+  - Excess_Weight_and_Mental_Health: 59 rows
+  - Excess_Weight_and_Mental_Health: 59 rows
+
+### Pattern 41 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, anaemia
+Example files:
+  - Excess_Weight_and_Mental_Health: 293 rows
+
+### Pattern 42 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, anorexia_diagnosis
+Example files:
+  - Excess_Weight_and_Mental_Health: 13 rows
+
+### Pattern 43 (1 files):
+Columns: Eatingdisorder_Anorexianervosa_diagnosis, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 5 rows
+
+### Pattern 44 (1 files):
+Columns: Anxiety_diagnosis, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 96 rows
+
+### Pattern 45 (1 files):
+Columns: Anxiety_referral, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 2 rows
+
+### Pattern 46 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, back_pain
+Example files:
+  - Excess_Weight_and_Mental_Health: 133 rows
+
+### Pattern 47 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, bariatric_surgery
+Example files:
+  - Excess_Weight_and_Mental_Health: 73 rows
+
+### Pattern 48 (1 files):
+Columns: Bipolar_diagnosis, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 83 rows
+
+### Pattern 49 (1 files):
+Columns: Bipolar_referral, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 1 rows
+
+### Pattern 50 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, blood_glucose
+Example files:
+  - Excess_Weight_and_Mental_Health: 54 rows
+
+### Pattern 51 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, f_blood_glucose
+Example files:
+  - Excess_Weight_and_Mental_Health: 10 rows
+
+### Pattern 52 (1 files):
+Columns: BMI category, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 51 rows
+
+### Pattern 53 (1 files):
+Columns: Eatingdisorder_Bulimianervosa_diagnosis, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 6 rows
+
+### Pattern 54 (1 files):
+Columns: CRP, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 12 rows
+
+### Pattern 55 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, cancer
+Example files:
+  - Excess_Weight_and_Mental_Health: 5093 rows
+
+### Pattern 56 (1 files):
+Columns: CVD, MedCodeId, Observations, Term, Unnamed: 0, Unnamed: 5, Unnamed: 6
+Example files:
+  - Excess_Weight_and_Mental_Health: 1362 rows
+
+### Pattern 57 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, cholesterol
+Example files:
+  - Excess_Weight_and_Mental_Health: 64 rows
+
+### Pattern 58 (1 files):
+Columns: COPD, MedCodeId, Observations, Term, Unnamed: 0, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8
+Example files:
+  - Excess_Weight_and_Mental_Health: 214 rows
+
+### Pattern 59 (1 files):
+Columns: CHD, MedCodeId, Observations, Term, Unnamed: 0, Unnamed: 5, Unnamed: 6
+Example files:
+  - Excess_Weight_and_Mental_Health: 336 rows
+
+### Pattern 60 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, dementia
+Example files:
+  - Excess_Weight_and_Mental_Health: 107 rows
+
+### Pattern 61 (1 files):
+Columns: Depression_diagnosis, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 155 rows
+
+### Pattern 62 (1 files):
+Columns: Depression_referral, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 2 rows
+
+### Pattern 63 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, Unnamed: 5, Unnamed: 6, diabetes
+Example files:
+  - Excess_Weight_and_Mental_Health: 786 rows
+
+### Pattern 64 (2 files):
+Columns: Count, MedCodeId, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 9 rows
+  - Excess_Weight_and_Mental_Health: 10 rows
+
+### Pattern 65 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, drug_addiction
+Example files:
+  - Excess_Weight_and_Mental_Health: 54 rows
+
+### Pattern 66 (1 files):
+Columns: Eatingdisorder_Other_diagnosis, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 16 rows
+
+### Pattern 67 (1 files):
+Columns: Eatingdisorder_Referral, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 3 rows
+
+### Pattern 68 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, eczema
+Example files:
+  - Excess_Weight_and_Mental_Health: 287 rows
+
+### Pattern 69 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, gout
+Example files:
+  - Excess_Weight_and_Mental_Health: 68 rows
+
+### Pattern 70 (1 files):
+Columns: HbA1c, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 37 rows
+
+### Pattern 71 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, heart_failure
+Example files:
+  - Excess_Weight_and_Mental_Health: 169 rows
+
+### Pattern 72 (1 files):
+Columns: Height category, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 17 rows
+
+### Pattern 73 (1 files):
+Columns: HDL, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 22 rows
+
+### Pattern 74 (3 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, category
+Example files:
+  - Excess_Weight_and_Mental_Health: 3 rows
+  - Excess_Weight_and_Mental_Health: 2 rows
+  - Excess_Weight_and_Mental_Health: 2 rows
+
+### Pattern 75 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, hyperglycemia
+Example files:
+  - Excess_Weight_and_Mental_Health: 10 rows
+
+### Pattern 76 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, hypertension
+Example files:
+  - Excess_Weight_and_Mental_Health: 279 rows
+
+### Pattern 77 (1 files):
+Columns: Description, IBD, Med_Code_ID, Observations, Unnamed: 0, Unnamed: 5
+Example files:
+  - Excess_Weight_and_Mental_Health: 18 rows
+
+### Pattern 78 (1 files):
+Columns: LDL, MedCodeId, Observations, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 21 rows
+
+### Pattern 79 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, marital_category
+Example files:
+  - Excess_Weight_and_Mental_Health: 129 rows
+
+### Pattern 80 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, Unnamed: 5, Unnamed: 6, Unnamed: 7, multiple_sclerosis
+Example files:
+  - Excess_Weight_and_Mental_Health: 56 rows
+
+### Pattern 81 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, obstructive_sleep_apnoea
+Example files:
+  - Excess_Weight_and_Mental_Health: 15 rows
+
+### Pattern 82 (1 files):
+Columns: Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, ÿþ
+Example files:
+  - Excess_Weight_and_Mental_Health: 406 rows
+
+### Pattern 83 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, physical_category
+Example files:
+  - Excess_Weight_and_Mental_Health: 69 rows
+
+### Pattern 84 (1 files):
+Columns: MedCodeId, Observations, Psychosis_diagnosis, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 48 rows
+
+### Pattern 85 (1 files):
+Columns: MedCodeId, Observations, Psychosis_referral, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 2 rows
+
+### Pattern 86 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, renal_failure
+Example files:
+  - Excess_Weight_and_Mental_Health: 100 rows
+
+### Pattern 87 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, sarcopenia
+Example files:
+  - Excess_Weight_and_Mental_Health: 4 rows
+
+### Pattern 88 (1 files):
+Columns: MedCodeId, Observations, Schizophrenia_diagnosis, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 155 rows
+
+### Pattern 89 (1 files):
+Columns: MedCodeId, Observations, SMI_symptom, Term, Unnamed: 0
+Example files:
+  - Excess_Weight_and_Mental_Health: 316 rows
+
+### Pattern 90 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, skin_infection
+Example files:
+  - Excess_Weight_and_Mental_Health: 298 rows
+
+### Pattern 91 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, smoke_category
+Example files:
+  - Excess_Weight_and_Mental_Health: 218 rows
+
+### Pattern 92 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, Unnamed: 5, Unnamed: 6, Unnamed: 7, stroke
+Example files:
+  - Excess_Weight_and_Mental_Health: 857 rows
+
+### Pattern 93 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, thyroid_disease
+Example files:
+  - Excess_Weight_and_Mental_Health: 182 rows
+
+### Pattern 94 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, triglycerides
+Example files:
+  - Excess_Weight_and_Mental_Health: 25 rows
+
+### Pattern 95 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, Weight category
+Example files:
+  - Excess_Weight_and_Mental_Health: 21 rows
+
+### Pattern 96 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, unexpected_weight_gain
+Example files:
+  - Excess_Weight_and_Mental_Health: 4 rows
+
+### Pattern 97 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, intentional_weight_loss
+Example files:
+  - Excess_Weight_and_Mental_Health: 1 rows
+
+### Pattern 98 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, unexpected_weight_loss
+Example files:
+  - Excess_Weight_and_Mental_Health: 10 rows
+
+### Pattern 99 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 17, Unnamed: 18, Unnamed: 19, Unnamed: 20, Unnamed: 21, Unnamed: 22, Unnamed: 23, Unnamed: 24, Unnamed: 25, Unnamed: 26, Unnamed: 27, Unnamed: 28, Unnamed: 29, Unnamed: 30, Unnamed: 31, Unnamed: 32, Unnamed: 33, Unnamed: 34, Unnamed: 35, Unnamed: 36, Unnamed: 37, Unnamed: 38, Unnamed: 39, Unnamed: 40, Unnamed: 41, Unnamed: 42, Unnamed: 43, Unnamed: 44, Unnamed: 45, Unnamed: 46, Unnamed: 47, Unnamed: 48, Unnamed: 49, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, weight_management_advice
+Example files:
+  - Excess_Weight_and_Mental_Health: 118 rows
+
+### Pattern 100 (1 files):
+Columns: MedCodeId, Observations, Term, Unnamed: 0, Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 17, Unnamed: 18, Unnamed: 19, Unnamed: 20, Unnamed: 21, Unnamed: 22, Unnamed: 23, Unnamed: 24, Unnamed: 25, Unnamed: 26, Unnamed: 27, Unnamed: 28, Unnamed: 29, Unnamed: 30, Unnamed: 31, Unnamed: 32, Unnamed: 33, Unnamed: 34, Unnamed: 35, Unnamed: 36, Unnamed: 37, Unnamed: 38, Unnamed: 39, Unnamed: 40, Unnamed: 41, Unnamed: 42, Unnamed: 43, Unnamed: 44, Unnamed: 45, Unnamed: 46, Unnamed: 47, Unnamed: 48, Unnamed: 49, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, weight_management_referral
+Example files:
+  - Excess_Weight_and_Mental_Health: 113 rows
+
+### Pattern 101 (1 files):
+Columns: MedCodeId, Observations, SNOMED_CT_Concept_ID, Term, drinker, level, readterm
+Example files:
+  - ID_Fracture: 311 rows
+
+### Pattern 102 (3 files):
+Columns: MedCodeId, Observations, READcode, SNOMED_CT_Concept_ID, Term
+Example files:
+  - ID_Fracture: 18 rows
+  - ID_Fracture: 28 rows
+  - ID_Fracture: 58 rows
+
+### Pattern 103 (1 files):
+Columns: MedCodeId, Observations, SNOMED_CT_Concept_ID, Term, databasebuild, readcode, readterm
+Example files:
+  - ID_Fracture: 48 rows
+
+### Pattern 104 (1 files):
+Columns: CleansedReadCode, MedCodeId, Observations, OriginalReadCode, SNOMED_CT_Concept_ID, Search terms: *asthma*  *copd* *chronic obstructive pulmonary*, SnomedCTDescriptionId, Term, Unnamed: 7, Unnamed: 8
+Example files:
+  - ID_Fracture: 145 rows
+
+### Pattern 105 (3 files):
+Columns: MedCodeId, MedCodeId.1, Observations, SNOMED_CT_Concept_ID, Term, cleansedreadcode, emiscodecategoryid, originalreadcode, os_term, release, simpleterm, snomedctdescriptionid
+Example files:
+  - ID_Fracture: 36 rows
+  - ID_Fracture: 18 rows
+  - ID_Fracture: 10 rows
+
+### Pattern 106 (1 files):
+Columns: CleansedReadCode, MedCodeId, Observations, OriginalReadCode, SNOMED_CT_Concept_ID, Search terms: *cancer*  *neopl*  *tumour*  *carcinoma*  *sarcoma*  *lymphoma*  *leukaemia*, SnomedCTDescriptionId, Term, Unnamed: 7, Unnamed: 8
+Example files:
+  - ID_Fracture: 4647 rows
+
+### Pattern 107 (1 files):
+Columns: CleansedReadCode, MedCodeId, Observations, OriginalReadCode, SNOMED_CT_Concept_ID, Search terms: *chronic liver*  *cirr*  *chronic hepat* *liver failure*, SnomedCTDescriptionId, Term, Unnamed: 7
+Example files:
+  - ID_Fracture: 88 rows
+
+### Pattern 108 (1 files):
+Columns: 0, 1001, 11086, 137, 2009-02-01 00:00:00, 376874, Chronic obstructive pulmonary disease, H3...00, MedCodeId, Observations, SNOMED_CT_Concept_ID, Term, Unnamed: 1
+Example files:
+  - ID_Fracture: 54 rows
+
+### Pattern 109 (1 files):
+Columns: CleansedReadCode, MedCodeId, Observations, OriginalReadCode, SNOMED_CT_Concept_ID, Search terms: *dementia*  *alzheimer*, SnomedCTDescriptionId, Term, Unnamed: 7
+Example files:
+  - ID_Fracture: 221 rows
+
+### Pattern 110 (1 files):
+Columns: MedCodeId, Observations, READcode, SNOMED_CT_Concept_ID, Term, Unnamed: 10, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9
+Example files:
+  - ID_Fracture: 297 rows
+
+### Pattern 111 (10 files):
+Columns: MedCodeId, Observations, SNOMED_CT_Concept_ID, Term, clinicalevents, databasebuild, immunisationevents, readcode, readterm, referralevents, testevents
+Example files:
+  - ID_Fracture: 117 rows
+  - ID_Fracture: 63 rows
+  - ID_Fracture: 186 rows
+  ... and 7 more
+
+### Pattern 112 (1 files):
+Columns: Grouping, Grouping definitions*, MedCodeId, Observations, SNOMED_CT_Concept_ID, Term, Unnamed: 5, Unnamed: 6, readcode, readterm
+Example files:
+  - ID_Fracture: 91 rows
+
+### Pattern 113 (1 files):
+Columns: ICD-10 code, ICD-10 term, MOP Site, Major osteoporotic site, MedCodeId, Observations, SNOMED_CT_Concept_ID, Term, Unnamed: 4, readcode, readterm
+Example files:
+  - ID_Fracture: 1046 rows
+
+### Pattern 114 (1 files):
+Columns: CleansedReadCode, MedCodeId, Observations, OriginalReadCode, SNOMED_CT_Concept_ID, SnomedCTDescriptionId, Term
+Example files:
+  - ID_Fracture: 12 rows
+
+### Pattern 115 (1 files):
+Columns: CleansedReadCode, MedCodeId, Observations, OriginalReadCode, SNOMED_CT_Concept_ID, Search terms: *hyperthyroid* *thyrotox* *grave* *parathyroid* *cushing* *hypercortisol*, SnomedCTDescriptionId, Term, Unnamed: 7
+Example files:
+  - ID_Fracture: 102 rows
+
+### Pattern 116 (1 files):
+Columns: CleansedReadCode, In records, MedCodeId, Observations, OriginalReadCode, SNOMED_CT_Concept_ID, Search terms: gonad, menop, testost, cryptorchyd, amenorrh, turner, klinefelter, kallman, x0, xxy, testic, ovar, androg, eunu, SnomedCTDescriptionId, Term, Unnamed: 8
+Example files:
+  - ID_Fracture: 207 rows
+
+### Pattern 117 (1 files):
+Columns: MedCodeId, Observations, SNOMED_CT_Concept_ID, Search term, Term, Unnamed: 8, clinicalevents, databasebuild, immunisationevents, readcode, readterm, referralevents, testevents
+Example files:
+  - ID_Fracture: 257 rows
+
+### Pattern 118 (1 files):
+Columns: CleansedReadCode, EmisCodeCategoryId, MedCodeId, Observations, OriginalReadCode, Release, SNOMED_CT_Concept_ID, SnomedCTDescriptionId, Term
+Example files:
+  - ID_Fracture: 245 rows
+
+### Pattern 119 (1 files):
+Columns: CleansedReadCode, MedCodeId, Observations, OriginalReadCode, SNOMED_CT_Concept_ID, Search terms: *myocardial infarction* *heart attack* *angina*, SnomedCTDescriptionId, Term, Unnamed: 7
+Example files:
+  - ID_Fracture: 181 rows
+
+### Pattern 120 (1 files):
+Columns: CleansedReadCode, MedCodeId, Observations, OriginalReadCode, SNOMED_CT_Concept_ID, Search terms: *pleg* * mobil* * wheelchair*  *cerebral palsy*  * spast*  * walk* *coordin*  * unstead*  *balance*, SnomedCTDescriptionId, Term, Unnamed: 7
+Example files:
+  - ID_Fracture: 429 rows
+
+### Pattern 121 (1 files):
+Columns: MedCodeId, Observations, SNOMED_CT_Concept_ID, Term, cleansedreadcode, intensity, status
+Example files:
+  - ID_Fracture: 99 rows
+
+### Pattern 122 (4 files):
+Columns: cleansedreadcode, medcodeid, observations, snomedctconceptid, term, v1
+Example files:
+  - Respiratory_infection_related_cardiovascular_disease: 68 rows
+  - Respiratory_infection_related_cardiovascular_disease: 738 rows
+  - Respiratory_infection_related_cardiovascular_disease: 352 rows
+  ... and 1 more
+
+### Pattern 123 (9 files):
+Columns: cleansedreadcode, medcodeid, originalreadcode, release, snomedctconceptid, snomedctdescriptionid, term
+Example files:
+  - Respiratory_infection_related_cardiovascular_disease: 645 rows
+  - Respiratory_infection_related_cardiovascular_disease: 278 rows
+  - Respiratory_infection_related_cardiovascular_disease: 139 rows
+  ... and 6 more
+
+### Pattern 124 (1 files):
+Columns: cleansedreadcode, medcodeid, originalreadcode, release, snomedctconceptid, snomedctdescriptionid, term, term2, var
+Example files:
+  - Respiratory_infection_related_cardiovascular_disease: 9 rows
+
+### Pattern 125 (2 files):
+Columns: medcode, readcode, readterm
+Example files:
+  - Respiratory_infection_related_cardiovascular_disease: 299 rows
+  - Respiratory_infection_related_cardiovascular_disease: 943 rows
+
+### Pattern 126 (5 files):
+Columns: cleansedreadcode, medcodeid, originalreadcode, release, snomedctconceptid, snomedctdescriptionid, term, term2
+Example files:
+  - Respiratory_infection_related_cardiovascular_disease: 49 rows
+  - Respiratory_infection_related_cardiovascular_disease: 25 rows
+  - Respiratory_infection_related_cardiovascular_disease: 8 rows
+  ... and 2 more
+
+### Pattern 127 (1 files):
+Columns: HDL, HDLovertotal, HDLtononHDLratio, LDL, VLDL, check, cholesterolnormal, choltoLDLratio, choltoVLDLratio, cleansedreadcode, hypercholesterolaemia, medcodeid, nonHDL, originalreadcode, release, snomedctconceptid, snomedctdescriptionid, term, term1, term2, totalcholesterol, totaloverHDL
+Example files:
+  - Respiratory_infection_related_cardiovascular_disease: 49 rows
+
+### Pattern 128 (2 files):
+Columns: CleansedReadCode, MedCodeId, Observations, SnomedCTConceptId, Term, Unnamed: 0
+Example files:
+  - Respiratory_infection_related_cardiovascular_disease: 129 rows
+  - Respiratory_infection_related_cardiovascular_disease: 95 rows
+
+### Pattern 129 (1 files):
+Columns: Typei, Typeii, cleansedreadcode, medcodeid, observations, snomedctconceptid, term, unknowntype, v1
+Example files:
+  - Respiratory_infection_related_cardiovascular_disease: 1206 rows
+
+### Pattern 130 (1 files):
+Columns: Term, count, percentage_of_coh
+Example files:
+  - Respiratory_infection_related_cardiovascular_disease: 445 rows
+
+### Pattern 131 (1 files):
+Columns: medcode, readterm, type
+Example files:
+  - Respiratory_infection_related_cardiovascular_disease: 4 rows
+
+## KEY COLUMN VARIATIONS
+
+### MED_CODE_ID column variations:
+  - CleansedReadCode
+  - Codelist_Name
+  - EmisCodeCategoryId
+  - ICD-10 code
+  - MedCodeID
+  - MedCodeId
+  - MedCodeId.1
+  - Med_Code_ID
+  - Med_Code_Id
+  - OriginalReadCode
+  - READcode
+  - SNOMED_CT_Concept_ID
+  - Search terms: *hyperthyroid* *thyrotox* *grave* *parathyroid* *cushing* *hypercortisol*
+  - SnomedCTConceptId
+  - SnomedCTDescriptionId
+  - chronic_kidney_disease_3_to_5
+  - cleansedreadcode
+  - emiscodecategoryid
+  - medcode
+  - medcodeid
+  - originalreadcode
+  - readcode
+  - rheumatoid_arthritis
+  - snomedct_conceptid
+  - snomedct_descriptionid
+  - snomedctconceptid
+  - snomedctdescriptionid
+  - thyroid_disease
+  - triglycerides
+
+### TERM column variations:
+  - 	Term
+  - Codelist_Name
+  - Description
+  - ICD-10 term
+  - Search term
+  - Search terms: *asthma*  *copd* *chronic obstructive pulmonary*
+  - Search terms: *cancer*  *neopl*  *tumour*  *carcinoma*  *sarcoma*  *lymphoma*  *leukaemia*
+  - Search terms: *chronic liver*  *cirr*  *chronic hepat* *liver failure*
+  - Search terms: *dementia*  *alzheimer*
+  - Search terms: *hyperthyroid* *thyrotox* *grave* *parathyroid* *cushing* *hypercortisol*
+  - Search terms: *myocardial infarction* *heart attack* *angina*
+  - Search terms: *pleg* * mobil* * wheelchair*  *cerebral palsy*  * spast*  * walk* *coordin*  * unstead*  *balance*
+  - Search terms: gonad, menop, testost, cryptorchyd, amenorrh, turner, klinefelter, kallman, x0, xxy, testic, ovar, androg, eunu
+  - SnomedCTDescriptionId
+  - Term
+  - Unnamed: 0
+  - Unnamed: 1
+  - Unnamed: 10
+  - Unnamed: 11
+  - Unnamed: 12
+  - Unnamed: 13
+  - Unnamed: 14
+  - Unnamed: 15
+  - Unnamed: 16
+  - Unnamed: 17
+  - Unnamed: 18
+  - Unnamed: 19
+  - Unnamed: 2
+  - Unnamed: 20
+  - Unnamed: 21
+  - Unnamed: 22
+  - Unnamed: 23
+  - Unnamed: 24
+  - Unnamed: 25
+  - Unnamed: 26
+  - Unnamed: 27
+  - Unnamed: 28
+  - Unnamed: 29
+  - Unnamed: 3
+  - Unnamed: 30
+  - Unnamed: 31
+  - Unnamed: 32
+  - Unnamed: 33
+  - Unnamed: 34
+  - Unnamed: 35
+  - Unnamed: 36
+  - Unnamed: 37
+  - Unnamed: 38
+  - Unnamed: 39
+  - Unnamed: 4
+  - Unnamed: 40
+  - Unnamed: 41
+  - Unnamed: 42
+  - Unnamed: 43
+  - Unnamed: 44
+  - Unnamed: 45
+  - Unnamed: 46
+  - Unnamed: 47
+  - Unnamed: 48
+  - Unnamed: 49
+  - Unnamed: 5
+  - Unnamed: 50
+  - Unnamed: 51
+  - Unnamed: 52
+  - Unnamed: 53
+  - Unnamed: 54
+  - Unnamed: 55
+  - Unnamed: 56
+  - Unnamed: 57
+  - Unnamed: 58
+  - Unnamed: 59
+  - Unnamed: 6
+  - Unnamed: 60
+  - Unnamed: 61
+  - Unnamed: 62
+  - Unnamed: 63
+  - Unnamed: 64
+  - Unnamed: 7
+  - Unnamed: 8
+  - Unnamed: 9
+  - desc
+  - os_term
+  - readterm
+  - simpleterm
+  - snomedct_descriptionid
+  - snomedctdescriptionid
+  - term
+  - term1
+  - term2
+
+### SNOMED column variations:
+  - SNOMED_CT_Concept_ID
+  - SnomedCTConceptId
+  - SnomedCTDescriptionId
+  - snomedct_conceptid
+  - snomedct_descriptionid
+  - snomedctconceptid
+  - snomedctdescriptionid
+
+### OBSERVATIONS column variations:
+  - 	Count
+  - Chronic obstructive pulmonary disease
+  - Count
+  - Observations
+  - Search terms: *asthma*  *copd* *chronic obstructive pulmonary*
+  - clin_events
+  - clinicalevents
+  - count
+  - immunisationevents
+  - observations
+  - obstructive_sleep_apnoea
+  - referralevents
+  - testevents
+
+## PROBLEMATIC FILES
+- codelists_bulk\successful\CanBack\21_002323_Vessel_atherosclerosis,_Aneurysm,_Stenosis: No main data file found
+
+## SAMPLE DATA
+
+### Anaemia - Ethnicity.csv
+  medcodeid: 141431000000111
+  term: scottish - ethnic category 2001 census
+  snomedct_conceptid: 92541000000108
+  snomedct_descriptionid: 141431000000111.0
+
+### Anaemia - Haemoglobin.csv
+  MedCodeId: 813551000006113
+  Term: Haemoglobin estimation
+  Count: 73716624
+  Unnamed: 3: NaN
+
+### CanBack - Alcohol_status_Alcohol_dependence.csv
+  Order: 8776
+  Flag_classifyL1: Alcohol_status
+  Flag_classifyL2: Alcohol_dependence
+  MedCodeID: a4978011000006117
+
+### CanBack - Alcohol_status_current_drinker.csv
+  Order: 8604
+  Flag_classifyL1: Alcohol_status
+  Flag_classifyL2: current_drinker
+  MedCodeID: a1738421000000111
+
+### CanBack - Alcohol_status_current_drinker_hazard.csv
+  Order: 8744
+  Flag_classifyL1: Alcohol_status
+  Flag_classifyL2: current_drinker_hazard
+  MedCodeID: a250335018

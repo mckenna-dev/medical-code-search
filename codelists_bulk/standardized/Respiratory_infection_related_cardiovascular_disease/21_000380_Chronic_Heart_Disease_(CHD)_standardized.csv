@@ -1,0 +1,739 @@
+med_code_id,term,snomed_ct_concept_id,observations
+300016017,"Combined disorders of mitral, aortic and tricuspid valves",195005009,400
+512130019,Congenital stricture of pulmonary artery,95441000,40
+193401000006117,Pulmonary arteriovenous malformation,303070000,400
+315688018,Congenital anomaly of pulmonary artery,36110001,200
+3863421000006112,Corrected transposition of great vessels,83799000,10
+460331011,History of major cardiovascular surgery,15081000119105,100
+9771010,Congenital absence of coronary artery,5230009,4
+371771000006115,[X]Congenital malforms of cardiac chambers+connections unsp,363660007,200
+270950019,Aortic valvuloplasty NEC,112816004,900
+313458018,Congenital anomaly of aorta,59877000,800
+270766014,Revision of transplantation of heart and lung,174803001,7
+637121000000110,Congenital dextroposition of heart,341751000000103,70
+270767017,Other specified transplantation of heart and lung,174802006,10
+2675435016,Closure of aorto-left ventricular tunnel,427265007,20
+5327821000006115,Double inlet left ventricle,253283000,4
+324974014,Heart transplant failure and rejection,213151004,20
+2544081000006116,Right ventricular hypoplasia,2829000,2
+505081012,Duroziez's disease,82458004,2
+4663791000006113,Allotransplant of heart and lung,174802006,3
+377724010,Preductal hypoplasia of aorta,253674003,1
+7360241000006116,Double outlet right ventricle with subpulmonary ventricular septal defect,448794008,6
+1587311000006114,Repair of defect of interventricular septum using pericardial patch,174851009,8
+50693015,Ventricular septal defect,30288003,100000
+89332015,Atherosclerotic heart disease,443502000,1000
+313513014,Subdiaphragmatic total anomalous pulmonary venous return,204456001,20
+3807401000006112,Roger's disease,80387009,20
+818791000006118,Operation on cardiac septum,77371000,200
+313381017,Other specified heart anomalies,13213009,90
+270830019,Revision of closure of defect of interatrial septum,174848002,20
+2619021000006117,DORV - Double outlet right ventricle,7484005,2
+271526019,Aorta operations NOS,32907006,800
+4824801000006113,Ebstein's malformation of tricuspid valve,204357006,5
+3711941000006110,Aortic diverticulum,74561007,4
+569651000006112,Closure defect of heart septum using pericardial patch NEC,77371000,600
+271388016,Other open operations on pulmonary artery,233207009,40
+300014019,Disorders of both aortic and tricuspid valves,195003002,300
+383061000000112,Other repair of transposition of great arteries NOS,395723006,70
+1587221000006113,Repair of defect of interatrial septum using prosthetic patch,174844000,4
+313444015,Acyanotic congenital heart disease NOS,13213009,200
+270981011,Pulmonary valvuloplasty NEC,265475009,300
+1546491000006118,Percutaneous transluminal atrial septum fenestration closure with prosthesis,233831000000107,200
+5328951000006116,Partial atrioventricular septal defect,253373002,1
+313398017,Coronary artery anomaly NOS,28574005,300
+4824831000006117,Parachute malformation of mitral valve,204362007,8
+580911000006114,Congenital cardiovasc dis - unsp whether in preg/puerperium,267207004,8
+1222315016,"Aortic regurgitation alone, cause unspecified",60234000,60000
+465651000000113,Pulmonary valve repair NEC,386749005,200
+313375013,"Congenital mitral stenosis, unspecified",82458004,6
+5329321000006119,Double orifice of mitral valve,253402005,2
+641961000006119,Endocardial cushion defect,15459006,100
+193391000006119,Pulmonary arterio-venous fistula,253639004,50
+270776012,Revision of transplantation of heart NEC,32413006,10
+465681000000119,Repair defect of atrioventricular septum using tissue graft,174839007,10
+1546731000006111,Percutaneous transluminal closure of defect of interatrial septum using prosthesis,429761006,30
+377728013,Postductal interruption of aorta,253677005,2
+377267018,Isomerism of atrial appendages,253335001,800
+559841000006118,Closure of defect of interventricular septum using prosthetic patch,89814007,200
+313435016,Other specified heart anomalies NOS,13213009,40
+2709711000006116,CHD - Congenital heart disease,13213009,2
+299990018,Aortic valve stenosis,60573004,40000
+349159019,Rashkind balloon atrial septostomy,233044001,200
+313388011,Obstructive heart anomaly NEC NOS,13213009,10
+597091000006118,Correction of total anomalous pulmonary venous connection,174830006,90
+583691000006118,"Congenital malformation of tricuspid valve, unspecified",4374004,50
+4824881000006116,Infundibular pulmonic stenosis,204370002,20
+270916011,"Heart wall, septum and chamber operations NOS",265466007,200
+3852711000006112,Congenital insufficiency of tricuspid valve,83119008,1
+96991000006117,Total anomalous pulmonary venous connection,111323005,500
+299650019,Malignant hypertensive heart disease NOS,54225002,90
+315641017,Acardia,205834002,5
+313349014,"Pulmonary valve anomaly, unspecified",204339005,200
+313280018,Incomplete great vessel transposition,204300001,60
+300865011,[X]Other tricuspid valve diseases,20721001,200
+465591000000118,Other specified repair of tetralogy of Fallot,174814003,60
+2478825010,Atresia of aorta,7438000,90
+299606015,Mitral stenosis and aortic incompetence,194734000,90
+313418015,Hypoplasia of cardiac vein,204391005,6
+1222306011,"Tricuspid incompetence, cause unspecified",111287006,600
+371021000006118,[X]Chronic rheumatic heart disease,87648004,300
+5333171000006116,Interrupted aortic arch distal to left subclavian artery,253681005,1
+465521000000116,Tricuspid valve repair NEC,384643000,1000
+1478969019,Mitral valvuloplasty,384642005,2000
+600091000006110,Creation of aortopulmonary window,175228009,10
+376940010,Repair of defect of interatrial septum,112811009,20
+377170014,Congenital insufficiency of heart valve NEC,13213009,10
+299993016,"Tricuspid valve disorders, non-rheumatic",194989009,400
+596141000006112,Congenitally corrected transposition of great arteries,83799000,700
+498101000006117,Atrial inversion operation with patch,40250003,80
+476311019,Common atrioventricular canal,360481003,50
+507003013,Pulmonary artery agenesis,86252004,10
+299996012,"Tricuspid regurgitation, non-rheumatic",194990000,3000
+132655012,Chronic cor pulmonale,79955004,20000
+569681000006116,Closure defect of interatrial septum using tissue graft NEC,233037005,10
+400797016,Other specified transposition of great vessels,204296002,100
+3725681000006119,Congenital anomaly of mitral valve,75372006,1
+596841000006116,Correction of partial anomalous pulmonary venous drainage,174900004,400
+299593012,Mitral stenosis with incompetence,194726006,90
+271045017,Percutaneous transluminal tricuspid valvotomy,174989000,2
+270832010,Closure of defect of interatrial septum NOS,233037005,700
+376521000000112,Other specified operations on aortic root,232816009,80
+5333141000006112,Thoracic aortic coarctation,253678000,2
+194021000006117,Pulmonary valvuloplasty,386749005,1000
+5777016,Uhl's disease,2829000,30
+580961000006112,Congenital cardiovascular disorder in preg/childb/puerp NOS,267207004,40
+400798014,Discordant ventriculoarterial connection,204296002,900
+13148012,Double outlet left ventricle,7368005,100
+3852721000006116,Congenital tricuspid regurgitation,83119008,1
+371601000006119,[X]Congenital malformation of aortic and mitral valves unsp,70320004,50
+145620019,Chronic pulmonary heart disease,87837008,1000
+5980831000006116,Heart transplant biopsy,308683001,1
+313343010,Heart bulb or septal closure defects NOS,268174004,1000
+356361000000114,Pulmonary unifocalisation,223611000000101,40
+28816013,Aorticopulmonary septal defect,17024001,10
+377798017,Congenital absence of pericardium,253732001,20
+3902361000006111,Pulmonary artery absent,86252004,6
+270779017,Repair of tetralogy of Fallot,174814003,2000
+92841017,Left ventricular hypertrophy,55827005,100000
+511641000000117,Repair of defect of unspecified septum of heart NOS,77371000,2
+411508017,Cardiomegaly - hypertensive,275516004,4000
+2943361000006119,Right sided heart,27637000,6
+299673010,Hypertensive heart and renal disease with renal failure,194780003,100
+755691000006114,Kartageners syndrome,42402006,1000
+313397010,Congenital stricture of coronary artery,204379001,20
+569671000006119,Closure of defect of interatrial septum using prosthetic patch,174844000,300
+2770281000006118,AP - Aortopulmonary window,17024001,1
+13062015,Coarctation of aorta,7305005,20000
+883981000006111,Chronic rheumatic heart diseas,87648004,200
+299622019,Tricuspid valve regurgitation,111287006,10000
+2616351000006116,Aortic coarctation,7305005,9
+313362013,Fallot's trilogy,204351007,100
+315682017,[X]Other congenital malformations of tricuspid valve,4374004,10
+299675015,Hypertensive heart and renal disease NOS,86234004,10
+313426011,Cor triloculare,204397009,5
+2692158014,Repositioning of transposed great arteries,428558001,50
+46258015,Dextrocardia,27637000,5000
+741691000006114,Hypertensive heart disease NOS without CCF,64715009,300
+1235125018,Fallot's tetralogy,86299006,800
+270837016,Closure of ventricular septal defect,52930005,600
+300012015,Pulmonary valve disorders NOS,76267008,600
+271039013,Other open operation on valve of heart NOS,73544002,60
+299655012,Hypertensive heart disease NOS,64715009,400
+81186016,Mitral valve regurgitation,48724000,40000
+313508010,Anomalies of great veins,204451006,80
+299980014,"Mitral incompetence, non-rheumatic",194978002,30000
+136773016,Congenital mitral stenosis,82458004,200
+299997015,"Tricuspid stenosis, non-rheumatic",194991001,200
+313336016,Common atrioventricular-type ventricular septal defect,204330009,3000
+357781000000119,Percutaneous transluminal atrial septum fenestration,224321000000104,10
+299604017,Mitral stenosis and aortic insufficiency,194734000,300
+299654011,Benign hypertensive heart disease NOS,36221001,10
+2981791000006119,MR - Congenital mitral regurgitation,29928006,2
+1546321000006114,Left ventricle to aorta tunnel with right ventricle to pulmonary artery valved conduit,224181000000101,6
+3610141000006114,Partial anomalous pulmonary venous connection,68237008,100
+3081991000006119,Pulmonary artery congenital abnormality,36110001,2
+4042761000006111,Muscular ventricular septum defect,94706008,20
+596881000006110,Correction of persistent sinus venosus,174899009,200
+1222314017,"Aortic insufficiency alone, cause unspecified",60234000,60
+1222316015,Pulmonic valve regurgitation,91434003,8000
+251803016,H/O: heart anomaly,161573009,900
+300000019,Tricuspid valve disorders NOS,20721001,500
+483917014,Coronary artery anomaly,28574005,1000
+377723016,Preductal interruption of aorta,253673009,6
+1546741000006118,Percutan transluminal closure defect interatrial septum NEC,30123000,60
+5331971000006119,Pulmonary atresia with intact ventricular septum,253590009,1
+818471000006114,Heart chambers operations,275028003,20
+377498018,Dextraposition of aorta in Fallot's tetralogy,253514004,40
+1232187015,Closure of aortopulmonary window,61192001,100
+478039018,Aortopulmonary window,17024001,100
+40341000006116,Ostium primum type interauricular septal defect,17718000,10
+5331991000006118,Pulmonary atresia with ventricular septal defect,253591008,5
+511531000000113,Primary repair of defect of interventricular septum NEC,52930005,10
+250411000006119,Parachute deformity of the mitral valve,204362007,50
+377499014,Ventricular septal defect in Fallot's tetralogy,253515003,500
+270838014,Closure of defect of interventricular septum NOS,52930005,500
+641971000006114,Endocardial cushion defects NOS,15459006,10
+497981000006111,Atrial inversion op for transposition of great vessels NOS,265467003,90
+355549012,Congenital heart disease in pregnancy,237227006,50
+3826471000006110,Congenital anomaly of inferior vena cava,81577001,1
+113349011,PAPVR - Partial anomalous pulmonary venous return,68237008,300
+4824331000006114,Transposition of great arteries,204296002,50
+5329031000006119,Straddling tricuspid valve,253379003,2
+1222307019,"Tricuspid regurgitation, cause unspecified",111287006,50000
+1222308012,"Tricuspid stenosis and regurgitation, cause unspecified",49915006,100
+5295591000006111,Intermittent second degree atrioventricular block,251114004,4
+90421000006112,Transplantation of heart and lung,32477003,1000
+143003017,Hypertensive heart AND renal disease,86234004,400
+559831000006111,Closure of defect of interventricular septum using pericardial patch,174851009,90
+270859019,Closed operation on septum of heart NOS,174870004,100
+3285001000006119,Congenital atresia of cardiac vein,48520006,1
+4824461000006111,ASD2 - Secundum atrial septal defect,204315000,100
+297501000006112,Nonrheumatic tricuspid valve stenosis with insufficiency,194992008,6
+400802010,Right hypoplastic heart syndrome,268180007,400
+1546311000006118,Left ventricle to aorta tunnel with right ventricle to pulmonary trunk direct anastomosis,224291000000109,5
+2981781000006117,Congenital mitral regurgitation,29928006,3
+300008014,"Pulmonary stenosis, non-rheumatic",194997002,4000
+327391000006114,Mitral valve structure,91134007,5000
+377219011,Transposition of aorta,253297008,80
+313369016,Ebstein's anomaly of tricuspid valve,204357006,3000
+511571000000110,Repair of defect of unspecified septum of heart,77371000,40
+67081000006119,Ventricular septal defect as current complication following acute myocardial infarction,233846000,60
+355741000000117,Relief of right ventricular outflow tract obstruction,223301000000106,100
+5332341000006117,Pulmonary atresia with absent pulmonary artery,253625004,2
+7806081000006118,Cardiomyopathy and renal anomaly syndrome,720610008,2
+313302010,Ventricular septal defect NOS,30288003,3000
+299603011,Mitral and aortic stenosis,194733006,3000
+3706511000006111,Anomalous origin of coronary artery from pulmonary trunk,74218008,10
+357761000000111,Atrial switch and arterial switch,426902005,500
+229601000006112,Persistent left posterior cardinal vein,38385001,1
+271502016,Release of vascular ring of aorta,175341006,200
+4042771000006116,Muscular ventricular septal defect,94706008,6
+377722014,Preductal aortic stenosis,253672004,10
+313473017,Atresia and stenosis of aorta,204431007,70
+75422012,Congenital dilatation of aorta,45237002,600
+357281000000112,Transluminal closure of defect of septum,224071000000102,80
+488351000006119,Abnormality of aortic arch,448742006,1000
+3378561000006116,Sinus of Valsalva aneurysm,54160000,50
+313450013,Congenital hypoplasia of aortic arch,60787001,600
+1235697018,Fused commissure of the mitral valve,91634006,20
+271054019,Infundibulectomy of heart using patch,174995004,30
+3807421000006119,Maladie de Roger,80387009,2
+313377017,Supernumerary cusps of the mitral valve,204363002,1
+4013611000006117,Congenital atresia of inferior vena cava,93031005,3
+2684861000006115,Congenital pulmonary vein stenosis,11614003,1
+376661000000117,Operations on aortic root NOS,232816009,60
+313425010,Atresia of heart valve NEC,13213009,200
+20181000006111,Other parts of heart or pericardium operations OS,78418002,20
+377731014,Postductal hypoplasia of aorta,253680006,2
+1234383014,Mitral stenosis,79619009,40000
+4824861000006114,Subvalvular stenosis,204368006,1
+313332019,Endocardial cushion defects NOS,15459006,3
+2478440016,Ohdo blepharophimosis syndrome,412787009,300
+92274014,Cor triatriatum,55510008,300
+271312012,Heart operations NOS,64915003,2000
+313352018,Hypoplasia of pulmonary valve,204343009,100
+2675458018,Repair of univentricular heart,425654008,40
+313364014,Other pulmonary valve anomaly NOS,204339005,70
+3468611000006118,Anomalous pulmonary venous drainage,59631007,2
+299987012,"Aortic insufficiency, non-rheumatic",194983005,90
+497741000006115,Atresia of pulmonary vein,204467000,200
+299621014,"Tricuspid stenosis, cause unspecified",49915006,200
+2987731000006110,VSD - Ventricular septal defect,30288003,40
+2918441000006112,Transposition of the great arteries,26146002,10
+1587361000006112,Repair interventricular septal defect us intraop trans pros,428818006,60
+377524013,Right ventricular outflow tract obstruction,253530007,400
+1232103019,Aortic valve stenosis,60573004,300000
+465641000000110,Primary repair of defect of atrioventricular septum NEC,174836000,200
+299984017,Mitral valve disorder,11851006,5000
+580501000006119,Congenital stenosis of aortic valve,18546004,10000
+2675432018,Repair of double chambered right ventricle,426911005,40
+400806013,Other anomalies of aorta,59877000,800
+583661000006114,"Congenital malformation of great arteries, unspecified",271573009,200
+1232445010,William syndrome,63247009,4000
+2675456019,Repair of double outlet ventricle,427318004,40
+377172018,"Congenital heart disease, septal and bulbar anomalies",253264007,400
+22613011,Congenital heart disease,13213009,8000
+270868017,Therapeutic transluminal operation on septum of heart NOS,265469000,9
+788771000006118,Hypoplasia of the pulmonary artery,54682008,300
+313374012,Congenital aortic valve insufficiency NOS,28656008,40
+5330891000006115,Congenital abnormality of ventricles and ventricular septum,253511007,3
+377121000000116,Closure of multiple interventricular septal defects,428759006,50
+315548017,Situs inversus with levocardia,205769006,40
+313278012,"Double outlet right ventricle, unspecified",7484005,10
+574801000006118,Common aorto-pulmonary trunk,17024001,40
+574811000006115,Common aorto-pulmonary trunk NOS,17024001,2
+484151000000118,Other specified therapeutic transluminal operations on heart,118797008,30
+7519871000006119,"Ohdo syndrome, Say-Barber-Biesecker-Young-Simpson variant",699298009,1
+313485013,Atresia or stenosis of aorta NOS,204431007,100
+313428012,Hemicardia,204399007,10
+270891018,Refashioning of atrium,174898001,20
+374171016,Aortic root dilatation,251036003,10000
+271020015,Closed heart valvotomy,174973003,200
+827091000006113,Holt - Oram syndrome,19092004,600
+7301681000006116,Left superior caval vein (SVC) persisting to coronary sinus,445027003,1
+515251000006113,Blalock creation of defect in atrial septum,48268004,200
+270853018,Other specified other open operation on septum of heart,77371000,20
+498091000006111,Atrioventricular dissociation,27885002,100
+299615010,Other chronic rheumatic endocardial disease,46165000,80
+7303961000006115,Congenital dilation of ascending aorta,445176007,1
+595701000006118,Coronary artery from pulmonary trunk,74218008,20
+126391000006118,Stenosis of superior vena cava,45492009,200
+377639017,Anomalies of the aorta excluding coarction,253615009,300
+313356015,Congenital stenosis of pulmonary valve,67278007,2000
+400804011,Fusion of heart valve cusps NEC,13213009,6
+3610161000006113,PAPVD - Partial anomalous pulmonary venous drainage,68237008,10
+313387018,Obstructive heart anomaly NEC,13213009,30
+270831015,Other specified closure of defect of interatrial septum,233037005,200
+193911000006111,Pulmonic valve stenosis,56786000,10000
+2478795011,Vascular ring,66403007,200
+511561000000115,Repair of defect of interventricular septum NOS,52930005,8
+1228441015,Congenital tricuspid stenosis,36233006,50
+377169013,Fusion of tricuspid valve cusps NEC,13213009,20
+460645013,[V]Heart transplanted,161666008,5000
+581341000006116,Congenital coronary arterio-venous fistula,253720000,400
+5095461000006114,"Prune belly syndrome with pulmonic stenosis, mental retardation and deafness",236529001,2
+58851000006111,Waterson anastomosis ascending aorta to right pulmonary art,34564005,50
+884131000006114,Hypertensive renal + heart dis,86234004,30
+313427019,Congenital epicardial cyst,204398004,20
+313353011,Congenital atresia of pulmonary valve,204342004,200
+270768010,Transplantation of heart and lung NOS,174802006,80
+394270015,"Heart wall, septum and chamber operations",265466007,500
+313524011,Absence of inferior vena cava,204463001,60
+2675440012,Repair of interrupted aortic arch,426869003,400
+588751000006110,Tricuspid atresia,63042009,1000
+270854012,Other open operation on septum of heart NOS,77371000,40
+5331661000006119,Muscular ventricular septal defect in apical trabecular septum,253565007,2
+270843019,Primary repair of defect of atrioventricular septum,447748008,1000
+270952010,Plastic repair of aortic valve NOS,265473002,1000
+5057571000006117,Cardiac transplant rejection,233933006,1
+80189019,Congenital cardiomegaly,48121000,200
+297491000006116,"Nonrheumatic tricuspid valve disorder, unspecified",194989009,30
+313329017,"Endocardial cushion defects, unspecified",15459006,2
+133392011,Roger's disease,80387009,200
+968201000006114,"Mental retardation, congenital heart disease, blepharophimosis, blepharoptosis and hypoplastic teeth",412787009,9
+313282014,Double outlet right ventricle NOS,7484005,30
+2959001000006118,Congenital anomaly of coronary artery,28574005,20
+1546441000006110,Closure of defect of interventricular septum using intraoperative transluminal prosthesis,428818006,90
+5329491000006110,Atrioventricular septal defect - isolated ventricular component,253415001,2
+37921000006114,Other anomaly of aorta NOS,59877000,300
+571261000006119,Coarctation of pulmonary artery,26780008,80
+3902031000006117,Cardiorenal disease,86234004,1
+270778013,Other transplantation of heart NOS,32413006,800
+28030016,Mesocardia,16567006,200
+299609010,Mitral insufficiency and aortic stenosis,194735004,500
+377190017,Heart septal defects,253273004,600
+384121000000119,Other specified repair of univentricular heart,425654008,10
+4194021000006112,Right aortic arch,111321007,6
+313368012,Congenital tricuspid atresia or stenosis NOS,36233006,80
+270966017,Tricuspid valvuloplasty NEC,384643000,100
+752431000006116,Laevocardia,205769006,10
+313515019,Total anomalous pulmonary venous return,111323005,200
+313505013,Atresia of pulmonary artery with septal defect,204448004,1000
+271408019,Great vessel and pulmonary artery operations NOS,265488007,30
+270904017,Atrioplasty,69220007,200
+377194014,Cor triloculare biventriculare,253276007,20
+299591014,Mitral stenosis with insufficiency,194726006,3000
+580971000006117,"Congenital cardiovascular disorders during pregnancy, childbirth and the puerperium",267207004,50
+271043012,Percutaneous transluminal mitral valvotomy,174987003,80
+377550012,Left ventricular outflow tract obstruction,253546004,1
+741681000006111,Hypertensive heart disease NOS with CCF,64715009,500
+271005014,Open heart valvotomy,174966008,500
+299607012,Mitral incompetence and aortic stenosis,194735004,200
+3863451000006115,Discordant ventriculoarterial connection with discordant atrioventricular connection,83799000,4
+260391000006110,Open enlargement of defect of atrial septum,174866007,40
+559821000006113,Close defect atrioventric septum using prosthetic patch NEC,174836000,100
+270817015,Repair of defect of the atrioventricular septum,174836000,800
+582721000006116,Congenital heart anomaly NOS,13213009,8000
+271010013,Open mitral valvotomy,174967004,2000
+300010011,"Pulmonary stenosis, cause unspecified",56786000,2000
+313486014,Other anomalies of aorta NOS,59877000,200
+63468011,Persistent left posterior cardinal vein,38385001,3
+313293011,Pentalogy of Fallot,204306007,40
+29949011,Ostium primum defect,17718000,300
+102980010,Persistent truncus arteriosus,61959006,50
+299992014,Aortic valve disorder,8722008,9000
+299630018,Other specified chronic rheumatic heart disease,87648004,400
+1587661000006116,Percut transluminal balloon angioplasty pulmonary artery NEC,425979008,100
+81193017,Mitral regurgitation,48724000,200000
+143123019,Tetralogy of Fallot,86299006,20000
+410951015,Heart atria and ventricle operations,275028003,200
+5330581000006116,Left atrioventricular valve dysplasia,253486005,1
+2536641017,Tricuspid valvuloplasty,384643000,100
+483059013,Anomalous atrial bands,2583009,10
+2675832010,Repair of tetralogy of Fallot with absent pulmonary valve,425785006,40
+313382012,Subaortic stenosis,204368006,2000
+488481000006118,Aortic septal defect,17024001,60
+313301015,Other specified ventricular septal defect,30288003,1000
+394273018,Therapeutic transluminal operations on septum of heart,265469000,60
+106259013,Overriding aorta,63934006,20
+2540071000006110,Chiari's network,2583009,2
+271386017,Other specified repair of pulmonary artery,175253007,100
+2475972010,Common atrium,253276007,80
+213101000006114,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",199007008,1
+313296015,"Ventricular septal defect, unspecified",30288003,2000
+465721000000114,Repair of tetralogy of Fallot NOS,174814003,100
+584801000006111,PV - Congenital pulmonary valve stenosis,67278007,9000
+109700019,Benign hypertensive heart AND renal disease,66052004,20
+313512016,"Unspecified anomaly of the great veins, NOS",204451006,4
+313454016,Coarctation of aorta NOS,7305005,1000
+4825241000006110,Pulmonary vein atresia,204467000,60
+1546351000006117,Repair of defect of atrioventricular septum using dual prosthetic patches,174837009,10
+270901013,Other specified refashioning of atrium,174898001,7
+270835012,Primary closure of defect of interventricular septum NEC,52930005,100
+271192016,Open operation on heart NOS,64915003,400
+377305014,Other specified atrial septal defect,70142008,2000
+377306010,Interauricular septal defect,253366007,20
+407821000006118,[X]Other cong malformatn of cardiac chambers & connections,13213009,20
+2899653018,Spontaneous closure of ventricular septal defect,123714004,900
+103185010,Hypoplastic left heart syndrome,62067003,5000
+299608019,Mitral regurgitation and aortic stenosis,194735004,2000
+505490010,Closed pulmonary valvotomy,83187002,500
+5056661000006110,Familial mitral valve prolapse,233858000,2
+596061000006112,Repair of tetralogy of Fallot using right ventricular outflow conduit,448302004,70
+497991000006114,Atrial inversion op for transposition of great vessels OS,265467003,20
+511801000000116,Closure of multiple ventricular septal defects,428759006,70
+1222320016,Regurgitation of unspecified heart valve,40445007,500
+4824471000006116,Atrial septal defect within oval fossa,204315000,6
+75863013,Common ventricle,45503006,200
+300061018,Chronic myocardial disorder due to chemical or external agent,233880002,800
+394309016,Transluminal operations on aorta,265499009,50
+884191000006113,Chronic pulmonary heart dis.,87837008,20
+123842010,Kommerell's diverticulum,74561007,30
+313448017,Congenital heart anomaly NOS,13213009,3000
+299986015,"Aortic regurgitation, non-rheumatic",194983005,20000
+1546361000006115,Repair defect atrioventricular septum prosthetic patch NEC,174836000,20
+787901000006111,Hypoplastic aortic orifice or valve,253601007,200
+465751000000116,Repair of valve of heart NEC,275212003,100
+192001000006117,Rastelli creation of conduit between right ventricle and pulmonary artery,703518004,20
+375271000000119,Complete repair of tetralogy of Fallot with transannular patch,83698002,100
+400800019,Atrial septal defect,70142008,60000
+1233859018,Congenital left ventricular diverticulum,75270000,40
+299611018,Mitral and aortic insufficiency,194736003,50
+300895015,Pulmonary valve disorder,76267008,400
+50694014,Interventricular septal defect,30288003,400
+81192010,Mitral valve insufficiency,48724000,300
+488261000006110,Operation on aorta,32907006,2000
+13343013,Taussig-Bing syndrome,7484005,100
+270855013,Closed operations on septum of heart,174870004,200
+299623012,"Tricuspid stenosis and insufficiency, cause unspecified",49915006,10
+511491000000113,Repair of defect of interventricular septum,52930005,70
+1587231000006111,Repair of defect of interatrial septum using pericardial patch,174845004,10
+356921000000119,Other operations on ventricles of heart,233050006,100
+225671000006116,Piggyback transplantation of heart,174809002,10
+50085019,Congenital mitral insufficiency,29928006,60
+313273015,Transposition of great vessels,204296002,4000
+4194101000006115,TAPVD - Total anomalous pulmonary venous drainage,111323005,20
+213091000006115,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",199006004,6
+1546281000006115,Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals,232921000000108,100
+270824019,Other specified closure of defect of atrioventricular septum,174836000,90
+28728012,Congenital aneurysm of aorta,16972009,40
+315681012,Congenital pulmonary valve abnormality,204339005,200
+299637015,Chronic rheumatic heart disease NOS,87648004,1000
+313294017,Tetralogy of Fallot NOS,86299006,600
+884211000006114,Other pulmonary heart disease,79955004,20
+1587521000006111,Repair of atrial septal defect with prosthesis by closed heart technique,30123000,50
+145328019,Chronic rheumatic heart disease,87648004,6000
+452187019,Truncus arteriosus,61959006,600
+313525012,Absence of superior vena cava,204464007,20
+270787016,Revision of correction of tetralogy of Fallot,174818000,100
+299853015,Other chronic pulmonary heart disease NOS,87837008,30
+313344016,Other congenital heart anomalies,13213009,6000
+1549251000006118,Percutaneous balloon angioplasty of pulmonary vein,276892002,90
+400805012,Cyanotic congenital heart disease,12770006,2000
+300021019,Heart valve regurgitation,40445007,300
+313342017,Other heart bulb and septal closure defect,268174004,40
+377218015,Transposition of arterial trunk NEC,204296002,20
+1547871000006115,Repair of anomalous pulmonary artery origin from ascending aorta,427138007,30
+5043981000006115,Allotransplant of heart,232973007,80
+3648291000006116,Pseudocoarctation of aorta,70602002,1
+271012017,Open tricuspid valvotomy,174969001,30
+313331014,Other specified endocardial cushion defects,15459006,4
+313320018,Patent ostium secundum,204318003,30
+313492015,Pulmonary artery atresia,204443008,1000
+400803017,Pseudotruncus arteriosus,268180007,8
+315700015,"[X]Congenital malformation of great arteries, unspecified",271573009,60
+377189014,Cardiac septal defects,253273004,700
+377171013,Hypoplasia of heart NOS,13213009,100
+313373018,"Congenital aortic valve insufficiency, unspecified",28656008,40
+313277019,Total great vessel transposition,204297006,200
+5329461000006119,Atrioventricular septal defect and common atrioventricular junction,253414002,2
+850841000006111,Truncus arteriosus,61959006,300
+313351013,Congenital atresia of the pulmonary valve,204342004,2000
+299851018,Other chronic pulmonary heart disease,87837008,4000
+2132891000000115,Ostium secundum atrial septal defect resolved,818681000000104,300
+270777015,Other specified other transplantation of heart,32413006,80
+596081000006119,Correction of tetralogy of Fallot using valved right ventricular outflow conduit,174815002,70
+474766017,Closed tricuspid valvotomy,129243001,10
+400801015,Other specified ostium secundum atrial septal defect,204318003,400
+2675866018,Repair of pulmonary vein stenosis,426751000,70
+892881000006113,Septal defect NOS,268174004,100
+3807431000006116,Small ventricular septal defect,80387009,90
+11131000006110,Other specified heart anomalies,13213009,700
+23643015,Preductal coarctation of aorta,13867009,30
+354891000000118,Truncal valve repair,232931004,30
+25281016,Abdominal heart,14886009,9
+3378551000006118,Congenital aneurysm of sinus of Valsalva,54160000,5
+2803061000006116,Holt Oram syndrome,19092004,1
+377101000000113,Transluminal closure of defect of septum NOS,224071000000102,20
+1587161000006114,Atrial inversion operations for transposition of great art,265467003,30
+271046016,Percutaneous transluminal pulmonary valvotomy,174990009,100
+745331000006115,Levocardia,205769006,80
+110659019,Malignant hypertensive heart AND renal disease,66610008,90
+559811000006117,Closure of defect of atrioventricular septum using dual prosthetic patches,174837009,80
+313429016,Supernumerary heart valve cusps NEC,13213009,1
+313506014,Other specified anomaly of pulmonary artery,36110001,200
+2321014,Chronic rheumatic myopericarditis,756003,500
+313423015,Congenital anomaly of myocardium,204394002,20
+270770018,Allotransplantation of heart NEC,232973007,3000
+271524016,Transluminal operation on aorta NOS,265499009,20
+313386010,Pulmonary infundibular stenosis,204370002,2000
+105341000006113,Therapeutic transluminal operation on septum of heart OS,265469000,10
+313511011,"Anomaly of the vena cava, unspecified",234132006,100
+478111000006114,Allotransplantation of heart and lung,174802006,30
+31287015,Congenital aortic stenosis,18546004,600
+313469015,Persistent aortic arch convolutions,204427001,2
+313360017,Other pulmonary valve anomalies,204339005,90
+294491014,Polycythaemia due to cyanotic heart disease,191372008,200
+2478726018,Atresia of cardiac vein,48520006,6
+313507017,Pulmonary artery anomaly NOS,36110001,100
+315698012,Congenital anomaly of tricuspid valve,4374004,90
+271303010,Other operations on heart,64915003,500
+801451000006114,Gerbode's defect,204312002,60
+60777016,Transposition of pulmonary veins,36422005,30
+693591000006110,Mustard interatrial tr venous return,40250003,80
+271517017,Percutaneous transluminal balloon angioplasty of aorta,175354004,700
+313411014,Heart or cardiac apex malposition NOS,10818008,4
+271306019,Other operation on heart NOS,64915003,300
+377308011,Auricular septal defect NOS,253366007,100
+5331161000006112,Arrhythmogenic right ventricular cardiomyopathy,253528005,4
+400799018,"Tetralogy of Fallot, unspecified",86299006,300
+130494012,Postcardiotomy syndrome,78643003,200
+5331501000006116,Multiple ventricular septal defects,253550006,3
+65931000006114,Vascular ring of aorta,66403007,100
+271036018,Annuloplasty of valve of heart NEC,73544002,80
+172601000006117,Repair of supra-aortic stenosis,174998002,90
+1547441000006113,Percutaneous transluminal ablation of congenital heart malformation,428391009,30
+447337015,Open atrial septostomy,304926002,200
+597061000006114,Correction of total anomalous pulmonary venous connection OS,174830006,30
+313424014,Congenital aneurysm of heart,204395001,20
+55971000006117,Xenotransplantation of heart,174808005,400
+313322014,Persistent ostium secundum,204318003,300
+4014091000006115,Congenital dilatation of pulmonary artery,93059006,4
+301001000000113,Transfer of care from paediatric congenital heart service,199221000000102,90
+270822015,Primary closure of defect of atrioventricular septum NEC,174836000,300
+465581000000115,Other specified repair of defect of atrioventricular septum,174836000,100
+499818013,Closed mitral valvotomy,6433003,900
+585311000006117,Congenital stenosis of ascending aorta,268185002,10
+1587301000006111,Repair of defect of interventricular septum using prosthetic patch,89814007,7
+511461000000119,Revision of repair of defect of interatrial septum,174848002,2
+299995011,"Tricuspid insufficiency, non-rheumatic",194990000,20
+313378010,Congenital mitral stenosis NOS,82458004,10
+377727015,Postductal aortic stenosis,253676001,20
+315547010,Complete situs inversus with dextrocardia,205768003,900
+5331171000006117,Right ventricular outflow tract abnormality,253529002,3
+2709701000006119,Congenital anomaly of heart,13213009,1
+313514015,Supradiaphragmatic total anomalous pulmonary venous return,204457005,10
+511451000000117,Primary repair of defect of interatrial septum NEC,233037005,300
+271030012,Annuloplasty of mitral valve,174980001,2000
+270825018,Closure of defect of atrioventricular septum NOS,174836000,300
+5331511000006118,Restrictive ventricular septal defect,253551005,1
+324975010,Heart-lung transplant failure and rejection,213152006,20
+13341010,Double outlet right ventricle,7484005,900
+299994010,"Tricuspid incompetence, non-rheumatic",194990000,2000
+5331461000006116,LVOTO - Left ventricular outflow tract obstruction,253546004,9
+400812015,Other great vein anomalies,204451006,20
+271382015,Repair of pulmonary artery,175253007,300
+1222319010,Insufficiency of unspecified heart valve,40445007,7
+313491010,"Pulmonary artery anomaly, unspecified",36110001,70
+271525015,Other specified operations on aorta,32907006,300
+3234311000006110,Single ventricle,45503006,4
+7345791000006116,Restrictive interatrial communication with obligatory shunt,447780005,2
+313365010,Congenital tricuspid atresia and stenosis,204354004,200
+510302016,Stenosis of aortic arch,93384001,200
+3791981000006115,Congenital anomaly of aortic arch,79439001,3
+313323016,Lutembacher's syndrome,204319006,20
+4824431000006119,Ventricular septal defect between left ventricle and right atrium,204312002,20
+5333731000006118,Congenital coronary artery calcification,253725005,6
+482711000006116,Aneurysm of sinus of Valsalva,54160000,300
+313530011,Other great vein anomaly NOS,204451006,8
+1587501000006118,Percutaneous translum repair defect intervent septum NEC,52930005,2
+5331211000006115,RVOTO - Right ventricular outflow tract obstruction,253530007,3
+143042017,Congenital absence of pulmonary artery,86252004,50
+300022014,Heart valve stenosis,44241007,600
+559851000006116,Close defect interventricular septum using tissue graft NEC,80733000,20
+126311000006111,Pulmonary artery stenosis,95441000,5000
+3703631000006112,Isolated dextrocardia,74034002,1
+376641000000118,Other specified other operations on ventricles of heart,233050006,20
+3640351000006119,ASD - Atrial septal defect,70142008,30
+270788014,Other specified correction of tetralogy of Fallot,174814003,70
+3023081000006113,Heart and lung transplant,32477003,20
+271066013,Heart valve and adjacent structures operations NOS,73544002,1000
+299605016,Mitral stenosis and aortic regurgitation,194734000,700
+313510012,"Anomaly of the pulmonary veins, unspecified",111322000,100
+188662011,Aortic valvuloplasty,112816004,3000
+815941000006116,Hanlon creation of defect in atrial septum,48268004,2
+271015015,Open pulmonary valvotomy,174970000,1000
+583621000006115,Congenital malformation of aortic and mitral valves unsp,70320004,80
+1219795015,Closed aortic valvotomy,112814001,300
+120221015,Bicuspid aortic valve,72352009,30000
+700891000006114,Mitral valve prolapse,409712001,30000
+3552501000006119,Hypertensive cardiopathy,64715009,4
+376601000000116,Repair of univentricular heart NOS,425654008,5
+270933016,Mitral valvuloplasty NEC,384642005,2000
+300011010,Pulmonary valve stenosis with insufficiency,195000004,2000
+313472010,Aortic arch anomalies NOS,79439001,300
+90135019,Malignant hypertensive heart disease,54225002,400
+129847011,Ectopia cordis,78250005,80
+1546511000006112,Percutaneous transluminal closure of patent oval foramen using prosthesis,429113008,2000
+349252017,Repair of Fallot-type double outlet right ventricle,233112003,50
+569661000006114,Closure of defect of interatrial septum using pericardial patch,174845004,200
+313431013,Fusion of mitral valve cusps,204402008,7
+892941000006112,Bicuspid aortic valve - congen,72352009,400
+315680013,[X]Other congenital malformations of cardiac septa,13213009,30
+406233012,Dextrotransposition of aorta,204299009,40
+355821000000117,Relief of left ventricular outflow tract obstruction,223341000000109,40
+300002010,"Pulmonary regurgitation, non-rheumatic",194995005,2000
+300023016,Chronic cardiac valvulitis,40964007,10
+1222317012,"Pulmonary insufficiency, cause unspecified",91434003,40
+299592019,Mitral stenosis with regurgitation,194726006,600
+36036010,Syncope anginosa,21470009,100
+315690017,[X]Other congenital malformations of great arteries,271573009,20
+14671000006119,Other specified closure of defect unspecified heart septum,77371000,30
+498111000006119,Atrial inversion operation using atrial wall,174822005,30
+1495417010,Cardiac asthma,71892000,600
+574911000006110,Common truncus,17024001,10
+270769019,Transplantation of heart,32413006,10000
+7301671000006119,Left superior caval vein persisting to coronary sinus,445027003,1
+892921000006117,Congenital pulmonary atresia,204342004,100
+1908831000006118,Left ventricular outflow tract obstruction,253546004,700
+313442016,Anomalous ventricular bands,204409004,40
+271405016,Other specified transluminal operation on pulmonary artery,175266007,20
+135999014,Cor biloculare,81990004,40
+313439010,Congenital anomaly of heart valve,70320004,500
+251924010,H/O: heart recipient,161666008,600
+741661000006118,Hypertensive heart disease NOS,64715009,600
+5333301000006113,Major aortopulmonary collateral artery,253689007,2
+3387271000006115,Congenital hypoplasia of pulmonary artery,54682008,8
+818401000006115,Heart and cardiac apex malposition,10818008,30
+2981761000006110,Congenital insufficiency of mitral valve,29928006,4
+748971000006111,Left ventricle to right atrial communication,41893002,100
+247141000006114,Overriding aorta,63934006,30
+377307018,Interatrial septal defect NEC,70142008,200
+316833010,Congenital cardiac failure,206586007,900
+5573991000006118,Impaired left ventricular func,275514001,40
+410952010,Therapeutic transluminal heart septostomy,275029006,20
+375371000000112,Operation for transposition of great vessels,395723006,400
+348898019,Pulmonary valvectomy,232872003,100
+8228251000006114,Azygos continuation of inferior vena cava to left superior vena cava,728911000000108,1
+60444016,Benign hypertensive heart disease,36221001,100
+229851000006112,Persistent truncus arteriosus,61959006,70
+377247010,Anomalous termination of right pulmonary vein,253321003,50
+4019131000006117,Aberrant subclavian artery,93353003,1
+2675833017,Atrial septectomy,426541003,400
+439931000006111,Absent septum between aorta and pulmonary artery,61959006,30
+270829012,Primary closure of defect of interatrial septum NEC,233037005,200
+37702016,Chronic bacterial endocarditis,22462001,100
+137888010,Eisenmenger's complex,204311009,2000
+400796013,Bulbus cordis and cardiac septal closure anomalies,268174004,400
+2535810014,Congenital insufficiency of the pulmonary valve,15096009,30
+299991019,Aortic valve stenosis with insufficiency,194987006,5000
+394297010,Great vessels and pulmonary artery operations,265488007,200
+4824871000006119,Subvalvar stenosis,204368006,2
+499251000000112,Surgical atrial septation,233036001,30
+149909014,Chronic rheumatic mediastinopericarditis,90453003,2
+300015018,Disorders of both mitral and tricuspid valves,195004008,1000
+315686019,[X]Other specified congenital malformations of the heart,13213009,200
+66470013,Scimitar syndrome,39905002,500
+40351000006119,Secundum atrial septal defect,204315000,7000
+332761000006118,[SO]Specified aorta NEC,15825003,20
+126241000006115,Stenosis of inferior vena cava,62335009,80
+193441000006115,Pulmonary artery anomalies,36110001,400
+168651000006113,"Rheumatic valvulitis, chronic NOS",87648004,40
+299583017,Chronic rheumatic pericarditis NOS,78069008,10
+583791000006113,Congenital malforms of cardiac chambers+connections unsp,363660007,300
+354871000000117,Open atrial septum fenestration,233041009,30
+349283018,Repair of double outlet right ventricle,233126007,90
+3711951000006112,Diverticulum of Kommerell,74561007,6
+251802014,H/O: cardiac anomaly,161573009,3000
+270823013,Revision of closure of defect of atrioventricular septum,174841008,30
+3959581000006110,Right ventricular hypertrophy,89792004,10
+377061000000111,Repair of double outlet ventricle NOS,427318004,1
+361057012,Persistent right aortic arch,111321007,300
+18184019,Double aortic arch,10451007,400
+892891000006111,Bulbus/septum heart anomalies,268174004,30
+313396018,Congenital coronary aneurysm,204378009,60
+313509019,"Anomaly of great veins, unspecified",204451006,30
+300003017,"Pulmonary insufficiency, non-rheumatic",194995005,20
+5329471000006114,Atrioventricular septal defect,253414002,3
+271057014,Repair of subaortic stenosis,174997007,700
+1701611000006112,Aortopulmonary reconstruction with systemic to pulmonary arterial shunt,378121000000101,30
+81191015,Mitral valve incompetence,48724000,30000
+4824451000006114,Ostium secundum type atrial septal defect,204315000,20
+29950011,Persistent ostium primum,17718000,10
+270968016,Plastic repair of tricuspid valve NOS,265474008,70
+3175121000006117,Right sided atrium connecting to left ventricle,41893002,1
+313460016,Anomalous origin of the aortic arch,204423002,20
+585851000006114,Nonrheumatic mitral valve stenosis,194727002,200
+818751000006112,Operation on heart,64915003,10000
+315687011,[X]Other congenital malformations of aorta,59877000,100
+313327015,Ostium secundum atrial septal defect NOS,204318003,1000
+116861000006111,Supravalvar aortic stenosis,268185002,600
+229861000006114,Persistent truncus arteriosus,61959006,10
+355941000000115,Aortic valve and adjacent structure operations,232816009,900
+5526281000006117,Congenital abnormality of thoracic aorta and pulmonary arteries,271573009,4
+596071000006117,Correction of tetralogy of Fallot using right ventricular outflow patch,174817005,70
+129567014,Chronic rheumatic pericarditis,78069008,100
+271038017,Other specified other open operation on valve of heart,73544002,50
+580951000006110,Congenital cardiovascular disorder in the puerperium - baby delivered during previous episode of care,199269000,3
+1175191000000116,History of ventricular septal defect,473118009,900
+3641311000006110,Congenital anomaly of superior vena cava,70195006,1
+300893010,[X]Other aortic valve disorders,8722008,500
+221871000000110,Interrupted aortic arch,218728005,200
+1767691000006110,Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and aorta,609187003,9
+2536393012,Arteriosclerotic heart disease,443502000,800
+32122016,Status anginosus,19057007,50
+4824781000006114,Ebstein's anomaly,204357006,10
+4164071000006111,Perimembranous ventricular septal defect,109428005,60
+313355016,Congenital fusion of pulmonary valve segment,204346001,3
+807061000006110,Great vessel or pulmonary artery operations OS,265488007,30
+3800291000006115,COR - Chronic cor pulmonale,79955004,3
+2675253013,Chronic atrial fibrillation,426749004,400
+299612013,Mitral and aortic regurgitation,194736003,10000
+354881000000115,Atrial septation procedure,233036001,300
+313475012,Aplasia of aorta,204433005,6
+129848018,Ectopic heart,78250005,200
+395756011,Chronic pulmonary heart disease NOS,87837008,2000
+580471000006114,Congenital insufficiency of aortic valve,28656008,200
+193971000006119,Pulmonary valve anomalies,204339005,400
+28815012,Aortic septal defect,17024001,70
+408041000006117,[X]Other congenital malformations of aortic & mitral valves,70320004,20
+371161000000116,Septal reconstruction with cartilage graft,39774008,200
+271397017,Other open operation on pulmonary artery NOS,233207009,30
+270915010,"Other specified operations on heart wall, septum or chamber",265466007,40
+270789018,Correction of tetralogy of Fallot NOS,174814003,400
+3387281000006117,Pulmonary artery hypoplasia,54682008,20
+2675459014,Biventricular repair of hypoplastic left heart syndrome,427585005,40
+400807016,Hypoplasia of aorta,268184003,200
+561331000006111,Closed atrial septectomy,48268004,400
+315691018,[X]Other congenital malformations of great veins,204451006,20
+511611000000118,Primary repair of defect of septum of heart NEC,447748008,70
+270836013,Revision of closure of defect of interventricular septum,174854001,30
+270858010,Other specified closed operation on septum of heart,174870004,40
+377638013,Tubular hypoplasia of aorta,253614008,7
+313279016,Dextratransposition of aorta,204299009,10
+377041000000110,Other specified transluminal closure of defect of septum,224071000000102,20
+569881000006117,Closure of defect of heart septum using prosthetic patch NEC,77371000,200
+107545013,Hypertensive heart disease,64715009,30000
+569641000006110,Closure of defect of atrioventricular septum using tissue graft,174839007,80
+465691000000117,Repair of defect of atrioventricular septum NOS,174836000,200
+3234161000006110,Congenital superior vena cava stenosis,45492009,6
+299985016,"Aortic incompetence, non-rheumatic",194983005,20000
+4824341000006116,TGA - Transposition of great arteries,204296002,7
+120034011,Postductal coarctation of aorta,72242008,100
+271504015,Other specified plastic repair of aorta,175337007,300
+313440012,Anomalous bands of heart,204407002,4
+2803051000006118,Holt-Oram syndrome,19092004,40
+217551000006112,Postcardiotomy syndrome - post-operative,78643003,30
+299988019,"Aortic stenosis, non-rheumatic",194984004,80000
+313443014,Anomalous bands of heart NOS,204407002,3

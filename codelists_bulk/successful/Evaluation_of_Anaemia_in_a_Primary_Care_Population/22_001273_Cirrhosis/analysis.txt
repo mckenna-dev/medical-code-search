@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 153
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tcirrhosis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                            MedCodeId\tObservations\tTerm\tcirrhosis
+0  a476611000006116\t100000\tAlcoholic cirrhosis of liver\tcirrhosis
+1                   a353613017\t80000\tCirrhosis of liver\tcirrhosis
+2                              a317612010\t70000\tAscites\tcirrhosis

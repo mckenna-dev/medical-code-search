@@ -1,0 +1,29 @@
+MedCodeId	Observations	Term	SnomedCTConceptId	
+a18666015	2000000	Irritable bowel syndrome	10743008	IBS
+a742351000006119	800000	Irritable colon - Irritable bowel syndrome	10743008	IBS
+a2670821000006113	90000	Irritable colon	10743008	IBS
+a886361000006114	80000	Irritable bowel - IBS	10743008	IBS
+a303172010	60000	Irritable bowel syndrome with diarrhoea	197125005	IBS
+a18665016	10000	Spastic colon	10743008	IBS
+a396376014	7000	Functional gastrointestinal tract disorders NEC NOS	8.49531E+14	IBS
+a303071000000118	6000	History of irritable bowel syndrome	7.0871E+13	IBS
+a1786591000006112	4000	Functional abdominal pain syndrome	449890002	IBS
+a906181000006110	4000	[RFC] Irritable bowel syndrome (IBS)	9.06181E+14	IBS
+a1927491000006111	2000	Irritable bowel syndrome characterised by alternating bowel habit	440544005	IBS
+a2791650019	2000	Irritable bowel syndrome characterised by constipation	440630006	IBS
+a2346441000000118	2000	Dietary education for irritable bowel syndrome	9.13031E+14	IBS
+a1101501000006115	600	Adverse reaction to Colpermin Ibs Relief	1.1015E+15	IBS
+a2129721000000119	500	Management of irritable bowel syndrome	8.17511E+14	IBS
+a2670911000006112	200	IBS - Irritable bowel syndrome	10743008	IBS
+a5086151000006112	30	Irritable bowel syndrome variant of childhood	235838003	IBS
+a2670921000006116	30	Irritable bowel	10743008	IBS
+a5086181000006116	10	Irritable bowel syndrome variant of childhood with constipation	235840008	IBS
+a5086161000006114	5	Irritable bowel syndrome variant of childhood with diarrhoea	235839006	IBS
+a8460301000006111	4	Irritable Bowel Syndrome - Symptom Severity Scale score	1.08367E+15	IBS
+a8435781000006117	2	Dietetic Intervention for Irritable Bowel Syndrome TOM (Therapy Outcome Measure) activity score	1.06312E+15	IBS
+a7238961000006111	2	Irritable bowel syndrome characterized by alternating bowel habit	440544005	IBS
+a2018751000006112	2	Adverse reaction to Imodium Ibs Relief	2.01875E+15	IBS
+a4786241000006112	2	Irritable bowel syndrome with diarrhea	197125005	IBS
+a2670941000006111	1	Irritable colon syndrome	10743008	IBS
+a7240111000006114	1	Irritable bowel syndrome characterized by constipation	440630006	IBS
+a2670951000006113	1	IC - Irritable colon	10743008	IBS

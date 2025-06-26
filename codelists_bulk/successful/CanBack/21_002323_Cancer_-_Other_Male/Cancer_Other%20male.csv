@@ -1,0 +1,12 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2021,Cancer,Other male,a726141000006116,Malignant neoplasm of epididymis,L1:Cancer_L2:Other male,B484.00
+2022,Cancer,Other male,a721701000006112,Malignant neoplasm of spermatic cord,L1:Cancer_L2:Other male,B485.00
+2023,Cancer,Other male,a289257013,Malignant neoplasm of tunica vaginalis,L1:Cancer_L2:Other male,B48y100
+2024,Cancer,Other male,a289442015,Malignant neoplasm of inguinal region,L1:Cancer_L2:Other male,B553000
+2025,Cancer,Other male,a291714017,Seminoma - category,L1:Cancer_L2:Other male,BBQ1.00
+2026,Cancer,Other male,a316331000006118,"[M]Seminoma, anaplastic type",L1:Cancer_L2:Other male,BBQ1000
+2027,Cancer,Other male,a316741000006112,[M]Spermatocytic seminoma,L1:Cancer_L2:Other male,BBQ1100
+2028,Cancer,Other male,a291715016,[M]Seminoma NOS,L1:Cancer_L2:Other male,BBQ1z00
+2029,Cancer,Other male,a292143015,Malignant tumour of male genital organ,L1:Cancer_L2:Other male,Byu8.00
+2030,Cancer,Other male,a396541000006115,[X]Malignant neoplasm/other specified male genital organs,L1:Cancer_L2:Other male,Byu8000
+2031,Cancer,Other male,a292146011,"[X]Malignant neoplasm of male genital organ, unspecified",L1:Cancer_L2:Other male,Byu8200

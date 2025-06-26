@@ -1,0 +1,3 @@
+	MedCodeId	Observations	Term	category
+0	412457018	5000000	Waist circumference	continuous
+1	3041841000006113	7	Waist	continuous

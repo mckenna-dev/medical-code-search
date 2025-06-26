@@ -1,0 +1,108 @@
+	MedCodeId	Observations	Term	dementia
+0	a431681000006117	500000	Vascular dementia	dementia
+1	a26545010	300000	Senile dementia	dementia
+2	a148381000006115	100000	Senile/presenile dementia	dementia
+3	a294635013	90000	Uncomplicated senile dementia	dementia
+4	a251625013	70000	H/O: dementia	dementia
+5	a299641000000112	50000	Diffuse Lewy body disease	dementia
+6	a497559016	50000	Arteriosclerotic dementia	dementia
+7	a696161000006115	30000	Multi-infarct dementia	dementia
+8	a359141000006111	30000	[X] Senile dementia NOS	dementia
+9	a295681016	20000	"[X]Vascular dementia, unspecified"	dementia
+10	a425901000006116	20000	"[X]Senile dementia,Alzheimer's type"	dementia
+11	a21256010	10000	Presenile dementia	dementia
+12	a745381000006119	10000	Lewy body disease	dementia
+13	a399031000006111	9000	[X]Multi-infarct dementia	dementia
+14	a398571000006112	9000	Mixed cortical and subcortical vascular dementia	dementia
+15	a294718018	7000	Dementia in conditions EC	dementia
+16	a3414251000006112	6000	VAD - Vascular dementia	dementia
+17	a363791000006112	6000	[X]Arteriosclerotic dementia	dementia
+18	a346929012	6000	Alcoholic dementia	dementia
+19	a882201000006116	5000	Senile dementia - simple type	dementia
+20	a428201000006119	5000	Subcortical vascular dementia	dementia
+21	a294646011	4000	Senile dementia with depression	dementia
+22	a914921000006117	4000	[D] Vascular dementia	dementia
+23	a294644014	4000	Senile dementia with depressive or paranoid features	dementia
+24	a1972081000006115	3000	"Unspecified dementia, other mixed symptoms"	dementia
+25	a294648012	3000	Senile dementia with delirium	dementia
+26	a294645010	3000	Senile dementia with paranoia	dementia
+27	a6024061000006111	2000	Senile dementia of the Lewy body type	dementia
+28	a362941000006113	2000	[X]Alcoholic dementia NOS	dementia
+29	a295680015	2000	[X]Other vascular dementia	dementia
+30	a294656010	2000	Arteriosclerotic dementia NOS	dementia
+31	a295714013	2000	[X]Delirium superimposed on dementia	dementia
+32	a294643015	1000	Presenile dementia NOS	dementia
+33	a401760017	1000	Other alcoholic dementia	dementia
+34	a295690011	1000	[X]Dementia in other specified diseases classif elsewhere	dementia
+35	a882191000006119	900	Senile and presenile dementias	dementia
+36	a431691000006119	900	Vascular dementia of acute onset	dementia
+37	a294642013	900	Presenile dementia with depression	dementia
+38	a294652012	900	Uncomplicated arteriosclerotic dementia	dementia
+39	a97154016	700	Niemann-Pick disease	dementia
+40	a1972021000006119	600	"Unspecified dementia, without additional symptoms"	dementia
+41	a6900181000006114	600	"Primary degenerative dementia of the Alzheimer type, senile onset"	dementia
+42	a359151000006113	600	"[X] Senile dementia, depressed or paranoid type"	dementia
+43	a359081000006118	500	[X] Presenile dementia NOS	dementia
+44	a1976831000006111	500	"Vascular dementia, unspecified, other mixed symptoms"	dementia
+45	a882211000006118	500	Senile dementia-acute confused	dementia
+46	a294641018	400	Presenile dementia with paranoia	dementia
+47	a294637017	400	Uncomplicated presenile dementia	dementia
+48	a423351000006115	400	"[X]Presenile dementia,Alzheimer's type"	dementia
+49	a294654013	400	Arteriosclerotic dementia with paranoia	dementia
+50	a294655014	400	Arteriosclerotic dementia with depression	dementia
+51	a423221000006117	300	[X]Predominantly cortical dementia	dementia
+52	a1973401000006112	300	"Other vascular dementia, other mixed symptoms"	dementia
+53	a294647019	300	Senile dementia with depressive or paranoid features NOS	dementia
+54	a6897211000006117	200	"Primary degenerative dementia of the Alzheimer type, presenile onset"	dementia
+55	a2931241000006111	100	Alzheimer disease	dementia
+56	a294638010	100	Presenile dementia with delirium	dementia
+57	a8042791000006116	100	Lewy body dementia with behavioural disturbance	dementia
+58	a6897251000006116	80	"Presenile dementia, Alzheimer's type"	dementia
+59	a294653019	80	Arteriosclerotic dementia with delirium	dementia
+60	a1973461000006113	70	"Vascular dementia, unspecified, without additional symptoms"	dementia
+61	a294688019	70	Drug-induced dementia	dementia
+62	a1972931000006117	60	"Mixed cortical and subcortical vascular dementia, other mixed symptoms"	dementia
+63	a1972681000006112	50	"Multi-infarct dementia, other mixed symptoms"	dementia
+64	a6900221000006117	40	"SDAT - Senile dementia, Alzheimer's type"	dementia
+65	a6024071000006116	30	Lewy body dementia	dementia
+66	a1972041000006114	20	"Unspecified dementia, other symptoms, predominantly delusional"	dementia
+67	a1972571000006110	20	"Vascular dementia of acute onset, other mixed symptoms"	dementia
+68	a7874771000006117	20	Delirium superimposed on dementia	dementia
+69	a1972821000006112	10	"Mixed cortical and subcortical vascular dementia, without additional symptoms"	dementia
+70	a3575041000006117	10	"Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated"	dementia
+71	a1972791000006115	10	"Subcortical vascular dementia, other mixed symptoms"	dementia
+72	a8089231000006110	10	Vascular dementia with behavioural disturbance	dementia
+73	a1972061000006113	10	"Unspecified dementia, other symptoms, predominantly hallucinatory"	dementia
+74	a3802641000006114	9	LBD - Lewy body disease	dementia
+75	a13934381000006118	9	Cortical vascular dementia	dementia
+76	a1972481000006114	9	"Vascular dementia of acute onset, without additional symptoms"	dementia
+77	a1972751000006114	9	"Subcortical vascular dementia, other symptoms, predominantly hallucinatory"	dementia
+78	a1972071000006118	7	"Unspecified dementia, other symptoms, predominantly depressive"	dementia
+79	a1973221000006118	6	"Other vascular dementia, without additional symptoms"	dementia
+80	a6348061000006115	5	Senile dementia with psychosis	dementia
+81	a8010111000006117	4	Primary degenerative dementia	dementia
+82	a1972501000006116	4	"Vascular dementia of acute onset, other symptoms, predominantly delusional"	dementia
+83	a1973531000006117	4	"Vascular dementia, unspecified, other symptoms, predominantly hallucinatory"	dementia
+84	a2729791000000114	3	Predominantly cortical vascular dementia	dementia
+85	a296991018	3	Cerebral degeneration in Niemann-Pick disease	dementia
+86	a1972711000006113	3	"Subcortical vascular dementia, without additional symptoms"	dementia
+87	a2929931000006112	3	"Primary degenerative dementia of the Alzheimer type, senile onset, with depression"	dementia
+88	a2575731000006115	3	"Primary degenerative dementia of the Alzheimer type, senile onset, with delirium"	dementia
+89	a6348031000006112	2	Senile dementia with delusion	dementia
+90	a8089241000006117	2	Vascular dementia with behavioral disturbance	dementia
+91	a7840631000006118	2	Ischaemic vascular dementia	dementia
+92	a1972831000006110	2	"Mixed cortical and subcortical vascular dementia, other symptoms, predominantly delusional"	dementia
+93	a1972871000006113	2	"Mixed cortical and subcortical vascular dementia, other symptoms, predominantly hallucinatory"	dementia
+94	a3802671000006118	2	Cortical Lewy body disease	dementia
+95	a1973381000006112	2	"Other vascular dementia, other symptoms, predominantly depressive"	dementia
+96	a1973341000006118	2	"Other vascular dementia, other symptoms, predominantly hallucinatory"	dementia
+97	a1972911000006111	1	"Mixed cortical and subcortical vascular dementia, other symptoms, predominantly depressive"	dementia
+98	a3414231000006117	1	MID - Multi-infarct dementia	dementia
+99	a1972731000006119	1	"Subcortical vascular dementia, other symptoms, predominantly delusional"	dementia
+100	a1972661000006119	1	"Multi-infarct dementia, other symptoms, predominantly depressive"	dementia
+101	a2707661000006119	1	Pick disease	dementia
+102	a8009531000006112	1	Dementia due to Pick disease	dementia
+103	a2664611000006117	1	"Vascular dementia, with delirium"	dementia
+104	a2603271000006110	1	"Primary degenerative dementia of the Alzheimer type, presenile onset, uncomplicated"	dementia
+105	a8042801000006115	1	Lewy body dementia with behavioral disturbance	dementia
+106	a1973271000006117	1	"Other vascular dementia, other symptoms, predominantly delusional"	dementia

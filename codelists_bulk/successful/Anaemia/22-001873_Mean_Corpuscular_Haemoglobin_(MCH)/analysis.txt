@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 9
+Columns: 4
+Column names: ['MedCodeId', 'Term', 'Count', 'Unnamed: 3']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+          MedCodeId                                Term     Count  Unnamed: 3
+0   714911000006118  MCH - Mean corpuscular haemoglobin  70179991         NaN
+1         497022011               Mean cell haemoglobin     24087         NaN
+2  8404251000006114               Mean cell haemoglobin       459         NaN

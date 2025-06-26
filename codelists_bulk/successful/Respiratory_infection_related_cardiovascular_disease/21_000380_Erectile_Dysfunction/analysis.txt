@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 21
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+0                               92310\t"Z9E9.00"\t5\t0\t0\t0\t"Provision of device for impotence"\t"February 2009"
+1                   102490\t"66Av.00"\t45350\t0\t10\t0\t"Diabetic assessment of erectile dysfunction"\t"June 2011"
+2             81439\t"7C25F00"\t197\t0\t36\t0\t"Operations on penis for erectile dysfunction NEC"\t"February 2009"

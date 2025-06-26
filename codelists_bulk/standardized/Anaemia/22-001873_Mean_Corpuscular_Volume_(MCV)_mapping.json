@@ -1,0 +1,31 @@
+{
+  "original_file": "codelists_bulk\\successful\\Anaemia\\22-001873_Mean_Corpuscular_Volume_(MCV)\\Mean_Corpuscular_Volume.csv",
+  "original_columns": [
+    "MedCodeId",
+    "\tTerm",
+    "\tCount"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "\tTerm",
+    "observations": "\tCount"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "\tTerm",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "\tCount",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 6,
+  "rows_standardized": 6,
+  "project": "Anaemia",
+  "codelist": "22-001873_Mean_Corpuscular_Volume_(MCV)"
+}

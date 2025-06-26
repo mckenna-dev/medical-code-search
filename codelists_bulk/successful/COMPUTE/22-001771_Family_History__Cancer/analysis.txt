@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 26
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                             Term  SNOMED_CT_Concept_ID
+0        411911014        700000                   FH: Cancer - *             275937001
+1  672921000006116        400000  Family history of breast cancer             429740004
+2        411038017        200000                 FH: Bowel cancer             275109007

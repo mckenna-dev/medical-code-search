@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 6
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+0                                    31560\t"B937.12"\t83\t0\t2\t0\t"Idiopathic thrombocythaemia"\t"February 2009"
+1                                 17386\t"B937500"\t1121\t0\t49\t2\t"Idiopathic thrombocythaemia"\t"February 2009"
+2                                        3320\t"42P3.00"\t9210\t0\t1628\t7559\t"Thrombocythaemia"\t"February 2009"

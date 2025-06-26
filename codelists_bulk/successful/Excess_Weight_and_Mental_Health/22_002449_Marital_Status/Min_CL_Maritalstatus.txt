@@ -1,0 +1,130 @@
+	MedCodeId	Observations	Term	marital_category
+0	a250503019	40000	Homeless single person	single
+1	a262935017	20000	No partner at present	single
+2	a84322012	5000000	Single	single
+3	a397763010	10000	Single parent	single
+4	a36839019	10000	Single parent family	single
+5	a142681000006113	2000	Single parent family - mother	single
+6	a397807015	6000	"Single parent family, mother present"	single
+7	a81121000006114	100	Unmarried parent	single
+8	a142341000006112	200000	Single person	single
+9	a5953701000006115	2	Referral to marriage guidance counsellor	married
+10	a5942941000006113	3	Seen by marriage guidance counsellor	married
+11	a250769015	200	Affair ended	married
+12	a397777013	200	Affair started	married
+13	a250770019	30	Affair unsatisfactory	married
+14	a213682015	1000	Alcoholic spouse	married
+15	a14130601000006114	5	Alcoholic spouse	married
+16	a759611000000114	80	Antenatal screening not indicated for partner	married
+17	a493941000006111	500	Artificial insemin by husband	married
+18	a460520016	300	Artificial insemination by husband	married
+19	a324767013	100	Battered husband	married
+20	a324766016	2000	Battered wife	married
+21	a298041000000110	400	Breast lump detected by partner	married
+22	a397767011	3000	Broken with partner	married
+23	a442161011	6	Cohabitee returned	married
+24	a487634016	400000	Cohabiting	married
+25	a250209016	1000	Common-law husband	married
+26	a250210014	1000	Common-law wife	married
+27	a251136017	40	Crime against spouse	married
+28	a250962016	500	Disabled spouse	married
+29	a250764013	300	Extra-marital problems	married
+30	a250778014	30	Extra-marital problems NOS	married
+31	a300251000000110	2000	Fertility problems in partner	married
+32	a411077019	500	Has infirm partner	married
+33	a411072013	9000	Homemaker	married
+34	a250168016	2000	House husband	married
+35	a828641000006113	200000	Housewife	married
+36	a1136015	20000	Husband	married
+37	a418923013	1000	Husband alcoholic	married
+38	a250799012	700	Husband in prison	married
+39	a412031013	4000	Looks after chronically sick husband	married
+40	a412033011	900	Looks after chronically sick spouse	married
+41	a412034017	3000	Looks after chronically sick wife	married
+42	a412097014	30	Lover taken	married
+43	a300231000000115	600	Low sperm count in partner	married
+44	a486188017	300	Maladjustment to married life	married
+45	a250650018	100000	Marital breakdown	married
+46	a65545019	10000	Marital conflict	married
+47	a717161000006113	5000	Marital discord	married
+48	a717171000006118	8000	Marital disharmony	married
+49	a500032013	200000	Marital problems	married
+50	a290530016	300	Marital reconciliation	married
+51	a717221000006112	30000	Marital stress	married
+52	a717231000006110	600	Marital trouble	married
+53	a191514016	4000000	Married	married
+54	a493971000000110	30000	Married/civil partner	married
+55	a412098016	5	Mistress taken	married
+56	a415854014	1000	Newly wed	married
+57	a411070017	400	Occupation of husband	married
+58	a397721011	5000	Occupation of spouse	married
+59	a250169012	500	Occupation of spouse NOS	married
+60	a411071018	300	Occupation of wife	married
+61	a1485014011	600	Partner dying	married
+62	a738831000000111	100	Partner had tubal ligation	married
+63	a401444017	100000	Partner had vasectomy	married
+64	a13932191000006111	200	Partner had vasectomy	married
+65	a312241000000110	3000	Partner is informal carer	married
+66	a562571000000116	1000	Partner pregnant	married
+67	a411878013	3000	Partner sterilised	married
+68	a250792015	10	Partner stops work	married
+69	a250817016	400	Partner unemployed	married
+70	a415853015	7000	Remarried	married
+71	a412102012	100	Row with wife	married
+72	a1135016	8000	Spouse	married
+73	a250777016	70	Seven year itch - marital	married
+74	a250800011	40	Spouse arrested	married
+75	a250583016	200	Spouse cannot care for patient	married
+76	a483247015	500	Spouse committed infidelity	married
+77	a253433011	6000	Spouse cooks food	married
+78	a411044018	20	Spouse haemophiliac	married
+79	a412104013	10	Spouse inattentive	married
+80	a250961011	100	Spouse is handicapped	married
+81	a282957016	1000	Spouse reassured	married
+82	a412089019	90	Spouse returned home	married
+83	a412103019	70	Spouse unsympathetic	married
+84	a397800018	20000	Spouse unwell	married
+85	a251152019	200	Spouse works away from home	married
+86	a250677010	6000	Violent spouse	married
+87	a1137012	10000	Wife	married
+88	a250835013	300	Wife alive	married
+89	a250833018	4000	Wife pregnant	married
+90	a443775016	1000	Wife unable to cope	married
+91	a250834012	700	Wife well	married
+92	a502726016	1000000	Bereavement	widowed
+93	a2575940016	60000	Death of husband	widowed
+94	a11927261000006115	2	Death of husband	widowed
+95	a216633014	10000	Death of partner	widowed
+96	a1484966014	30000	Death of wife	widowed
+97	a442258018	20000	Husband died	widowed
+98	a485552011	300000	Widowed	widowed
+99	a494151000000119	2000	Widowed/surviving civil partner	widowed
+100	a129552010	20000	Widower	widowed
+101	a105113011	20000	Divorce	divorced
+102	a412088010	3000	Divorce problems	divorced
+103	a338024013	7000	Divorce proceedings	divorced
+104	a250645012	2000	Divorce proceedings pending	divorced
+105	a191517011	300000	Divorced	divorced
+106	a250535019	200	Divorced couple sharing house	divorced
+107	a494031000000110	1000	Divorced/person whose civil partnership has been dissolved	divorced
+108	a412087017	400	Legal problem with divorce	divorced
+109	a412134015	200	Cohabitee left home	separated
+110	a412132016	5000	Husband left home	separated
+111	a412086014	100	Legal problem with separation	separated
+112	a195523014	100000	Separated	separated
+113	a412131011	2000	Separated from cohabitee	separated
+114	a250640019	20000	Separation	separated
+115	a412135019	700	Spouse left home	separated
+116	a412133014	3000	Wife left home	separated
+117	a335218014	100	"[X]Neglect and abandonment, by spouse or partner"	marital_unclear
+118	a250676018	100	Battered husband - history	marital_unclear
+119	a250675019	1000	Battered wife - history	marital_unclear
+120	a169470011	300	Broken engagement	marital_unclear
+121	a250208012	50000	Civil state unknown	marital_unclear
+122	a1231389012	30000	Engaged	marital_unclear
+123	a250783018	400	First relationship	marital_unclear
+124	a250207019	10000000	Marital state unknown	marital_unclear
+125	a194168015	30000	Marital status	marital_unclear
+126	a250639016	20000	Marriage	marital_unclear
+127	a250782011	8000	New relationship	marital_unclear
+128	a250216015	10000	Personal status NOS	marital_unclear

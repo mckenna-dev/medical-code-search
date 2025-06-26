@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 34
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                            Term
+0   2383          Cancer         Uterine        a289166015  Malignant neoplasm of uterus, part unspecified
+1   2384          Cancer         Uterine       a1228493018              Malignant neoplasm of cervix uteri
+2   2385          Cancer         Uterine  a543481000006111                     Cervical carcinoma (uterus)

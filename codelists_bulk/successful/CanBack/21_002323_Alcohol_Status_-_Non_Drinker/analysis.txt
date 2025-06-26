@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 14
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                 Term
+0   8856  Alcohol_status     non_drinker  a217461000000118        Non - drinker
+1   8857  Alcohol_status     non_drinker        a291352018  Non-drinker alcohol
+2   8858  Alcohol_status     non_drinker        a291355016          Teetotaller

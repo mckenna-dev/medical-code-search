@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 197
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2   MedCodeID                                  Term
+0   5656       Neck_pain       Neck_pain  a108431018  Cervical spondylosis with myelopathy
+1   5657       Neck_pain       Neck_pain  a108724018               Psychogenic torticollis
+2   5658       Neck_pain       Neck_pain  a116373011                              Wry neck

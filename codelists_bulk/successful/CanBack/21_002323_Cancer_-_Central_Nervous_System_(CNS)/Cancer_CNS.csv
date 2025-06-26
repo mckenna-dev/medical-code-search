@@ -1,0 +1,15 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+792,Cancer,CNS,a728461000006112,Malig neopl peripheral nerves and autonomic nervous system,L1:Cancer_L2:CNS,B524.00
+793,Cancer,CNS,a720001000006119,"Malignant neoplasm, overlapping lesion of peripheral nerves and autonomic nervous system",L1:Cancer_L2:CNS,B524600
+794,Cancer,CNS,a730491000006117,"Mal neoplasm/periph nerves+autonomic nervous system,unspc",L1:Cancer_L2:CNS,B524W00
+795,Cancer,CNS,a728471000006117,"Malig neopl, overlap lesion brain & other part of CNS",L1:Cancer_L2:CNS,B52W.00
+796,Cancer,CNS,a289396017,Malignant neoplasm of other specified part of nervous system,L1:Cancer_L2:CNS,B52y.00
+797,Cancer,CNS,a289397014,Malignant neoplasm of nervous system,L1:Cancer_L2:CNS,B52z.00
+798,Cancer,CNS,a316211000006115,"[M]Schwannoma, malignant",L1:Cancer_L2:CNS,BBe7.11
+799,Cancer,CNS,a396601000006116,Malignant neoplasm of peripheral nerves of trunk,L1:Cancer_L2:CNS,Byu5400
+800,Cancer,CNS,a396111000006110,Overlapping malignant neoplasm of peripheral nerves and autonomic nervous system,L1:Cancer_L2:CNS,Byu5500
+801,Cancer,CNS,a292148012,Malignant neoplasm of urinary organ,L1:Cancer_L2:CNS,Byu9000
+802,Cancer,CNS,a396251000006115,Malignant neoplasm of central nervous system,L1:Cancer_L2:CNS,ByuA.00
+803,Cancer,CNS,a396521000006110,Malignant tumour of cranial nerve,L1:Cancer_L2:CNS,ByuA000
+804,Cancer,CNS,a396491000006113,Malignant neoplasm of central nervous system,L1:Cancer_L2:CNS,ByuA100
+805,Cancer,CNS,a359281000006113,Secondary malignant neoplasm of nervous system,L1:Cancer_L2:CNS,ByuC600

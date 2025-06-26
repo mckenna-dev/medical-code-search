@@ -1,0 +1,787 @@
+	MedCodeId	Observations	Term	diabetes		
+0	a197761014	20000000	Type 2 diabetes mellitus	diabetes		
+1	a1658901000000118	1000000	Type II diabetic dietary review	diabetes		
+2	a280571000006116	700000	Non-insulin dependent diabetes mellitus	diabetes		
+3	a493774016	600000	Type II diabetes mellitus	diabetes		
+4	a914391000006116	500000	Insulin treated Type 2 diabetes mellitus	diabetes		
+5	a84471000006119	200000	Type 2 diabetes mellitus	diabetes		
+6	a73466011	100000	Non-insulin dependent diabetes mellitus	diabetes		
+7	a479571000000110	100000	Diabetes type 2 review	diabetes		
+8	a616511000006110	70000	"Diabetes mellitus, adult onset, no mention of complication"	diabetes		
+9	a84841000006113	50000	Type II diabetes mellitus	diabetes		
+10	a928561000006118	50000	Persistent microalbuminuria associated with type 2 diabetes mellitus	diabetes		
+11	a493773010	40000	NIDDM - Non-insulin dependent diabetes mellitus	diabetes		
+12	a840951000006119	40000	Insulin treated Type 2 diabetes mellitus	diabetes		
+13	a928541000006117	30000	Persistent proteinuria associated with type 2 diabetes mellitus	diabetes		
+14	a223291000000111	20000	Maturity onset diabetes	diabetes		
+15	a2287971000000119	20000	Diabetes mellitus in remission	diabetes		
+16	a292590011	10000	Type II diabetes mellitus poorly controlled	diabetes		
+17	a2288061000000111	10000	Type II diabetes mellitus in remission	diabetes		
+18	a457329019	9000	Type 2 diabetes mellitus without complication	diabetes		
+19	a2288071000000116	8000	Type 2 diabetes mellitus in remission	diabetes		
+20	a281171000006119	8000	Type II diabetes mellitus uncontrolled	diabetes		
+21	a1665721000000112	8000	Type 2 diabetic dietary review	diabetes		
+22	a914261000006119	5000	Diabetes type 2 with nephropathy	diabetes		
+23	a457328010	5000	Non-insulin-dependent diabetes mellitus without complication	diabetes		
+24	a914151000006112	5000	Retinopathy with type 2 diabetes mellitus	diabetes		
+25	a299621000000117	3000	Gastroparesis with type 2 diabetes mellitus	diabetes		
+26	a914031000006118	3000	Renal disorder associated with type II diabetes mellitus	diabetes		
+27	a292577016	2000	Type 2 diabetes mellitus with multiple complications	diabetes		
+28	a1223147012	2000	Insulin treated Type II diabetes mellitus	diabetes		
+29	a928571000006113	2000	Type II diabetes mellitus with persistent microalbuminuria	diabetes		
+30	a928581000006111	2000	Ketoacidosis in type 2 diabetes mellitus	diabetes		
+31	a14083811000006118	2000	Persistent microalbuminuria due to type 2 diabetes mellitus	diabetes		
+32	a1488898011	1000	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	diabetes		
+33	a841351000006110	1000	Insulin treated Type II diabetes mellitus	diabetes		
+34	a292579018	1000	Type 2 diabetes mellitus with ulcer	diabetes		
+35	a938321000006116	1000	Exudative maculopathy associated with type 2 diabetes mellitus	diabetes		
+36	a1223148019	1000	Insulin treated non-insulin dependent diabetes mellitus	diabetes		
+37	a616481000006119	1000	"Diabetes mellitus, adult onset, + neurological manifestation"	diabetes		
+38	a914071000006115	1000	Neurologic disorder associated with type 2 diabetes mellitus	diabetes		
+39	a84481000006116	1000	Type 2 diabetes mellitus - poor control	diabetes		
+40	a7480661000006114	1000	H/O diabetes mellitus type 2	diabetes		
+41	a914051000006113	1000	Disorder of eye with type 2 diabetes mellitus	diabetes		
+42	a457330012	900	Type II diabetes mellitus without complication	diabetes		
+43	a914241000006118	800	Polyneuropathy due to type 2 diabetes mellitus	diabetes		
+44	a459313016	800	Type 2 diabetes mellitus with neuropathic arthropathy	diabetes		
+45	a616491000006116	800	"Diabetes mellitus, adult onset, + ophthalmic manifestation"	diabetes		
+46	a616531000006116	700	"Diabetes mellitus, adult onset, with ketoacidosis"	diabetes		
+47	a587521000006111	700	Non-insulin-dependent diabetes mellitus with renal comps	diabetes		
+48	a641581000006115	600	Non-insulin-dependent diabetes mellitus with retinopathy	diabetes		
+49	a616501000006112	600	Disorder due to type 2 diabetes mellitus	diabetes		
+50	a84551000006113	600	Type 2 diabetes mellitus with nephropathy	diabetes		
+51	a616581000006115	600	"Diabetes mellitus, adult, + peripheral circulatory disorder"	diabetes		
+52	a616551000006111	600	"Diabetes mellitus, adult onset, with renal manifestation"	diabetes		
+53	a84851000006110	600	Type II diabetes mellitus - poor control	diabetes		
+54	a587111000006111	500	Non-insulin-dependent diabetes mellitus with ophthalm comps	diabetes		
+55	a84921000006110	500	Renal disorder due to type 2 diabetes mellitus	diabetes		
+56	a928551000006115	500	Type II diabetes mellitus with persistent proteinuria	diabetes		
+57	a850691000006118	400	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	diabetes		
+58	a14084041000006114	400	Persistent proteinuria due to type 2 diabetes mellitus	diabetes		
+59	a674961000006118	400	Peripheral circulatory disorder associated with type 2 diabetes mellitus	diabetes		
+60	a1667921000000117	400	Type II diabetes mellitus with gastroparesis	diabetes		
+61	a280591000006115	400	Non-insulin-dependent diabetes mellitus with neuro comps	diabetes		
+62	a8027521000006110	300	Microalbuminuria due to type 2 diabetes mellitus	diabetes		
+63	a280581000006118	300	Non-insulin-dependent diabetes mellitus with multiple complications	diabetes		
+64	a280551000006114	300	Non-insulin-dependent diabetes mellitus with ulcer	diabetes		
+65	a914301000006111	300	Type 2 diabetes mellitus with diabetic cataract	diabetes		
+66	a292583018	300	Type 2 diabetes mellitus with gangrene	diabetes		
+67	a84611000006113	200	Type 2 diabetes mellitus with renal complications	diabetes		
+68	a84541000006111	200	Type 2 diabetes mellitus with multiple complications	diabetes		
+69	a459308015	200	Type 2 diabetes mellitus with peripheral angiopathy	diabetes		
+70	a3209441000006114	200	Diabetes mellitus type 2	diabetes		
+71	a459310018	200	Type 2 diabetes mellitus with arthropathy	diabetes		
+72	a280531000006119	200	Non-insulin dependent diabetes mellitus with nephropathy	diabetes		
+73	a914221000006113	200	Type 2 diabetes mellitus with mononeuropathy	diabetes		
+74	a292589019	200	Type II diabetes mellitus - poor control	diabetes		
+75	a84581000006117	200	Type 2 diabetes mellitus with ophthalmic complications	diabetes		
+76	a616561000006113	200	"Diabetes mellitus, adult with gangrene"	diabetes		
+77	a459167016	200	Type 2 diabetes mellitus with hypoglycaemic coma	diabetes		
+78	a306113018	100	"Pre-existing diabetes mellitus, non-insulin-dependent"	diabetes		
+79	a281161000006114	100	Non-insulin depend diabetes mellitus with diabetic cataract	diabetes		
+80	a84561000006110	100	Type 2 diabetes mellitus with neurological complications	diabetes		
+81	a8012091000006113	100	Type II diabetes on diet only	diabetes		
+82	a84871000006117	100	Cataract due to diabetes mellitus type 2	diabetes		
+83	a84621000006117	100	Type 2 diabetes mellitus with retinopathy	diabetes		
+84	a938331000006118	100	Exudative maculopathy with type 2 diabetes mellitus	diabetes		
+85	a84991000006112	100	Type II diabetes mellitus with retinopathy	diabetes		
+86	a8012061000006117	90	Type 2 diabetic on insulin	diabetes		
+87	a914311000006114	90	Type II diabetes mellitus with diabetic cataract	diabetes		
+88	a914271000006114	90	Type II diabetes mellitus with nephropathy	diabetes		
+89	a281211000006117	90	Gangrene associated with type 2 diabetes mellitus	diabetes		
+90	a914161000006114	80	Type II diabetes mellitus with retinopathy	diabetes		
+91	a84631000006119	80	Type 2 diabetes mellitus with ulcer	diabetes		
+92	a84641000006112	80	Type 2 diabetes mellitus without complication	diabetes		
+93	a1667891000000113	70	Hyperosmolar non-ketotic state in type II diabetes mellitus	diabetes		
+94	a928591000006114	70	Type II diabetes mellitus with ketoacidosis	diabetes		
+95	a84501000006114	70	Type 2 diabetes mellitus with diabetic cataract	diabetes		
+96	a292483016	70	"Diabetes mellitus, adult onset, with hyperosmolar coma"	diabetes		
+97	a85001000006117	60	Type II diabetes mellitus with ulcer	diabetes		
+98	a84981000006114	60	Type II diabetes mellitus with renal complications	diabetes		
+99	a280511000006113	60	Non-insulin dependent diabetes mellitus with hypoglyca coma	diabetes		
+100	a280561000006111	60	Non-insulin-dependent diabetes mellitus with peripheral angiopathy	diabetes		
+101	a459169018	60	Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II	diabetes		
+102	a8012081000006110	60	Type 2 diabetic on diet only	diabetes		
+103	a459306016	50	Type II diabetes mellitus with peripheral angiopathy	diabetes		
+104	a85011000006119	50	Type II diabetes mellitus without complication	diabetes		
+105	a8048421000006113	50	Proteinuria due to type 2 diabetes mellitus	diabetes		
+106	a280541000006112	40	Non-insulin dependent diabetes mellitus with polyneuropathy	diabetes		
+107	a12704971000006113	40	Neurologic disorder associated with type 2 diabetes mellitus	diabetes		
+108	a292581016	40	Type II diabetes mellitus with ulcer	diabetes		
+109	a928601000006118	40	Ketoacidotic coma in type 2 diabetes mellitus	diabetes		
+110	a4796321000006113	40	Pre-existing type 2 diabetes mellitus	diabetes		
+111	a5110001000006118	40	Pregnancy and type 2 diabetes mellitus	diabetes		
+112	a84951000006118	30	Disorder of eye with type 2 diabetes mellitus	diabetes		
+113	a459311019	30	Type II diabetes mellitus with arthropathy	diabetes		
+114	a292576013	30	Type II diabetes mellitus with multiple complications	diabetes		
+115	a459312014	30	Type II diabetes mellitus with neuropathic arthropathy	diabetes		
+116	a914251000006116	30	Type II diabetes mellitus with polyneuropathy	diabetes		
+117	a84931000006113	30	Neurological disorder with diabetes type 2	diabetes		
+118	a84901000006117	30	Mononeuropathy with type 2 diabetes mellitus	diabetes		
+119	a280521000006117	30	Non-insulin dependent diabetes mellitus with mononeuropathy	diabetes		
+120	a914231000006111	30	Type II diabetes mellitus with mononeuropathy	diabetes		
+121	a281181000006116	20	Non-insulin dependent diabetes mellitus with neuropathic arthropathy	diabetes		
+122	a84571000006115	20	Type 2 diabetes mellitus with neuropathic arthropathy	diabetes		
+123	a914041000006111	20	Type II diabetes mellitus with renal complications	diabetes		
+124	a84531000006118	20	Type 2 diabetes mellitus with mononeuropathy	diabetes		
+125	a84971000006111	20	Type II diabetes mellitus with polyneuropathy	diabetes		
+126	a84521000006116	20	Type 2 diabetes mellitus with hypoglycaemic coma	diabetes		
+127	a616541000006114	20	"Diabetes mellitus, adult onset, with ketoacidotic coma"	diabetes		
+128	a84961000006116	20	Type II diabetes mellitus with peripheral angiopathy	diabetes		
+129	a1988741000006117	20	Pregnancy and non-insulin-dependent diabetes mellitus	diabetes		
+130	a84511000006112	10	Type 2 diabetes mellitus with gangrene	diabetes		
+131	a14084061000006113	10	Retinopathy due to type 2 diabetes mellitus	diabetes		
+132	a84601000006110	10	Type 2 diabetes mellitus with polyneuropathy	diabetes		
+133	a914061000006110	10	Type II diabetes mellitus with ophthalmic complications	diabetes		
+134	a914081000006117	10	Type II diabetes mellitus with neurological complications	diabetes		
+135	a84491000006118	10	Type 2 diabetes mellitus with arthropathy	diabetes		
+136	a84941000006115	10	Type II diabetes mellitus with neuropathic arthropathy	diabetes		
+137	a292582011	8	Type II diabetes mellitus with gangrene	diabetes		
+138	a459309011	8	Non-insulin dependent diabetes mellitus with arthropathy	diabetes		
+139	a84881000006119	7	Type II diabetes mellitus with gangrene	diabetes		
+140	a6982521000006119	7	Diabetes type 2 with retinopathy	diabetes		
+141	a14083961000006111	6	Gangrene due to type 2 diabetes mellitus	diabetes		
+142	a84591000006119	6	Type 2 diabetes mellitus with peripheral angiopathy	diabetes		
+143	a7966641000006113	6	Chronic kidney disease stage 4 due to type 2 diabetes mellitus	diabetes		
+144	a12705081000006111	5	Gastroparesis due to type 2 diabetes mellitus	diabetes		
+145	a7966691000006116	4	Chronic kidney disease stage 3 due to type 2 diabetes mellitus	diabetes		
+146	a14083911000006113	4	Disorder of nervous system due to type 2 diabetes mellitus	diabetes		
+147	a84891000006116	4	Type II diabetes mellitus with hypoglycaemic coma	diabetes		
+148	a928611000006115	4	Ketoacidotic coma in type II diabetes mellitus	diabetes		
+149	a8044221000006116	3	Ischaemic foot ulcer due to type 2 diabetes mellitus	diabetes		
+150	a7281511000006118	3	Type 2 diabetes mellitus uncontrolled	diabetes		
+151	a14079871000006119	3	Hyperosmolar non-ketotic state due to type 2 diabetes mellitus	diabetes		
+152	a14083991000006115	3	Ketoacidosis due to type 2 diabetes mellitus	diabetes		
+153	a84911000006119	3	Type II diabetes mellitus with multiple complications	diabetes		
+154	a3209431000006116	3	Diabetes mellitus type II	diabetes		
+155	a5109461000006115	2	Diabetes type 2 on insulin	diabetes		
+156	a7966611000006114	2	Chronic kidney disease stage 5 due to type 2 diabetes mellitus	diabetes		
+157	a7968751000006116	2	Diabetes mellitus type 2 without retinopathy	diabetes		
+158	a8084961000006111	2	Diabetes type II review	diabetes		
+159	a4758011000006112	2	Type 2 diabetes mellitus with hyperosmolar coma	diabetes		
+160	a84861000006112	2	Type II diabetes mellitus with arthropathy	diabetes		
+161	a7306751000006110	2	Brittle type 2 diabetes mellitus	diabetes		
+162	a7966931000006114	2	Angina associated with type 2 diabetes mellitus	diabetes		
+163	a6977421000006110	2	Ketoacidosis in type II diabetes mellitus	diabetes		
+164	a6969931000006116	2	Diabetes type 2 with neurological disorder	diabetes		
+165	a8044171000006110	2	Neuropathic toe ulcer due to type 2 diabetes mellitus	diabetes		
+166	a7966761000006115	1	Chronic kidney disease stage 2 due to type 2 diabetes mellitus	diabetes		
+167	a12704991000006114	1	Ketoacidotic coma in type 2 diabetes mellitus	diabetes		
+168	a8012071000006112	1	Type II diabetes on insulin	diabetes		
+169	a7966791000006111	1	Chronic kidney disease stage 1 due to type 2 diabetes mellitus	diabetes		
+170	a7288191000006110	1	Type 2 diabetes mellitus well controlled	diabetes		
+171	a7969001000006112	1	Foot ulcer due to type 2 diabetes mellitus	diabetes		
+172	a14090011000006118	1	Hypoglycaemic coma due to type 2 diabetes mellitus	diabetes		
+173	a8035211000006110	1	Dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus	diabetes		
+174	a7966571000006116	1	Mixed hyperlipidaemia associated with type II diabetes mellitus	diabetes		
+175	a14015311000006110	1	Coronary artery disease due to type 2 diabetes mellitus	diabetes		
+176	a14071211000006113	1	Multiple complications due to type 2 diabetes mellitus	diabetes		
+177	a9313441000006115	1	Diabetes type 2 with diabetic ulcer of left foot	diabetes		
+178	a8026041000006113	1	Forefoot ulcer due to type 2 diabetes mellitus	diabetes		
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						

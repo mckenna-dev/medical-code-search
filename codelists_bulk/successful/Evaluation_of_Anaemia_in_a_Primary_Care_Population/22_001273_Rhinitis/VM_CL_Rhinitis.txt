@@ -1,0 +1,50 @@
+MedCodeId	Observations	Term	SnomedCTConceptId			
+a142764012	1000000	Chronic rhinitis	86094006	Rhinitis		
+a102311013	1000000	Allergic rhinitis	61582004	Rhinitis		
+a396098013	900000	Allergic rhinitis due to allergen	61582004	Rhinitis		
+a481104016	600000	Allergic rhinitis due to pollens	21719001	Rhinitis		
+a66718013	500000	Chronic sinusitis	40055000	Rhinitis		
+a224001000000114	200000	Perennial allergic rhinitis	446096008	Rhinitis		
+a301187012	100000	Chronic rhinitis NOS	86094006	Rhinitis		
+a396095011	100000	Chronic catarrhal rhinitis	266342009	Rhinitis		
+a1229598015	90000	Chronic rhinosinusitis	40055000	Rhinitis		
+a301214019	80000	Chronic sinusitis NOS	40055000	Rhinitis		
+a59944016	40000	Chronic maxillary sinusitis	35923002	Rhinitis		
+a301210011	40000	Recurrent sinusitis	195788001	Rhinitis		
+a99894013	10000	Chronic frontal sinusitis	60130002	Rhinitis		
+a301176016	9000	Chronic simple rhinitis	195765002	Rhinitis		  
+a301181013	7000	Chronic hypertrophic rhinitis	195768000	Rhinitis		
+a14149861000006118	2000	Chronic rhinosinusitis	897657000	Rhinitis		
+a301182018	2000	Chronic atrophic rhinitis	195769008	Rhinitis		
+a301183011	2000	Chronic infective rhinitis	195770009	Rhinitis		
+a121629017	2000	Chronic ethmoidal sinusitis	73237007	Rhinitis		
+a755691000006114	1000	Kartageners syndrome	42402006	Rhinitis		
+a961831000006111	1000	Rhinorrhea/nasal congestion	9.61831E+14	Rhinitis		
+a147320013	700	Chronic pansinusitis	88850006	Rhinitis		
+a65349012	400	Chronic sphenoidal sinusitis	38961000	Rhinitis		
+a301211010	400	Other chronic sinusitis	40055000	Rhinitis		
+a301825016	300	[X]Other chronic sinusitis	40055000	Rhinitis		
+a301213013	200	Other chronic sinusitis NOS	40055000	Rhinitis		
+a5035141000006112	80	Perennial allergic rhinitis with seasonal variation	232353008	Rhinitis		
+a301185016	80	Chronic membranous rhinitis	195772001	Rhinitis		
+a301184017	40	Chronic ulcerative rhinitis	195771008	Rhinitis		
+a3549401000006110	10	Rhinorrhea	64531003	Rhinitis		
+a5035011000006114	10	Rhinitis caseosa	232344001	Rhinitis		
+a301186015	10	Chronic fibrinous rhinitis	195773006	Rhinitis		
+a7965251000006116	8	Non-allergic rhinitis	3.11E+11	Rhinitis		
+a3183581000006119	6	Kartagener syndrome	42402006	Rhinitis		
+a7080681000006111	5	Chronic recurrent sinusitis	427909005	Rhinitis		
+a3994131000006110	4	Allergic rhinitis due to tree pollen	91927006	Rhinitis		
+a3994111000006116	4	Allergic rhinitis due to grass pollen	91926002	Rhinitis		
+a8016801000006110	4	Sinusitis co-occurrent with nasal polyps	4.1931E+13	Rhinitis		
+a5035711000006112	3	Chronic panethmoidal sinusitis	232395004	Rhinitis		
+a3632601000006112	2	Severe chronic rhinitis	69646003	Rhinitis		
+a7036961000006118	2	Allergic fungal sinusitis	425011002	Rhinitis		
+a5035741000006111	2	Chronic frontoethmoidal sinusitis	232397007	Rhinitis		
+a3994161000006118	1	Allergic rhinitis caused by weed pollen	91928001	Rhinitis		
+a2617581000006119	1	Disorder of paranasal sinuses	7393007	Rhinitis		
+a13938371000006110	1	Allergic aspergillus rhinosinusitis	838367000	Rhinitis		
+a3691001000006119	1	Chronic ethmoiditis	73237007	Rhinitis		
+a3903021000006111	1	Hypertrophic rhinitis	86287004	Rhinitis		
+a5035031000006115	30	Non-infective non-allergic rhinitis	232345000	Rhinitis		
+a14149851000006115	4	Rhinosinusitis	897656009	Rhinitis		

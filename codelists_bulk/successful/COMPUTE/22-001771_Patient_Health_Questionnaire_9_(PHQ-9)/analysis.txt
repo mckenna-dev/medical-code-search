@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+           MedCodeId  Observations                                          Term  SNOMED_CT_Concept_ID
+0   7803451000006113          2032  PHQ-9 (Patient Health Questionnaire 9) score             720433000
+1   8233681000006111          1366        PHQ-9 - Patient health questionnaire 9       758711000000105
+2  11990101000006116          1259                 Maudsley modified PHQ-9 score     11990101000006100

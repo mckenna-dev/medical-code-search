@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 257
+Columns: 13
+Column names: ['MedCodeId', 'Term', 'Observations', 'SNOMED_CT_Concept_ID', 'clinicalevents', 'referralevents', 'testevents', 'immunisationevents', 'readcode', 'readterm', 'databasebuild', 'Unnamed: 8', 'Search term']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId  Term  Observations  SNOMED_CT_Concept_ID  clinicalevents
+0      35540   NaN           NaN                   NaN             436
+1     105133   NaN           NaN                   NaN              19
+2       4921   NaN           NaN                   NaN             286

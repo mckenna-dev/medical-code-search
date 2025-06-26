@@ -1,0 +1,61 @@
+med_code_id,term,snomed_ct_concept_id,observations
+8040681000006112,Chronic kidney disease stage 3 due to hypertension (disorder),129171000119106,4
+595811000000117,Chronic kidney disease stage 3 with proteinuria (disorder),324251000000105,30000
+618431000000114,Chronic kidney disease stage 3 with proteinuria (disorder),324251000000105,10000
+8104231000006115,Chronic kidney disease stage 3 with proteinuria (disorder),324251000000105,2
+596131000000114,Chronic kidney disease stage 3B without proteinuria (disorder),324411000000105,30000
+618481000000113,Chronic kidney disease stage 3B without proteinuria (disorder),324411000000105,10000
+596191000000110,Chronic kidney disease stage 4 with proteinuria (disorder),324441000000106,20000
+618491000000110,Chronic kidney disease stage 4 with proteinuria (disorder),324441000000106,9000
+8104451000006111,Chronic kidney disease stage 4 with proteinuria (disorder),324441000000106,4
+596321000000110,Chronic kidney disease stage 5 with proteinuria (disorder),324501000000107,5000
+618511000000119,Chronic kidney disease stage 5 with proteinuria (disorder),324501000000107,3000
+7966611000006114,Chronic kidney disease stage 5 due to type 2 diabetes mellitus (disorder),711000119100,2
+7714921000006112,Chronic kidney disease stage 5 with transplant (disorder),714153000,1
+7966691000006116,Chronic kidney disease stage 3 due to type 2 diabetes mellitus (disorder),731000119105,4
+1940501000006119,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1 (disorder),950181000000106,2000
+1940511000006116,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2 (disorder),950211000000107,3000
+1940521000006112,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3 (disorder),950231000000104,3000
+1940531000006110,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1 (disorder),950251000000106,200
+1940541000006117,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2 (disorder),950291000000103,200
+1940551000006115,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3 (disorder),950311000000102,1000
+8030421000006114,Hypertensive heart AND chronic kidney disease stage 4 (disorder),96721000119103,3
+595871000000110,Chronic kidney disease stage 3 without proteinuria (disorder),324281000000104,100000
+618441000000117,Chronic kidney disease stage 3 without proteinuria (disorder),324281000000104,30000
+8104261000006112,Chronic kidney disease stage 3 without proteinuria (disorder),324281000000104,1
+595931000000116,Chronic kidney disease stage 3A with proteinuria (disorder),324311000000101,10000
+618451000000119,Chronic kidney disease stage 3A with proteinuria (disorder),324311000000101,5000
+8104301000006115,Chronic kidney disease stage 3A with proteinuria (disorder),324311000000101,2
+595991000000115,Chronic kidney disease stage 3A without proteinuria (disorder),324341000000100,80000
+618461000000116,Chronic kidney disease stage 3A without proteinuria (disorder),324341000000100,30000
+596051000000115,Chronic kidney disease stage 3B with proteinuria (disorder),324371000000106,10000
+618471000000111,Chronic kidney disease stage 3B with proteinuria (disorder),324371000000106,6000
+8104381000006112,Chronic kidney disease stage 3B with proteinuria (disorder),324371000000106,2
+596261000000111,Chronic kidney disease stage 4 without proteinuria (disorder),324471000000100,20000
+618501000000116,Chronic kidney disease stage 4 without proteinuria (disorder),324471000000100,6000
+596401000000111,Chronic kidney disease stage 5 without proteinuria (disorder),324541000000105,2000
+618521000000113,Chronic kidney disease stage 5 without proteinuria (disorder),324541000000105,1000
+2767385013,Chronic kidney disease stage 4 (disorder),431857002,3000
+304091000000116,Chronic kidney disease stage 4 (disorder),431857002,500000
+7147781000006115,Chronic kidney disease stage 4 (disorder),431857002,80
+2773184015,Chronic kidney disease stage 3 (disorder),433144002,20000
+304071000000115,Chronic kidney disease stage 3 (disorder),433144002,3000000
+7174791000006111,Chronic kidney disease stage 3 (disorder),433144002,50
+2767154014,Chronic kidney disease stage 5 (disorder),433146000,1000
+304111000000114,Chronic kidney disease stage 5 (disorder),433146000,100000
+7174851000006111,Chronic kidney disease stage 5 (disorder),433146000,40
+8212401000006115,Anemia co-occurrent and due to chronic kidney disease stage 3 (disorder),691421000119108,7
+557811000000119,Chronic kidney disease stage 3A (disorder),700378005,100000
+557831000000110,Chronic kidney disease stage 3B (disorder),700379002,60000
+7714891000006118,Chronic kidney disease stage 5 on dialysis (disorder),714152005,10
+7966641000006113,Chronic kidney disease stage 4 due to type 2 diabetes mellitus (disorder),721000119107,6
+8027491000006113,Chronic kidney disease stage 5 due to type 1 diabetes mellitus (disorder),90761000119106,1
+1940621000006111,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1 (disorder),949881000000106,30000
+1940631000006114,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2 (disorder),949901000000109,7000
+1940641000006116,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3 (disorder),949921000000100,2000
+8345931000006110,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3 (disorder),949921000000100,1
+1940651000006119,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1 (disorder),950061000000103,10000
+1940661000006117,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2 (disorder),950081000000107,6000
+8346021000006117,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2 (disorder),950081000000107,1
+1940671000006112,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3 (disorder),950101000000101,3000
+8030431000006112,Hypertensive heart AND chronic kidney disease stage 3 (disorder),96731000119100,1

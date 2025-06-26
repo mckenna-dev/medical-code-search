@@ -1,0 +1,73 @@
+MedCodeId	Observations	Term	SnomedCTConceptId	
+a56765016	700000	Crohn's disease	34000006	Crohns
+a179501000006113	200000	Crohn's regional enteritis	34000006	Crohns
+a41137017	100000	Inflammatory bowel disease	24526004	Crohns
+a601031000006119	40000	CC - Crohn's colitis	50440006	Crohns
+a250025015	20000	FH: Crohn's disease	160386006	Crohns
+a601091000006115	20000	Crohn's disease of terminal ileum	196977009	Crohns
+a886291000006112	10000	Regional enteritis - Crohn	34000006	Crohns
+a302941017	6000	Crohn's disease of small intestine	56689002	Crohns
+a396357012	5000	Crohn's disease of large bowel	7620006	Crohns
+a302940016	4000	Crohn's disease of ileum	38106008	Crohns
+a1222351011	4000	Crohn's disease NOS	34000006	Crohns
+a309744019	2000	Arthropathy in Crohn's disease	201728006	Crohns
+a2532958014	2000	Exacerbation of Crohn's disease of small intestine	414154002	Crohns
+a2532950019	2000	Exacerbation of Crohn's disease of large intestine	414153008	Crohns
+a302939018	1000	Crohn's disease of the ileum unspecified	38106008	Crohns
+a2269891000000116	900	Management of inflammatory bowel disease	700104004	Crohns
+a2269901000000115	700	Management of IBD (inflammatory bowel disease)	700104004	Crohns
+a303761010	700	[X]Other Crohn's disease	34000006	Crohns
+a906051000006118	400	[RFC] Crohns disease	9.06051E+14	Crohns
+a302322010	300	Orofacial Crohn's disease	196578009	Crohns
+a3316751000006117	300	Crohn's disease of colon	50440006	Crohns
+a309833017	100	Juvenile arthritis in Crohn's disease	201805000	Crohns
+a3047421000006110	100	Crohns disease	34000006	Crohns
+a2338581000000110	80	Dietary education for inflammatory bowel disease	9.09671E+14	Crohns
+a3113541000006111	80	Crohn's ileitis	38106008	Crohns
+a3047411000006119	80	Crohn disease	34000006	Crohns
+a2891431000006118	60	IBD - Inflammatory bowel disease	24526004	Crohns
+a4784091000006115	50	Crohn's disease of oral soft tissues	196578009	Crohns
+a2559781000006115	50	Crohn's disease of rectum	3815005	Crohns
+a4530461000006117	20	Family history of Crohn's disease	160386006	Crohns
+a7988831000006117	20	Arthritis co-occurrent and due to Crohn's disease	8.161E+12	Crohns
+a4785581000006112	20	Crohn disease of terminal ileum	196977009	Crohns
+a5085631000006115	10	Perianal Crohn disease	235796008	Crohns
+a2559801000006116	10	Crohn's proctitis	3815005	Crohns
+a5085621000006118	10	Perianal Crohn's disease	235796008	Crohns
+a2659581000000113	9	Signposting to Crohn's and Colitis UK	1.05734E+15	Crohns
+a7489581000006113	7	History of inflammatory bowel disease	608844008	Crohns
+a3420881000006117	6	Crohn disease of small intestine	56689002	Crohns
+a5548921000006113	4	Crohn's disease activity index	273364009	Crohns
+a5139551000006114	4	Juvenile arthritis of inflammatory bowel disease	239809007	Crohns
+a3047391000006119	4	CD - Crohn's disease	34000006	Crohns
+a4784111000006112	4	Oral Crohn's disease	196578009	Crohns
+a6839121000006119	3	Crohn's stricture of colon	413276006	Crohns
+a13765011000006113	3	Arthritis due to inflammatory bowel disease	9350004	Crohns
+a6204981000006116	3	Idiopathic chronic inflammatory bowel disease	359664009	Crohns
+a3668441000006118	3	Crohn's disease of small AND large intestines	71833008	Crohns
+a5073581000006111	2	Crohn's disease of gingivae	234999001	Crohns
+a2621161000006119	2	"Crohns disease, large intestine"	7620006	Crohns
+a7988841000006110	2	Crohn's disease with arthritis	8.161E+12	Crohns
+a3316811000006110	2	"Crohns disease, colon"	50440006	Crohns
+a3420891000006119	2	"Crohns disease, small intestine"	56689002	Crohns
+a3414681000006119	2	Crohn's disease of duodenum	56287005	Crohns
+a6664401000006118	2	Vulval Crohn's disease	402375009	Crohns
+a7060761000006112	2	Crohn's disease in remission	426549001	Crohns
+a4809351000006111	2	Juvenile arthritis in Crohn disease	201805000	Crohns
+a4808981000006112	2	Arthropathy in Crohn disease	201728006	Crohns
+a14614331000006112	1	Crohn's regional enteritis	56689002	Crohns
+a8463921000006112	1	Abscess of intestine due to Crohn's disease	1.0859E+15	Crohns
+a7821281000006113	1	Inflammatory polyps co-occurrent and due to inflammatory bowel disease	721686000	Crohns
+a6582841000006118	1	Gastrointestinal Crohn's disease	397172008	Crohns
+a6664411000006115	1	Crohn disease of vulva	402375009	Crohns
+a7060771000006117	1	Crohn disease in remission	426549001	Crohns
+a6839131000006116	1	Crohn stricture of colon	413276006	Crohns
+a6797971000006118	1	Iritis with inflammatory bowel disease	410483002	Crohns
+a3113551000006113	1	Crohn disease of ileum	38106008	Crohns
+a7959171000006110	1	Perianal fistula due to Crohn's disease	733533008	Crohns
+a8035641000006112	1	History of Crohns disease	1.12561E+14	Crohns
+a6853111000006114	1	Exacerbation of Crohn disease of large intestine	414153008	Crohns
+a6853131000006115	1	Exacerbation of Crohn disease of small intestine	414154002	Crohns
+a2601661000006118	1	Chronic inflammatory small bowel disease	6382002	Crohns
+a2621151000006116	1	Crohn disease of large bowel	7620006	Crohns
+a5139611000006114	1	Seronegative arthritis secondary to inflammatory bowel disease	239814006	Crohns

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 149
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order         Flag_classifyL1       Flag_classifyL2           MedCodeID                                              Term
+0    169  Arthritis_inflammatory  Rheumatoid_arthritis          a108529013                    Rhizomelic pseudopolyarthritis
+1    170  Arthritis_inflammatory  Rheumatoid_arthritis          a116082011                              Rheumatoid arthritis
+2    171  Arthritis_inflammatory  Rheumatoid_arthritis  a12114051000006110  Rheumatoid arthritis of left shoulder (disorder)

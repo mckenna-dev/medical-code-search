@@ -1,0 +1,59 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,READcode
+241,Acute myocardial infarction,,,G30..00
+13566,Attack - heart,,,G30..11
+30421,Cardiac rupture following myocardial infarction (MI),,,G30..13
+1204,Heart attack,,,G30..14
+1677,MI - acute myocardial infarction,,,G30..15
+17689,Silent myocardial infarction,,,G30..17
+12139,Acute anterolateral infarction,,,G300.00
+5387,Other specified anterior myocardial infarction,,,G301.00
+40429,Acute anteroapical infarction,,,G301000
+17872,Acute anteroseptal infarction,,,G301100
+14897,Anterior myocardial infarction NOS,,,G301z00
+8935,Acute inferolateral infarction,,,G302.00
+29643,Acute inferoposterior infarction,,,G303.00
+23892,Posterior myocardial infarction NOS,,,G304.00
+14898,Lateral myocardial infarction NOS,,,G305.00
+63467,True posterior myocardial infarction,,,G306.00
+3704,Acute subendocardial infarction,,,G307.00
+9507,Acute non-Q wave infarction,,,G307000
+10562,Acute non-ST segment elevation myocardial infarction,,,G307100
+1678,Inferior myocardial infarction NOS,,,G308.00
+30330,Acute Q-wave infarct,,,G309.00
+17133,Mural thrombosis,,,G30A.00
+32854,Acute posterolateral myocardial infarction,,,G30B.00
+29758,Acute transmural myocardial infarction of unspecif site,,,G30X.00
+12229,Acute ST segment elevation myocardial infarction,,,G30X000
+34803,Other acute myocardial infarction,,,G30y.00
+28736,Acute atrial infarction,,,G30y000
+62626,Acute papillary muscle infarction,,,G30y100
+41221,Acute septal infarction,,,G30y200
+46017,Other acute myocardial infarction NOS,,,G30yz00
+14658,Acute myocardial infarction NOS,,,G30z.00
+27951,Other acute and subacute ischaemic heart disease,,,G31..00
+23579,Postmyocardial infarction syndrome,,,G310.00
+15661,Dressler's syndrome,,,G310.11
+36523,Preinfarction syndrome,,,G311.00
+4656,Crescendo angina,,,G311.11
+39655,Impending infarction,,,G311.12
+18842,Subsequent myocardial infarction,,,G35..00
+45809,Subsequent myocardial infarction of anterior wall,,,G350.00
+38609,Subsequent myocardial infarction of inferior wall,,,G351.00
+72562,Subsequent myocardial infarction of other sites,,,G353.00
+46166,Subsequent myocardial infarction of unspecified site,,,G35X.00
+36423,Certain current complication follow acute myocardial infarct,,,G36..00
+24126,Haemopericardium/current comp folow acut myocard infarct,,,G360.00
+23708,Atrial septal defect/curr comp folow acut myocardal infarct,,,G361.00
+37657,Ventric septal defect/curr comp fol acut myocardal infarctn,,,G362.00
+59189,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,,,G363.00
+59940,Ruptur chordae tendinae/curr comp fol acute myocard infarct,,,G364.00
+69474,Rupture papillary muscle/curr comp fol acute myocard infarct,,,G365.00
+29553,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",,,G366.00
+32272,Postoperative myocardial infarction,,,G38..00
+46112,Postoperative transmural myocardial infarction anterior wall,,,G380.00
+46276,Postoperative transmural myocardial infarction inferior wall,,,G381.00
+106812,Postoperative transmural myocardial infarction unspec site,,,G383.00
+41835,Postoperative subendocardial myocardial infarction,,,G384.00
+68748,"Postoperative myocardial infarction, unspecified",,,G38z.00
+109035,[X]Subsequent myocardial infarction of other sites,,,Gyu3500
+99991,[X]Subsequent myocardial infarction of unspecified site,,,Gyu3600

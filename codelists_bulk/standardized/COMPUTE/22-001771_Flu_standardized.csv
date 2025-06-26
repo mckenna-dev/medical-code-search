@@ -1,0 +1,66 @@
+med_code_id,term,snomed_ct_concept_id,observations
+762181000006116,Flu-like illness,95891005,2000000
+396106019,Influenza NOS,6142004,400000
+11203012,Influenza,6142004,300000
+301431011,Pneumonia or influenza NOS,195878008,100000
+1707731000006118,Suspected swine influenza,1707731000006102,5000
+1122841000000110,Suspected swine influenza,505251000000100,90000
+778711000006116,Influenza-like illness,95891005,100000
+301357010,Pneumonia and influenza,195878008,70000
+1128141000000118,Influenza A (H1N1) swine flu,442696006,40000
+460161011,Influenza-like symptoms,315642008,70000
+301430012,Other specified pneumonia or influenza,195878008,10000
+1122041000000117,Swine influenza contact,444426005,10000
+1707721000006116,Swine influenza contact,1707721000006100,600
+2388741000000116,At risk of influenza related complication,932221000000103,20000
+2820795016,Influenza due to Influenza A virus subtype H1N1,442696006,7000
+1122831000000118,Suspected Influenza A virus subtype H1N1 infection,505251000000100,10000
+301415015,Influenza with other respiratory manifestation,6142004,7000
+778871000006116,Influenza with pneumonia,195878008,2000
+1707241000006115,Swine influenza,1707241000006104,2000
+301418018,Influenza with respiratory manifestations NOS,6142004,3000
+1138151000000117,Advice given about Influenza A virus subtype H1N1 infection,511781000000101,3000
+301417011,Influenza with pharyngitis,195924009,2000
+677081000000114,Influenza B virus present,441345003,3000
+301416019,Influenza with laryngitis,195923003,1000
+1229740013,Influenza with bronchopneumonia,41269000,1000
+1126371000000114,Influenza A virus subtype H1N1 detected,711330007,3000
+301423018,Influenza with gastrointestinal tract involvement,195929004,1000
+676901000000115,Influenza A virus subtype H3 present,441049004,2000
+2608991000000117,Influenza due to seasonal influenza virus,1033091000000109,800
+2402811000000118,Influenza B virus ribonucleic acid detection assay,1008251000000105,1000
+2402801000000115,Influenza A virus ribonucleic acid detection assay,1008261000000108,2000
+1135701000000110,Possible influenza A virus H1N1 subtype,506751000000104,600
+885251000006114,Influenza + pneumonia,195878008,200
+1740491000006116,Advice given about influenza A virus subtype H1N1 by telephone,520171000000102,300
+301421016,Influenza with other manifestations,6142004,700
+546421000006115,Chest infection - influenza with pneumonia,195878008,200
+677021000000113,"Influenza A virus, other or untyped strain detected",359351000000100,500
+92429016,Avian influenza,55604004,500
+676781000000110,Influenza A virus subtype H1 present,441043003,600
+1742101000006116,Telephone consultation for suspected influenza A virus subtype H1N1,520141000000108,200
+389881000006117,"[X]Influenza+oth respiratory manifestatns,virus not identifd",6142004,60
+1161531000000115,Advice given about swine flu by telephone,520171000000102,60
+1792361000000119,Influenza A nucleic acid detection,1029881000000100,600
+1126431000000117,Influenza A virus H1N1 subtype not detected,711334003,400
+885271000006116,Pneumonia/influenza NOS,540151000000108,400
+301414016,Influenza with pneumonia NOS,195878008,200
+1583801000006114,Avian influenza risk exposure,1583801000006105,60
+301413010,"Influenza with pneumonia, influenza virus identified",195878008,100
+2175841000000116,Influenza B nucleic acid detection,1029911000000100,500
+2609031000000111,Influenza with pneumonia due to seasonal influenza virus,1033111000000104,40
+301424012,Influenza with other manifestations NOS,6142004,70
+2332711000000112,Influenza B nucleic acid detection assay,1029911000000100,20
+299932011,Acute myocarditis - influenzal,194946005,50
+123962018,Influenza with encephalopathy,74644004,70
+389891000006119,"[X]Influenza+other manifestations, virus not identified",6142004,30
+1988651000006113,Influenza with othr resp manifestation due to seasonal virus,1033091000000109,6
+1923621000006117,Avian influenza virus RNA (ribonucleic acid) detection assay,1010721000000107,100
+1143141000000112,Influenza A virus subtype H1N1 serology,1002251000000108,50
+387051000006110,"[X]Flu+oth respiratory manifestations,'flu virus identified",6142004,50
+11989891000006112,Adverse reaction to Influenza Myl,11989891000006108,10
+2332661000000116,Influenza A nucleic acid detection assay,1029881000000100,40
+1024921000006116,Adverse reaction to *Influenza & Common Cold,1024921000006100,1
+389901000006115,"[X]Influenza+other manifestations,influenza virus identified",6142004,40
+676841000000114,Influenza A virus subtype H2 present,440927002,6
+1988661000006110,Influenza with other manifestations due to seasonl inf virus,1033091000000109,10

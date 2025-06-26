@@ -1,0 +1,382 @@
+med_code_id,term,snomed_ct_concept_id,observations
+338608011,Smoking cessation advice,225323000,50820093
+108938018,Cigarette smoker,65568007,26360292
+818061000006111,Smoking cessation education,225323000,19937901
+503483019,Current smoker,77176002,16422310
+250373019,Stopped smoking,160617001,4873082
+700121000006118,Moderate cigarette smoker (10-19 cigs/day),160604004,3656630
+743331000006116,Light cigarette smoker (1-9 cigs/day),160603005,3051417
+250372012,Trying to give up smoking,160616005,2605578
+102921000006112,Tobacco smoking consumption,266918002,2350991
+128130017,Smoker,77176002,2334640
+250375014,Rolls own cigarettes,160619003,1607033
+81933100000611,Heavy cigarette smoker (20-39 cigs/day),160605003,1593037
+5999811000006115,Smoking monitoring invitation,310429001,1527500
+1780273014,Seen by smoking cessation advisor,401068004,1392553
+1489355012,Referral to smoking cessation advisor,395700008,1343427
+148857801,Not interested in stopping smoking,394873005,1284283
+1176421000000118,Smoking cessation advice declined,527151000000107,1256461
+344793011,Cigarette consumption,230056004,1137087
+459722017,Referral to stop-smoking clinic,315232003,1060897
+457286014,Nicotine replacement therapy,313396002,1027819
+1488576014,Thinking about stopping smoking,394871007,946542
+936011000006114,Advice on effects of smoking on health,225324006,775378
+137811000006119,Smoking Status,137811000006103,747931
+88471000006112,Trivial cigarette smoker (less than one cigarette/day),266920004,708865
+2265711000000117,Electronic cigarette user,722499006,641707
+6282331000006114,Tobacco smoking behaviour - finding,365981007,626795
+1175011000000112,Smoking cessation programme declined,1087441000000106,564921
+1488577017,Ready to stop smoking,394872000,558675
+1780396011,Cigarette pack-years,401201003,555387
+148493301,Negotiated date for cessation of smoking,390901002,514365
+99639019,Cigar smoker,59978006,454174
+498831000006118,Attends stop smoking monitoring,185789006,445227
+2251871000000112,Referral to smoking cessation service declined,871641000000105,401258
+1709641000000115,Referral for smoking cessation service offered,767641000000109,368299
+2141561000000115,Smoking cessation drug therapy declined,822591000000108,350727
+1773560017,Smoking cessation programme start date,401160008,322967
+1125741000000111,Brief intervention for smoking cessation,506491000000102,291137
+856371000006111,Smoking clinic,856371000006107,286707
+136515019,Pipe smoker,82302008,273222
+492511000000117,Smoking cessation therapy,710081004,260849
+128381000006117,Stop smoking monitoring check done,185799001,254916
+1484932017,Smoking cessation milestones,390900001,232535
+397733018,Occasional smoker,428041000124106,216432
+21681000000118,Anti-smoking monitoring admin.,714001000000108,210645
+1662951000000113,Declined consent for follow-up by smoking cessation team,755741000000100,209584
+62881000000117,DNA - Did not attend smoking cessation clinic,25261000000107,206081
+1152111000000118,Current smoker annual review,505651000000103,201693
+137771000006119,Smoking Age Started,137771000006103,198173
+1484934016,Smoking status at 4 weeks,390902009,191242
+148887301,Smoking free weeks,395177003,164115
+482791000000119,Nicotine replacement therapy using nicotine patch,790121000000107,162576
+128311000006112,Stop smoking monitoring first letter,185792005,162213
+1750931000000118,Stop smoking service opportunity signposted,783011000000105,161235
+2669652019,Smoking started,266929003,151091
+1715591000006117,Referral to National Health Service stop smoking service,505281000000106,145143
+2251911000000114,Referral to smoking cessation service,871661000000106,139443
+482771000000118,Smoking cessation drug therapy,713700008,139124
+2474719011,Minutes from waking to first tobacco consumption,413173009,129400
+21691000000116,Anti-smoking monitoring administration,714001000000108,126327
+67621000006112,Very heavy cigarette smoker (40+ cigs/day),160606002,123277
+1484937011,Nicotine replacement therapy provided free,390905006,110810
+904181000006118,Smoking cessation counselling,904181000006102,109327
+128371000006115,Stop smoking monitoring verbal invite,185795007,107230
+250368013,Keeps trying to stop smoking,160612007,95133
+1626100000011,Stop smoking monitoring administration,714001000000108,93051
+26509201,Pregnancy smoking advice,171055003,90983
+102951000006115,Tobacco dependence,89765005,84489
+904011000006114,Smoking cessation declaration signed by patient,904011000006105,84028
+250387019,Tobacco consumption NOS,266918002,81783
+852131000006112,Smoking cessation-practice nurse support,852131000006108,78619
+2717211000000112,Signposting to smoking cessation service,1084381000000100,77556
+159261100000011,Failed attempt to stop smoking,446172000,76095
+16581000006111,Other smoking information,16581000006107,75579
+285792013,Monitoring of smoking cessation therapy refused,765001003,74640
+736241000000116,Smoking cessation enhanced services administration,374361000000100,69806
+1662911000000114,Consent given for follow-up by smoking cessation team,755721000000107,62077
+37311000006117,Other anti-smoking drug given,37311000006101,57845
+5979551000006114,Smoking monitoring status,308512009,55748
+216212011,Smoking reduced,134406006,51512
+344794017,Cigar consumption,230057008,51029
+1484935015,Smoking status between 4 and 52 weeks,390903004,50436
+1651711000000113,Consent given for smoking cessation data sharing,750851000000104,48706
+459524018,Over the counter nicotine replacement therapy,315055008,47801
+482831000000114,Nicotine replacement therapy using nicotine inhalator,280811000000104,45665
+25281000000119,Stop smoking clinic administration,714021000000104,45649
+4939261000006116,Smoking effects education,225324006,45556
+482871000000111,Other specified smoking cessation therapy,710081004,42901
+1151791000000117,Recently stopped smoking,517211000000106,37872
+668811000000117,Mother does not smoke,438618001,34733
+13499671000006118,Brief intervention for smoking cessation,771155005,34720
+1563081000000115,Practice based smoking cessation programme start date,712971000000108,33813
+904091000006116,Date of last cigarette,904091000006100,33690
+90405100000611,Carbon monoxide validation of smoking status,904051000006106,29239
+904151000006114,Smoking cessation 4 week F/U completed,904151000006105,29167
+489931000000114,Smoking cessation therapy NOS,710081004,26077
+12836100000611,Stop smoking monitoring telephone invite,185796008,24651
+1780360012,Reason for restarting smoking,401159003,24526
+2670126018,Smoking restarted,308438006,23804
+8063181000006116,Wants to stop smoking,203191000000107,23339
+904121000006117,Carbon monoxide validation confirms smoker,904121000006101,21810
+90422100000611,Smoking cessation bupropion therapy,904221000006106,20534
+1123541000000118,Stop smoking face to face follow-up,505581000000108,19977
+604961000006114,Current Smoker NOS,604961000006105,19249
+904191000006115,Smoking cessation motivation score,904191000006104,18641
+482811000000118,Nicotine replacement therapy using nicotine gum,280801000000101,18640
+909391000006117,[RFC] Smoking cessation,909391000006101,18356
+1925121000006113,Issue of nicotine replacement therapy voucher,784481000000108,17275
+904241000006115,Smoking cessation counselling in person,904241000006104,17125
+854021000006115,Cigarette smoker,854021000006104,16566
+342443012,Smokes drugs,228377000,16515
+459484017,Nicotine replacement therapy refused,315022003,16214
+1626121000006116,Smoking cessation drug therapy - varenicline,1626121000006100,16029
+482851000000119,Nicotine replacement therapy using nicotine lozenge,790131000000109,15809
+408878014,Fagerstrom Test for Nicotine Dependence total score,762991003,15601
+285793015,Stop smoking monitor default,185791003,15378
+1979491000006115,Smoking cessation follow-up,1979491000006104,15027
+852121000006114,Smoking cessation-maintain abstinence,852121000006105,14774
+904071000006117,Smoking cessation 4 week follow up,904071000006101,14260
+904231000006113,Smoking cessation counselling by telephone,904231000006109,13987
+128321000006116,Stop smoking monitoring second letter,185793000,13907
+137791000006118,Smoking restarted,308438006,13665
+1716141000000117,Lost to smoking cessation follow-up,768971000000109,13058
+498058100000611,Age at starting smoking,228488005,12818
+2159962015,Smoking review not indicated,408398007,12703
+13653481000006112,Nicotine-filled electronic cigarette user,785889008,12607
+7375991000006118,Smokes tobacco daily,449868002,12262
+137711000006111,Smoker (Read codes),137711000006107,12233
+11904991000006116,Occasional cigarette smoker,230059006,11727
+4939251000006118,Advice on smoking,225323000,11680
+2170961000000116,Waterpipe tobacco consumption,836001000000109,11577
+5003151000006116,Light cigarette smoker,230060001,11320
+78013015,Smokers' cough,46802002,10215
+8012751000006116,Did not attend smoking cessation clinic,25261000000107,10057
+1704491000006115,Smoking cessation enhanced services administration monitoring template completed,374391000000106,9618
+344795016,Pipe tobacco consumption,230058003,9448
+137421000006113,Smoke inhalation,426936004,9426
+923611000006113,Health ed. - smoking,923611000006109,8625
+832301000006117,Smoke inhalation,426936004,8465
+8221521000006111,Smoking cessation,720401000000103,7849
+904201000006117,Smoking cessation confidence score,904201000006101,7604
+5496021000006114,Tobacco smoking consumption unknown,266927001,7115
+5003161000006119,Moderate cigarette smoker,230062009,6500
+13619901000006115,Number of calculated smoking pack years,782516008,5844
+128331000006118,Stop smoking monitoring third letter,185794006,5442
+1484936019,Smoking status at 52 weeks,390904005,5271
+5003171000006114,Heavy cigarette smoker,230063004,5102
+1653781000000119,Declined consent for smoking cessation data sharing,751661000000106,5006
+150398019,Nicotine withdrawal,90755006,4917
+854981000006117,Grade C moderate smoker (11-20/day),854981000006101,4880
+854151000006111,Date stopped smoking,854151000006107,4838
+1708051000000119,Smoking status at 12 weeks,766931000000106,4407
+904141000006112,Smoking cessation 4 week F/U not completed,904141000006108,4058
+961581000006114,Smokes/uses tobacco products,961581000006105,4007
+1488870013,Nicotine replacement therapy contraindicated,395174005,3946
+85496100000611,Grade B light smoker (1-10/day),854961000006106,3938
+13494621000006118,Referral for brief intervention for smoking cessation,770729006,3789
+15055561000006119,Uses electronic cigarette daily,35341000087101,3784
+8061901000006111,Attends practice smoking cessation clinic,201931000000109,3783
+8153371000006117,Occasional tobacco smoker,428041000124106,3746
+250369017,Admitted tobacco consumption possibly untrue,160613002,3520
+854071000006119,Current smoker,854071000006103,3410
+4640171000006113,Pregnancy smoking education,171055003,3301
+2203381000000113,Smoking cessation 12 week follow-up,850331000000104,3095
+303501000000115,Smoking cessation advice provided by community pharmacist,200221000000105,2895
+460828018,Tobacco user,110483000,2757
+167635100000611,Nicotine replacement therapy using nicotine sublingual tablets,1676351000006106,2668
+4980561000006117,Time since stopped smoking,228486009,2607
+246243100000011,Varenicline smoking cessation therapy offered,966991000000104,2526
+8196151000006112,Smoking cessation leaflet given,521721000000109,2491
+342444018,Smokes drugs in cigarette form,228378005,2427
+2982426011,Provision of smoking cessation leaflet,699033005,2315
+1771191000006119,Attends smoking cessation clinic not at practice,201941000000100,2235
+904161000006111,Smoking cessation 52 week F/U completed,904161000006107,2195
+852111000006118,Gradual smoking reduction,852111000006102,2183
+855001000006114,Grade D heavy smoker (>20 Day),855001000006105,2004
+159165100000611,Smoking cessation referral declined,1591651000006106,2001
+1472605100000611,Nicotine replacement therapy,151159008,1898
+1694421000006112,Stop smoking monitoring admin.,714001000000108,1777
+1755201000006117,Consent given for follow-up evaluation after smoking cessation intervention,750821000000109,1688
+500319100000611,Chain smoker,230065006,1511
+1825081000006118,Smoking cessation 12 week F/U completed,1825081000006102,1440
+3959111000006111,Tobacco dependence syndrome,89765005,1355
+3419101000006116,Moderate smoker (20 or less per day),56578002,1293
+1979951000006115,Socio-economic classification code (stop smoking): Routine and manual occupation,1979951000006104,1219
+904081000006119,Smoking cessation 52 week follow up,904081000006103,1174
+1704571000006117,Chronic obstructive pulmonary disease structured smoking assessment declined,375911000000102,1151
+1979481000006118,Nicotine replacement therapy using nicotine mouth spray,1979481000006102,1132
+5979541000006112,Smoking monitoring call,308511002,1091
+13653501000006119,Vaper with nicotine,785889008,1083
+1741641000006117,Smoking cessation ESA monitoring template completed,374391000000106,1068
+1704561000006112,Referred for chronic obstructive pulmonary disease structured smoking assessment,375851000000108,1040
+295256013,"Tobacco dependence, unspecified",89765005,976
+137751000006112,Smoking Age,137751000006108,963
+1979571000006117,Socio-economic classification code (stop smoking): Retired,1979571000006101,931
+85411100000611,Past smoker,854111000006106,912
+3422221000006116,Heavy smoker (over 20 per day),56771006,876
+15055651000006115,Uses electronic cigarette occasionally,35371000087109,860
+329808012,Accident caused by cigarette,217580001,854
+342445017,Smokes drugs through a pipe,228379002,834
+12024761000006112,Monitoring of smoking cessation therapy declined,765001003,670
+6282351000006119,Smoking,365981007,660
+461114016,Counselling about tobacco use,711028002,651
+1979601000006112,Socio-economic classification code (stop smoking): Managerial/professional occupation,1979601000006108,569
+177818100000611,Group session: Stop smoking education programme,1778181000006106,549
+998861000006112,Nicotine replacement therapy provided by community pharmacist,200211000000104,539
+1777011000006118,Reason for referral: Smoking Cessation,1777011000006102,533
+14421941000006111,Trying to give up using electronic cigarette,1137691001,527
+295260011,Tobacco dependence NOS,89765005,498
+28580501,Stop smoking monitoring delete,185798009,480
+1833971000006116,Stop Smoking satisfaction questionnaire given,1833971000006100,430
+197961100000611,Socio-economic classification code (stop smoking): Intermediate occupation,1979611000006106,420
+171454100000611,Current smoker annual review - enhanced services admin,505651000000103,392
+8279661000006118,Provision of written information about smoking cessation,838131000000103,383
+1704581000006119,COPD structured smoking assessment declined,375911000000102,377
+1979591000006116,Socio-economic classification code (stop smoking): Sick or disabled and unable to work,1979591000006100,376
+15055601000006119,Daily vaper,35341000087101,373
+1755231000006113,Declined consent for follow-up evaluation after smoking cessation intervention,751101000000101,322
+1979621000006119,Socio-economic classification code (stop smoking): Unable to code,1979621000006103,320
+15166541000006114,"PLCOm2012 (Prostate, Lung, Colorectal, and Ovarian modified 2012) 6-year lung cancer risk calculator for smokers score",1792031000000106,305
+14658381000006111,Nicotine replacement therapy declined,315022003,296
+5003181000006112,Very heavy cigarette smoker,230064005,289
+7368961000006112,Stopped smoking during pregnancy,449368009,257
+983101000006113,Misuse of Nicotine,983101000006109,253
+4074571000006117,Cigarette smoke,102408007,218
+1899551000006112,Mother's smoking status at time of baby's birth - smoker,1899551000006108,212
+904171000006116,Smoking cessation 52 week F/U not completed,904171000006100,201
+15166561000006113,"Assessment using PLCOm2012 (Prostate, Lung, Colorectal, and Ovarian modified 2012) 6-year lung cancer risk calculator for smokers",1792041000000102,192
+6427931000006116,Smoking cessation assistance,384742004,174
+3544141000006118,Smoke,64197008,169
+12758711000006119,Electronic cigarette vaper,722499006,163
+397911000006114,[X]Mental and behavioural disorders due to use of tobacco: harmful use,724697004,163
+7368971000006117,Stopped smoking before pregnancy,449369001,158
+397981000006119,[X]Mental and behav dis due to use tobacco: dependence syndr,30310000,157
+295257016,"Tobacco dependence, continuous",191887008,146
+7832521000006115,Electronic cigarette,722498003,146
+1979471000006116,Nicotine replacement therapy using nicotine nasal spray,1979471000006100,142
+29595101,Nicotine-induced organic mental disorder,30310000,141
+1819411000006114,Smoking increased,1819411000006105,141
+1697731000006111,Nicotine replacement therapy not tolerated,1697731000006107,135
+295259018,Tobacco dependence in remission,191889006,128
+1825071000006116,Smoking cessation 12 week F/U not completed,1825071000006100,124
+170455100000611,Referred for COPD structured smoking assessment,375851000000108,118
+1746211000006111,Smoking status at 12 weeks,1746211000006107,115
+5495941000006114,Occasional smoker,266920004,112
+14933931000006118,Community Pharmacy Smoking Cessation Service,1659131000000104,108
+263604100000611,Cessation of smoking,8517006,106
+197955100000611,Socio-economic classification code (stop smoking): Full time student,1979551000006106,99
+324597019,Toxic effect of tobacco and nicotine,212899006,99
+7696001000006118,Patient request for smoking cessation information,712829007,93
+8056731000006119,Smoking assessment,196771000000101,86
+15055691000006114,Occasional vaper,35371000087109,80
+13655401000006119,Vaper without nicotine,786063001,75
+904211000006119,Smoking cessation service patient satisfaction score,904211000006103,74
+755959100000611,Tobacco use cessation education,702388001,72
+1974421000006116,"Mental and behav dis due to use tobacco: dependence syndr, continuous use",1974421000006100,71
+314292100000611,Tobacco,39953003,71
+852981000006111,Rolls own cigarettes,852981000006107,67
+263570019,Maternal tobacco abuse,169940006,64
+4074561000006112,Tobacco smoke,102407002,61
+103041000006112,Tobacco processors,159882006,59
+14616531000006112,Smoking,77176002,56
+4948531000006116,Smokes in bed,225934006,49
+5074201000006119,Smokers keratosis,235033006,48
+14421951000006113,Trying to give up vaping,1137691001,48
+498071100000611,Finding relating to moist tobacco use,228499007,48
+5495951000006111,Occasional cigarette smoker (less than one cigarette/day),266920004,46
+2462391000000119,Varenicline smoking cessation therapy declined,966971000000103,44
+295258014,"Tobacco dependence, episodic",191888003,35
+1449402100000611,Former smoker,8517006,34
+903981000006117,Not interested in stopping smoking,903981000006101,29
+12626191000006119,VBA (Very Brief Advice) on Smoking,1110791000000100,24
+197481100000611,"Mental & behav dis due to use tobacco: psychotic disorder, mixed",1974811000006106,22
+5550551000006111,FTND - Fagerstrom test for nicotine dependence,273453005,21
+4939241000006115,Advice on effects of smoking on health,225323000,20
+904001000006111,Ready to stop smoking,904001000006107,19
+189954100000611,Mother's smoking status at time of baby's birth,1899541000006106,19
+7859781000006116,Harmful pattern of use of nicotine,724697004,17
+1974401000006114,"Mental and behav dis due to use tobacco: dependence syndr, currently using the substance [active dependence]",1974401000006105,16
+1365349100000611,Nicotine-filled electronic cigarette vaper,785889008,16
+1873511000006118,Care contact service: Smoking/substance cessation/interven prog.,1873511000006102,15
+39727100000611,[X]Mental and behavioural disorders due to use of tobacco: other mental and behavioural disorders,30310000,14
+3430571000006116,Tobacco,57264008,13
+249037015,Tobacco processor,159882006,13
+39768100000611,[X]Mental and behavioural disorders due to use of tobacco: psychotic disorder,30310000,12
+4180331000006118,Tobacco use,110483000,11
+187943100000611,User of electronic cigarette,1879431000006106,10
+4980781000006115,User of moist powdered tobacco,228504007,10
+329807019,Accident caused by cigar,217579004,10
+397461000006119,[X]Mental and behavioural disorders due to use of tobacco: unspecified mental and behavioural disorder,30310000,9
+1179361100000611,Smoking cessation behaviour support,384742004,9
+1973821000006117,"Mental & behav dis due to use tobacco: acute intoxication, uncomplicated",1973821000006101,8
+783254100000611,e-cigarette,722498003,8
+7507181000006115,Hookah pipe smoker,698289004,7
+1809121000006113,Waterpipe tobacco consumption,1809121000006109,7
+1974871000006118,"Mental & behav dis due to tobacco: resid & late-onset psychot dis, personality or behaviour disorder",1974871000006102,7
+903051000006112,Tobacco Consumption Nil,160618006,7
+1442196100000611,Trying to give up using e-cigarette,1137691001,6
+3582451000006114,Cigarette smoking tobacco,66562002,6
+3615221000006116,Nicotine,68540007,6
+5553641000006116,Occasions for smoking scale,273657002,6
+4980741000006114,Moist tobacco consumption,228500003,6
+16588018,Tobacco deposit on teeth,9473008,6
+397991000006116,[X]Mental and behavioural disorders due to use of tobacco: withdrawal state,90755006,5
+5802191000006119,Nicotine allergy,293993005,5
+5827951000006117,Accidental nicotine overdose,296352003,5
+7832501000006113,Cigarette,722496004,5
+197446100000611,"Mental and behav dis due to use tobacco: dependence syndr, episodic use [dipsomania]",1974461000006106,5
+6047151000006118,Tobacco related optic neuropathy,314538009,5
+1823811000006115,Smoking cessation 12 week follow up,1823811000006104,5
+7681981000006118,Assessment of tobacco use,711013002,4
+12452041000006114,Refuses stop smoking monitor,185790002,4
+904031000006115,Thinking about stopping smoking,904031000006104,4
+14440501000006111,Advice about cessation of vaping,1148687006,4
+397971000006117,[X]Mental and behav dis due to use tobacco: amnesic syndrome,30310000,4
+5003141000006118,Trivial cigarette smoker,230059006,4
+6475771000006114,Nicotine inhaler,387690007,4
+316079016,Fetus and newborn affected by maternal use of tobacco,206154006,4
+197465100000611,"Mental & behav dis due to use tobacco: psychotic disorder, schizophrenia-like",1974651000006106,4
+6649431000006116,Smoking cessation program start date,401160008,4
+5244051000006117,Nicotine staining of finger,247439004,4
+175409100000011,Issue of nicotine replacement therapy voucher,784481000000108,3
+4835491000006116,Fetal or neonatal effect of maternal use of tobacco,206154006,3
+249038013,Tobacco processor NOS,159882006,3
+2741221000000116,Referral for brief intervention for smoking cessation,1094321000000100,3
+2737011000000111,Number of calculated smoking pack years,1092481000000104,3
+7832561000006114,e-cigarette user,722499006,3
+197450100000611,"Mental and behav dis due to use tobacco: withdrawal state, uncomplicated",1974501000006106,3
+1974281000006116,"Mental and behav dis due to use tobacco: dependence syndr, currently abstinent",1974281000006100,3
+7504551000006112,Smoking device,698101006,2
+7650811000006116,Assessment of readiness for smoking cessation,709507008,2
+5555231000006111,Reasons for smoking scale,273738001,2
+904041000006113,Waking time to first cigarette,904041000006109,2
+7967851000006114,Age at smoking cessation,1221000175102,2
+2651021000006113,Tobacco deposit on teeth,9473008,2
+397671000006112,[X]Mental and behavioural disorders due to use of tobacco: acute intoxication,30310000,2
+397281000006113,[X]Mental and behavioural disorders due to use of tobacco: withdrawal state with delirium,90755006,2
+1974761000006115,"Mental & behav dis due to use tobacco: psychotic disorder, predominantly depressive symptoms",1974761000006104,2
+1974341000006115,"Mental and behav dis due to use tobacco: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]",1974341000006104,2
+387464100000611,Pipe smoking tobacco,84498003,2
+1538681000006118,Smoke,1538681000006102,2
+933181000006113,Drug reaction: nicotine,292451006,2
+3946841000006114,Nicotine stomatitis,89013002,2
+4948541000006114,Hides lit cigarettes in pockets,225935007,2
+4980751000006111,Does not use moist powdered tobacco,228501004,2
+1505559100000611,Daily vape user,35341000087101,2
+15055681000006111,Occasional vape use,35371000087109,2
+7507191000006117,Water pipe smoker,698289004,2
+8190531000006112,Referral to NHS (National Health Service) stop smoking service,505281000000106,2
+5553301000006112,Motives for smoking scale,273632007,1
+3513814014,Electronic cigarette liquid containing nicotine,735240008,1
+14440511000006114,Education about cessation of vaping,1148687006,1
+676485100000611,Nicotine 4mg lozenge,408623002,1
+397181000006117,[X]Mental and behavioural disorders due to use of tobacco: residual and late-onset psychotic disorder,30310000,1
+3513803011,Electronic cigarette liquid,735238003,1
+11930861000006119,User of electronic cigarette,877941000000107,1
+103221000033113,Nicotine,68540007,1
+6282371000006112,Tobacco smoking consumption - finding,365982000,1
+3414821000006119,Nicotine dependence,56294008,1
+7832511000006111,Cigar,722497008,1
+1973851000006114,"Mental & behav dis due to use tobacco: acute intoxication, with other medical complications",1973851000006105,1
+197403100000611,"Mental & behav dis due to use tobacco: acute intoxication, with convulsions",1974031000006106,1
+1973981000006113,"Mental & behav dis due to use tobacco: acute intoxication, with coma",1973981000006109,1
+1973951000006117,"Mental & behav dis due to use tobacco: acute intoxication, with perceptual distortions",1973951000006101,1
+1973921000006114,"Mental & behav dis due to use tobacco: acute intoxication, with delirium",1973921000006105,1
+1979541000006113,Socio-economic classification code (stop smoking),1979541000006109,1
+1974841000006114,"Mental & behav dis due to tobacco: resid & late-onset psychot dis, flashbacks",1974841000006105,1
+1974791000006111,"Mental & behav dis due to use tobacco: psychotic disorder, predominantly manic symptoms",1974791000006107,1
+1974741000006119,"Mental & behav dis due to use tobacco: psychotic disorder, predominantly polymorphic",1974741000006103,1
+1974711000006118,"Mental & behav dis due to use tobacco: psychotic disorder, predominantly hallucinatory",1974711000006102,1
+197498100000611,"Mental & behav dis due to tobacco: resid & late-onset psychot dis, late-onset psychotic disorder",1974981000006106,1
+1974961000006117,"Mental & behav dis due to tobacco: resid & late-onset psychot dis, other persisting cognitive impairment",1974961000006101,1
+1974931000006114,"Mental & behav dis due to tobacco: resid & late-onset psychot dis, dementia",1974931000006105,1
+1974911000006115,"Mental & behav dis due to tobacco: resid & late-onset psychot dis, residual affective disorder",1974911000006104,1
+1974581000006118,"Mental & behav dis due to tobacco: withdrawl state wth delirium, with convulsions",1974581000006102,1
+1974571000006116,"Mental & behav dis due to tobacco: withdrawl state wth delirium, without convulsions",1974571000006100,1
+1974531000006119,"Mental and behav dis due to use tobacco: withdrawal state, with convulsions",1974531000006103,1
+1974371000006111,"Mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs",1974371000006107,1
+1974681000006119,"Mental & behav dis due to use tobacco: psychotic disorder, predominantly delusional",1974681000006103,1
+923201000006112,Pregnancy smoking advice,923201000006108,1
+855801000006116,Heart beat smoking grades,855801000006100,1
+12024741000006113,Monitoring of smoking cessation therapy,765000002,1

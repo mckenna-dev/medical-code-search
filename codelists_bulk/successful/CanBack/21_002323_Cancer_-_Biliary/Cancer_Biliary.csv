@@ -1,0 +1,22 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+497,Cancer,Biliary,a155305011,Malignant neoplasm of intrahepatic bile ducts,L1:Cancer_L2:Biliary,B151.00
+498,Cancer,Biliary,a288694017,Malignant neoplasm of interlobular bile ducts,L1:Cancer_L2:Biliary,B151000
+499,Cancer,Biliary,a2475562018,Malignant neoplasm of interlobular biliary canals,L1:Cancer_L2:Biliary,B151100
+500,Cancer,Biliary,a2619456011,Malignant neoplasm of intrahepatic biliary passages,L1:Cancer_L2:Biliary,B151200
+501,Cancer,Biliary,a288698019,Malignant neoplasm of intrahepatic gall duct,L1:Cancer_L2:Biliary,B151400
+502,Cancer,Biliary,a288699010,Malignant neoplasm of intrahepatic bile ducts NOS,L1:Cancer_L2:Biliary,B151z00
+503,Cancer,Biliary,a288702015,Malignant neoplasm of liver and intrahepatic bile ducts NOS,L1:Cancer_L2:Biliary,B15z.00
+504,Cancer,Biliary,a726201000006111,Malignant neoplasm of extrahepatic bile ducts,L1:Cancer_L2:Biliary,B161.00
+505,Cancer,Biliary,a155207017,Malignant neoplasm of cystic duct,L1:Cancer_L2:Biliary,B161000
+506,Cancer,Biliary,a288707014,Malignant neoplasm of hepatic duct,L1:Cancer_L2:Biliary,B161100
+507,Cancer,Biliary,a726361000006119,Malignant neoplasm of common bile duct,L1:Cancer_L2:Biliary,B161200
+508,Cancer,Biliary,a380139012,Carcinoma common bile duct,L1:Cancer_L2:Biliary,B161211
+509,Cancer,Biliary,a288711015,Malignant neoplasm of sphincter of Oddi,L1:Cancer_L2:Biliary,B161300
+510,Cancer,Biliary,a288712010,Malignant neoplasm of extrahepatic bile ducts NOS,L1:Cancer_L2:Biliary,B161z00
+511,Cancer,Biliary,a727911000006116,Malignant neoplasm of ampulla of Vater,L1:Cancer_L2:Biliary,B162.00
+512,Cancer,Biliary,a1219537012,"Malignant neoplasm, overlapping lesion of biliary tract",L1:Cancer_L2:Biliary,B163.00
+513,Cancer,Biliary,a305971000006113,[M]Biliary tract adenomas and adenocarcinomas,L1:Cancer_L2:Biliary,BB5D.11
+514,Cancer,Biliary,a306641000006116,Cholangiocarcinoma,L1:Cancer_L2:Biliary,BB5D100
+515,Cancer,Biliary,a305941000006117,Bile duct carcinoma,L1:Cancer_L2:Biliary,BB5D111
+516,Cancer,Biliary,a305951000006115,[M]Bile duct cystadenocarcinoma,L1:Cancer_L2:Biliary,BB5D300
+517,Cancer,Biliary,a1216826019,[M] Klatskin's tumour,L1:Cancer_L2:Biliary,BB5y200

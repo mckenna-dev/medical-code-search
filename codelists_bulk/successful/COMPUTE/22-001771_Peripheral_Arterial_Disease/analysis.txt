@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 53
+Columns: 6
+Column names: ['Description', 'SNOMED_CT_Concept_ID', 'Codelist_Name', 'Med_Code_Id', 'Observations', 'Term']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                                                                                                         Description SNOMED_CT_Concept_ID                                       Codelist_Name         Med_Code_Id  Observations
+0  Intermittent claudication of bilateral lower limbs due to atherosclerosis of nonbiological bypass graft (finding)   b16013431000119104  Peripheral arterial disease (PAD) diagnostic codes  a14180191000006115             2
+1                                                                                     Peripheral ischemia (disorder)           b233958001  Peripheral arterial disease (PAD) diagnostic codes          a350533013          8000
+2                                                                                     Peripheral ischemia (disorder)           b233958001  Peripheral arterial disease (PAD) diagnostic codes          a350535018         10000

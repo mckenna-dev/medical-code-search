@@ -1,0 +1,11 @@
+	MedCodeId	Term	Count
+1	114311000006111	Systolic arterial pressure	144414202
+232	1780182014	Standing systolic blood pressure	461455
+259	2159155011	Sitting systolic blood pressure	378935
+539	2159157015	Lying systolic blood pressure	67038
+977	125251000006114	Standing Systolic Bp	14032
+1020	1808041000006110	Systolic blood pressure - right arm	12707
+1027	1808011000006111	Systolic blood pressure - left arm	12352
+1078	11903371000006115	O/E - Systolic BP reading	10338
+2974	3676271000006117	Systolic blood pressure	465
+3558	5527191000006114	Systolic blood pressure	248

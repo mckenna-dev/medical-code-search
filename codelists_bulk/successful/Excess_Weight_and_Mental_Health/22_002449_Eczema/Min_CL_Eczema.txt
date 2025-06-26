@@ -1,0 +1,288 @@
+	MedCodeId	Observations	Term	eczema
+0	a399917015	7000000	Eczema	eczema
+1	a497341000006116	5000000	Atopic dermatitis/eczema	eczema
+2	a150503015	1000000	Infantile eczema	eczema
+3	a84230010	1000000	Seborrhoeic dermatitis	eczema
+4	a489882019	600000	Varicose eczema	eczema
+5	a63652013	500000	Contact dermatitis	eczema
+6	a251783011	500000	H/O: eczema	eczema
+7	a1779345010	500000	Infected eczema	eczema
+8	a94953018	300000	Flexural eczema	eczema
+9	a411635018	200000	Varicose veins of the leg with eczema	eczema
+10	a308485016	200000	Atopic dermatitis	eczema
+11	a357504010	200000	Hand eczema	eczema
+12	a84231014	200000	Seborrhoeic eczema	eczema
+13	a399912014	200000	Contact dermatitis and other eczemas	eczema
+14	a889171000006113	200000	Dermatitis/eczemas	eczema
+15	a220911000000115	200000	Seborrhoeic dermatitis of scalp	eczema
+16	a889151000006115	100000	Dermatitis/eczemas NOS	eczema
+17	a591221000006115	100000	Contact dermatitis NOS	eczema
+18	a614361000006113	100000	Dermatitis/dermatoses	eczema
+19	a622951000006114	100000	Discoid eczema	eczema
+20	a622961000006111	100000	Discoid eczema	eczema
+21	a308497015	100000	Atopic dermatitis NOS	eczema
+22	a889161000006118	80000	Atopic eczema/dermatitis	eczema
+23	a309315018	70000	[X]Dermatitis and eczema	eczema
+24	a477121000006119	70000	Allergic (intrinsic) eczema	eczema
+25	a740221000006117	70000	Dermatitis	eczema
+26	a492621013	50000	Infectious eczematoid dermatitis	eczema
+27	a357566010	50000	Allergic contact dermatitis	eczema
+28	a636491000006112	50000	Dermatitis of eyelid	eczema
+29	a1788053014	40000	Acute eczematoid otitis extern	eczema
+30	a674301000006118	40000	Eczema of nipple	eczema
+31	a512310013	30000	Eczema of external ear	eczema
+32	a1775284012	30000	Irritant contact dermatitis	eczema
+33	a1494721011	30000	Contact eczema	eczema
+34	a308624013	30000	Contact dermatitis NOS	eczema
+35	a674911000006116	20000	Contact dermatitis due to nickel	eczema
+36	a20373018	20000	Contact dermatitis due to solar radiation	eczema
+37	a633041000006119	20000	Vesicular eczema of hands and/or feet	eczema
+38	a308492014	20000	Infantile seborrhoeic dermatitis	eczema
+39	a399916012	20000	Allergic contact dermatitis due to metal	eczema
+40	a889131000006110	20000	Seborrhoeic dermatitis/eczema	eczema
+41	a889191000006114	20000	Atopic eczema/dermatitis NOS	eczema
+42	a980491000006115	20000	Exacerbation of eczema	eczema
+43	a50967012	20000	Contact dermatitis due to detergents	eczema
+44	a884781000006111	20000	Varicose eczema - leg	eczema
+45	a545831000006111	20000	Vesicular hand eczema	eczema
+46	a308527013	10000	Contact dermatitis caused by chemical	eczema
+47	a286729018	10000	Eczema herpeticum - Kaposi's varicelliform eruption	eczema
+48	a889201000006112	10000	Contact dermatitis/eczema	eczema
+49	a585903012	10000	Asteatotic eczema	eczema
+50	a399476014	10000	Contact or allergic eyelid dermatitis	eczema
+51	a1779279014	10000	Erythrodermic eczema	eczema
+52	a300723011	10000	Varicose veins of the leg with ulcer and eczema	eczema
+53	a195021000006118	10000	Pustular eczema	eczema
+54	a219361000000115	9000	Contact eczema - eyelids	eczema
+55	a192189011	9000	Pustular eczema	eczema
+56	a223901000000111	8000	Contact dermatitis of eyelid	eczema
+57	a135069015	6000	Nummular dermatitis	eczema
+58	a737371000006110	6000	Infantile seborrhoeic dermatitis capitis	eczema
+59	a486191017	5000	Gravitational eczema	eczema
+60	a889121000006112	5000	Seborrhoeic dermat/eczema NOS	eczema
+61	a676461000006118	5000	Atopic neurodermatitis	eczema
+62	a128743013	5000	Contact dermatitis due to adhesive plaster	eczema
+63	a399913016	5000	Contact dermatitis due to oils and greases	eczema
+64	a552351000006115	5000	Chondrodermatitis nodularis helicis	eczema
+65	a308552010	4000	Contact dermatitis due to plants	eczema
+66	a590701000006112	3000	Contact dermatitis due to drugs AND/OR medicine	eczema
+67	a2884301000006116	3000	Atopic eczema	eczema
+68	a755361000006114	3000	Juvenile plantar dermatitis	eczema
+69	a6661161000006111	3000	Flexural atopic dermatitis	eczema
+70	a6859231000006111	3000	Infective eczematoid dermatitis	eczema
+71	a889241000006114	3000	Contact dermatitis: sun	eczema
+72	a1781705012	2000	Occupational allergic contact dermatitis	eczema
+73	a4742271000006114	2000	Eczema herpeticum	eczema
+74	a3823951000006115	2000	Nummular eczema	eczema
+75	a889251000006111	2000	Chronic Eczema	eczema
+76	a308562015	2000	Unspecified contact dermatitis due to solar radiation	eczema
+77	a308576019	2000	Allergic contact dermatitis due to cosmetics	eczema
+78	a308578018	2000	Allergic contact dermatitis due to dyes	eczema
+79	a591151000006116	2000	Contact dermatitis due to scabicide	eczema
+80	a308539017	2000	Contact dermatitis: other chemicals NOS	eczema
+81	a889221000006119	2000	Contact dermatitis: chemicals	eczema
+82	a38664014	2000	Contact dermatitis due to solvents	eczema
+83	a77108018	1000	Contact dermatitis due to rubber	eczema
+84	a122961018	1000	Contagious pustular dermatitis	eczema
+85	a130689015	1000	Contact dermatitis due to cosmetics	eczema
+86	a308579014	1000	Allergic contact dermatitis due to other chemical products	eczema
+87	a308587010	1000	Irritant contact dermatitis caused by chemical	eczema
+88	a905661000006119	900	[RFC] Eczema	eczema
+89	a308526016	900	Contact dermatitis due to medicament NOS	eczema
+90	a309316017	900	[X]Other seborrhoeic dermatitis	eczema
+91	a357562012	900	Lanolin contact dermatitis	eczema
+92	a308575015	900	Allergic contact dermatitis due to adhesives	eczema
+93	a309319012	800	[X]Allergic contact dermatitis due to other agents	eczema
+94	a4062611000006113	800	Eczematous otitis externa	eczema
+95	a4510851000006113	700	Dry eczema	eczema
+96	a4354911000006119	700	Lichenified eczema	eczema
+97	a308585019	700	Irritant contact dermatitis due to cosmetics	eczema
+98	a590711000006110	600	Contact dermatitis due to dye	eczema
+99	a6663041000006112	600	Irritant contact dermatitis due to incontinence	eczema
+100	a308609016	600	Contact dermatitis due to furs	eczema
+101	a308623019	600	Contact dermatitis: specified agent NOS	eczema
+102	a308495011	600	Infantile seborrhoeic dermatitis NOS	eczema
+103	a6289461000006116	500	Venous eczema	eczema
+104	a889231000006116	500	Contact dermatitis:food/plants	eczema
+105	a357563019	500	Perfume contact dermatitis	eczema
+106	a506552014	500	Contact dermatitis due to jewellery	eczema
+107	a906691000006119	500	[RFC] Varicose eczema	eczema
+108	a939531000006118	500	[RFC] Varicose eczema	eczema
+109	a308581011	500	"Allergic contact dermatitis due to plants, except food"	eczema
+110	a362991000006116	500	Allergic contact dermatitis caused by chemical	eczema
+111	a477331000006119	400	Allergic contact dermatitis due to drugs in contact with the skin	eczema
+112	a137914019	400	Contact dermatitis due to iodine	eczema
+113	a308619010	400	Contact dermatitis due to radiation	eczema
+114	a939541000006111	400	[RFC] Eczema	eczema
+115	a308602013	400	Contact dermatitis due to other specified agents	eczema
+116	a4062591000006119	400	Eczema of external auditory canal	eczema
+117	a2632961000000119	300	Patient-Oriented Eczema Measure score	eczema
+118	a590781000006115	300	Contact dermatitis due to fungicide	eczema
+119	a309323016	300	[X]Unspecified contact dermatitis due to other agents	eczema
+120	a309321019	300	[X]Irritant contact dermatitis due to other agents	eczema
+121	a5886801000006117	300	Eczema of face	eczema
+122	a5986641000006111	200	Eczema of leg	eczema
+123	a5122851000006117	200	Atopic dermatitis of hands	eczema
+124	a477371000006116	200	Allergic contact dermatitis due to food in contact with the skin	eczema
+125	a5123791000006111	200	Desiccation eczema	eczema
+126	a394521000006117	200	[X]Irritant contact dermatitis due to oth chemical products	eczema
+127	a112091013	200	Contact dermatitis due to food in contact with skin	eczema
+128	a308560011	200	Contact dermatitis due to plants NOS	eczema
+129	a71306016	200	Contact dermatitis due to dichromate	eczema
+130	a53389017	200	Contact dermatitis due to plastic	eczema
+131	a308554011	200	Contact dermatitis due to poison-ivy	eczema
+132	a308515010	200	Contact dermatitis due to solvent NOS	eczema
+133	a2990471000006118	200	Contact dermatitis due to detergent	eczema
+134	a308618019	200	Contact dermatitis due to preservatives	eczema
+135	a3380601000006111	200	Acute eczematoid otitis externa	eczema
+136	a357561017	200	Egg contact dermatitis	eczema
+137	a889211000006110	100	Contact dermatitis : solvents	eczema
+138	a31691015	100	Contact dermatitis due to fruit	eczema
+139	a14076941000006111	100	Facial eczema	eczema
+140	a308573010	100	Contact dermatitis due to solar radn NOS	eczema
+141	a590901000006110	100	"Contact dermatitis due to light, except sun"	eczema
+142	a308533016	100	Contact dermatitis due to caustics	eczema
+143	a591201000006113	100	Contact dermatitis due to ultra-violet rays (excluding sun)	eczema
+144	a4804971000006118	100	Allergic contact dermatitis due to dye	eczema
+145	a308589013	100	"Irritant contact dermatitis due to plants, except food"	eczema
+146	a1011221000006117	100	Adverse reaction to Psoriasis And Eczema	eczema
+147	a745631000006113	100	Irritant contact dermatitis due to drugs in contact with the skin	eczema
+148	a4804911000006110	90	Allergic contact dermatitis due to cosmetic	eczema
+149	a357559014	80	Oil contact dermatitis	eczema
+150	a81109013	80	Contact dermatitis due to hot weather	eczema
+151	a138508015	80	Contact dermatitis due to nylon	eczema
+152	a308532014	80	Contact dermatitis due to alkalis	eczema
+153	a98560010	80	Contact dermatitis due to cold weather	eczema
+154	a6667221000006118	70	Pompholyx eczema	eczema
+155	a5123531000006119	70	Saliva-induced contact dermatitis	eczema
+156	a54060018	70	Contact dermatitis due to neomycin	eczema
+157	a108236013	70	Contact dermatitis due to milk	eczema
+158	a6662341000006116	70	Foot eczema	eczema
+159	a5128851000006119	60	Seborrhoeic eczema-like eruption	eczema
+160	a2050012	60	Contact dermatitis due to primrose	eczema
+161	a115978018	50	Contact dermatitis due to X-rays	eczema
+162	a2616141000006116	50	Generalised seborrhoeic dermatitis of infants	eczema
+163	a5122831000006112	50	Constitutional eczema	eczema
+164	a308519016	50	Contact dermatitis due to keratolytics	eczema
+165	a399914010	50	Contact dermatitis due to food NOS	eczema
+166	a89646013	50	Contact dermatitis due to ragweed	eczema
+167	a60975016	50	Contact dermatitis due to fish	eczema
+168	a6667251000006110	50	Dyshidrotic eczema	eczema
+169	a93035017	50	Contact dermatitis due to flour	eczema
+170	a5989171000006115	50	Chronic lichenified atopic dermatitis	eczema
+171	a430281000006110	50	[X]Unspcfd contact dermatitis due to other chemical products	eczema
+172	a745641000006115	50	Irritant contact dermatitis due to food in contact with the skin	eczema
+173	a5123831000006116	40	Site-specific eczema	eczema
+174	a4515181000006116	40	Seborrhoeic eczema of scalp	eczema
+175	a4804941000006114	40	Allergic contact dermatitis due to drug in contact with skin	eczema
+176	a5501981000006111	40	Contact dermatitis due to oil and grease	eczema
+177	a5123291000006118	40	Flexural seborrhoeic dermatitis	eczema
+178	a5123241000006110	40	Psoriasiform eczema	eczema
+179	a3071961000006117	40	Stasis eczema	eczema
+180	a100341000006117	40	Thrombocytopenic eczema with immunodeficiency	eczema
+181	a4804881000006110	40	Allergic contact dermatitis due to adhesive	eczema
+182	a308528015	40	Contact dermatitis due to acids	eczema
+183	a4805061000006113	30	Irritant contact dermatitis due to cosmetic	eczema
+184	a4805211000006115	30	Contact dermatitis due to fur	eczema
+185	a357558018	30	Grease contact dermatitis	eczema
+186	a3318721000006113	30	Seborrheic dermatitis	eczema
+187	a1036751000006115	30	Adverse reaction to Eumovate Eczema And Dermatitis	eczema
+188	a178428014	30	Contact dermatitis due to insecticide	eczema
+189	a7047201000006111	20	Acute irritant contact dermatitis	eczema
+190	a5122931000006119	20	Follicular atopic dermatitis	eczema
+191	a308513015	20	Contact dermatitis due to hydrocarbon	eczema
+192	a591021000006112	20	Contact dermatitis due to phenol	eczema
+193	a5123881000006115	20	Psoriasis-eczema overlap condition	eczema
+194	a6662991000006114	20	Irritant contact dermatitis due to contact with urine and/or faeces	eczema
+195	a6029061000006110	20	Varicose veins of leg in long saphenous vein distribution with eczema	eczema
+196	a591011000006116	20	Contact dermatitis due to pediculicide	eczema
+197	a1577061000006119	20	Eczema/Dermatitis	eczema
+198	a121124014	20	Contact dermatitis due to meat	eczema
+199	a14197541000006116	20	Contact dermatitis caused by saliva	eczema
+200	a590931000006119	20	Contact dermatitis due to mercurial	eczema
+201	a6568231000006114	20	Acute eczema	eczema
+202	a308509010	20	Contact dermatitis due to chlorocompound	eczema
+203	a308622012	20	Contact dermatitis due to casting materials	eczema
+204	a6667341000006118	20	Discoid eczema of hand	eczema
+205	a308511018	20	Contact dermatitis due to ester	eczema
+206	a5575541000006118	10	Varicose eczema leg	eczema
+207	a67908018	10	Contact dermatitis due to arnica	eczema
+208	a590831000006112	10	Contact dermatitis due to infra-red rays	eczema
+209	a4805091000006117	10	Irritant contact dermatitis due to drug in contact with skin	eczema
+210	a6634251000006113	10	Infective eczema	eczema
+211	a4806791000006114	10	Eczema craquele	eczema
+212	a3212961000006113	10	Chronic eczema	eczema
+213	a4807401000006110	10	Vesicular eczema of feet	eczema
+214	a3201111000006116	10	Facial eczema	eczema
+215	a5123891000006117	10	Eczematised psoriasis	eczema
+216	a1008901000006113	10	Eczema/Dermatitis	eczema
+217	a6662381000006110	10	Vulval eczema	eczema
+218	a308510017	10	Contact dermatitis due to cyclohexane	eczema
+219	a950591000006112	10	Dermatitis/eczema	eczema
+220	a5123131000006111	10	Hyperkeratotic eczema of palms	eczema
+221	a5122911000006113	9	Erythrodermic atopic dermatitis	eczema
+222	a2884321000006114	9	Allergic dermatitis	eczema
+223	a5123021000006112	9	Constitutional eczema of hands and feet	eczema
+224	a5122841000006119	8	Endogenous eczema	eczema
+225	a4742251000006116	8	Herpes zoster dermatitis of eyelids	eczema
+226	a9309971000006118	8	Allergic contact dermatitis caused by plant	eczema
+227	a5123221000006115	7	Hyperkeratotic eczema of soles	eczema
+228	a5886821000006110	7	Eczema of wrist	eczema
+229	a308555012	6	Contact dermatitis due to poison-oak	eczema
+230	a14197561000006117	6	Psoriasis with eczema	eczema
+231	a4805261000006117	6	Contact dermatitis due to ultraviolet rays (excluding sunlight)	eczema
+232	a590631000006113	6	Contact dermatitis due to cereal	eczema
+233	a4804661000006118	5	Contact dermatitis due to poison ivy	eczema
+234	a14055391000006113	5	Infantile seborrhoeic dermatitis	eczema
+235	a14196991000006118	5	Contact dermatitis caused by urushiol from Eastern poison ivy	eczema
+236	a5128831000006114	5	Eczematous drug eruption	eczema
+237	a308512013	5	Contact dermatitis due to glycol	eczema
+238	a2884341000006119	5	AD - Atopic dermatitis	eczema
+239	a108646019	5	Contact dermatitis due to lacquer tree	eczema
+240	a5123061000006118	5	Hyperkeratotic eczema of palms and soles	eczema
+241	a5123661000006112	5	Disseminated secondary eczema	eczema
+242	a5122031000006118	5	Friction eczema	eczema
+243	a7782121000006116	5	POEM (Patient-Oriented Eczema Measure) score	eczema
+244	a4804471000006110	5	Contact dermatitis due to keratolytic	eczema
+245	a14197521000006111	4	Allergic contact dermatitis caused by nickel from implant	eczema
+246	a3374711000006117	4	Contact dermatitis caused by ragweed	eczema
+247	a6667181000006110	4	Hand and/or foot eczema	eczema
+248	a6663461000006119	4	Generalised eczema	eczema
+249	a4354891000006116	4	Excoriated eczema	eczema
+250	a5123051000006115	4	Hyperkeratotic eczema of hands and feet	eczema
+251	a6667231000006115	3	Vesicular eczema of hands and feet	eczema
+252	a5647451000006115	3	Unclassifiable eczema	eczema
+253	a3637383010	3	Allergic contact dermatitis caused by rubber compound	eczema
+254	a2675101000006116	3	Acute infantile eczema	eczema
+255	a3084431000006111	3	Eyelid eczema	eczema
+256	a4742371000006117	3	Herpes simplex dermatitis of eyelid	eczema
+257	a5122871000006110	3	Inverse pattern atopic dermatitis	eczema
+258	a3148031000006112	3	Contact eczema	eczema
+259	a5123001000006119	3	Photoaggravated atopic dermatitis	eczema
+260	a6662321000006111	2	Chronic hand eczema	eczema
+261	a6661441000006119	2	Adult atopic eczema	eczema
+262	a6029071000006115	2	Varicose veins of leg in short saphenous vein distribution with eczema	eczema
+263	a2884311000006118	2	Allergic eczema	eczema
+264	a591081000006111	2	Contact dermatitis due to poison sumac	eczema
+265	a6662581000006119	2	Allergic contact dermatitis of eyelid	eczema
+266	a6661221000006110	2	Generalised atopic eczema	eczema
+267	a6661301000006113	2	Atopic dermatitis of scalp	eczema
+268	a7997831000006117	2	Eczema of scalp	eczema
+269	a6661401000006116	2	Infantile atopic eczema	eczema
+270	a4354881000006119	2	Crusted eczematous dermatitis	eczema
+271	a5359991000006115	2	Eczematised	eczema
+272	a308514014	2	Contact dermatitis due to ketone	eczema
+273	a5122971000006116	2	Photosensitive atopic dermatitis	eczema
+274	a5123081000006111	2	Discoid eczema of hands and feet	eczema
+275	a5123121000006113	2	Hyperkeratotic fissured hand eczema	eczema
+276	a5122881000006113	2	Discoid atopic dermatitis	eczema
+277	a5123251000006112	2	Truncal seborrhoeic dermatitis	eczema
+278	a3148021000006114	2	CD - Contact dermatitis	eczema
+279	a5123451000006113	2	ACD - Allergic contact dermatitis	eczema
+280	a5123511000006113	2	Chronic irritant contact dermatitis	eczema
+281	a4935751000006110	2	Occupational eczema	eczema
+282	a3318751000006116	2	SBD - Seborrhoeic dermatitis	eczema
+283	a4515171000006119	2	Seborrheic dermatitis of scalp	eczema
+284	a5122941000006112	2	Follicular atopic eczema	eczema
+285	a5123731000006112	2	Papular eczema	eczema
+286	a13873471000006119	2	Allergic contact dermatitis caused by plant material	eczema

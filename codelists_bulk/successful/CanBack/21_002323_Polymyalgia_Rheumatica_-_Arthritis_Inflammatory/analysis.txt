@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 8
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order         Flag_classifyL1         Flag_classifyL2          MedCodeID                                      Term
+0    142  Arthritis_inflammatory  Polymyalgia_rheumatica         a108529013                    Polymyalgia rheumatica
+1    143  Arthritis_inflammatory  Polymyalgia_rheumatica         a158050019                               Polymyalgia
+2    144  Arthritis_inflammatory  Polymyalgia_rheumatica  a1822561000006113  Keele polymyalgia rheumatica (PMR) study

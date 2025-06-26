@@ -1,0 +1,90 @@
+MedCodeId	Observations	Term	GORD
+a252560012	4000000	Dyspepsia	GORD
+a353143016	2000000	Gastro-oesophageal reflux	GORD
+a396340013	1000000	Reflux oesophagitis	GORD
+a452891000006114	700000	Acid reflux	GORD
+a444916014	300000	Barrett's oesophagus	GORD
+a339001014	300000	Gastric reflux	GORD
+a372246012	300000	Oesophageal reflux	GORD
+a5082441000006116	200000	Gastrooesophageal reflux disease	GORD
+a353140018	200000	Acid reflux	GORD
+a1743031000006119	100000	Barrett's oesophagus	GORD
+a266601000006112	100000	Gastro-oesophageal reflux disease without oesophagitis	GORD
+a886051000006110	90000	"Dyspepsia, indigestion NOS"	GORD
+a2532987010	90000	Laryngopharyngeal reflux	GORD
+a799341000006115	80000	Gastro-oesophageal reflux with oesophagitis	GORD
+a372268019	80000	Flatulent dyspepsia	GORD
+a198466017	40000	Gastro-oesophageal reflux disease with oesophagitis	GORD
+a311291000000114	30000	Undiagnosed dyspepsia	GORD
+a302387019	10000	Barrett's ulcer of oesophagus	GORD
+a303321000000115	10000	Reflux cough	GORD
+a396339011	10000	Oesophageal reflux with oesophagitis	GORD
+a512001000006114	6000	Biliary reflux	GORD
+a1228729011	5000	Non-ulcer dyspepsia	GORD
+a511831000006115	4000	Alkaline reflux gastritis	GORD
+a406291000000114	700	Referral to dyspepsia specialist nurse	GORD
+a2557701000006116	600	Nonulcer dyspepsia	GORD
+a5272471000006114	300	Oesophageal reflux finding	GORD
+a5222591000006110	200	Gastro-oesophageal reflux disease with ulceration	GORD
+a5082501000006117	200	Gastro-oesophageal reflux disease	GORD
+a5082451000006119	200	Gastroesophageal reflux disease	GORD
+a5913111000006112	100	Barrett esophagus	GORD
+a3686781000006118	100	Bile reflux gastritis	GORD
+a5913121000006116	90	Barretts esophagus	GORD
+a994351000006114	80	Endoscopy negative reflux disease	GORD
+a5873261000006116	70	Drug-induced dyspepsia	GORD
+a5082461000006117	70	Gastro-esophageal reflux	GORD
+a5082521000006110	60	GORD - Gastro-oesophageal reflux disease	GORD
+a5082591000006112	60	Barrett's oesophagus with oesophagitis	GORD
+a2548704017	30	Under care of dyspepsia specialist nurse	GORD
+a2549912010	30	Discharged from care of dyspepsia specialist nurse	GORD
+a5877581000006117	20	Minimal gastric reflux	GORD
+a5877571000006115	20	Moderate gastric reflux	GORD
+a5877561000006110	20	Excessive gastric reflux	GORD
+a5082541000006115	20	GERD - Gastro-esophageal reflux disease	GORD
+a5082481000006110	20	Gastro-esophageal reflux disease	GORD
+a5082471000006112	20	GORD - Gastro-esophageal reflux disease	GORD
+a9351341000006115	20	Gastroesophageal reflux in child	GORD
+a3433331000006119	10	Reflux gastritis	GORD
+a5913011000006113	10	Barrett's esophagus	GORD
+a5913051000006114	10	BO - Barrett's oesophagus	GORD
+a2514701000006119	10	Alkaline reflux disease	GORD
+a2758911000006117	10	Burning reflux	GORD
+a7763341000006118	10	Non-erosive gastro-esophageal reflux disease	GORD
+a5082531000006113	8	GOR - Gastro-oesophageal reflux	GORD
+a9351331000006113	7	Gastrooesophageal reflux in child	GORD
+a5492761000006118	4	Reflux esophagitis	GORD
+a9848561000006115	4	Neonatal gastroesophageal reflux	GORD
+a5913001000006110	4	Barrett's syndrome	GORD
+a8459151000006113	4	Barretts oesophagus with low grade dysplasia	GORD
+a2557741000006119	4	Non ulcer dyspepsia	GORD
+a7763331000006111	3	Non-erosive gastro-oesophageal reflux disease	GORD
+a7820331000006114	3	Primary adenocarcinoma of lower third of oesophagus due to Barrett oesophagus	GORD
+a2655081000006114	3	Duodenogastric reflux	GORD
+a7650631000006111	2	Digestive system reflux	GORD
+a8459051000006114	2	Barretts oesophagus with dysplasia	GORD
+a8459161000006110	2	Barretts esophagus with low grade dysplasia	GORD
+a9848551000006117	2	Neonatal gastrooesophageal reflux	GORD
+a5082561000006116	2	Gastro-oesophageal reflux disease with stricture	GORD
+a5082491000006113	2	GOR - Gastro-esophageal reflux	GORD
+a5492861000006111	2	Gastro-esophageal reflux disease without esophagitis	GORD
+a5492881000006118	2	Gastroesophageal reflux disease without esophagitis	GORD
+a4784291000006111	2	Barrett's ulcer	GORD
+a5492821000006117	1	Gastroesophageal reflux disease with oesophagitis	GORD
+a5492781000006111	1	Gastro-esophageal reflux disease with esophagitis	GORD
+a7763361000006119	1	Erosive gastro-esophageal reflux disease	GORD
+a7763351000006116	1	Erosive gastro-oesophageal reflux disease	GORD
+a7763371000006114	1	"Ulcer of oesophagus due to gastro-oesophageal reflux disese, with complications"	GORD
+a6349071000006116	1	Gastro-oesophageal reflux disease with apnoea	GORD
+a6349571000006113	1	Hiatal hernia with gastroesophageal reflux disease	GORD
+a6349551000006115	1	Gastro-oesophageal reflux disease with hiatal hernia	GORD
+a7078661000006110	1	Laryngitis due to gastroesophageal reflux	GORD
+a6349581000006111	1	Gastroesophageal reflux disease with hiatal hernia	GORD
+a6349561000006118	1	Hiatal hernia with gastro-oesophageal reflux disease	GORD
+a6349081000006118	1	Gastroesophageal reflux disease with apnea	GORD
+a7078651000006113	1	Laryngitis due to gastro-oesophageal reflux	GORD
+a8459101000006114	1	Barretts oesophagus with high grade dysplasia	GORD
+a8459111000006112	1	Barretts esophagus with high grade dysplasia	GORD
+a4784301000006112	1	Barrett ulcer of esophagus	GORD
+a5082571000006111	1	Gastro-esophageal reflux disease with stricture	GORD
+a5272481000006112	1	Esophageal reflux	GORD

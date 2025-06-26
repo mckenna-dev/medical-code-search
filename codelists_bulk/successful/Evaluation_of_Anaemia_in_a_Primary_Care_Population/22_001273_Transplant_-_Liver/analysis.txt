@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 26
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tliver transplant']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                MedCodeId\tObservations\tTerm\tliver transplant
+0                  a30458014\t30000\tTransplantation of liver\tliver transplant
+1  a31211000006119\t3000\tOrthotopic transplantation of liver\tliver transplant
+2              a270234015\t1000\tTransplantation of liver NOS\tliver transplant

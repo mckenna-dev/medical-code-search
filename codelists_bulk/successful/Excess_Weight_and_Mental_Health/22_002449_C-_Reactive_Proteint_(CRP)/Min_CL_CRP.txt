@@ -1,0 +1,13 @@
+	MedCodeId	Observations	Term	CRP
+0	a216602012	20000000	Serum CRP (C reactive protein) level	CRP
+1	a109711000006113	700000	Test request : C-reactive Protein	CRP
+2	a530891000006119	40000	C-reactive protein normal	CRP
+3	a1576041000006115	30000	C-Reactive Protein	CRP
+4	a530881000006117	20000	C-reactive protein abnormal	CRP
+5	a3498021000006117	4000	CRP - C-reactive protein	CRP
+6	a3396901000006117	2000	C-reactive protein measurement	CRP
+7	a3396911000006119	900	CRP - C-reactive protein level	CRP
+8	a3498011000006113	800	C-reactive protein	CRP
+9	a1008881000006111	700	C-Reactive Protein	CRP
+10	a3396921000006110	700	C-reactive protein level	CRP
+11	a5518581000006111	40	Plasma C-reactive protein level	CRP

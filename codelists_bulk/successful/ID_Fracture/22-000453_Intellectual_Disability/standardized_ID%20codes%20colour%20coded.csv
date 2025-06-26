@@ -1,0 +1,239 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+60473,,,,18,0,0,0,Eu71z00,[X]Mod mental retardation without mention impairment behav,2009-02-01 00:00:00
+56577,,,,184,0,0,0,E31..00,Other specified mental retardation,2009-02-01 00:00:00
+42589,,,,88,0,0,0,Eu7z.00,[X]Unspecified mental retardation,2009-02-01 00:00:00
+51268,,,,315,0,0,0,Eu73.00,[X]Profound mental retardation,2009-02-01 00:00:00
+1787,,,,1441,20,0,0,E30..00,"Mild mental retardation, IQ in range 50-70",2009-02-01 00:00:00
+54179,,,,126,0,0,0,E31z.00,Other specified mental retardation NOS,2009-02-01 00:00:00
+6123,,,,3009,1,0,0,Eu71.00,[X]Moderate mental retardation,2009-02-01 00:00:00
+28962,,,,390,1,0,0,Eu7..00,[X]Mental retardation,2009-02-01 00:00:00
+42520,,,,6,0,0,0,Eu7yy00,"[X]Other mental retardation, other impairments of behaviour",2009-02-01 00:00:00
+37867,,,,538,4,0,0,E3z..00,Mental retardation NOS,2009-02-01 00:00:00
+50606,,,,31,0,0,0,Eu70z00,[X]Mild mental retardation without mention impairment behav,2009-02-01 00:00:00
+55560,,,,13,0,0,0,Eu72z00,[X]Sev mental retardation without mention impairment behav,2009-02-01 00:00:00
+63273,,,,4,0,0,0,Eu7yz00,[X]Other mental retardation without mention impairment behav,2009-02-01 00:00:00
+55848,,,,24,0,0,0,Eu72y00,"[X]Severe mental retardation, other impairments of behaviour",2009-02-01 00:00:00
+302,,,,693,8,0,0,E310.00,"Moderate mental retardation, IQ in range 35-49",2009-02-01 00:00:00
+71196,,,,8,0,0,0,Eu7y.00,[X]Other mental retardation,2009-02-01 00:00:00
+1362,,,,8219,179,3,0,E3...00,Mental retardation,2009-02-01 00:00:00
+34174,,,,97,2,0,0,Eu84112,[X]Mental retardation with autistic features,2009-02-01 00:00:00
+90276,,,,2,0,0,0,Eu73y00,"[X]Profound mental retardation, other impairments of behavr",2009-02-01 00:00:00
+4825,,,,1632,24,0,0,E311.00,"Severe mental retardation, IQ in range 20-34",2009-02-01 00:00:00
+57199,,,,49,0,0,0,E3y..00,Other specified mental retardation,2009-02-01 00:00:00
+45133,,,,105,2,0,0,E312.00,Profound mental retardation with IQ less than 20,2009-02-01 00:00:00
+36143,,,,2361,1,0,0,Eu72.00,[X]Severe mental retardation,2009-02-01 00:00:00
+60062,,,,2,0,0,0,Eu73z00,[X]Prfnd mental retardation without mention impairment behav,2009-02-01 00:00:00
+28740,,,,2777,3,0,0,Eu70.00,[X]Mild mental retardation,2009-02-01 00:00:00
+32820,,,,32,0,0,0,Eu7zz00,[X]Unsp mental retardation without mention impairment behav,2009-02-01 00:00:00
+39016,,,,31,0,0,0,Eu70y00,"[X]Mild mental retardation, other impairments of behaviour",2009-02-01 00:00:00
+98100,,,,2,0,0,0,Eu73100,[X]Profound ment retard sig impairmnt behav req attent/treat,2009-11-01 00:00:00
+46504,,,,56,1,0,0,Eu70000,[X]Mld mental retard with statement no or min impairm behav,2009-02-01 00:00:00
+42886,,,,9,0,0,0,Eu7z000,[X]Unsp mental retard with statement no or min impairm behav,2009-02-01 00:00:00
+52602,,,,19,1,0,0,Eu84400,[X]Overactive disorder assoc mental retard/stereotype movts,2009-02-01 00:00:00
+70008,,,,2,1,0,0,Eu7y000,[X]Oth mental retard with statement no or min impairm behav,2009-02-01 00:00:00
+54881,,,,17,1,0,0,Eu71100,[X]Mod mental retard sig impairment behav req attent/treatmt,2009-02-01 00:00:00
+66383,,,,11,0,0,0,Eu7zy00,"[X]Unspecified mental retardatn, other impairments of behav",2009-02-01 00:00:00
+30362,,,,125,6,0,0,R034y11,[D]Global retardation,2009-02-01 00:00:00
+50751,,,,25,0,0,0,Eu72100,[X]Sev mental retard sig impairment behav req attent/treatmt,2009-02-01 00:00:00
+60913,,,,10,1,0,0,Eu71000,[X]Mod mental retard with statement no or min impairm behav,2009-02-01 00:00:00
+39412,,,,23,0,0,0,Eu70100,[X]Mld mental retard sig impairment behav req attent/treatmt,2009-02-01 00:00:00
+50947,,,,3,0,0,0,Eu72000,[X]Sev mental retard with statement no or min impairm behav,2009-02-01 00:00:00
+59407,,,,7,0,0,0,Eu71y00,[X]Mod retard oth behav impair,2009-02-01 00:00:00
+66783,,,,2,0,0,0,Eu7z100,[X]Unsp mentl retard sig impairment behav req attent/treatmt,2009-02-01 00:00:00
+56547,,,,6,0,0,0,Eu7y100,[X]Oth mental retard sig impairment behav req attent/treatmt,2009-02-01 00:00:00
+40894,,,,36,441,0,0,ZL5B500,Referral to psychiatrist for mental handicap,2009-02-01 00:00:00
+38954,,,,299,0,0,0,ZL9D500,Seen by psychiatrist for mental handicap,2009-02-01 00:00:00
+97406,,,,6,0,0,0,ZLD2f00,Discharge by psychiatrist for mental handicap,2009-08-01 00:00:00
+32588,,,,30,1,0,0,ZL1B500,Under care of psychiatrist for mental handicap,2009-02-01 00:00:00
+4246,,,,4045,128,0,0,6664,Mental handicap problem,2009-02-01 00:00:00
+32924,,,,10,0,0,0,ZLE9400,Discharge from mental handicap psychiatry service,2009-02-01 00:00:00
+66203,,,,10,1,0,0,ZR3c.11,CASP - Communic assess profile adults with mental handicap,2009-02-01 00:00:00
+111041,,,,1,0,0,0,9bA0.00,Mental handicap (specialty),2016-07-01 00:00:00
+1680,,,,3003,31,0,0,E30..11,Educationally subnormal,2009-02-01 00:00:00
+71632,,,,10,0,0,0,E30..13,Moron,2009-02-01 00:00:00
+84154,,,,2,0,0,0,Eu70.11,[X]Feeble-mindedness,2009-02-01 00:00:00
+51954,,,,13,0,0,0,E30..12,Feeble-minded,2009-02-01 00:00:00
+1278,,,,168,5,0,0,E310.11,Imbecile,2009-02-01 00:00:00
+102234,,,,18,0,0,0,9HB7.11,Did not attend learning disabilities annual health check,2011-05-01 00:00:00
+106219,,,,6300,175,0,0,9mA..00,Learning disability annual health check invitation,2013-06-01 00:00:00
+43445,,,,9050,15,0,0,9HB2.00,Learning disabilities health action plan reviewed,2009-02-01 00:00:00
+43447,,,,1800,2,0,0,9HB0.00,Learning disabilities health action plan declined,2009-02-01 00:00:00
+100648,,,,400,0,0,0,Eu81700,[X]Profound learning disability,2010-09-01 00:00:00
+43436,,,,21836,66,0,0,9HB4.00,Learning disabilities health action plan completed,2009-02-01 00:00:00
+106276,,,,399,0,0,0,9mA2200,Learning disability annual health check invtation 3rd letter,2013-06-01 00:00:00
+18815,,,,1522,2966,0,0,8HHP.00,Referral to learning disability team,2009-02-01 00:00:00
+19445,,,,1620,107,0,0,9HB..00,Learning disabilities administration status,2009-02-01 00:00:00
+32952,,,,25277,144,0,0,9HB5.00,Learning disabilities annual health assessment,2009-02-01 00:00:00
+32511,,,,8808,18,0,0,9HB3.00,Learning disabilities health assessment,2009-02-01 00:00:00
+99774,,,,4579,9,0,0,Eu81600,[X]Mild learning disability,2010-06-01 00:00:00
+32667,,,,148,3,0,0,8Hg2.00,Discharge from learning disability team,2009-02-01 00:00:00
+96895,,,,45627,294,0,0,69DB.00,Learning disability health examination,2009-06-01 00:00:00
+93406,,,,7157,18,0,0,9N0y.00,Seen in learning disabilities clinic,2009-02-01 00:00:00
+22760,,,,31141,203,0,0,918e.00,On learning disability register,2009-02-01 00:00:00
+41391,,,,10001,191,0,0,9HB1.00,Learning disabilities health action plan offered,2009-02-01 00:00:00
+103187,,,,24,0,0,0,8Ce6.00,Preferred place of care - learning disability unit,2011-10-01 00:00:00
+106248,,,,294,0,0,0,9mA1.00,Learning disability annual health check telephone invitation,2013-06-01 00:00:00
+4477,,,,15516,557,0,0,Eu81z11,[X]Learning disability NOS,2009-02-01 00:00:00
+108881,,,,1,0,0,0,94Z9.00,Preferred place of death: learning disability unit,2014-11-01 00:00:00
+106249,,,,516,0,0,0,9mA0.00,Learning disability annual health check verbal invitation,2013-06-01 00:00:00
+98342,,,,5510,20,0,0,Eu81400,[X]Moderate learning disability,2010-01-01 00:00:00
+19436,,,,6042,135,0,0,ZS34.11,Learning disability,2009-02-01 00:00:00
+106274,,,,944,0,0,0,9mA2100,Learning disability annual health check invtation 2nd letter,2013-06-01 00:00:00
+100980,,,,64,0,0,0,9hL..00,Exception reporting: learning disability quality indicators,2010-11-01 00:00:00
+110792,,,,1,0,0,0,9Nh4.00,Under care of community learning disability team,2016-05-01 00:00:00
+94684,,,,70,87,0,0,8H4f.00,Referral to learning disabilities psychiatrist,2009-02-01 00:00:00
+98293,,,,3353,24,0,0,Eu81500,[X]Severe learning disability,2009-12-01 00:00:00
+106272,,,,3011,0,0,0,9mA2000,Learning disability annual health check invtation 1st letter,2013-06-01 00:00:00
+110002,,,,54,0,0,0,9Nlh.00,Seen by learning disability team,2015-08-01 00:00:00
+100965,,,,27,0,0,0,9HB6.11,Learning disabilities annual health check declined,2010-11-01 00:00:00
+100729,,,,335,0,0,0,9HB7.00,Did not attend learning disabilities annual health assessmnt,2010-09-01 00:00:00
+107968,,,,49,1,0,0,Eu81800,[X]Specific learning disability,2014-05-01 00:00:00
+100730,,,,342,0,0,0,9HB6.00,Learning disabilities annual health assessment declined,2010-09-01 00:00:00
+106247,,,,2183,0,0,0,9mA2.00,Learning disability annual health check letter invitation,2013-06-01 00:00:00
+56376,,,,456,0,0,0,Z7CD200,Learning difficulties,2009-02-01 00:00:00
+4672,,,,5809,592,0,0,E2F2.00,Other specific learning difficulty,2009-02-01 00:00:00
+2052,,,,48796,2139,1,0,13Z4E00,Learning difficulties,2009-02-01 00:00:00
+106116,,,,11,0,0,0,Z7CD211,LD - Learning difficulties,2013-05-01 00:00:00
+44327,,,,82,0,0,0,Eu84z00,"[X]Pervasive developmental disorder, unspecified",2009-02-01 00:00:00
+47948,,,,8,0,0,0,Eu84y00,[X]Other pervasive developmental disorders,2009-02-01 00:00:00
+7226,,,,612,10,0,0,Eu84.00,[X]Pervasive developmental disorders,2009-02-01 00:00:00
+16855,,,,677,24,0,0,Eu81z12,[X]Learning disorder NOS,2009-02-01 00:00:00
+33949,,,,214,2,0,0,Eu70.12,[X]Mild mental subnormality,2009-02-01 00:00:00
+27691,,,,126,3,0,0,Eu72.11,[X]Severe mental subnormality,2009-02-01 00:00:00
+37911,,,,246,2,0,0,Eu7z.12,[X]Mental subnormality NOS,2009-02-01 00:00:00
+34734,,,,100,1,0,0,Eu71.11,[X]Moderate mental subnormality,2009-02-01 00:00:00
+65468,,,,12,0,0,0,Eu73.11,[X]Profound mental subnormality,2009-02-01 00:00:00
+36045,,,,161,13,0,0,Eu81z13,[X]Learn acquisition disab NOS,2009-02-01 00:00:00
+37887,,,,32,0,0,0,Eu7z.11,[X]Mental deficiency NOS,2009-02-01 00:00:00
+51622,,,,5,9,0,0,E312.11,Idiocy,2009-02-01 00:00:00
+110427,,,,4,0,0,0,13VC900,Intellectual development disorder of unknown aetiology,2016-01-01 00:00:00
+11866,,,,94,4,0,0,Z7CBE00,Intellectual functioning disability,2009-02-01 00:00:00
+44476,,,,53,4,0,0,C1zy200,Cerebral gigantism,2009-02-01 00:00:00
+36314,,,,219,13,0,0,C1zy211,Sotos syndrome,2009-02-01 00:00:00
+65343,,,,1,0,0,0,F102100,Cerebral degeneration in Niemann-Pick disease,2009-02-01 00:00:00
+46516,,,,51,3,0,0,C327200,Niemann-Pick disease,2009-02-01 00:00:00
+67927,,,,3,0,0,0,C372300,Lesch-Nyhan syndrome,2009-02-01 00:00:00
+103139,,,,4,0,0,0,C375400,"Mucopolysaccharidosis, type IV",2011-10-01 00:00:00
+61650,,,,2,1,0,0,C375200,"Mucopolysaccharidosis, type II",2009-02-01 00:00:00
+70439,,,,4,0,0,0,C375300,"Mucopolysaccharidosis, type III",2009-02-01 00:00:00
+69381,,,,11,0,0,0,C375100,"Mucopolysaccharidosis, type 1",2009-02-01 00:00:00
+104999,,,,2,0,0,0,C375z00,Mucopolysaccharidosis NOS,2012-09-01 00:00:00
+62762,,,,5,0,0,0,C375600,"Mucopolysaccharidosis, type VI",2009-02-01 00:00:00
+22851,,,,176,12,1,0,C375.00,Mucopolysaccharidosis,2009-02-01 00:00:00
+21169,,,,269,135,130,0,F101300,Tay-Sach's disease,2009-02-01 00:00:00
+34719,,,,10,0,0,0,PKy6400,Seckel syndrome,2009-02-01 00:00:00
+43325,,,,88,2,0,0,PKy7300,Rubenstein - Tayi syndrome,2009-02-01 00:00:00
+104100,,,,12,0,0,0,PKy7311,Rubinstein-Taybi syndrome,2012-05-01 00:00:00
+48084,,,,19,0,0,0,PKy9400,Zellweger's syndrome,2009-02-01 00:00:00
+93963,,,,13,0,0,0,F101600,Sandhoff disease,2009-02-01 00:00:00
+33939,,,,203,0,0,0,P21z.00,Microcephalus NOS,2009-02-01 00:00:00
+5712,,,,3017,85,0,0,P21..00,Microcephalus,2009-02-01 00:00:00
+28663,,,,26,3,0,0,PKy9200,Menke's syndrome,2009-02-01 00:00:00
+62222,,,,2,0,0,0,Eu84312,[X]Disintegrative psychosis,2009-02-01 00:00:00
+56143,,,,10,0,0,0,E141.00,Disintegrative psychosis,2009-02-01 00:00:00
+46429,,,,9,0,0,0,Eu84313,[X]Heller's syndrome,2009-02-01 00:00:00
+31599,,,,10,0,0,0,E141.11,Heller's syndrome,2009-02-01 00:00:00
+68299,,,,9,0,0,0,Eu84300,[X]Other childhood disintegrative disorder,2009-02-01 00:00:00
+101999,,,,1,0,0,0,Eu84311,[X]Dementia infantalis,2011-04-01 00:00:00
+50457,,,,15,0,0,0,PKy6000,Amsterdam dwarf,2009-02-01 00:00:00
+1391,,,,313,6,0,0,C327100,Gaucher's disease,2009-02-01 00:00:00
+67762,,,,1,0,0,0,F103100,Cerebral degeneration in mucopolysaccharidoses,2009-02-01 00:00:00
+35585,,,,4,1,456,0,46T3.00,Urine mucopolysaccharides,2009-02-01 00:00:00
+31042,,,,385,23,0,0,Eu84200,[X]Rett's syndrome,2009-02-01 00:00:00
+4749,,,,503,19,0,0,PK61.00,Sturge-Weber syndrome,2009-02-01 00:00:00
+63274,,,,14,0,0,0,PF55.00,Acrocephalosyndactyly,2009-02-01 00:00:00
+41840,,,,52,3,0,0,PF55000,Acrocephalosyndactyly (Apert),2009-02-01 00:00:00
+50251,,,,5,1,0,0,PF55100,Acrocephalosyndactyly (Pfeiffer),2009-02-01 00:00:00
+37402,,,,66,32,0,0,PF55.11,Apert's syndrome,2009-02-01 00:00:00
+33522,,,,69,1,0,0,PKy6300,Smith - Lemli - Opitz syndrome,2009-02-01 00:00:00
+47974,,,,30,4,0,0,F130600,Aicardi Goutieres syndrome,2009-02-01 00:00:00
+98753,,,,7,0,0,0,P228300,Aicardi syndrome,2010-03-01 00:00:00
+31426,,,,82,5,0,0,PKy1.00,Laurence-Moon-Biedl syndrome,2009-02-01 00:00:00
+93694,,,,15,1,0,0,PJ9..00,Mowat-Wilson syndrome,2009-02-01 00:00:00
+108375,,,,2,0,0,0,PG5F.00,Acrodysostosis,2014-07-01 00:00:00
+37924,,,,21,0,0,0,PKy5F00,Coffin-Lowry syndrome,2009-02-01 00:00:00
+21418,,,,142,6,0,0,PKy6011,Cornelia de Lange syndrome,2009-02-01 00:00:00
+106590,,,,7,0,0,0,PKy5K00,Cohen syndrome,2013-08-01 00:00:00
+57043,,,,23,0,0,0,PKy6600,Dubowitz syndrome,2009-02-01 00:00:00
+73990,,,,2,0,0,0,F101.11,Amaurotic familial idiocy,2009-02-01 00:00:00
+34792,,,,266,7,0,0,F250500,Lennox-Gastaut syndrome,2009-02-01 00:00:00
+106717,,,,2,0,0,0,PKyM.00,Johanson-Blizzard syndrome,2013-08-01 00:00:00
+69127,,,,2,0,0,0,PKy9211,Kinky hair syndrome,2009-02-01 00:00:00
+exclude females if have no code in blue group and are pregnant,,,,,,,,,,
+39017,,,,29,1,0,0,PJ2z.00,Edward's syndrome NOS,2009-02-01 00:00:00
+107162,,,,1,0,0,0,PJ22.11,Partial trisomy 18 in Edward's syndrome,2013-10-01 00:00:00
+33642,,,,211,2,0,0,PJ2..00,Edward's syndrome - trisomy 18,2009-02-01 00:00:00
+35665,,,,113,5,0,0,PJ1..00,Patau's syndrome - trisomy 13,2009-02-01 00:00:00
+46133,,,,11,1,0,0,PJ12.00,"Trisomy 13, translocation",2009-02-01 00:00:00
+72139,,,,1,0,0,0,PJ10.00,"Trisomy 13, meiotic nondisjunction",2009-02-01 00:00:00
+102102,,,,1,0,0,0,PJ12.11,Partial trisomy 13 in Patau's syndrome,2011-04-01 00:00:00
+43565,,,,6,0,0,0,PJ11.00,"Trisomy 13, mosaicism",2009-02-01 00:00:00
+19038,,,,32,0,0,0,PJ1z.11,Trisomy 13 NOS,2009-02-01 00:00:00
+67234,,,,8,0,0,0,PJ21.00,"Trisomy 18, mosaicism",2009-02-01 00:00:00
+93133,,,,0,1,0,0,PJ22.00,"Trisomy 18, translocation",2009-02-01 00:00:00
+103873,,,,1,0,0,0,PJ20.00,"Trisomy 18, meiotic nondisjunction",2012-03-01 00:00:00
+46787,,,,30,0,0,0,PJ2z.11,TRISOMY 18 NOS,2009-02-01 00:00:00
+36871,,,,85,4,0,0,PJ33300,Smith-Magenis syndrome,2009-02-01 00:00:00
+31795,,,,121,2,0,0,PJ31.00,Cri-du-chat syndrome,2009-02-01 00:00:00
+23489,,,,171,6,0,0,PJ0..11,Mongolism,2009-02-01 00:00:00
+1543,,,,10460,1042,780,0,PJ0..00,Down's syndrome - trisomy 21,2009-02-01 00:00:00
+32010,,,,29,0,0,0,PJ01.00,"Trisomy 21, mosaicism",2009-02-01 00:00:00
+18415,,,,361,12,2,0,PJ0..12,Trisomy 21,2009-02-01 00:00:00
+107919,,,,1,0,0,0,PJ01.11,"Trisomy 21, mitotic nondisjunction",2014-04-01 00:00:00
+42701,,,,10,0,0,0,PJ00.00,"Trisomy 21, meiotic nondisjunction",2009-02-01 00:00:00
+101309,,,,5,0,0,0,PJ02.11,Partial trisomy 21 in Down's syndrome,2011-01-01 00:00:00
+61627,,,,30,0,0,0,PJ0z.11,Trisomy 21 NOS,2009-02-01 00:00:00
+61499,,,,11,2,0,0,PJ02.00,"Trisomy 21, translocation",2009-02-01 00:00:00
+12841,,,,42,0,0,0,PJ3y000,Shprintzen syndrome,2009-02-01 00:00:00
+10759,,,,1428,13,0,0,PJ0z.00,Down's syndrome NOS,2009-02-01 00:00:00
+27280,,,,45,4,0,0,PKy0.12,Prader-Willi syndrome,2009-02-01 00:00:00
+41461,,,,107,9,0,0,PKy0.11,Prader-Willi Syndrome,2009-02-01 00:00:00
+46766,,,,101,6,0,0,PKyz500,Happy puppet syndrome,2009-02-01 00:00:00
+16087,,,,426,15,0,0,PKy4.00,William syndrome,2009-02-01 00:00:00
+72265,,,,8,0,0,0,PJ1z.00,Patau's syndrome NOS,2009-02-01 00:00:00
+10955,,,,416,17,0,0,C391100,Di George syndrome,2009-02-01 00:00:00
+12840,,,,134,2,0,0,PJ3y011,Velocardiofacial syndrome,2009-02-01 00:00:00
+33948,,,,84,1,0,0,PJ32.11,Wolff - Hirschorn syndrome,2009-02-01 00:00:00
+25306,,,,196,6,0,0,PKyz511,Angelman syndrome,2009-02-01 00:00:00
+98617,,,,8,0,0,0,PKyz711,Angelman syndrome,2010-03-01 00:00:00
+97059,,,,66,4,0,0,PKyz700,Angelman's syndrome,2009-07-01 00:00:00
+100507,,,,9,0,0,0,PJ33400,Jacobsen syndrome,2010-08-01 00:00:00
+105514,,,,6,1,0,0,PJ33A00,Kleefstra syndrome,2013-01-01 00:00:00
+110833,,,,2,0,0,0,PJ50400,Trisomy 10,2016-05-01 00:00:00
+107029,,,,1,0,0,0,PJ51200,10q partial trisomy syndrome,2013-09-01 00:00:00
+106114,,,,4,0,0,0,PJ51400,Trisomy 9p syndrome,2013-05-01 00:00:00
+70198,,,,7,0,0,0,PJ50600,Trisomy 12,2009-02-01 00:00:00
+109223,,,,1,0,0,0,PJ50311,Trisomy 9 Mosaic Syndrome,2015-01-01 00:00:00
+100024,,,,2,0,0,0,PJ50800,Trisomy 22,2010-06-01 00:00:00
+103536,,,,6,1,0,0,PJ51500,15q partial trisomy syndrome,2012-01-01 00:00:00
+65509,,,,5,0,0,0,PJ50300,Trisomy 9,2009-02-01 00:00:00
+19038,,,,32,0,0,0,PJ1z.11,Trisomy 13 NOS,2009-02-01 00:00:00
+69476,,,,15,0,0,0,PJ50200,Trisomy 8,2009-02-01 00:00:00
+95440,,,,3,0,0,0,PJ33100,Deletion of long arm of chromosome 18,2009-02-01 00:00:00
+97927,,,,4,0,0,0,PJ33200,Deletion of short arm of chromosome 18,2009-10-01 00:00:00
+111120,,,,3,0,0,0,PJ33113,18q deletion syndrome,2016-07-01 00:00:00
+98941,,,,5,0,0,0,PJ31.11,Deletion of short arm of chromosome 5,2010-04-01 00:00:00
+104196,,,,5,0,0,0,PJ33800,Chromosome 4q deletion syndrome,2012-06-01 00:00:00
+57806,,,,4,0,0,0,PJ30.11,Deletion of long arm of chromosome 21,2009-02-01 00:00:00
+66566,,,,7,0,0,0,PJ32.00,Deletion of short arm of chromosome 4,2009-02-01 00:00:00
+67298,,,,5,0,0,0,PJ33000,Deletion of long arm of chromosome 13,2009-02-01 00:00:00
+103582,,,,56,0,0,0,PJ33600,Chromosome 22q11 deletion syndrome,2012-01-01 00:00:00
+exclude females,,,,,,,,,,
+32603,,,,510,3,0,0,PJyy400,Fragile X syndrome,2009-02-01 00:00:00
+10628,,,,887,38,0,0,PJyy200,Fragile X chromosome,2009-02-01 00:00:00
+,,,,,,,,,,
+These codes excluded by .. on Ist Oct 2018,,,,,,,,,,
+16087,,,,426,15,0,0,PKy4.000,William syndrome,2009-02-01 00:00:00
+37591,,,,3,0,0,0,PJ50100,Trisomy 7,2009-02-01 00:00:00
+101982,,,,1,0,0,0,PJ50z00,Whole chromosome trisomy syndrome NOS,2011-04-01 00:00:00
+107670,,,,1,0,0,0,PJ50w00,"Whole chromosome trisomy, meitotic nondisjunction",2014-02-01 00:00:00
+37702,,,,21,2,0,0,PJ50.00,Whole chromosome trisomy syndromes,2009-02-01 00:00:00
+101732,,,,1,0,0,0,PJ50y00,Other specified whole chromosome trisomy syndrome,2011-02-01 00:00:00
+45512,,,,8,0,0,0,PJ50x00,"Whole chromosome trisomy, mosaicism",2009-02-01 00:00:00
+100174,,,,3,0,0,0,PJ51z00,Partial trisomy syndrome NOS,2010-07-01 00:00:00
+71815,,,,5,0,0,0,PJ51000,Major partial trisomy,2009-02-01 00:00:00
+107119,,,,1,0,0,0,PJ52z00,Trisomy of autosomes NEC NOS,2013-10-01 00:00:00
+105180,,,,3,0,0,0,F1y0.00,Fragile X associated tremor ataxia syndrome,2012-11-01 00:00:00
+,,,,,,,,,,
+Also drop people form the ID population with a code indicative of non-specific learning disability if they also have a code in their record indicating a specific learning difficulty e.g. dyslexia or ADHD ( and no other ID code in their record),,,,,,,,,,
+These people probably have a specific learning difficulty rather than an intellectual disability,,,,,,,,,,

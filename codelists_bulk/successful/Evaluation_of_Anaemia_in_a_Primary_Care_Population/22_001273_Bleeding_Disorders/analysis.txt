@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 116
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tSnomedCTConceptId']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                        MedCodeId\tObservations\tTerm\tSnomedCTConceptId
+0                a474305019\t30170\tvon Willebrand's disease\tb128105004
+1   a481149018\t12138\tHereditary haemorrhagic telangiectasia\tb21877004
+2  a814041000006118\t10948\tCongenital factor VIII deficiency\tb28293008

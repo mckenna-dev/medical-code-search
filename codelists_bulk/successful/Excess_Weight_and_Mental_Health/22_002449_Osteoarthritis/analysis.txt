@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 342
+Columns: 1
+Column names: ['ÿþ\t']
+Has med_code_id: False
+Has term/description: False
+Has SNOMED: False
+Sample data:
+   ÿþ\t
+0   NaN
+1   NaN
+2   NaN

@@ -1,0 +1,134 @@
+	MedCodeId	Observations	Term	back_pain
+0	a416139010	10000000	Low back pain	back_pain
+1	a38727013	3000000	Sciatica	back_pain
+2	a252314011	3000000	C/O - low back pain	back_pain
+3	a501991000006110	2000000	Back pain	back_pain
+4	a252311015	2000000	Backache	back_pain
+5	a252315012	2000000	Back pain without radiation NOS	back_pain
+6	a400286017	1000000	"Backache, unspecified"	back_pain
+7	a400284019	800000	Pain in lumbar spine	back_pain
+8	a502061000006113	700000	Backache symptom	back_pain
+9	a1481870016	600000	Cervical spondylosis	back_pain
+10	a311252013	600000	Lumbago with sciatica	back_pain
+11	a415888015	600000	Chronic low back pain	back_pain
+12	a416146018	500000	Mechanical low back pain	back_pain
+13	a455791000006110	400000	Acute thoracic back pain	back_pain
+14	a369379014	400000	Acute back pain with sciatica	back_pain
+15	a400267013	400000	Cervical spondylosis without myelopathy	back_pain
+16	a415893017	300000	Acute back pain - lumbar	back_pain
+17	a359432012	200000	Lumbar spondylosis	back_pain
+18	a80324016	100000	Lumbosacral spondylosis without myelopathy	back_pain
+19	a400266016	100000	Spondylosis and allied disorders	back_pain
+20	a455801000006111	100000	Acute back pain - unspecified	back_pain
+21	a1705871000006118	90000	Cervical spondylosis	back_pain
+22	a252312010	90000	Backache with radiation	back_pain
+23	a311141013	80000	Degenerative disc disease	back_pain
+24	a108431018	70000	Cervical spondylosis with myelopathy	back_pain
+25	a311091014	60000	Cervical spondylosis with radiculopathy	back_pain
+26	a311168013	60000	Lumbar disc prolapse with radiculopathy	back_pain
+27	a130001000006111	60000	Spondylosis	back_pain
+28	a2579112017	50000	C/O - lumbar pain	back_pain
+29	a854731000006115	50000	Radiculopathy	back_pain
+30	a1573941000006111	40000	Thoracic back pain	back_pain
+31	a890991000006119	30000	Backache NOS	back_pain
+32	a252317016	30000	Backache symptom NOS	back_pain
+33	a455771000006114	20000	Acute low back pain	back_pain
+34	a311164010	20000	Cervical disc prolapse with radiculopathy	back_pain
+35	a453181013	20000	Lumbosacral strain	back_pain
+36	a455431014	20000	Prolapsed lumbar intervertebral disc with sciatica	back_pain
+37	a311163016	10000	Disc prolapse with radiculopathy	back_pain
+38	a400271011	10000	Spondylosis NOS	back_pain
+39	a311106014	10000	Lumbosacral spondylosis with radiculopathy	back_pain
+40	a1481872012	10000	Thoracic spondylosis	back_pain
+41	a311191012	10000	Cervical disc disorder with radiculopathy	back_pain
+42	a311082010	9000	Lumbosacral spondylosis with myelopathy	back_pain
+43	a1933721000006110	8000	Keele SCOPiC (sciatica outcomes in primary care) trial	back_pain
+44	a400268015	8000	Thoracic spondylosis without myelopathy	back_pain
+45	a311081015	7000	Multiple-level lumbosacral spondylosis without myelopathy	back_pain
+46	a4507141000006118	7000	Chronic back pain	back_pain
+47	a4405341000006115	7000	Lumbar radiculopathy	back_pain
+48	a311057010	6000	Multiple-level cervical spondylosis without myelopathy	back_pain
+49	a216625013	6000	Exacerbation of backache	back_pain
+50	a4545181000006114	4000	Complaining of low back pain	back_pain
+51	a297453019	4000	Lumbosacral radiculopathy	back_pain
+52	a252313017	3000	Back pain worse on sneezing	back_pain
+53	a2197471000000111	3000	Low back pain clinical pathway	back_pain
+54	a11902311000006117	2000	Sacroiliac joint pain	back_pain
+55	a3382731000006111	2000	Cervical radiculopathy	back_pain
+56	a311095017	2000	Multiple-level cervical spondylosis with radiculopathy	back_pain
+57	a311055019	2000	Single-level cervical spondylosis without myelopathy	back_pain
+58	a297465015	2000	Nerve root and plexus compressions in spondylosis	back_pain
+59	a311118017	2000	Spondylosis without myelopathy	back_pain
+60	a411282018	2000	O/E - lumbar pain on palpation	back_pain
+61	a311056018	2000	Two-level cervical spondylosis without myelopathy	back_pain
+62	a297150011	1000	Myelopathy due to spondylosis	back_pain
+63	a311063018	1000	Multiple-level cervical spondylosis with myelopathy	back_pain
+64	a5965351000006111	1000	Acute sciatica	back_pain
+65	a5243201000006113	1000	Facet joint pain	back_pain
+66	a5965361000006113	1000	Chronic sciatica	back_pain
+67	a311096016	1000	Cervical spondylosis with vascular compression	back_pain
+68	a311080019	1000	Two-level lumbosacral spondylosis without myelopathy	back_pain
+69	a312614018	1000	[X]Other spondylosis	back_pain
+70	a311093012	1000	Single-level cervical spondylosis with radiculopathy	back_pain
+71	a311079017	1000	Single-level lumbosacral spondylosis without myelopathy	back_pain
+72	a312630014	1000	[X]Other dorsalgia	back_pain
+73	a311061016	900	Single-level cervical spondylosis with myelopathy	back_pain
+74	a400269011	800	Dorsal spondylosis without myelopathy	back_pain
+75	a311110012	700	Multiple-level lumbosacral spondylosis with radiculopathy	back_pain
+76	a311070018	600	Multiple-level thoracic spondylosis without myelopathy	back_pain
+77	a311108010	600	Single-level lumbosacral spondylosis with radiculopathy	back_pain
+78	a312613012	500	[X]Other spondylosis with radiculopathy	back_pain
+79	a311097013	500	Thoracic spondylosis with radiculopathy	back_pain
+80	a311167015	500	Thoracic disc prolapse with radiculopathy	back_pain
+81	a5620681000006112	500	LBP - Low back pain	back_pain
+82	a311094018	500	Two-level cervical spondylosis with radiculopathy	back_pain
+83	a311062011	500	Two-level cervical spondylosis with myelopathy	back_pain
+84	a311085012	400	Multiple-level lumbosacral spondylosis with myelopathy	back_pain
+85	a19006012	300	Thoracic spondylosis with myelopathy	back_pain
+86	a311119013	300	Spondylosis with myelopathy	back_pain
+87	a295464017	300	Psychogenic backache	back_pain
+88	a311083017	300	Single-level lumbosacral spondylosis with myelopathy	back_pain
+89	a1573621000006114	200	Non-mechanical back pain	back_pain
+90	a311084011	100	Two-level lumbosacral spondylosis with myelopathy	back_pain
+91	a311109019	100	Two-level lumbosacral spondylosis with radiculopathy	back_pain
+92	a3498921000006118	90	Sacral back pain	back_pain
+93	a311068010	80	Single-level thoracic spondylosis without myelopathy	back_pain
+94	a4356061000006113	60	Lumbosacral spondylosis	back_pain
+95	a311069019	50	Two-level thoracic spondylosis without myelopathy	back_pain
+96	a5887181000006119	50	Postural low back pain	back_pain
+97	a5621061000006116	50	Lumbar facet joint pain	back_pain
+98	a423851000006113	50	[X]Psychogenic backache	back_pain
+99	a311072014	40	Single-level thoracic spondylosis with myelopathy	back_pain
+100	a5620721000006117	40	Lumbar pain	back_pain
+101	a311099011	40	Single-level thoracic spondylosis with radiculopathy	back_pain
+102	a312612019	40	[X]Other spondylosis with myelopathy	back_pain
+103	a311103018	30	Multiple-level thoracic spondylosis with radiculopathy	back_pain
+104	a311074010	30	Multiple-level thoracic spondylosis with myelopathy	back_pain
+105	a5850321000006111	30	Cervical facet joint pain	back_pain
+106	a4982421000006113	30	Back pain prevention education	back_pain
+107	a5850341000006116	20	Thoracic facet joint pain	back_pain
+108	a5618331000006113	20	CLBP - Chronic low back pain	back_pain
+109	a8342961000006111	20	Intervertebral disc disorder with radiculopathy	back_pain
+110	a3506319010	20	Left cervical radiculopathy	back_pain
+111	a5620871000006113	10	Post-surgery back pain	back_pain
+112	a8057071000006115	10	Lower back pain assessment	back_pain
+113	a12735361000006113	10	Chronic mechanical low back pain	back_pain
+114	a4405351000006118	10	Sacral radiculopathy	back_pain
+115	a3184501000006113	10	Thoracic radiculopathy	back_pain
+116	a2867631000006110	10	Sciatica neuralgia	back_pain
+117	a2725861000000114	10	Backache without recent injury	back_pain
+118	a4815111000006112	9	Cervical spondylosis with root compression	back_pain
+119	a9834521000006119	8	Bilateral sciatica	back_pain
+120	a1983991000006115	7	Manchester triage - Back pain	back_pain
+121	a7489461000006116	6	Lumbar discogenic pain	back_pain
+122	a311073016	5	Two-level thoracic spondylosis with myelopathy	back_pain
+123	a1044081000006118	5	Adverse reaction to Nurofen Back Pain Sr	back_pain
+124	a8093981000006116	5	Right sided thoracic back pain	back_pain
+125	a3506316015	4	Right cervical radiculopathy	back_pain
+126	a311100015	4	Two-level thoracic spondylosis with radiculopathy	back_pain
+127	a6478111000006111	4	CS - Cervical spondylosis	back_pain
+128	a8093991000006118	4	Left sided thoracic back pain	back_pain
+129	a7489441000006115	4	Discogenic pain	back_pain
+130	a6929631000006119	3	C/O - backache	back_pain
+131	a2674231000006119	3	Thoracic spondylosis with cord compression	back_pain
+132	a9869731000006115	2	Radiculopathy of lumbosacral spine due to disc disorder	back_pain

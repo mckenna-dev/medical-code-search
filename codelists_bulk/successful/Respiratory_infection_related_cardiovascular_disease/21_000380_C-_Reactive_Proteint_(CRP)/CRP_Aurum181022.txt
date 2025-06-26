@@ -1,0 +1,10 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	snomedctdescriptionid	release	term2	var
+956721000006115	"Serum C reactive protein"	"TRISSE9"	""	956721000006104	956721000006115		"Serum C reactive protein"	1
+2013981000006114	"Point-of-care C reactive protein"	"EMISNQPO73"	""	2013981000006105	2013981000006114		"Point-of-care C reactive protein"	1
+1577941000006117	"C Reactive Protein"	"TRISSE7"	""	1577941000006101	1577941000006117		"C Reactive Protein"	1
+1990731000006114	"Point-of-care C reactive protein level requested"	"EMISNQPO69"	""	1990731000006105	1990731000006114		"Point-of-care C reactive protein level requested"	1
+223761000006118	"Plasma C reactive protein"	"44CC"	"44CC.00"	999651000000107	2569471000000113		"Plasma C reactive protein"	1
+530881000006117	"C reactive protein abnormal"	"44CC1"	"44CC100"	166584001	530881000006117		"C reactive protein abnormal"	1
+530891000006119	"C reactive protein normal"	"44CC0"	"44CC000"	166583007	530891000006119		"C reactive protein normal"	1
+216602012	"Serum C reactive protein level"	"44CS"	"44CS.00"	1001371000000100	835731000006115		"Serum C reactive protein level"	1
+1824331000006115	"Test request : Serum C reactive protein level"	"EMISREQ|44CS."	"44CS.00"	1824331000006104	1824331000006115		"Test request : Serum C reactive protein level"	1

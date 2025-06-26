@@ -1,0 +1,35 @@
+{
+  "original_file": "codelists_bulk\\successful\\Respiratory_infection_related_cardiovascular_disease\\21_000380_Urinary_Tract_Infection_(UTI)_-_Acute\\Aurum_AcuteUTI_codelist_300323.txt",
+  "original_columns": [
+    "medcodeid",
+    "term",
+    "originalreadcode",
+    "cleansedreadcode",
+    "snomedctconceptid",
+    "snomedctdescriptionid",
+    "release"
+  ],
+  "column_mapping": {
+    "med_code_id": "medcodeid",
+    "term": "term",
+    "snomed_ct_concept_id": "snomedctconceptid"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "medcodeid",
+      "type": "primary"
+    },
+    "term": {
+      "column": "term",
+      "type": "primary"
+    },
+    "snomed_ct_concept_id": {
+      "column": "snomedctconceptid",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 61,
+  "rows_standardized": 61,
+  "project": "Respiratory_infection_related_cardiovascular_disease",
+  "codelist": "21_000380_Urinary_Tract_Infection_(UTI)_-_Acute"
+}

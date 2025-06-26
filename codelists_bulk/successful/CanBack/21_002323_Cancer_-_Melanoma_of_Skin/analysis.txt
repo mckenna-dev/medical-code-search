@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 61
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1   Flag_classifyL2         MedCodeID                                            Term
+0   1754          Cancer  Melanoma of skin        a155060012                      Malignant melanoma of skin
+1   1755          Cancer  Melanoma of skin        a289009011                       Malignant melanoma of lip
+2   1756          Cancer  Melanoma of skin  a728201000006110  Malignant melanoma of eyelid including canthus

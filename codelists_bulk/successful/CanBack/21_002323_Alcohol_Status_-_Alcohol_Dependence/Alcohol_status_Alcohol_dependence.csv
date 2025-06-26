@@ -1,0 +1,70 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+8776,Alcohol_status,Alcohol_dependence,a4978011000006117,Secret drinker,L1:Alcohol_status_L2:Alcohol_dependence,
+8777,Alcohol_status,Alcohol_dependence,a4978021000006113,Hidden drinker,L1:Alcohol_status_L2:Alcohol_dependence,
+8778,Alcohol_status,Alcohol_dependence,a4978031000006111,Problem drinker,L1:Alcohol_status_L2:Alcohol_dependence,
+8779,Alcohol_status,Alcohol_dependence,a4978061000006119,Dependent drinker,L1:Alcohol_status_L2:Alcohol_dependence,
+8780,Alcohol_status,Alcohol_dependence,a4978161000006115,Park drinker,L1:Alcohol_status_L2:Alcohol_dependence,
+8781,Alcohol_status,Alcohol_dependence,a4978171000006110,Street drinker,L1:Alcohol_status_L2:Alcohol_dependence,
+8782,Alcohol_status,Alcohol_dependence,a4978261000006110,Isolated drinker,L1:Alcohol_status_L2:Alcohol_dependence,
+8783,Alcohol_status,Alcohol_dependence,a4978271000006115,Lone drinker,L1:Alcohol_status_L2:Alcohol_dependence,
+8784,Alcohol_status,Alcohol_dependence,a8103541000006113,Feels alcohol consumption is not a problem,L1:Alcohol_status_L2:Alcohol_dependence,
+8785,Alcohol_status,Alcohol_dependence,a8106921000006119,Feels it is not necessary to reduce alcohol consumption,L1:Alcohol_status_L2:Alcohol_dependence,
+8786,Alcohol_status,Alcohol_dependence,a500478011,Alcohol dependence syndrome,L1:Alcohol_status_L2:Alcohol_dependence,1000000
+8787,Alcohol_status,Alcohol_dependence,a12878014,Alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,200000
+8788,Alcohol_status,Alcohol_dependence,a295144019,Alcohol dependence syndrome NOS,L1:Alcohol_status_L2:Alcohol_dependence,100000
+8789,Alcohol_status,Alcohol_dependence,a476611000006116,Alcoholic cirrhosis of liver,L1:Alcohol_status_L2:Alcohol_dependence,100000
+8790,Alcohol_status,Alcohol_dependence,a13929361000006112,Alcohol detoxification,L1:Alcohol_status_L2:Alcohol_dependence,100000
+8791,Alcohol_status,Alcohol_dependence,a294674018,Alcohol withdrawal syndrome,L1:Alcohol_status_L2:Alcohol_dependence,80000
+8792,Alcohol_status,Alcohol_dependence,a110629012,Chronic alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,60000
+8793,Alcohol_status,Alcohol_dependence,a283559019,Admitted to alcohol detoxification centre,L1:Alcohol_status_L2:Alcohol_dependence,10000
+8794,Alcohol_status,Alcohol_dependence,a251626014,H/O: alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,60000
+8795,Alcohol_status,Alcohol_dependence,a295136019,Alcohol dependence,L1:Alcohol_status_L2:Alcohol_dependence,50000
+8796,Alcohol_status,Alcohol_dependence,a106878015,Alcohol detoxification,L1:Alcohol_status_L2:Alcohol_dependence,50000
+8797,Alcohol_status,Alcohol_dependence,a315091000000117,Alcohol withdrawal-induced seizure,L1:Alcohol_status_L2:Alcohol_dependence,20000
+8798,Alcohol_status,Alcohol_dependence,a353698013,Alcohol-induced chronic pancreatitis,L1:Alcohol_status_L2:Alcohol_dependence,10000
+8799,Alcohol_status,Alcohol_dependence,a138527014,Alcoholic cardiomyopathy,L1:Alcohol_status_L2:Alcohol_dependence,10000
+8800,Alcohol_status,Alcohol_dependence,a295127018,Acute alcoholic intoxication in alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,10000
+8801,Alcohol_status,Alcohol_dependence,a362921000006118,[X]Alcohol addiction,L1:Alcohol_status_L2:Alcohol_dependence,10000
+8802,Alcohol_status,Alcohol_dependence,a753331000006118,Korsakov alcoholic psychosis,L1:Alcohol_status_L2:Alcohol_dependence,8000
+8803,Alcohol_status,Alcohol_dependence,a295143013,Chronic alcoholism NOS,L1:Alcohol_status_L2:Alcohol_dependence,6000
+8804,Alcohol_status,Alcohol_dependence,a370971000006114,[X]Chronic alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,5000
+8805,Alcohol_status,Alcohol_dependence,a295142015,Chronic alcoholism in remission,L1:Alcohol_status_L2:Alcohol_dependence,5000
+8806,Alcohol_status,Alcohol_dependence,a15243013,Alcohol withdrawal delirium,L1:Alcohol_status_L2:Alcohol_dependence,4000
+8807,Alcohol_status,Alcohol_dependence,a295141010,Episodic chronic alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,4000
+8808,Alcohol_status,Alcohol_dependence,a297011014,Alcoholic encephalopathy,L1:Alcohol_status_L2:Alcohol_dependence,3000
+8809,Alcohol_status,Alcohol_dependence,a15244019,Delirium tremens,L1:Alcohol_status_L2:Alcohol_dependence,3000
+8810,Alcohol_status,Alcohol_dependence,a453265010,Oesophageal varices in alcoholic cirrhosis of the liver,L1:Alcohol_status_L2:Alcohol_dependence,2000
+8811,Alcohol_status,Alcohol_dependence,a507053019,DTs - delirium tremens,L1:Alcohol_status_L2:Alcohol_dependence,1000
+8812,Alcohol_status,Alcohol_dependence,a294669014,Alcohol withdrawal hallucinosis,L1:Alcohol_status_L2:Alcohol_dependence,1000
+8813,Alcohol_status,Alcohol_dependence,a376451000006113,"[X]Delirium tremens, alcohol induced",L1:Alcohol_status_L2:Alcohol_dependence,1000
+8814,Alcohol_status,Alcohol_dependence,a478046010,Cerebellar ataxia due to alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,1000
+8815,Alcohol_status,Alcohol_dependence,a2502971000006115,Dementia associated with alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,1000
+8816,Alcohol_status,Alcohol_dependence,a295128011,"Acute alcoholic intoxication, unspecified, in alcoholism",L1:Alcohol_status_L2:Alcohol_dependence,900
+8817,Alcohol_status,Alcohol_dependence,a294668018,Chronic alcoholic brain syndrome,L1:Alcohol_status_L2:Alcohol_dependence,900
+8818,Alcohol_status,Alcohol_dependence,a451124014,Chronic alcoholic hepatitis,L1:Alcohol_status_L2:Alcohol_dependence,800
+8819,Alcohol_status,Alcohol_dependence,a542611000006114,Cerebral degeneration due to alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,700
+8820,Alcohol_status,Alcohol_dependence,a2298341000000114,In-house alcohol detoxification,L1:Alcohol_status_L2:Alcohol_dependence,700
+8821,Alcohol_status,Alcohol_dependence,a371501000000110,Delivery of rehabilitation for alcohol addiction,L1:Alcohol_status_L2:Alcohol_dependence,700
+8822,Alcohol_status,Alcohol_dependence,a295132017,Acute alcoholic intoxication in alcoholism NOS,L1:Alcohol_status_L2:Alcohol_dependence,600
+8823,Alcohol_status,Alcohol_dependence,a295130013,Episodic acute alcoholic intoxication in alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,500
+8824,Alcohol_status,Alcohol_dependence,a295126010,Alcohol dependence with acute alcoholic intoxication,L1:Alcohol_status_L2:Alcohol_dependence,500
+8825,Alcohol_status,Alcohol_dependence,a370961000006119,[X]Chronic alcoholic brain syndrome,L1:Alcohol_status_L2:Alcohol_dependence,400
+8826,Alcohol_status,Alcohol_dependence,a295131012,"Acute alcoholic intoxication in remission, in alcoholism",L1:Alcohol_status_L2:Alcohol_dependence,300
+8827,Alcohol_status,Alcohol_dependence,a2358251000000115,Alcohol dependence resolved,L1:Alcohol_status_L2:Alcohol_dependence,300
+8828,Alcohol_status,Alcohol_dependence,a295129015,Continuous acute alcoholic intoxication in alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,200
+8829,Alcohol_status,Alcohol_dependence,a1779661000006118,Alcohol detoxification declined,L1:Alcohol_status_L2:Alcohol_dependence,100
+8830,Alcohol_status,Alcohol_dependence,a3122331000006110,Patient referral for alcoholism rehabilitation,L1:Alcohol_status_L2:Alcohol_dependence,60
+8831,Alcohol_status,Alcohol_dependence,a2614651000006115,Alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,60
+8832,Alcohol_status,Alcohol_dependence,a502016018,Dipsomania,L1:Alcohol_status_L2:Alcohol_dependence,40
+8833,Alcohol_status,Alcohol_dependence,a7710581000006113,Severe alcohol dependence,L1:Alcohol_status_L2:Alcohol_dependence,40
+8834,Alcohol_status,Alcohol_dependence,a2626141000006112,Alcoholic polyneuropathy,L1:Alcohol_status_L2:Alcohol_dependence,30
+8835,Alcohol_status,Alcohol_dependence,a1974141000006118,"Mental and behav dis due to use alcohol: dependence syndr, episodic use [dipsomania]",L1:Alcohol_status_L2:Alcohol_dependence,20
+8836,Alcohol_status,Alcohol_dependence,a7725141000006111,Moderate alcohol dependence,L1:Alcohol_status_L2:Alcohol_dependence,20
+8837,Alcohol_status,Alcohol_dependence,a7706231000006114,Mild alcohol dependence,L1:Alcohol_status_L2:Alcohol_dependence,20
+8838,Alcohol_status,Alcohol_dependence,a8088751000006117,Alcohol dependence with alcohol induced disorder,L1:Alcohol_status_L2:Alcohol_dependence,10
+8839,Alcohol_status,Alcohol_dependence,a8048151000006113,Chronic pancreatitis due to chronic alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,9
+8840,Alcohol_status,Alcohol_dependence,a377081000006114,[X]Dipsomania,L1:Alcohol_status_L2:Alcohol_dependence,8
+8841,Alcohol_status,Alcohol_dependence,a5564291000006118,Alcoholism detoxication centre,L1:Alcohol_status_L2:Alcohol_dependence,6
+8842,Alcohol_status,Alcohol_dependence,a8088741000006119,Alcohol induced disorder co-occurrent and due to alcohol dependence,L1:Alcohol_status_L2:Alcohol_dependence,4
+8843,Alcohol_status,Alcohol_dependence,a1878791000006112,In-house alcohol detoxification,L1:Alcohol_status_L2:Alcohol_dependence,3
+8844,Alcohol_status,Alcohol_dependence,a3545841000006113,Detoxication therapy for alcoholism,L1:Alcohol_status_L2:Alcohol_dependence,3

@@ -1,0 +1,187 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+466,,,,21873,8654,1,0,1J2..00,Suspected deafness,2009-02-01 00:00:00
+31374,,,,257,5,0,0,P40z.11,Deafness due to congenital anomaly NEC,2009-02-01 00:00:00
+102069,,,,3,0,0,0,F591511,Drug ototoxicity - deafness,2011-04-01 00:00:00
+63490,,,,16,0,0,0,ZN56900,Deaf telephone user,2009-02-01 00:00:00
+686,,,,84359,26085,5,0,F59z.00,Deafness NOS,2009-02-01 00:00:00
+1681,,,,16497,2957,4,0,1C13100,Unilateral deafness,2009-02-01 00:00:00
+3747,,,,1043,19,0,0,F593.00,"Deaf mutism, NEC",2009-02-01 00:00:00
+71827,,,,1,0,0,0,FyuU000,"[X]Deaf mutism, not elsewhere classified",2009-02-01 00:00:00
+2552,,,,1089,138,0,0,F581211,Noise induced deafness,2009-02-01 00:00:00
+97052,,,,1,0,0,0,ZT12712,Deaf sounding voice,2009-07-01 00:00:00
+20715,,,,868,56,0,0,2BM4.00,O/E - High tone deafness,2009-02-01 00:00:00
+45751,,,,614,56,0,0,F590.11,Conductive deafness,2009-02-01 00:00:00
+98253,,,,8,0,0,0,F596.00,Maternally inherited deafness,2009-12-01 00:00:00
+26539,,,,134,1,0,0,2BL5.00,O/E - completely deaf,2009-02-01 00:00:00
+13113,,,,5334,18,0,0,2BL3.00,O/E - significantly deaf,2009-02-01 00:00:00
+16699,,,,39,12,0,0,038Z.12,Deaf teacher,2009-02-01 00:00:00
+14983,,,,1595,208,0,0,F592.00,Mixed conductive and sensorineural deafness,2009-02-01 00:00:00
+1774,,,,2942,644,2,0,1C13200,Partial deafness,2009-02-01 00:00:00
+10665,,,,1020,25,0,0,F591400,Congenital sensorineural deafness,2009-02-01 00:00:00
+2625,,,,1693,213,0,0,F591.11,High frequency deafness,2009-02-01 00:00:00
+2348,,,,1918,305,0,0,F591.13,Perceptive deafness,2009-02-01 00:00:00
+8033,,,,68,0,0,0,F591.12,Low frequency deafness,2009-02-01 00:00:00
+6641,,,,33077,6137,0,0,1C13.11,Deafness symptom,2009-02-01 00:00:00
+14893,,,,134,2,0,0,A560200,Rubella deafness,2009-02-01 00:00:00
+110179,,,,1,0,0,0,ZN56A00,Deaf-blind telephone user,2015-10-01 00:00:00
+467,,,,169295,42110,2,0,F59..11,Deafness,2009-02-01 00:00:00
+42893,,,,454,8,0,0,2BM2.00,O/E -tune fork=conductive deaf,2009-02-01 00:00:00
+44282,,,,372,2,0,0,F595.00,Low frequency deafness,2009-02-01 00:00:00
+7825,,,,862,85,0,0,2BM3.11,O/E - perceptive deafness,2009-02-01 00:00:00
+4035,,,,3039,380,0,0,1C13300,Bilateral deafness,2009-02-01 00:00:00
+13115,,,,16506,12,0,0,2BL2.00,O/E - slightly deaf,2009-02-01 00:00:00
+14805,,,,90437,23708,1,0,1C13.00,Deafness,2009-02-01 00:00:00
+47440,,,,44,1,0,0,F591500,Ototoxicity - deafness,2009-02-01 00:00:00
+7085,,,,3680,327,0,0,2BM2.11,O/E - conductive deafness,2009-02-01 00:00:00
+12339,,,,146,19,0,0,SJ15.12,Deafness - traumatic - NOS,2009-02-01 00:00:00
+72765,,,,1,0,0,0,8E3Z.00,Deafness remedial therapy NOS,2009-02-01 00:00:00
+30355,,,,159,1,0,0,2BM3.00,O/E tune fork=perceptive deaf,2009-02-01 00:00:00
+19084,,,,2268,47,0,0,F594.00,High frequency deafness,2009-02-01 00:00:00
+108703,,,,2,0,0,0,Fy1..12,Deafblind,2014-10-01 00:00:00
+66126,,,,28,4,0,0,8E3..00,Deafness remedial therapy,2009-02-01 00:00:00
+13114,,,,4379,580,0,0,2BL..11,O/E - deaf,2009-02-01 00:00:00
+100736,,,,18,3,0,0,F591800,Congenital prelingual deafness,2010-09-01 00:00:00
+3171,,,,2000,240,0,0,F591211,Nerve deafness,2009-02-01 00:00:00
+109994,,,,0,0,0,0,9Nfb.00,Requires deafblind block alphabet interpreter,2015-08-01 00:00:00
+70852,,,,0,1,0,0,Z7CM511,Word deafness,2009-02-01 00:00:00
+105795,,,,3,0,0,0,9NfB.00,Requires deafblind communicator guide,2013-02-01 00:00:00
+16648,,,,596,75,0,0,F59z.11,Chronic deafness,2009-02-01 00:00:00
+106927,,,,2,0,0,0,PKyP.00,"Diab insipidus,diab mell,optic atrophy and deafness",2013-08-01 00:00:00
+10367,,,,914,44,0,0,ZE87.11,Deafness,2009-02-01 00:00:00
+102872,,,,10,3,0,0,F59A.11,Deafened,2011-08-01 00:00:00
+5149,,,,596,1,0,0,2BL4.00,O/E - very deaf,2009-02-01 00:00:00
+107246,,,,33,0,0,0,8D26.00,Provision of replacement hearing aid,2013-11-01 00:00:00
+94782,,,,6,0,0,0,F590400,Conductive hearing loss due to disorder of inner ear,2009-02-01 00:00:00
+31748,,,,179,4,0,0,F590300,Conductive hearing loss due to disorder of middle ear,2009-02-01 00:00:00
+15940,,,,1438,134,0,0,F581200,Noise-induced hearing loss,2009-02-01 00:00:00
+95814,,,,10,1,0,0,7308500,Attention to hearing implant in external ear,2009-02-01 00:00:00
+58602,,,,288,2,0,0,8D21.00,Provide head worn hearing aid,2009-02-01 00:00:00
+626,,,,41552,3007,4,0,8D23.00,Ear fitting hearing aid,2009-02-01 00:00:00
+59596,,,,11,0,0,0,Z911900,Putting on hearing aid,2009-02-01 00:00:00
+11704,,,,7832,1478,0,0,ZE7..00,Hearing problem,2009-02-01 00:00:00
+30394,,,,203,95,0,0,Z911500,Checking hearing aid,2009-02-01 00:00:00
+97657,,,,9,0,0,0,7319000,Insertion fixtures bone anchored hearing prosthesis Stage 1,2009-09-01 00:00:00
+6209,,,,11055,1049,1,0,3134300,Hearing test abnormal,2009-02-01 00:00:00
+10112,,,,8516,76,0,0,F591600,"Sensorineural hearing loss, bilateral",2009-02-01 00:00:00
+10975,,,,4449,647,0,0,8M41.00,Hearing aid requested,2009-02-01 00:00:00
+72933,,,,2,0,0,0,P402z00,Other external ear anomaly with hearing impairment NOS,2009-02-01 00:00:00
+39022,,,,208,52,0,0,1C18.00,Difficulty hearing with background noise,2009-02-01 00:00:00
+110790,,,,86,0,0,0,2DH1.00,Does use hearing aid,2016-05-01 00:00:00
+10479,,,,16038,28781,0,0,8HT2.00,Referral to hearing aid clinic,2009-02-01 00:00:00
+9882,,,,1017,7,0,0,F592.11,Mixed hearing loss,2009-02-01 00:00:00
+35178,,,,204,47,0,0,Z8B5200,Unable to use hearing aid,2009-02-01 00:00:00
+9830,,,,10499,1606,0,0,ZE87.00,Hearing loss,2009-02-01 00:00:00
+18008,,,,4457,995,0,0,ZE87.18,Hearing impairment,2009-02-01 00:00:00
+5016,,,,871,175,0,0,P40..00,Ear anomalies with hearing impairment,2009-02-01 00:00:00
+18945,,,,1658,71,0,0,F590500,"Conductive hearing loss, bilateral",2009-02-01 00:00:00
+536,,,,64510,1341,0,0,F591.00,Sensorineural hearing loss,2009-02-01 00:00:00
+44304,,,,12,2,0,0,ZT12711,Voice associated with hearing loss,2009-02-01 00:00:00
+68636,,,,84,0,0,0,7317C00,Placement of hearing implant in middle ear,2009-02-01 00:00:00
+36807,,,,226,69,0,0,ZE82200,Hearing for conversational voice impaired,2009-02-01 00:00:00
+22831,,,,520,806,0,0,ZL71600,Referral to registered hearing aid dispenser,2009-02-01 00:00:00
+31962,,,,11,4,0,0,Z911400,Changing hearing aid battery,2009-02-01 00:00:00
+10316,,,,455,28,0,0,3134500,Hearing test left abnormality,2009-02-01 00:00:00
+27313,,,,182,4,0,0,P40z.00,Other and unspecified ear anomaly with hearing impaired,2009-02-01 00:00:00
+11921,,,,5316,143,0,0,ZV72100,[V]Examination of ears and hearing,2009-02-01 00:00:00
+50016,,,,45,2,0,0,P400.00,"Ear anomalies with hearing impaired, unspecified",2009-02-01 00:00:00
+36766,,,,20,0,0,0,8D22.00,Provide body worn hearing aid,2009-02-01 00:00:00
+46837,,,,37,3,0,0,Z8B5100,Able to use hearing aid,2009-02-01 00:00:00
+108029,,,,1,0,0,0,7319600,First stge ins fixtures for bone anchored hearing prosthesis,2014-05-01 00:00:00
+52802,,,,6,0,0,0,P402.00,Other external ear anomaly with hearing impairment,2009-02-01 00:00:00
+3912,,,,24514,2906,0,0,8D2..12,Hearing aid provision,2009-02-01 00:00:00
+18148,,,,376,17,0,0,ZV45G00,[V]Presence of external hearing-aid,2009-02-01 00:00:00
+89253,,,,4,0,0,0,7319100,Insertion fixtures bone anchored hearing prosthesis Stage 2,2009-02-01 00:00:00
+43581,,,,110,51,0,0,F590600,"Conduct hear loss,unilat+unrestric hearing on contralat side",2009-02-01 00:00:00
+7301,,,,412,7,0,0,F592100,"Mixed conductive and sensorineural hearing loss, bilateral",2009-02-01 00:00:00
+5967,,,,306646,79364,3,0,1C12.00,Hearing difficulty,2009-02-01 00:00:00
+93722,,,,2,0,0,0,Z911800,Turning off hearing aid,2009-02-01 00:00:00
+6082,,,,7303,2274,0,0,F582.00,Unspecified sudden hearing loss,2009-02-01 00:00:00
+38717,,,,19,2,0,0,Z961.00,Provision of guide help for visual and hearing impairment,2009-02-01 00:00:00
+12829,,,,265,2,0,0,F591.14,Perceptive hearing loss,2009-02-01 00:00:00
+51744,,,,82,18,0,0,Z911300,Adjust hearing aid settings,2009-02-01 00:00:00
+108207,,,,5,0,0,0,313P.00,Hearing examination not completed,2014-06-01 00:00:00
+29299,,,,2470,344,0,0,F583.11,Hearing noises,2009-02-01 00:00:00
+16393,,,,282,20,0,0,F591z00,Perceptive hearing loss NOS,2009-02-01 00:00:00
+8941,,,,20008,269,0,0,F590.00,Conductive hearing loss,2009-02-01 00:00:00
+15723,,,,3679,778,0,0,ZV41200,[V]Problems with hearing,2009-02-01 00:00:00
+50620,,,,19,7,0,0,ZE83200,Hearing for loud voice impaired,2009-02-01 00:00:00
+99753,,,,358,1,0,0,F597.00,Mild acquired hearing loss,2010-06-01 00:00:00
+32905,,,,83,23,0,0,Z96..00,Provision for visual and hearing impairment,2009-02-01 00:00:00
+91930,,,,2,0,0,0,7319200,Reduction soft tissue for bone anchored hearing prosthesis,2009-02-01 00:00:00
+54116,,,,28,0,0,0,F591y00,Combined perceptive hearing loss,2009-02-01 00:00:00
+69894,,,,9,0,0,0,F591300,Central hearing loss,2009-02-01 00:00:00
+107265,,,,579,7,0,0,F591D00,Mild sensorineural hearing loss,2013-11-01 00:00:00
+60293,,,,71,2,0,0,1C19.00,Difficulty hearing whispers,2009-02-01 00:00:00
+30033,,,,297,77,0,0,ZE87.20,Hearing impaired,2009-02-01 00:00:00
+4957,,,,43148,11496,0,0,1493,H/O: hearing problem,2009-02-01 00:00:00
+30734,,,,1401,139,0,0,ZE81200,Hearing for whisper impaired,2009-02-01 00:00:00
+103542,,,,4,0,0,0,Pyu1B00,"[X]Malformation of ear with impairment of hearing, unspec",2012-01-01 00:00:00
+6178,,,,59004,7099,0,0,1C1..00,Hearing symptoms,2009-02-01 00:00:00
+36762,,,,157,47,0,0,ZE84200,Hearing for voice impaired,2009-02-01 00:00:00
+96803,,,,66,1,0,0,ZV45N00,[V]Bone anchored hearing aid in situ,2009-05-01 00:00:00
+1151,,,,4277,738,0,0,F590000,Unspecified conductive hearing loss,2009-02-01 00:00:00
+47475,,,,398,36,0,0,1C17.00,Hearing aid problem,2009-02-01 00:00:00
+47129,,,,53,2,0,0,2DH0.00,Uses hearing loop,2009-02-01 00:00:00
+26058,,,,363,83,0,0,ZE3..00,Distorted hearing,2009-02-01 00:00:00
+97761,,,,6,0,0,0,7319300,Attention to fixtures for bone anchored hearing prosthesis,2009-10-01 00:00:00
+93446,,,,10,0,0,0,7317D00,Attention to hearing implant in middle ear,2009-02-01 00:00:00
+107364,,,,33,1,0,0,F591900,Bilateral profound sensorineural hearing loss,2013-12-01 00:00:00
+401,,,,8938,51,0,0,9N0b.00,Seen in hearing aid clinic,2009-02-01 00:00:00
+107350,,,,397,8,0,0,F591C00,Moderate sensorineural hearing loss,2013-12-01 00:00:00
+107912,,,,2,0,0,0,Z962.00,Provision of communicator for visual and hearing impairment,2014-04-01 00:00:00
+100276,,,,47,2,0,0,F599.00,Severe acquired hearing loss,2010-07-01 00:00:00
+13659,,,,1098,1985,0,0,ZL71500,Referral to hearing therapist,2009-02-01 00:00:00
+52245,,,,92,1,0,0,Z8B5.00,Ability to use hearing aid,2009-02-01 00:00:00
+30334,,,,152,28,0,0,ZE86.00,Difficulty hearing in noise,2009-02-01 00:00:00
+17981,,,,356,22,0,0,3134600,Hearing test right abnormality,2009-02-01 00:00:00
+36660,,,,8,0,0,0,F590100,Conductive hearing loss due to disorder of external ear,2009-02-01 00:00:00
+57053,,,,38,1,0,0,P40zz00,Ear anomaly with hearing impaired NOS,2009-02-01 00:00:00
+228,,,,3760,1062,19,0,9O6A.00,Child hearing screen second failure,2009-02-01 00:00:00
+98553,,,,3,0,0,0,7319y00,Other specified attachment bone anchored hearing prosthesis,2010-02-01 00:00:00
+20904,,,,540,24,0,0,9O69.00,Child hearing screen first failure,2009-02-01 00:00:00
+17407,,,,685,199,0,0,Z8B5500,Difficulty using hearing aid,2009-02-01 00:00:00
+98241,,,,11,0,0,0,7319z00,Attachment of bone anchored hearing prosthesis NOS,2009-12-01 00:00:00
+97300,,,,2,0,0,0,Z911700,Switching on hearing aid,2009-08-01 00:00:00
+53800,,,,26,1,0,0,FyuU100,[X]Other specified hearing loss,2009-02-01 00:00:00
+62906,,,,9,0,0,0,F590y00,Combined conductive hearing loss,2009-02-01 00:00:00
+93278,,,,16,0,0,0,7319400,One stage insert fixtures bone anchored hearing prosthesis,2009-02-01 00:00:00
+18520,,,,2207,39,0,0,F591100,Sensory hearing loss,2009-02-01 00:00:00
+100654,,,,95,3,0,0,F59A.00,Profound acquired hearing loss,2010-09-01 00:00:00
+11619,,,,1453,64,0,0,Z9E8100,Hearing aid provision,2009-02-01 00:00:00
+18375,,,,2760,91,0,0,Z8B5311,Uses hearing aid,2009-02-01 00:00:00
+107607,,,,42,0,0,0,F591B00,Profound sensorineural hearing loss,2014-01-01 00:00:00
+19694,,,,952,26,0,0,7311A00,Insertn bone anchors subcutaneous bone anchored hearing aid,2009-02-01 00:00:00
+45604,,,,23,4,0,0,ZV53D00,[V]Adjustment and management of implanted hearing device,2009-02-01 00:00:00
+19068,,,,3699,916,0,0,ZE87.19,Hearing impaired,2009-02-01 00:00:00
+108030,,,,1,0,0,0,7319700,Second stage ins fixtures for bone anchored hearing prosth,2014-05-01 00:00:00
+2876,,,,5817,460,0,0,ZV53200,[V]Fitting or adjustment of hearing aid,2009-02-01 00:00:00
+30206,,,,406,11,0,0,Z911.00,Hearing aid procedure,2009-02-01 00:00:00
+10170,,,,25250,3143,0,0,2DG..00,Hearing aid worn,2009-02-01 00:00:00
+412,,,,416893,110838,24,0,F59..00,Hearing loss,2009-02-01 00:00:00
+38563,,,,635,10,0,0,F59y.00,Other specified forms of hearing loss,2009-02-01 00:00:00
+33583,,,,885,10,0,0,F590z00,Conductive hearing loss NOS,2009-02-01 00:00:00
+52758,,,,62,1,0,0,F590200,Conductive hearing loss due to disorder of tympanic membrane,2009-02-01 00:00:00
+84365,,,,77,2,0,0,7308400,Placement of hearing implant in external ear,2009-02-01 00:00:00
+100127,,,,127,1,0,0,F598.00,Moderate acquired hearing loss,2010-07-01 00:00:00
+103907,,,,51,6,0,0,Fy1..00,Combined visual and hearing impairment,2012-03-01 00:00:00
+58826,,,,36,5,0,0,Z911E00,Fit ear mould for existing hearing aid,2009-02-01 00:00:00
+17699,,,,3090,347,0,0,1C16.00,Deteriorating hearing,2009-02-01 00:00:00
+7344,,,,5339,57,0,0,Z911100,Fit hearing aid,2009-02-01 00:00:00
+52853,,,,19,0,0,0,8D24.00,Replace hearing aid battery,2009-02-01 00:00:00
+107610,,,,42,1,0,0,F591E00,Severe sensorineural hearing loss,2014-01-01 00:00:00
+42879,,,,103,40,0,0,Z911B00,Attention to hearing aid,2009-02-01 00:00:00
+6846,,,,1141,16,0,0,F591200,Neural hearing loss,2009-02-01 00:00:00
+59392,,,,37,0,0,0,7319,Attachment of bone anchored hearing prosthesis,2009-02-01 00:00:00
+101755,,,,10,0,0,0,7319500,Fitting external hearing prosthesis bone anchored fixtures,2011-02-01 00:00:00
+10509,,,,1207,93,0,0,3134400,Hearing test bilateral abnormality,2009-02-01 00:00:00
+2061,,,,3874,358,0,0,F591000,Unspecified perceptive hearing loss,2009-02-01 00:00:00
+96245,,,,746,36,0,0,F5A..00,Hearing impairment,2009-04-01 00:00:00
+107323,,,,30,3,0,0,F591A00,Bilateral congenital sensorineural hearing loss,2013-12-01 00:00:00
+11184,,,,342,32,0,0,ZE63.00,Hearing worse,2009-02-01 00:00:00
+8247,,,,690,161,0,0,9O6B.00,Child hearing screen failure referred to specialist,2009-02-01 00:00:00
+19666,,,,3046,623,0,0,ZE87.12,Difficulty hearing,2009-02-01 00:00:00
+22102,,,,3824,1143,0,0,ZE87.13,Hard of hearing,2009-02-01 00:00:00
+12324,,,,1062,296,0,0,ZE87.16,HL - Hearing loss,2009-02-01 00:00:00
+7891,,,,1494,364,0,0,ZE87.17,HOH - Hard of hearing,2009-02-01 00:00:00
+12692,,,,861,168,0,0,ZE87.15,HI - Hearing impairment,2009-02-01 00:00:00
+19417,,,,1907,24,0,0,Z8B5300,Does use hearing aid,2009-02-01 00:00:00

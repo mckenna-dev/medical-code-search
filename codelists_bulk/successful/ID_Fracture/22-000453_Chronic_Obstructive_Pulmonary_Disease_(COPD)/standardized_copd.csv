@@ -1,0 +1,55 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,1001,Unnamed: 1,376874,11086,137,0,H3...00,Chronic obstructive pulmonary disease,2009-02-01 00:00:00
+,,,,998,,208509,12869,92,0,H3...11,Chronic obstructive airways disease,2009-02-01 00:00:00
+,,,,3243,,24790,681,29,0,H31..00,Chronic bronchitis,2009-02-01 00:00:00
+,,,,25603,,643,0,0,0,H310.00,Simple chronic bronchitis,2009-02-01 00:00:00
+,,,,15626,,1683,45,0,0,H310000,Chronic catarrhal bronchitis,2009-02-01 00:00:00
+,,,,61118,,37,0,0,0,H310z00,Simple chronic bronchitis NOS,2009-02-01 00:00:00
+,,,,11150,,344,0,0,0,H311.00,Mucopurulent chronic bronchitis,2009-02-01 00:00:00
+,,,,40159,,50,1,0,0,H311000,Purulent chronic bronchitis,2009-02-01 00:00:00
+,,,,37959,,4,0,0,0,H311100,Fetid chronic bronchitis,2009-02-01 00:00:00
+,,,,61513,,28,1,0,0,H311z00,Mucopurulent chronic bronchitis NOS,2009-02-01 00:00:00
+,,,,27819,,1094,6,0,0,H312.00,Obstructive chronic bronchitis,2009-02-01 00:00:00
+,,,,5798,,1704,45,0,0,H312000,Chronic asthmatic bronchitis,2009-02-01 00:00:00
+,,,,5909,,477,16,0,0,H312011,Chronic wheezy bronchitis,2009-02-01 00:00:00
+,,,,14798,,1183,34,5,0,H312100,Emphysematous bronchitis,2009-02-01 00:00:00
+,,,,1446,,187732,4152,5,0,H312200,Acute exacerbation of chronic obstructive airways disease,2009-02-01 00:00:00
+,,,,26125,,173,2,0,0,H312300,Bronchiolitis obliterans,2009-02-01 00:00:00
+,,,,44525,,68,0,0,0,H312z00,Obstructive chronic bronchitis NOS,2009-02-01 00:00:00
+,,,,24248,,29,0,0,0,H313.00,Mixed simple and mucopurulent chronic bronchitis,2009-02-01 00:00:00
+,,,,66043,,23,0,0,0,H31y.00,Other chronic bronchitis,2009-02-01 00:00:00
+,,,,45089,,58,1,0,0,H31y100,Chronic tracheobronchitis,2009-02-01 00:00:00
+,,,,68066,,19,0,0,0,H31yz00,Other chronic bronchitis NOS,2009-02-01 00:00:00
+,,,,15157,,3524,98,4,0,H31z.00,Chronic bronchitis NOS,2009-02-01 00:00:00
+,,,,794,,48548,1858,30,0,H32..00,Emphysema,2009-02-01 00:00:00
+,,,,26306,,480,18,1,0,H320.00,Chronic bullous emphysema,2009-02-01 00:00:00
+,,,,56860,,13,0,0,0,H320000,Segmental bullous emphysema,2009-02-01 00:00:00
+,,,,68662,,10,0,0,0,H320100,Zonal bullous emphysema,2009-02-01 00:00:00
+,,,,60188,,17,0,0,0,H320200,Giant bullous emphysema,2009-02-01 00:00:00
+,,,,99536,,10,0,0,0,H320300,Bullous emphysema with collapse,2010-05-01 00:00:00
+,,,,103733,,4,0,0,0,H320311,Tension pneumatocoele,2012-02-01 00:00:00
+,,,,23492,,80,2,0,0,H320z00,Chronic bullous emphysema NOS,2009-02-01 00:00:00
+,,,,46578,,26,0,0,0,H321.00,Panlobular emphysema,2009-02-01 00:00:00
+,,,,10980,,213,0,0,0,H322.00,Centrilobular emphysema,2009-02-01 00:00:00
+,,,,40788,,55,2,1,0,H32y.00,Other emphysema,2009-02-01 00:00:00
+,,,,92955,,1,0,0,0,H32y000,Acute vesicular emphysema,2009-02-01 00:00:00
+,,,,70787,,3,0,0,0,H32y100,Atrophic (senile) emphysema,2009-02-01 00:00:00
+,,,,59263,,5,1,0,0,H32y111,Acute interstitial emphysema,2009-02-01 00:00:00
+,,,,63479,,25,0,0,0,H32y200,MacLeod's unilateral emphysema,2009-02-01 00:00:00
+,,,,16410,,63,2,0,0,H32yz00,Other emphysema NOS,2009-02-01 00:00:00
+,,,,33450,,942,7,0,0,H32z.00,Emphysema NOS,2009-02-01 00:00:00
+,,,,106805,,140,3,0,0,H335.00,Chronic asthma with fixed airflow obstruction,2013-08-01 00:00:00
+,,,,10863,,61982,185,66,0,H36..00,Mild chronic obstructive pulmonary disease,2009-02-01 00:00:00
+,,,,10802,,59269,223,119,0,H37..00,Moderate chronic obstructive pulmonary disease,2009-02-01 00:00:00
+,,,,9876,,26559,279,47,0,H38..00,Severe chronic obstructive pulmonary disease,2009-02-01 00:00:00
+,,,,93568,,2045,39,8,0,H39..00,Very severe chronic obstructive pulmonary disease,2009-02-01 00:00:00
+,,,,104608,,91,0,0,0,H3A..00,End stage chronic obstructive airways disease,2012-07-01 00:00:00
+,,,,12166,,1235,19,2,0,H3y..00,Other specified chronic obstructive airways disease,2009-02-01 00:00:00
+,,,,67040,,8,0,0,0,H3y..11,Other specified chronic obstructive pulmonary disease,2009-02-01 00:00:00
+,,,,21061,,4522,33,0,0,H3y0.00,Chronic obstruct pulmonary dis with acute lower resp infectn,2009-02-01 00:00:00
+,,,,7884,,58982,609,0,0,H3y1.00,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",2009-02-01 00:00:00
+,,,,5710,,58939,1043,2,0,H3z..00,Chronic obstructive airways disease NOS,2009-02-01 00:00:00
+,,,,37247,,951,12,0,0,H3z..11,Chronic obstructive pulmonary disease NOS,2009-02-01 00:00:00
+,,,,64721,,5,0,0,0,H464000,Chronic emphysema due to chemical fumes,2009-02-01 00:00:00
+,,,,63216,,3,0,0,0,H464100,Obliterative bronchiolitis due to chemical fumes,2009-02-01 00:00:00
+,,,,66058,,11,0,0,0,Hyu3000,[X]Other emphysema,2009-02-01 00:00:00
+,,,,65733,,47,0,0,0,Hyu3100,[X]Other specified chronic obstructive pulmonary disease,2009-02-01 00:00:00

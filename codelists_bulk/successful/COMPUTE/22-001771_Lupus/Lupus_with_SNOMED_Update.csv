@@ -1,0 +1,16 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+92208011,200000,Systemic lupus erythematosus,55464009
+309408013,7000,Systemic lupus erythematosus NOS,55464009
+114251000006118,1000,Systemic lupus erythematosus with organ/system involvement,239887007
+677561000006119,600,Nephrotic syndrome in systemic lupus erythematosus,68815009
+309405011,500,Drug-induced systemic lupus erythematosus,201436003
+453243010,300,Systemic lupus erythematosus with pericarditis,309762007
+312579010,200,[X]Other forms of systemic lupus erythematosus,55464009
+301721015,200,Lung disease with systemic lupus erythematosus,196138005
+158442019,60,Systemic lupus erythematosus encephalitis,95644001
+177301000006114,20,Renal tubulo-interstitial disorder in systemic lupus erythematosus,307755009
+1728151000006118,4,Systemic lupus erythematosus encephalitis,
+3400601000006117,3,SLE - Systemic lupus erythematosus,55464009
+7511501000006112,2,Systemic lupus erythematosus in remission,698694005
+6681821000006113,1,Acute systemic lupus erythematosus,403486000
+5557071000006111,1,Systemic lupus activity measure,273862004

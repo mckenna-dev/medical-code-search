@@ -1,0 +1,33 @@
+{
+  "original_file": "codelists_bulk\\successful\\Excess_Weight_and_Mental_Health\\22_002449_Height\\Min_Height_20240220.txt",
+  "original_columns": [
+    "Unnamed: 0",
+    "MedCodeId",
+    "Observations",
+    "Term",
+    "Height category"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "observations": "Observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 17,
+  "rows_standardized": 17,
+  "project": "Excess_Weight_and_Mental_Health",
+  "codelist": "22_002449_Height"
+}
