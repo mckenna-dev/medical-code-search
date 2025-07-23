@@ -49,29 +49,34 @@
     
     <div class="col-md-6">
         <div class="card">
-            <div class="card-header">
-                <h5>Export Options</h5>
-            </div>
-            <div class="card-body">
-                <p>Select codes below and choose export format:</p>
-                <form method="post" action="{% url 'export_codelist' codelist.id %}" id="export-form">
-                    {% csrf_token %}
-                    <div class="mb-3">
-                        <div class="form-check">
-                            <input class="form-check-input" type="radio" name="format" id="format-csv" value="csv" checked>
-                            <label class="form-check-label" for="format-csv">CSV Format</label>
-                        </div>
-                        <div class="form-check">
-                            <input class="form-check-input" type="radio" name="format" id="format-txt" value="txt">
-                            <label class="form-check-label" for="format-txt">Text Format (Code + Term)</label>
-                        </div>
+                    <div class="card-header">
+                        <h5>Export Options</h5>
                     </div>
-                    <button type="submit" class="btn btn-success" id="export-btn" disabled>
-                        Export Selected Codes
-                    </button>
-                </form>
-            </div>
-        </div>
+                    <div class="card-body">
+                        <p>Select codes below and choose export format:</p>
+                        <form method="post" action="{% url 'export_codelist' codelist.id %}" id="export-form">
+                            {% csrf_token %}
+                            <div class="mb-3">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="format" id="format-txt" value="txt" checked>
+                                    <label class="form-check-label" for="format-txt">
+                                        <i class="bi bi-file-text me-1"></i>Text Format (Code + Term) 
+                                        <small class="text-muted">- Default</small>
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="format" id="format-csv" value="csv">
+                                    <label class="form-check-label" for="format-csv">
+                                        <i class="bi bi-file-earmark-spreadsheet me-1"></i>CSV Format (Full Details)
+                                    </label>
+                                </div>
+                            </div>
+                            <button type="submit" class="btn btn-success" id="export-btn" disabled>
+                                <i class="bi bi-download me-1"></i>Export Selected Codes
+                            </button>
+                        </form>
+                    </div>
+                </div>
     </div>
 </div>
 

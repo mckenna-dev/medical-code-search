@@ -16,44 +16,59 @@ def home(request):
     })
 
 def codelist_search(request):
-    """Codelist search view."""
-    print("DEBUG: codelist_search view called")  # Add this debug line
+    """Codelist search view with CPRD as default."""
     
-    sources = CodeSource.objects.all()
-    print(f"DEBUG: Found {sources.count()} sources")  # Add this debug line
+    # Get all sources, ordered with default first
+    sources = CodeSource.objects.all().order_by('-is_default', 'name')
     
-    default_source = CodeSource.objects.filter(is_default=True).first()
+    # Always ensure we have the default CPRD source
+    cprd_source = CodeSource.objects.filter(is_default=True).first()
+    if not cprd_source:
+        # Fallback: try to find Oxford_CPRD by name
+        cprd_source = CodeSource.objects.filter(name='Oxford_CPRD').first()
     
     # Get search parameters
     source_ids = request.GET.getlist('sources', [])
-    if not source_ids and default_source:
-        source_ids = [str(default_source.id)]
-        
+    
+    # If no sources selected, default to CPRD only
+    if not source_ids and cprd_source:
+        source_ids = [str(cprd_source.id)]
+    
     search_term = request.GET.get('search', '')
     
     # Base query
     codelists = CodeList.objects.all()
-    print(f"DEBUG: Found {codelists.count()} codelists")  # Add this debug line
     
-    # Apply filters
+    # Apply source filter - always filter by selected sources
     if source_ids:
         codelists = codelists.filter(source_id__in=source_ids)
+    
+    # Apply search filter
     if search_term:
         codelists = codelists.filter(
             Q(codelist_name__icontains=search_term) | 
-            Q(codelist_description__icontains=search_term)
+            Q(codelist_description__icontains=search_term) |
+            Q(project_title__icontains=search_term) |
+            Q(author__icontains=search_term)
         )
     
-    # Annotate with code count
-    codelists = codelists.annotate(code_count=Count('codelistcode'))
+    # Annotate with code count and order by relevance
+    codelists = codelists.annotate(total_codes=Count('codelistcode')).order_by('-total_codes', 'codelist_name')
     
-    print(f"DEBUG: Rendering template with {codelists.count()} codelists")  # Add this debug line
+    # Add source selection context
+    source_selection_info = {
+        'total_selected': len(source_ids),
+        'cprd_selected': str(cprd_source.id) in source_ids if cprd_source else False,
+        'other_selected': len([s for s in source_ids if s != str(cprd_source.id)]) if cprd_source else len(source_ids)
+    }
     
     return render(request, 'core/codelist_search.html', {
         'sources': sources,
         'codelists': codelists,
         'search_term': search_term,
         'selected_sources': source_ids,
+        'cprd_source': cprd_source,  # THIS WAS MISSING
+        'source_info': source_selection_info,
     })
 
 def codelist_detail(request, codelist_id):
