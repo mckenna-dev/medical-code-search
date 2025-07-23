@@ -32,7 +32,7 @@
 </div>
 
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-4">
         <div class="card mb-4">
             <div class="card-header">Codelist Search</div>
             <div class="card-body">
@@ -41,12 +41,21 @@
             </div>
         </div>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-4">
         <div class="card mb-4">
             <div class="card-header">Medical Dictionary</div>
             <div class="card-body">
                 <p>Search the medical dictionary for specific codes.</p>
                 <a href="{% url 'medical_dictionary' %}" class="btn btn-primary">Go to Medical Dictionary</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card mb-4">
+            <div class="card-header">AI Codelist Assistant - Alpha Test</div>
+            <div class="card-body">
+                <p>Generate codelists using AI assistance.</p>
+                <a href="{% url 'ai_codelist_assistant' %}" class="btn btn-primary">Try the Assistant</a>
             </div>
         </div>
     </div>

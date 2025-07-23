@@ -149,3 +149,8 @@ def medical_dictionary(request):
         'category': category,
         'categories': categories,
     })
+
+
+def ai_codelist_assistant(request):
+    """Placeholder view for the AI Codelist Assistant."""
+    return render(request, 'core/ai_codelist_assistant.html')
