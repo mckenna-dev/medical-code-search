@@ -1,0 +1,25 @@
+MedCodeId	Observations	Term	pcos
+a116049013	600000	Polycystic ovary syndrome	pcos
+a2478811014	300000	Polycystic ovarian syndrome	pcos
+a253671000006116	200000	Ovarian cysts	pcos
+a13490341000006110	8000	PCOS- polycystic ovary syndrome	pcos
+a13603301000006119	2000	Polycystic ovary	pcos
+a3636241000006110	1000	PCOS - Polycystic ovarian syndrome	pcos
+a501419018	900	Multicystic ovaries	pcos
+a13490351000006112	300	PCOS- polycystic ovary syndrome	pcos
+a3636261000006114	100	Polycystic ovary syndrome	pcos
+a3636221000006115	80	PCO - Polycystic ovaries	pcos
+a3636201000006113	20	Polycystic ovarian disease	pcos
+a13931161000006111	10	Polycystic ovary syndrome of right ovary	pcos
+a3636271000006119	8	PCOD - Polycystic ovarian disease	pcos
+a13931221000006110	8	PCOS (polycystic ovary syndrome) of left and right ovary	pcos
+a13931121000006117	5	Polycystic bilateral ovaries	pcos
+a13931181000006118	5	Polycystic ovary syndrome of left ovary	pcos
+a13931191000006115	1	PCOS (polycystic ovary syndrome) of left ovary	pcos
+a13931211000006119	1	PCOS (polycystic ovary syndrome) of bilateral ovaries	pcos
+a13931201000006117	1	Polycystic ovary syndrome of bilateral ovaries	pcos
+a13931101000006110	1	Polycystic left ovary	pcos
+a13931111000006113	1	Polycystic right ovary	pcos
+			
+			
+			

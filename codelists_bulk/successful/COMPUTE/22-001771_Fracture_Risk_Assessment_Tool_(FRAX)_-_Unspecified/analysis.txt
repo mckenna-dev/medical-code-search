@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                                                                                                   Term  SNOMED_CT_Concept_ID
+0   636871000000118        156643                                     Osteoporotic fracture probability score using FRAX (fracture risk assessment tool)             736956002
+1  1865611000006113         25531       Ten year osteoporotic fracture probability score using FRAX (Fracture Risk Assessment Tool) with body mass index      1092661000000106
+2  1865601000006110         18412  Ten year osteoporotic fracture probability score using FRAX (Fracture Risk Assessment Tool) with bone mineral density      1092671000000104

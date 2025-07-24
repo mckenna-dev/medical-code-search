@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/HES_ONS_CHD_classes_20230913.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22_001836_CHD_Anaemia/main/Codelists/HES_ONS_CHD_classes_20230913.csv
+Codelist Name: Congenital Heart Disease (CHD) - HES ONS Classes
+Project Title: CHD Anaemia
+ERAP Number: 22-001836
+Author: Cynthia Wright Drakesmith, Margaret Smith
+Coding System: Gold
+Year Created: 2024
+Downloaded: 2025-06-25 13:25:29
+File Size: 5949 bytes

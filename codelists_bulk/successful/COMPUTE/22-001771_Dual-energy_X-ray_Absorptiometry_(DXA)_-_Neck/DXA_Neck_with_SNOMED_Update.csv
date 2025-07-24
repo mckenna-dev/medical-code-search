@@ -1,0 +1,5 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+668461000000117,54985,Femoral neck DXA scan T score,440050006
+668551000000116,531,Femoral neck DXA scan result osteoporotic,440100002
+668541000000119,431,Femoral neck DXA scan result osteopenic,440099005
+668471000000112,116,Femoral neck DXA scan result normal,440083004

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 127
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1      Flag_classifyL2           MedCodeID                                                 Term
+0   3961        Diabetes  Diabetes_Mellitus_I  a12702381000006118  Diabetic oculopathy due to type I diabetes mellitus
+1   3962        Diabetes  Diabetes_Mellitus_I  a12705071000006112        Gastroparesis due to type 1 diabetes mellitus
+2   3963        Diabetes  Diabetes_Mellitus_I  a14083741000006114         Ketoacidosis due to type 1 diabetes mellitus

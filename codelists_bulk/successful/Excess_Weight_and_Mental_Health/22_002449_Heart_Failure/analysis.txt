@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 168
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\theart_failure\t\t\t\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                   \tMedCodeId\tObservations\tTerm\theart_failure\t\t\t\t
+0             0\ta139475013\t800000\tHeart failure\theart_failure\t\t\t\t
+1   1\ta70653017\t700000\tCongestive heart failure\theart_failure\t\t\t\t
+2  2\ta141306010\t700000\tLeft ventricular failure\theart_failure\t\t\t\t

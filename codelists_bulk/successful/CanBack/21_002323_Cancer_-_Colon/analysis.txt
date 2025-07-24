@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 13
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2   MedCodeID                                      Term
+0    779          Cancer          Cervix  a155218017          Malignant neoplasm of endocervix
+1    780          Cancer          Cervix  a289171010  Malignant neoplasm of endocervical canal
+2    781          Cancer          Cervix  a289172015  Malignant neoplasm of endocervical gland

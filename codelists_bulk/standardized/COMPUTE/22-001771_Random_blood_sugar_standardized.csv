@@ -1,0 +1,7 @@
+med_code_id,term,snomed_ct_concept_id,observations
+191761000006112,Random blood sugar,271061004,404670
+259310015,Random blood sugar normal,166890005,6719
+5519841000006111,Random blood glucose measurement,271061004,2617
+259312011,Random blood sugar raised,166892002,1435
+2729491000000116,Random blood glucose level,1089381000000101,638
+259311016,Random blood sugar low,166891009,121

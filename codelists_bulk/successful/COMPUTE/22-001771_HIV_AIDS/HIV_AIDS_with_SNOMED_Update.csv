@@ -1,0 +1,30 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+103844015,6000,Acquired immune deficiency syndrome,62479008
+152322017,2000,Asymptomatic human immunodeficiency virus infection,91947003
+288173019,2000,[X]Human immunodeficiency virus disease,86406008
+287021015,600,Acquired human immunodeficiency virus infection syndrome NOS,86406008
+829181000006115,400,Human immunodeficiency virus with constitutional disease,186706006
+288191012,200,[X]Unspecified human immunodeficiency virus [HIV] disease,86406008
+287012016,100,Human immunodeficiency virus with neurological disease,186707002
+287020019,70,Human immunodeficiency virus with other clinical findings,86406008
+287025012,70,HIV disease resulting in candidiasis,81000119104
+287027016,70,HIV disease resulting in multiple infections,186708007
+288190013,40,[X]HIV disease resulting in other specified conditions,86406008
+287032015,40,HIV disease resulting in lymphoid interstitial pneumonitis,421671002
+2622348012,30,HIV disease resulting in wasting syndrome,422003001
+287024011,30,HIV disease resulting in cytomegaloviral disease,81000119104
+288177018,30,[X]HIV disease resulting in other viral infections,186708007
+825791000006118,20,HIV disease resulting in multiple diseases CE,86406008
+825861000006116,20,HIV disease resulting/unspcf infectious+parasitic disease,186708007
+389021000006114,20,[X]HIV disease resulting in multiple infections,186708007
+825731000006117,20,"HIV disease result/haematological+immunologic abnorms,NEC",943041000000105
+389101000006117,20,[X]HIV disease resulting/other infectious+parasitic diseases,186708007
+288174013,10,[X]HIV disease resulting in other bacterial infections,86406008
+288182013,10,[X]HIV disease resulting in other non-Hodgkin's lymphoma,442537007
+825841000006115,10,HIV disease resulting in unspecified malignant neoplasm,86406008
+825711000006111,4,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",86406008
+288178011,4,[X]HIV disease resulting in other mycoses,86406008
+287031010,3,HIV disease resulting in multiple malignant neoplasms,713572001
+388991000006116,3,"[X]HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",86406008
+389111000006119,2,[X]HIV disease resulting/unspcf infectious+parasitic disease,186708007
+288186011,2,[X]HIV disease resulting in unspecified malignant neoplasm,86406008

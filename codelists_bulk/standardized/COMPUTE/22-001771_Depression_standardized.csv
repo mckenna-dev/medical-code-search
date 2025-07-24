@@ -1,0 +1,163 @@
+med_code_id,term,snomed_ct_concept_id,observations
+424681000006118,"Recurrent reactive depressive episodes, severe, with psychosis (disorder)",1086471000000103,400
+2730011000000110,Recurrent depression with current moderate episode (disorder),1089641000000100,30
+294826016,"Moderate major depression, single episode (disorder)",15639000,50000
+9901161000006119,Mild major depressive disorder co-occurrent with anxiety single episode (disorder),16265951000119109,20
+9901281000006116,Severe major depressive disorder co-occurrent with anxiety single episode (disorder),16266991000119108,4
+2798691000006112,Moderate recurrent major depression (disorder),18818009,20
+294838013,"Recurrent major depressive episodes, moderate (disorder)",191611001,20000
+294840015,"Recurrent major depressive episodes, severe, with psychosis (disorder)",191613003,10000
+424551000006113,"Recurrent major depressive episodes, severe, with psychosis (disorder)",191613003,1000
+424671000006116,"Recurrent major depressive episodes, severe, with psychosis (disorder)",191613003,4000
+513861000006113,"Bipolar affective disorder, currently depressed, in full remission (disorder)",191634005,800
+294894013,Atypical depressive disorder (disorder),191659001,1000
+366561000006119,Atypical depressive disorder (disorder),191659001,1000
+202561000006114,Prolonged depressive adjustment reaction (disorder),192049004,9000
+423041000006119,Post-schizophrenic depression (disorder),231485007,200
+5023901000006110,Post-schizophrenic depression (disorder),231485007,4
+346972018,Endogenous depression first episode (disorder),231499006,80000
+642461000006116,Endogenous depression first episode (disorder),231499006,50000
+346973011,Masked depression (disorder),231500002,6000
+426931000006117,Masked depression (disorder),231500002,100
+296245018,Mixed anxiety and depressive disorder (disorder),231504006,2000
+398351000006110,Mixed anxiety and depressive disorder (disorder),231504006,30000
+398561000006117,Mixed anxiety and depressive disorder (disorder),231504006,300000
+419841000006116,Mixed anxiety and depressive disorder (disorder),231504006,10000
+488211000006112,Mixed anxiety and depressive disorder (disorder),231504006,8000000
+5024071000006118,Mixed anxiety and depressive disorder (disorder),231504006,60
+142541000006115,"Severe major depression, single episode (disorder)",251000119105,20000
+2914841000006115,"Major depressive disorder, single episode with postpartum onset (disorder)",25922000,2
+410861011,Endogenous depression - recurrent (disorder),274948002,200000
+8089301000006110,"Reactive depressive psychosis, single episode (disorder)",288751000119101,20
+441826016,Endogenous depression (disorder),300706003,200000
+379781000006118,Endogenous depression (disorder),300706003,20000
+296138013,Moderate depression (disorder),310496002,700000
+296181011,Moderate depression (disorder),310496002,20000
+6000711000006112,Moderate depression (disorder),310496002,20000
+401866015,Severe depression (disorder),310497006,100000
+223741000000112,Severe depression (disorder),310497006,9000
+424531000006118,Severe depression (disorder),310497006,5000
+426891000006114,Severe depression (disorder),310497006,500
+426991000006118,Severe depression (disorder),310497006,100
+432511000006119,Severe depression (disorder),310497006,20
+3033261000006113,Recurrent major depression in partial remission (disorder),33135002,1
+294824018,"Major depression, single episode (disorder)",36923009,30000
+294832014,"Major depression, single episode (disorder)",36923009,9000
+401766011,"Major depression, single episode (disorder)",36923009,400000
+3094951000006111,"Major depression, single episode (disorder)",36923009,2
+6337491000006116,Major depressive disorder (disorder),370143000,200
+6337501000006112,Major depressive disorder (disorder),370143000,5
+294843018,Recurrent major depression in full remission (disorder),46244001,1000
+882821000006110,[X]Moderate depressive episode (disorder),465441000000108,10000
+3606411000006115,Recurrent major depression in remission (disorder),68019004,20
+3628471000006116,"Major depressive disorder, single episode with catatonic features (disorder)",69392006,9
+296198011,Depressive disorder in remission (disorder),698957003,3000
+7515151000006115,Depressive disorder in remission (disorder),698957003,60
+7803731000006112,Minimal major depression single episode (disorder),720454007,1
+379771000006116,Severe major depression with psychotic features (disorder),73867007,6000
+1715191000006112,Severe major depression with psychotic features (disorder),73867007,10000
+3700911000006115,Severe major depression with psychotic features (disorder),73867007,20
+3743451000006110,"Severe major depression, single episode, without psychotic features (disorder)",76441001,70
+182771000006112,"Recurrent major depressive episodes, severe (disorder)",764611000000100,9000
+3767531000006119,"Severe major depression, single episode, with psychotic features, mood-congruent (disorder)",77911002,5
+13902421000006110,Antenatal depression (disorder),788120007,30
+294825017,"Mild major depression, single episode (disorder)",79298009,50000
+1715181000006114,Moderate major depression (disorder),832007,10000
+138421012,Agitated depression (disorder),83458005,100000
+474171000006112,Agitated depression (disorder),83458005,80000
+8465321000006112,"Reactive depression, prolonged single episode (disorder)",1086661000000108,20
+2729751000000118,Recurrent depression with current severe episode and psychotic features (disorder),1089511000000100,30
+2729991000000112,Recurrent depression with current severe episode without psychotic features (disorder),1089631000000109,30
+12127531000006113,Recurrent mild major depressive disorder co-occurrent with anxiety (disorder),16264621000119109,60
+12127541000006115,Recurrent severe major depressive disorder co-occurrent with anxiety (disorder),16264821000119108,10
+12127551000006118,Recurrent moderate major depressive disorder co-occurrent with anxiety (disorder),16264901000119109,80
+12127561000006116,Recurrent major depressive disorder co-occurrent with anxiety in full remission (disorder),16265061000119105,3
+12127571000006111,Recurrent major depressive disorder in partial remission co-occurrent with anxiety (disorder),16265301000119106,3
+9901261000006114,Moderate major depressive disorder co-occurrent with anxiety single episode (disorder),16266831000119100,6
+294642013,Presenile dementia with depression (disorder),191455000,900
+294646011,Senile dementia with depression (disorder),191459006,4000
+294828015,"Single major depressive episode, severe, with psychosis (disorder)",191604000,10000
+401869010,"Single major depressive episode, severe, with psychosis (disorder)",191604000,50000
+426921000006115,"Single major depressive episode, severe, with psychosis (disorder)",191604000,800
+426961000006114,"Single major depressive episode, severe, with psychosis (disorder)",191604000,2000
+294837015,"Recurrent major depressive episodes, mild (disorder)",191610000,10000
+294844012,Recurrent depression (disorder),191616006,300000
+296199015,Recurrent depression (disorder),191616006,1000
+401873013,Recurrent depression (disorder),191616006,300000
+401876017,Recurrent depression (disorder),191616006,10000
+424631000006119,Recurrent depression (disorder),191616006,2000
+424641000006112,Recurrent depression (disorder),191616006,2000
+424651000006114,Recurrent depression (disorder),191616006,5000
+294917018,Reactive depressive psychosis (disorder),191676002,10000
+294918011,Reactive depressive psychosis (disorder),191676002,20000
+426951000006112,Reactive depressive psychosis (disorder),191676002,100
+426981000006116,Reactive depressive psychosis (disorder),191676002,200
+295537016,Chronic depression (disorder),192080009,300000
+294831019,Single episode of major depression in full remission (disorder),19527009,300
+5106051000006119,Mild postnatal depression (disorder),237349002,100
+369982012,Seasonal affective disorder (disorder),247803002,20000
+425411000006110,Seasonal affective disorder (disorder),247803002,10000
+425751000006115,Seasonal affective disorder (disorder),247803002,400
+294836012,Recurrent major depressive episodes (disorder),268621008,10000
+294845013,Recurrent major depressive episodes (disorder),268621008,10000
+182721000006111,Recurrent major depressive episodes (disorder),268621008,50000
+396081000006116,Recurrent major depressive episodes (disorder),268621008,2000
+424541000006111,Severe recurrent major depression with psychotic features (disorder),28475009,2000
+424571000006115,Severe recurrent major depression with psychotic features (disorder),28475009,5000
+2957311000006113,Severe recurrent major depression with psychotic features (disorder),28475009,500
+296137015,Mild depression (disorder),310495003,200000
+296180012,Mild depression (disorder),310495003,6000
+213641000000111,Mild depression (disorder),310495003,90000
+295535012,Depressive disorder (disorder),35489007,5000000
+401871010,Depressive disorder (disorder),35489007,9000
+401872015,Depressive disorder (disorder),35489007,600000
+376691000006116,Depressive disorder (disorder),35489007,5000000
+376711000006118,Depressive disorder (disorder),35489007,50000
+376721000006114,Depressive disorder (disorder),35489007,1000000
+398841000006119,Depressive disorder (disorder),35489007,100
+613791000006115,Depressive disorder (disorder),35489007,30000
+3071791000006111,Depressive disorder (disorder),35489007,100
+3071801000006112,Depressive disorder (disorder),35489007,900
+967791000006111,Cotard's syndrome (disorder),357705009,70
+396771000006117,Severe recurrent major depression without psychotic features (disorder),36474008,300
+3087971000006112,Severe recurrent major depression without psychotic features (disorder),36474008,10
+882831000006113,[X]Severe depressive episode without psychotic symptoms (disorder),397701000000102,5000
+3149661000006117,Mild recurrent major depression (disorder),40379007,4
+424561000006110,Recurrent brief depressive disorder (disorder),40568001,400
+3153071000006116,Recurrent brief depressive disorder (disorder),40568001,100
+7061221000006119,Premenstrual dysphoric disorder in remission (disorder),426578000,1
+3190221000006112,Major depression in remission (disorder),42810003,10
+882811000006119,[X]Mild depressive episode (disorder),430421000000104,5000
+3531371000006112,Major depression in full remission (disorder),63412003,4
+142521000006110,"Major depression single episode, in partial remission (disorder)",70747007,500
+7803711000006118,Moderately severe major depression single episode (disorder),720453001,20
+1715781000006110,Severe major depression without psychotic features (disorder),75084000,5000
+1755901000006112,"Single major depressive episode, severe, with psychosis, psychosis in remission (disorder)",755321000000106,2000
+8232571000006118,"Single major depressive episode, severe, with psychosis, psychosis in remission (disorder)",755321000000106,400
+1755911000006110,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission (disorder)",755331000000108,2000
+8232591000006117,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission (disorder)",755331000000108,300
+182801000006114,"Recurrent major depressive episodes, in partial remission (disorder)",764691000000109,700
+8237831000006115,"Recurrent major depressive episodes, in partial remission (disorder)",764691000000109,3
+8237851000006110,"Single major depressive episode, in remission (disorder)",764711000000106,2
+367061000006114,Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder),765176007,2000
+396781000006119,Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder),765176007,500
+513721000006114,Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder),765176007,800
+376741000006119,Dysthymia (disorder),78667006,3000
+379431000006113,Dysthymia (disorder),78667006,40000
+399841000006110,Dysthymia (disorder),78667006,2000
+399961000006118,Dysthymia (disorder),78667006,8000
+613781000006118,Dysthymia (disorder),78667006,40000
+677031000006115,Dysthymia (disorder),78667006,10000
+677321000006115,Dysthymia (disorder),78667006,200000
+882421000006113,Dysthymia (disorder),78667006,3000
+425501000006113,"Schizoaffective disorder, depressive type (disorder)",84760002,7000
+425561000006114,"Schizoaffective disorder, depressive type (disorder)",84760002,1000
+425691000006119,"Schizoaffective disorder, depressive type (disorder)",84760002,300
+359121000006116,Reactive depression (situational) (disorder),87414006,400000
+423611000006111,Reactive depression (situational) (disorder),87414006,1000
+426911000006111,Reactive depression (situational) (disorder),87414006,7000
+426941000006110,Reactive depression (situational) (disorder),87414006,1000
+426971000006119,Reactive depression (situational) (disorder),87414006,8000
+675861000006113,Reactive depression (situational) (disorder),87414006,800000
+882401000006115,Reactive depression (situational) (disorder),87414006,80000
+1715771000006112,Mild major depression (disorder),87512008,1000

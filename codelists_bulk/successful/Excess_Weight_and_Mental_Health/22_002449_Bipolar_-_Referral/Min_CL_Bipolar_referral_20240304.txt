@@ -1,0 +1,2 @@
+	MedCodeId	Observations	Term	Bipolar_referral
+0	6891981000006111	3	Referral for bipolar disorder	Bipolar_referral

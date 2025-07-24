@@ -1,0 +1,92 @@
+MedCodeId	Observations	Term	chronic_kidney_disease_3_to_5
+a304071000000115	3000000	Chronic kidney disease stage 3	chronic_kidney_disease_3_to_5
+a304091000000116	500000	Chronic kidney disease stage 4	chronic_kidney_disease_3_to_5
+a509111010	400000	Chronic renal failure	chronic_kidney_disease_3_to_5
+a557811000000119	100000	Chronic kidney disease stage 3A	chronic_kidney_disease_3_to_5
+a304111000000114	100000	Chronic kidney disease stage 5	chronic_kidney_disease_3_to_5
+a595871000000110	100000	Chronic kidney disease stage 3 without proteinuria	chronic_kidney_disease_3_to_5
+a595991000000115	80000	Chronic kidney disease stage 3A without proteinuria	chronic_kidney_disease_3_to_5
+a557831000000110	60000	Chronic kidney disease stage 3B	chronic_kidney_disease_3_to_5
+a215521000000116	40000	End stage renal disease	chronic_kidney_disease_3_to_5
+a595811000000117	30000	Chronic kidney disease stage 3 with proteinuria	chronic_kidney_disease_3_to_5
+a596131000000114	30000	Chronic kidney disease stage 3B without proteinuria	chronic_kidney_disease_3_to_5
+a1940621000006111	30000	CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1	chronic_kidney_disease_3_to_5
+a618441000000117	30000	CKD stage 3 without proteinuria	chronic_kidney_disease_3_to_5
+a618461000000116	30000	CKD stage 3A without proteinuria	chronic_kidney_disease_3_to_5
+a2773184015	20000	Chronic kidney disease stage 3	chronic_kidney_disease_3_to_5
+a596191000000110	20000	Chronic kidney disease stage 4 with proteinuria	chronic_kidney_disease_3_to_5
+a596261000000111	20000	Chronic kidney disease stage 4 without proteinuria	chronic_kidney_disease_3_to_5
+a595931000000116	10000	Chronic kidney disease stage 3A with proteinuria	chronic_kidney_disease_3_to_5
+a596051000000115	10000	Chronic kidney disease stage 3B with proteinuria	chronic_kidney_disease_3_to_5
+a1940651000006119	10000	CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1	chronic_kidney_disease_3_to_5
+a618431000000114	10000	CKD stage 3 with proteinuria	chronic_kidney_disease_3_to_5
+a618481000000113	10000	CKD stage 3B without proteinuria	chronic_kidney_disease_3_to_5
+a618491000000110	9000	CKD stage 4 with proteinuria	chronic_kidney_disease_3_to_5
+a480871000006117	8000	Anaemia of chronic renal failure	chronic_kidney_disease_3_to_5
+a641471000006117	8000	End stage renal failure	chronic_kidney_disease_3_to_5
+a1940631000006114	7000	CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2	chronic_kidney_disease_3_to_5
+a1940661000006117	6000	CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2	chronic_kidney_disease_3_to_5
+a618471000000111	6000	CKD stage 3B with proteinuria	chronic_kidney_disease_3_to_5
+a618501000000116	6000	CKD stage 4 without proteinuria	chronic_kidney_disease_3_to_5
+a596321000000110	5000	Chronic kidney disease stage 5 with proteinuria	chronic_kidney_disease_3_to_5
+a618451000000119	5000	CKD stage 3A with proteinuria	chronic_kidney_disease_3_to_5
+a354417015	4000	Acute-on-chronic renal failure	chronic_kidney_disease_3_to_5
+a454255014	4000	Anaemia secondary to renal failure	chronic_kidney_disease_3_to_5
+a2767385013	3000	Chronic kidney disease stage 4	chronic_kidney_disease_3_to_5
+a1940671000006112	3000	CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3	chronic_kidney_disease_3_to_5
+a1940511000006116	3000	CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2	chronic_kidney_disease_3_to_5
+a1940521000006112	3000	CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3	chronic_kidney_disease_3_to_5
+a618511000000119	3000	CKD stage 5 with proteinuria	chronic_kidney_disease_3_to_5
+a641491000006116	3000	End-stage renal disease	chronic_kidney_disease_3_to_5
+a3245871000006111	3000	ESRD - End stage renal disease	chronic_kidney_disease_3_to_5
+a773041000006111	3000	Insertion of chronic ambulatory peritoneal dialysis catheter	chronic_kidney_disease_3_to_5
+a596401000000111	2000	Chronic kidney disease stage 5 without proteinuria	chronic_kidney_disease_3_to_5
+a1940641000006116	2000	CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3	chronic_kidney_disease_3_to_5
+a1940501000006119	2000	CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1	chronic_kidney_disease_3_to_5
+a2767154014	1000	Chronic kidney disease stage 5	chronic_kidney_disease_3_to_5
+a1940571000006113	1000	CKD G1A2 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2	chronic_kidney_disease_3_to_5
+a1940551000006115	1000	CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3	chronic_kidney_disease_3_to_5
+a618521000000113	1000	CKD stage 5 without proteinuria	chronic_kidney_disease_3_to_5
+a3245851000006118	900	ESRF - End stage renal failure	chronic_kidney_disease_3_to_5
+a305192017	300	[X]Other chronic renal failure	chronic_kidney_disease_3_to_5
+a994421000006111	200	Chronic kidney disease stage 3	chronic_kidney_disease_3_to_5
+a1940531000006110	200	CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1	chronic_kidney_disease_3_to_5
+a1940541000006117	200	CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2	chronic_kidney_disease_3_to_5
+a12704471000006116	100	End-stage renal disease	chronic_kidney_disease_3_to_5
+a7147781000006115	80	CKD stage 4	chronic_kidney_disease_3_to_5
+a7174791000006111	50	CKD stage 3	chronic_kidney_disease_3_to_5
+a7174851000006111	40	CKD stage 5	chronic_kidney_disease_3_to_5
+a3245841000006115	20	End stage kidney disease	chronic_kidney_disease_3_to_5
+a3245861000006116	20	ESCRF - End stage chronic renal failure	chronic_kidney_disease_3_to_5
+a994441000006116	10	Chronic kidney disease stage 5	chronic_kidney_disease_3_to_5
+a5094161000006119	10	End stage renal failure on dialysis	chronic_kidney_disease_3_to_5
+a7714891000006118	10	Chronic kidney disease stage 5 on dialysis	chronic_kidney_disease_3_to_5
+a5094161000006119	10	End stage renal failure on dialysis	chronic_kidney_disease_3_to_5
+a5120141000006114	10	Flushing of chronic ambulatory peritoneal dialysis catheter	chronic_kidney_disease_3_to_5
+a3245881000006114	8	End stage chronic renal failure	chronic_kidney_disease_3_to_5
+a8212401000006115	7	Anaemia co-occurrent and due to chronic kidney disease stage 3	chronic_kidney_disease_3_to_5
+a7966641000006113	6	Chronic kidney disease stage 4 due to type 2 diabetes mellitus	chronic_kidney_disease_3_to_5
+a5094171000006114	5	End stage renal failure with renal transplant	chronic_kidney_disease_3_to_5
+a8040681000006112	4	Chronic kidney disease stage 3 due to hypertension	chronic_kidney_disease_3_to_5
+a7966691000006116	4	Chronic kidney disease stage 3 due to type 2 diabetes mellitus	chronic_kidney_disease_3_to_5
+a8104451000006111	4	CKD (chronic kidney disease) stage 4 with proteinuria	chronic_kidney_disease_3_to_5
+a3973811000006118	4	Chronic renal failure syndrome	chronic_kidney_disease_3_to_5
+a2002971000006118	3	Chronic kidney disease 4 monthly review	chronic_kidney_disease_3_to_5
+a8030421000006114	3	Hypertensive heart AND chronic kidney disease stage 4	chronic_kidney_disease_3_to_5
+a2002961000006113	2	Chronic kidney disease 3 monthly review	chronic_kidney_disease_3_to_5
+a7966611000006114	2	Chronic kidney disease stage 5 due to type 2 diabetes mellitus	chronic_kidney_disease_3_to_5
+a8104231000006115	2	CKD (chronic kidney disease) stage 3 with proteinuria	chronic_kidney_disease_3_to_5
+a8104301000006115	2	CKD (chronic kidney disease) stage 3A with proteinuria	chronic_kidney_disease_3_to_5
+a8104381000006112	2	CKD (chronic kidney disease) stage 3B with proteinuria	chronic_kidney_disease_3_to_5
+a5094141000006118	2	Acute on chronic renal failure	chronic_kidney_disease_3_to_5
+a8030431000006112	1	Hypertensive heart AND chronic kidney disease stage 3	chronic_kidney_disease_3_to_5
+a8030441000006119	1	Hypertensive heart AND chronic kidney disease stage 2	chronic_kidney_disease_3_to_5
+a8030451000006117	1	Hypertensive heart AND chronic kidney disease stage 1	chronic_kidney_disease_3_to_5
+a8027491000006113	1	Chronic kidney disease stage 5 due to type 1 diabetes mellitus	chronic_kidney_disease_3_to_5
+a8345931000006110	1	Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3	chronic_kidney_disease_3_to_5
+a8346021000006117	1	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2	chronic_kidney_disease_3_to_5
+a8104261000006112	1	CKD (chronic kidney disease) stage 3 without proteinuria	chronic_kidney_disease_3_to_5
+a7615371000006117	1	Anaemia in end stage renal disease	chronic_kidney_disease_3_to_5
+a7043231000006112	1	Chronic progressive renal failure	chronic_kidney_disease_3_to_5
+a3973841000006119	1	CRF - Chronic renal failure	chronic_kidney_disease_3_to_5
+a5120131000006116	1	Aspiration of chronic ambulatory peritoneal dialysis catheter	chronic_kidney_disease_3_to_5

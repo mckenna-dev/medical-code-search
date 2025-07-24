@@ -1,0 +1,19 @@
+MedCodeId,MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,os_term,originalreadcode,cleansedreadcode,snomedctdescriptionid,release,emiscodecategoryid,simpleterm
+162755006,11905141000006112,O/E - height,,162755006,On examination - height,^ESCT1190514,,253669010,,27,o/e - height
+162755006,4551671000006115,On examination - height,,162755006,On examination - height,^ESCTON455167,,2666494014,,31,on examination - height
+162756007,4551691000006119,On examination - height greater than 20% below average,,162756007,On examination - height greater than 20% below average,^ESCTON455169,,2666495010,,2,on examination - height greater than 20% below average
+162756007,4551681000006117,O/E - height greater than 20% below average,,162756007,On examination - height greater than 20% below average,^ESCTOE455168,,253670011,,2,o/e - height greater than 20% below average
+162756007,271181000006113,O/E-height > 20% below average,,162756007,On examination - height greater than 20% below average,2291,2291.00,253670011,,2,o/e-height > 20% below average
+162757003,4551701000006119,O/E - height 10-20% below average,,162757003,On examination - height 10-20% below average,^ESCTOE455170,,253671010,,2,o/e - height 10-20% below average
+162757003,284561000006119,O/E - height 10-20% < average,,162757003,On examination - height 10-20% below average,2292,2292.00,253671010,,2,o/e - height 10-20% < average
+162757003,4551711000006116,On examination - height 10-20% below average,,162757003,On examination - height 10-20% below average,^ESCTON455171,,2666500013,,2,on examination - height 10-20% below average
+162758008,4551731000006110,On examination - height within 10% average,,162758008,On examination - height within 10% average,^ESCTON455173,,2666501012,,2,on examination - height within 10% average
+162758008,253672015,O/E -height within 10% average,,162758008,On examination - height within 10% average,2293,2293.00,253672015,,2,o/e -height within 10% average
+162759000,253673013,O/E-height 10-20% over average,,162759000,On examination - height 10-20% over average,2294,2294.00,253673013,,2,o/e-height 10-20% over average
+162759000,4551751000006115,On examination - height 10-20% over average,,162759000,On examination - height 10-20% over average,^ESCTON455175,,2668038013,,2,on examination - height 10-20% over average
+162760005,4551771000006113,On examination - height greater than 20% over average,,162760005,On examination - height greater than 20% over average,^ESCTON455177,,2668039017,,2,on examination - height greater than 20% over average
+162760005,4551761000006118,O/E - height greater than 20% over average,,162760005,On examination - height greater than 20% over average,^ESCTOE455176,,253674019,,2,o/e - height greater than 20% over average
+162760005,272151000006114,O/E -height > 20% over average,,162760005,On examination - height greater than 20% over average,2295,2295.00,253674019,,2,o/e -height > 20% over average
+248333004,253669010,Standing height,,248333004,Standing height,229,229..00,370729019,,2,standing height
+248333004,253676017,O/E - height NOS,,248333004,Standing height,229Z,229Z.00,370729019,,2,o/e - height nos
+248333004,5256151000006111,Standing height,,248333004,Standing height,^ESCTST525615,,5256151000006111,,2,standing height

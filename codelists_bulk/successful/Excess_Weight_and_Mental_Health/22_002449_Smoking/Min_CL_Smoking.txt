@@ -1,0 +1,219 @@
+	MedCodeId	Observations	Term	smoke_category
+0	a102921000006112	2000000	Tobacco smoking consumption	current-smoker
+1	a108938018	20000000	Cigarette smoker	current-smoker
+2	a503483019	10000000	Current smoker	current-smoker
+3	a700121000006118	3000000	Moderate cigarette smoker (10-19 cigs/day)	current-smoker
+4	a250372012	2000000	Trying to give up smoking	current-smoker
+5	a743331000006116	2000000	Light cigarette smoker (1-9 cigs/day)	current-smoker
+6	a250375014	1000000	Rolls own cigarettes	current-smoker
+7	a819331000006110	1000000	Heavy cigarette smoker (20-39 cigs/day)	current-smoker
+8	a1488578010	900000	Not interested in stopping smoking	current-smoker
+9	a128130017	800000	Smoker	current-smoker
+10	a344793011	800000	Cigarette consumption	current-smoker
+11	a459722017	800000	Referral to stop-smoking clinic	current-smoker
+12	a1488576014	700000	Thinking about stopping smoking	current-smoker
+13	a88471000006112	500000	Trivial cigarette smoker (less than one cigarette/day)	current-smoker
+14	a1488577017	400000	Ready to stop smoking	current-smoker
+15	a1780396011	400000	Cigarette pack-years	current-smoker
+16	a342574011	400000	Total time smoked	current-smoker
+17	a498831000006118	400000	Attends stop smoking monitoring	current-smoker
+18	a99639019	300000	Cigar smoker	current-smoker
+19	a128381000006117	200000	Stop smoking monitoring check done	current-smoker
+20	a136515019	200000	Pipe smoker	current-smoker
+21	a21681000000118	200000	Anti-smoking monitoring admin.	current-smoker
+22	a909391000006117	20000	[RFC] Smoking cessation	current-smoker
+23	a397733018	200000	Occasional smoker	current-smoker
+24	a338608011	40000000	Smoking cessation advice	current-smoker
+25	a1489355012	1000000	Referral to smoking cessation advisor	current-smoker
+26	a856371000006111	200000	Smoking clinic	current-smoker
+27	a128311000006112	100000	Stop smoking monitoring first letter	current-smoker
+28	a1488873010	100000	Smoking free weeks	current-smoker
+29	a1715591000006117	100000	Referral to National Health Service stop smoking service	current-smoker
+30	a1750931000000118	100000	Stop smoking service opportunity signposted	current-smoker
+31	a21691000000116	100000	Anti-smoking monitoring administration	current-smoker
+32	a2474719011	100000	Minutes from waking to first tobacco consumption	current-smoker
+33	a2669652019	100000	Smoking started	current-smoker
+34	a67621000006112	100000	Very heavy cigarette smoker (40+ cigs/day)	current-smoker
+35	a128371000006115	90000	Stop smoking monitoring verbal invite	current-smoker
+36	a1780273014	1000000	Seen by smoking cessation advisor	current-smoker
+37	a137721000006115	70000	Smoker - amount smoked	current-smoker
+38	a1176421000000118	900000	Smoking cessation advice declined	current-smoker
+39	a250387019	70000	Tobacco consumption NOS	current-smoker
+40	a1175011000000112	400000	Smoking cessation programme declined	current-smoker
+41	a1484933010	400000	Negotiated date for cessation of smoking	current-smoker
+42	a1592611000000110	60000	Failed attempt to stop smoking	current-smoker
+43	a16261000000110	60000	Stop smoking monitoring administration	current-smoker
+44	a250368013	60000	Keeps trying to stop smoking	current-smoker
+45	a1773560017	300000	Smoking cessation programme start date	current-smoker
+46	a37311000006117	50000	Other anti-smoking drug given	current-smoker
+47	a854021000006115	50000	Cigarette smoker	current-smoker
+48	a904021000006118	50000	Previous smoking quit attempts	current-smoker
+49	a1484935015	40000	Smoking status between 4 and 52 weeks	current-smoker
+50	a216212011	40000	Smoking reduced	current-smoker
+51	a2141561000000115	300000	Smoking cessation drug therapy declined	current-smoker
+52	a1152111000000118	30000	Current smoker annual review	current-smoker
+53	a1125741000000111	200000	Brief intervention for smoking cessation	current-smoker
+54	a25281000000119	30000	Stop smoking clinic administration	current-smoker
+55	a1709641000000115	200000	Referral for smoking cessation service offered	current-smoker
+56	a604961000006114	30000	Current Smoker NOS	current-smoker
+57	a904091000006116	30000	Date of last cigarette	current-smoker
+58	a128361000006110	20000	Stop smoking monitoring telephone invite	current-smoker
+59	a2251871000000112	200000	Referral to smoking cessation service declined	current-smoker
+60	a1780360012	20000	Reason for restarting smoking	current-smoker
+61	a2670126018	20000	Smoking restarted	current-smoker
+62	a62881000000117	200000	DNA - Did not attend smoking cessation clinic	current-smoker
+63	a344794017	20000	Cigar consumption	current-smoker
+64	a904181000006118	80000	Smoking cessation counselling	current-smoker
+65	a904121000006117	20000	Carbon monoxide validation confirms smoker	current-smoker
+66	a2251911000000114	70000	Referral to smoking cessation service	current-smoker
+67	a852131000006112	70000	Smoking cessation-practice nurse support	current-smoker
+68	a904011000006114	70000	Smoking cessation declaration signed by patient	current-smoker
+69	a128321000006116	10000	Stop smoking monitoring second letter	current-smoker
+70	a137791000006118	10000	Smoking restarted	current-smoker
+71	a285793015	10000	Stop smoking monitor default	current-smoker
+72	a342613016	10000	Exposed to tobacco smoke at home	current-smoker
+73	a285792013	50000	Monitoring of smoking cessation therapy refused	current-smoker
+74	a854071000006119	10000	Current smoker	current-smoker
+75	a736241000000116	40000	Smoking cessation enhanced services administration	current-smoker
+76	a1626121000006116	30000	Smoking cessation drug therapy - varenicline	current-smoker
+77	a137711000006111	8000	Smoker (Read codes)	current-smoker
+78	a78013015	8000	Smokers' cough	current-smoker
+79	a2170961000000116	7000	Waterpipe tobacco consumption	current-smoker
+80	a344795016	7000	Pipe tobacco consumption	current-smoker
+81	a128331000006118	4000	Stop smoking monitoring third letter	current-smoker
+82	a1484936019	4000	Smoking status at 52 weeks	current-smoker
+83	a8063181000006116	4000	Wants to stop smoking	current-smoker
+84	a482871000000111	30000	Other specified smoking cessation therapy	current-smoker
+85	a854961000006110	4000	Grade B light smoker (1-10/day)	current-smoker
+86	a854981000006117	4000	Grade C moderate smoker (11-20/day)	current-smoker
+87	a2717211000000112	20000	Signposting to smoking cessation service	current-smoker
+88	a904241000006115	20000	Smoking cessation counselling in person	current-smoker
+89	a250369017	3000	Admitted tobacco consumption possibly untrue	current-smoker
+90	a961581000006114	3000	Smokes/uses tobacco products	current-smoker
+91	a852121000006114	10000	Smoking cessation-maintain abstinence	current-smoker
+92	a1694421000006112	2000	Stop smoking monitoring admin.	current-smoker
+93	a1708051000000119	2000	Smoking status at 12 weeks	current-smoker
+94	a1888831000006110	2000	Primary carer current smoker	current-smoker
+95	a904231000006113	9000	Smoking cessation counselling by telephone	current-smoker
+96	a1591651000006110	2000	Smoking cessation referral declined	current-smoker
+97	a2462431000000110	2000	Varenicline smoking cessation therapy offered	current-smoker
+98	a460828018	2000	Tobacco user	current-smoker
+99	a5003151000006116	2000	Light cigarette smoker	current-smoker
+100	a855001000006114	2000	Grade D heavy smoker (>20 Day)	current-smoker
+101	a2982426011	2000	Provision of smoking cessation leaflet	current-smoker
+102	a11904991000006116	1000	Occasional cigarette smoker	current-smoker
+103	a303501000000115	2000	Smoking cessation advice provided by community pharmacist	current-smoker
+104	a13499671000006118	1000	Brief intervention for smoking cessation	current-smoker
+105	a7375991000006118	1000	Smokes tobacco daily	current-smoker
+106	a852111000006118	1000	Gradual smoking reduction	current-smoker
+107	a854111000006110	1000	Past smoker	current-smoker
+108	a5003161000006119	900	Moderate cigarette smoker	current-smoker
+109	a981841000006115	900	Exposure to cigarette/cigar smoke	current-smoker
+110	a1771191000006119	800	Attends smoking cessation clinic not at practice	current-smoker
+111	a5003171000006114	800	Heavy cigarette smoker	current-smoker
+112	a852981000006111	800	Rolls own cigarettes	current-smoker
+113	a1778181000006110	500	Group session: Stop smoking education programme	current-smoker
+114	a1809131000006111	500	Total time smoked	current-smoker
+115	a1714541000006110	400	Current smoker annual review - enhanced services admin	current-smoker
+116	a285805010	400	Stop smoking monitoring delete	current-smoker
+117	a8153371000006117	400	Occasional tobacco smoker	current-smoker
+118	a1777011000006118	200	Reason for referral: Smoking Cessation	current-smoker
+119	a3419101000006116	200	Moderate smoker (20 or less per day)	current-smoker
+120	a1746211000006111	100	Smoking status at 12 weeks	current-smoker
+121	a1819411000006114	90	Smoking increased	current-smoker
+122	a3422221000006116	80	Heavy smoker (over 20 per day)	current-smoker
+123	a5003181000006112	50	Very heavy cigarette smoker	current-smoker
+124	a903981000006117	50	Not interested in stopping smoking	current-smoker
+125	a2462391000000119	30	Varenicline smoking cessation therapy declined	current-smoker
+126	a904001000006111	30	Ready to stop smoking	current-smoker
+127	a5003191000006110	20	Chain smoker	current-smoker
+128	a5495941000006114	20	Occasional smoker	current-smoker
+129	a5495951000006111	20	Occasional cigarette smoker (less than one cigarette/day)	current-smoker
+130	a904041000006113	20	Waking time to first cigarette	current-smoker
+131	a904031000006115	8	Thinking about stopping smoking	current-smoker
+132	a13494621000006118	7	Referral for brief intervention for smoking cessation	current-smoker
+133	a903051000006112	7	Tobacco Consumption Nil	current-smoker
+134	a5495901000006112	5	Amount and type of tobacco smoked	current-smoker
+135	a4948531000006116	4	Smokes in bed	current-smoker
+136	a1809121000006113	2	Waterpipe tobacco consumption	current-smoker
+137	a5003141000006118	2	Trivial cigarette smoker	current-smoker
+138	a1785671000006116	80000	Stop smoking invitation first short message service text message	current-smoker
+139	a1751721000000113	30000	Stop smoking invitation short message service text message	current-smoker
+140	a1785681000006118	6000	Stop smoking invitation second short message service text message	current-smoker
+141	a1785691000006115	3000	Stop smoking invitation third short message service text message	current-smoker
+142	a854151000006111	6000	Date stopped smoking	ex-smoker
+143	a649841000006110	30000000	Ex-smoker	ex-smoker
+144	a250373019	4000000	Stopped smoking	ex-smoker
+145	a250365011	2000000	Ex-moderate cigarette smoker (10-19/day)	ex-smoker
+146	a250385010	2000000	Date ceased smoking	ex-smoker
+147	a418914010	2000000	Ex-cigarette smoker	ex-smoker
+148	a250364010	1000000	Ex-light cigarette smoker (1-9/day)	ex-smoker
+149	a250371017	1000000	Ex-smoker - amount unknown	ex-smoker
+150	a250366012	900000	Ex-heavy cigarette smoker (20-39/day)	ex-smoker
+151	a250363016	500000	Ex-trivial cigarette smoker (<1/day)	ex-smoker
+152	a250367015	200000	Ex-very heavy cigarette smoker (40+/day)	ex-smoker
+153	a649861000006114	100000	Ex-Cigarette Smoker	ex-smoker
+154	a649821000006115	50000	Ex-cigar smoker	ex-smoker
+155	a649831000006117	50000	Ex-pipe smoker	ex-smoker
+156	a1151791000000117	30000	Recently stopped smoking	ex-smoker
+157	a1154471000000114	30000	Ex-smoker annual review	ex-smoker
+158	a1059701000000119	20000	Ex roll-up cigarette smoker	ex-smoker
+159	a649851000006112	20000	Ex- Rolled Tobacco Smoker	ex-smoker
+160	a903041000006110	10000	EX-Smoker NOS	ex-smoker
+161	a5496031000006112	3000	Ex-cigarette smoker amount unknown	ex-smoker
+162	a2735181000000113	1000	Ex-smoker amount unknown	ex-smoker
+163	a4980561000006117	700	Time since stopped smoking	ex-smoker
+164	a853001000006110	400	Ex-smoker NOS	ex-smoker
+165	a1123951000000110	200	Ex-smoker annual review - enhanced services administration	ex-smoker
+166	a2735381000000111	100	Ex-light smoker (1-9/day)	ex-smoker
+167	a2735421000000119	100	Ex-trivial smoker (<1/day)	ex-smoker
+168	a8017571000006117	100	Ex-smoker for more than 1 year	ex-smoker
+169	a854051000006112	100	Ex-pipe smoker	ex-smoker
+170	a2735281000000119	80	Ex-heavy smoker (20-39/day)	ex-smoker
+171	a2735331000000112	60	Ex-moderate smoker (10-19/day)	ex-smoker
+172	a3513199018	40	Ex-smoker for less than 1 year	ex-smoker
+173	a298701000000114	30	History of tobacco use	ex-smoker
+174	a2735201000000112	20	Ex-very heavy smoker (40+/day)	ex-smoker
+175	a6217281000006116	2	Aggressive ex-smoker	ex-smoker
+176	a6217151000006116	1	Intolerant ex-smoker	ex-smoker
+177	a7832561000006114	3	e-cigarette user	ex-smoker
+178	a7832541000006110	1	e-cigarette	ex-smoker
+179	a1484932017	200000	Smoking cessation milestones	ex-smoker
+180	a1009271000006118	20000	Non Smoker - Nos	non-smoker
+181	a14866014	2000000	Non-smoker	non-smoker
+182	a904111000006113	30000	Carbon monoxide validation confirms non-smoker	non-smoker
+183	a1154431000000112	20000	Non-smoker annual review	non-smoker
+184	a1123751000000113	5000	Non-smoker annual review - enhanced services administration	non-smoker
+185	a854951000006113	4000	Grade A non-smoker	non-smoker
+186	a397732011	70000000	Never smoked tobacco	non-smoker
+187	a5495921000006119	3000	Never smoked	non-smoker
+188	a7965041000006111	400	Never smoked any substance	non-smoker
+189	a72373013	200000	Passive smoker	smoke_unknown
+190	a482771000000118	100000	Smoking cessation drug therapy	smoke_unknown
+191	a250374013	10000000	Current non-smoker	smoke_unknown
+192	a1888821000006112	10000	Primary carer current non-smoker	smoke_unknown
+193	a818061000006111	10000000	Smoking cessation education	smoke_unknown
+194	a137811000006119	500000	Smoking Status	smoke_unknown
+195	a137771000006119	200000	Smoking Age Started	smoke_unknown
+196	a1662951000000113	200000	Declined consent for follow-up by smoking cessation team	smoke_unknown
+197	a5999811000006115	100000	Smoking monitoring invitation	smoke_unknown
+198	a102951000006115	80000	Tobacco dependence	smoke_unknown
+199	a295256013	1000	"Tobacco dependence, unspecified"	smoke_unknown
+200	a8061901000006111	700	Attends practice smoking cessation clinic	smoke_unknown
+201	a295260011	500	Tobacco dependence NOS	smoke_unknown
+202	a3959111000006111	400	Tobacco dependence syndrome	smoke_unknown
+203	a295257016	100	"Tobacco dependence, continuous"	smoke_unknown
+204	a295259018	100	Tobacco dependence in remission	smoke_unknown
+205	a295258014	30	"Tobacco dependence, episodic"	smoke_unknown
+206	a492511000000117	200000	Smoking cessation therapy	smoke_unknown
+207	a137761000006114	70000	Smoking Age Ceased	smoke_unknown
+208	a1563081000000115	20000	Practice based smoking cessation programme start date	smoke_unknown
+209	a489931000000114	20000	Smoking cessation therapy NOS	smoke_unknown
+210	a904221000006110	20000	Smoking cessation bupropion therapy	smoke_unknown
+211	a904191000006115	10000	Smoking cessation motivation score	smoke_unknown
+212	a8221521000006111	4000	Smoking cessation	smoke_unknown
+213	a904141000006112	4000	Smoking cessation 4 week F/U not completed	smoke_unknown
+214	a904161000006111	2000	Smoking cessation 52 week F/U completed	smoke_unknown
+215	a1825081000006118	1000	Smoking cessation 12 week F/U completed	smoke_unknown
+216	a904151000006114	20000	Smoking cessation 4 week F/U completed	smoke_unknown
+217	a904201000006117	4000	Smoking cessation confidence score	smoke_unknown

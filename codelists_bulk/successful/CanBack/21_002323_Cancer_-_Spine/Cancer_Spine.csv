@@ -1,0 +1,10 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2236,Cancer,Spine,a720631000006115,"Malignant neoplasm, overlapping lesion of brain",L1:Cancer_L2:Spine,B51y200
+2237,Cancer,Spine,a726641000006111,Malignant neoplasm of cranial nerves,L1:Cancer_L2:Spine,B520.00
+2238,Cancer,Spine,a289369015,Malignant neoplasm of olfactory bulb,L1:Cancer_L2:Spine,B520000
+2239,Cancer,Spine,a155425014,Malignant neoplasm of optic nerve,L1:Cancer_L2:Spine,B520100
+2240,Cancer,Spine,a727841000006110,Malignant neoplasm of acoustic nerve,L1:Cancer_L2:Spine,B520200
+2241,Cancer,Spine,a289374011,Malignant neoplasm of cranial nerves NOS,L1:Cancer_L2:Spine,B520z00
+2242,Cancer,Spine,a721751000006111,Malignant neoplasm of spinal cord,L1:Cancer_L2:Spine,B522.00
+2243,Cancer,Spine,a482741013,Malignant neoplasm of cauda equina,L1:Cancer_L2:Spine,B525.00
+2244,Cancer,Spine,a306771000006119,Chordoma,L1:Cancer_L2:Spine,BBa5.00

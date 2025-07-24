@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 42
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                              Term
+0   1407          Cancer            Lung        a288808013  Malignant neoplasm of trachea, bronchus and lung
+1   1408          Cancer            Lung  a721391000006116                     Malignant neoplasm of trachea
+2   1409          Cancer            Lung        a288810010           Malignant neoplasm of mucosa of trachea

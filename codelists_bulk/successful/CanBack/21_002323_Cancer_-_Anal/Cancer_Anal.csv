@@ -1,0 +1,4 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+494,Cancer,Anal,a380137014,Anal carcinoma,L1:Cancer_L2:Anal,B142.11
+495,Cancer,Anal,a174518012,Malignant neoplasm of cloacogenic zone,L1:Cancer_L2:Anal,B142000
+496,Cancer,Anal,a288685011,Malignant neoplasm of anus unspecified,L1:Cancer_L2:Anal,B143.00

@@ -1,0 +1,27 @@
+med_code_id,term,snomed_ct_concept_id,observations
+254020017,Pulse rate,78564009,43100586
+487210016,Heart rate,364075005,2216838
+254038019,O/E - pulse rhythm regular,162999005,51600
+254024014,O/E - pulse rate normal,162990009,39167
+2635731000006111,Pulse,8499008,27702
+254030014,O/E - pulse rate,162986007,13035
+402461017,O/E - pulse rhythm,268931003,8516
+2189651000000113,Radial pulse rate,843941000000100,5097
+254036015,O/E - regular pulse,162999005,2861
+254026011,O/E - pulse rate tachycardia,162992001,2062
+254039010,On examination - pulse irregularly irregular,163000006,1156
+254025010,O/E - pulse borderline fast,162991008,1104
+254022013,O/E - pulse rate - bradycardia,162988008,746
+254023015,O/E - pulse borderline slow,162989000,608
+254028012,O/E - pulse rate-pulse deficit,162994000,435
+411256010,O/E - post tibial pulse - L,275293009,426
+411252012,O/E - post-tibial pulse - R,275289003,407
+1765601000006112,O/E - irregular pulse,275954009,347
+254040012,O/E -pulse regularly irregular,163001005,277
+411930014,O/E - irregular pulse,275954009,274
+254180018,On examination - right posterior tibial pulse present,163106002,156
+254199010,On examination - left leg pulses all present,163113002,151
+254206019,On examination - left dorsalis pedis pulse present,163120009,150
+402469015,O/E - peripheral pulses L.leg,268936008,95
+402468011,O/E - peripheral pulses R.-leg,268935007,91
+1699161000006113,Heart rate,1699161000006109,77

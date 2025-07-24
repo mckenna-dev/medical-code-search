@@ -1,0 +1,127 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1262,Cancer,Leukaemia,a745001000006114,Leukaemic reticuloendotheliosis,L1:Cancer_L2:Leukaemia,B624.00
+1263,Cancer,Leukaemia,a745011000006112,Leukaemic reticuloendotheliosis,L1:Cancer_L2:Leukaemia,B624.11
+1264,Cancer,Leukaemia,a1591211000006111,Hairy cell leukaemia,L1:Cancer_L2:Leukaemia,B624.12
+1265,Cancer,Leukaemia,a289773015,Leukaemic reticuloendotheliosis NOS,L1:Cancer_L2:Leukaemia,B624z00
+1266,Cancer,Leukaemia,a201743012,Plasma cell leukaemia,L1:Cancer_L2:Leukaemia,B631.00
+1267,Cancer,Leukaemia,a289876019,Lymphoid leukaemia,L1:Cancer_L2:Leukaemia,B64..00
+1268,Cancer,Leukaemia,a289875015,Lymphatic leukaemia,L1:Cancer_L2:Leukaemia,B64..11
+1269,Cancer,Leukaemia,a509741017,Acute lymphoid leukaemia,L1:Cancer_L2:Leukaemia,B640.00
+1270,Cancer,Leukaemia,a414160018,B-cell acute lymphoblastic leukaemia,L1:Cancer_L2:Leukaemia,B640000
+1271,Cancer,Leukaemia,a201652012,Chronic lymphoid leukaemia,L1:Cancer_L2:Leukaemia,B641.00
+1272,Cancer,Leukaemia,a414008012,B-cell chronic lymphocytic leukaemia,L1:Cancer_L2:Leukaemia,B641000
+1273,Cancer,Leukaemia,a2168681000000113,Chronic lymphocytic leukaemia of B-cell type,L1:Cancer_L2:Leukaemia,B641011
+1274,Cancer,Leukaemia,a2233381000000115,Clinical stage A chronic lymphocytic leukaemia,L1:Cancer_L2:Leukaemia,B641100
+1275,Cancer,Leukaemia,a2233421000000112,Clinical stage B chronic lymphocytic leukaemia,L1:Cancer_L2:Leukaemia,B641200
+1276,Cancer,Leukaemia,a2233461000000116,Clinical stage C chronic lymphocytic leukaemia,L1:Cancer_L2:Leukaemia,B641300
+1277,Cancer,Leukaemia,a289880012,Subacute lymphoid leukaemia,L1:Cancer_L2:Leukaemia,B642.00
+1278,Cancer,Leukaemia,a289881011,Other lymphoid leukaemia,L1:Cancer_L2:Leukaemia,B64y.00
+1279,Cancer,Leukaemia,a202801000006110,Prolymphocytic leukaemia,L1:Cancer_L2:Leukaemia,B64y100
+1280,Cancer,Leukaemia,a289885019,Adult T-cell leukaemia,L1:Cancer_L2:Leukaemia,B64y200
+1281,Cancer,Leukaemia,a414248013,B-cell prolymphocytic leukaemia,L1:Cancer_L2:Leukaemia,B64y300
+1282,Cancer,Leukaemia,a414151014,T-cell prolymphocytic leukaemia,L1:Cancer_L2:Leukaemia,B64y400
+1283,Cancer,Leukaemia,a1815601000006111,Adult T-cell lymphoma/leukaemia (HTLV-1-associated),L1:Cancer_L2:Leukaemia,B64y500
+1284,Cancer,Leukaemia,a289888017,Other lymphoid leukaemia NOS,L1:Cancer_L2:Leukaemia,B64yz00
+1285,Cancer,Leukaemia,a289889013,Lymphoid leukaemia NOS,L1:Cancer_L2:Leukaemia,B64z.00
+1286,Cancer,Leukaemia,a289892012,Myeloid leukaemia,L1:Cancer_L2:Leukaemia,B65..00
+1287,Cancer,Leukaemia,a201612010,Acute myeloid leukaemia,L1:Cancer_L2:Leukaemia,B650.00
+1288,Cancer,Leukaemia,a201656010,Chronic myeloid leukaemia,L1:Cancer_L2:Leukaemia,B651.00
+1289,Cancer,Leukaemia,a554641000006115,Chronic granulocytic leukaemia,L1:Cancer_L2:Leukaemia,B651.11
+1290,Cancer,Leukaemia,a1815631000006115,"Chronic myeloid leukaemia, BCR/ABL positive",L1:Cancer_L2:Leukaemia,B651100
+1291,Cancer,Leukaemia,a474604011,"Atypical chronic myeloid leukaemia, BCR/ABL negative",L1:Cancer_L2:Leukaemia,B651300
+1292,Cancer,Leukaemia,a289900013,Chronic myeloid leukaemia NOS,L1:Cancer_L2:Leukaemia,B651z00
+1293,Cancer,Leukaemia,a289901012,Subacute myeloid leukaemia,L1:Cancer_L2:Leukaemia,B652.00
+1294,Cancer,Leukaemia,a289903010,Chloroma,L1:Cancer_L2:Leukaemia,B653000
+1295,Cancer,Leukaemia,a289904016,Granulocytic sarcoma,L1:Cancer_L2:Leukaemia,B653100
+1296,Cancer,Leukaemia,a1815651000006110,Acute myeloblastic leukaemia,L1:Cancer_L2:Leukaemia,B654.00
+1297,Cancer,Leukaemia,a459741000006115,Acute promyelocytic leukaemia,L1:Cancer_L2:Leukaemia,B65y100
+1298,Cancer,Leukaemia,a289911017,Other myeloid leukaemia NOS,L1:Cancer_L2:Leukaemia,B65yz00
+1299,Cancer,Leukaemia,a289912012,Myeloid leukaemia NOS,L1:Cancer_L2:Leukaemia,B65z.00
+1300,Cancer,Leukaemia,a289917018,Monocytic leukaemia,L1:Cancer_L2:Leukaemia,B66..00
+1301,Cancer,Leukaemia,a289921013,Histiocytic leukaemia,L1:Cancer_L2:Leukaemia,B66..11
+1302,Cancer,Leukaemia,a289919015,Monoblastic leukaemia,L1:Cancer_L2:Leukaemia,B66..12
+1303,Cancer,Leukaemia,a2534415018,Acute monocytic leukaemia,L1:Cancer_L2:Leukaemia,B660.00
+1304,Cancer,Leukaemia,a289923011,Chronic monocytic leukaemia,L1:Cancer_L2:Leukaemia,B661.00
+1305,Cancer,Leukaemia,a289924017,Subacute monocytic leukaemia,L1:Cancer_L2:Leukaemia,B662.00
+1306,Cancer,Leukaemia,a414220013,Acute monoblastic leukaemia,L1:Cancer_L2:Leukaemia,B663.00
+1307,Cancer,Leukaemia,a289926015,Other monocytic leukaemia,L1:Cancer_L2:Leukaemia,B66y.00
+1308,Cancer,Leukaemia,a289930017,Other monocytic leukaemia NOS,L1:Cancer_L2:Leukaemia,B66yz00
+1309,Cancer,Leukaemia,a289933015,Monocytic leukaemia NOS,L1:Cancer_L2:Leukaemia,B66z.00
+1310,Cancer,Leukaemia,a289934014,Other specified leukaemia,L1:Cancer_L2:Leukaemia,B67..00
+1311,Cancer,Leukaemia,a456641000006119,Acute erythraemia and erythroleukaemia,L1:Cancer_L2:Leukaemia,B670.00
+1312,Cancer,Leukaemia,a201658011,Di Guglielmo's disease,L1:Cancer_L2:Leukaemia,B670.11
+1313,Cancer,Leukaemia,a289949018,Megakaryocytic leukaemia,L1:Cancer_L2:Leukaemia,B672.00
+1314,Cancer,Leukaemia,a289948014,Thrombocytic leukaemia,L1:Cancer_L2:Leukaemia,B672.11
+1315,Cancer,Leukaemia,a716871000006112,Mast cell leukaemia,L1:Cancer_L2:Leukaemia,B673.00
+1316,Cancer,Leukaemia,a133678011,Acute panmyelosis,L1:Cancer_L2:Leukaemia,B674.00
+1317,Cancer,Leukaemia,a344846014,Acute myelofibrosis,L1:Cancer_L2:Leukaemia,B675.00
+1318,Cancer,Leukaemia,a476225016,Acute erythroid leukaemia,L1:Cancer_L2:Leukaemia,B676.00
+1319,Cancer,Leukaemia,a289955011,Other and unspecified leukaemia,L1:Cancer_L2:Leukaemia,B67y.00
+1320,Cancer,Leukaemia,a731621000006113,Lymphosarcoma cell leukaemia,L1:Cancer_L2:Leukaemia,B67y000
+1321,Cancer,Leukaemia,a289959017,Other and unspecified leukaemia NOS,L1:Cancer_L2:Leukaemia,B67yz00
+1322,Cancer,Leukaemia,a289960010,Other specified leukaemia NOS,L1:Cancer_L2:Leukaemia,B67z.00
+1323,Cancer,Leukaemia,a289963012,Leukaemia of unspecified cell type,L1:Cancer_L2:Leukaemia,B68..00
+1324,Cancer,Leukaemia,a289964018,Acute leukaemia NOS,L1:Cancer_L2:Leukaemia,B680.00
+1325,Cancer,Leukaemia,a289967013,Chronic leukaemia NOS,L1:Cancer_L2:Leukaemia,B681.00
+1326,Cancer,Leukaemia,a289968015,Subacute leukaemia NOS,L1:Cancer_L2:Leukaemia,B682.00
+1327,Cancer,Leukaemia,a289971011,Other leukaemia of unspecified cell type,L1:Cancer_L2:Leukaemia,B68y.00
+1328,Cancer,Leukaemia,a289974015,Myelomonocytic leukaemia,L1:Cancer_L2:Leukaemia,B69..00
+1329,Cancer,Leukaemia,a458201000006115,Acute myelomonocytic leukaemia,L1:Cancer_L2:Leukaemia,B690.00
+1330,Cancer,Leukaemia,a474077018,Chronic myelomonocytic leukaemia,L1:Cancer_L2:Leukaemia,B691.00
+1331,Cancer,Leukaemia,a289980011,Subacute myelomonocytic leukaemia,L1:Cancer_L2:Leukaemia,B692.00
+1332,Cancer,Leukaemia,a2871720012,Juvenile myelomonocytic leukaemia,L1:Cancer_L2:Leukaemia,B693.00
+1333,Cancer,Leukaemia,a311021000006113,[M]Leukaemias,L1:Cancer_L2:Leukaemia,BBr..00
+1334,Cancer,Leukaemia,a291984015,[M]Leukaemias unspecified,L1:Cancer_L2:Leukaemia,BBr0.00
+1335,Cancer,Leukaemia,a310991000006116,[M]Leukaemia NOS,L1:Cancer_L2:Leukaemia,BBr0000
+1336,Cancer,Leukaemia,a1216160012,[M]Acute leukaemia NOS,L1:Cancer_L2:Leukaemia,BBr0100
+1337,Cancer,Leukaemia,a306001000006110,[M]Blast cell leukaemia,L1:Cancer_L2:Leukaemia,BBr0111
+1338,Cancer,Leukaemia,a306011000006113,[M]Blastic leukaemia,L1:Cancer_L2:Leukaemia,BBr0112
+1339,Cancer,Leukaemia,a317011000006112,[M]Stem cell leukaemia,L1:Cancer_L2:Leukaemia,BBr0113
+1340,Cancer,Leukaemia,a291988017,[M]Subacute leukaemia NOS,L1:Cancer_L2:Leukaemia,BBr0200
+1341,Cancer,Leukaemia,a306921000006118,[M]Chronic leukaemia NOS,L1:Cancer_L2:Leukaemia,BBr0300
+1342,Cancer,Leukaemia,a291992012,[M]Aleukaemic leukaemia NOS,L1:Cancer_L2:Leukaemia,BBr0400
+1343,Cancer,Leukaemia,a291995014,"[M]Leukaemia unspecified, NOS",L1:Cancer_L2:Leukaemia,BBr0z00
+1344,Cancer,Leukaemia,a292005016,[M]Lymphoid leukaemias,L1:Cancer_L2:Leukaemia,BBr2.00
+1345,Cancer,Leukaemia,a1216396015,[M]Lymphoid leukaemia NOS,L1:Cancer_L2:Leukaemia,BBr2000
+1346,Cancer,Leukaemia,a311311000006115,[M]Lymphatic leukaemia,L1:Cancer_L2:Leukaemia,BBr2011
+1347,Cancer,Leukaemia,a292006015,[M]Acute lymphoid leukaemia,L1:Cancer_L2:Leukaemia,BBr2100
+1348,Cancer,Leukaemia,a306931000006115,[M]Chronic lymphoid leukaemia,L1:Cancer_L2:Leukaemia,BBr2300
+1349,Cancer,Leukaemia,a1216015014,[M]Prolymphocytic leukaemia,L1:Cancer_L2:Leukaemia,BBr2500
+1350,Cancer,Leukaemia,a306171000006115,[M]Burkitt's cell leukaemia,L1:Cancer_L2:Leukaemia,BBr2600
+1351,Cancer,Leukaemia,a1216940017,[M]Adult T-cell leukaemia/lymphoma,L1:Cancer_L2:Leukaemia,BBr2700
+1352,Cancer,Leukaemia,a292014014,[M]Plasma cell leukaemias,L1:Cancer_L2:Leukaemia,BBr3.00
+1353,Cancer,Leukaemia,a292017019,[M]Plasma cell leukaemia NOS,L1:Cancer_L2:Leukaemia,BBr3z00
+1354,Cancer,Leukaemia,a292018012,[M]Erythroleukaemias,L1:Cancer_L2:Leukaemia,BBr4.00
+1355,Cancer,Leukaemia,a1216029010,[M]Erythroleukaemia,L1:Cancer_L2:Leukaemia,BBr4000
+1356,Cancer,Leukaemia,a292024018,[M]Erythroleukaemia NOS,L1:Cancer_L2:Leukaemia,BBr4z00
+1357,Cancer,Leukaemia,a292032014,[M]Myeloid leukaemias,L1:Cancer_L2:Leukaemia,BBr6.00
+1358,Cancer,Leukaemia,a1216572014,[M]Myeloid leukaemia NOS,L1:Cancer_L2:Leukaemia,BBr6000
+1359,Cancer,Leukaemia,a309521000006115,[M]Granulocytic leukaemia NOS,L1:Cancer_L2:Leukaemia,BBr6011
+1360,Cancer,Leukaemia,a304401000006111,[M]Acute myeloid leukaemia,L1:Cancer_L2:Leukaemia,BBr6100
+1361,Cancer,Leukaemia,a292035011,[M]Subacute myeloid leukaemia,L1:Cancer_L2:Leukaemia,BBr6200
+1362,Cancer,Leukaemia,a1216809013,[M]Chronic myeloid leukaemia,L1:Cancer_L2:Leukaemia,BBr6300
+1363,Cancer,Leukaemia,a313621000006115,[M]Naegeli-type monocytic leukaemia,L1:Cancer_L2:Leukaemia,BBr6311
+1364,Cancer,Leukaemia,a1216284012,[M]Acute promyelocytic leukaemia,L1:Cancer_L2:Leukaemia,BBr6600
+1365,Cancer,Leukaemia,a1216346016,[M]Acute myelomonocytic leukaemia,L1:Cancer_L2:Leukaemia,BBr6700
+1366,Cancer,Leukaemia,a306971000006117,[M]Chronic myelomonocytic leukaemia,L1:Cancer_L2:Leukaemia,BBr6800
+1367,Cancer,Leukaemia,a1870401000006113,[M]Juvenile myelomonocytic leukaemia,L1:Cancer_L2:Leukaemia,BBr6900
+1368,Cancer,Leukaemia,a292041016,[M]Other myeloid leukaemia NOS,L1:Cancer_L2:Leukaemia,BBr6z00
+1369,Cancer,Leukaemia,a1216868019,[M]Basophilic leukaemia,L1:Cancer_L2:Leukaemia,BBr7000
+1370,Cancer,Leukaemia,a292046014,[M]Eosinophilic leukaemias,L1:Cancer_L2:Leukaemia,BBr8.00
+1371,Cancer,Leukaemia,a308041000006113,[M]Eosinophilic leukaemia,L1:Cancer_L2:Leukaemia,BBr8000
+1372,Cancer,Leukaemia,a292050019,[M]Eosinophilic leukaemia NOS,L1:Cancer_L2:Leukaemia,BBr8z00
+1373,Cancer,Leukaemia,a312961000006113,[M]Monocytic leukaemia NOS,L1:Cancer_L2:Leukaemia,BBr9000
+1374,Cancer,Leukaemia,a292065018,[M]Miscellaneous leukaemias,L1:Cancer_L2:Leukaemia,BBrA.00
+1375,Cancer,Leukaemia,a312211000006119,[M]Megakaryocytic leukaemia,L1:Cancer_L2:Leukaemia,BBrA100
+1376,Cancer,Leukaemia,a317571000006112,[M]Thrombocytic leukaemia,L1:Cancer_L2:Leukaemia,BBrA111
+1377,Cancer,Leukaemia,a1216729017,[M]Hairy cell leukaemia,L1:Cancer_L2:Leukaemia,BBrA400
+1378,Cancer,Leukaemia,a292073010,[M]Acute megakaryoblastic leukaemia,L1:Cancer_L2:Leukaemia,BBrA500
+1379,Cancer,Leukaemia,a292077011,[M]Miscellaneous leukaemia NOS,L1:Cancer_L2:Leukaemia,BBrAz00
+1380,Cancer,Leukaemia,a291985019,[M]Leukaemia NOS,L1:Cancer_L2:Leukaemia,BBrz.00
+1381,Cancer,Leukaemia,a292177013,[X]Other lymphoid leukaemia,L1:Cancer_L2:Leukaemia,ByuD500
+1382,Cancer,Leukaemia,a292178015,[X]Other myeloid leukaemia,L1:Cancer_L2:Leukaemia,ByuD600
+1383,Cancer,Leukaemia,a292181013,[X]Other monocytic leukaemia,L1:Cancer_L2:Leukaemia,ByuD700
+1384,Cancer,Leukaemia,a292182018,[X]Other specified leukaemias,L1:Cancer_L2:Leukaemia,ByuD800
+1385,Cancer,Leukaemia,a292185016,[X]Other leukaemia of unspecified cell type,L1:Cancer_L2:Leukaemia,ByuD900
+1386,Cancer,Leukaemia,a289895014,Chronic eosinophilic leukaemia,L1:Cancer_L2:Leukaemia,B651000
+1387,Cancer,Leukaemia,a289898011,Chronic neutrophilic leukaemia,L1:Cancer_L2:Leukaemia,B651200

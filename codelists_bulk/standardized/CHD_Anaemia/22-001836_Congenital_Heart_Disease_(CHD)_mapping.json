@@ -1,0 +1,83 @@
+{
+  "original_file": "codelists_bulk\\successful\\CHD_Anaemia\\22-001836_Congenital_Heart_Disease_(CHD)\\CHD.csv",
+  "original_columns": [
+    "Class",
+    "medcode",
+    "clinicalevents",
+    "referralevents",
+    "testevents",
+    "readterm",
+    "Unnamed: 6",
+    "Unnamed: 7",
+    "Unnamed: 8",
+    "Unnamed: 9",
+    "Unnamed: 10",
+    "Unnamed: 11",
+    "Unnamed: 12",
+    "Unnamed: 13",
+    "Unnamed: 14",
+    "Unnamed: 15",
+    "Unnamed: 16",
+    "Unnamed: 17",
+    "Unnamed: 18",
+    "Unnamed: 19",
+    "Unnamed: 20",
+    "Unnamed: 21",
+    "Unnamed: 22",
+    "Unnamed: 23",
+    "Unnamed: 24",
+    "Unnamed: 25",
+    "Unnamed: 26",
+    "Unnamed: 27",
+    "Unnamed: 28",
+    "Unnamed: 29",
+    "Unnamed: 30",
+    "Unnamed: 31",
+    "Unnamed: 32",
+    "Unnamed: 33",
+    "Unnamed: 34",
+    "Unnamed: 35",
+    "Unnamed: 36",
+    "Unnamed: 37",
+    "Unnamed: 38",
+    "Unnamed: 39",
+    "Unnamed: 40",
+    "Unnamed: 41",
+    "Unnamed: 42",
+    "Unnamed: 43",
+    "Unnamed: 44",
+    "Unnamed: 45",
+    "Unnamed: 46",
+    "Unnamed: 47",
+    "Unnamed: 48",
+    "Unnamed: 49",
+    "Unnamed: 50",
+    "Unnamed: 51",
+    "Unnamed: 52",
+    "Unnamed: 53",
+    "Unnamed: 54"
+  ],
+  "column_mapping": {
+    "med_code_id": "medcode",
+    "term": "Unnamed: 6",
+    "observations": "clinicalevents"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "medcode",
+      "type": "secondary"
+    },
+    "term": {
+      "column": "Unnamed: 6",
+      "type": "secondary"
+    },
+    "observations": {
+      "column": "clinicalevents",
+      "type": "secondary"
+    }
+  },
+  "rows_processed": 464,
+  "rows_standardized": 464,
+  "project": "CHD_Anaemia",
+  "codelist": "22-001836_Congenital_Heart_Disease_(CHD)"
+}

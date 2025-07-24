@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 91
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tchronic_kidney_disease_3_to_5']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                               MedCodeId\tObservations\tTerm\tchronic_kidney_disease_3_to_5
+0  a304071000000115\t3000000\tChronic kidney disease stage 3\tchronic_kidney_disease_3_to_5
+1   a304091000000116\t500000\tChronic kidney disease stage 4\tchronic_kidney_disease_3_to_5
+2                  a509111010\t400000\tChronic renal failure\tchronic_kidney_disease_3_to_5

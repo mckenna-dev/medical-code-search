@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Digestive_Duodenal_Ulcer_without_haemorrhage.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/12-21-002323-CanBack/main/Codelists/Digestive_Duodenal_Ulcer_without_haemorrhage.csv
+Codelist Name: Duodenal Ulcer without Haemorrhage
+Project Title: CanBack
+ERAP Number: 21_002323
+Author: Aron Downie
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:30:41
+File Size: 4984 bytes

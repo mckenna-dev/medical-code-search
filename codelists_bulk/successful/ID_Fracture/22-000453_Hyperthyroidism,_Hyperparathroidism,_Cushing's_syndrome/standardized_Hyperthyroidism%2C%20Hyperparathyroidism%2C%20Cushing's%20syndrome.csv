@@ -1,0 +1,34 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+34220,,,,37,0,0,0,C02yz00,Thyrotoxicosis of other specified origin NOS,February 2009
+51273,,,,17,0,0,0,C02y000,Thyrotoxicosis of other specified origin with no crisis,February 2009
+15565,,,,1217,76,0,0,C02z.00,Thyrotoxicosis without mention of goitre or other cause,February 2009
+8038,,,,7899,831,2,0,1431.11,H/O: thyrotoxicosis,February 2009
+20035,,,,186,14,0,0,G557500,Thyrotoxic heart disease,February 2009
+48010,,,,49,0,0,0,Q443.00,Neonatal thyrotoxicosis,February 2009
+1567,,,,737,74,1,0,F4G2000,Thyrotoxic exophthalmos,February 2009
+677,,,,101886,9602,54,0,C02..00,Thyrotoxicosis,February 2009
+65907,,,,17,0,0,0,C05y400,Chronic thyroiditis with transient thyrotoxicosis,February 2009
+48167,,,,19,1,0,0,F395400,Myopathy due to thyrotoxicosis,February 2009
+26699,,,,2298,46,0,0,C02zz00,Thyrotoxicosis NOS,February 2009
+3194,,,,253,21,0,0,C02z100,"Thyrotoxicosis without mention of goitre, cause with crisis",February 2009
+47695,,,,3,0,0,0,F381600,Myasthenic syndrome due to thyrotoxicosis,February 2009
+72690,,,,7,0,0,0,Cyu1300,[X]Other thyrotoxicosis,February 2009
+43136,,,,51,0,0,0,C02y.00,Thyrotoxicosis of other specified origin,February 2009
+6245,,,,9515,1139,1,0,1431.00,H/O: hyperthyroidism,February 2009
+1472,,,,68345,9353,174,0,C02..11,Hyperthyroidism,February 2009
+105537,,,,30,0,0,0,C120200,Tertiary hyperparathyroidism,January 2013
+18740,,,,3802,139,2,0,C120000,Primary hyperparathyroidism,February 2009
+73934,,,,8,0,0,0,C120100,Hyperparathyroid bone disease,February 2009
+53819,,,,7,0,0,0,Cyu4100,[X]Other hyperparathyroidism,February 2009
+3559,,,,16768,1832,3,0,C120.00,Hyperparathyroidism,February 2009
+17339,,,,1850,24,1,0,K08y100,Secondary hyperparathyroidism,February 2009
+65478,,,,2,0,0,0,C1z3100,Ectopic hyperparathyroidism,February 2009
+65120,,,,9,0,0,0,C150300,Ectopic ACTH secretion causing Cushing's syndrome,February 2009
+53682,,,,36,0,0,0,C150200,Pituitary dependent Cushing's syndrome,February 2009
+60534,,,,53,3,0,0,C150z00,Cushing's syndrome NOS,February 2009
+95807,,,,1,0,0,0,Cyu4500,[X]Other Cushing's syndrome,February 2009
+17604,,,,2521,174,2,0,C150.00,Cushing's syndrome,February 2009
+18382,,,,244,11,0,0,C150111,Drug-induced Cushings syndrome,February 2009
+60690,,,,8,0,0,0,F395100,Myopathy due to Cushing's syndrome,February 2009
+20275,,,,75,5,0,0,C150100,Iatrogenic Cushing's syndrome,February 2009
+70967,,,,6,1,0,0,C150000,Idiopathic Cushing's syndrome,February 2009

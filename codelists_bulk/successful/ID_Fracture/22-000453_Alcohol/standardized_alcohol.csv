@@ -1,0 +1,312 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,readterm,drinker,level
+27,,,,Alcohol consumption,9,9
+322,,,,Moderate drinker - 3-6u/day,1,3
+1618,,,,Heavy drinker - 7-9u/day,1,4
+8999,,,,Heavy drinker,1,4
+12977,,,,Very heavy drinker - >9u/day,1,5
+12949,,,,teetotaller,2,0
+12982,,,,Alcohol intake above recommended sensible limits,1,4
+12983,,,,Ex-very heavy drinker-(>9u/d),3,0
+12984,,,,Very heavy drinker,1,5
+12985,,,,Moderate drinker,1,3
+19401,,,,Binge drinker,1,9
+19493,,,,Ex-heavy drinker - (7-9u/day),3,0
+19494,,,,Hazardous alcohol use,1,4
+19495,,,,Ex-moderate drinker - (3-6u/d),3,0
+30695,,,,Harmful alcohol use,1,4
+93415,,,,Alcohol units per week,9,9
+94670,,,,Alcohol misuse,1,4
+12970,,,,non-drinker alcohol,2,0
+4447,,,,non-drinker alcohol,2,0
+12975,,,,trivial drinker<1u/day,1,1
+385,,,,drinks rarely,1,1
+749,,,,drinks occasionally,1,1
+12972,,,,light drinker 1-2u/day,1,2
+967,,,,stopped drinking alcohol,3,0
+102665,,,,increasing risk drinking,1,9
+26471,,,,ex-light drinker,3,0
+99877,,,,feels should cut down drinking,1,9
+102448,,,,high risk drinking,1,4
+103230,,,,lower risk drinking,1,9
+12971,,,,spirit drinker,1,9
+2689,,,,beer drinker,1,9
+12968,,,,drinks beer and spirits,1,9
+12969,,,,drinks wine,1,9
+956,,,,social drinker,1,9
+26472,,,,alcohol intake within recommended sensible limits,1,4
+12979,,,,current non drinker,2,0
+12980,,,,light drinker,1,2
+101718,,,,drinks in the morning to get rid of hangover,1,4
+18156,,,,alcoholics anonymous,3,0
+38061,,,,alcohol induced hallucinations,1,5
+24735,,,,o/e - breath - alcohol smell,1,4
+10161,,,,o/e - breath - alcoholic breath,1,4
+12442,,,,alcohol disorder monitoring,1,4
+97309,,,,advised to contact primary care alcohol worker,1,4
+97261,,,,brief intervention for exsive alcohol consumption declined,1,4
+97680,,,,declined referral to specialist alcohol treatment service,1,4
+102247,,,,extended interven for excessive alcohol consumption declined,1,4
+103459,,,,referral to community alcohol team declined,1,4
+11740,,,,alcohol misuse - enhanced services administration,1,4
+35330,,,,Alcohol consumption counselling,1,4
+16225,,,,alcohol withdrawal delirium,1,5
+22277,,,,delirium tremens,1,5
+1476,,,,delirium tremens,1,5
+25110,,,,pathological alcohol intoxication,1,5
+20407,,,,drunkenness - pathological,1,5
+30404,,,,alcoholic paranoia,1,5
+2084,,,,alcohol dependence syndrome,1,5
+2081,,,,alcoholism,1,5
+1399,,,,alcohol problem drinking,1,5
+5740,,,,acute alcoholic intoxication in alcoholism,1,5
+57714,,,,alcohol dependence with acute alcoholic intoxication,1,5
+40530,,,,"acute alcoholic intoxication, unspecified,  in alcoholism",1,5
+56947,,,,continuous acute alcoholic intoxication in alcoholism,1,5
+21624,,,,episodic acute alcoholic intoxication in alcoholism,1,5
+36296,,,,acute alcoholic intoxication in alcoholism,1,5
+31443,,,,chronic alcoholism,1,5
+37605,,,,dipsomania,1,5
+43193,,,,unspecified chronic alcoholism,1,5
+24064,,,,continuous chronic alcoholism,1,5
+26106,,,,episodic chronic alcoholism,1,5
+33635,,,,chronic alcoholism,1,5
+6169,,,,alcohol dependence syndrome nos,1,5
+7746,,,,nondependent alcohol abuse,1,4
+12271,,,,drunkenness NOS,1,4
+27518,,,,hangover (alcohol),1,4
+17777,,,,inebriety,1,4
+3782,,,,intoxication - alcohol,1,9
+669,,,,"nondependent alcohol abuse, unspecified",1,4
+23610,,,,"nondependent alcohol abuse, continuous",1,4
+12974,,,,"nondependent alcohol abuse, episodic",1,4
+31569,,,,nondependent alcohol abuse in remission,3,4
+28150,,,,nondependent alcohol abuse ,1,4
+44299,,,,mental & behav dis due to use alcohol:acute intoxication,1,5
+9508,,,,acute alcoholic drunkenness,1,4
+21879,,,,mental & behav dis due to use of alcohol:harmful use,1,5
+39327,,,,mental & behav dis due to use alcohol:dependence syndr,1,5
+28780,,,,alcoholic addiction,1,5
+5758,,,,chronic alcoholism,1,5
+20514,,,,mental & behav dis cue to use alcohol: withdrawal state,1,5
+64101,,,,mental & behav dis cue to use alcohol: withdrawal state with delirium,1,5
+17259,,,,delirium tremens: alcohol induced,1,5
+6467,,,,alcoholic hallucinosis,1,5
+65932,,,,alcoholic jealousy,1,5
+30162,,,,alcoholic paranoia,1,5
+32927,,,,alcoholic withdrawal induced seizure,1,5
+61383,,,,planned reduction of alcohol consumption,1,9
+95181,,,,alcohol reduction programme,1,9
+30460,,,,alcoholism counselling,1,4
+95650,,,,advice to change drink intake,1,4
+97163,,,,advice to change alcoholic drink intake,1,4
+54209,,,,advice to change alcoholic drink intake,1,4
+16587,,,,problems related to lifestyle alcohol use,1,4
+8030,,,,alcohol abuse counselling and surveillance,1,4
+,,,,,,
+27,,,,Alcohol consumption,9,9
+322,,,,Moderate drinker - 3-6u/day,1,3
+1618,,,,Heavy drinker - 7-9u/day,1,4
+8999,,,,Heavy drinker,1,4
+12977,,,,Very heavy drinker - >9u/day,1,5
+12949,,,,teetotaller,2,0
+12982,,,,Alcohol intake above recommended sensible limits,1,4
+12983,,,,Ex-very heavy drinker-(>9u/d),3,0
+12984,,,,Very heavy drinker,1,5
+12985,,,,Moderate drinker,1,3
+19401,,,,Binge drinker,1,9
+19493,,,,Ex-heavy drinker - (7-9u/day),3,0
+19494,,,,Hazardous alcohol use,1,4
+19495,,,,Ex-moderate drinker - (3-6u/d),3,0
+30695,,,,Harmful alcohol use,1,4
+93415,,,,Alcohol units per week,9,9
+94670,,,,Alcohol misuse,1,4
+12970,,,,non-drinker alcohol,2,0
+4447,,,,non-drinker alcohol,2,0
+12975,,,,trivial drinker<1u/day,1,1
+385,,,,drinks rarely,1,1
+749,,,,drinks occasionally,1,1
+12972,,,,light drinker 1-2u/day,1,2
+967,,,,stopped drinking alcohol,3,0
+102665,,,,increasing risk drinking,1,9
+26471,,,,ex-light drinker,3,0
+99877,,,,feels should cut down drinking,1,9
+102448,,,,high risk drinking,1,4
+103230,,,,lower risk drinking,1,9
+12971,,,,spirit drinker,1,9
+2689,,,,beer drinker,1,9
+12968,,,,drinks beer and spirits,1,9
+12969,,,,drinks wine,1,9
+956,,,,social drinker,1,9
+26472,,,,alcohol intake within recommended sensible limits,1,4
+12979,,,,current non drinker,2,0
+12980,,,,light drinker,1,2
+101718,,,,drinks in the morning to get rid of hangover,1,4
+18156,,,,alcoholics anonymous,3,0
+38061,,,,alcohol induced hallucinations,1,5
+24735,,,,o/e - breath - alcohol smell,1,4
+10161,,,,o/e - breath - alcoholic breath,1,4
+12442,,,,alcohol disorder monitoring,1,4
+97309,,,,advised to contact primary care alcohol worker,1,4
+97261,,,,brief intervention for exsive alcohol consumption declined,1,4
+97680,,,,declined referral to specialist alcohol treatment service,1,4
+102247,,,,extended interven for excessive alcohol consumption declined,1,4
+103459,,,,referral to community alcohol team declined,1,4
+11740,,,,alcohol misuse - enhanced services administration,1,4
+35330,,,,Alcohol consumption counselling,1,4
+16225,,,,alcohol withdrawal delirium,1,5
+22277,,,,delirium tremens,1,5
+1476,,,,delirium tremens,1,5
+25110,,,,pathological alcohol intoxication,1,5
+20407,,,,drunkenness - pathological,1,5
+30404,,,,alcoholic paranoia,1,5
+2084,,,,alcohol dependence syndrome,1,5
+2081,,,,alcoholism,1,5
+1399,,,,alcohol problem drinking,1,5
+5740,,,,acute alcoholic intoxication in alcoholism,1,5
+57714,,,,alcohol dependence with acute alcoholic intoxication,1,5
+40530,,,,"acute alcoholic intoxication, unspecified,  in alcoholism",1,5
+56947,,,,continuous acute alcoholic intoxication in alcoholism,1,5
+21624,,,,episodic acute alcoholic intoxication in alcoholism,1,5
+36296,,,,acute alcoholic intoxication in alcoholism,1,5
+31443,,,,chronic alcoholism,1,5
+37605,,,,dipsomania,1,5
+43193,,,,unspecified chronic alcoholism,1,5
+24064,,,,continuous chronic alcoholism,1,5
+26106,,,,episodic chronic alcoholism,1,5
+33635,,,,chronic alcoholism,1,5
+6169,,,,alcohol dependence syndrome nos,1,5
+7746,,,,nondependent alcohol abuse,1,4
+12271,,,,drunkenness NOS,1,4
+27518,,,,hangover (alcohol),1,4
+17777,,,,inebriety,1,4
+3782,,,,intoxication - alcohol,1,9
+669,,,,"nondependent alcohol abuse, unspecified",1,4
+23610,,,,"nondependent alcohol abuse, continuous",1,4
+12974,,,,"nondependent alcohol abuse, episodic",1,4
+31569,,,,nondependent alcohol abuse in remission,3,4
+28150,,,,nondependent alcohol abuse ,1,4
+44299,,,,mental & behav dis due to use alcohol:acute intoxication,1,5
+9508,,,,acute alcoholic drunkenness,1,4
+21879,,,,mental & behav dis due to use of alcohol:harmful use,1,5
+39327,,,,mental & behav dis due to use alcohol:dependence syndr,1,5
+28780,,,,alcoholic addiction,1,5
+5758,,,,chronic alcoholism,1,5
+20514,,,,mental & behav dis cue to use alcohol: withdrawal state,1,5
+64101,,,,mental & behav dis cue to use alcohol: withdrawal state with delirium,1,5
+17259,,,,delirium tremens: alcohol induced,1,5
+6467,,,,alcoholic hallucinosis,1,5
+65932,,,,alcoholic jealousy,1,5
+30162,,,,alcoholic paranoia,1,5
+32927,,,,alcoholic withdrawal induced seizure,1,5
+61383,,,,planned reduction of alcohol consumption,1,9
+95181,,,,alcohol reduction programme,1,9
+30460,,,,alcoholism counselling,1,4
+95650,,,,advice to change drink intake,1,4
+97163,,,,advice to change alcoholic drink intake,1,4
+54209,,,,advice to change alcoholic drink intake,1,4
+16587,,,,problems related to lifestyle alcohol use,1,4
+8030,,,,alcohol abuse counselling and surveillance,1,4
+,,,,,,
+12949,,,,teetotaller,0,
+12983,,,,Ex-very heavy drinker-(>9u/d),0,
+19493,,,,Ex-heavy drinker - (7-9u/day),0,
+19495,,,,Ex-moderate drinker - (3-6u/d),0,
+12970,,,,non-drinker alcohol,0,
+4447,,,,non-drinker alcohol,0,
+967,,,,stopped drinking alcohol,0,
+26471,,,,ex-light drinker,0,
+12979,,,,current non drinker,0,
+18156,,,,alcoholics anonymous,0,
+12975,,,,trivial drinker<1u/day,1,
+385,,,,drinks rarely,1,
+749,,,,drinks occasionally,1,
+12972,,,,light drinker 1-2u/day,2,
+12980,,,,light drinker,2,
+322,,,,Moderate drinker - 3-6u/day,3,
+12985,,,,Moderate drinker,3,
+1618,,,,Heavy drinker - 7-9u/day,4,
+8999,,,,Heavy drinker,4,
+12982,,,,Alcohol intake above recommended sensible limits,4,
+19494,,,,Hazardous alcohol use,4,
+30695,,,,Harmful alcohol use,4,
+94670,,,,Alcohol misuse,4,
+102448,,,,high risk drinking,4,
+26472,,,,alcohol intake within recommended sensible limits,4,
+101718,,,,drinks in the morning to get rid of hangover,4,
+24735,,,,o/e - breath - alcohol smell,4,
+10161,,,,o/e - breath - alcoholic breath,4,
+12442,,,,alcohol disorder monitoring,4,
+97309,,,,advised to contact primary care alcohol worker,4,
+97261,,,,brief intervention for exsive alcohol consumption declined,4,
+97680,,,,declined referral to specialist alcohol treatment service,4,
+102247,,,,extended interven for excessive alcohol consumption declined,4,
+103459,,,,referral to community alcohol team declined,4,
+11740,,,,alcohol misuse - enhanced services administration,4,
+35330,,,,Alcohol consumption counselling,4,
+7746,,,,nondependent alcohol abuse,4,
+12271,,,,drunkenness NOS,4,
+27518,,,,hangover (alcohol),4,
+17777,,,,inebriety,4,
+669,,,,"nondependent alcohol abuse, unspecified",4,
+23610,,,,"nondependent alcohol abuse, continuous",4,
+12974,,,,"nondependent alcohol abuse, episodic",4,
+31569,,,,nondependent alcohol abuse in remission,4,
+28150,,,,nondependent alcohol abuse ,4,
+9508,,,,acute alcoholic drunkenness,4,
+30460,,,,alcoholism counselling,4,
+95650,,,,advice to change drink intake,4,
+97163,,,,advice to change alcoholic drink intake,4,
+54209,,,,advice to change alcoholic drink intake,4,
+16587,,,,problems related to lifestyle alcohol use,4,
+8030,,,,alcohol abuse counselling and surveillance,4,
+12977,,,,Very heavy drinker - >9u/day,5,
+12984,,,,Very heavy drinker,5,
+38061,,,,alcohol induced hallucinations,5,
+16225,,,,alcohol withdrawal delirium,5,
+22277,,,,delirium tremens,5,
+1476,,,,delirium tremens,5,
+25110,,,,pathological alcohol intoxication,5,
+20407,,,,drunkenness - pathological,5,
+30404,,,,alcoholic paranoia,5,
+2084,,,,alcohol dependence syndrome,5,
+2081,,,,alcoholism,5,
+1399,,,,alcohol problem drinking,5,
+5740,,,,acute alcoholic intoxication in alcoholism,5,
+57714,,,,alcohol dependence with acute alcoholic intoxication,5,
+40530,,,,"acute alcoholic intoxication, unspecified,  in alcoholism",5,
+56947,,,,continuous acute alcoholic intoxication in alcoholism,5,
+21624,,,,episodic acute alcoholic intoxication in alcoholism,5,
+36296,,,,acute alcoholic intoxication in alcoholism,5,
+31443,,,,chronic alcoholism,5,
+37605,,,,dipsomania,5,
+43193,,,,unspecified chronic alcoholism,5,
+24064,,,,continuous chronic alcoholism,5,
+26106,,,,episodic chronic alcoholism,5,
+33635,,,,chronic alcoholism,5,
+6169,,,,alcohol dependence syndrome nos,5,
+44299,,,,mental & behav dis due to use alcohol:acute intoxication,5,
+21879,,,,mental & behav dis due to use of alcohol:harmful use,5,
+39327,,,,mental & behav dis due to use alcohol:dependence syndr,5,
+28780,,,,alcoholic addiction,5,
+5758,,,,chronic alcoholism,5,
+20514,,,,mental & behav dis cue to use alcohol: withdrawal state,5,
+64101,,,,mental & behav dis cue to use alcohol: withdrawal state with delirium,5,
+17259,,,,delirium tremens: alcohol induced,5,
+6467,,,,alcoholic hallucinosis,5,
+65932,,,,alcoholic jealousy,5,
+30162,,,,alcoholic paranoia,5,
+32927,,,,alcoholic withdrawal induced seizure,5,
+27,,,,Alcohol consumption,9,
+19401,,,,Binge drinker,9,
+93415,,,,Alcohol units per week,9,
+102665,,,,increasing risk drinking,9,
+99877,,,,feels should cut down drinking,9,
+103230,,,,lower risk drinking,9,
+12971,,,,spirit drinker,9,
+2689,,,,beer drinker,9,
+12968,,,,drinks beer and spirits,9,
+12969,,,,drinks wine,9,
+956,,,,social drinker,9,
+3782,,,,intoxication - alcohol,9,
+61383,,,,planned reduction of alcohol consumption,9,
+95181,,,,alcohol reduction programme,9,

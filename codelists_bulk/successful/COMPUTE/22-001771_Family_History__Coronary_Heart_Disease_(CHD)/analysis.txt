@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 3
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                              Term  SNOMED_CT_Concept_ID
+0         216245011         40000              FH: premature coronary heart disease             134439009
+1  8063261000006119          3000          Family history of coronary heart disease       203261000000108
+2  4507431000006118             1  Family history: premature coronary heart disease             134439009

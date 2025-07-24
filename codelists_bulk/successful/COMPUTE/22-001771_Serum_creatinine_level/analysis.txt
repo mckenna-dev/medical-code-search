@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 6
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                     Term  SNOMED_CT_Concept_ID
+0         380389013      83126273   Serum creatinine level      1000731000000107
+1         458156012       3126158  Plasma creatinine level      1001011000000107
+2  4217571000006110           526         Serum creatinine             113075003

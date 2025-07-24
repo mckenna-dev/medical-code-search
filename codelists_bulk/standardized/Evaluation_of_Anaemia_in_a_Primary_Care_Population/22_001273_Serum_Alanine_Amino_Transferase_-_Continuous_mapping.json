@@ -1,0 +1,33 @@
+{
+  "original_file": "codelists_bulk\\successful\\Evaluation_of_Anaemia_in_a_Primary_Care_Population\\22_001273_Serum_Alanine_Amino_Transferase_-_Continuous\\CWD_CL_SerumAlanineAminoTransferase_Continuous_20241203.txt",
+  "original_columns": [
+    "Unnamed: 0",
+    "Column0",
+    "MedCodeId",
+    "Term",
+    "Count"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "observations": "Count"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Count",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 4,
+  "rows_standardized": 4,
+  "project": "Evaluation_of_Anaemia_in_a_Primary_Care_Population",
+  "codelist": "22_001273_Serum_Alanine_Amino_Transferase_-_Continuous"
+}

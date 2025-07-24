@@ -1,0 +1,7 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	snomedctdescriptionid	release	term2
+1215865012	"[M]Idiopathic thrombocythaemia"	"BBs4"	"BBs4.00"	109994006	1215865012		"[M]Idiopathic thrombocythaemia"
+2536435019	"Thrombocythaemia"	"42P3"	"42P3.00"	6631009	2536435019		"Thrombocythaemia"
+2535666012	"Idiopathic thrombocythaemia"	"B9375"	"B937500"	109994006	2535666012		"Idiopathic thrombocythaemia"
+786661000006115	"Idiopathic thrombocythaemia"	"B937-2"	"B937.12"	109994006	786661000006115		"Idiopathic thrombocythaemia"
+648841000006119	"Essential (haemorrhagic) thrombocythaemia"	"B9374"	"B937400"	109994006	648841000006119		"Essential (haemorrhagic) thrombocythaemia"
+206411000006114	"Primary thrombocythaemia"	"B9374-1"	"B937411"	109994006	206411000006114		"Primary thrombocythaemia"

@@ -1,0 +1,102 @@
+# STANDARDIZATION PLAN
+==============================
+
+## APPROACH
+1. **High Priority**: Standardize common patterns first (affecting most files)
+2. **Medium Priority**: Handle project-specific patterns
+3. **Low Priority**: Deal with unique/problematic files individually
+
+## COMMON PATTERNS TO STANDARDIZE
+
+### Priority 1: 130 files
+**Pattern**: MedCodeId, Observations, SNOMED_CT_Concept_ID, Term
+**Projects**: COMPUTE
+**Suggested mapping**:
+  - MedCodeId -> med_code_id
+  - Observations -> observations
+  - SNOMED_CT_Concept_ID -> snomed_ct_concept_id
+  - Term -> term
+
+### Priority 2: 121 files
+**Pattern**: Flag_L1_L2, Flag_classifyL1, Flag_classifyL2, MedCodeID, Notes, Order, Term
+**Projects**: CanBack
+**Suggested mapping**:
+  - Flag_L1_L2 -> ?
+  - Flag_classifyL1 -> ?
+  - Flag_classifyL2 -> ?
+  - MedCodeID -> med_code_id
+  - Notes -> ?
+  - Order -> ?
+  - Term -> term
+
+### Priority 3: 18 files
+**Pattern**: MedCodeId, Observations, SnomedCTConceptId, Term
+**Projects**: Consultation_Catergorisation, Evaluation_of_Anaemia_in_a_Primary_Care_Population
+**Suggested mapping**:
+  - MedCodeId -> med_code_id
+  - Observations -> observations
+  - SnomedCTConceptId -> snomed_ct_concept_id
+  - Term -> term
+
+### Priority 4: 15 files
+**Pattern**: Codelist_Name, Description, Med_Code_Id, Observations, SNOMED_CT_Concept_ID, Term
+**Projects**: COMPUTE
+**Suggested mapping**:
+  - Codelist_Name -> med_code_id
+  - Description -> term
+  - Med_Code_Id -> med_code_id
+  - Observations -> observations
+  - SNOMED_CT_Concept_ID -> snomed_ct_concept_id
+  - Term -> term
+
+### Priority 5: 10 files
+**Pattern**: MedCodeId, Observations, SNOMED_CT_Concept_ID, Term, clinicalevents, databasebuild, immunisationevents, readcode, readterm, referralevents, testevents
+**Projects**: ID_Fracture
+**Suggested mapping**:
+  - MedCodeId -> med_code_id
+  - Observations -> observations
+  - SNOMED_CT_Concept_ID -> snomed_ct_concept_id
+  - Term -> term
+  - clinicalevents -> ?
+  - databasebuild -> ?
+  - immunisationevents -> ?
+  - readcode -> med_code_id
+  - readterm -> term
+  - referralevents -> ?
+  - testevents -> ?
+
+### Priority 6: 9 files
+**Pattern**: cleansedreadcode, medcodeid, originalreadcode, release, snomedctconceptid, snomedctdescriptionid, term
+**Projects**: Respiratory_infection_related_cardiovascular_disease
+**Suggested mapping**:
+  - cleansedreadcode -> med_code_id
+  - medcodeid -> med_code_id
+  - originalreadcode -> med_code_id
+  - release -> ?
+  - snomedctconceptid -> snomed_ct_concept_id
+  - snomedctdescriptionid -> term
+  - term -> term
+
+### Priority 7: 5 files
+**Pattern**: MedCodeId, Observations, SnomedCTConceptId, Term, Unnamed: 4
+**Projects**: Evaluation_of_Anaemia_in_a_Primary_Care_Population
+**Suggested mapping**:
+  - MedCodeId -> med_code_id
+  - Observations -> observations
+  - SnomedCTConceptId -> snomed_ct_concept_id
+  - Term -> term
+  - Unnamed: 4 -> ?
+
+### Priority 8: 5 files
+**Pattern**: cleansedreadcode, medcodeid, originalreadcode, release, snomedctconceptid, snomedctdescriptionid, term, term2
+**Projects**: Respiratory_infection_related_cardiovascular_disease
+**Suggested mapping**:
+  - cleansedreadcode -> med_code_id
+  - medcodeid -> med_code_id
+  - originalreadcode -> med_code_id
+  - release -> ?
+  - snomedctconceptid -> snomed_ct_concept_id
+  - snomedctdescriptionid -> term
+  - term -> term
+  - term2 -> term
+

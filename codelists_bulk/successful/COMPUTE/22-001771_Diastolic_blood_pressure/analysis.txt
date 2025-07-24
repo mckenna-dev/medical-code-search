@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 9
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                               Term  SNOMED_CT_Concept_ID
+0  619931000006119     144554947        Diastolic arterial pressure      1091811000000102
+1       1780183016        446421  Standing diastolic blood pressure             400975005
+2       2159156012        372058   Sitting diastolic blood pressure             407555005

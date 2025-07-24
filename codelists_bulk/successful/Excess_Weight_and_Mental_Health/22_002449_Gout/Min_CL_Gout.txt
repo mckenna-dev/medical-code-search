@@ -1,0 +1,69 @@
+	MedCodeId	Observations	Term	gout
+0	a150085018	3000000	Gout	gout
+1	a293392012	100000	Gouty arthropathy	gout
+2	a293412014	100000	Gout NOS	gout
+3	a251601017	50000	H/O: gout	gout
+4	a80709010	30000	Gouty arthritis	gout
+5	a264664010	20000	Gout monitoring	gout
+6	a359360013	20000	Pseudogout	gout
+7	a293410018	10000	Gouty tophi of hand	gout
+8	a309680010	6000	Gouty arthritis of the ankle and foot	gout
+9	a293407013	6000	Gouty tophus	gout
+10	a2370851000000119	5000	Acute exacerbation of gout	gout
+11	a850991000006110	4000	Gouty tophi + gout NOS	gout
+12	a805841000006112	4000	Gout screening	gout
+13	a481958014	3000	Idiopathic gout	gout
+14	a309683012	3000	Gouty arthritis NOS	gout
+15	a309673013	2000	Articular gout	gout
+16	a293394013	2000	Gouty nephropathy	gout
+17	a2695828012	2000	Gouty arthritis of toe	gout
+18	a2610481000000112	1000	Gouty tophi of toe	gout
+19	a461275019	1000	[V]Screening for gout	gout
+20	a309677014	1000	Gouty arthritis of the hand	gout
+21	a359373012	1000	Drug-induced gout	gout
+22	a264675014	1000	Gout monitoring NOS	gout
+23	a309681014	900	Gouty arthritis of multiple sites	gout
+24	a309679012	800	Gouty arthritis of the lower leg	gout
+25	a25080011	600	Gouty tophus of pinna	gout
+26	a264665011	600	Initial gout assessment	gout
+27	a4760101000006117	500	Gouty tophus of hand	gout
+28	a264667015	400	Joints gout affected	gout
+29	a345138018	400	Aicardi Goutieres syndrome	gout
+30	a359372019	400	Gout due to impairment of renal function	gout
+31	a1010531000006111	300	Adverse reaction to Drugs Used In Rheumatic Diseases And Gout	gout
+32	a255612014	300	O/E - auricle of ear - tophi	gout
+33	a2892591000006114	200	Primary gout	gout
+34	a293405017	200	Other specified gouty manifestation	gout
+35	a881751000006117	200	Gout Uncomplicated	gout
+36	a309682019	200	Gouty arthritis of other specified site	gout
+37	a1760511000006119	100	Stenotrophomonas maltophilia	gout
+38	a309676017	100	Gouty arthritis of the forearm	gout
+39	a293411019	100	Other specified gouty manifestation NOS	gout
+40	a312525018	90	Secondary gout	gout
+41	a72069017	50	Gouty iritis	gout
+42	a309675018	50	Gouty arthritis of the upper arm	gout
+43	a4808821000006116	40	Gouty arthritis of the ankle and/or foot	gout
+44	a11932301000006111	40	Health education - gout	gout
+45	a45604013	30	Gouty tophi of heart	gout
+46	a309674019	30	Gouty arthritis of the shoulder region	gout
+47	a3591671000006114	20	Podagra	gout
+48	a5140061000006112	20	Gout secondary to drug	gout
+49	a16455010	20	Gouty neuritis	gout
+50	a359376016	20	Lead-induced gout	gout
+51	a293396010	20	Gouty nephropathy unspecified	gout
+52	a293400010	20	Gouty nephropathy NOS	gout
+53	a309678016	20	Gouty arthritis of the pelvic region and thigh	gout
+54	a5140041000006113	9	Gout secondary to renal impairment	gout
+55	a12460691000006118	9	[V]Screening for gout	gout
+56	a388241000006119	8	[X]Gouty arthrpathy due/enzym defects+oth inherit disordr CE	gout
+57	a806061000006113	6	Gouty tophi of heart	gout
+58	a2560761000006112	6	Gouty tophus	gout
+59	a3701121000006115	5	Chronic tophaceous gout	gout
+60	a3256331000006111	5	Familial juvenile gout	gout
+61	a5650611000006118	4	Gouty tophus of olecranon bursa	gout
+62	a5140161000006111	2	Gouty bursitis	gout
+63	a2892601000006118	2	Acute gouty arthritis	gout
+64	a4760071000006110	1	Chronic gouty nephropathy	gout
+65	a5140081000006119	1	Gout caused by drug	gout
+66	a5192401000006111	1	Gout monitoring status	gout
+67	a5650571000006111	1	Gouty tophus of bursa	gout

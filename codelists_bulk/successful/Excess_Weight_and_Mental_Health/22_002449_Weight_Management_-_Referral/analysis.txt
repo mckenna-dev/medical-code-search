@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 11
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tweight_management_referral\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                              \tMedCodeId\tObservations\tTerm\tweight_management_referral\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+0                0\ta2154209017\t300000\tRefer to weight management programme\tweight_management_referral\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+1            1\ta297811000000117\t100000\tWeight management programme offered\tweight_management_referral\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+2  2\ta1709681000000111\t80000\tReferral to weight management service offered\tweight_management_referral\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t

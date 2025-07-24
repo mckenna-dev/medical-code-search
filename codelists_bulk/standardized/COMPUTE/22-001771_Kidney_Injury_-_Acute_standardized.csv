@@ -1,0 +1,11 @@
+med_code_id,term,snomed_ct_concept_id,observations
+2204191000000110,Acute kidney injury,14669001,200000
+2405141000000117,Provision of written information about acute kidney injury,939531000000109,100000
+2206791000000119,Acute kidney injury stage 1,851931000000107,60000
+2206811000000118,Acute kidney injury stage 2,851941000000103,20000
+2206831000000114,Acute kidney injury stage 3,851951000000100,20000
+1985201000006119,History of acute kidney injury,137971000119104,1000
+8043971000006111,Acute nontraumatic kidney injury,140031000119103,20
+8043981000006114,Nontraumatic AKI (acute kidney injury),140031000119103,10
+2732281000006119,AKI - acute kidney injury,14669001,10
+13485211000006111,Acute kidney injury due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),870589006,10

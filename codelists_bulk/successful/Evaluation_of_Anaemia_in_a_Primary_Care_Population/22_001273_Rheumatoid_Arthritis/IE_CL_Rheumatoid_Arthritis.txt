@@ -1,0 +1,168 @@
+MedCodeId	Observations	Term	rheumatoid_arthritis
+a116082011	2000000	Rheumatoid arthritis	rheumatoid_arthritis
+a2196791000000119	700000	Rheumatoid arthritis annual review	rheumatoid_arthritis
+a257899015	400000	Rheumatoid arthritis latex test	rheumatoid_arthritis
+a149911000006117	100000	Seropositive rheumatoid arthritis	rheumatoid_arthritis
+a2275671000000111	90000	Rheumatoid arthritis monitoring invitation first letter	rheumatoid_arthritis
+a219021000000114	50000	Rheumatoid arthritis monitoring	rheumatoid_arthritis
+a309829012	30000	Juvenile arthritis	rheumatoid_arthritis
+a2275711000000112	30000	Rheumatoid arthritis monitoring invitation second letter	rheumatoid_arthritis
+a426510015	30000	Rheumatoid arthritis - multiple joint	rheumatoid_arthritis
+a168751000006115	30000	Rheumatoid arthritis and other inflammatory polyarthropathy	rheumatoid_arthritis
+a1785241000006114	20000	Excepted from rheumatoid arthritis quality indicators - informed dissent	rheumatoid_arthritis
+a1785231000006116	20000	Excepted from rheumatoid arthritis quality indicators - patient unsuitable	rheumatoid_arthritis
+a889731000006111	10000	Rheumatoid arthritis NOS	rheumatoid_arthritis
+a2159844013	10000	Rheumatoid arthritis particle agglutination test	rheumatoid_arthritis
+a451461014	10000	Seropositive erosive rheumatoid arthritis	rheumatoid_arthritis
+a309816012	10000	Flare of rheumatoid arthritis	rheumatoid_arthritis
+a2275751000000111	10000	Rheumatoid arthritis monitoring invitation third letter	rheumatoid_arthritis
+a2275501000000119	10000	Rheumatoid arthritis monitoring invitation	rheumatoid_arthritis
+a2275831000000110	8000	Rheumatoid arthritis monitoring telephone invitation	rheumatoid_arthritis
+a309828016	7000	Juvenile rheumatoid arthritis NOS	rheumatoid_arthritis
+a2472447010	6000	Juvenile rheumatoid arthritis	rheumatoid_arthritis
+a909191000006119	4000	[RFC] Rheumatoid arthritis	rheumatoid_arthritis
+a123542016	4000	Pauciarticular juvenile rheumatoid arthritis	rheumatoid_arthritis
+a5139361000006116	4000	Juvenile chronic arthritis	rheumatoid_arthritis
+a162341000006115	4000	Rheumatoid nodule	rheumatoid_arthritis
+a312534011	3000	"[X]Seropositive rheumatoid arthritis, unspecified"	rheumatoid_arthritis
+a312523013	3000	[X]Other juvenile arthritis	rheumatoid_arthritis
+a1785221000006119	3000	Exception reporting - rheumatoid arthritis quality indicators	rheumatoid_arthritis
+a125937016	3000	Acute polyarticular juvenile rheumatoid arthritis	rheumatoid_arthritis
+a485614018	3000	Rheumatoid nodule	rheumatoid_arthritis
+a359310019	2000	Juvenile arthritis in psoriasis	rheumatoid_arthritis
+a309800010	2000	Rheumatoid arthritis of knee	rheumatoid_arthritis
+a309794018	2000	Rheumatoid arthritis of wrist	rheumatoid_arthritis
+a95067016	2000	Felty's syndrome	rheumatoid_arthritis
+a502690012	2000	Pauciarticular onset juvenile chronic arthritis	rheumatoid_arthritis
+a8440041000006115	2000	Rheumatoid arthritis monitoring SMS (short message service) text message first invitation	rheumatoid_arthritis
+a312518013	2000	[X]Other seropositive rheumatoid arthritis	rheumatoid_arthritis
+a2839291014	2000	Disease activity score 28 joint in rheumatoid arthritis	rheumatoid_arthritis
+a2275791000000115	2000	Rheumatoid arthritis monitoring verbal invitation	rheumatoid_arthritis
+a311496011	2000	Fibrosing alveolitis associated with rheumatoid arthritis	rheumatoid_arthritis
+a162231000006117	1000	Rheumatoid arthropathy + visceral/systemic involvement NOS	rheumatoid_arthritis
+a5721431000006114	1000	Rheumatoid arthritis of multiple joints	rheumatoid_arthritis
+a162111000006117	800	Rheumatoid arthritis of metacarpophalangeal joint	rheumatoid_arthritis
+a309827014	700	Monarticular juvenile rheumatoid arthritis	rheumatoid_arthritis
+a8440031000006113	600	Rheumatoid arthritis monitoring invitation by SMS (short message service) text messaging	rheumatoid_arthritis
+a309789018	600	Rheumatoid arthritis of shoulder	rheumatoid_arthritis
+a1875591000006110	500	Rheumatoid arthritis monitoring invitation first letter	rheumatoid_arthritis
+a309824019	500	Juvenile rheumatoid arthropathy unspecified	rheumatoid_arthritis
+a394571000006116	400	Chronic arthritis of juvenile onset	rheumatoid_arthritis
+a162131000006111	400	Rheumatoid arthritis of proximal interphalangeal joint of finger	rheumatoid_arthritis
+a8440051000006118	400	Rheumatoid arthritis monitoring SMS (short message service) text message second invitation	rheumatoid_arthritis
+a309792019	400	Rheumatoid arthritis of elbow	rheumatoid_arthritis
+a309787016	400	Rheumatoid arthritis of cervical spine	rheumatoid_arthritis
+a312520011	300	[X]Other specified rheumatoid arthritis	rheumatoid_arthritis
+a309802019	300	Rheumatoid arthritis of ankle	rheumatoid_arthritis
+a309798015	300	Rheumatoid arthritis of hip	rheumatoid_arthritis
+a7282111000006119	200	DAS (disease activity score) 28 joint in rheumatoid arthritis	rheumatoid_arthritis
+a297544012	200	Polyneuropathy in rheumatoid arthritis	rheumatoid_arthritis
+a16911000006114	200	Rheumatoid arthritis with organ / system involvement	rheumatoid_arthritis
+a14419531000006117	200	Rheumatoid nodule	rheumatoid_arthritis
+a4809281000006113	100	Systemic onset juvenile chronic arthritis	rheumatoid_arthritis
+a168761000006118	100	Rheumatoid arthritis of 1st metatarsophalangeal joint	rheumatoid_arthritis
+a309788014	100	Rheumatoid arthritis of spine	rheumatoid_arthritis
+a3709251000006117	100	Pauciarticular juvenile rheumatoid arthritis	rheumatoid_arthritis
+a309804018	90	Rheumatoid arthritis of talonavicular joint	rheumatoid_arthritis
+a309791014	80	Rheumatoid arthritis of acromioclavicular joint	rheumatoid_arthritis
+a309803012	80	Rheumatoid arthritis of subtalar joint	rheumatoid_arthritis
+a2530001000006117	80	Chronic polyarticular juvenile rheumatoid arthritis	rheumatoid_arthritis
+a162041000006117	80	Rheumatoid arthritis of distal interphalangeal joint of finger	rheumatoid_arthritis
+a8440071000006111	60	Rheumatoid arthritis monitoring SMS (short message service) text message third invitation	rheumatoid_arthritis
+a297641010	50	Myopathy due to rheumatoid arthritis	rheumatoid_arthritis
+a1875561000006119	40	Rheumatoid arthritis monitoring invitation	rheumatoid_arthritis
+a309805017	40	Rheumatoid arthritis of other tarsal joint	rheumatoid_arthritis
+a162141000006118	40	Rheumatoid arthritis of sacroiliac joint	rheumatoid_arthritis
+a162081000006111	40	Rheumatoid arthritis of interphalangeal joint of toe	rheumatoid_arthritis
+a162101000006115	40	Rheumatoid arthritis of lesser metatarsophalangeal joint	rheumatoid_arthritis
+a162051000006115	30	Rheumatoid arthritis of distal radio-ulnar joint	rheumatoid_arthritis
+a424981000006114	30	[X]Rheumatoid arthritis+involvement/other organs or systems	rheumatoid_arthritis
+a3709271000006110	30	Pauciarticular onset juvenile arthritis	rheumatoid_arthritis
+a2640821000000117	20	Rheumatoid Arthritis Impact of Disease questionnaire score	rheumatoid_arthritis
+a11929781000006114	20	Disease activity score 28 joint in rheumatoid arthritis	rheumatoid_arthritis
+a14666871000006112	20	Juvenile rheumatoid arthritis	rheumatoid_arthritis
+a14512891000006117	20	Rheumatoid arthritis with erosion of joint	rheumatoid_arthritis
+a309790010	20	Rheumatoid arthritis of sternoclavicular joint	rheumatoid_arthritis
+a4809221000006114	20	Rheumatoid arthritis of first metatarsophalangeal joint	rheumatoid_arthritis
+a3042571000006112	20	Subcutaneous rheumatoid nodule	rheumatoid_arthritis
+a5721451000006119	10	Rheumatoid arthritis - hand joint	rheumatoid_arthritis
+a1932121000006116	10	3D study - problems with rheumatoid arthritis management	rheumatoid_arthritis
+a13709511000006115	10	Bilateral rheumatoid arthritis of feet	rheumatoid_arthritis
+a1875601000006119	10	Rheumatoid arthritis monitoring invitation second letter	rheumatoid_arthritis
+a3203591000006115	9	Ulnar deviation of the wrist	rheumatoid_arthritis
+a4427661000006113	9	Rheumatoid osteoperiostitis	rheumatoid_arthritis
+a1875611000006116	8	Rheumatoid arthritis monitoring invitation third letter	rheumatoid_arthritis
+a13709541000006116	8	Bilateral rheumatoid arthritis of knees	rheumatoid_arthritis
+a8447181000006111	7	Rheumatoid arthritis of left knee	rheumatoid_arthritis
+a8187311000006112	6	Assessment of rheumatoid arthritis using DAS28 (disease activity score 28)	rheumatoid_arthritis
+a162191000006110	6	Rheumatoid arthritis of tibio-fibular joint	rheumatoid_arthritis
+a3528264013	5	Rheumatoid arthritis of left hip	rheumatoid_arthritis
+a3528266010	5	Rheumatoid arthritis of right hip	rheumatoid_arthritis
+a5721481000006110	5	Rheumatoid arthritis - ankle and/or foot	rheumatoid_arthritis
+a14531701000006119	5	Rheumatoid factor and anti-citrullinated protein antibody positive rheumatoid arthritis	rheumatoid_arthritis
+a8459501000006119	5	Rheumatoid arthritis monitoring invitation email	rheumatoid_arthritis
+a7078501000006113	5	Rheumatoid arthritis of temporomandibular joint	rheumatoid_arthritis
+a1875571000006114	5	Rheumatoid arthritis monitoring telephone invitation	rheumatoid_arthritis
+a14011041000006114	5	Bilateral deformity of hands due to rheumatoid arthritis	rheumatoid_arthritis
+a8447281000006115	4	Rheumatoid arthritis of right knee	rheumatoid_arthritis
+a5139551000006114	4	Juvenile arthritis of inflammatory bowel disease	rheumatoid_arthritis
+a4809101000006114	4	Rheumatoid arthritis of distal radioulnar joint	rheumatoid_arthritis
+a3514955016	4	Erosion of joint surface co-occurrent and due to rheumatoid arthritis	rheumatoid_arthritis
+a371261000000111	4	Delivery of rehabilitation for rheumatoid arthritis	rheumatoid_arthritis
+a9357441000006116	4	Seropositive rheumatoid arthritis of multiple joints	rheumatoid_arthritis
+a13709571000006112	4	Bilateral rheumatoid arthritis of hands	rheumatoid_arthritis
+a12114061000006112	3	Rheumatoid arthritis of right shoulder	rheumatoid_arthritis
+a3528259014	3	Rheumatoid arthritis of left hand	rheumatoid_arthritis
+a1875581000006112	3	Rheumatoid arthritis monitoring verbal invitation	rheumatoid_arthritis
+a7099641000006113	3	Rheumatoid arthritis of foot	rheumatoid_arthritis
+a5139431000006118	3	Early onset polyarticular juvenile chronic arthritis	rheumatoid_arthritis
+a4809181000006117	2	Rheumatoid arthritis of tibiofibular joint	rheumatoid_arthritis
+a3461051000006116	2	Rheumatoid scleritis	rheumatoid_arthritis
+a3514958019	2	Rheumatoid arthritis without erosion	rheumatoid_arthritis
+a13677591000006115	2	Rheumatoid nodule of right elbow	rheumatoid_arthritis
+a13709581000006110	2	Rheumatoid arthritis of both hands	rheumatoid_arthritis
+a13709561000006117	2	Rheumatoid arthritis of bilateral knees	rheumatoid_arthritis
+a13709551000006119	2	Rheumatoid arthritis of both knees	rheumatoid_arthritis
+a3636541000006112	2	RA - Rheumatoid arthritis	rheumatoid_arthritis
+a3901751000006115	2	Uveitis-rheumatoid arthritis syndrome	rheumatoid_arthritis
+a8030351000006112	2	Deformity of hand due to rheumatoid arthritis	rheumatoid_arthritis
+a11929201000006114	2	Disease activity score in rheumatoid arthritis	rheumatoid_arthritis
+a6665221000006113	2	Accelerated rheumatoid nodulosis	rheumatoid_arthritis
+a6665291000006110	2	Nailfold/finger-pulp infarcts in rheumatoid disease	rheumatoid_arthritis
+a14486571000006110	2	Bilateral seropositive rheumatoid arthritis of wrist joint regions	rheumatoid_arthritis
+a3527731011	2	Deformity of right foot co-occurrent and due to rheumatoid arthritis	rheumatoid_arthritis
+a14810541000006114	2	Deformity of right wrist due to rheumatoid arthritis	rheumatoid_arthritis
+a4809351000006111	2	Juvenile arthritis in Crohn disease	rheumatoid_arthritis
+a5721471000006112	2	Rheumatoid arthritis of hand	rheumatoid_arthritis
+a14172781000006113	1	Seropositive rheumatoid arthritis of left hand	rheumatoid_arthritis
+a14172791000006111	1	Seropositive rheumatoid arthritis of right hand	rheumatoid_arthritis
+a14810561000006113	1	Deformity of left wrist due to rheumatoid arthritis	rheumatoid_arthritis
+a15097771000006118	1	Rheumatoid factor arbitrary concentration in serum	rheumatoid_arthritis
+a14666171000006116	1	Rheumatoid arthritis with nailfold and finger-pulp infarcts	rheumatoid_arthritis
+a14486481000006114	1	Bilateral seropositive rheumatoid arthritis of hip joints	rheumatoid_arthritis
+a14486451000006118	1	Bilateral seropositive rheumatoid arthritis of shoulder regions	rheumatoid_arthritis
+a14464141000006119	1	Rheumatoid factor negative and anti-citrullinated protein antibody positive juvenile polyarthritis	rheumatoid_arthritis
+a13677611000006114	1	Rheumatoid nodule of right hand	rheumatoid_arthritis
+a14507091000006113	1	Accelerated rheumatoid nodulosis caused by methotrexate	rheumatoid_arthritis
+a8425391000006115	1	RAID (Rheumatoid Arthritis Impact of Disease) questionnaire score	rheumatoid_arthritis
+a4809291000006111	1	Juvenile arthritis with systemic onset	rheumatoid_arthritis
+a5139381000006114	1	JCA - Juvenile chronic arthritis	rheumatoid_arthritis
+a7176491000006113	1	Deformity of foot due to rheumatoid arthritis	rheumatoid_arthritis
+a6665231000006111	1	Accelerated rheumatoid nodulosis due to methotrexate	rheumatoid_arthritis
+a3528262012	1	Rheumatoid arthritis of right hand	rheumatoid_arthritis
+a3527737010	1	Deformity of right hand co-occurrent and due to rheumatoid arthritis	rheumatoid_arthritis
+a3527712017	1	Deformity of left hand co-occurrent and due to rheumatoid arthritis	rheumatoid_arthritis
+a3527061011	1	Deformity of left foot co-occurrent and due to rheumatoid arthritis	rheumatoid_arthritis
+a7276071000006116	1	DAS (disease activity score) in rheumatoid arthritis	rheumatoid_arthritis
+a6665211000006117	1	Rheumatoid nodulosis	rheumatoid_arthritis
+a6802591000006112	1	Juvenile seropositive polyarthritis	rheumatoid_arthritis
+a8187291000006113	1	Assessment of rheumatoid arthritis using DAS (disease activity score) - original	rheumatoid_arthritis
+a13677571000006116	1	Rheumatoid nodule of left hand	rheumatoid_arthritis
+a13687681000006113	1	Rheumatoid arthritis of left foot	rheumatoid_arthritis
+a13687691000006111	1	Rheumatoid arthritis of left wrist	rheumatoid_arthritis
+a13687701000006111	1	Rheumatoid arthritis of right foot	rheumatoid_arthritis
+a13687711000006114	1	Rheumatoid arthritis of right wrist	rheumatoid_arthritis
+a13605001000006117	1	Rheumatoid arthritis of joint of spine	rheumatoid_arthritis
+a12114051000006110	1	Rheumatoid arthritis of left shoulder	rheumatoid_arthritis
+a4596611000006113	1	Rheumatoid arthritis latex test	rheumatoid_arthritis
+a3322481000006114	1	Rheumatoid nodule	rheumatoid_arthritis

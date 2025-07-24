@@ -1,0 +1,61 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a64984100000611	40741714	Ex-smoker	b8517006
+a250365011	2790339	Ex-moderate cigarette smoker (10-19/day)	b266923002
+a41891401	2281755	Ex-cigarette smoker	b281018007
+a25038501	2273905	Date ceased smoking	b160625004
+a25036401	2112897	Ex-light cigarette smoker (1-9/day)	b266922007
+a250371017	1533219	Ex-smoker - amount unknown	b8517006
+a250366012	1317649	Ex-heavy cigarette smoker (20-39/day)	b266924008
+a457286014	1027819	Nicotine replacement therapy	b313396002
+a250363016	690638	Ex-trivial cigarette smoker (<1/day)	b266921000
+a342574011	550404	Total time smoked	b228487000
+a1154471000000114	250363	Ex-smoker annual review	b505761000000105
+a250367015	221454	Ex-very heavy cigarette smoker (40+/day)	b266925009
+a482791000000119	162576	Nicotine replacement therapy using nicotine patch	b790121000000107
+a1484937011	110810	Nicotine replacement therapy provided free	b390905006
+a2735181000000113	96379	Ex-smoker amount unknown	b1092031000000108
+a137761000006114	81244	Smoking Age Ceased	b137761000006105
+a649821000006115	72420	Ex-cigar smoker	b160621008
+a649831000006117	66083	Ex-pipe smoker	b160620009
+a649861000006114	60341	Ex-Cigarette Smoker	b649861000006105
+a459524018	47801	Over the counter nicotine replacement therapy	b315055008
+a482831000000114	45665	Nicotine replacement therapy using nicotine inhalator	b280811000000104
+a2336091000000117	37485	Ex user of electronic cigarette	b908781000000104
+a1059701000000119	24008	Ex roll-up cigarette smoker	b492191000000103
+a649851000006112	21141	Ex- Rolled Tobacco Smoker	b649851000006108
+a482811000000118	18640	Nicotine replacement therapy using nicotine gum	b280801000000101
+a1925121000006113	17275	Issue of nicotine replacement therapy voucher	b784481000000108
+a482851000000119	15809	Nicotine replacement therapy using nicotine lozenge	b790131000000109
+a90304100000611	9935	EX-Smoker NOS	b266928006
+a5496031000006112	7632	Ex-cigarette smoker amount unknown	b266928006
+a8017571000006117	6048	Ex-smoker for more than 1 year	b48031000119106
+a6718071000006115	4503	Current non smoker but past smoking history unknown	b405746006
+a167635100000611	2668	Nicotine replacement therapy using nicotine sublingual tablets	b1676351000006106
+a2735381000000111	1917	Ex-light smoker (1-9/day)	b1092111000000104
+a1472605100000611	1898	Nicotine replacement therapy	b151159008
+a7368651000006119	1833	Smoked before confirmation of pregnancy	b449345000
+a2735421000000119	1722	Ex-trivial smoker (<1/day)	b1092131000000107
+a2735331000000112	1567	Ex-moderate smoker (10-19/day)	b1092091000000109
+a2735281000000119	1403	Ex-heavy smoker (20-39/day)	b1092071000000105
+a1979481000006118	1132	Nicotine replacement therapy using nicotine mouth spray	b1979481000006102
+a3513199018	933	Ex-smoker for less than 1 year	b735128000
+a85411100000611	912	Past smoker	b854111000006106
+a998861000006112	539	Nicotine replacement therapy provided by community pharmacist	b200211000000104
+a1809131000006111	474	Total time smoked	b228487000
+a112395100000011	333	Ex-smoker annual review - enhanced services administration	b505761000000105
+a85300100000611	320	Ex-smoker NOS	b853001000006106
+a2735201000000112	233	Ex-very heavy smoker (40+/day)	b1092041000000104
+a1979471000006116	142	Nicotine replacement therapy using nicotine nasal spray	b1979471000006100
+a1697731000006111	135	Nicotine replacement therapy not tolerated	b1697731000006107
+a1899561000006114	107	Mother's smoking status at time of baby's birth - ex-smoker	b1899561000006105
+a3374141000006117	67	Tolerant ex-smoker	b53896009
+a854051000006112	49	Ex-pipe smoker	b854051000006108
+a298701000000114	35	History of tobacco use	b8517006
+a15055611000006116	32	Ex-electronic cigarette user	b35361000087100
+a5495901000006112	24	Amount and type of tobacco smoked	b266918002
+a6217281000006116	24	Aggressive ex-smoker	b360900008
+a4948551000006111	5	Drops unextinguished cigarettes	b225936008
+a175409100000011	3	Issue of nicotine replacement therapy voucher	b784481000000108
+a3513101011	3	Date ceased using moist tobacco	b735112005
+a14421881000006112	2	Ex-vaper for less than 1 year	b1137688001
+a6217151000006116	1	Intolerant ex-smoker	b360890004

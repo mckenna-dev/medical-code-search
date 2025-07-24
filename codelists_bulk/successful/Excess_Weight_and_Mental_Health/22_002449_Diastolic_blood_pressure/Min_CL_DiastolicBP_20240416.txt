@@ -1,0 +1,10 @@
+	MedCodeId	Term	Count
+0	619931000006119	Diastolic arterial pressure	144554947
+236	1780183016	Standing diastolic blood pressure	446421
+264	2159156012	Sitting diastolic blood pressure	372058
+542	2159158013	Lying diastolic blood pressure	65918
+1013	125231000006119	Standing Diastolic Bp	12902
+1080	11924381000006114	O/E - Diastolic BP reading	10305
+1114	1808021000006115	Diastolic blood pressure - left arm	9229
+1131	1808051000006112	Diastolic blood pressure - right arm	8858
+3591	5527211000006110	Diastolic blood pressure	240

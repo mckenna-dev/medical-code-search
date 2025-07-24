@@ -1,0 +1,5 @@
+medcode	readterm	type
+14067	"C reactive protein normal"	"CRP"
+19809	"C reactive protein abnormal"	"CRP"
+14066	"Plasma C reactive protein"	"CRP"
+14068	"Serum C reactive protein level"	"CRP"

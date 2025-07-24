@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 128
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tosteoarthritis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                  MedCodeId\tObservations\tTerm\tosteoarthritis
+0             a221521000000114\t2000000\tOsteoarthritis of knee\tosteoarthritis
+1                          a1776248011\t2000000\tOsteoarthritis\tosteoarthritis
+2  a41261000006115\t900000\tOsteoarthritis and allied disorders\tosteoarthritis

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 1322
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tCVD\t\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                \tMedCodeId\tObservations\tTerm\tCVD\t\t
+0              0\ta2534664018\t5000000\tIschaemic heart disease\tCVD\t\t
+1                       1\ta299757012\t3000000\tAngina pectoris\tCVD\t\t
+2  2\ta460133017\t2000000\tCoronary heart disease annual review\tCVD\t\t

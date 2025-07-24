@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 16
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order        Flag_classifyL1 Flag_classifyL2           MedCodeID                                    Term
+0   3945  Chronic_pain_syndrome    Fibromyalgia         a1222482014             Generalised aches and pains
+1   3946  Chronic_pain_syndrome    Fibromyalgia  a13796931000006113  Myofascial pain syndrome of lower back
+2   3947  Chronic_pain_syndrome    Fibromyalgia   a1705881000006115                Myofascial pain syndrome

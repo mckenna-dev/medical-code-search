@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 36
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tSnomedCTConceptId\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                           MedCodeId\tObservations\tTerm\tSnomedCTConceptId\t
+0                    a1772803017\t500000\tCoeliac disease\t396331005\tCoeliac
+1                   a303690012\t9000\tCoeliac disease NOS\t396331005\tCoeliac
+2  a1689421000000115\t5000\tCoeliac disease annual review\t473213008\tCoeliac

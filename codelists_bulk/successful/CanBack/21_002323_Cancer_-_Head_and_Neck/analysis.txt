@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 217
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                       Term
+0   1024          Cancer   Head and neck        a380095017  Carcinoma of lip, oral cavity and pharynx
+1   1025          Cancer   Head and neck  a724891000006113                  Malignant neoplasm of lip
+2   1026          Cancer   Head and neck        a403771011                           Carcinoma of lip

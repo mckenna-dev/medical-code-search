@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 146
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order             Flag_classifyL1 Flag_classifyL2           MedCodeID                                              Term
+0    333  Arthritis_non-inflammatory  Osteoarthritis          a109920012                               Transient arthritis
+1    334  Arthritis_non-inflammatory  Osteoarthritis  a11860791000006118               Osteoarthritis of joint right ankle
+2    335  Arthritis_non-inflammatory  Osteoarthritis  a11892541000006115  Osteoarthritis of joint of right shoulder region

@@ -1,0 +1,3 @@
+	MedCodeId	Observations	Term	Psychosis_referral
+0	300931000000113	4000	Referral to psychosis early intervention service	Psychosis_referral
+1	12115591000006111	1	Referral for cognitive behavioural therapy for psychosis	Psychosis_referral

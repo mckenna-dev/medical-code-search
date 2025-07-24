@@ -1,0 +1,39 @@
+{
+  "original_file": "codelists_bulk\\successful\\COMPUTE\\22-001771_Severe_Mental_Illness\\Severe_Mental_Illness_QOF_Codelist.csv",
+  "original_columns": [
+    "Description",
+    "SNOMED_CT_Concept_ID",
+    "Codelist_Name",
+    "Med_Code_Id",
+    "Observations",
+    "Term"
+  ],
+  "column_mapping": {
+    "med_code_id": "Med_Code_Id",
+    "term": "Description",
+    "snomed_ct_concept_id": "SNOMED_CT_Concept_ID",
+    "observations": "Observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "Med_Code_Id",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Description",
+      "type": "primary"
+    },
+    "snomed_ct_concept_id": {
+      "column": "SNOMED_CT_Concept_ID",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 336,
+  "rows_standardized": 336,
+  "project": "COMPUTE",
+  "codelist": "22-001771_Severe_Mental_Illness"
+}

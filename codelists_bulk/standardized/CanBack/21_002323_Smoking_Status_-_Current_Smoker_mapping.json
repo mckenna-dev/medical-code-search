@@ -1,0 +1,30 @@
+{
+  "original_file": "codelists_bulk\\successful\\CanBack\\21_002323_Smoking_Status_-_Current_Smoker\\Smoking_status_current_smoker.csv",
+  "original_columns": [
+    "Order",
+    "Flag_classifyL1",
+    "Flag_classifyL2",
+    "MedCodeID",
+    "Term",
+    "Flag_L1_L2",
+    "Notes"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeID",
+    "term": "Term"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeID",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 117,
+  "rows_standardized": 117,
+  "project": "CanBack",
+  "codelist": "21_002323_Smoking_Status_-_Current_Smoker"
+}

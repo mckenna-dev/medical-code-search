@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 21
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                                       Term
+0   1241          Cancer          Kidney  a729481000006112  Malig neop of kidney and other unspecified urinary organs
+1   1242          Cancer          Kidney  a177051000006111                                   Renal malignant neoplasm
+2   1243          Cancer          Kidney        a289285010                    Malignant neoplasm of kidney parenchyma

@@ -1,0 +1,10 @@
+Original URL: https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Peripheral%20Vasc%20disease/Gold_PAD_codelist_080322.txt
+Downloaded from: https://raw.githubusercontent.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/main/Peripheral%20Vasc%20disease/Gold_PAD_codelist_080322.txt
+Codelist Name: Peripheral Artery Disease (PAD)
+Project Title: Respiratory infection related cardiovascular disease
+ERAP Number: 21_000380
+Author: Joseph Lee
+Coding System: Gold
+Year Created: 2020
+Downloaded: 2025-06-25 13:27:47
+File Size: 27451 bytes

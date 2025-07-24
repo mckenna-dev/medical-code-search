@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22-001873-Anaemia/blob/main/Smith/Codelists/Mean_Corpuscular_Haemoglobin.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22-001873-Anaemia/main/Smith/Codelists/Mean_Corpuscular_Haemoglobin.csv
+Codelist Name: Mean Corpuscular Haemoglobin (MCH)
+Project Title: Anaemia
+ERAP Number: 22-001873
+Author: Margaret Smith
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:27:21
+File Size: 366 bytes

@@ -1,0 +1,3 @@
+original_filename,med_code_id_column,term_column,snomed_column,observations_column,notes
+example.csv,Med_Code_Id,Description,SNOMED_CT_Concept_ID,Observations,Remove a/b prefixes
+,,,,,

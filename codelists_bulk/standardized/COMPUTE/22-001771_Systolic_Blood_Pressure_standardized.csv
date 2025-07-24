@@ -1,0 +1,11 @@
+med_code_id,term,snomed_ct_concept_id,observations
+114311000006111,Systolic arterial pressure,72313002,144414202
+1780182014,Standing systolic blood pressure,400974009,461455
+2159155011,Sitting systolic blood pressure,407554009,378935
+2159157015,Lying systolic blood pressure,407556006,67038
+125251000006114,Standing Systolic Bp,125251000006105,14032
+1808041000006110,Systolic blood pressure - right arm,1808041000006106,12707
+1808011000006111,Systolic blood pressure - left arm,1808011000006107,12352
+11903371000006115,O/E - Systolic BP reading,163030003,10338
+3676271000006117,Systolic blood pressure,72313002,465
+5527191000006114,Systolic blood pressure,271649006,248

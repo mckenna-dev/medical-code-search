@@ -1,0 +1,299 @@
+	MedCodeId	Observations	Term	skin_infection
+0	a115336016	20000	Abscess of vulva	skin_infection
+1	a117333013	9000	Cellulitis of toe	skin_infection
+2	a1227883019	200000	Skin abscess	skin_infection
+3	a1227884013	10000	Cutaneous abscess	skin_infection
+4	a126431017	4000	Abscess of eyelid	skin_infection
+5	a137308019	1000	Abscess of lip	skin_infection
+6	a13937301000006115	6	Cellulitis and abscess of hand	skin_infection
+7	a14071441000006113	7	Cellulitis of foot due to diabetes mellitus	skin_infection
+8	a158680013	9000	Cellulitis of external ear	skin_infection
+9	a165687010	100	Abscess of thyroid	skin_infection
+10	a177041017	100	Abscess of bursa	skin_infection
+11	a178464010	60	Abscess of tendon	skin_infection
+12	a206541013	200000	Cellulitis of foot	skin_infection
+13	a219461000000111	3000	"Abscess, external ear"	skin_infection
+14	a219471000000116	20000	"Cellulitis, external ear"	skin_infection
+15	a25168017	4000	Cellulitis of penis	skin_infection
+16	a2560021000006115	3	Drainage of abscess of eyelid	skin_infection
+17	a267227019	900	Drainage of abscess of external ear	skin_infection
+18	a269491000006113	30	Obstetric breast abscess - delivered with postnatal complication	skin_infection
+19	a296923013	70	Intracranial abscess NOS	skin_infection
+20	a298680016	60000	Orbital cellulitis	skin_infection
+21	a298954015	300	Infective otitis externa due to erysipelas	skin_infection
+22	a298955019	400	Erysipelas - otitis externa	skin_infection
+23	a298959013	1000	Infective otitis externa due to impetigo	skin_infection
+24	a298960015	2000	Impetigo - otitis externa	skin_infection
+25	a302270018	1000	Cellulitis of floor of mouth	skin_infection
+26	a304604017	200	Retromammary breast abscess	skin_infection
+27	a304755016	2000	Other abscess of vulva	skin_infection
+28	a304766011	90	Other abscess of vulva NOS	skin_infection
+29	a307947010	100	Obstetric breast abscess unspecified	skin_infection
+30	a307948017	300	Obstetric breast abscess - delivered	skin_infection
+31	a307950013	4	Obstetric breast abscess with antenatal complication	skin_infection
+32	a307951012	200	Obstetric breast abscess with postnatal complication	skin_infection
+33	a307952017	300	Obstetric breast abscess NOS	skin_infection
+34	a308234014	500	Carbuncle of skin and/or subcutaneous tissue	skin_infection
+35	a308266016	20000	Cellulitis and abscess of finger and toe	skin_infection
+36	a308269011	30000	Cellulitis and abscess of finger	skin_infection
+37	a308270012	4000	Cellulitis and abscess of finger unspecified	skin_infection
+38	a308281010	2000	Cellulitis and abscess of finger NOS	skin_infection
+39	a308282015	70000	Cellulitis and abscess of toe	skin_infection
+40	a308283013	7000	Cellulitis and abscess of toe unspecified	skin_infection
+41	a308300010	30000	Cellulitis and abscess of face	skin_infection
+42	a308307013	700	Cellulitis and abscess of chin	skin_infection
+43	a308309011	700	Cellulitis and abscess of forehead	skin_infection
+44	a308310018	200	Cellulitis and abscess of temple region	skin_infection
+45	a308311019	6000	Cellulitis of face	skin_infection
+46	a308312014	2000	Cellulitis and abscess of face NOS	skin_infection
+47	a308316012	10000	Cellulitis and abscess of trunk	skin_infection
+48	a308317015	2000	Cellulitis and abscess of chest wall	skin_infection
+49	a308318013	8000	Cellulitis and abscess of breast	skin_infection
+50	a308319017	2000	Cellulitis and abscess of back	skin_infection
+51	a308320011	5000	Cellulitis and abscess of abdominal wall	skin_infection
+52	a308321010	10000	Cellulitis and abscess of umbilicus	skin_infection
+53	a308322015	200	Cellulitis and abscess of flank	skin_infection
+54	a308323013	20000	Cellulitis and abscess of groin	skin_infection
+55	a308324019	2000	Cellulitis and abscess of perineum	skin_infection
+56	a308325018	200	Cellulitis and abscess of trunk NOS	skin_infection
+57	a308327014	600	Cellulitis and abscess of shoulder	skin_infection
+58	a308328016	10000	Cellulitis and abscess of axilla	skin_infection
+59	a308329012	1000	Cellulitis and abscess of upper arm	skin_infection
+60	a308330019	6000	Cellulitis and abscess of elbow	skin_infection
+61	a308331015	6000	Cellulitis and abscess of forearm	skin_infection
+62	a308332010	900	Cellulitis and abscess of arm NOS	skin_infection
+63	a308342012	1000	Cellulitis and abscess of wrist	skin_infection
+64	a308344013	20000	Cellulitis and abscess of buttock	skin_infection
+65	a308349015	600	Cellulitis and abscess of hip	skin_infection
+66	a308350015	7000	Cellulitis and abscess of thigh	skin_infection
+67	a308351016	7000	Cellulitis and abscess of knee	skin_infection
+68	a308352011	100000	Cellulitis and abscess of lower leg	skin_infection
+69	a308353018	4000	Cellulitis and abscess of ankle	skin_infection
+70	a308354012	70000	Cellulitis and abscess of leg NOS	skin_infection
+71	a308358010	10000	Cellulitis and abscess of foot unspecified	skin_infection
+72	a308359019	1000	Cellulitis and abscess of heel	skin_infection
+73	a308360012	3000	Cellulitis in diabetic foot	skin_infection
+74	a308361011	7000	Cellulitis and abscess of foot NOS	skin_infection
+75	a308363014	2000	Other specified cellulitis and abscess	skin_infection
+76	a308367010	2000	Cellulitis and abscess NOS	skin_infection
+77	a308382017	10000	Impetigo contagiosa unspecified	skin_infection
+78	a308385015	90	Impetigo contagiosa gyrata	skin_infection
+79	a308386019	1000	Circinate impetigo	skin_infection
+80	a308387011	200	Impetigo neonatorum	skin_infection
+81	a308388018	3000	Impetigo simplex	skin_infection
+82	a308389014	5000	Impetigo follicularis	skin_infection
+83	a308390017	40	Chronic symmetrical impetigo	skin_infection
+84	a308391018	100000	Impetigo NOS	skin_infection
+85	a308446011	5000	Cellulitis of breast	skin_infection
+86	a308462017	4000	[X]Abscess of other site	skin_infection
+87	a308748013	4000	Impetigo herpetiformis	skin_infection
+88	a311541015	20	Abscess of tendon-arm	skin_infection
+89	a311542010	20	Abscess of tendon-forearm	skin_infection
+90	a311543017	20	Abscess of tendon-hand	skin_infection
+91	a311544011	200	Abscess of tendon-thigh	skin_infection
+92	a311545012	40	Abscess of tendon-leg	skin_infection
+93	a311546013	40	Abscess of tendon-foot	skin_infection
+94	a311549018	70	Abscess of bursa-shoulder	skin_infection
+95	a311550018	300	Abscess of bursa-elbow	skin_infection
+96	a311551019	20	Abscess of bursa-wrist	skin_infection
+97	a311552014	90	Abscess of bursa-hip	skin_infection
+98	a311553016	200	Abscess of bursa-knee	skin_infection
+99	a311554010	100	Abscess of bursa-ankle	skin_infection
+100	a311555011	100	Abscess of bursa-foot	skin_infection
+101	a311582015	90	Muscle abscess	skin_infection
+102	a311583013	20	Muscle abscess-neck	skin_infection
+103	a311584019	70	Muscle abscess-back	skin_infection
+104	a311585018	40	Muscle abscess-shoulder	skin_infection
+105	a311586017	30	Muscle abscess-arm	skin_infection
+106	a311587014	30	Muscle abscess-forearm	skin_infection
+107	a311588016	20	Muscle abscess-hand	skin_infection
+108	a311589012	20	Muscle abscess-pelvis	skin_infection
+109	a311590015	200	Muscle abscess-thigh	skin_infection
+110	a311591016	50	Muscle abscess-leg	skin_infection
+111	a311592011	30	Muscle abscess-foot	skin_infection
+112	a32771017	2000	Cellulitis of axilla	skin_infection
+113	a3365991000006116	10	Bockhart impetigo	skin_infection
+114	a347348011	20000	Cellulitis of eyelid	skin_infection
+115	a347926013	4000	Abscess of external ear	skin_infection
+116	a3511761000006112	1	Incision of skin abscess	skin_infection
+117	a355733012	100	Abscess of nipple - obstetric	skin_infection
+118	a357305010	1000	Abscess of skin area excluding digits of hand or foot	skin_infection
+119	a357306011	300	Abscess of dorsum of hand	skin_infection
+120	a357307019	400	Abscess of palm of hand	skin_infection
+121	a357316015	2000	Cellulitis of skin area excluding digits of hand or foot	skin_infection
+122	a357317012	10000	Cellulitis of dorsum of hand	skin_infection
+123	a357321017	1000	Cellulitis of palm of hand	skin_infection
+124	a359535012	200	"Abscess, contracture or calcification of bursa or tendon"	skin_infection
+125	a359551000006115	60000	Abscess of axilla	skin_infection
+126	a359561000006118	20000	Abscess of buttock	skin_infection
+127	a359571000006113	6000	[X]Abscess of buttock	skin_infection
+128	a359581000006111	4000	Abscess of face	skin_infection
+129	a359591000006114	3000	Abscess of limb	skin_infection
+130	a359601000006118	6000	Abscess of neck	skin_infection
+131	a359621000006111	700	Abscess of trunk	skin_infection
+132	a360374010	100	Gonococcal cellulitis	skin_infection
+133	a370601000006113	6000	[X]Cellulitis of other parts of limb	skin_infection
+134	a370621000006115	3000	[X]Cellulitis of thumb	skin_infection
+135	a396325011	1000	Oral cellulitis and abscess NOS	skin_infection
+136	a399892014	3000	Cellulitis and abscess of toe NOS	skin_infection
+137	a399893016	20000	Cellulitis and abscess of digit NOS	skin_infection
+138	a399894010	70000	Other cellulitis and abscess	skin_infection
+139	a399895011	3000	Cellulitis and abscess of cheek (external)	skin_infection
+140	a399896012	1000	Cellulitis and abscess of cheek	skin_infection
+141	a399897015	2000	Cellulitis and abscess of nose (external)	skin_infection
+142	a399898013	6000	Cellulitis and abscess of neck	skin_infection
+143	a399899017	20000	Cellulitis and abscess of hand excluding digits	skin_infection
+144	a399900010	5000	Cellulitis and abscess of hand unspecified	skin_infection
+145	a399901014	20000	Cellulitis and abscess of leg	skin_infection
+146	a399903012	90000	Cellulitis and abscess of foot excluding toe	skin_infection
+147	a399904018	500	Cellulitis and abscess of head unspecified	skin_infection
+148	a405132019	6000	Obstetric breast abscess	skin_infection
+149	a40768015	9000	Cellulitis of ankle	skin_infection
+150	a411012017	3000	Drainage of abscess of head or neck	skin_infection
+151	a4161451000006113	60	Periorbital cellulitis	skin_infection
+152	a422799019	100000	Incision and drainage of abscess	skin_infection
+153	a450686015	300	Cellulitis - anus or rectum	skin_infection
+154	a450687012	2000	Perianal cellulitis	skin_infection
+155	a458561000006117	10000	Acute non-puerperal breast abscess	skin_infection
+156	a459015017	20000	Abscess of labia	skin_infection
+157	a46395018	10000	Abscess of scrotum	skin_infection
+158	a472876012	200000	Cutaneous cellulitis	skin_infection
+159	a4773721000006110	1	Postseptal orbital cellulitis	skin_infection
+160	a4791151000006112	10	Chronic non-puerperal breast abscess	skin_infection
+161	a4816941000006117	2	Abscess of tendon of upper arm	skin_infection
+162	a4816961000006118	3	Abscess of tendon of forearm	skin_infection
+163	a4817081000006110	2	Abscess of bursa of shoulder	skin_infection
+164	a4817101000006119	1	Abscess of bursa of elbow	skin_infection
+165	a4817161000006118	5	Abscess of bursa of knee	skin_infection
+166	a4817501000006114	10	Muscle abscess of upper arm	skin_infection
+167	a4817601000006110	20	Muscle abscess of lower leg	skin_infection
+168	a4817621000006117	1	Muscle abscess of foot	skin_infection
+169	a484281000006113	4000	Ano-rectal abscess NOS	skin_infection
+170	a5027641000006110	10	Impetigo of eyelid	skin_infection
+171	a5106751000006116	30	Drainage of breast abscess	skin_infection
+172	a5107311000006116	6	Subareolar breast abscess	skin_infection
+173	a5120891000006110	10	Non-bullous impetigo	skin_infection
+174	a5120911000006112	3	Streptococcal impetigo	skin_infection
+175	a5120921000006116	6	Staphylococcal non-bullous impetigo	skin_infection
+176	a5147561000006118	30	Facial erysipelas	skin_infection
+177	a52490016	1000	Abscess of scalp	skin_infection
+178	a540621000006119	200000	Cellulitis and abscess NOS	skin_infection
+179	a540851000006112	10000	Cellulitis and abscess of foot	skin_infection
+180	a540921000006112	6000	Cellulitis and abscess of hand	skin_infection
+181	a541051000006114	7000	Cellulitis and abscess of nose	skin_infection
+182	a541281000006113	20000	Cellulitis of eyelids	skin_infection
+183	a541291000006111	60000	Cellulitis of face	skin_infection
+184	a541421000006113	800	Cellulitis of trunk	skin_infection
+185	a5502121000006117	2	Follicular impetigo	skin_infection
+186	a555441000006118	200	Chronic nonpuerperal breast abscess	skin_infection
+187	a5570911000006119	90	Incision and drainage of breast abscess	skin_infection
+188	a5684821000006112	9	ID - Incision and drainage of abscess	skin_infection
+189	a5721391000006115	100	"Cellulitis of leg, excluding foot"	skin_infection
+190	a5721401000006118	10	"Cellulitis of leg, except foot"	skin_infection
+191	a5721411000006115	6	Cellulitis of foot excluding toe	skin_infection
+192	a58130016	4000	Cellulitis of scrotum	skin_infection
+193	a6047701000006118	40	Incision and drainage of perineal abscess	skin_infection
+194	a62096018	900	Cellulitis of neck	skin_infection
+195	a6617371000006113	3	Bullous staphylococcal impetigo	skin_infection
+196	a6618681000006117	200	Impetigo bullosa	skin_infection
+197	a6672081000006118	1	P. acnes folliculitis	skin_infection
+198	a7119521000006110	1	Incision and drainage of abscess of face	skin_infection
+199	a7119531000006113	10	Incision and drainage of abscess of chest	skin_infection
+200	a7129531000006116	9	Incision and drainage of abscess of neck	skin_infection
+201	a7137451000006119	80	Incision and drainage of abscess of back	skin_infection
+202	a7178171000006119	3	Incision and drainage of abscess of scalp	skin_infection
+203	a7313161000006119	4	Incision and drainage of abscess of head and/or neck	skin_infection
+204	a7323981000006116	3	Incision and drainage of abscess of skin	skin_infection
+205	a7323991000006118	4	Drainage of abscess of neck	skin_infection
+206	a7375451000006118	20	Cellulitis of thumb	skin_infection
+207	a73863010	400	Abscess of tongue	skin_infection
+208	a74483012	60000	Erysipelas	skin_infection
+209	a78133018	1000	Cellulitis of trunk	skin_infection
+210	a80425016	2000000	Impetigo	skin_infection
+211	a85030014	3000	Cellulitis of lip	skin_infection
+212	a858791000006110	1000	Breast abscess drainage	skin_infection
+213	a886441000006119	300	Anal/rectal abscess NOS	skin_infection
+214	a887011000006111	2000	Breast abscess - non puerperal	skin_infection
+215	a888791000006115	700	Breast abscess - obstetric	skin_infection
+216	a888981000006116	6000	Cellulitis/abscess NOS	skin_infection
+217	a914781000006115	50000	Incision and drainage of abscess	skin_infection
+218	a9323111000006117	1	Breast abscess during lactation	skin_infection
+219	a1786733013	8000	Bullous impetigo	skin_infection
+220	a23210012	1000000	Folliculitis	skin_infection
+221	a75366010	300000	Mastitis	skin_infection
+222	a534631000006112	50000	Carbuncle	skin_infection
+223	a309067011	30000	Folliculitis NOS	skin_infection
+224	a89199015	20000	Pustular folliculitis	skin_infection
+225	a444947015	10000	Pubertal mastitis	skin_infection
+226	a503525013	10000	Perifolliculitis of scalp	skin_infection
+227	a496327019	8000	Necrotising fasciitis	skin_infection
+228	a1778658013	6000	Pseudofolliculitis barbae	skin_infection
+229	a396756018	5000	Acute adolescent mastitis	skin_infection
+230	a308221013	3000	Carbuncle of back	skin_infection
+231	a888851000006115	3000	Carbuncle/boil	skin_infection
+232	a269261000006118	2000	Obstetric nonpurulent mastitis NOS	skin_infection
+233	a309062017	2000	Folliculitis depilans	skin_infection
+234	a394552017	2000	Drainage of lesion of skin of head or neck	skin_infection
+235	a138226016	1000	Perifolliculitis	skin_infection
+236	a142202012	1000	Carbuncle of neck	skin_infection
+237	a308237019	1000	Carbuncle NOS	skin_infection
+238	a419717018	1000	Drainage of boil of skin NEC	skin_infection
+239	a44432015	1000	Carbuncle of vulva	skin_infection
+240	a81488014	1000	Carbuncle of axilla	skin_infection
+241	a269271000006113	900	Obstetric nonpurulent mastitis unspecified	skin_infection
+242	a105983016	800	Carbuncle of ear	skin_infection
+243	a126597019	800	Carbuncle of buttock	skin_infection
+244	a151360012	800	Carbuncle of face	skin_infection
+245	a126931011	700	Carbuncle of groin	skin_infection
+246	a108363011	600	Carbuncle of thigh	skin_infection
+247	a123071000006114	600	Subacute nonpuerperal mastitis	skin_infection
+248	a411013010	600	Drainage of boil of skin of head or neck	skin_infection
+249	a13796311000006118	400	Mastitis	skin_infection
+250	a269291000006114	400	Obstetric nonpurulent mastitis with postnatal complication	skin_infection
+251	a29479012	400	Carbuncle of chest wall	skin_infection
+252	a308217018	400	Carbuncle of face (excluding eye)	skin_infection
+253	a1225275015	300	Penile carbuncle	skin_infection
+254	a126598012	300	Carbuncle of gluteal region	skin_infection
+255	a141666017	300	Carbuncle of breast	skin_infection
+256	a2250681000000118	300	Eron class I skin and soft tissue infection	skin_infection
+257	a304774012	300	Carbuncle of labium	skin_infection
+258	a50180014	300	Carbuncle of abdominal wall	skin_infection
+259	a77288013	300	Carbuncle of scrotum	skin_infection
+260	a89376010	300	Carbuncle of trunk	skin_infection
+261	a108199012	200	Tropical pyomyositis	skin_infection
+262	a24267012	200	Carbuncle of umbilicus	skin_infection
+263	a308229010	200	Carbuncle of leg (excluding foot)	skin_infection
+264	a308230017	200	Carbuncle of lower leg	skin_infection
+265	a308236011	200	Carbuncle of other specified site NOS	skin_infection
+266	a309066019	200	Perifolliculitis capitis abscedens	skin_infection
+267	a109559013	100	Carbuncle of perineum	skin_infection
+268	a110214019	100	Carbuncle of shoulder	skin_infection
+269	a136765013	100	Carbuncle of nasal septum	skin_infection
+270	a304773018	100	Carbuncle of vagina	skin_infection
+271	a308235010	100	Carbuncle of head (excluding face)	skin_infection
+272	a31854012	100	Carbuncle of forearm	skin_infection
+273	a62650013	100	Carbuncle of upper arm	skin_infection
+274	a75253012	100	Carbuncle of knee	skin_infection
+275	a86595015	100	Carbuncle of finger	skin_infection
+276	a308223011	90	Carbuncle of upper arm and forearm	skin_infection
+277	a308224017	90	Carbuncle of elbow	skin_infection
+278	a308220014	80	Carbuncle of face NOS	skin_infection
+279	a308228019	80	Carbuncle of buttock NOS	skin_infection
+280	a3128017	80	Carbuncle of heel	skin_infection
+281	a109363017	70	Carbuncle of hand	skin_infection
+282	a31909010	70	Carbuncle of foot	skin_infection
+283	a144042014	60	Carbuncle of wrist	skin_infection
+284	a308222018	60	Carbuncle of trunk NOS	skin_infection
+285	a97274017	60	Carbuncle of thumb	skin_infection
+286	a11075014	50	Carbuncle of anus	skin_infection
+287	a269241000006117	50	Obstetric nonpurulent mastitis - deliv with p/n complication	skin_infection
+288	a35906010	50	Carbuncle of hip	skin_infection
+289	a87382016	50	Carbuncle of toe	skin_infection
+290	a308225016	30	Carbuncle of upper arm and forearm NOS	skin_infection
+291	a308231018	30	Carbuncle of leg (excluding foot) NOS	skin_infection
+292	a81533012	30	Carbuncle of flank	skin_infection
+293	a107494010	20	Carbuncle of ankle	skin_infection
+294	a148039014	20	Carbuncle of temple region	skin_infection
+295	a269281000006111	10	Obstetric nonpurulent mastitis with antenatal complication	skin_infection
+296	a308226015	8	Carbuncle of hand NOS	skin_infection
+297	a308233015	4	Carbuncle of foot NOS	skin_infection

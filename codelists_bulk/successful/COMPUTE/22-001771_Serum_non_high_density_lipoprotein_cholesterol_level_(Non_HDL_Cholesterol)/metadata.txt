@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/NonHDL_Cholesterol_with_SNOMED_Update.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/main/Codelists/Biomarkers/NonHDL_Cholesterol_with_SNOMED_Update.csv
+Codelist Name: Serum non high density lipoprotein cholesterol level (Non HDL Cholesterol)
+Project Title: COMPUTE
+ERAP Number: 22-001771
+Author: Cynthia Wrght Drakesmith
+Coding System: Aurum
+Year Created: 2023
+Downloaded: 2025-06-25 13:28:30
+File Size: 554 bytes

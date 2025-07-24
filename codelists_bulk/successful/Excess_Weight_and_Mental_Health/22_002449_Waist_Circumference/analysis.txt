@@ -1,0 +1,11 @@
+=== FILE ANALYSIS ===
+Rows: 2
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tcategory']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                \tMedCodeId\tObservations\tTerm\tcategory
+0  0\t412457018\t5000000\tWaist circumference\tcontinuous
+1               1\t3041841000006113\t7\tWaist\tcontinuous

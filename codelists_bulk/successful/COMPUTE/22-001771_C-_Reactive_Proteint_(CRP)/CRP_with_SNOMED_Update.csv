@@ -1,0 +1,10 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+216602012,15332776,Serum CRP (C reactive protein) level,1001371000000100
+223761000006118,5954346,Plasma C reactive protein,999651000000107
+3498021000006117,1611,CRP - C-reactive protein,61425002
+530891000006119,189,C-reactive protein normal,166583007
+530881000006117,181,C-reactive protein abnormal,166584001
+2013981000006114,171,Point-of-care C reactive protein,2013981000006105
+3498011000006113,158,C-reactive protein,61425002
+3396911000006119,145,CRP - C-reactive protein level,55235003
+109711000006113,96,Test request : C-reactive Protein,109711000006109

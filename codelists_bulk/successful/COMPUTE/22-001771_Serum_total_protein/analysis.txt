@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 7
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                   Term  SNOMED_CT_Concept_ID
+0  145421000006116      40365075    Serum total protein      1000811000000109
+1  224751000006117       1391632   Plasma total protein      1005651000000101
+2  150061000006111         20342  Serum/plasma proteins      1026781000000102

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 28
+Columns: 5
+Column names: ['MedCodeId', 'Term', 'Observations', 'SNOMED_CT_Concept_ID', 'READcode']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId                            Term  Observations  SNOMED_CT_Concept_ID READcode
+0      12566  Chronic kidney disease stage 3           NaN                   NaN  1Z12.00
+1      12479  Chronic kidney disease stage 4           NaN                   NaN  1Z13.00
+2      12585  Chronic kidney disease stage 5           NaN                   NaN  1Z14.00

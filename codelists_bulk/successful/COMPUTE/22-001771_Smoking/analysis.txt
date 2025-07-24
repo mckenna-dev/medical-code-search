@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 164
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                                    Term  SNOMED_CT_Concept_ID
+0       2982426011           NaN  Provision of smoking cessation leaflet          6.990330e+08
+1  604961000006114           NaN                      Current Smoker NOS          6.049610e+14
+2  649851000006112           NaN               Ex- Rolled Tobacco Smoker          6.498510e+14

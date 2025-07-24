@@ -1,0 +1,11 @@
+=== FILE ANALYSIS ===
+Rows: 2
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tDepression_referral']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                          \tMedCodeId\tObservations\tTerm\tDepression_referral
+0  0\t300711000000119\t3000\tReferral for guided self-help for depression\tDepression_referral
+1        1\t2370061000000111\t20\tReferral for depression self-help video\tDepression_referral

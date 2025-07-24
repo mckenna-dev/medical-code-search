@@ -1,0 +1,50 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	snomedctdescriptionid	release	term2	term1	totalcholesterol	HDL	totaloverHDL	HDLovertotal	hypercholesterolaemia	cholesterolnormal	nonHDL	LDL	VLDL	choltoLDLratio	choltoVLDLratio	HDLtononHDLratio	check
+259229012	"Serum cholesterol raised"	"44P3"	"44P3.00"	166830008	259229012		"Serum cholesterol raised"	"serum cholesterol raised"	0	0	0	0	1	0	0	0	0	0	0	0	
+259570010	"Plasma fasting LDL cholesterol level"	"44d5"	"44d5.00"	1028861000000101	224031000006110		"Plasma fasting LDL cholesterol level"	"plasma fasting ldl cholesterol level"	0	0	0	0	0	0	0	1	0	0	0	0	
+34521000033114	"Cholesterol"	"DRGC406"	""	84698008	34521000033114		"Cholesterol"	"cholesterol"	1	0	0	0	0	0	0	0	0	0	0	0	
+356867016	"Polygenic hypercholesterolaemia"	"C3206"	"C320600"	238077000	356867016		"Polygenic hypercholesterolaemia"	"polygenic hypercholesterolaemia"	0	0	0	0	1	0	0	0	0	0	0	0	
+259232010	"Serum HDL cholesterol level"	"44P5"	"44P5.00"	1005681000000107	144131000006112		"Serum HDL cholesterol level"	"serum hdl cholesterol level"	0	1	0	0	0	0	0	0	0	0	0	0	
+1488764011	"Calculated LDL cholesterol level"	"44PI"	"44PI.00"	1014501000000104	844031000006115		"Calculated LDL cholesterol level"	"calculated ldl cholesterol level"	0	0	0	0	0	0	0	1	0	0	0	0	
+186091018	"Total cholesterol measurement"	"44PH"	"44PH.00"	121868005	186091018		"Total cholesterol measurement"	"total cholesterol measurement"	1	0	0	0	0	0	0	0	0	0	0	0	
+458260019	"Plasma cholesterol/VLDL ratio"	"44lK"	"44lK.00"	1015731000000100	223831000006119		"Plasma cholesterol/VLDL ratio"	"plasma cholesterol/vldl ratio"	0	0	0	0	0	0	0	0	0	0	1	0	
+458253013	"Serum cholesterol/LDL ratio"	"44lH"	"44lH.00"	1015701000000106	151001000006115		"Serum cholesterol/LDL ratio"	"serum cholesterol/ldl ratio"	0	0	0	0	0	0	0	0	0	1	0	0	
+259242012	"Serum fasting HDL cholesterol level"	"44PB"	"44PB.00"	1026451000000102	143781000006112		"Serum fasting HDL cholesterol level"	"serum fasting hdl cholesterol level"	0	1	0	0	0	0	0	0	0	0	0	0	
+279462018	"HDL : total cholesterol ratio"	"44PG"	"44PG.00"	1031421000000101	817611000006116		"HDL : total cholesterol ratio"	"hdl : total cholesterol ratio"	0	0	0	1	0	0	0	0	0	0	0	0	
+458249011	"Serum cholesterol/HDL ratio"	"44lF"	"44lF.00"	1015681000000109	150991000006116		"Serum cholesterol/HDL ratio"	"serum cholesterol/hdl ratio"	0	0	1	0	0	0	0	0	0	0	0	0	
+259252011	"Serum cholesterol NOS"	"44PZ"	"44PZ.00"	1005671000000105	150951000006110		"Serum cholesterol NOS"	"serum cholesterol nos"	1	0	0	0	0	0	0	0	0	0	0	0	
+259567011	"Plasma fasting HDL cholesterol level"	"44d3"	"44d3.00"	1028841000000102	224021000006112		"Plasma fasting HDL cholesterol level"	"plasma fasting hdl cholesterol level"	0	1	0	0	0	0	0	0	0	0	0	0	
+398852019	"Pure hypercholesterolaemia"	"C320"	"C320.00"	267432004	398852019		"Pure hypercholesterolaemia"	"pure hypercholesterolaemia"	0	0	0	0	1	0	0	0	0	0	0	0	
+458257014	"Serum cholesterol/VLDL ratio"	"44lJ"	"44lJ.00"	1015721000000102	151011000006117		"Serum cholesterol/VLDL ratio"	"serum cholesterol/vldl ratio"	0	0	0	0	0	0	0	0	0	0	1	0	
+259227014	"Serum cholesterol normal"	"44P1"	"44P1.00"	166828006	259227014		"Serum cholesterol normal"	"serum cholesterol normal"	0	0	0	0	0	1	0	0	0	0	0	0	
+259236013	"Serum VLDL cholesterol level"	"44P7"	"44P7.00"	1003441000000101	145781000006113		"Serum VLDL cholesterol level"	"serum vldl cholesterol level"	0	0	0	0	0	0	0	0	1	0	0	0	
+475418015	"Hypercholesterolaemia"	"C329"	"C329.00"	13644009	475418015		"Hypercholesterolaemia"	"hypercholesterolaemia"	0	0	0	0	1	0	0	0	0	0	0	0	
+259239018	"Serum cholesterol studies"	"44P9"	"44P9.00"	1026441000000100	2599591000000110		"Serum cholesterol studies"	"serum cholesterol studies"	1	0	0	0	0	0	0	0	0	0	0	0	
+458314019	"Plasma LDL cholesterol level"	"44dB"	"44dB.00"	1010591000000104	224361000006116		"Plasma LDL cholesterol level"	"plasma ldl cholesterol level"	0	0	0	0	0	0	0	1	0	0	0	0	
+2344491000000115	"Serum non high density lipoprotein cholesterol level"	"44PL0"	"44PL000"	1006191000000106	2585861000000117		"Serum non high density lipoprotein cholesterol level"	"serum non high density lipoprotein cholesterol level"	0	0	0	0	0	0	1	0	0	0	0	0	
+516351000000116	"Non HDL cholesterol level"	"44PL"	"44PL.00"	1030411000000101	2595221000000113		"Non HDL cholesterol level"	"non hdl cholesterol level"	0	0	0	0	0	0	1	0	0	0	0	0	
+259247018	"Serum random LDL cholesterol level"	"44PE"	"44PE.00"	1026481000000108	145041000006117		"Serum random LDL cholesterol level"	"serum random ldl cholesterol level"	0	0	0	0	0	0	0	1	0	0	0	0	
+458313013	"Plasma HDL cholesterol level"	"44dA"	"44dA.00"	1010581000000101	224251000006112		"Plasma HDL cholesterol level"	"plasma hdl cholesterol level"	0	1	0	0	0	0	0	0	0	0	0	0	
+259230019	"Serum cholesterol very high"	"44P4"	"44P4.00"	166831007	259230019		"Serum cholesterol very high"	"serum cholesterol very high"	0	0	0	0	1	0	0	0	0	0	0	0	
+259233017	"Serum LDL cholesterol level"	"44P6"	"44P6.00"	1022191000000100	144401000006110		"Serum LDL cholesterol level"	"serum ldl cholesterol level"	0	0	0	0	0	0	0	1	0	0	0	0	
+1488851015	"Pre-treatment serum cholesterol level"	"662a"	"662a.00"	395153009	1488851015		"Pre-treatment serum cholesterol level"	"pre-treatment serum cholesterol level"	1	0	0	0	0	0	0	0	0	0	0	0	
+405621000000116	"Serum fasting total cholesterol"	"44PK"	"44PK.00"	247801000000106	405621000000116		"Serum fasting total cholesterol"	"serum fasting total cholesterol"	1	0	0	0	0	0	0	0	0	0	0	0	
+1484985012	"Plasma total cholesterol level"	"44OE"	"44OE.00"	1017161000000104	2552911000000113		"Plasma total cholesterol level"	"plasma total cholesterol level"	1	0	0	0	0	0	0	0	0	0	0	0	
+857141000006116	"LDL cholesterol level"	"EGTONLD1"	""	857141000006100	857141000006116		"LDL cholesterol level"	"ldl cholesterol level"	0	0	0	0	0	0	0	1	0	0	0	0	
+259250015	"Total cholesterol:HDL ratio"	"44PF"	"44PF.00"	1028551000000102	97071000006119		"Total cholesterol:HDL ratio"	"total cholesterol:hdl ratio"	0	0	1	0	0	0	0	0	0	0	0	0	
+293270011	"Pure hypercholesterolaemia NOS"	"C320z"	"C320z00"	267432004	194731000006117		"Pure hypercholesterolaemia NOS"	"pure hypercholesterolaemia nos"	0	0	0	0	1	0	0	0	0	0	0	0	
+458252015	"Plasma cholesterol/HDL ratio"	"44lG"	"44lG.00"	1015691000000106	223811000006113		"Plasma cholesterol/HDL ratio"	"plasma cholesterol/hdl ratio"	0	0	1	0	0	0	0	0	0	0	0	0	
+457911015	"Cholesterol/HDL ratio"	"44l2"	"44l2.00"	313811003	457911015		"Cholesterol/HDL ratio"	"cholesterol/hdl ratio"	0	0	1	0	0	0	0	0	0	0	0	0	
+293267012	"Other specified pure hypercholesterolaemia"	"C320y"	"C320y00"	13644009	3781000006110		"Other specified pure hypercholesterolaemia"	"other specified pure hypercholesterolaemia"	0	0	0	0	1	0	0	0	0	0	0	0	
+987321000006112	"Pre-treatment fasting HDL cholesterol"	"EMISNQPR9"	""	987321000006108	987321000006112		"Pre-treatment fasting HDL cholesterol"	"pre-treatment fasting hdl cholesterol"	0	1	0	0	0	0	0	0	0	0	0	0	
+2533224018	"7-Dehydrocholesterol level"	"4QA0"	"4QA0.00"	1020721000000100	2558391000000118		"7-Dehydrocholesterol level"	"7-dehydrocholesterol level"	1	0	0	0	0	0	0	0	0	0	0	0	
+259569014	"Plasma random LDL cholesterol level"	"44d4"	"44d4.00"	1028851000000104	224631000006115		"Plasma random LDL cholesterol level"	"plasma random ldl cholesterol level"	0	0	0	0	0	0	0	1	0	0	0	0	
+458256017	"Plasma cholesterol/LDL ratio"	"44lI"	"44lI.00"	1015711000000108	223821000006117		"Plasma cholesterol/LDL ratio"	"plasma cholesterol/ldl ratio"	0	0	0	0	0	0	0	0	0	1	0	0	
+259243019	"Serum random HDL cholesterol level"	"44PC"	"44PC.00"	1026461000000104	145031000006110		"Serum random HDL cholesterol level"	"serum random hdl cholesterol level"	0	1	0	0	0	0	0	0	0	0	0	0	
+259564016	"Plasma random HDL cholesterol level"	"44d2"	"44d2.00"	1028831000000106	224621000006118		"Plasma random HDL cholesterol level"	"plasma random hdl cholesterol level"	0	1	0	0	0	0	0	0	0	0	0	0	
+1924001000006115	"Estimated serum non-HDL cholesterol level"	"44PL1"	"44PL100"	920471000000100	1924001000006115		"Estimated serum non-HDL cholesterol level"	"estimated serum non-hdl cholesterol level"	0	0	0	0	0	0	1	0	0	0	0	0	
+2478443019	"Serum total cholesterol level"	"44PJ"	"44PJ.00"	994351000000103	2581451000000115		"Serum total cholesterol level"	"serum total cholesterol level"	1	0	0	0	0	0	0	0	0	0	0	0	
+855771000006118	"HDL cholesterol level"	"EGTONHD1"	""	855771000006102	855771000006118		"HDL cholesterol level"	"hdl cholesterol level"	0	1	0	0	0	0	0	0	0	0	0	0	
+259246010	"Serum fasting LDL cholesterol level"	"44PD"	"44PD.00"	1026471000000106	143791000006110		"Serum fasting LDL cholesterol level"	"serum fasting ldl cholesterol level"	0	0	0	0	0	0	0	1	0	0	0	0	
+667191000006111	"Fasting serum cholesterol"	"EGTON456"	""	667191000006107	667191000006111		"Fasting serum cholesterol"	"fasting serum cholesterol"	1	0	0	0	0	0	0	0	0	0	0	0	
+150921000006118	"Serum cholesterol"	"44P"	"44P..00"	1005671000000105	150921000006118		"Serum cholesterol"	"serum cholesterol"	1	0	0	0	0	0	0	0	0	0	0	0	
+144141000006119	"Serum HDL:non-HDL cholesterol ratio"	"44P8"	"44P8.00"	1015271000000109	144141000006119		"Serum HDL:non-HDL cholesterol ratio"	"serum hdl:non-hdl cholesterol ratio"	0	0	0	0	0	0	0	0	0	0	0	1	

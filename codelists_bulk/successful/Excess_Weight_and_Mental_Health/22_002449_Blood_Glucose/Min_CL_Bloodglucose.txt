@@ -1,0 +1,55 @@
+	MedCodeId	Observations	Term	blood_glucose
+0	a134471000000110	30000000	Plasma glucose level	blood_glucose
+1	a129841000000118	6000000	Serum glucose level	blood_glucose
+2	a128091000000112	6000000	Blood glucose level	blood_glucose
+3	a517791000006115	5000000	Blood glucose result	blood_glucose
+4	a191761000006112	3000000	Random blood sugar	blood_glucose
+5	a147491000006111	2000000	Self-monitoring of blood glucose	blood_glucose
+6	a109701000006110	1000000	Test request : Blood Glucose	blood_glucose
+7	a259327011	800000	Glucometer blood sugar	blood_glucose
+8	a259597015	600000	Plasma random glucose level	blood_glucose
+9	a259584017	500000	Serum random glucose level	blood_glucose
+10	a502060018	400000	Plasma glucose	blood_glucose
+11	a518541000006118	100000	Blood sugar result	blood_glucose
+12	a1822531000006116	100000	Test request : Random blood sugar	blood_glucose
+13	a224191000006110	100000	Plasma glucose level	blood_glucose
+14	a259348013	100000	Blood glucose 2.5-4.9 mmol/L	blood_glucose
+15	a259349017	100000	Blood glucose 5-6.9 mmol/L	blood_glucose
+16	a259358012	100000	High glucose level in blood	blood_glucose
+17	a259320013	90000	Laboratory blood sugar	blood_glucose
+18	a259350017	80000	Blood glucose 7-9.9 mmol/L	blood_glucose
+19	a259353015	60000	Blood glucose normal	blood_glucose
+20	a259351018	60000	Blood glucose 10-13.9 mmol/L	blood_glucose
+21	a259312011	40000	Random blood sugar raised	blood_glucose
+22	a259357019	40000	Blood glucose 14+ mmol/L	blood_glucose
+23	a2365491000000112	40000	Blood glucose self-monitoring record checked	blood_glucose
+24	a259356011	30000	Blood glucose abnormal	blood_glucose
+25	a2476507015	30000	[D]Elevated blood glucose level	blood_glucose
+26	a259310015	30000	Random blood sugar normal	blood_glucose
+27	a977341000006114	30000	Glucose level	blood_glucose
+28	a412230017	30000	"[D]Glucose, blood level abnormal"	blood_glucose
+29	a5519841000006111	10000	Random blood glucose measurement	blood_glucose
+30	a1897851000006115	8000	Test request : Serum random glucose level	blood_glucose
+31	a259311016	3000	Random blood sugar low	blood_glucose
+32	a259346012	3000	Blood glucose 0-1.4 mmol/L	blood_glucose
+33	a4109691000006119	2000	"Glucose measurement, blood, test strip"	blood_glucose
+34	a69221000033118	2000	Glucose	blood_glucose
+35	a259347015	1000	Blood glucose 1.5-2.4 mmol/L	blood_glucose
+36	a6279601000006113	1000	Blood glucose level - finding	blood_glucose
+37	a3590531000006117	1000	Glucose	blood_glucose
+38	a2729491000000116	700	Random blood glucose level	blood_glucose
+39	a6279621000006115	200	Blood glucose result	blood_glucose
+40	a3043021000006112	100	Blood sugar level	blood_glucose
+41	a6279611000006111	90	Blood glucose level	blood_glucose
+42	a4600701000006112	90	Laboratory blood glucose	blood_glucose
+43	a5519871000006115	30	Random blood glucose	blood_glucose
+44	a6279581000006115	20	Glucose level	blood_glucose
+45	a6279571000006118	10	Glucose level - finding	blood_glucose
+46	a5519851000006113	10	Random blood glucose level	blood_glucose
+47	a3674511000006117	10	Plasma glucose	blood_glucose
+48	a3043041000006117	3	Blood glucose level	blood_glucose
+49	a4602041000006112	2	Serum random glucose level	blood_glucose
+50	a3043011000006116	5	"Glucose measurement, blood"	blood_glucose
+51	a8335441000006111	2	Baseline blood glucose concentration	blood_glucose
+52	a6279631000006117	1	Blood glucose result - finding	blood_glucose
+53	a5519861000006110	30	RBG - Random blood glucose	blood_glucose

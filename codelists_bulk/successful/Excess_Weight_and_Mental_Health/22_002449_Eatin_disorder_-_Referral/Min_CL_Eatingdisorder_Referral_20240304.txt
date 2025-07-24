@@ -1,0 +1,4 @@
+	MedCodeId	Observations	Term	Eatingdisorder_Referral
+0	1780181019	50000	Referral to eating disorders clinic	Eatingdisorder_Referral
+1	1764491000006116	500	Referral to eating disorders outreach clinic	Eatingdisorder_Referral
+2	1776641000006112	200	Reason for referral: Eating Disorder	Eatingdisorder_Referral

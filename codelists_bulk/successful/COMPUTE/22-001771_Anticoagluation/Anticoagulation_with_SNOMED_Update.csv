@@ -1,0 +1,25 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+1585951000006117,900000,Anticoagulation monitoring in primary care,279231000000108
+226541000000110,900000,Anticoagulation monitoring enhanced service completed,166441000000104
+979231000006118,300000,Anticoagulation monitoring enhanced services administration,166271000000109
+727961000000113,200000,Seen in hospital anticoagulation clinic,440678006
+302241000000113,200000,Anticoagulation monitoring in secondary care,199761000000102
+668111000000114,90000,Seen in community anticoagulation clinic,439021005
+668351000000110,90000,Seen in general practitioner anticoagulation clinic,355561000000106
+755271000000116,70000,Referral to community anticoagulation clinic,383151000000106
+1150561000000113,70000,Home visit for anticoagulation monitoring,704126008
+1791201000000119,60000,No bleeding symptom on anticoagulation therapy,801101000000107
+1141391000000115,50000,Discussion about anticoagulation therapy,704034004
+406681000000110,40000,Patient held anticoagulation therapy record issued,248321000000107
+1704441000006112,40000,Shared care anticoagulation monitoring - enhanced services administration,374541000000106
+1784881000006115,9000,Pt held anticoagulation therapy record issu general practice,248321000000107
+1626301000006112,8000,Patient held anticoagulation alert card issued,1626301000006108
+1057281000000113,6000,Shared care anticoagulation monitoring,374541000000106
+8113591000006118,4000,Patient held anticoagulation therapy record updated,353831000000100
+1697721000006113,700,Patient advised to contact anticoagulation clinic,1697721000006109
+2247621000000115,600,On anticoagulation care pathway,869591000000107
+1784871000006118,300,Pt held anticoagulation therapy record issued by hospital,248321000000107
+1773181000006116,300,Anticoagulation monitoring service - level 4,1773181000006100
+2198591000000112,200,Admit anticoagulation emergency,848101000000108
+7567061000006110,80,Anticoagulation clinic,702822009
+1949441000006111,50,Anticoagulation therapy patient agreement signed,1949441000006107

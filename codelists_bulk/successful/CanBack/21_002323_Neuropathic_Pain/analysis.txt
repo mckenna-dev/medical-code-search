@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 128
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order   Flag_classifyL1   Flag_classifyL2    MedCodeID                                              Term
+0   6230  Neuropathic_pain  Neuropathic_pain   a108062014                  Hereditary peripheral neuropathy
+1   6231  Neuropathic_pain  Neuropathic_pain  a1219655013  Hereditary motor and sensory neuropathy type III
+2   6232  Neuropathic_pain  Neuropathic_pain  a1224865018   Hereditary motor and sensory neuropathy type IV

@@ -1,0 +1,11 @@
+=== FILE ANALYSIS ===
+Rows: 2
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tSnomedCTConceptId']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                     MedCodeId\tObservations\tTerm\tSnomedCTConceptId
+0                        a58805016\t300000\tIron deficiency\t35240004
+1  a5063191000006111\t200\tIron deficiency without anaemia\t234340006

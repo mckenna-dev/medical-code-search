@@ -1,0 +1,157 @@
+MedCodeId	Observations	Term	cirrhosis
+a476611000006116	100000	Alcoholic cirrhosis of liver	cirrhosis
+a353613017	80000	Cirrhosis of liver	cirrhosis
+a317612010	70000	Ascites	cirrhosis
+a303393017	50000	Cirrhosis and chronic liver disease	cirrhosis
+a48003016	40000	Oesophageal varices	cirrhosis
+a57989014	30000	Portal hypertension	cirrhosis
+a275541010	20000	Drainage of ascites	cirrhosis
+a4044018	20000	Biliary cirrhosis	cirrhosis
+a1216060010	10000	Oesophageal varices with bleeding	cirrhosis
+a254454013	10000	O/E - ascites	cirrhosis
+a6947461000006115	10000	Alcoholic cirrhosis	cirrhosis
+a221131000000118	10000	Hepatic encephalopathy	cirrhosis
+a221111000000114	9000	Cirrhosis - non-alcoholic	cirrhosis
+a250311000006112	8000	Percutaneous drainage of ascites	cirrhosis
+a456800015	6000	Oesophageal varices NOS	cirrhosis
+a268885015	5000	Fibreoptic endoscopic banding of oesophageal varices	cirrhosis
+a150964016	5000	Gastric varices	cirrhosis
+a24192017	3000	Oesophageal varices without bleeding	cirrhosis
+a396393014	3000	Non-alcoholic cirrhosis NOS	cirrhosis
+a603321000006118	3000	Cryptogenic cirrhosis	cirrhosis
+a317614011	3000	[D]Ascites NOS	cirrhosis
+a453265010	2000	Oesophageal varices in alcoholic cirrhosis of the liver	cirrhosis
+a906081000006114	2000	[RFC] Cirrhosis	cirrhosis
+a303781011	2000	[X]Other and unspecified cirrhosis of liver	cirrhosis
+a85441018	2000	Hepatorenal syndrome	cirrhosis
+a1483086017	1000	Ascites	cirrhosis
+a451442010	1000	Oesophageal varices in cirrhosis of the liver	cirrhosis
+a254458011	1000	O/E -ascites-shifting dullness	cirrhosis
+a960311000006118	1000	Ascites	cirrhosis
+a254459015	700	O/E - ascites NOS	cirrhosis
+a268819017	600	Open injection sclerotherapy to oesophageal varices	cirrhosis
+a268957016	500	Rigid oesophagoscopic banding of oesophageal varices	cirrhosis
+a737961000006116	500	Ligation of oesophageal varices	cirrhosis
+a2781011000006119	500	Bleeding oesophageal varices	cirrhosis
+a708811000006119	500	Fibreoptic endoscopic injection sclerotherapy to oesophageal varices	cirrhosis
+a731231000006114	500	Macronodular cirrhosis of liver	cirrhosis
+a1544611000006117	400	Fibreoptic endoscopic rubber band ligation of upper gastrointestinal tract varices	cirrhosis
+a21289010	300	Secondary biliary cirrhosis	cirrhosis
+a4656781000006112	300	Fibreoptic oesophagoscopy and banding of oesophageal varices	cirrhosis
+a303453016	300	Biliary cirrhosis NOS	cirrhosis
+a300993011	300	[X]Oesophageal varices in diseases classified elsewhere	cirrhosis
+a303518014	200	Toxic liver disease with fibrosis and cirrhosis of liver	cirrhosis
+a268812014	200	Open operations on oesophageal varices	cirrhosis
+a303419015	200	Diffuse nodular cirrhosis	cirrhosis
+a493707012	200	Hypertrophic portal cirrhosis	cirrhosis
+a5914631000006112	200	Portal hypertensive gastropathy	cirrhosis
+a7975941000006118	100	Child-Pugh score	cirrhosis
+a325081012	100	Hepatorenal syndrome as a complication of care	cirrhosis
+a268827014	100	Open operation on oesophageal varices NOS	cirrhosis
+a7743871000006114	100	Decompensated cirrhosis of liver	cirrhosis
+a396391011	100	Cardiac portal cirrhosis	cirrhosis
+a2576980018	100	Portal cirrhosis	cirrhosis
+a803961000006119	100	Glycogenosis with hepatic cirrhosis	cirrhosis
+a862771000006116	100	Oesophageal varices injected	cirrhosis
+a254457018	100	O/E-ascites-fluid thrill shown	cirrhosis
+a303441015	100	Infectious cirrhosis	cirrhosis
+a821171000006117	90	Hepatorenal glycogenosis	cirrhosis
+a4403381000006113	90	Varices	cirrhosis
+a873301000006114	90	Peritoneum - ascites tap	cirrhosis
+a300775019	80	Oesophageal varices in diseases EC	cirrhosis
+a4657171000006111	70	Rigid oesophagoscopy and banding of oesophageal varices	cirrhosis
+a163571000006112	60	Endoscopic injection sclerotherapy to varices of oesophagus using rigid oesophagoscope	cirrhosis
+a303420014	50	Fatty portal cirrhosis	cirrhosis
+a303442010	50	Portal cirrhosis unspecified	cirrhosis
+a6947471000006110	40	Alcoholic liver cirrhosis	cirrhosis
+a1786709019	40	Pigmentary cirrhosis of liver	cirrhosis
+a300776018	40	Oesophageal varices with bleeding in diseases EC	cirrhosis
+a300784019	40	Oesophageal varices in diseases EC NOS	cirrhosis
+a3206871000006111	30	Macronodular cirrhosis	cirrhosis
+a126721013	30	Florid cirrhosis	cirrhosis
+a7743881000006112	30	Decompensated cirrhosis	cirrhosis
+a254456010	30	O/E - ascites - dipping shown	cirrhosis
+a303438012	30	Cardituberculous cirrhosis	cirrhosis
+a1736361000000112	20	Cystic fibrosis related cirrhosis	cirrhosis
+a303425016	20	Capsular portal cirrhosis	cirrhosis
+a990631000006117	20	Oesophageal varices	cirrhosis
+a5359951000006114	20	Cirrhotic	cirrhosis
+a5088481000006112	20	Hepatic ascites	cirrhosis
+a300779013	20	Oesophageal varices without bleeding in diseases EC	cirrhosis
+a6349661000006117	20	Early cirrhosis	cirrhosis
+a123999018	20	Congestive cirrhosis	cirrhosis
+a7630871000006114	10	End stage liver disease	cirrhosis
+a394102015	10	Other specified open operation on oesophageal varices	cirrhosis
+a396392016	10	Juvenile portal cirrhosis	cirrhosis
+a477604016	10	Mixed portal cirrhosis	cirrhosis
+a988611000006112	10	Peritoneum - ascites tap	cirrhosis
+a550431000006116	9	Childhood function cirrhosis	cirrhosis
+a11267010	9	Indian childhood cirrhosis	cirrhosis
+a3427151000006119	9	Bleeding varices	cirrhosis
+a211821000006111	8	Postnecrotic cirrhosis of liver	cirrhosis
+a3951661000006115	7	Ascites tap	cirrhosis
+a3713561000006119	6	Cardiac cirrhosis	cirrhosis
+a8032261000006117	6	Cirrhosis of liver due to hepatitis B	cirrhosis
+a4353641000006110	6	Toxic cirrhosis	cirrhosis
+a7474871000006119	6	Tense ascites	cirrhosis
+a987751000006119	5	Oesophageal varices injected	cirrhosis
+a2704151000006118	5	Varices	cirrhosis
+a2579818016	5	Laennec's cirrhosis	cirrhosis
+a5076881000006115	5	Sclerotherapy of oesophageal varices	cirrhosis
+a14146411000006112	5	Oesophageal varices due to cirrhosis of liver	cirrhosis
+a303433015	4	Pigmentary portal cirrhosis	cirrhosis
+a303452014	4	Biliary cirrhosis of children	cirrhosis
+a4656741000006118	4	Fibreoptic oesophagoscopy and injection sclerotherapy of varices	cirrhosis
+a5076631000006115	4	Operation on oesophageal varices	cirrhosis
+a3634160014	4	Ultrasound of abdomen for ascites	cirrhosis
+a3515305014	4	Cirrhosis of liver with primary sclerosing cholangitis	cirrhosis
+a5086841000006119	4	Chronic hepatic failure	cirrhosis
+a7663341000006110	4	Child-Pugh score class A	cirrhosis
+a3331291000006117	4	Hepatorenal failure	cirrhosis
+a3713571000006114	4	Congestive cirrhosis	cirrhosis
+a7329261000006119	3	Banding of gastric varices	cirrhosis
+a303435010	3	Toxic portal cirrhosis	cirrhosis
+a303414013	3	Unilobular portal cirrhosis	cirrhosis
+a2960631000006115	3	OV - Oesophageal varices	cirrhosis
+a2816681000006110	3	CL - Cirrhosis of liver	cirrhosis
+a396390012	3	Multilobular portal cirrhosis	cirrhosis
+a8458711000006115	3	Ascites due to alcoholic cirrhosis	cirrhosis
+a353621011	3	"Laennec's cirrhosis, non-alcoholic"	cirrhosis
+a114801000006118	3	Tanner devascularisation for bleeding varices	cirrhosis
+a14146421000006116	2	Oesophageal varices due to cirrhosis of liver caused by alcohol	cirrhosis
+a7663361000006114	2	Child-Pugh score class C	cirrhosis
+a3059491000006115	2	PHT - Portal hypertension	cirrhosis
+a4779751000006116	2	"Oesophageal varices without bleeding, associated with another disorder"	cirrhosis
+a4656791000006110	2	Fiberoptic endoscopic banding of esophageal varices	cirrhosis
+a5966791000006112	2	Infected ascites	cirrhosis
+a2960621000006118	2	Esophageal varices	cirrhosis
+a303437019	2	Bacterial portal cirrhosis	cirrhosis
+a2781021000006110	2	Bleeding esophageal varices	cirrhosis
+a7763571000006119	2	Gastric varices without bleeding	cirrhosis
+a6941941000006119	2	PC - Portal cirrhosis	cirrhosis
+a7065101000006116	2	Fiberoptic endoscopic rubber band ligation of upper gastrointestinal tract varices	cirrhosis
+a3633691013	2	Ultrasound scan of abdomen for ascites	cirrhosis
+a55851000006118	2	Xanthomatous portal cirrhosis	cirrhosis
+a5524681000006114	2	Cirrhosis secondary to cholestasis	cirrhosis
+a4779691000006115	2	Oesophageal varices associated with another disorder	cirrhosis
+a4779721000006113	2	"Oesophageal varices with bleeding, associated with another disorder"	cirrhosis
+a3691701000006116	1	Endoscopic injection of oesophageal varices	cirrhosis
+a5077531000006117	1	Sclerotherapy of gastric varices	cirrhosis
+a5493051000006111	1	Cirrhosis of liver not due to alcohol	cirrhosis
+a7813031000006112	1	Downhill varices of oesophagus	cirrhosis
+a7043971000006117	1	Drug-induced cirrhosis of liver	cirrhosis
+a2816671000006112	1	Hepatic cirrhosis	cirrhosis
+a2847631000006117	1	Micronodular cirrhosis	cirrhosis
+a303440019	1	Zooparasitic portal cirrhosis	cirrhosis
+a303439016	1	Syphilitic portal cirrhosis	cirrhosis
+a226161000006113	1	Pipe-stem portal cirrhosis	cirrhosis
+a7329361000006112	1	Endoscopy of upper gastrointestinal tract and banding of gastric varices	cirrhosis
+a7329201000006115	1	Endoscopy of upper gastrointestinal tract and banding of oesophageal varices	cirrhosis
+a7474881000006116	1	Refractory ascites	cirrhosis
+a7966981000006110	1	Cirrhosis of liver due to chronic hepatitis C	cirrhosis
+a7663351000006112	1	Child-Pugh score class B	cirrhosis
+a2896171000006116	1	Bleeding gastric varices	cirrhosis
+a4657181000006114	1	Rigid esophagoscopic banding of esophageal varices	cirrhosis
+a4657131000006113	1	Rigid oesophagoscopy and injection sclerotherapy of varices	cirrhosis
+a4355091000006112	1	Latent cirrhosis	cirrhosis
+a3951631000006112	1	Aspiration of ascites	cirrhosis

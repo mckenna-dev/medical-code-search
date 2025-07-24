@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 6
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+    MedCodeId  Observations                                                Term  SNOMED_CT_Concept_ID
+0  1787479013        300406                       Ankle brachial pressure index             446841001
+1  1780416013         50328   Left dorsalis pedis ankle brachial pressure index      1083561000000100
+2  1780417016         50138  Right dorsalis pedis ankle brachial pressure index      1083581000000109

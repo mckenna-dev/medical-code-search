@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 273
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1            Flag_classifyL2           MedCodeID                                                Term
+0   4216        Diabetes  Diabetes_Mellitus_unclear           a10928019  Diabetes mellitus associated with genetic syndrome
+1   4217        Diabetes  Diabetes_Mellitus_unclear   a1177721000000112                  Diabetic on subcutaneous treatment
+2   4218        Diabetes  Diabetes_Mellitus_unclear  a12078901000006118      Cataract of right eye due to diabetes mellitus

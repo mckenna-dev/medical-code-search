@@ -1,0 +1,70 @@
+	MedCodeId	Observations	Term	physical_category
+0	a250390013	1000000	Avoids even trivial exercise	 limited_exercise
+1	a250389016	900000	Exercise physically impossible	 limited_exercise
+2	a250397011	600000	Aerobic exercise 0 times/week	 limited_exercise
+3	a250414019	50000	FITT activity level 0; no mod/vig activity of 20 mins duratn	 limited_exercise
+4	a250405012	10000	Anaerobic exercise 0 times/wk	 limited_exercise
+5	a4533741000006119	8000	Aerobic exercise zero times a week	 limited_exercise
+6	a4533821000006119	40	Anaerobic exercise zero times a week	 limited_exercise
+7	a4533931000006114	1	FITT activity level 0	 limited_exercise
+8	a1746241000006110	1000000	GPPAQ hours in last week spent in physical exercise - none	 limited_exercise
+9	a1819151000006118	4	At least 30 mins of moderate intensity physical activity - 0 days/week	 limited_exercise
+10	a250393010	700000	Enjoys heavy exercise	heavy_ exercise
+11	a250419012	40000	FITT activity level 3; 12+ occas of mod activity in 4 weeks	heavy_ exercise
+12	a250420018	20000	FITT activity level 4; 12+ occas of mod/vig activit in 4 wks	heavy_ exercise
+13	a2533617013	10000	Aerobic exercise five times a week	heavy_ exercise
+14	a250421019	10000	FITT activity level 5; 12+ occas of vig activity in 4 weeks	heavy_ exercise
+15	a5498831000006117	4	FITT activity level 5	heavy_ exercise
+16	a5498801000006113	2	FITT activity level 4	heavy_ exercise
+17	a4534141000006115	1	FITT activity level 5; 12 or more occasions of vigorous activity in 4 weeks	heavy_ exercise
+18	a1746271000006119	800000	GPPAQ hrs in last wk spent in physical exercise - 3hrs or more	heavy_ exercise
+19	a1677041000006113	30000	Less than 30 minutes a day of at least moderate intensity physical activity on five or more days of the week	heavy_ exercise
+20	a1677021000006118	30000	30 minutes a day of at least moderate intensity physical activity on five or more days of the week	heavy_ exercise
+21	a1819201000006110	70	At least 30 mins of moderate intensity physical activity - 5 or more days/week	heavy_ exercise
+22	a1819191000006112	30	At least 30 mins of moderate intensity physical activity - 4 days/week	heavy_ exercise
+23	a250394016	20000	Competitive athlete	heavy_ exercise
+24	a1746221000006115	80000	GPPAQ work involves vigorous physical activity	heavy_ exercise
+25	a250402010	1000000	Aerobic exercise 3+ times/week	heavy_ exercise
+26	a250410011	30000	Anaerobic exercise 3+ times/wk	heavy_ exercise
+27	a2533641011	20000	Aerobic exercise three times a week	heavy_ exercise
+28	a4533801000006112	10000	Aerobic exercise three or more times per week	heavy_ exercise
+29	a4533881000006115	200	Anaerobic exercise three or more times per week	heavy_ exercise
+30	a1819181000006114	40	At least 30 mins of moderate intensity physical activity - 3 days/week	heavy_ exercise
+31	a250391012	10000000	Enjoys light exercise	light_exercise
+32	a690991000000116	2000000	General practice physical activity questionnaire physical activity index: inactive	light_exercise
+33	a250398018	600000	Aerobic exercise 1 time/week	light_exercise
+34	a250422014	600000	Takes inadequate exercise	light_exercise
+35	a250416017	70000	FITT activity level 1; 1-4 occas of mod/vig activit in 4 wks	light_exercise
+36	a250406013	9000	Anaerobic exercise 1 time/week	light_exercise
+37	a8117441000006118	6	GPPAQ (general practice physical activity questionnaire) physical activity index: inactive	light_exercise
+38	a4533761000006115	4000	Aerobic exercise once a week	light_exercise
+39	a4533841000006114	20	Anaerobic exercise once a week	light_exercise
+40	a5498771000006111	7	FITT activity level 1	light_exercise
+41	a4533971000006112	2	FITT activity level 1; 1-4 occasions of a mix of moderate and vigorous activity in 4 weeks	light_exercise
+42	a1746251000006112	400000	GPPAQ hrs last wk spent physical exercise-some but less than 1hr	light_exercise
+43	a1819161000006116	10	At least 30 mins of moderate intensity physical activity - 1 day/week	light_exercise
+44	a4533781000006113	6000	Aerobic exercise twice a week	moderate_ exercise
+45	a4533861000006113	50	Anaerobic exercise twice a week	moderate_ exercise
+46	a4534001000006116	500	FITT activity level 2; 5-11 occas of mod/vig activity in 4 wks	moderate_ exercise
+47	a250392017	6000000	Enjoys moderate exercise	moderate_ exercise
+48	a1677001000006111	2000000	General practice physical activity questionnaire physical activity index: moderately active	moderate_ exercise
+49	a691221000000116	2000000	General practice physical activity questionnaire physical activity index: active	moderate_ exercise
+50	a691251000000114	1000000	General practice physical activity questionnaire physical activity index: moderately inactive	moderate_ exercise
+51	a250401015	700000	Aerobic exercise 2 times/week	moderate_ exercise
+52	a250417014	50000	FITT activity level 2; 5-11 occas of mod/vig activt in 4 wks	moderate_ exercise
+53	a250413013	30000	Enjoys intermediate exercise	moderate_ exercise
+54	a250409018	10000	Anaerobic exercise 2 times/wk	moderate_ exercise
+55	a250412015	10000	Attends exercise classes	moderate_ exercise
+56	a2533625010	7000	Aerobic exercise four times a week	moderate_ exercise
+57	a8117481000006112	9	GPPAQ (general practice physical activity questionnaire) physical activity index: moderately inactive	moderate_ exercise
+58	a8117541000006117	4	GPPAQ (general practice physical activity questionnaire) physical activity index: active	moderate_ exercise
+59	a8117521000006112	3	GPPAQ (general practice physical activity questionnaire) physical activity index: moderately active	moderate_ exercise
+60	a4534021000006114	1	FITT activity level 2	moderate_ exercise
+61	a1746261000006114	600000	GPPAQ hrs last wk spent physical exercise-1hr but less than 3hrs	moderate_ exercise
+62	a1819171000006111	20	At least 30 mins of moderate intensity physical activity - 2 days/week	moderate_ exercise
+63	a1746201000006113	300000	GPPAQ work involves definite physical effort	unclear
+64	a1746231000006117	2000	GPPAQ hours in last week spent in physical exercise	unclear
+65	a1976861000006119	200000	Number of minutes of mod intensity physical activity per week	unclear
+66	a1976841000006118	200000	Number of days per week of mod intensity physical activity	unclear
+67	a1939011000006115	10000	Less than 150 minutes of moderate intensity physical activity per week	unclear
+68	a1939001000006118	10000	At least 150 minutes of moderate intensity physical activity per week	unclear

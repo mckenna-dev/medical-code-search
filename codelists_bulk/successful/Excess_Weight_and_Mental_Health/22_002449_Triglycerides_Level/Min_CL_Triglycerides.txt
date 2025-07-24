@@ -1,0 +1,26 @@
+	MedCodeId	Observations	Term	triglycerides
+0	a145471000006115	50000000	Serum triglycerides level	triglycerides
+1	a259579011	2000000	Plasma triglyceride level	triglycerides
+2	a854481000006110	400000	Fasting triglycerides	triglycerides
+3	a259260012	300000	Serum fasting triglyceride level	triglycerides
+4	a259256014	100000	Serum triglycerides normal	triglycerides
+5	a259258010	100000	Serum triglycerides raised	triglycerides
+6	a977481000006112	100000	Triglyceride level	triglycerides
+7	a259263014	90000	Serum triglyceride levels - finding	triglycerides
+8	a259261011	60000	Serum random triglyceride level	triglycerides
+9	a1864161000006119	40000	Test request : Serum triglycerides	triglycerides
+10	a259257017	10000	Serum triglycerides borderline	triglycerides
+11	a259583011	10000	Plasma fasting triglyceride level	triglycerides
+12	a259580014	4000	Plasma random triglyceride level	triglycerides
+13	a411914018	1000	FH: Triglyceride high	triglycerides
+14	a7261041000006112	90	Serum triglycerides borderline high	triglycerides
+15	a12716501000006115	70	Serum triglycerides borderline	triglycerides
+16	a2733541000006119	60	Triglycerides measurement	triglycerides
+17	a3891531000006113	50	Triglyceride	triglycerides
+18	a6279071000006110	40	Triglyceride level	triglycerides
+19	a2478457017	30	Fluid sample triglyceride level	triglycerides
+20	a5912411000006113	7	Hypertriglyceridemia	triglycerides
+21	a5522421000006118	3	Serum triglyceride levels	triglycerides
+22	a3891541000006115	2	TG - Triglyceride	triglycerides
+23	a3891501000006117	2	Triglycerides	triglycerides
+24	a4600481000006111	1	Serum fasting triglyceride level	triglycerides

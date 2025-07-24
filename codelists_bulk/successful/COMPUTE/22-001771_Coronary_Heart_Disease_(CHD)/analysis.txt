@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 294
+Columns: 6
+Column names: ['Description', 'SNOMED_CT_Concept_ID', 'Codelist_Name', 'Med_Code_Id', 'Observations', 'Term']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                                           Description SNOMED_CT_Concept_ID                       Codelist_Name        Med_Code_Id  Observations
+0                     Microinfarct of heart (disorder)            b42531007  Coronary heart disease (CHD) codes        a1229885017            40
+1        Ischemic congestive cardiomyopathy (disorder)           b426856002  Coronary heart disease (CHD) codes  a7065281000006117             8
+2  Mixed myocardial ischemia and infarction (disorder)           b428196007  Coronary heart disease (CHD) codes  a7084801000006112             4

@@ -1,0 +1,18 @@
+MedCodeId,Observations,Term,SnomedCTConceptId
+a454407012,200000,Exercise on prescription,310882002
+a2549517012,100000,Referred for exercise programme,416974006
+a1476247014,70000,Referral to physical activity programme,390893007
+a1484897012,70000,Referral for exercise therapy,390864007
+a343410018,70000,Home exercise programme,229075007
+a1174481000000114,50000,Referral to exercise on referral programme,526151000000109
+a1773561018,7000,Group exercise programme,401167006
+a1709601000000118,7000,Referral for physical activity service offered,767621000000102
+a308041000000118,600,Referral to heart failure exercise programme,704095000
+a1159051000000110,400,Referral for graded exercise therapy,519081000000103
+a4989031000006114,9,Home exercise program,229075007
+a8221791000006117,3,Exercise referral scheme,720661000000101
+a6900171000006111,3,Referred for exercise program,416974006
+a6649531000006117,2,Group exercise program,401167006
+a6516041000006114,1,Referral to physical activity program,390893007
+a12736321000006111,1,Structured physical activity programme,748061000000108
+a1918111000006117,1,Referral to physical training instructor,1918111000006101

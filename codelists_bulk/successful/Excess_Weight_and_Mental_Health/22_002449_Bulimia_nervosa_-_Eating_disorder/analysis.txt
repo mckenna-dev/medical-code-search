@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 5
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tEatingdisorder_Bulimianervosa_diagnosis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                               \tMedCodeId\tObservations\tTerm\tEatingdisorder_Bulimianervosa_diagnosis
+0                   0\t368051000006111\t80000\tBulimia nervosa\tEatingdisorder_Bulimianervosa_diagnosis
+1  1\t527421000006116\t30000\tBulimia (non-organic overeating)\tEatingdisorder_Bulimianervosa_diagnosis
+2                                2\t1222496015\t30000\tBulimia\tEatingdisorder_Bulimianervosa_diagnosis

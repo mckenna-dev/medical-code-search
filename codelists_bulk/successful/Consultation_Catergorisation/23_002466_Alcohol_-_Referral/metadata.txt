@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/23-002466/blob/main/Codelists/alcohol_referral.txt
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/23-002466/main/Codelists/alcohol_referral.txt
+Codelist Name: Alcohol - Referral
+Project Title: Consultation Catergorisation
+ERAP Number: 23_002466
+Author: Laura Heath
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:29:26
+File Size: 1508 bytes

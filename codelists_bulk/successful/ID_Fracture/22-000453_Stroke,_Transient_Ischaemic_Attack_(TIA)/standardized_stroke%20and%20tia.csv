@@ -1,0 +1,70 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+5051,,,,13474,236,0,0,G61..00,Intracerebral haemorrhage,2009-02-01 00:00:00
+6960,,,,10565,354,1,0,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,2009-02-01 00:00:00
+18604,,,,1834,32,0,0,G61..12,Stroke due to intracerebral haemorrhage,2009-02-01 00:00:00
+31595,,,,113,2,0,0,G610.00,Cortical haemorrhage,2009-02-01 00:00:00
+40338,,,,190,2,0,0,G611.00,Internal capsule haemorrhage,2009-02-01 00:00:00
+46316,,,,101,0,0,0,G612.00,Basal nucleus haemorrhage,2009-02-01 00:00:00
+13564,,,,1423,22,0,0,G613.00,Cerebellar haemorrhage,2009-02-01 00:00:00
+7912,,,,300,3,0,0,G614.00,Pontine haemorrhage,2009-02-01 00:00:00
+62342,,,,13,1,0,0,G615.00,Bulbar haemorrhage,2009-02-01 00:00:00
+30045,,,,28,1,0,0,G616.00,External capsule haemorrhage,2009-02-01 00:00:00
+57315,,,,30,2,0,0,G618.00,"Intracerebral haemorrhage, multiple localized",2009-02-01 00:00:00
+107440,,,,49,0,0,0,G619.00,Lobar cerebral haemorrhage,2013-12-01 00:00:00
+31060,,,,98,0,0,0,G61X.00,"Intracerebral haemorrhage in hemisphere, unspecified",2009-02-01 00:00:00
+28314,,,,202,0,0,0,G61X000,"Left sided intracerebral haemorrhage, unspecified",2009-02-01 00:00:00
+19201,,,,179,0,0,0,G61X100,"Right sided intracerebral haemorrhage, unspecified",2009-02-01 00:00:00
+3535,,,,1810,80,0,0,G61z.00,Intracerebral haemorrhage NOS,2009-02-01 00:00:00
+51326,,,,35,0,0,0,G63y.00,Other precerebral artery occlusion,2009-02-01 00:00:00
+23671,,,,1208,7,0,0,G63y000,Cerebral infarct due to thrombosis of precerebral arteries,2009-02-01 00:00:00
+24446,,,,287,5,0,0,G63y100,Cerebral infarction due to embolism of precerebral arteries,2009-02-01 00:00:00
+26424,,,,971,5,0,0,G64z400,Infarction of basal ganglia,2009-02-01 00:00:00
+16517,,,,3188,97,0,0,G640.00,Cerebral thrombosis,2009-02-01 00:00:00
+34758,,,,65,2,0,0,G641.11,Cerebral embolus,2009-02-01 00:00:00
+10504,,,,1756,3,0,0,G64z300,Right sided cerebral infarction,2009-02-01 00:00:00
+8837,,,,18764,158,0,0,G64..00,Cerebral arterial occlusion,2009-02-01 00:00:00
+9985,,,,1778,6,0,0,G64z200,Left sided cerebral infarction,2009-02-01 00:00:00
+3149,,,,23961,210,0,0,G64z.00,Cerebral infarction NOS,2009-02-01 00:00:00
+15019,,,,1219,64,0,0,G641.00,Cerebral embolism,2009-02-01 00:00:00
+47642,,,,38,1,0,0,G64z100,Wallenberg syndrome,2009-02-01 00:00:00
+27975,,,,183,0,0,0,G641000,Cerebral infarction due to embolism of cerebral arteries,2009-02-01 00:00:00
+5363,,,,23990,397,0,0,G64..11,CVA - cerebral artery occlusion,2009-02-01 00:00:00
+6155,,,,4237,53,0,0,G64..13,Stroke due to cerebral arterial occlusion,2009-02-01 00:00:00
+569,,,,3845,177,0,0,G64..12,Infarction - cerebral,2009-02-01 00:00:00
+15252,,,,367,29,0,0,G64z.11,Brainstem infarction NOS,2009-02-01 00:00:00
+5602,,,,6019,59,0,0,G64z.12,Cerebellar infarction,2009-02-01 00:00:00
+25615,,,,654,35,0,0,G64z000,Brainstem infarction,2009-02-01 00:00:00
+5185,,,,245,3,0,0,G64z111,Lateral medullary syndrome,2009-02-01 00:00:00
+36717,,,,780,5,0,0,G640000,Cerebral infarction due to thrombosis of cerebral arteries,2009-02-01 00:00:00
+8443,,,,1166,24,0,0,G663.00,Brain stem stroke syndrome,2009-02-01 00:00:00
+19280,,,,284,0,0,0,G661.00,Anterior cerebral artery syndrome,2009-02-01 00:00:00
+51767,,,,121,2,0,0,G666.00,Pure sensory lacunar syndrome,2009-02-01 00:00:00
+18689,,,,503,3,0,0,G660.00,Middle cerebral artery syndrome,2009-02-01 00:00:00
+1469,,,,212671,22865,379,0,G66..00,Stroke and cerebrovascular accident unspecified,2009-02-01 00:00:00
+12833,,,,4032,82,0,0,G668.00,Right sided CVA,2009-02-01 00:00:00
+19260,,,,343,2,0,0,G662.00,Posterior cerebral artery syndrome,2009-02-01 00:00:00
+17322,,,,1387,55,0,0,G664.00,Cerebellar stroke syndrome,2009-02-01 00:00:00
+7780,,,,4557,92,0,0,G667.00,Left sided CVA,2009-02-01 00:00:00
+33499,,,,391,1,0,0,G665.00,Pure motor lacunar syndrome,2009-02-01 00:00:00
+6116,,,,15211,388,0,0,G66..13,CVA - Cerebrovascular accident unspecified,2009-02-01 00:00:00
+6253,,,,4582,72,0,0,G66..12,Stroke unspecified,2009-02-01 00:00:00
+1298,,,,106529,3202,26,0,G66..11,CVA unspecified,2009-02-01 00:00:00
+39344,,,,216,2,0,0,G676000,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",2009-02-01 00:00:00
+40758,,,,320,2,0,0,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries,2009-02-01 00:00:00
+33543,,,,1892,3,0,0,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,2009-02-01 00:00:00
+53810,,,,27,0,0,0,Gyu6200,[X]Other intracerebral haemorrhage,2009-02-01 00:00:00
+91627,,,,66,0,0,0,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,2009-02-01 00:00:00
+53745,,,,398,2,0,0,Gyu6400,[X]Other cerebral infarction,2009-02-01 00:00:00
+90572,,,,14,0,0,0,Gyu6500,[X]Occlusion and stenosis of other precerebral arteries,2009-02-01 00:00:00
+92036,,,,31,0,0,0,Gyu6600,[X]Occlusion and stenosis of other cerebral arteries,2009-02-01 00:00:00
+96630,,,,9,0,0,0,Gyu6F00,"[X]Intracerebral haemorrhage in hemisphere, unspecified",2009-04-01 00:00:00
+94482,,,,38,0,0,0,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,2009-02-01 00:00:00
+504,,,,168987,13937,8,0,G65..00,Transient cerebral ischaemia,2009-02-01 00:00:00
+1433,,,,143725,8028,0,0,G65..12,Transient ischaemic attack,2009-02-01 00:00:00
+23942,,,,1036,41,0,0,G650.00,Basilar artery syndrome,2009-02-01 00:00:00
+105738,,,,13,0,0,0,G657.00,Carotid territory transient ischaemic attack,2013-01-01 00:00:00
+19354,,,,202,4,0,0,G65y.00,Other transient cerebral ischaemia,2009-02-01 00:00:00
+1895,,,,1866,66,0,0,G65z.00,Transient cerebral ischaemia NOS,2009-02-01 00:00:00
+55247,,,,17,0,0,0,G65z000,Impending cerebral ischaemia,2009-02-01 00:00:00
+16507,,,,174,10,0,0,G65z100,Intermittent cerebral ischaemia,2009-02-01 00:00:00
+15788,,,,6030,67,0,0,G65zz00,Transient cerebral ischaemia NOS,2009-02-01 00:00:00

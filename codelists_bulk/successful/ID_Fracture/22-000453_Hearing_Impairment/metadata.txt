@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_hearing%20impairment.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/18-186-Gold-IDFracture/main/Codelists/standardized_hearing%20impairment.csv
+Codelist Name: Hearing Impairment
+Project Title: ID Fracture
+ERAP Number: 22-000453
+Author: Margaret Smith
+Coding System: Gold
+Year Created: 2024
+Downloaded: 2025-06-25 13:26:45
+File Size: 15001 bytes

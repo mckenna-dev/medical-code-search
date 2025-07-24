@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 22
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2    MedCodeID                                              Term
+0    518          Cancer         Bladder  a1786811017             Malignant neoplasm of urinary bladder
+1    519          Cancer         Bladder   a289262014  Malignant neoplasm of trigone of urinary bladder
+2    520          Cancer         Bladder   a289267015     Malignant neoplasm of dome of urinary bladder

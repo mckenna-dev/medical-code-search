@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 259
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2           MedCodeID                                                       Term
+0   5853    Neurological        Dementia  a12106351000006118         Behavioural and psychological symptoms of dementia
+1   5854    Neurological        Dementia  a12106371000006111   BPSD - behavioral and psychological symptoms of dementia
+2   5855    Neurological        Dementia  a12106381000006114  BPSD - behavioural and psychological symptoms of dementia

@@ -1,0 +1,21 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+977,Cancer,Endocrine,a721291000006110,Malignant neoplasm of thyroid gland,L1:Cancer_L2:Endocrine,B53..00
+978,Cancer,Endocrine,a155072018,Malignant neoplasm of adrenal gland,L1:Cancer_L2:Endocrine,B540.00
+979,Cancer,Endocrine,a444773019,Phaeochromocytoma,L1:Cancer_L2:Endocrine,B540.11
+980,Cancer,Endocrine,a1210553016,Malignant neoplasm of adrenal cortex,L1:Cancer_L2:Endocrine,B540000
+981,Cancer,Endocrine,a1210554010,Malignant neoplasm of adrenal medulla,L1:Cancer_L2:Endocrine,B540100
+982,Cancer,Endocrine,a289406011,Malignant neoplasm of adrenal gland NOS,L1:Cancer_L2:Endocrine,B540z00
+983,Cancer,Endocrine,a723441000006116,Malignant neoplasm of parathyroid gland,L1:Cancer_L2:Endocrine,B541.00
+984,Cancer,Endocrine,a720481000006117,Malignant neoplasm pituitary gland and craniopharyngeal duct,L1:Cancer_L2:Endocrine,B542.00
+985,Cancer,Endocrine,a722981000006114,Malignant neoplasm of pituitary gland,L1:Cancer_L2:Endocrine,B542000
+986,Cancer,Endocrine,a729511000006116,Malig neop of other endocrine glands and related structures,L1:Cancer_L2:Endocrine,B54..00
+987,Cancer,Endocrine,a289421017,Malignant neoplasm of other specified endocrine gland,L1:Cancer_L2:Endocrine,B54y.00
+988,Cancer,Endocrine,a729471000006114,Malig neop of endocrine gland or related structure NOS,L1:Cancer_L2:Endocrine,B54z.00
+989,Cancer,Endocrine,a309431000006116,Goblet cell carcinoid,L1:Cancer_L2:Endocrine,BB5R611
+990,Cancer,Endocrine,a1231544010,[M] Neuroendocrine carcinoma,L1:Cancer_L2:Endocrine,BB5R900
+991,Cancer,Endocrine,a307971000006119,Endometrioid carcinoma,L1:Cancer_L2:Endocrine,BB5j200
+992,Cancer,Endocrine,a307921000006115,"[M]Endometrioid adenofibroma, malignant",L1:Cancer_L2:Endocrine,BB5j500
+993,Cancer,Endocrine,a1227435013,[M]Vipoma,L1:Cancer_L2:Endocrine,BB5y100
+994,Cancer,Endocrine,a1887221000006112,Neuroendocrine neoplasm,L1:Cancer_L2:Endocrine,BBz0.00
+995,Cancer,Endocrine,a292154013,Malignant neoplasm of endocrine gland,L1:Cancer_L2:Endocrine,ByuB.00
+996,Cancer,Endocrine,a292156010,Malignant neoplasm of endocrine gland,L1:Cancer_L2:Endocrine,ByuB100

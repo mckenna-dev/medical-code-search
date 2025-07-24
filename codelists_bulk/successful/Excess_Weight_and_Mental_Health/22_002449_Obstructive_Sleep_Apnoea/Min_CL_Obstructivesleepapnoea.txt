@@ -1,0 +1,16 @@
+	MedCodeId	Observations	Term	obstructive_sleep_apnoea
+0	a267911000006119	200000	Obstructive sleep apnoea	obstructive_sleep_apnoea
+1	a219501000000111	100000	Obstructive sleep apnoea	obstructive_sleep_apnoea
+2	a3773271000006117	3000	OSA - Obstructive sleep apnoea	obstructive_sleep_apnoea
+3	a3773251000006110	2000	Obstructive sleep apnoea syndrome	obstructive_sleep_apnoea
+4	a2159982016	1000	Upper airway resistance syndrome	obstructive_sleep_apnoea
+5	a981761000006114	900	Sleep apnea	obstructive_sleep_apnoea
+6	a3268881000006111	600	Continuous positive airway pressure ventilation treatment	obstructive_sleep_apnoea
+7	a3773291000006116	200	Obstructive sleep apnea	obstructive_sleep_apnoea
+8	a3773281000006119	40	OSA - Obstructive sleep apnea	obstructive_sleep_apnoea
+9	a3693961000006118	20	Sleep apnea	obstructive_sleep_apnoea
+10	a3773261000006112	10	Obstructive sleep apnea syndrome	obstructive_sleep_apnoea
+11	a7967601000006114	8	Obstructive sleep apnoea of adult	obstructive_sleep_apnoea
+12	a7280391000006110	6	Sleep apnea clinic	obstructive_sleep_apnoea
+13	a4096351000006119	4	Sleep apnea assessment	obstructive_sleep_apnoea
+14	a7967611000006112	2	Obstructive sleep apnea of adult	obstructive_sleep_apnoea

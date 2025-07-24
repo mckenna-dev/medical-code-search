@@ -1,0 +1,146 @@
+med_code_id,term,snomed_ct_concept_id,observations
+21390015,Intrinsic asthma without status asthmaticus,12428000,4000
+69311016,Detergent asthma,41553006,70
+94731013,Wood asthma,56968009,10
+95786019,Occupational asthma,57607007,5000
+98546013,Life threatening acute exacerbation of intrinsic asthma,1086711000000100,900
+104872017,Extrinsic asthma without status asthmaticus,63088003,9000
+151338014,Life threatening acute exacerbation of allergic asthma,1086701000000102,2000
+251716013,H/O: asthma,161527007,1000000
+301450011,Chronic asthmatic bronchitis,195949008,9000
+301480018,Bronchial asthma,195967001,90000
+301485011,Asthma,195967001,20000000
+301499010,Extrinsic asthma,424643009,10000
+301508013,Intrinsic asthma NOS,266361008,4000
+301509017,Mixed asthma,195977004,10000
+301511014,Asthma unspecified,195967001,90000
+338238011,Brittle asthma,225057002,10000
+350147016,Childhood asthma,233678006,70000
+350148014,Late onset asthma,233679003,20000
+350149018,Late-onset asthma,233679003,10000
+350151019,Acute exacerbation of allergic asthma,708093000,2000
+350152014,Allergic asthma NEC,389145006,6000
+350153016,Hay fever with asthma,233683003,10000
+350154010,Pollen asthma,233683003,20000
+350156012,Acute exacerbation of intrinsic asthma,708094006,200
+396114013,Intrinsic asthma,266361008,300000
+396118011,Life threatening acute exacerbation of asthma,734904007,10000
+396119015,Asthma attack,708038006,200000
+396120014,Asthma NOS,195967001,700000
+409865018,Asthma attack NOS,708038006,10000
+419211018,Acute exacerbation of asthma,708038006,2000000
+456163018,Asthma - currently active,312453004,60000
+456164012,Asthma - currently dormant,312454005,100000
+1208969012,Mild asthma,370218001,100000
+1208970013,Moderate asthma,370219009,60000
+1208971012,Occasional asthma,370220003,60000
+1208972017,Severe asthma,370221004,10000
+1483199016,Allergic asthma,389145006,40000
+1780388018,Asthma confirmed,401193004,70000
+3511374015,Moderate acute exacerbation of asthma,734905008,90
+3514925011,Acute severe exacerbation of asthma co-occurrent and due to allergic asthma,735587000,1
+3637387011,Exacerbation of allergic asthma,762521001,3
+145961000006117,Acute severe exacerbation of asthma,708090002,30000
+149741000006116,Sequoiosis (red-cedar asthma),23315001,2
+655601000006113,Exercise-induced asthma,31387002,400000
+655611000006111,Exercise induced asthma,31387002,20000
+660351000006118,Allergic atopic asthma,389145006,300000
+817361000006114,Hay fever with asthma,233683003,50000
+856031000006110,Asthma stable < 3 months,856031000006106,2000
+856041000006117,Asthma stable > 3 months,856041000006101,3000
+885291000006115,Extrinsic asthma - atopy,389145006,20000
+905331000006118,[RFC] Asthma,905331000006102,100
+908841000006111,[RFC] Asthma,908841000006107,1000
+929091000006111,Aspirin-induced asthma,407674008,800
+955631000006116,Occupational asthma,955631000006100,3
+983771000006118,Work aggravated asthma,57607007,100
+1948051000006112,Asthma-chronic obstructive pulmonary disease overlap syndrome,10692761000119107,30000
+2009981000006110,Difficult asthma,2009981000006106,60
+2010031000006116,Acute infective exacerbation of asthma,2010031000006100,7000
+2010041000006114,Acute non-infective exacerbation of asthma,2010041000006105,700
+2240591000000119,Chronic asthma with fixed airflow obstruction,866881000000101,7000
+2460311000000112,At risk of severe asthma exacerbation,966011000000109,7000
+2685251000006117,Millers' asthma,11641008,1
+3005811000006119,Exercise induced asthma,31387002,1
+3047731000006119,Bakers' asthma,34015007,1
+3435971000006119,Industrial asthma,57607007,1
+4020511000006119,Drug-induced asthma,93432008,2
+4540771000006118,History of asthma,161527007,5
+4781531000006113,Asthmatic,195967001,50
+5054341000006110,Late-onset asthma,233679003,8
+5054431000006112,Asthmatic pulmonary eosinophilia,233691007,90
+5492441000006114,Non-allergic asthma,266361008,30
+5649191000006110,Exacerbation of asthma,281239006,20000
+6298421000006116,Eosinophilic asthma,367542003,100
+6512381000006116,Atopic asthma,389145006,40
+6550131000006111,Nocturnal asthma,395022009,1
+6720721000006111,Asthmatic bronchitis,405944004,2000
+6782071000006115,Cough variant asthma,409663006,40
+7015991000006110,Non-IgE mediated allergic asthma,423889005,2
+7030311000006117,IgE-mediated allergic asthma,424643009,200
+7030321000006113,IgE mediated asthma,424643009,2
+7052221000006118,Exacerbation of intermittent asthma,425969006,2
+7062421000006112,Severe persistent asthma,426656000,2
+7067211000006115,Mild persistent asthma,426979002,10
+7071891000006112,Moderate persistent asthma,427295004,1
+7076331000006112,Intermittent asthma,427603009,9
+7077481000006119,Mild intermittent asthma,427679007,7
+7100601000006111,History of aspirin-sensitive asthma with nasal polyp,429258006,1
+7258581000006114,Acute exacerbation of chronic asthmatic bronchitis,442025000,8
+7307941000006113,Seasonal asthma,445427006,200
+7617611000006112,Exacerbation of mild persistent asthma,707445000,20
+7617621000006116,Exacerbation of moderate persistent asthma,707446004,3
+7618791000006110,Uncomplicated mild persistent asthma,707511009,1
+7626521000006110,Acute severe exacerbation of severe persistent asthma,707979007,1
+7628301000006111,Acute severe exacerbation of allergic asthma,708095007,3
+7628331000006115,Acute severe exacerbation of intrinsic asthma,708096008,1
+7961271000006111,Acute severe refractory exacerbation of asthma,733858005,2
+7961281000006114,Acute severe asthma,733858005,8
+7965491000006114,Asthma with irreversible airway obstruction,401000119107,3
+7970171000006119,Acute exacerbation of chronic obstructive airways disease with asthma,1751000119100,8
+8031201000006110,Acute exacerbation of asthma co-occurrent with allergic rhinitis,99031000119107,1
+8038971000006116,Intermittent asthma co-occurrent with allergic rhinitis,125021000119107,1
+8042571000006111,Acute exacerbation of moderate persistent asthma,135171000119106,1
+8042581000006114,Acute exacerbation of mild persistent asthma,135181000119109,8
+8555681000006115,Steroid dependent asthma,2360001000004109,4
+9315071000006117,Severe controlled persistent asthma,10675391000119101,1
+9315091000006116,Severe persistent allergic asthma,10675431000119106,3
+9315171000006116,Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis,10675711000119106,1
+9315181000006118,Severe uncontrolled persistent asthma,10675751000119107,4
+9315201000006117,Mild persistent allergic asthma,10675871000119106,2
+9315251000006118,Mild persistent allergic asthma controlled,10676031000119106,1
+9315261000006116,Mild persistent asthma controlled,10676071000119109,2
+9315301000006113,Mild persistent asthma uncontrolled,10676191000119106,8
+9315321000006115,Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis,10676231000119102,1
+9315341000006110,Moderate persistent asthma controlled,10676351000119103,1
+9315461000006115,Moderate persistent asthma uncontrolled,10676711000119103,10
+9317311000006119,Chronic obstructive asthma co-occurrent with acute exacerbation of asthma,10692721000119102,2
+9317331000006113,Asthma-COPD overlap syndrome (ACOS),10692761000119107,9
+9317341000006115,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,10692761000119107,70
+9934311000006111,Oral steroid-dependent asthma,16584951000119101,4
+11922851000006115,Acute asthma,304527002,1000
+12618341000006116,Severe asthma with fungal sensitisation,1103911000000103,2
+13619961000006119,Exacerbation of allergic asthma due to infection,782520007,60
+13775501000006113,Allergic asthma without status asthmaticus,63088003,40
+13930321000006112,Thunderstorm asthma,829976001,1
+13997031000006117,Intermittent allergic asthma,10674991000119104,3
+909711000006111,[RFC] Chronic obstructive pulmonary disease (COPD),909711000006107,2000
+1656601000006119,COPD patient unsuitable for pulmonary rehabilitation,1656601000006103,4
+1704541000006113,COPD patient unsuitable for pulmonary rehabilitation,371611000000107,20000
+2716321000006116,COPD - Chronic obstructive pulmonary disease,13645005,70000
+4781421000006111,Acute exacerbation of COPD,195951007,500
+8287171000006115,Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease),847091000000104,400
+301836011,[X]Other specified chronic obstructive pulmonary disease,13645005,200
+457168017,Mild chronic obstructive pulmonary disease,313296004,700000
+457169013,Moderate chronic obstructive pulmonary disease,313297008,800000
+457171013,Severe chronic obstructive pulmonary disease,313299006,500000
+475431013,Chronic obstructive pulmonary disease,13645005,5000000
+1222334016,Other specified chronic obstructive pulmonary disease,13645005,40
+1222335015,Chronic obstructive pulmonary disease NOS,13645005,20000
+516801000000112,Very severe chronic obstructive pulmonary disease,293991000000106,50000
+555461000006119,Chronic obstructive pulmonary disease with acute lower respiratory infection,196001008,7000
+1765681000000110,History of chronic obstructive pulmonary disease,270473001,5000
+1823851000006119,Chronic obstructive pulmonary disease confirmed,1823851000006103,600
+2010061000006113,Acute non-infective exacerbation of chronic obstructive pulmonary disease,847091000000104,7000
+4510801000006114,End stage chronic obstructive pulmonary disease,135836000,1
+4781431000006114,Acute exacerbation of chronic obstructive pulmonary disease,195951007,200

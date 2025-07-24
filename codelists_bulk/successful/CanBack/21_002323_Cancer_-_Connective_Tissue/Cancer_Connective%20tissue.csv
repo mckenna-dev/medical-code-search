@@ -1,0 +1,77 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+901,Cancer,Connective tissue,a825771000006119,Kaposi's sarcoma associated with AIDS,L1:Cancer_L2:Connective tissue,A789500
+902,Cancer,Connective tissue,a729331000006116,"Malignant neoplasm of bone, connective tissue, skin and breast",L1:Cancer_L2:Connective tissue,B3...00
+903,Cancer,Connective tissue,a380094018,"Carcinoma of bone, connective tissue, skin and breast",L1:Cancer_L2:Connective tissue,B3...11
+904,Cancer,Connective tissue,a720571000006116,"Malignant neoplasm, overlap lesion connective & soft tissue",L1:Cancer_L2:Connective tissue,B317.00
+905,Cancer,Connective tissue,a173944012,Kaposi's sarcoma of skin,L1:Cancer_L2:Connective tissue,B33z000
+906,Cancer,Connective tissue,a729351000006111,"Malig neop of bone, connective tissue, skin and breast OS",L1:Cancer_L2:Connective tissue,B3y..00
+907,Cancer,Connective tissue,a729341000006114,"Malig neop of bone, connective tissue, skin and breast NOS",L1:Cancer_L2:Connective tissue,B3z..00
+908,Cancer,Connective tissue,a755631000006110,Kaposi's sarcoma of multiple organs,L1:Cancer_L2:Connective tissue,B592X00
+909,Cancer,Connective tissue,a755671000006113,"Kaposi's sarcoma, unspecified",L1:Cancer_L2:Connective tissue,B59zX00
+910,Cancer,Connective tissue,a173950019,Kaposi's sarcoma of lymph nodes,L1:Cancer_L2:Connective tissue,B6z0.00
+911,Cancer,Connective tissue,a309471000006118,[M]Granular cell carcinoma,L1:Cancer_L2:Connective tissue,BB5b.00
+912,Cancer,Connective tissue,a304651000006112,Adenocarcinoma with squamous metaplasia,L1:Cancer_L2:Connective tissue,BBB2.00
+913,Cancer,Connective tissue,a304491000006116,[M]Adenoacanthoma,L1:Cancer_L2:Connective tissue,BBB2.11
+914,Cancer,Connective tissue,a304631000006117,[M]Adenocarcinoma with cartilaginous and osseous metaplasia,L1:Cancer_L2:Connective tissue,BBB3.00
+915,Cancer,Connective tissue,a304641000006110,[M]Adenocarcinoma with spindle cell metaplasia,L1:Cancer_L2:Connective tissue,BBB4.00
+916,Cancer,Connective tissue,a304621000006115,[M]Adenocarcinoma with apocrine metaplasia,L1:Cancer_L2:Connective tissue,BBB5.00
+917,Cancer,Connective tissue,a317611000006119,Malignant thymoma,L1:Cancer_L2:Connective tissue,BBB6100
+918,Cancer,Connective tissue,a291622017,Sarcoma - category,L1:Cancer_L2:Connective tissue,BBF1.00
+919,Cancer,Connective tissue,a291623010,Sarcomatosis,L1:Cancer_L2:Connective tissue,BBF2.00
+920,Cancer,Connective tissue,a1231237017,[M]Fibrosarcoma NOS,L1:Cancer_L2:Connective tissue,BBG1.00
+921,Cancer,Connective tissue,a308641000006117,Fibromyxosarcoma,L1:Cancer_L2:Connective tissue,BBG3.00
+922,Cancer,Connective tissue,a310281000006113,Infantile fibrosarcoma,L1:Cancer_L2:Connective tissue,BBG8.00
+923,Cancer,Connective tissue,a307251000006119,[M]Congenital fibrosarcoma,L1:Cancer_L2:Connective tissue,BBG8.11
+924,Cancer,Connective tissue,a308671000006113,Malignant fibrous histiocytoma,L1:Cancer_L2:Connective tissue,BBGF.00
+925,Cancer,Connective tissue,a308731000006118,Malignant fibroxanthoma,L1:Cancer_L2:Connective tissue,BBGJ.00
+926,Cancer,Connective tissue,a376870016,[M]Fibroxanthosarcoma,L1:Cancer_L2:Connective tissue,BBGJ.11
+927,Cancer,Connective tissue,a1232355013,[M] Pigmented dermatofibrosarcoma protuberans,L1:Cancer_L2:Connective tissue,BBGP.00
+928,Cancer,Connective tissue,a1225879015,[M]Myxosarcoma,L1:Cancer_L2:Connective tissue,BBH1.00
+929,Cancer,Connective tissue,a291638011,[M]Liposarcoma NOS,L1:Cancer_L2:Connective tissue,BBJ1.00
+930,Cancer,Connective tissue,a308551000006116,[M]Fibroliposarcoma,L1:Cancer_L2:Connective tissue,BBJ1.11
+931,Cancer,Connective tissue,a311191000006111,Liposarcoma - well differentiated,L1:Cancer_L2:Connective tissue,BBJ3.00
+932,Cancer,Connective tissue,a313541000006114,Myxoid liposarcoma,L1:Cancer_L2:Connective tissue,BBJ5.00
+933,Cancer,Connective tissue,a313561000006113,[M]Myxoliposarcoma,L1:Cancer_L2:Connective tissue,BBJ5.12
+934,Cancer,Connective tissue,a316121000006118,[M]Round cell liposarcoma,L1:Cancer_L2:Connective tissue,BBJ6.00
+935,Cancer,Connective tissue,a315531000006117,Pleomorphic liposarcoma,L1:Cancer_L2:Connective tissue,BBJ7.00
+936,Cancer,Connective tissue,a312951000006111,[M]Mixed type liposarcoma,L1:Cancer_L2:Connective tissue,BBJ8.00
+937,Cancer,Connective tissue,a1232905013,[M]Dedifferentiated liposarcoma,L1:Cancer_L2:Connective tissue,BBJH.00
+938,Cancer,Connective tissue,a291653015,Leiomyosarcoma - category,L1:Cancer_L2:Connective tissue,BBK0200
+939,Cancer,Connective tissue,a308241000006115,[M]Epithelioid leiomyosarcoma,L1:Cancer_L2:Connective tissue,BBK0400
+940,Cancer,Connective tissue,a1221282014,[M]Myxoid leiomyosarcoma,L1:Cancer_L2:Connective tissue,BBK0700
+941,Cancer,Connective tissue,a305531000006115,[M]Angiomyosarcoma,L1:Cancer_L2:Connective tissue,BBK1100
+942,Cancer,Connective tissue,a313501000006112,[M]Myosarcoma,L1:Cancer_L2:Connective tissue,BBK2100
+943,Cancer,Connective tissue,a215896010,Rhabdomyosarcoma,L1:Cancer_L2:Connective tissue,BBK3100
+944,Cancer,Connective tissue,a315541000006110,[M]Pleomorphic rhabdomyosarcoma,L1:Cancer_L2:Connective tissue,BBK3200
+945,Cancer,Connective tissue,a312841000006116,[M]Mixed cell rhabdomyosarcoma,L1:Cancer_L2:Connective tissue,BBK3300
+946,Cancer,Connective tissue,a307821000006112,Embryonal rhabdomyosarcoma,L1:Cancer_L2:Connective tissue,BBK3600
+947,Cancer,Connective tissue,a316141000006113,[M]Sarcoma botryoides,L1:Cancer_L2:Connective tissue,BBK3611
+948,Cancer,Connective tissue,a305211000006112,Alveolar rhabdomyosarcoma,L1:Cancer_L2:Connective tissue,BBK3700
+949,Cancer,Connective tissue,a307891000006114,Endometrial stromal sarcoma,L1:Cancer_L2:Connective tissue,BBL0.00
+950,Cancer,Connective tissue,a304901000006115,[M]Adenosarcoma,L1:Cancer_L2:Connective tissue,BBL7111
+951,Cancer,Connective tissue,a291676017,Carcinosarcoma,L1:Cancer_L2:Connective tissue,BBL9.00
+952,Cancer,Connective tissue,a1227518012,[M]Adenosarcoma,L1:Cancer_L2:Connective tissue,BBLE.00
+953,Cancer,Connective tissue,a1232439019,[M]Synovial sarcoma NOS,L1:Cancer_L2:Connective tissue,BBN1.00
+954,Cancer,Connective tissue,a317361000006112,"[M]Synovial sarcoma, spindle cell type",L1:Cancer_L2:Connective tissue,BBN2.00
+955,Cancer,Connective tissue,a317341000006113,"[M]Synovial sarcoma, biphasic type",L1:Cancer_L2:Connective tissue,BBN4.00
+956,Cancer,Connective tissue,a291700017,[M]Clear cell sarcoma of tendons and aponeuroses,L1:Cancer_L2:Connective tissue,BBN5.00
+957,Cancer,Connective tissue,a312601000006119,"Mesothelioma, malignant",L1:Cancer_L2:Connective tissue,BBP1.00
+958,Cancer,Connective tissue,a1785811000006114,"Fibrous mesothelioma, malignant",L1:Cancer_L2:Connective tissue,BBP3.11
+959,Cancer,Connective tissue,a308261000006116,Malignant epithelioid mesothelioma,L1:Cancer_L2:Connective tissue,BBP5.00
+960,Cancer,Connective tissue,a312591000006110,Malignant biphasic mesothelioma,L1:Cancer_L2:Connective tissue,BBP7.00
+961,Cancer,Connective tissue,a291711013,"[M]Mesothelioma, unspecified",L1:Cancer_L2:Connective tissue,BBPX.00
+962,Cancer,Connective tissue,a1222303015,"[M]Teratoma, malignant, NOS",L1:Cancer_L2:Connective tissue,BBQ7200
+963,Cancer,Connective tissue,a1870391000006111,Peripheral neuroectodermal tumour,L1:Cancer_L2:Connective tissue,BBba000
+964,Cancer,Connective tissue,a291843019,[M]Neuroepitheliomatous neoplasms,L1:Cancer_L2:Connective tissue,BBc..00
+965,Cancer,Connective tissue,a403758013,[M]Neuroblastoma NOS,L1:Cancer_L2:Connective tissue,BBc1.00
+966,Cancer,Connective tissue,a291853018,Neuroepithelioma,L1:Cancer_L2:Connective tissue,BBc4.00
+967,Cancer,Connective tissue,a291861011,Neuroepitheliomatous neoplasm,L1:Cancer_L2:Connective tissue,BBcz.00
+968,Cancer,Connective tissue,a313931000006111,[M]Neurofibrosarcoma,L1:Cancer_L2:Connective tissue,BBe2.00
+969,Cancer,Connective tissue,a313801000006114,"[M]Neurilemmoma, malignant",L1:Cancer_L2:Connective tissue,BBe7.00
+970,Cancer,Connective tissue,a312101000006110,[M]Mast cell sarcoma,L1:Cancer_L2:Connective tissue,BBp1.00
+971,Cancer,Connective tissue,a292128017,"[X]Kaposi's sarcoma, unspecified",L1:Cancer_L2:Connective tissue,Byu5300
+972,Cancer,Connective tissue,a396091000006118,"[X]Mal neoplasm/connective+soft tissue of trunk,unspecified",L1:Cancer_L2:Connective tissue,Byu5800
+973,Cancer,Connective tissue,a396501000006117,"[X]Malignant neoplasm/connective + soft tissue,unspecified",L1:Cancer_L2:Connective tissue,Byu5900
+974,Cancer,Connective tissue,a292136014,Kaposi's sarcoma (clinical),L1:Cancer_L2:Connective tissue,Byu5B00
+975,Cancer,Connective tissue,a716861000006117,Mast cell disease,L1:Cancer_L2:Connective tissue,PH32111
+976,Cancer,Connective tissue,a203313019,Mastocytosis,L1:Cancer_L2:Connective tissue,PH32112

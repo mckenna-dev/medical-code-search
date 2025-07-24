@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 10
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+0                                 48539\t"R005100"\t103\t0\t2\t0\t"[D]Insomnia with sleep apnoea"\t"February 2009"
+1                                  2506\t"R005311"\t33293\t0\t9523\t1\t"[D]Sleep apnoea syndrome"\t"February 2009"
+2                                      37667\t"8A43.00"\t554\t0\t31\t0\t"Apnoea alarm monitoring"\t"February 2009"

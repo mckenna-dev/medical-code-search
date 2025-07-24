@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 114
+Columns: 4
+Column names: ['class', 's', 'cause', 'desc']
+Has med_code_id: False
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  class  s  cause                            desc
+0  DILV  0  Q20.4          Double inlet ventricle
+1   VSD  1  Q21.0       Ventricular septal defect
+2   ASD  3  Q21.2  Atrioventricular septal defect

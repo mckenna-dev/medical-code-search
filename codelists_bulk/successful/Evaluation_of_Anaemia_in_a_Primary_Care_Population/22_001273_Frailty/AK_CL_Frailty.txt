@@ -1,0 +1,2 @@
+MedCodeId	Observations	Term	frailty
+a2367201000000110	9000000	Frailty Index score	frailty

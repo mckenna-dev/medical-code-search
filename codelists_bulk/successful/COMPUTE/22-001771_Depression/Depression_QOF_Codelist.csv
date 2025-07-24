@@ -1,0 +1,163 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+"Recurrent reactive depressive episodes, severe, with psychosis (disorder)",b1086471000000103,Depression diagnosis codes,a424681000006118,400,"Recurrent reactive depressive episodes, severe, with psychosis"
+Recurrent depression with current moderate episode (disorder),b1089641000000100,Depression diagnosis codes,a2730011000000110,30,Recurrent depression with current moderate episode
+"Moderate major depression, single episode (disorder)",b15639000,Depression diagnosis codes,a294826016,50000,"Moderate major depression, single episode"
+Mild major depressive disorder co-occurrent with anxiety single episode (disorder),b16265951000119109,Depression diagnosis codes,a9901161000006119,20,Mild major depressive disorder co-occurrent with anxiety single episode
+Severe major depressive disorder co-occurrent with anxiety single episode (disorder),b16266991000119108,Depression diagnosis codes,a9901281000006116,4,Severe major depressive disorder co-occurrent with anxiety single episode
+Moderate recurrent major depression (disorder),b18818009,Depression diagnosis codes,a2798691000006112,20,Moderate recurrent major depression
+"Recurrent major depressive episodes, moderate (disorder)",b191611001,Depression diagnosis codes,a294838013,20000,"Recurrent major depressive episodes, moderate"
+"Recurrent major depressive episodes, severe, with psychosis (disorder)",b191613003,Depression diagnosis codes,a294840015,10000,"Recurrent major depressive episodes, severe, with psychosis"
+"Recurrent major depressive episodes, severe, with psychosis (disorder)",b191613003,Depression diagnosis codes,a424551000006113,1000,[X]Recurr severe episodes/psychogenic depressive psychosis
+"Recurrent major depressive episodes, severe, with psychosis (disorder)",b191613003,Depression diagnosis codes,a424671000006116,4000,[X]Recurrent severe episodes of psychotic depression
+"Bipolar affective disorder, currently depressed, in full remission (disorder)",b191634005,Depression diagnosis codes,a513861000006113,800,"Bipolar affective disorder, currently depressed, in full remission"
+Atypical depressive disorder (disorder),b191659001,Depression diagnosis codes,a294894013,1000,Atypical depressive disorder
+Atypical depressive disorder (disorder),b191659001,Depression diagnosis codes,a366561000006119,1000,[X]Atypical depression
+Prolonged depressive adjustment reaction (disorder),b192049004,Depression diagnosis codes,a202561000006114,9000,Prolonged depressive adjustment reaction
+Post-schizophrenic depression (disorder),b231485007,Depression diagnosis codes,a423041000006119,200,[X]Post-schizophrenic depression
+Post-schizophrenic depression (disorder),b231485007,Depression diagnosis codes,a5023901000006110,4,Post-schizophrenic depression
+Endogenous depression first episode (disorder),b231499006,Depression diagnosis codes,a346972018,80000,Endogenous depression first episode
+Endogenous depression first episode (disorder),b231499006,Depression diagnosis codes,a642461000006116,50000,Endogenous depression first episode
+Masked depression (disorder),b231500002,Depression diagnosis codes,a346973011,6000,Masked depression
+Masked depression (disorder),b231500002,Depression diagnosis codes,a426931000006117,100,[X]Single episode of masked depression NOS
+Mixed anxiety and depressive disorder (disorder),b231504006,Depression diagnosis codes,a296245018,2000,[X]Other mixed anxiety disorders
+Mixed anxiety and depressive disorder (disorder),b231504006,Depression diagnosis codes,a398351000006110,30000,[X]Mild anxiety depression
+Mixed anxiety and depressive disorder (disorder),b231504006,Depression diagnosis codes,a398561000006117,300000,[X]Mixed anxiety and depressive disorder
+Mixed anxiety and depressive disorder (disorder),b231504006,Depression diagnosis codes,a419841000006116,10000,[X]Persistant anxiety depression
+Mixed anxiety and depressive disorder (disorder),b231504006,Depression diagnosis codes,a488211000006112,8000000,Mixed anxiety and depressive disorder
+Mixed anxiety and depressive disorder (disorder),b231504006,Depression diagnosis codes,a5024071000006118,60,Anxiety depression
+"Severe major depression, single episode (disorder)",b251000119105,Depression diagnosis codes,a142541000006115,20000,"Severe major depression, single episode"
+"Major depressive disorder, single episode with postpartum onset (disorder)",b25922000,Depression diagnosis codes,a2914841000006115,2,"Major depressive disorder, single episode with postpartum onset"
+Endogenous depression - recurrent (disorder),b274948002,Depression diagnosis codes,a410861011,200000,Endogenous depression - recurrent
+"Reactive depressive psychosis, single episode (disorder)",b288751000119101,Depression diagnosis codes,a8089301000006110,20,"Reactive depressive psychosis, single episode"
+Endogenous depression (disorder),b300706003,Depression diagnosis codes,a441826016,200000,Endogenous depression
+Endogenous depression (disorder),b300706003,Depression diagnosis codes,a379781000006118,20000,[X]Endogenous depression without psychotic symptoms
+Moderate depression (disorder),b310496002,Depression diagnosis codes,a296138013,700000,[X]Moderate depressive episode
+Moderate depression (disorder),b310496002,Depression diagnosis codes,a296181011,20000,"[X]Recurrent depressive disorder, current episode moderate"
+Moderate depression (disorder),b310496002,Depression diagnosis codes,a6000711000006112,20000,Moderate depression
+Severe depression (disorder),b310497006,Depression diagnosis codes,a401866015,100000,[X]Severe depressive episode without psychotic symptoms
+Severe depression (disorder),b310497006,Depression diagnosis codes,a223741000000112,9000,Severe depression
+Severe depression (disorder),b310497006,Depression diagnosis codes,a424531000006118,5000,[X]Recurr depress disorder cur epi severe without psyc sympt
+Severe depression (disorder),b310497006,Depression diagnosis codes,a426891000006114,500,[X] Single episode agitated depression without psychotic symptoms
+Severe depression (disorder),b310497006,Depression diagnosis codes,a426991000006118,100,[X]Single episode vital depression w'out psychotic symptoms
+Severe depression (disorder),b310497006,Depression diagnosis codes,a432511000006119,20,"[X]Vital depression, recurrent without psychotic symptoms"
+Recurrent major depression in partial remission (disorder),b33135002,Depression diagnosis codes,a3033261000006113,1,Recurrent major depression in partial remission
+"Major depression, single episode (disorder)",b36923009,Depression diagnosis codes,a294824018,30000,"Single major depressive episode, unspecified"
+"Major depression, single episode (disorder)",b36923009,Depression diagnosis codes,a294832014,9000,Single major depressive episode NOS
+"Major depression, single episode (disorder)",b36923009,Depression diagnosis codes,a401766011,400000,"Major depression, single episode"
+"Major depression, single episode (disorder)",b36923009,Depression diagnosis codes,a3094951000006111,2,"Major depressive disorder, single episode"
+Major depressive disorder (disorder),b370143000,Depression diagnosis codes,a6337491000006116,200,Major depressive disorder
+Major depressive disorder (disorder),b370143000,Depression diagnosis codes,a6337501000006112,5,Major depression
+Recurrent major depression in full remission (disorder),b46244001,Depression diagnosis codes,a294843018,1000,Recurrent major depression in full remission
+[X]Moderate depressive episode (disorder),b465441000000108,Depression diagnosis codes,a882821000006110,10000,Moderate depression
+Recurrent major depression in remission (disorder),b68019004,Depression diagnosis codes,a3606411000006115,20,Recurrent major depression in remission
+"Major depressive disorder, single episode with catatonic features (disorder)",b69392006,Depression diagnosis codes,a3628471000006116,9,"Major depressive disorder, single episode with catatonic features"
+Depressive disorder in remission (disorder),b698957003,Depression diagnosis codes,a296198011,3000,"[X]Recurrent depressive disorder, currently in remission"
+Depressive disorder in remission (disorder),b698957003,Depression diagnosis codes,a7515151000006115,60,Depressive disorder in remission
+Minimal major depression single episode (disorder),b720454007,Depression diagnosis codes,a7803731000006112,1,Minimal major depression single episode
+Severe major depression with psychotic features (disorder),b73867007,Depression diagnosis codes,a379771000006116,6000,[X]Endogenous depression with psychotic symptoms
+Severe major depression with psychotic features (disorder),b73867007,Depression diagnosis codes,a1715191000006112,10000,Severe major depression with psychotic features
+Severe major depression with psychotic features (disorder),b73867007,Depression diagnosis codes,a3700911000006115,20,Psychotic depression
+"Severe major depression, single episode, without psychotic features (disorder)",b76441001,Depression diagnosis codes,a3743451000006110,70,"Severe major depression, single episode, without psychotic features"
+"Recurrent major depressive episodes, severe (disorder)",b764611000000100,Depression diagnosis codes,a182771000006112,9000,"Recurrent major depressive episodes, severe"
+"Severe major depression, single episode, with psychotic features, mood-congruent (disorder)",b77911002,Depression diagnosis codes,a3767531000006119,5,"Severe major depression, single episode, with psychotic features, mood-congruent"
+Antenatal depression (disorder),b788120007,Depression diagnosis codes,a13902421000006110,30,Antenatal depression
+"Mild major depression, single episode (disorder)",b79298009,Depression diagnosis codes,a294825017,50000,"Mild major depression, single episode"
+Moderate major depression (disorder),b832007,Depression diagnosis codes,a1715181000006114,10000,Moderate major depression
+Agitated depression (disorder),b83458005,Depression diagnosis codes,a138421012,100000,Agitated depression
+Agitated depression (disorder),b83458005,Depression diagnosis codes,a474171000006112,80000,Agitated depression
+"Reactive depression, prolonged single episode (disorder)",b1086661000000108,Depression diagnosis codes,a8465321000006112,20,"Reactive depression, prolonged single episode"
+Recurrent depression with current severe episode and psychotic features (disorder),b1089511000000100,Depression diagnosis codes,a2729751000000118,30,Recurrent depression with current severe episode and psychotic features
+Recurrent depression with current severe episode without psychotic features (disorder),b1089631000000109,Depression diagnosis codes,a2729991000000112,30,Recurrent depression with current severe episode without psychotic features
+Recurrent mild major depressive disorder co-occurrent with anxiety (disorder),b16264621000119109,Depression diagnosis codes,a12127531000006113,60,Recurrent mild major depressive disorder co-occurrent with anxiety
+Recurrent severe major depressive disorder co-occurrent with anxiety (disorder),b16264821000119108,Depression diagnosis codes,a12127541000006115,10,Recurrent severe major depressive disorder co-occurrent with anxiety
+Recurrent moderate major depressive disorder co-occurrent with anxiety (disorder),b16264901000119109,Depression diagnosis codes,a12127551000006118,80,Recurrent moderate major depressive disorder co-occurrent with anxiety
+Recurrent major depressive disorder co-occurrent with anxiety in full remission (disorder),b16265061000119105,Depression diagnosis codes,a12127561000006116,3,Recurrent major depressive disorder co-occurrent with anxiety in full remission
+Recurrent major depressive disorder in partial remission co-occurrent with anxiety (disorder),b16265301000119106,Depression diagnosis codes,a12127571000006111,3,Recurrent major depressive disorder in partial remission co-occurrent with anxiety
+Moderate major depressive disorder co-occurrent with anxiety single episode (disorder),b16266831000119100,Depression diagnosis codes,a9901261000006114,6,Moderate major depressive disorder co-occurrent with anxiety single episode
+Presenile dementia with depression (disorder),b191455000,Depression diagnosis codes,a294642013,900,Presenile dementia with depression
+Senile dementia with depression (disorder),b191459006,Depression diagnosis codes,a294646011,4000,Senile dementia with depression
+"Single major depressive episode, severe, with psychosis (disorder)",b191604000,Depression diagnosis codes,a294828015,10000,"Single major depressive episode, severe, with psychosis"
+"Single major depressive episode, severe, with psychosis (disorder)",b191604000,Depression diagnosis codes,a401869010,50000,[X]Severe depressive episode with psychotic symptoms
+"Single major depressive episode, severe, with psychosis (disorder)",b191604000,Depression diagnosis codes,a426921000006115,800,[X]Single episode of major depression and psychotic symptoms
+"Single major depressive episode, severe, with psychosis (disorder)",b191604000,Depression diagnosis codes,a426961000006114,2000,[X]Single episode of psychotic depression
+"Recurrent major depressive episodes, mild (disorder)",b191610000,Depression diagnosis codes,a294837015,10000,"Recurrent major depressive episodes, mild"
+Recurrent depression (disorder),b191616006,Depression diagnosis codes,a294844012,300000,Recurrent depression
+Recurrent depression (disorder),b191616006,Depression diagnosis codes,a296199015,1000,[X]Other recurrent depressive disorders
+Recurrent depression (disorder),b191616006,Depression diagnosis codes,a401873013,300000,[X]Recurrent depressive disorder
+Recurrent depression (disorder),b191616006,Depression diagnosis codes,a401876017,10000,"[X]Recurrent depressive disorder, unspecified"
+Recurrent depression (disorder),b191616006,Depression diagnosis codes,a424631000006119,2000,[X]Recurrent episodes of depressive reaction
+Recurrent depression (disorder),b191616006,Depression diagnosis codes,a424641000006112,2000,[X]Recurrent episodes of psychogenic depression
+Recurrent depression (disorder),b191616006,Depression diagnosis codes,a424651000006114,5000,[X]Recurrent episodes of reactive depression
+Reactive depressive psychosis (disorder),b191676002,Depression diagnosis codes,a294917018,10000,Reactive depressive psychosis
+Reactive depressive psychosis (disorder),b191676002,Depression diagnosis codes,a294918011,20000,Psychotic reactive depression
+Reactive depressive psychosis (disorder),b191676002,Depression diagnosis codes,a426951000006112,100,[X]Single episode of psychogenic depressive psychosis
+Reactive depressive psychosis (disorder),b191676002,Depression diagnosis codes,a426981000006116,200,[X]Single episode of reactive depressive psychosis
+Chronic depression (disorder),b192080009,Depression diagnosis codes,a295537016,300000,Chronic depression
+Single episode of major depression in full remission (disorder),b19527009,Depression diagnosis codes,a294831019,300,Single episode of major depression in full remission
+Mild postnatal depression (disorder),b237349002,Depression diagnosis codes,a5106051000006119,100,Mild postnatal depression
+Seasonal affective disorder (disorder),b247803002,Depression diagnosis codes,a369982012,20000,Seasonal affective disorder
+Seasonal affective disorder (disorder),b247803002,Depression diagnosis codes,a425411000006110,10000,SAD - Seasonal affective disorder
+Seasonal affective disorder (disorder),b247803002,Depression diagnosis codes,a425751000006115,400,[X]Seasonal depressive disorder
+Recurrent major depressive episodes (disorder),b268621008,Depression diagnosis codes,a294836012,10000,"Recurrent major depressive episodes, unspecified"
+Recurrent major depressive episodes (disorder),b268621008,Depression diagnosis codes,a294845013,10000,Recurrent major depressive episode NOS
+Recurrent major depressive episodes (disorder),b268621008,Depression diagnosis codes,a182721000006111,50000,Recurrent major depressive episodes
+Recurrent major depressive episodes (disorder),b268621008,Depression diagnosis codes,a396081000006116,2000,"[X]Major depression, recurrent without psychotic symptoms"
+Severe recurrent major depression with psychotic features (disorder),b28475009,Depression diagnosis codes,a424541000006111,2000,[X]Recurr severe episodes/major depression+psychotic symptom
+Severe recurrent major depression with psychotic features (disorder),b28475009,Depression diagnosis codes,a424571000006115,5000,[X]Recurrent depress disorder cur epi severe with psyc symp
+Severe recurrent major depression with psychotic features (disorder),b28475009,Depression diagnosis codes,a2957311000006113,500,Severe recurrent major depression with psychotic features
+Mild depression (disorder),b310495003,Depression diagnosis codes,a296137015,200000,Mild depression
+Mild depression (disorder),b310495003,Depression diagnosis codes,a296180012,6000,"[X]Recurrent depressive disorder, current episode mild"
+Mild depression (disorder),b310495003,Depression diagnosis codes,a213641000000111,90000,[X]Mild depression
+Depressive disorder (disorder),b35489007,Depression diagnosis codes,a295535012,5000000,Depressive disorder
+Depressive disorder (disorder),b35489007,Depression diagnosis codes,a401871010,9000,[X]Other depressive episodes
+Depressive disorder (disorder),b35489007,Depression diagnosis codes,a401872015,600000,"[X]Depressive episode, unspecified"
+Depressive disorder (disorder),b35489007,Depression diagnosis codes,a376691000006116,5000000,Depression
+Depressive disorder (disorder),b35489007,Depression diagnosis codes,a376711000006118,50000,[X]Depressive disorder NOS
+Depressive disorder (disorder),b35489007,Depression diagnosis codes,a376721000006114,1000000,Depressive episode
+Depressive disorder (disorder),b35489007,Depression diagnosis codes,a398841000006119,100,[X]Monopolar depression NOS
+Depressive disorder (disorder),b35489007,Depression diagnosis codes,a613791000006115,30000,Depressive psychoses
+Depressive disorder (disorder),b35489007,Depression diagnosis codes,a3071791000006111,100,Depressive illness
+Depressive disorder (disorder),b35489007,Depression diagnosis codes,a3071801000006112,900,Depressed
+Cotard's syndrome (disorder),b357705009,Depression diagnosis codes,a967791000006111,70,[X]Cotard syndrome
+Severe recurrent major depression without psychotic features (disorder),b36474008,Depression diagnosis codes,a396771000006117,300,"[X] Manic-depressive psychosis, depressed type without psychotic symptoms"
+Severe recurrent major depression without psychotic features (disorder),b36474008,Depression diagnosis codes,a3087971000006112,10,Severe recurrent major depression without psychotic features
+[X]Severe depressive episode without psychotic symptoms (disorder),b397701000000102,Depression diagnosis codes,a882831000006113,5000,Severe depression
+Mild recurrent major depression (disorder),b40379007,Depression diagnosis codes,a3149661000006117,4,Mild recurrent major depression
+Recurrent brief depressive disorder (disorder),b40568001,Depression diagnosis codes,a424561000006110,400,[X]Recurrent brief depressive episodes
+Recurrent brief depressive disorder (disorder),b40568001,Depression diagnosis codes,a3153071000006116,100,Recurrent brief depressive disorder
+Premenstrual dysphoric disorder in remission (disorder),b426578000,Depression diagnosis codes,a7061221000006119,1,Premenstrual dysphoric disorder in remission
+Major depression in remission (disorder),b42810003,Depression diagnosis codes,a3190221000006112,10,Major depression in remission
+[X]Mild depressive episode (disorder),b430421000000104,Depression diagnosis codes,a882811000006119,5000,Mild depression
+Major depression in full remission (disorder),b63412003,Depression diagnosis codes,a3531371000006112,4,Major depression in complete remission
+"Major depression single episode, in partial remission (disorder)",b70747007,Depression diagnosis codes,a142521000006110,500,"Major depression single episode, in partial remission"
+Moderately severe major depression single episode (disorder),b720453001,Depression diagnosis codes,a7803711000006118,20,Moderately severe major depression single episode
+Severe major depression without psychotic features (disorder),b75084000,Depression diagnosis codes,a1715781000006110,5000,Severe major depression without psychotic features
+"Single major depressive episode, severe, with psychosis, psychosis in remission (disorder)",b755321000000106,Depression diagnosis codes,a1755901000006112,2000,"[X]Single major depressive episode, severe, with psychosis, psychosis in remission"
+"Single major depressive episode, severe, with psychosis, psychosis in remission (disorder)",b755321000000106,Depression diagnosis codes,a8232571000006118,400,"Single major depressive episode, severe, with psychosis, psychosis in remission"
+"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission (disorder)",b755331000000108,Depression diagnosis codes,a1755911000006110,2000,"[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission"
+"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission (disorder)",b755331000000108,Depression diagnosis codes,a8232591000006117,300,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission"
+"Recurrent major depressive episodes, in partial remission (disorder)",b764691000000109,Depression diagnosis codes,a182801000006114,700,"Recurrent major depressive episodes,partial/unspec remission"
+"Recurrent major depressive episodes, in partial remission (disorder)",b764691000000109,Depression diagnosis codes,a8237831000006115,3,"Recurrent major depressive episodes, in partial remission"
+"Single major depressive episode, in remission (disorder)",b764711000000106,Depression diagnosis codes,a8237851000006110,2,"Single major depressive episode, in remission"
+Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder),b765176007,Depression diagnosis codes,a367061000006114,2000,Psychosis and severe depression co-occurrent and due to bipolar affective disorder
+Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder),b765176007,Depression diagnosis codes,a396781000006119,500,"[X]Manic-depress psychosis,depressed type+psychotic symptoms"
+Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder),b765176007,Depression diagnosis codes,a513721000006114,800,"Bipolar affect disord, now depressed, severe with psychosis"
+Dysthymia (disorder),b78667006,Depression diagnosis codes,a376741000006119,3000,[X]Depressive neurosis
+Dysthymia (disorder),b78667006,Depression diagnosis codes,a379431000006113,40000,Dysthymia
+Dysthymia (disorder),b78667006,Depression diagnosis codes,a399841000006110,2000,[X]Neurasthenia
+Dysthymia (disorder),b78667006,Depression diagnosis codes,a399961000006118,8000,Depressive neurosis
+Dysthymia (disorder),b78667006,Depression diagnosis codes,a613781000006118,40000,Depressive personality disorder
+Dysthymia (disorder),b78667006,Depression diagnosis codes,a677031000006115,10000,Nervous exhaustion
+Dysthymia (disorder),b78667006,Depression diagnosis codes,a677321000006115,200000,Neurasthenia
+Dysthymia (disorder),b78667006,Depression diagnosis codes,a882421000006113,3000,Depressive personality
+"Schizoaffective disorder, depressive type (disorder)",b84760002,Depression diagnosis codes,a425501000006113,7000,"Schizoaffective disorder, depressive type"
+"Schizoaffective disorder, depressive type (disorder)",b84760002,Depression diagnosis codes,a425561000006114,1000,"[X]Schizoaffective psychosis, depressive type"
+"Schizoaffective disorder, depressive type (disorder)",b84760002,Depression diagnosis codes,a425691000006119,300,"[X]Schizophreniform psychosis, depressive type"
+Reactive depression (situational) (disorder),b87414006,Depression diagnosis codes,a359121000006116,400000,Reactive depression
+Reactive depression (situational) (disorder),b87414006,Depression diagnosis codes,a423611000006111,1000,[X]Prolonged single episode of reactive depression
+Reactive depression (situational) (disorder),b87414006,Depression diagnosis codes,a426911000006111,7000,[X]Single episode of depressive reaction
+Reactive depression (situational) (disorder),b87414006,Depression diagnosis codes,a426941000006110,1000,[X]Single episode of psychogenic depression
+Reactive depression (situational) (disorder),b87414006,Depression diagnosis codes,a426971000006119,8000,[X]Single episode of reactive depression
+Reactive depression (situational) (disorder),b87414006,Depression diagnosis codes,a675861000006113,800000,Reactive depression (situational)
+Reactive depression (situational) (disorder),b87414006,Depression diagnosis codes,a882401000006115,80000,Reactive (neurotic) depression
+Mild major depression (disorder),b87512008,Depression diagnosis codes,a1715771000006112,1000,Mild major depression

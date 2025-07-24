@@ -1,0 +1,21 @@
+med_code_id,term,snomed_ct_concept_id,observations
+1484890014,Referral to community alcohol team,390857005,80000
+2549646014,Referral to community drug and alcohol team,417096006,50000
+622961000000116,Referral to specialist alcohol treatment service,431260004,30000
+831091000006115,Referral to alcohol abuse team,831091000006104,7000
+831101000006114,Referral to alcohol counsellor,831101000006105,4000
+740641000000115,Referral to alcohol brief intervention service,376401000000103,4000
+2419601000000110,Specialist alcohol treatment service signposted,946101000000100,1000
+851931000006116,Referral to alcohol recovery project,851931000006100,800
+2716771000000111,Signposting to alcohol misuse service,1084171000000100,400
+1675391000006112,Referral by community alcohol team,1675391000006108,200
+2475831000000114,Alcohol harm reduction programme,720175009,100
+3122331000006110,Patient referral for alcoholism rehabilitation,38670004,60
+7613321000006119,Alcohol reduction programme,707166002,30
+13770661000006117,Referral to alcoholism rehabilitation service,38670004,20
+8259601000006117,Referral to alcohol misuse clinic,809401000000103,20
+12117371000006112,Referral to alcohol misuse service,1099141000000106,10
+2485391000000114,Alcohol twelve step programme,720178006,5
+12618991000006114,Signposting to drug and alcohol support service,1104571000000100,2
+7613331000006116,Alcohol reduction program,707166002,1
+1808611000006118,AREP - Alcohol rehabilitation education program,1808611000006102,1

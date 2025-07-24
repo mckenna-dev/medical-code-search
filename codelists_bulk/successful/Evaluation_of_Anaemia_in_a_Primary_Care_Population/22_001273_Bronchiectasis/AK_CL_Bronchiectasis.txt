@@ -1,0 +1,17 @@
+MedCodeId	Observations	Term	bronchiectasis
+a21163015	800000	Bronchiectasis (disorder)	bronchiectasis
+a301526011	30000	Bronchiectasis NOS	bronchiectasis
+a301524014	8000	Recurrent bronchiectasis	bronchiectasis
+a38677017	2000	Tuberculous bronchiectasis	bronchiectasis
+a301525010	2000	Post-infective bronchiectasis	bronchiectasis
+a755691000006114	1000	"Bronchiectasis, chronic sinusitis AND dextrocardia syndrome"	bronchiectasis
+a7307141000006111	1000	Acute exacerbation of bronchiectasis	bronchiectasis
+a128792019	600	Congenital bronchiectasis	bronchiectasis
+a1854831000006111	10	Cystic fibrosis manifested by bronchiectasis	bronchiectasis
+a3858081000006116	10	Cylindrical bronchiectasis (disorder)	bronchiectasis
+a5053671000006110	10	Acquired bronchiectasis (disorder)	bronchiectasis
+a2806691000006111	6	Traction bronchiectasis	bronchiectasis
+a5053691000006111	2	Obstructive bronchiectasis (disorder)	bronchiectasis
+a5053681000006113	2	Idiopathic bronchiectasis (disorder)	bronchiectasis
+a3327421000006113	1	Adult bronchiectasis	bronchiectasis
+a7715861000006113	1	Acute bronchitis co-occurrent with bronchiectasis	bronchiectasis

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4
+Columns: 1
+Column names: ['\tColumn0\tMedCodeId\tTerm\tCount']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                                                                          \tColumn0\tMedCodeId\tTerm\tCount
+0                                                   0\t24\ta306221000000119\tSerum alanine aminotransferase level\t47498056
+1                                                       1\t105\ta1484990010\tPlasma alanine aminotransferase level\t2884674
+2  2\t2987\ta478541000006119\tAlanine aminotransferase (ALT) (serum glutamic-pyruvic transaminase) (SGPT) level normal\t459

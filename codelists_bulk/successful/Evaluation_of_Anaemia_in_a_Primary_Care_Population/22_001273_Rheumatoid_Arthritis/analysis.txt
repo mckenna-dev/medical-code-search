@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 166
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\trheumatoid_arthritis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                   MedCodeId\tObservations\tTerm\trheumatoid_arthritis
+0                      a116082011\t2000000\tRheumatoid arthritis\trheumatoid_arthritis
+1  a2196791000000119\t700000\tRheumatoid arthritis annual review\trheumatoid_arthritis
+2            a257899015\t400000\tRheumatoid arthritis latex test\trheumatoid_arthritis

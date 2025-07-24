@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 117
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tDepression_diagnosis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                        \tMedCodeId\tObservations\tTerm\tDepression_diagnosis
+0  0\t488211000006112\t8000000.0\tMixed anxiety and depressive disorder\tDepression_diagnosis
+1                             1\t376691000006116\t5000000.0\tDepression\tDepression_diagnosis
+2                          2\t295535012\t5000000.0\tDepressive disorder\tDepression_diagnosis

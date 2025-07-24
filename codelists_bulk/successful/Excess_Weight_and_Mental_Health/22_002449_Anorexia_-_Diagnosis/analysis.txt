@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 13
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tanorexia_diagnosis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+           \tMedCodeId\tObservations\tTerm\tanorexia_diagnosis
+0        0\ta317233013\t50000\t[D]Anorexia\tanorexia_diagnosis
+1     1\ta317235018\t3000\t[D]Anorexia NOS\tanorexia_diagnosis
+2  2\ta317234019\t100000\t[D]Appetite loss\tanorexia_diagnosis

@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/Haemoglobin.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22_001836_CHD_Anaemia/main/Codelists/Haemoglobin.csv
+Codelist Name: Haemoglobin
+Project Title: CHD Anaemia
+ERAP Number: 22-001836
+Author: Cynthia Wright Drakesmith, Margaret Smith
+Coding System: Gold
+Year Created: 2024
+Downloaded: 2025-06-25 13:26:41
+File Size: 498 bytes

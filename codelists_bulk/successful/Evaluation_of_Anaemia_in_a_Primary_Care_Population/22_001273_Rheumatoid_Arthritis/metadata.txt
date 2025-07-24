@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/IE_CL_Rheumatoid_Arthritis.txt
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/main/Codelists/IE_CL_Rheumatoid_Arthritis.txt
+Codelist Name: Rheumatoid Arthritis
+Project Title: Evaluation of Anaemia in a Primary Care Population
+ERAP Number: 22_001273
+Author: Alvin Katumba
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:28:06
+File Size: 14562 bytes

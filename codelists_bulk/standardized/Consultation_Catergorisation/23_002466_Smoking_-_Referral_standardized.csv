@@ -1,0 +1,24 @@
+med_code_id,term,snomed_ct_concept_id,observations
+1489355012,Referral to smoking cessation advisor,395700008,1000000
+1780273014,Seen by smoking cessation advisor,401068004,1000000
+459722017,Referral to stop-smoking clinic,315232003,800000
+1773560017,Smoking cessation programme start date,401160008,300000
+1709641000000115,Referral for smoking cessation service offered,767641000000109,200000
+856371000006111,Smoking clinic,856371000006107,200000
+1750931000000118,Stop smoking service opportunity signposted,783011000000105,100000
+1715591000006117,Referral to National Health Service stop smoking service,505281000000106,100000
+2251911000000114,Referral to smoking cessation service,871661000000106,70000
+2717211000000112,Signposting to smoking cessation service,1084381000000100,20000
+1563081000000115,Practice based smoking cessation programme start date,712971000000108,20000
+1704561000006112,Referred for chronic obstructive pulmonary disease structured smoking assessment,375851000000108,1000
+1771191000006119,Attends smoking cessation clinic not at practice,201941000000100,800
+8061901000006111,Attends practice smoking cessation clinic,201931000000109,700
+1778181000006110,Group session: Stop smoking education programme,1778181000006106,500
+1777011000006118,Reason for referral: Smoking Cessation,1777011000006102,200
+1704551000006110,Referred for COPD structured smoking assessment,375851000000108,80
+14933931000006118,Community Pharmacy Smoking Cessation Service,1659131000000104,20
+1873511000006118,Care contact service: Smoking/substance cessation/interven prog.,1873511000006102,10
+13494621000006118,Referral for brief intervention for smoking cessation,770729006,7
+2741221000000116,Referral for brief intervention for smoking cessation,1094321000000100,3
+6649431000006116,Smoking cessation program start date,401160008,3
+8190531000006112,Referral to NHS (National Health Service) stop smoking service,505281000000106,2

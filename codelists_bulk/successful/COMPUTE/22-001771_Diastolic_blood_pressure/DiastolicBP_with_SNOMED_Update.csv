@@ -1,0 +1,10 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+619931000006119,144554947,Diastolic arterial pressure,1091811000000102
+1780183016,446421,Standing diastolic blood pressure,400975005
+2159156012,372058,Sitting diastolic blood pressure,407555005
+2159158013,65918,Lying diastolic blood pressure,407557002
+125231000006119,12902,Standing Diastolic Bp,125231000006103
+11924381000006114,10305,O/E - Diastolic BP reading,163031004
+1808021000006115,9229,Diastolic blood pressure - left arm,1808021000006104
+1808051000006112,8858,Diastolic blood pressure - right arm,1808051000006108
+5527211000006110,240,Diastolic blood pressure,271650006

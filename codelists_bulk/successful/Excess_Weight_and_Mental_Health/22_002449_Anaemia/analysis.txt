@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 282
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tanaemia\t\t\t\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                           \tMedCodeId\tObservations\tTerm\tanaemia\t\t\t\t
+0                              0\ta293877016\t1000\tIron deficiency anemia\tanaemia\t\t\t\t
+1                      1\ta293956015\t20\tAnemia due to protein deficiency\tanaemia\t\t\t\t
+2  2\ta294568012\t700\tVitamin B12 deficiency anemia due to dietary causes\tanaemia\t\t\t\t

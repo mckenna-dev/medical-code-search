@@ -1,0 +1,11 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+259232010,38383927,Serum high density lipoprotein cholesterol level,1005681000000107
+458313013,1399603,Plasma HDL (high density lipoprotein) cholesterol level,1010581000000101
+259243019,37125,Serum random HDL (high density lipoprotein) cholesterol level,1026461000000104
+259242012,23424,Serum fasting HDL (high density lipoprotein) cholesterol level,1026451000000102
+259564016,1707,Plasma random HDL (high density lipoprotein) cholesterol level,1028831000000106
+259567011,836,Plasma fasting HDL (high density lipoprotein) cholesterol level,1028841000000102
+855771000006118,812,HDL cholesterol level,855771000006102
+2949971000006113,193,High density lipoprotein cholesterol measurement,28036006
+2650141000006111,154,HDL,9422000
+4079571000006118,114,HDL cholesterol,102737005

@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Exposures/Min_BMI_20240220.txt
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22-002449-Excess_Body_Weight/main/Codelists/Exposures/Min_BMI_20240220.txt
+Codelist Name: Body Mass Index (BMI)
+Project Title: Excess Weight and Mental Health
+ERAP Number: 22_002449
+Author: Min Gao
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:24:52
+File Size: 3096 bytes

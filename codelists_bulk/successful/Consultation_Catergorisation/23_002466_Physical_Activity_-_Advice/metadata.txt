@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/23-002466/blob/main/Codelists/physical%20activity_advice.txt
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/23-002466/main/Codelists/physical%20activity_advice.txt
+Codelist Name: Physical Activity - Advice
+Project Title: Consultation Catergorisation
+ERAP Number: 23_002466
+Author: Laura Heath
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:29:27
+File Size: 2536 bytes

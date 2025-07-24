@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 7
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                  Term  SNOMED_CT_Concept_ID
+0   648521000006111      16879480        Erythrocyte sedimentation rate      1022511000000103
+1  8404311000006116        148211  ESR - erythrocyte sedimentation rate      1022511000000103
+2         257303016           359                            ESR raised             165468009

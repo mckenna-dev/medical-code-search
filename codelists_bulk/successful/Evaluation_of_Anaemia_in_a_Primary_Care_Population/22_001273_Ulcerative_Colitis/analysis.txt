@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 47
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tSnomedCTConceptId\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                            MedCodeId\tObservations\tTerm\tSnomedCTConceptId\t
+0                         a107644019\t900000\tUlcerative colitis\t64766004\tUC
+1                  a41137017\t100000\tInflammatory bowel disease\t24526004\tUC
+2  a85931000006112\t100000\tUlcerative colitis and/or proctitis\t295046003\tUC

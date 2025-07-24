@@ -1,0 +1,17 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2039,Cancer,Pancreas,a723401000006118,Malignant neoplasm of pancreas,L1:Cancer_L2:Pancreas,B17..00
+2040,Cancer,Pancreas,a725121000006118,Malignant neoplasm of head of pancreas,L1:Cancer_L2:Pancreas,B170.00
+2041,Cancer,Pancreas,a288717016,Malignant neoplasm of body of pancreas,L1:Cancer_L2:Pancreas,B171.00
+2042,Cancer,Pancreas,a288720012,Malignant neoplasm of tail of pancreas,L1:Cancer_L2:Pancreas,B172.00
+2043,Cancer,Pancreas,a288723014,Malignant neoplasm of pancreatic duct,L1:Cancer_L2:Pancreas,B173.00
+2044,Cancer,Pancreas,a288727010,Malignant neoplasm of Islets of Langerhans,L1:Cancer_L2:Pancreas,B174.00
+2045,Cancer,Pancreas,a288731016,Malignant neoplasm of other specified sites of pancreas,L1:Cancer_L2:Pancreas,B17y.00
+2046,Cancer,Pancreas,a288734012,Malignant neoplasm of ectopic pancreatic tissue,L1:Cancer_L2:Pancreas,B17y000
+2047,Cancer,Pancreas,a288735013,Malignant neoplasm of specified site of pancreas NOS,L1:Cancer_L2:Pancreas,B17yz00
+2048,Cancer,Pancreas,a288736014,Malignant neoplasm of pancreas NOS,L1:Cancer_L2:Pancreas,B17z.00
+2049,Cancer,Pancreas,a223131000000119,Endocrine tumour of pancreas,L1:Cancer_L2:Pancreas,B717011
+2050,Cancer,Pancreas,a1219538019,"Malignant neoplasm, overlapping lesion of pancreas",L1:Cancer_L2:Pancreas,B175.00
+2051,Cancer,Pancreas,a310361000006113,Malignant insulinoma,L1:Cancer_L2:Pancreas,BB5B300
+2052,Cancer,Pancreas,a309401000006112,Malignant glucagonoma,L1:Cancer_L2:Pancreas,BB5B500
+2053,Cancer,Pancreas,a312881000006110,[M]Mixed islet cell and exocrine adenocarcinoma,L1:Cancer_L2:Pancreas,BB5B600
+2054,Cancer,Pancreas,a304921000006113,Adenosquamous carcinoma,L1:Cancer_L2:Pancreas,BBB0.00

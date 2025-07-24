@@ -1,0 +1,112 @@
+med_code_id,term,snomed_ct_concept_id,observations
+2670511000006119,Benign hypertension (disorder),10725009,9
+13688011000006110,Multiple drug intolerant hypertension (disorder),1078301000112109,1
+3135013,Benign essential hypertension (disorder),1201005,300000
+299683014,Renovascular hypertension (disorder),123799005,1000
+4356081000006115,Renovascular hypertension (disorder),123799005,2
+299678018,Secondary benign hypertension (disorder),194785008,400
+299680012,Secondary benign hypertension (disorder),194785008,200
+299681011,Hypertension secondary to endocrine disorder (disorder),194788005,1000
+4775831000006118,Hypertension secondary to endocrine disorder (disorder),194788005,20
+299684015,Hypertension caused by drug (disorder),194791005,500
+504831000006116,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium (disorder)",198942000,4000
+887811000006117,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium (disorder)",198942000,50
+504791000006111,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered (disorder)",198944004,700
+504821000006119,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered (disorder)",198946002,70
+504781000006113,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication (disorder)",198947006,80
+176961000006112,"Renal hypertension complicating pregnancy, childbirth and the puerperium (disorder)",198949009,10
+176971000006117,"Renal hypertension complicating pregnancy, childbirth and the puerperium (disorder)",198949009,200
+176981000006119,"Renal hypertension complicating pregnancy, childbirth and the puerperium (disorder)",198949009,20
+176931000006115,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication (disorder)",198952001,6
+176941000006113,"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered (disorder)",198953006,10
+305818015,Pre-eclampsia or eclampsia with pre-existing hypertension (disorder),198997005,700
+212961000006118,Pre-eclampsia or eclampsia with pre-existing hypertension (disorder),198997005,400
+213011000006113,Pre-eclampsia or eclampsia with pre-existing hypertension (disorder),198997005,1000
+213001000006110,Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered (disorder),199002002,200
+212971000006113,Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication (disorder),199003007,100
+213111000006112,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium (disorder)",199005000,90
+213091000006115,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium (disorder)",199006004,6
+213081000006118,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium (disorder)",199008003,40
+53452019,Secondary hypertension (disorder),31992008,30000
+299682016,Secondary hypertension (disorder),31992008,900
+300870016,Secondary hypertension (disorder),31992008,100
+300871017,Secondary hypertension (disorder),31992008,300
+158241000006117,Secondary hypertension (disorder),31992008,1000
+64168014,"Hypertensive disorder, systemic arterial (disorder)",38341003,10000000
+299686018,"Hypertensive disorder, systemic arterial (disorder)",38341003,4000
+299687010,"Hypertensive disorder, systemic arterial (disorder)",38341003,800000
+300869017,"Hypertensive disorder, systemic arterial (disorder)",38341003,400
+523801000006119,"Hypertensive disorder, systemic arterial (disorder)",38341003,70000
+790121000006116,"Hypertensive disorder, systemic arterial (disorder)",38341003,800000
+3117411000006118,"Hypertensive disorder, systemic arterial (disorder)",38341003,80
+3117451000006117,"Hypertensive disorder, systemic arterial (disorder)",38341003,3
+3117461000006115,"Hypertensive disorder, systemic arterial (disorder)",38341003,6
+3117481000006113,"Hypertensive disorder, systemic arterial (disorder)",38341003,50
+3117491000006111,"Hypertensive disorder, systemic arterial (disorder)",38341003,1
+3117511000006117,"Hypertensive disorder, systemic arterial (disorder)",38341003,50
+3117521000006113,"Hypertensive disorder, systemic arterial (disorder)",38341003,1
+8016541000006110,Postpartum pre-existing essential hypertension (disorder),40511000119107,6
+7103581000006114,Systolic essential hypertension (disorder),429457004,20
+80224019,Diastolic hypertension (disorder),48146000,3000
+93494011,Systolic hypertension (disorder),56218007,60000
+99042012,Essential hypertension (disorder),59621000,30000000
+99047018,Essential hypertension (disorder),59621000,700
+395751018,Essential hypertension (disorder),59621000,900000
+3468491000006113,Essential hypertension (disorder),59621000,6
+3642801000006112,Malignant hypertension (disorder),70272006,2000
+7696031000006114,Supine hypertension (disorder),712832005,20
+3710191000006113,Secondary diastolic hypertension (disorder),74451002,1
+131046010,Malignant essential hypertension (disorder),78975002,20000
+884121000006111,Malignant essential hypertension (disorder),78975002,800
+3784371000006115,Malignant essential hypertension (disorder),78975002,5
+1846941000006119,Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),843821000000102,20000
+2193031000000112,Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),843821000000102,20000
+1846961000006115,Severe hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),843841000000109,1000
+2193021000000110,Severe hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),843841000000109,2000
+1846991000006111,Stage 2 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),846371000000103,30000
+8286581000006114,Stage 2 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),846371000000103,3
+305764016,Pre-existing hypertension in obstetric context (disorder),86041002,200
+19411000006110,Pre-existing hypertension in obstetric context (disorder),86041002,5
+19421000006119,Pre-existing hypertension in obstetric context (disorder),86041002,30
+19431000006116,Pre-existing hypertension in obstetric context (disorder),86041002,60
+19441000006114,Pre-existing hypertension in obstetric context (disorder),86041002,60
+19451000006111,Pre-existing hypertension in obstetric context (disorder),86041002,100
+39871000006113,Pre-existing hypertension in obstetric context (disorder),86041002,8
+504801000006112,Pre-existing hypertension in obstetric context (disorder),86041002,400
+504811000006110,Pre-existing hypertension in obstetric context (disorder),86041002,700
+3898601000006112,Pre-existing hypertension in obstetric context (disorder),86041002,20
+8298681000006113,Nocturnal hypertension (disorder),863191000000102,9
+1908711000006115,Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) without evidence of end organ damage (disorder),908631000000108,20000
+8041701000006119,Hypertensive emergency (disorder),132721000119104,20
+2737251000006112,Renal sclerosis with hypertension (disorder),14973001,5
+9897511000006110,Labile systemic arterial hypertension (disorder),16229371000119106,5
+262960017,Hypertension caused by oral contraceptive pill (disorder),169465000,1000
+299676019,Secondary malignant renovascular hypertension (disorder),194783001,40
+504761000006115,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication (disorder)",198945003,50
+176951000006110,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered (disorder)",198951008,20
+176921000006118,"Renal hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication (disorder)",198954000,5
+212991000006114,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered (disorder),198999008,2000
+212981000006111,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication (disorder),199000005,200
+213101000006114,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium (disorder)",199007008,1
+2951231000006117,Renal hypertension (disorder),28119000,4
+6349461000006119,Labile essential hypertension (disorder),371125006,20
+6592161000006112,Hypertension with albuminuria (disorder),397748008,5
+7278171000006116,Hypertensive urgency (disorder),443482000,40
+3250801000006112,Low-renin essential hypertension (disorder),46481004,3
+3437381000006110,Parenchymal renal hypertension (disorder),57684003,5
+3470001000006117,Sustained diastolic hypertension (disorder),59720008,1
+3529151000006119,Benign essential hypertension in obstetric context (disorder),63287004,1
+3595861000006116,Pre-eclampsia added to pre-existing hypertension (disorder),67359005,3
+3595901000006111,Pre-eclampsia added to pre-existing hypertension (disorder),67359005,1
+7609711000006110,Hypertensive crisis (disorder),706882009,50
+3671691000006112,Essential hypertension in obstetric context (disorder),72022006,1
+2478822013,Benign secondary renovascular hypertension (disorder),73410007,500
+3636695013,Diastolic hypertension co-occurrent with systolic hypertension (disorder),762463000,2
+3781691000006113,Essential hypertension complicating AND/OR reason for care during pregnancy (disorder),78808002,1
+2193971000000110,Hypertension resistant to drug therapy (disorder),845891000000103,2000
+8286321000006117,Hypertension resistant to drug therapy (disorder),845891000000103,3
+2639781000006114,Chronic hypertension in obstetric context (disorder),8762007,2
+299677011,Malignant secondary hypertension (disorder),89242004,200
+151161000006115,Malignant secondary hypertension (disorder),89242004,600
+3950631000006119,Malignant secondary hypertension (disorder),89242004,1
+1908721000006111,Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) with evidence of end organ damage (disorder),908651000000101,2000

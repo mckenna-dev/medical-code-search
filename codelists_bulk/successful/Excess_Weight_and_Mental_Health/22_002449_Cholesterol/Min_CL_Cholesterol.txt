@@ -1,0 +1,65 @@
+	MedCodeId	Observations	Term	cholesterol
+0	a150921000006118	70000000	Serum cholesterol level	cholesterol
+1	a2478443019	6000000	Serum total cholesterol level	cholesterol
+2	a1484985012	3000000	Plasma total cholesterol level	cholesterol
+3	a398852019	2000000	Pure hypercholesterolaemia	cholesterol
+4	a259229012	1000000	Serum cholesterol raised	cholesterol
+5	a259227014	300000	Serum cholesterol normal	cholesterol
+6	a667191000006111	300000	Fasting serum cholesterol	cholesterol
+7	a186091018	300000	Total cholesterol measurement	cholesterol
+8	a259252011	200000	Serum cholesterol NOS	cholesterol
+9	a475418015	200000	Hypercholesterolaemia	cholesterol
+10	a551861000006118	200000	Cholesterol screen	cholesterol
+11	a259228016	100000	Serum cholesterol borderline	cholesterol
+12	a293270011	100000	Pure hypercholesterolaemia NOS	cholesterol
+13	a259239018	100000	Serum cholesterol studies	cholesterol
+14	a405621000000116	50000	Serum fasting total cholesterol level	cholesterol
+15	a259230019	40000	Serum cholesterol very high	cholesterol
+16	a293267012	3000	Other specified pure hypercholesterolaemia	cholesterol
+17	a1488851015	3000	Pre-treatment serum cholesterol level	cholesterol
+18	a8290381000006115	1000	Cholesterol level	cholesterol
+19	a5579571000006112	1000	Cholesterol screening	cholesterol
+20	a3877651000006116	1000	Cholesterol	cholesterol
+21	a8292941000006114	900	Total cholesterol level	cholesterol
+22	a34521000033114	700	Cholesterol	cholesterol
+23	a1485303017	600	Fluid sample cholesterol level	cholesterol
+24	a12716491000006111	500	Serum cholesterol borderline	cholesterol
+25	a7261561000006118	500	Serum cholesterol borderline high	cholesterol
+26	a6279041000006119	100	Serum cholesterol level	cholesterol
+27	a2716211000006115	100	Hypercholesterolemia	cholesterol
+28	a2716221000006111	50	High cholesterol	cholesterol
+29	a6831601000006115	30	Serum total cholesterol level	cholesterol
+30	a6052931000006111	20	Fasting cholesterol level	cholesterol
+31	a6831591000006111	20	Serum total cholesterol measurement	cholesterol
+32	a7263101000006113	2	Serum cholesterol borderline low	cholesterol
+33	a3496511000006115	2	Hypocholesterolaemia	cholesterol
+34	a3496521000006111	2	Hypocholesterolemia	cholesterol
+35	a5500431000006111	2	Pure hypercholesterolemia	cholesterol
+36	a1879211000006117	80000	Test request : Serum cholesterol	cholesterol
+37	a144451000006114	40000000	Serum lipids level	cholesterol
+38	a293299018	2000000	Hyperlipidaemia	cholesterol
+39	a109931000006117	1000000	Test request : Lipids	cholesterol
+40	a405414014	900000	Fasting blood lipids	cholesterol
+41	a458319012	700000	Plasma lipids	cholesterol
+42	a854781000006119	700000	Fasting lipids	cholesterol
+43	a857541000006110	500000	No FH: hyperlipidaemia	cholesterol
+44	a398856016	500000	Mixed hyperlipidaemia	cholesterol
+45	a1842101000006119	400000	Test request : Fasting blood lipids	cholesterol
+46	a219121000000113	300000	Hyperlipidaemia screen	cholesterol
+47	a259212014	200000	Serum lipids high	cholesterol
+48	a259210018	200000	Serum lipids normal	cholesterol
+49	a397678012	200000	FH: Raised blood lipids	cholesterol
+50	a259223013	100000	Measurement of serum lipid level	cholesterol
+51	a219141000000118	100000	Lipid screen	cholesterol
+52	a259211019	70000	Serum lipids borderline raised	cholesterol
+53	a259215011	70000	Lipids abnormal	cholesterol
+54	a977461000006119	20000	Lipid level	cholesterol
+55	a458370015	9000	Hyperlipidaemia screening test	cholesterol
+56	a356800016	5000	Familial combined hyperlipidaemia	cholesterol
+57	a293262018	4000	"Hyperlipidaemia, group A"	cholesterol
+58	a293821018	2000	[X]Other hyperlipidaemia	cholesterol
+59	a3406761000006110	20	Hyperlipidemia	cholesterol
+60	a5500491000006110	5	Mixed hyperlipidemia	cholesterol
+61	a5116901000006115	500	Primary hypercholesterolaemia	cholesterol
+62	a5117071000006113	20	Secondary hypercholesterolaemia	cholesterol
+63	a5116911000006117	1	Primary hypercholesterolemia	cholesterol

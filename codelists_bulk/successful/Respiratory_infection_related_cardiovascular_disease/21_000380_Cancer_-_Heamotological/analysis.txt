@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 260
+Columns: 1
+Column names: ['readcode\treadterm\tmedcode']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                      readcode\treadterm\tmedcode
+0    B601200\t"Lymphosarcoma of intrathoracic lymph nodes"\t62380
+1  B601300\t"Lymphosarcoma of intra-abdominal lymph nodes"\t64670
+2                      B601700\t"Lymphosarcoma of spleen"\t103245

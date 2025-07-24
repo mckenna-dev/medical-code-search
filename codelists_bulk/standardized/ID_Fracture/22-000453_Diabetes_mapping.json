@@ -1,0 +1,46 @@
+{
+  "original_file": "codelists_bulk\\successful\\ID_Fracture\\22-000453_Diabetes\\standardized_diabetes.csv",
+  "original_columns": [
+    "MedCodeId",
+    "Term",
+    "Observations",
+    "SNOMED_CT_Concept_ID",
+    "READcode",
+    "Unnamed: 3",
+    "Unnamed: 4",
+    "Unnamed: 5",
+    "Unnamed: 6",
+    "Unnamed: 7",
+    "Unnamed: 8",
+    "Unnamed: 9",
+    "Unnamed: 10"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "snomed_ct_concept_id": "SNOMED_CT_Concept_ID",
+    "observations": "Observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "snomed_ct_concept_id": {
+      "column": "SNOMED_CT_Concept_ID",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 297,
+  "rows_standardized": 297,
+  "project": "ID_Fracture",
+  "codelist": "22-000453_Diabetes"
+}

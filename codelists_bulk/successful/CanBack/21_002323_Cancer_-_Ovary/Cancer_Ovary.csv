@@ -1,0 +1,5 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2035,Cancer,Ovary,a407801000000116,[M]Borderline mucinous cystadenoma of the ovary,L1:Cancer_L2:Ovary,BB80200
+2036,Cancer,Ovary,a306091000006115,"[M]Brenner tumour, malignant",L1:Cancer_L2:Ovary,BBM0100
+2037,Cancer,Ovary,a317041000006111,"[M]Struma ovarii, malignant",L1:Cancer_L2:Ovary,BBQA100
+2038,Cancer,Ovary,a451077018,Anaemia in ovarian carcinoma,L1:Cancer_L2:Ovary,D212000

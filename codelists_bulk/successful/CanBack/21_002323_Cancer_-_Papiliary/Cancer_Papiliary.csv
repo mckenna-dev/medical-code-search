@@ -1,0 +1,3 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2055,Cancer,Papiliary,a291431013,Papillary adenocarcinoma,L1:Cancer_L2:Papiliary,BB5T100
+2056,Cancer,Papiliary,a314791000006110,Papillary and follicular adenocarcinoma,L1:Cancer_L2:Papiliary,BB5f600

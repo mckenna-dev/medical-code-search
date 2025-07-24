@@ -1,0 +1,99 @@
+med_code_id,term,snomed_ct_concept_id,observations
+311496011,Diffuse interstitial rheumatoid disease of lung (disorder),10713006,2000
+3528264013,Rheumatoid arthritis of left hip (disorder),1073721000119103,5
+13687691000006111,Rheumatoid arthritis of left wrist (disorder),1073751000119106,1
+3528262012,Rheumatoid arthritis of right hand (disorder),1073791000119101,1
+3528266010,Rheumatoid arthritis of right hip (disorder),1073801000119100,5
+8447281000006115,Rheumatoid arthritis of right knee (disorder),1073811000119102,4
+3527061011,Deformity of left foot co-occurrent and due to rheumatoid arthritis (disorder),1073891000119106,1
+13709571000006112,Rheumatoid arthritis of bilateral hands (disorder),15687321000119109,4
+14177941000006118,Seronegative rheumatoid arthritis of bilateral wrists (disorder),15691321000119101,2
+300221014,Rheumatoid myocarditis (disorder),195136004,20
+309791014,Rheumatoid arthritis of acromioclavicular joint (disorder),201768005,80
+309792019,Rheumatoid arthritis of elbow (disorder),201769002,400
+309794018,Rheumatoid arthritis of wrist (disorder),201771002,2000
+989291000006112,Rheumatoid arthritis of wrist (disorder),201771002,4
+162111000006117,Rheumatoid arthritis of metacarpophalangeal joint (disorder),201772009,800
+989301000006113,Rheumatoid arthritis of metacarpophalangeal joint (disorder),201772009,2
+309798015,Rheumatoid arthritis of hip (disorder),201775006,300
+989311000006111,Rheumatoid arthritis of hip (disorder),201775006,1
+309800010,Rheumatoid arthritis of knee (disorder),201777003,2000
+989321000006115,Rheumatoid arthritis of knee (disorder),201777003,1
+162101000006115,Rheumatoid arthritis of lesser metatarsophalangeal joint (disorder),201784006,40
+162081000006111,Rheumatoid arthritis of interphalangeal joint of toe (disorder),201785007,40
+16911000006114,Rheumatoid arthritis with organ / system involvement (disorder),239793008,200
+162231000006117,Rheumatoid arthritis with organ / system involvement (disorder),239793008,1000
+424981000006114,Rheumatoid arthritis with organ / system involvement (disorder),239793008,30
+426510015,Rheumatoid arthritis of multiple joints (disorder),287006005,30000
+5721431000006114,Rheumatoid arthritis of multiple joints (disorder),287006005,1000
+5721451000006119,Rheumatoid arthritis of hand joint (disorder),287007001,10
+48361011,Rheumatoid arthritis with carditis (disorder),28880005,90
+451461014,Seropositive erosive rheumatoid arthritis (disorder),308143008,10000
+485614018,Subcutaneous rheumatoid nodule (disorder),33719002,3000
+162341000006115,Subcutaneous rheumatoid nodule (disorder),33719002,4000
+3042571000006112,Subcutaneous rheumatoid nodule (disorder),33719002,20
+6631621000006116,Rheumatoid arthritis with arteritis (disorder),399923009,4
+95067016,Felty's syndrome (disorder),57160007,2000
+3428911000006119,Felty's syndrome (disorder),57160007,1
+3514955016,Rheumatoid arthritis with erosion of joint (disorder),735599007,4
+13605001000006117,Rheumatoid arthritis of joint of spine (disorder),781206002,1
+3901751000006115,Uveitis-rheumatoid arthritis syndrome (disorder),86219005,2
+13687681000006113,Rheumatoid arthritis of left foot (disorder),1073701000119107,1
+8447181000006111,Rheumatoid arthritis of left knee (disorder),1073731000119100,7
+12114051000006110,Rheumatoid arthritis of left shoulder (disorder),1073741000119109,1
+13687701000006111,Rheumatoid arthritis of right foot (disorder),1073781000119104,1
+12114061000006112,Rheumatoid arthritis of right shoulder (disorder),1073821000119109,3
+13687711000006114,Rheumatoid arthritis of right wrist (disorder),1073831000119107,1
+3527737010,Deformity of right hand co-occurrent and due to rheumatoid arthritis (disorder),1073861000119104,1
+3527712017,Deformity of left hand co-occurrent and due to rheumatoid arthritis (disorder),1073871000119105,1
+3527731011,Deformity of right foot co-occurrent and due to rheumatoid arthritis (disorder),1073881000119108,2
+9357441000006116,Seropositive rheumatoid arthritis of multiple joints (disorder),11055151000119108,4
+13709541000006116,Rheumatoid arthritis of bilateral knees (disorder),15687201000119107,8
+14011041000006114,Deformity of bilateral hands due to rheumatoid arthritis (disorder),15744441000119101,5
+309787016,Rheumatoid arthritis of cervical spine (disorder),201764007,400
+309789018,Rheumatoid arthritis of shoulder (disorder),201766009,600
+309790010,Rheumatoid arthritis of sternoclavicular joint (disorder),201767000,20
+162051000006115,Rheumatoid arthritis of distal radioulnar joint (disorder),201770001,30
+4809101000006114,Rheumatoid arthritis of distal radioulnar joint (disorder),201770001,4
+162131000006111,Rheumatoid arthritis of proximal interphalangeal joint of finger (disorder),201773004,400
+162041000006117,Rheumatoid arthritis of distal interphalangeal joint of finger (disorder),201774005,80
+162141000006118,Rheumatoid arthritis of sacroiliac joint (disorder),201776007,40
+162191000006110,Rheumatoid arthritis of tibiofibular joint (disorder),201778008,6
+309802019,Rheumatoid arthritis of ankle (disorder),201779000,300
+989331000006117,Rheumatoid arthritis of ankle (disorder),201779000,1
+309803012,Rheumatoid arthritis of subtalar joint (disorder),201780002,80
+309804018,Rheumatoid arthritis of talonavicular joint (disorder),201781003,90
+168761000006118,Rheumatoid arthritis of first metatarsophalangeal joint (disorder),201783000,100
+4809221000006114,Rheumatoid arthritis of first metatarsophalangeal joint (disorder),201783000,20
+309816012,Flare of rheumatoid arthritis (disorder),201791009,10000
+312518013,Seropositive rheumatoid arthritis (disorder),239791005,2000
+312534011,Seropositive rheumatoid arthritis (disorder),239791005,3000
+149911000006117,Seropositive rheumatoid arthritis (disorder),239791005,100000
+359292012,Seronegative rheumatoid arthritis (disorder),239792003,100000
+5721481000006110,Rheumatoid arthritis of ankle and/or foot (disorder),287008006,5
+13677531000006119,Seronegative rheumatoid arthritis of multiple joints (disorder),319081000119109,30
+1786505011,Rheumatoid arthritis with pneumoconiosis (disorder),398640008,20
+6608781000006113,Rheumatoid arthritis with pneumoconiosis (disorder),398640008,1
+1778239014,Rheumatoid lung disease (disorder),398726004,800
+1786545019,Rheumatoid lung disease (disorder),398726004,400
+162301000006117,Rheumatoid lung disease (disorder),398726004,900
+1779323014,Rheumatoid arthritis with vasculitis (disorder),400054000,2000
+6802591000006112,Juvenile seropositive polyarthritis (disorder),410796000,1
+7078501000006113,Rheumatoid arthritis of temporomandibular joint (disorder),427770001,5
+309805017,Rheumatoid arthritis of foot (disorder),429192004,40
+7099641000006113,Rheumatoid arthritis of foot (disorder),429192004,3
+116082011,Rheumatoid arthritis (disorder),69896004,2000000
+312520011,Rheumatoid arthritis (disorder),69896004,300
+168751000006115,Rheumatoid arthritis (disorder),69896004,30000
+889731000006111,Rheumatoid arthritis (disorder),69896004,10000
+889741000006118,Rheumatoid arthritis (disorder),69896004,40
+889751000006116,Rheumatoid arthritis (disorder),69896004,300
+889761000006119,Rheumatoid arthritis (disorder),69896004,500
+889771000006114,Rheumatoid arthritis (disorder),69896004,90
+889781000006112,Rheumatoid arthritis (disorder),69896004,900
+889791000006110,Rheumatoid arthritis (disorder),69896004,800
+889801000006111,Rheumatoid arthritis (disorder),69896004,40
+889811000006114,Rheumatoid arthritis (disorder),69896004,80
+889821000006118,Rheumatoid arthritis (disorder),69896004,7000
+3636541000006112,Rheumatoid arthritis (disorder),69896004,2
+3636551000006114,Rheumatoid arthritis (disorder),69896004,3

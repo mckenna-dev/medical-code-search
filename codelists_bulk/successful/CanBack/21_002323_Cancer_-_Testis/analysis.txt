@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 14
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                      Term
+0   2276          Cancer          Testis  a721171000006119              Malignant neoplasm of testis
+1   2277          Cancer          Testis        a289223017  Malignant neoplasm of undescended testis
+2   2278          Cancer          Testis        a457318018            Seminoma of undescended testis

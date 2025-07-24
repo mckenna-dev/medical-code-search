@@ -1,0 +1,69 @@
+med_code_id,term,snomed_ct_concept_id,observations
+150085018,Gout,,3000000
+293392012,Gouty arthropathy,,100000
+293412014,Gout NOS,,100000
+251601017,H/O: gout,,50000
+80709010,Gouty arthritis,,30000
+264664010,Gout monitoring,,20000
+359360013,Pseudogout,,20000
+293410018,Gouty tophi of hand,,10000
+309680010,Gouty arthritis of the ankle and foot,,6000
+293407013,Gouty tophus,,6000
+2370851000000119,Acute exacerbation of gout,,5000
+850991000006110,Gouty tophi + gout NOS,,4000
+805841000006112,Gout screening,,4000
+481958014,Idiopathic gout,,3000
+309683012,Gouty arthritis NOS,,3000
+309673013,Articular gout,,2000
+293394013,Gouty nephropathy,,2000
+2695828012,Gouty arthritis of toe,,2000
+2610481000000112,Gouty tophi of toe,,1000
+461275019,[V]Screening for gout,,1000
+309677014,Gouty arthritis of the hand,,1000
+359373012,Drug-induced gout,,1000
+264675014,Gout monitoring NOS,,1000
+309681014,Gouty arthritis of multiple sites,,900
+309679012,Gouty arthritis of the lower leg,,800
+25080011,Gouty tophus of pinna,,600
+264665011,Initial gout assessment,,600
+4760101000006117,Gouty tophus of hand,,500
+264667015,Joints gout affected,,400
+345138018,Aicardi Goutieres syndrome,,400
+359372019,Gout due to impairment of renal function,,400
+1010531000006111,Adverse reaction to Drugs Used In Rheumatic Diseases And Gout,,300
+255612014,O/E - auricle of ear - tophi,,300
+2892591000006114,Primary gout,,200
+293405017,Other specified gouty manifestation,,200
+881751000006117,Gout Uncomplicated,,200
+309682019,Gouty arthritis of other specified site,,200
+1760511000006119,Stenotrophomonas maltophilia,,100
+309676017,Gouty arthritis of the forearm,,100
+293411019,Other specified gouty manifestation NOS,,100
+312525018,Secondary gout,,90
+72069017,Gouty iritis,,50
+309675018,Gouty arthritis of the upper arm,,50
+4808821000006116,Gouty arthritis of the ankle and/or foot,,40
+11932301000006111,Health education - gout,,40
+45604013,Gouty tophi of heart,,30
+309674019,Gouty arthritis of the shoulder region,,30
+3591671000006114,Podagra,,20
+5140061000006112,Gout secondary to drug,,20
+16455010,Gouty neuritis,,20
+359376016,Lead-induced gout,,20
+293396010,Gouty nephropathy unspecified,,20
+293400010,Gouty nephropathy NOS,,20
+309678016,Gouty arthritis of the pelvic region and thigh,,20
+5140041000006113,Gout secondary to renal impairment,,9
+12460691000006118,[V]Screening for gout,,9
+388241000006119,[X]Gouty arthrpathy due/enzym defects+oth inherit disordr CE,,8
+806061000006113,Gouty tophi of heart,,6
+2560761000006112,Gouty tophus,,6
+3701121000006115,Chronic tophaceous gout,,5
+3256331000006111,Familial juvenile gout,,5
+5650611000006118,Gouty tophus of olecranon bursa,,4
+5140161000006111,Gouty bursitis,,2
+2892601000006118,Acute gouty arthritis,,2
+4760071000006110,Chronic gouty nephropathy,,1
+5140081000006119,Gout caused by drug,,1
+5192401000006111,Gout monitoring status,,1
+5650571000006111,Gouty tophus of bursa,,1

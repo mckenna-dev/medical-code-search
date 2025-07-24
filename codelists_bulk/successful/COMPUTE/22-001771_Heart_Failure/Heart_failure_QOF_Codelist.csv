@@ -1,0 +1,49 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+Chronic right-sided heart failure (disorder),b10335000,Heart failure codes,a2664351000006113,100,Chronic right-sided heart failure
+Acute congestive heart failure (disorder),b10633002,Heart failure codes,a18472010,7000,Acute congestive heart failure
+Chronic left-sided heart failure (disorder),b111283005,Heart failure codes,a4193361000006119,8,Chronic left-sided heart failure
+Right heart failure (disorder),b128404006,Heart failure codes,a206703015,20000,Right heart failure
+Chronic combined systolic and diastolic heart failure (disorder),b153941000119100,Heart failure codes,a8048061000006111,2,Chronic combined systolic and diastolic heart failure
+Decompensated cardiac failure (disorder),b195111005,Heart failure codes,a300179017,20000,Decompensated cardiac failure
+Acute left ventricular failure (disorder),b195114002,Heart failure codes,a300190010,10000,Acute left ventricular failure
+New York Heart Association Classification - Class III (finding),b420913000,Heart failure codes,a2616472016,40000,New York Heart Association Classification - Class III
+New York Heart Association Classification - Class II (finding),b421704003,Heart failure codes,a2616471011,80000,New York Heart Association Classification - Class II
+Congestive heart failure (disorder),b42343007,Heart failure codes,a70653017,700000,Congestive heart failure
+Congestive heart failure (disorder),b42343007,Heart failure codes,a493287011,500000,Congestive cardiac failure
+Congestive heart failure (disorder),b42343007,Heart failure codes,a3182531000006110,2,Congestive heart disease
+Congestive heart failure (disorder),b42343007,Heart failure codes,a3182541000006117,900,Congestive cardiac failure
+Congestive heart failure (disorder),b42343007,Heart failure codes,a3182551000006115,800,CCF - Congestive cardiac failure
+Congestive heart failure (disorder),b42343007,Heart failure codes,a3182561000006118,1,CHF - Congestive heart failure
+Congestive heart failure due to valvular disease (disorder),b426611007,Heart failure codes,a2675255018,900,Congestive heart failure due to valvular disease
+Rheumatic left ventricular failure (disorder),b43736008,Heart failure codes,a72934016,300,Rheumatic left ventricular failure
+Chronic systolic heart failure (disorder),b441481004,Heart failure codes,a7250571000006113,20,Chronic systolic heart failure
+Chronic diastolic heart failure (disorder),b441530006,Heart failure codes,a7251291000006119,100,Chronic diastolic heart failure
+Chronic left-sided congestive heart failure (disorder),b5375005,Heart failure codes,a2585431000006117,3,Chronic left-sided congestive heart failure
+Chronic right-sided congestive heart failure (disorder),b66989003,Heart failure codes,a3589241000006116,30,Chronic right-sided congestive heart failure
+Left heart failure (disorder),b85232009,Heart failure codes,a141306010,700000,Left ventricular failure
+Left heart failure (disorder),b85232009,Heart failure codes,a3886041000006118,10000,Left heart failure
+Left heart failure (disorder),b85232009,Heart failure codes,a3886071000006114,10,LVF - Left ventricular failure
+Biventricular congestive heart failure (disorder),b92506005,Heart failure codes,a510016018,20000,Biventricular congestive heart failure
+Biventricular congestive heart failure (disorder),b92506005,Heart failure codes,a4005301000006110,4,Biventricular failure
+Acute on chronic right-sided congestive heart failure (disorder),b16838951000119100,Heart failure codes,a14015051000006114,10,Acute on chronic right-sided congestive heart failure
+Compensated cardiac failure (disorder),b195112003,Heart failure codes,a300180019,1000,Compensated cardiac failure
+Heart failure as a complication of care (disorder),b233924009,Heart failure codes,a350484012,80,Heart failure as a complication of care
+Right ventricular failure (disorder),b367363000,Heart failure codes,a490972013,3000,Right ventricular failure
+Right ventricular failure (disorder),b367363000,Heart failure codes,a1816101000006113,3000,Right ventricular failure
+New York Heart Association Classification - Class I (finding),b420300004,Heart failure codes,a2616470012,40000,New York Heart Association Classification - Class I
+New York Heart Association Classification - Class IV (finding),b422293003,Heart failure codes,a2616473014,3000,New York Heart Association Classification - Class IV
+Heart failure with normal ejection fraction (disorder),b446221000,Heart failure codes,a1647701000000118,10000,Heart failure with normal ejection fraction
+Heart failure with normal ejection fraction (disorder),b446221000,Heart failure codes,a1661371000000112,500,HFNEF - heart failure with normal ejection fraction
+Heart failure with normal ejection fraction (disorder),b446221000,Heart failure codes,a2227501000000110,8000,Heart failure with preserved ejection fraction
+Heart failure with normal ejection fraction (disorder),b446221000,Heart failure codes,a7321121000006119,600,Heart failure with preserved ejection fraction
+Chronic heart failure (disorder),b48447003,Heart failure codes,a3283871000006117,80,Chronic heart failure
+Acute heart failure (disorder),b56675007,Heart failure codes,a94251011,4000,Acute heart failure
+Heart failure with reduced ejection fraction (disorder),b703272007,Heart failure codes,a7573171000006116,1000,Heart failure with reduced ejection fraction
+Heart failure with mid range ejection fraction (disorder),b788950000,Heart failure codes,a13910671000006110,100,Heart failure with mid range ejection fraction
+Heart failure (disorder),b84114007,Heart failure codes,a139475013,800000,Heart failure
+Heart failure (disorder),b84114007,Heart failure codes,a139481017,100,Weak heart
+Heart failure (disorder),b84114007,Heart failure codes,a139482012,30000,Cardiac failure
+Heart failure (disorder),b84114007,Heart failure codes,a395772015,40000,Heart failure NOS
+Heart failure (disorder),b84114007,Heart failure codes,a223981000000118,2000,Cardiac failure NOS
+Heart failure (disorder),b84114007,Heart failure codes,a3868341000006118,1,HF - Heart failure
+Chronic congestive heart failure (disorder),b88805009,Heart failure codes,a147247018,20000,Chronic congestive heart failure

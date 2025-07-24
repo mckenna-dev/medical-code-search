@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 17
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tHeight category']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+        \tMedCodeId\tObservations\tTerm\tHeight category
+0    0\t253669010\t90000000\tStanding height\tcontinuous
+1     1\t253676017\t100000\tO/E - height NOS\tcontinuous
+2  2\t11905141000006112\t40000\tO/E - height\tcontinuous

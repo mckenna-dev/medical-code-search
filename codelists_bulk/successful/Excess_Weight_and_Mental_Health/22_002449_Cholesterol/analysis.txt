@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 63
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tcholesterol']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                           \tMedCodeId\tObservations\tTerm\tcholesterol
+0   0\ta150921000006118\t70000000\tSerum cholesterol level\tcholesterol
+1   1\ta2478443019\t6000000\tSerum total cholesterol level\tcholesterol
+2  2\ta1484985012\t3000000\tPlasma total cholesterol level\tcholesterol

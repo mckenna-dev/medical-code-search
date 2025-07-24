@@ -1,0 +1,7 @@
+med_code_id,term,snomed_ct_concept_id,observations
+458249011,Serum cholesterol/high density lipoprotein ratio,1015681000000109,24621579
+259250015,Total cholesterol:HDL (high density lipoprotein) ratio,1028551000000102,10798929
+458252015,Plasma cholesterol/HDL (high density lipoprotein) ratio,1015691000000106,430995
+457911015,Cholesterol/HDL ratio,313811003,222318
+6036221000006115,Cholesterol/HDL ratio measurement,313811003,593
+4600431000006110,Total cholesterol:HDL ratio,166842003,74

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 10
+Columns: 12
+Column names: ['MedCodeId', 'MedCodeId.1', 'Term', 'Observations', 'SNOMED_CT_Concept_ID', 'os_term', 'originalreadcode', 'cleansedreadcode', 'snomedctdescriptionid', 'release', 'emiscodecategoryid', 'simpleterm']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId       MedCodeId.1              Term  Observations  SNOMED_CT_Concept_ID
+0   27113001         253688015  O/E - weight NOS           NaN              27113001
+1   27113001         253677014       Body weight           NaN              27113001
+2   27113001  2934311000006118            Weight           NaN              27113001

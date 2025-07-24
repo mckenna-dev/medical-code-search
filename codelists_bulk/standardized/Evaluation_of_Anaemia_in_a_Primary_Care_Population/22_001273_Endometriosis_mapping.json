@@ -1,0 +1,32 @@
+{
+  "original_file": "codelists_bulk\\successful\\Evaluation_of_Anaemia_in_a_Primary_Care_Population\\22_001273_Endometriosis\\IE_CL_Endometriosis.txt",
+  "original_columns": [
+    "MedCodeId",
+    "Observations",
+    "Term",
+    "endometriosis"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "observations": "Observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 74,
+  "rows_standardized": 74,
+  "project": "Evaluation_of_Anaemia_in_a_Primary_Care_Population",
+  "codelist": "22_001273_Endometriosis"
+}

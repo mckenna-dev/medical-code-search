@@ -1,0 +1,14 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+779,Cancer,Cervix,a155218017,Malignant neoplasm of endocervix,L1:Cancer_L2:Cervix,B410.00
+780,Cancer,Cervix,a289171010,Malignant neoplasm of endocervical canal,L1:Cancer_L2:Cervix,B410000
+781,Cancer,Cervix,a289172015,Malignant neoplasm of endocervical gland,L1:Cancer_L2:Cervix,B410100
+782,Cancer,Cervix,a289173013,Malignant neoplasm of endocervix NOS,L1:Cancer_L2:Cervix,B410z00
+783,Cancer,Cervix,a155231010,Malignant neoplasm of exocervix,L1:Cancer_L2:Cervix,B411.00
+784,Cancer,Cervix,a289175018,"Malignant neoplasm, overlapping lesion of cervix uteri",L1:Cancer_L2:Cervix,B412.00
+785,Cancer,Cervix,a289178016,Malignant neoplasm of other site of cervix,L1:Cancer_L2:Cervix,B41y.00
+786,Cancer,Cervix,a289179012,Malignant neoplasm of cervical stump,L1:Cancer_L2:Cervix,B41y000
+787,Cancer,Cervix,a289180010,Malignant neoplasm of squamocolumnar junction of cervix,L1:Cancer_L2:Cervix,B41y100
+788,Cancer,Cervix,a289181014,Malignant neoplasm of other site of cervix NOS,L1:Cancer_L2:Cervix,B41yz00
+789,Cancer,Cervix,a289182019,Malignant neoplasm of cervix uteri NOS,L1:Cancer_L2:Cervix,B41z.00
+790,Cancer,Cervix,a1884191000006113,Cervical smear - high grade dyskaryosis with features of invasive squamous carcinoma,L1:Cancer_L2:Cervix,4K2M.00
+791,Cancer,Cervix,a155441010,Malignant neoplasm of parametrium,L1:Cancer_L2:Cervix,B443.00

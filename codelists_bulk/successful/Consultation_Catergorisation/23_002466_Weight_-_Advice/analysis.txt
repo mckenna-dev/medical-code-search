@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 54
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SnomedCTConceptId']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+           MedCodeId  Observations                                  Term  SnomedCTConceptId
+0   a818011000006113       9000000                 Diet health education           11816003
+1  a1131791000000118       1000000       Lifestyle advice regarding diet          443288003
+2  a1662431000000112        900000  Advice given about weight management          698471002

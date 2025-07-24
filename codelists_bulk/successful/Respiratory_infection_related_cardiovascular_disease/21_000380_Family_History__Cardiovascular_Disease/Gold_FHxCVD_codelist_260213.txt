@@ -1,0 +1,7 @@
+medcode	readcode	clinical_events	immunisation_events	referral_events	test_events	read_term	database_build
+3198	"12C2.00"	463073	0	476	2	"FH: Ischaemic heart dis. <60"	"February 2009"
+12806	"12C2.12"	27813	0	36	0	"FH: MI- Myocardial infarct <60"	"February 2009"
+18661	"12CP.00"	8095	0	2	0	"FH: Myocardial infarct in 1st degree male relative <55 years"	"February 2009"
+96212	"12CV.00"	10471	0	0	0	"FH: Cardiovascular disease 1st degree male relative < 55 yrs"	"April 2009"
+26653	"12CM.00"	3865	0	0	0	"FH: Angina in 1st degree male relative <55 years"	"February 2009"
+12709	"12C2.13"	17703	0	142	0	"FH: Angina < 60yrs"	"February 2009"

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 181
+Columns: 9
+Column names: ['MedCodeId', 'Term', 'Observations', 'SNOMED_CT_Concept_ID', 'OriginalReadCode', 'CleansedReadCode', 'SnomedCTDescriptionId', 'Unnamed: 7', 'Search terms: *myocardial infarction* *heart attack* *angina*']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId                          Term  Observations  SNOMED_CT_Concept_ID OriginalReadCode
+0    4031011     Old myocardial infarction         60000               1755008              G32
+1    4032016  Healed myocardial infarction           700               1755008            G32-1
+2   94884017   Acute myocardial infarction       1000000              57054005              G30

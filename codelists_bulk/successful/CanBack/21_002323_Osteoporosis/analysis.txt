@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 121
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2          MedCodeID                                           Term
+0   6358    Osteoporosis    Osteoporosis         a107806013                                   Osteoporosis
+1   6359    Osteoporosis    Osteoporosis  a1122231000000117  Osteoporosis enhanced services administration
+2   6360    Osteoporosis    Osteoporosis  a1137811000000114                        History of osteoporosis

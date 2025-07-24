@@ -1,0 +1,6 @@
+MedCodeId,Observations,Term,SnomedCTConceptId
+a460928017,1000000,Palliative care,103735009
+a2534178018,400000,On gold standards palliative care framework,414937009
+a294031000000111,300000,Palliative care plan review,196121000000104
+a1175491000000110,100000,On end of life care register,526631000000108
+a1488778012,100000,Palliative treatment,103735009

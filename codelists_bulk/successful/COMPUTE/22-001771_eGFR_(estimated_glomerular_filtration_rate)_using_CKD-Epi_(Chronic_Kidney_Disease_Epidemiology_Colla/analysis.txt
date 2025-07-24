@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                                                                                                                            Term  SNOMED_CT_Concept_ID
+0  1942831000006114      12555687  eGFR (estimated glomerular filtration rate) using creatinine Chronic Kidney Disease Epidemiology Collaboration equation per 1.73 square metres      1011481000000105
+1  1866321000006117         35450                                            Estimated glomerular filtration rate using Chronic Kidney Disease Epidemiology Collaboration formula       857971000000104
+2  1942821000006111          3998  eGFR (estimated glomerular filtration rate) using cystatin C Chronic Kidney Disease Epidemiology Collaboration equation per 1.73 square metres      1011491000000107

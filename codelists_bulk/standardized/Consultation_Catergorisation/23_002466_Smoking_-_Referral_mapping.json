@@ -1,0 +1,37 @@
+{
+  "original_file": "codelists_bulk\\successful\\Consultation_Catergorisation\\23_002466_Smoking_-_Referral\\smoking_referral.txt",
+  "original_columns": [
+    "MedCodeId",
+    "Observations",
+    "Term",
+    "SnomedCTConceptId"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "snomed_ct_concept_id": "SnomedCTConceptId",
+    "observations": "Observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "snomed_ct_concept_id": {
+      "column": "SnomedCTConceptId",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 23,
+  "rows_standardized": 23,
+  "project": "Consultation_Catergorisation",
+  "codelist": "23_002466_Smoking_-_Referral"
+}

@@ -1,0 +1,8 @@
+medcode	readcode	clinical_events	immunisation_events	referral_events	test_events	read_term	database_build
+96212	"12CV.00"	10471	0	0	0	"FH: Cardiovascular disease 1st degree male relative < 55 yrs"	"April 2009"
+26637	"12CC.00"	1444	0	1	0	"FH myocardial infarction female first degree age known"	"February 2009"
+18661	"12CP.00"	8095	0	2	0	"FH: Myocardial infarct in 1st degree male relative <55 years"	"February 2009"
+26636	"12CE.00"	1354	0	1	0	"FH angina male first degree age known"	"February 2009"
+26653	"12CM.00"	3865	0	0	0	"FH: Angina in 1st degree male relative <55 years"	"February 2009"
+13269	"12CA.00"	4847	0	2	0	"FH myocardial infarction male first degree age known"	"February 2009"
+19128	"12CG.00"	1553	0	0	0	"FH angina female first degree age known"	"February 2009"

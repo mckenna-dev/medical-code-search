@@ -1,0 +1,5 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	snomedctdescriptionid	release	term2	var
+257434016	"Platelet count normal"	"42P1"	"42P1.00"	165555003	257434016		"Platelet count normal"	1
+257443013	"Platelet count NOS"	"42PZ"	"42PZ.00"	1022651000000100	218621000006117		"Platelet count NOS"	1
+102928018	"Platelet count"	"42P"	"42P..00"	1022651000000100	2553501000000111		"Platelet count"	1
+257441010	"Platelet count abnormal"	"42P4"	"42P4.00"	165558001	257441010		"Platelet count abnormal"	1

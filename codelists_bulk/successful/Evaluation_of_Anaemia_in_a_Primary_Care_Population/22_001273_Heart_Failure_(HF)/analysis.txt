@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 216
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tSnomedCTConceptId\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                                        MedCodeId\tObservations\tTerm\tSnomedCTConceptId\t
+0  a299673010\t100\tHypertensive heart and renal disease with renal failure\t194780003\tHF
+1          a1822161000006116\t1\tHeart failure pathway protocol not followed\t1.82E+15\tHF
+2                          a145328019\t6000\tChronic rheumatic heart disease\t87648004\tHF

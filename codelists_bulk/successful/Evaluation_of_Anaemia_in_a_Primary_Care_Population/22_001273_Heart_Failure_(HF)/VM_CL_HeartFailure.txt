@@ -1,0 +1,217 @@
+MedCodeId	Observations	Term	SnomedCTConceptId	
+a299673010	100	Hypertensive heart and renal disease with renal failure	194780003	HF
+a1822161000006116	1	Heart failure pathway protocol not followed	1.82E+15	HF
+a145328019	6000	Chronic rheumatic heart disease	87648004	HF
+a299630018	400	Other specified chronic rheumatic heart disease	87648004	HF
+a299637015	1000	Chronic rheumatic heart disease NOS	87648004	HF
+a299776014	10000	Chronic ischaemic heart disease	413838009	HF
+a299800012	300	Other specified chronic ischaemic heart disease	413838009	HF
+a299804015	300	Other specified chronic ischaemic heart disease NOS	413838009	HF
+a299805019	2000	Other chronic ischaemic heart disease NOS	413838009	HF
+a300879015	70	[X]Other forms of chronic ischaemic heart disease	413838009	HF
+a371021000006118	300	[X]Chronic rheumatic heart disease	87648004	HF
+a8030421000006114	3	Hypertensive heart AND chronic kidney disease stage 4	9.67E+13	HF
+a8030431000006112	1	Hypertensive heart AND chronic kidney disease stage 3	9.67E+13	HF
+a8030441000006119	1	Hypertensive heart AND chronic kidney disease stage 2	9.67E+13	HF
+a8030451000006117	1	Hypertensive heart AND chronic kidney disease stage 1	9.68E+13	HF
+a92841017	100000	Left ventricular hypertrophy	55827005	HF
+a5836981000006113	2	Left ventricular aneurysm	297160003	HF
+a5837001000006115	1	Left ventricular wall aneurysmal	297160003	HF
+a5837011000006117	1	LVA - Left ventricular aneurysm	297160003	HF
+a3406901000006112	30	LVH - Left ventricular hypertrophy	55827005	HF
+a13941041000006112	1	Moderate left ventricular hypertrophy	840304005	HF
+a7573191000006115	3	Heart failure with reduced ejection fraction due to myocarditis	703274008	HF
+a2616471011	80000	New York Heart Association Classification - Class II	421704003	HF
+a2616472016	40000	New York Heart Association Classification - Class III	420913000	HF
+a2616473014	3000	New York Heart Association Classification - Class IV	422293003	HF
+a18472010	7000	Acute congestive heart failure	10633002	HF
+a70653017	700000	Congestive heart failure	42343007	HF
+a94251011	4000	Acute heart failure	56675007	HF
+a139475013	800000	Heart failure	84114007	HF
+a147247018	20000	Chronic congestive heart failure	88805009	HF
+a206703015	20000	Right heart failure	128404006	HF
+a216184014	30000	Congestive heart failure monitoring	134378009	HF
+a251680018	8000	H/O: heart failure	161505003	HF
+a300217019	20	Post cardiac operation heart failure NOS	195130005	HF
+a350484012	80	Heart failure as a complication of care	233924009	HF
+a395772015	40000	Heart failure NOS	84114007	HF
+a453099015	800	H/O: Heart failure in last year	309634009	HF
+a728671000006119	40	Malignant hypertensive heart disease with congestive cardiac failure	83105008	HF
+a741701000006114	50	Hypertensive heart and renal disease with (congestive) heart failure	194779001	HF
+a789941000006117	20	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	194781004	HF
+a1746171000000119	9000	Has heart failure management plan	7.81E+14	HF
+a1747691000006119	20	Emergency heart failure admission since last appointment	1.75E+15	HF
+a1784061000006118	10	Preferred place of care for next exacerbation of heart failure	7.9E+14	HF
+a1856361000006116	900	Heart failure monitoring in primary care	1.86E+15	HF
+a1856371000006111	100	Heart failure monitoring in secondary care	1.86E+15	HF
+a1856381000006114	50	Heart failure monitoring default	1.86E+15	HF
+a1861731000006114	2	AURAS-AF - consider the patient to have heart failure	1.86E+15	HF
+a6204381000006117	5	Acute right-sided heart failure	359617009	HF
+a6914191000006115	5	Systolic heart failure	417996009	HF
+a6919191000006119	20	Diastolic heart failure	418304008	HF
+a7025691000006110	2000	Decompensated chronic heart failure	424404003	HF
+a7052811000006113	1	Right heart failure due to pulmonary hypertension	426012001	HF
+a7056281000006118	30	Congestive heart failure due to left ventricular systolic dysfunction	426263006	HF
+a7250571000006113	20	Chronic systolic heart failure	441481004	HF
+a7251291000006119	100	Chronic diastolic heart failure	441530006	HF
+a7321121000006119	600	Heart failure with preserved ejection fraction	446221000	HF
+a7475721000006114	3	Heart failure due to end stage congenital heart disease	471880001	HF
+a7484711000006114	7000	Heart failure medication review	473226007	HF
+a7507301000006110	2	Acute exacerbation of chronic congestive heart failure	698296002	HF
+a7510341000006110	1	Symptomatic congestive heart failure	698594003	HF
+a510016018	20000	Biventricular congestive heart failure	92506005	HF
+a504901000006118	500	Benign hypertensive heart disease with congestive cardiac failure	194767001	HF
+a2115781000000114	1000	Heart failure self-management plan review	8.11E+14	HF
+a2117931000000116	3000	Heart failure self-management plan agreed	8.12E+14	HF
+a2122191000000110	3000	Education about deteriorating heart failure	8.14E+14	HF
+a2205951000000117	800	Heart failure clinical pathway	8.52E+14	HF
+a2227501000000110	8000	Heart failure with preserved ejection fraction	446221000	HF
+a2352391000000117	600	On optimal heart failure therapy	9.16E+14	HF
+a2405871000000117	3	Heart failure rehabilitation programme not available	9.4E+14	HF
+a2585431000006117	3	Chronic left-sided congestive heart failure	5375005	HF
+a2660881000006116	2	High output heart failure	10091002	HF
+a2664351000006113	100	Chronic right-sided heart failure	10335000	HF
+a3182561000006118	1	CHF - Congestive heart failure	42343007	HF
+a3213831000006118	2	Right heart failure secondary to left heart failure	44313006	HF
+a3283871000006117	80	Chronic heart failure	48447003	HF
+a3489281000006119	1	Hypertensive heart disease without congestive heart failure	60899001	HF
+a3589241000006116	30	Chronic right-sided congestive heart failure	66989003	HF
+a3868341000006118	1	HF - Heart failure	84114007	HF
+a3886041000006118	10000	Left heart failure	85232009	HF
+a4193361000006119	8	Chronic left-sided heart failure	111283005	HF
+a4540521000006111	1	History of heart failure	161505003	HF
+a1484917012	30000	Heart failure follow-up	390884006	HF
+a1484918019	100000	Heart failure annual review	390885007	HF
+a1488804017	20000	Heart failure confirmed	395105005	HF
+a2548316014	80000	Seen by community heart failure nurse	417359009	HF
+a2549208013	800	Emergency hospital admission for heart failure	416683003	HF
+a2645623019	20000	Heart failure education	423475008	HF
+a2675255018	900	Congestive heart failure due to valvular disease	426611007	HF
+a3515953019	30	Heart failure self management plan	735984001	HF
+a308011000000119	2000	Provision of information about heart failure	9.62E+14	HF
+a308041000000118	600	Referral to heart failure exercise programme	704095000	HF
+a308231000000118	8000	Heart failure monitoring administration	7.14E+14	HF
+a308261000000111	30000	Heart failure review completed	2.02E+14	HF
+a308301000000118	10000	Discussion about heart failure care plan	8.72E+14	HF
+a311561000000117	80	Referred to heart failure education group	2.04E+14	HF
+a404741000000119	50000	Heart failure 6 month review	2.47E+14	HF
+a406801000000118	4000	Heart failure monitoring telephone invitation	7.18E+14	HF
+a407041000000111	1000	Heart failure monitoring verbal invitation	7.18E+14	HF
+a407061000000112	60000	Heart failure monitoring first letter	7.17E+14	HF
+a407081000000115	20000	Heart failure monitoring second letter	7.17E+14	HF
+a407101000000114	5000	Heart failure monitoring third letter	7.17E+14	HF
+a407441000000115	2000	Exception reporting - heart failure quality indicators	7.16E+14	HF
+a1539381000006117	30	Heart failure lifestyle plan commenced	1.54E+15	HF
+a1539391000006119	20	Heart failure information starter pack provided	1.54E+15	HF
+a1539471000006111	20	Heart failure monitoring - unstable symptoms	1.54E+15	HF
+a1539481000006114	600	Heart failure monitoring - specialist clinical needs	1.54E+15	HF
+a1539491000006112	20	Heart failure monitoring - social issues	1.54E+15	HF
+a1539501000006116	3	Heart failure monitoring - psychological issues	1.54E+15	HF
+a1539511000006118	7	Heart failure monitoring - multiple readmissions	1.54E+15	HF
+a1539521000006114	200	Heart failure monitoring - co-medications	1.54E+15	HF
+a1539531000006112	20	Heart failure monitoring - co-morbidities	1.54E+15	HF
+a1539541000006119	90	Heart failure monitoring - palliative care	1.54E+15	HF
+a1561941000006119	20000	Excepted from heart failure quality indicators - patient unsuitable	7.17E+14	HF
+a1561951000006117	9000	Excepted from heart failure quality indicators - informed dissent	7.17E+14	HF
+a1647701000000118	10000	Heart failure with normal ejection fraction	446221000	HF
+a1661371000000112	500	HFNEF - heart failure with normal ejection fraction	446221000	HF
+a1693911000000115	50	Referral to heart failure education group declined	7.64E+14	HF
+a1734081000000112	300	Referral to heart failure exercise programme declined	704097008	HF
+a1734161000000119	80	Referral to heart failure exercise programme not indicated	704096004	HF
+a7573171000006116	1000	Heart failure with reduced ejection fraction	703272007	HF
+a7573181000006118	8	Heart failure with reduced ejection fraction due to coronary artery disease	703273002	HF
+a7573201000006117	30	Heart failure with reduced ejection fraction due to cardiomyopathy	703275009	HF
+a7573211000006119	7	Heart failure with reduced ejection fraction due to heart valve disease	703276005	HF
+a8011111000006111	2	Congestive heart failure with right heart failure	2.33E+13	HF
+a8030311000006111	10	Exacerbation of congestive heart failure	9.63E+13	HF
+a8048061000006111	2	Chronic combined systolic and diastolic heart failure	1.54E+14	HF
+a8214751000006115	3000	Heart failure monitoring invitation	7.11E+14	HF
+a8278041000006115	1	Rehabilitation for heart failure	8.36E+14	HF
+a8290471000006114	70	Heart failure initial assessment	8.51E+14	HF
+a8303561000006119	1000	Heart failure monitoring	8.72E+14	HF
+a12623611000006114	20	Excepted from heart failure quality indicators - service unavailable	1.11E+15	HF
+a12626351000006111	1000	QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation	1.11E+15	HF
+a12734351000006110	10	QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation using preferred method of communication	1.43E+14	HF
+a13910671000006110	100	Heart failure with mid range ejection fraction	788950000	HF
+a14015051000006114	10	Acute on chronic right-sided congestive heart failure	1.68E+16	HF
+a6978012	20000	Diastolic dysfunction	3545003	HF
+a1489358014	30000	Left ventricular diastolic dysfunction	395704004	HF
+a2159198010	30000	Echocardiogram shows left ventricular diastolic dysfunction	407597004	HF
+a2549128016	500	Right ventricular diastolic dysfunction	416610007	HF
+a939571000006115	30	Diastolic dysfunction	9.4E+14	HF
+a72934016	300	Rheumatic left ventricular failure	43736008	HF
+a141306010	700000	Left ventricular failure	85232009	HF
+a300190010	10000	Acute left ventricular failure	195114002	HF
+a3886071000006114	10	LVF - Left ventricular failure	85232009	HF
+a4005301000006110	4	Biventricular failure	92506005	HF
+a1816101000006113	3000	Right ventricular failure	367363000	HF
+a490972013	3000	Right ventricular failure	367363000	HF
+a216207010	200000	Left ventricular systolic dysfunction	134401001	HF
+a2159197017	200000	Echocardiogram shows left ventricular systolic dysfunction	407596008	HF
+a2548656015	3000	Right ventricular systolic dysfunction	416158002	HF
+a1991651000006115	2000	Severe left ventricular systolic dysfunction	1.99E+15	HF
+a6348241000006112	20	Systolic dysfunction	371037005	HF
+a7119751000006110	5	Chronic systolic dysfunction of left ventricle	430396006	HF
+a7119761000006112	3	Chronic left ventricular systolic dysfunction	430396006	HF
+a7510321000006115	8	Asymptomatic left ventricular systolic dysfunction	698592004	HF
+a6212521000006115	30	Acute cardiac pulmonary oedema	360371003	HF
+a905361000006110	1000	[RFC] Chronic heart disease (CHD)	9.05E+14	HF
+a1850881000006117	7000	Reason for influenza vaccine - chronic heart disease	1.85E+15	HF
+a8439891000006111	600	Chronic heart disease monitoring invitation SMS (short message service) text message	1.07E+15	HF
+a8439901000006110	600	Chronic heart disease monitoring SMS (short message service) text message first invitation	1.07E+15	HF
+a8439921000006117	300	Chronic heart disease monitoring SMS (short message service) text message second invitation	1.07E+15	HF
+a8439931000006119	20	Chronic heart disease monitoring SMS (short message service) text message third invitation	1.07E+15	HF
+a741681000006111	500	Hypertensive heart disease NOS with CCF	64715009	HF
+a3182551000006115	800	CCF - Congestive cardiac failure	42343007	HF
+a82584011	10000	Acute cor pulmonale	49584005	HF
+a3800291000006115	3	COR - Chronic cor pulmonale	79955004	HF
+a3855401000006112	100	Cor pulmonale	83291003	HF
+a139482012	30000	Cardiac failure	84114007	HF
+a223981000000118	2000	Cardiac failure NOS	84114007	HF
+a905391000006119	200	[RFC] Cardiac failure	9.05E+14	HF
+a300179017	20000	Decompensated cardiac failure	195111005	HF
+a300180019	1000	Compensated cardiac failure	195112003	HF
+a451426015	2000	Cardiac failure therapy	308118002	HF
+a493287011	500000	Congestive cardiac failure	42343007	HF
+a316833010	900	Congenital cardiac failure	206586007	HF
+a317955011	900	Cardiorespiratory failure	410431009	HF
+a325061011	30	Cardiorespiratory failure as a complication of care	213215000	HF
+a1576321000006113	300	Cause of Death- Congestive Cardiac Failure	1.58E+15	HF
+a3182541000006117	900	Congestive cardiac failure	42343007	HF
+a2533628012	600	Left ventricular dysfunction monitoring first letter	414586001	HF
+a2533629016	200	Left ventricular dysfunction monitoring second letter	414588000	HF
+a2533630014	100	Left ventricular dysfunction monitoring third letter	414589008	HF
+a2549089012	80	Left ventricular dysfunction monitoring verbal invite	416573008	HF
+a2694523019	4000	Left ventricular cardiac dysfunction	429589006	HF
+a8234591000006113	4	Generalised left ventricular dysfunction	7.6E+14	HF
+a226181000000110	2000	Left ventricular dysfunction monitoring administration	7.14E+14	HF
+a407001000000113	40	Left ventricular dysfunction monitoring telephone invitation	7.16E+14	HF
+a5292771000006114	1	Left ventricular wall dyskinetic	250911003	HF
+a8234611000006119	10	Left ventricular dysfunction due to right ventricular interaction	7.6E+14	HF
+a7487191000006113	2	Right ventricular cardiac dysfunction	473365008	HF
+a784191000006110	100000	Impaired left ventricular function	275514001	HF
+a411506018	50000	Impaired left ventricular function	275514001	HF
+a5292751000006116	6	Left ventricular wall akinetic	250910002	HF
+a5292791000006110	10	Left ventricular wall hypokinetic	250912005	HF
+a5331271000006112	20	Left ventricular abnormality	253535002	HF
+a5331371000006115	30	Left ventricular dilatation	253541009	HF
+a5331381000006117	1	Abnormal left ventricular muscle band	253542002	HF
+a5573991000006118	40	Impaired left ventricular func	275514001	HF
+a6361031000006112	4	Depression of left ventricular systolic function	371862006	HF
+a7347751000006119	1	Left ventricular myocardial noncompaction cardiomyopathy	447935001	HF
+a374013010	90000	Left ventricular ejection fraction	250908004	HF
+a377550012	1	Left ventricular outflow tract obstruction	253546004	HF
+a13793321000006118	10	Left cardiac ventricular dilatation	253541009	HF
+a14133401000006116	1	Acquired left ventricular dilation	880002001	HF
+a355821000000117	40	Relief of left ventricular outflow tract obstruction	2.23E+14	HF
+a1908831000006118	700	Left ventricular outflow tract obstruction	253546004	HF
+a6847761000006118	1	Chronic ischemic heart disease	413838009	HF
+a403107019	70	Cardiac insufficiency as a complication of care	269299003	HF
+a5043881000006110	8	LVAD - Implantation of left ventricular assist device	232967006	HF
+a349042010	500	Implantation of left ventricular assist device	232967006	HF
+a324974014	20	Heart transplant failure and rejection	213151004	HF
+a5331461000006116	10	LVOTO - Left ventricular outflow tract obstruction	253546004	HF
+a504911000006115	100	Benign hypertensive heart disease without CCF	77970009	HF
+a741691000006114	300	Hypertensive heart disease NOS without CCF	64715009	HF
+a728681000006116	80	Malignant hypertensive heart disease without congestive heart failure	36315003	HF
+a132655012	20000	Chronic cor pulmonale	79955004	HF

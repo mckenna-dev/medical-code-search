@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 153
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tSnomedCTConceptId\ttype_alc\ttype_non_alc\ttype_unknown']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+  \tMedCodeId\tObservations\tTerm\tSnomedCTConceptId\ttype_alc\ttype_non_alc\ttype_unknown
+0        83030\ta476611000006116\t100000\tAlcoholic cirrhosis of liver\t420054005\t1\t0\t0
+1                          42342\ta353613017\t80000\tCirrhosis of liver\t19943007\t0\t0\t1
+2                                    34997\ta317612010\t70000\tAscites\t389026000\t0\t0\t1

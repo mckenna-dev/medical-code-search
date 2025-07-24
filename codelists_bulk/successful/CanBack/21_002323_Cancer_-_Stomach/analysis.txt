@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 31
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                     Term
+0   2245          Cancer         Stomach  a721851000006117            Malignant neoplasm of stomach
+1   2246          Cancer         Stomach  a799181000006112                         Gastric neoplasm
+2   2247          Cancer         Stomach        a288625013  Malignant neoplasm of cardia of stomach

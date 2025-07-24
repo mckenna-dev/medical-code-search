@@ -1,0 +1,9 @@
+med_code_id,term,snomed_ct_concept_id,observations
+1780272016,FH: Myocardial infarct in 1st degree male relative <55 years,401067009,
+460145014,FH angina female first degree age known,315626001,
+460138014,FH myocardial infarction male first degree age known,315619001,
+1780323013,FH: Angina in 1st degree male relative <55 years,401122004,
+460142012,FH angina male first degree age known,315623009,
+460140016,FH myocardial infarction female first degree age known,315621006,
+1669611000006115,FH: Cardiovascular disease 1st degree male relative < 55 years,1669611000006104,
+1676931000006119,FH: Cardiovascular disease 1st degree male relative < 55 yrs,439724007,

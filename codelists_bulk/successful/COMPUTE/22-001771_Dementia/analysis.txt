@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 177
+Columns: 6
+Column names: ['Description', 'SNOMED_CT_Concept_ID', 'Codelist_Name', 'Med_Code_Id', 'Observations', 'Term']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                                                              Description SNOMED_CT_Concept_ID       Codelist_Name        Med_Code_Id  Observations
+0                          Dementia due to Parkinson's disease (disorder)     b101421000119107  Codes for dementia  a8031751000006119            20
+1                          Dementia due to Parkinson's disease (disorder)     b101421000119107  Codes for dementia  a8031761000006117             1
+2  Early onset Alzheimer's disease with behavioral disturbance (disorder)     b105421000119105  Codes for dementia  a8032911000006111             5

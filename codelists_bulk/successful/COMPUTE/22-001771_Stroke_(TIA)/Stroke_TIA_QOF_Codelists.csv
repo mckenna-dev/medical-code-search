@@ -1,0 +1,243 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+Cerebral infarction due to occlusion of cerebral artery (disorder),b1089411000000104,Stroke diagnosis codes,a2729551000000111,10,Cerebral infarction due to occlusion of cerebral artery
+Cerebral infarction due to stenosis of cerebral artery (disorder),b1089421000000105,Stroke diagnosis codes,a2729571000000119,10,Cerebral infarction due to stenosis of cerebral artery
+Acute cerebrovascular accident due to occlusion of right posterior cerebral artery (disorder),b137592291000119101,Stroke diagnosis codes,a14194281000006115,1,Acute cerebrovascular accident due to occlusion of right posterior cerebral artery
+Ischemic stroke without coma (disorder),b140921000119102,Stroke diagnosis codes,a8044481000006118,400,Ischaemic stroke without coma
+Anterior choroidal artery syndrome (disorder),b14309005,Stroke diagnosis codes,a2726591000006119,1,Anterior choroidal artery syndrome
+Thrombosis of right vertebral artery (disorder),b15978431000119106,Stroke diagnosis codes,a3511086012,2,Thrombosis of right vertebral artery
+Cerebrovascular accident due to occlusion of right middle cerebral artery (disorder),b16000431000119109,Stroke diagnosis codes,a3509810017,20,Cerebrovascular accident due to occlusion of right middle cerebral artery
+Cerebrovascular accident due to occlusion of left middle cerebral artery (disorder),b16000511000119103,Stroke diagnosis codes,a3509794017,10,Cerebrovascular accident due to occlusion of left middle cerebral artery
+Cerebrovascular accident due to thrombus of right middle cerebral artery (disorder),b16002031000119102,Stroke diagnosis codes,a3508961018,10,Cerebrovascular accident due to thrombus of right middle cerebral artery
+Cerebrovascular accident due to thrombus of right middle cerebral artery (disorder),b16002031000119102,Stroke diagnosis codes,a3508962013,10,Stroke due to thrombus of right middle cerebral artery
+Cerebrovascular accident due to occlusion of bilateral pontine arteries (disorder),b16644681000119102,Stroke diagnosis codes,a14014251000006116,20,Cerebrovascular accident due to occlusion of bilateral pontine arteries
+Cerebrovascular accident due to stenosis of bilateral carotid arteries (disorder),b16661971000119104,Stroke diagnosis codes,a13717171000006112,6,Cerebrovascular accident due to stenosis of bilateral carotid arteries
+Cryptogenic stroke (disorder),b16891111000119104,Stroke diagnosis codes,a14182621000006113,7,Cryptogenic stroke
+History of cerebrovascular accident due to ischemia (situation),b16896891000119106,Stroke diagnosis codes,a13718621000006117,4,History of cerebrovascular accident due to ischaemia
+Basal ganglia hemorrhage (disorder),b195165005,Stroke diagnosis codes,a503791000006114,2000,Basal ganglia haemorrhage
+Basal ganglia hemorrhage (disorder),b195165005,Stroke diagnosis codes,a4777811000006117,3,Basal ganglia hemorrhage
+"Intracerebral hemorrhage, multiple localized (disorder)",b195169004,Stroke diagnosis codes,a746571000006116,100,"Intracerebral haemorrhage, multiple localized"
+"Intracerebral hemorrhage, multiple localized (disorder)",b195169004,Stroke diagnosis codes,a4777881000006112,60,"Intracerebral haemorrhage, multiple localised"
+Cerebral infarction due to embolism of cerebral arteries (disorder),b195190007,Stroke diagnosis codes,a300322016,1000,Cerebral infarction due to embolism of cerebral arteries
+Anterior cerebral artery syndrome (disorder),b195210002,Stroke diagnosis codes,a300363010,2000,Anterior cerebral artery syndrome
+Posterior cerebral artery syndrome (disorder),b195211003,Stroke diagnosis codes,a300364016,3000,Posterior cerebral artery syndrome
+Cerebellar stroke syndrome (disorder),b195213000,Stroke diagnosis codes,a300366019,7000,Cerebellar stroke syndrome
+Left sided cerebral hemisphere cerebrovascular accident (disorder),b195216008,Stroke diagnosis codes,a300370010,60000,Left sided CVA
+Left sided cerebral hemisphere cerebrovascular accident (disorder),b195216008,Stroke diagnosis codes,a4778181000006119,4000,Left sided cerebral hemisphere cerebrovascular accident
+Right sided cerebral hemisphere cerebrovascular accident (disorder),b195217004,Stroke diagnosis codes,a300371014,60000,Right sided CVA
+Right sided cerebral hemisphere cerebrovascular accident (disorder),b195217004,Stroke diagnosis codes,a4778201000006118,3000,Right sided cerebral hemisphere cerebrovascular accident
+"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic (disorder)",b195230003,Stroke diagnosis codes,a542251000006112,800,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic"
+Occlusion of cerebral artery (disorder),b20059004,Stroke diagnosis codes,a300943012,1000,Cerebral artery occlusion
+Occlusion of cerebral artery (disorder),b20059004,Stroke diagnosis codes,a1222398015,100000,Cerebral arterial occlusion
+Occlusion of cerebral artery (disorder),b20059004,Stroke diagnosis codes,a370701000006118,300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Occlusion of cerebral artery (disorder),b20059004,Stroke diagnosis codes,a543141000006110,4000,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular accident (disorder),b230690007,Stroke diagnosis codes,a405339016,900000,Cerebrovascular accident
+Cerebrovascular accident (disorder),b230690007,Stroke diagnosis codes,a122401000006115,90000,Stroke unspecified
+Cerebrovascular accident (disorder),b230690007,Stroke diagnosis codes,a605491000006113,200000,CVA - Cerebrovascular accident
+Cerebrovascular accident (disorder),b230690007,Stroke diagnosis codes,a605501000006117,400000,CVA unspecified
+Cerebrovascular accident (disorder),b230690007,Stroke diagnosis codes,a5010981000006119,20000,Stroke
+Infarction - precerebral (disorder),b230692004,Stroke diagnosis codes,a345639010,80,Infarction - precerebral
+Total anterior cerebral circulation infarction (disorder),b230694003,Stroke diagnosis codes,a5011051000006116,200,Total anterior cerebral circulation infarction
+Total anterior cerebral circulation infarction (disorder),b230694003,Stroke diagnosis codes,a5011061000006119,3,TACI - Total anterior cerebral circulation infarction
+Total anterior cerebral circulation infarction (disorder),b230694003,Stroke diagnosis codes,a5011071000006114,10,Total anterior cerebral circulation stroke
+Total anterior cerebral circulation infarction (disorder),b230694003,Stroke diagnosis codes,a5011081000006112,10,TACS - Total anterior cerebral circulation stroke
+Partial anterior cerebral circulation infarction (disorder),b230695002,Stroke diagnosis codes,a5011091000006110,400,Partial anterior cerebral circulation infarction
+Partial anterior cerebral circulation infarction (disorder),b230695002,Stroke diagnosis codes,a5011101000006116,7,PACI - Partial anterior cerebral circulation infarction
+Partial anterior cerebral circulation infarction (disorder),b230695002,Stroke diagnosis codes,a5011111000006118,20,Partial anterior cerebral circulation stroke
+Partial anterior cerebral circulation infarction (disorder),b230695002,Stroke diagnosis codes,a5011121000006114,30,PACS - Partial anterior cerebral circulation stroke
+Pure motor lacunar infarction (disorder),b230699008,Stroke diagnosis codes,a345655015,2000,Pure motor lacunar syndrome
+Pure motor lacunar infarction (disorder),b230699008,Stroke diagnosis codes,a5011191000006111,90,Pure motor lacunar infarction
+Pure sensory lacunar infarction (disorder),b230700009,Stroke diagnosis codes,a345658018,600,Pure sensory lacunar syndrome
+Pure sensory lacunar infarction (disorder),b230700009,Stroke diagnosis codes,a5011211000006112,30,Pure sensory lacunar infarction
+Pure sensorimotor lacunar infarction (disorder),b230701008,Stroke diagnosis codes,a5011231000006118,3,Pure sensorimotor lacunar infarction
+Lacunar ataxic hemiparesis (disorder),b230702001,Stroke diagnosis codes,a5011241000006111,8,Lacunar ataxic hemiparesis
+Hemorrhagic cerebral infarction (disorder),b230706003,Stroke diagnosis codes,a5011291000006119,80,Haemorrhagic cerebral infarction
+Anterior cerebral circulation hemorrhagic infarction (disorder),b230707007,Stroke diagnosis codes,a5011331000006114,1,Anterior cerebral circulation haemorrhagic infarction
+Posterior cerebral circulation hemorrhagic infarction (disorder),b230708002,Stroke diagnosis codes,a5011351000006119,6,Posterior cerebral circulation haemorrhagic infarction
+Stroke of uncertain pathology (disorder),b230713003,Stroke diagnosis codes,a5011451000006114,20,Stroke of uncertain pathology
+Anterior circulation stroke of uncertain pathology (disorder),b230714009,Stroke diagnosis codes,a5011461000006111,70,Anterior circulation stroke of uncertain pathology
+Completed stroke (disorder),b25133001,Stroke diagnosis codes,a2901571000006113,20,Completed stroke
+Acute cerebrovascular accident due to occlusion of right middle cerebral artery (disorder),b272202251000119109,Stroke diagnosis codes,a14194331000006112,1,Acute cerebrovascular accident due to occlusion of right middle cerebral artery
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a300287010,4000,Intracerebral haemorrhage NOS
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a300939013,1000,Cerebral haemorrhage
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a300956017,400,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a122371000006118,20000,Cerebral haemorrhage
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a605471000006112,40000,Cerebral hemorrhage
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a744901000006114,70000,Intracerebral haemorrhage (ICH)
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a744921000006116,400,"Intracerebral haemorrhage in hemisphere, unspecified"
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a748941000006115,1000,"Left sided intracerebral haemorrhage, unspecified"
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a884421000006119,1000,Cerebral haemorrhage
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a989201000006117,1,Cerebral haemorrhage
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a989211000006119,1,Cerebral haemorrhage NOS
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a12223101000006118,300,Intracerebral haemorrhage
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a12223111000006115,6,Intracerebral hemorrhage
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a12223121000006111,40,ICH - intracerebral haemorrhage
+Cerebral hemorrhage (disorder),b274100004,Stroke diagnosis codes,a12223131000006114,1,ICH - intracerebral hemorrhage
+Intracerebellar and posterior fossa hemorrhage (disorder),b276722003,Stroke diagnosis codes,a5589641000006112,20,Intracerebellar and posterior fossa haemorrhage
+Spontaneous hemorrhage of cerebral hemisphere (disorder),b291531000119108,Stroke diagnosis codes,a3507370011,5,Spontaneous haemorrhage of cerebral hemisphere
+Lacunar ataxic hemiparesis of right dominant side (disorder),b292851000119109,Stroke diagnosis codes,a3510961010,2,Lacunar ataxic hemiparesis of right dominant side
+Left sided cerebral infarction (disorder),b307766002,Stroke diagnosis codes,a451133011,30000,Left sided cerebral infarction
+Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus (disorder),b329361000119107,Stroke diagnosis codes,a3636133016,1,Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus
+Occlusion of right middle cerebral artery (disorder),b329481000119106,Stroke diagnosis codes,a3505639012,10,Occlusion of right middle cerebral artery
+Occlusion of left middle cerebral artery (disorder),b329491000119109,Stroke diagnosis codes,a3505637014,20,Occlusion of left middle cerebral artery
+Cerebrovascular accident due to thrombus of basilar artery (disorder),b329641000119104,Stroke diagnosis codes,a3508955016,7,Cerebrovascular accident due to thrombus of basilar artery
+Cerebrovascular accident due to thrombus of basilar artery (disorder),b329641000119104,Stroke diagnosis codes,a3508956015,3,Stroke due to basilar artery thrombus
+Cerebrovascular accident due to thrombus of right carotid artery (disorder),b329651000119102,Stroke diagnosis codes,a3508958019,2,Cerebrovascular accident due to thrombus of right carotid artery
+Embolic stroke (disorder),b371041009,Stroke diagnosis codes,a6348301000006119,100,Embolic stroke
+Acute cerebrovascular accident due to occlusion of left posterior cerebral artery (disorder),b40076141000119107,Stroke diagnosis codes,a14194161000006118,1,Acute stroke due to occlusion of left posterior cerebral artery
+Acute cerebrovascular accident due to occlusion of right carotid artery (disorder),b407573811000119100,Stroke diagnosis codes,a14194491000006118,1,Acute cerebrovascular accident due to occlusion of right carotid artery
+Ischemic stroke (disorder),b422504002,Stroke diagnosis codes,a6990981000006114,200,Ischaemic stroke
+Ischemic stroke (disorder),b422504002,Stroke diagnosis codes,a6990991000006112,30,Ischemic stroke
+Cerebral infarction (disorder),b432504007,Stroke diagnosis codes,a300941014,2000,[X]Other cerebral infarction
+Cerebral infarction (disorder),b432504007,Stroke diagnosis codes,a395780010,200000,Cerebral infarction
+Cerebral infarction (disorder),b432504007,Stroke diagnosis codes,a218511000000117,10000,Infarction - cerebral
+Acute cerebrovascular accident due to occlusion of left carotid artery (disorder),b502836591000119106,Stroke diagnosis codes,a14194571000006115,1,Acute cerebrovascular accident due to occlusion of left carotid artery
+Cerebrovascular accident of basal ganglia (disorder),b595899961000119100,Stroke diagnosis codes,a14194611000006113,5,Acute cerebrovascular accident of basal ganglia
+Cerebrovascular accident of brainstem (disorder),b652287331000119104,Stroke diagnosis codes,a14194641000006112,2,Acute cerebrovascular accident of brainstem
+Cerebrovascular accident of brainstem (disorder),b652287331000119104,Stroke diagnosis codes,a14194651000006114,1,Acute stroke of brainstem
+Cerebral arterial thrombosis (disorder),b71444005,Stroke diagnosis codes,a118689010,20000,Cerebral thrombosis
+Embolus of right posterior cerebral artery (disorder),b734963004,Stroke diagnosis codes,a3512174014,1,Embolus of right posterior cerebral artery
+Embolus of left middle cerebral artery (disorder),b734964005,Stroke diagnosis codes,a3512176011,3,Embolus of left middle cerebral artery
+Embolus of right middle cerebral artery (disorder),b734965006,Stroke diagnosis codes,a3512178012,5,Embolus of right middle cerebral artery
+Acute cerebrovascular accident due to ischemia (disorder),b762005171000119101,Stroke diagnosis codes,a14194801000006111,10,Acute cerebrovascular accident due to ischaemia
+Acute cerebrovascular accident due to ischemia (disorder),b762005171000119101,Stroke diagnosis codes,a14194811000006114,1,Acute ischaemic stroke
+Posterior inferior cerebellar artery syndrome (disorder),b78569004,Stroke diagnosis codes,a130375018,800,Lateral medullary syndrome
+Posterior inferior cerebellar artery syndrome (disorder),b78569004,Stroke diagnosis codes,a57341000006119,300,Wallenberg's syndrome
+Posterior inferior cerebellar artery syndrome (disorder),b78569004,Stroke diagnosis codes,a3777981000006119,8,Posterior inferior cerebellar artery syndrome
+Posterior inferior cerebellar artery syndrome (disorder),b78569004,Stroke diagnosis codes,a3778021000006116,20,LMS - Lateral medullary syndrome
+Cerebral ischemic stroke due to hypercoagulable state (disorder),b788883008,Stroke diagnosis codes,a13909891000006118,1,Cerebral ischaemic stroke due to hypercoagulable state
+Acute cerebrovascular accident due to embolism of left middle cerebral artery (disorder),b936648941000119105,Stroke diagnosis codes,a14194971000006111,1,Acute cerebrovascular accident due to embolism of left middle cerebral artery
+Brain stem infarction (disorder),b95457000,Stroke diagnosis codes,a345650013,900,Brainstem infarction NOS
+Brain stem infarction (disorder),b95457000,Stroke diagnosis codes,a524541000006117,4000,Brain stem infarction
+Brain stem infarction (disorder),b95457000,Stroke diagnosis codes,a4057031000006117,2,Brain stem infarct
+Brain stem infarction (disorder),b95457000,Stroke diagnosis codes,a4057041000006110,1,Brain stem stroke
+Brain stem infarction (disorder),b95457000,Stroke diagnosis codes,a4057051000006112,1,Infarction of brain stem
+Cerebellar infarction (disorder),b95460007,Stroke diagnosis codes,a158118014,30000,Cerebellar infarction
+Haemorrhagic stroke (disorder),b1078001000000105,Stroke diagnosis codes,a8453031000006117,300,Haemorrhagic stroke
+Nonparalytic stroke (disorder),b111297002,Stroke diagnosis codes,a4193641000006111,5,Nonparalytic stroke
+Cerebral infarction due to occlusion of precerebral artery (disorder),b125081000119106,Stroke diagnosis codes,a370661000006114,200,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+Cerebral infarction due to occlusion of precerebral artery (disorder),b125081000119106,Stroke diagnosis codes,a542261000006114,900,Cerebral infarction due to occlusion of precerebral artery
+Cerebrovascular accident due to occlusion of left posterior cerebral artery (disorder),b16000351000119109,Stroke diagnosis codes,a3509799010,2,Cerebrovascular accident due to occlusion of left posterior cerebral artery
+Cerebrovascular accident due to occlusion of right posterior cerebral artery (disorder),b16000391000119104,Stroke diagnosis codes,a3509790014,1,Cerebrovascular accident due to occlusion of right posterior cerebral artery
+Cerebrovascular accident due to thrombus of left middle cerebral artery (disorder),b16002111000119106,Stroke diagnosis codes,a3508964014,20,Cerebrovascular accident due to thrombus of left middle cerebral artery
+Cerebrovascular accident due to thrombus of left middle cerebral artery (disorder),b16002111000119106,Stroke diagnosis codes,a3508965010,10,Stroke due to thrombus of left middle cerebral artery
+Acute cerebral ischemia (disorder),b16218291000119100,Stroke diagnosis codes,a3515794015,70,Acute cerebral ischaemia
+Cerebellar stroke (disorder),b16371781000119100,Stroke diagnosis codes,a9912271000006112,200,Cerebellar stroke
+External capsule hemorrhage (disorder),b195167002,Stroke diagnosis codes,a300276019,100,External capsule haemorrhage
+Intracerebral hemorrhage with intraventricular hemorrhage (disorder),b195168007,Stroke diagnosis codes,a300277011,3000,"Intracerebral haemorrhage, intraventricular"
+Intracerebral hemorrhage with intraventricular hemorrhage (disorder),b195168007,Stroke diagnosis codes,a163261000006119,800,"Right sided intracerebral haemorrhage, unspecified"
+Intracerebral hemorrhage with intraventricular hemorrhage (disorder),b195168007,Stroke diagnosis codes,a4777861000006119,5,Intracerebral haemorrhage with intraventricular haemorrhage
+Cerebral infarct due to thrombosis of precerebral arteries (disorder),b195185009,Stroke diagnosis codes,a300312010,2000,Cerebral infarct due to thrombosis of precerebral arteries
+Cerebral infarction due to embolism of precerebral arteries (disorder),b195186005,Stroke diagnosis codes,a300313017,1000,Cerebral infarction due to embolism of precerebral arteries
+Cerebral infarction due to thrombosis of cerebral arteries (disorder),b195189003,Stroke diagnosis codes,a300321011,3000,Cerebral infarction due to thrombosis of cerebral arteries
+Middle cerebral artery syndrome (disorder),b195209007,Stroke diagnosis codes,a300362017,6000,Middle cerebral artery syndrome
+Brainstem stroke syndrome (disorder),b195212005,Stroke diagnosis codes,a524511000006116,7000,Brainstem stroke syndrome
+Subcortical cerebral hemorrhage (disorder),b20908003,Stroke diagnosis codes,a2832651000006111,4,Subcortical haemorrhage
+Subcortical cerebral hemorrhage (disorder),b20908003,Stroke diagnosis codes,a2832661000006113,1,Subcortical hemorrhage
+Cerebrovascular accident due to occlusion of cerebral artery (disorder),b230691006,Stroke diagnosis codes,a122361000006113,30000,Stroke due to cerebral arterial occlusion
+Cerebrovascular accident due to occlusion of cerebral artery (disorder),b230691006,Stroke diagnosis codes,a605461000006117,100000,CVA - cerebrovascular accident due to cerebral artery occlusion
+Anterior cerebral circulation infarction (disorder),b230693009,Stroke diagnosis codes,a5011041000006118,70,Anterior cerebral circulation infarction
+Posterior cerebral circulation infarction (disorder),b230696001,Stroke diagnosis codes,a5011131000006112,400,Posterior cerebral circulation infarction
+Posterior cerebral circulation infarction (disorder),b230696001,Stroke diagnosis codes,a5011141000006119,40,Posterior cerebral circulation stroke
+Lacunar infarction (disorder),b230698000,Stroke diagnosis codes,a299342019,9000,Lacunar infarction
+Lacunar infarction (disorder),b230698000,Stroke diagnosis codes,a5011161000006115,70,Lacunar stroke
+Lacunar infarction (disorder),b230698000,Stroke diagnosis codes,a5011171000006110,7,LACI - Lacunar infarction
+Multi-infarct state (disorder),b230704000,Stroke diagnosis codes,a5011261000006110,3,Multi-infarct state
+Lobar cerebral hemorrhage (disorder),b230710000,Stroke diagnosis codes,a345675012,800,Lobar cerebral haemorrhage
+Thalamic hemorrhage (disorder),b230711001,Stroke diagnosis codes,a5011411000006113,100,Thalamic haemorrhage
+Thalamic hemorrhage (disorder),b230711001,Stroke diagnosis codes,a5011421000006117,1,Thalamic hemorrhage
+Lacunar hemorrhage (disorder),b230712008,Stroke diagnosis codes,a5011431000006119,4,Lacunar haemorrhage
+Posterior circulation stroke of uncertain pathology (disorder),b230715005,Stroke diagnosis codes,a5011471000006116,100,Posterior circulation stroke of uncertain pathology
+Weber-Gubler syndrome (disorder),b24654003,Stroke diagnosis codes,a2893541000006113,1,Weber-Gubler syndrome
+Stroke in the puerperium (disorder),b275434003,Stroke diagnosis codes,a411416011,4,Stroke in the puerperium
+Stroke in the puerperium (disorder),b275434003,Stroke diagnosis codes,a605481000006110,80,CVA - cerebrovascular accident in the puerperium
+Occipital cerebral infarction (disorder),b276219001,Stroke diagnosis codes,a5582311000006110,300,Occipital cerebral infarction
+Extension of cerebrovascular accident (disorder),b281240008,Stroke diagnosis codes,a5649201000006113,1,Extension of cerebrovascular accident
+Spontaneous hemorrhage of cortical intracerebral hemisphere (disorder),b291521000119105,Stroke diagnosis codes,a3507383012,8,Spontaneous haemorrhage of cortical intracerebral hemisphere
+Lacunar ataxic hemiparesis of left dominant side (disorder),b292861000119106,Stroke diagnosis codes,a3510963013,2,Lacunar ataxic hemiparesis of left dominant side
+Multiple lacunar infarcts (disorder),b307363008,Stroke diagnosis codes,a5967391000006111,100,Multiple lacunar infarcts
+Right sided cerebral infarction (disorder),b307767006,Stroke diagnosis codes,a451134017,20000,Right sided cerebral infarction
+Cerebrovascular accident due to occlusion of left cerebellar artery by embolus (disorder),b329461000119102,Stroke diagnosis codes,a3509817019,3,Left hemispheric cerebellar artery embolism with stroke
+Occlusion of left posterior cerebral artery (disorder),b329571000119107,Stroke diagnosis codes,a3505651014,4,Occlusion of left posterior cerebral artery
+Cerebrovascular accident due to thrombus of left carotid artery (disorder),b330791000119108,Stroke diagnosis codes,a3508952018,1,Cerebrovascular accident due to thrombus of left carotid artery
+Thrombotic stroke (disorder),b371040005,Stroke diagnosis codes,a6348291000006115,30,Thrombotic stroke
+Occlusive stroke (disorder),b373606000,Stroke diagnosis codes,a1212072018,400,Occlusive stroke
+Infarction of basal ganglia (disorder),b413102000,Stroke diagnosis codes,a2474651019,7000,Infarction of basal ganglia
+Infarction of basal ganglia (disorder),b413102000,Stroke diagnosis codes,a6837051000006119,5,Basal ganglion stroke
+Infarction of basal ganglia (disorder),b413102000,Stroke diagnosis codes,a6837061000006117,1,Basal ganglion infarct
+Cardioembolic stroke (disorder),b413758000,Stroke diagnosis codes,a6846141000006118,40,Cardioembolic stroke
+Acute lacunar infarction (disorder),b426107000,Stroke diagnosis codes,a7054171000006115,100,Acute lacunar infarction
+Infarction of medulla oblongata (disorder),b426983002,Stroke diagnosis codes,a7067291000006113,8,Infarction of medulla oblongata
+Superior cerebellar artery syndrome (disorder),b444657001,Stroke diagnosis codes,a7295961000006113,2,Superior cerebellar artery syndrome
+Acute cerebrovascular accident due to stenosis of left carotid artery (disorder),b46583221000119102,Stroke diagnosis codes,a14194191000006114,1,Acute cerebrovascular accident due to stenosis of left carotid artery
+Cortical hemorrhage (disorder),b49422009,Stroke diagnosis codes,a495394013,500,Cortical haemorrhage
+Internal capsule hemorrhage (disorder),b52201006,Stroke diagnosis codes,a496232015,1000,Internal capsule haemorrhage
+Multi-infarct dementia (disorder),b56267009,Stroke diagnosis codes,a294656010,2000,Arteriosclerotic dementia NOS
+Multi-infarct dementia (disorder),b56267009,Stroke diagnosis codes,a497559016,50000,Arteriosclerotic dementia
+Multi-infarct dementia (disorder),b56267009,Stroke diagnosis codes,a363791000006112,6000,[X]Arteriosclerotic dementia
+Multi-infarct dementia (disorder),b56267009,Stroke diagnosis codes,a399031000006111,9000,[X]Multi-infarct dementia
+Multi-infarct dementia (disorder),b56267009,Stroke diagnosis codes,a423221000006117,300,[X]Predominantly cortical dementia
+Multi-infarct dementia (disorder),b56267009,Stroke diagnosis codes,a696161000006115,30000,Multi-infarct dementia
+Multi-infarct dementia (disorder),b56267009,Stroke diagnosis codes,a3414231000006117,1,MID - Multi-infarct dementia
+Multi-infarct dementia (disorder),b56267009,Stroke diagnosis codes,a3414251000006112,6000,VAD - Vascular dementia
+Acute cerebrovascular accident due to occlusion of left middle cerebral artery (disorder),b63230211000119103,Stroke diagnosis codes,a14194211000006110,1,Acute cerebrovascular accident due to occlusion of left middle cerebral artery
+Acute cerebrovascular accident due to stenosis of right carotid artery (disorder),b693158221000119105,Stroke diagnosis codes,a14194661000006111,2,Acute cerebrovascular accident due to stenosis of right carotid artery
+Silent cerebral infarct (disorder),b723082006,Stroke diagnosis codes,a7839991000006115,10,Silent cerebral infarct
+Cerebral ischemic stroke due to small artery occlusion (disorder),b724424009,Stroke diagnosis codes,a7855631000006111,20,Cerebral ischaemic stroke due to small artery occlusion
+Hemorrhage of medulla oblongata (disorder),b732923001,Stroke diagnosis codes,a483988011,30,Bulbar haemorrhage
+Hemorrhage of medulla oblongata (disorder),b732923001,Stroke diagnosis codes,a7951271000006116,1,Haemorrhage of medulla oblongata
+Thrombosis of left middle cerebral artery (disorder),b734383005,Stroke diagnosis codes,a3511959014,10,Thrombosis of left middle cerebral artery
+Thrombosis of right middle cerebral artery (disorder),b734384004,Stroke diagnosis codes,a3505881015,1,Right middle cerebral artery thrombosis
+Thrombosis of right middle cerebral artery (disorder),b734384004,Stroke diagnosis codes,a3511955015,10,Thrombosis of right middle cerebral artery
+Acute cerebrovascular accident due to occlusion of right cerebellar artery (disorder),b738478141000119101,Stroke diagnosis codes,a14194741000006118,1,Acute cerebrovascular accident due to occlusion of right cerebellar artery
+Cerebellar hemorrhage (disorder),b75038005,Stroke diagnosis codes,a502878012,9000,Cerebellar haemorrhage
+Cerebellar hemorrhage (disorder),b75038005,Stroke diagnosis codes,a3719851000006116,1,Cerebellar hemorrhage
+Cerebral embolism (disorder),b75543006,Stroke diagnosis codes,a125470015,6000,Cerebral embolism
+Cerebral embolism (disorder),b75543006,Stroke diagnosis codes,a542831000006116,300,Cerebral embolus
+Occlusion of right middle cerebral artery by embolus (disorder),b762629007,Stroke diagnosis codes,a3636969013,2,Occlusion of right middle cerebral artery by embolus
+Intrapontine hemorrhage (disorder),b7713009,Stroke diagnosis codes,a503469016,2000,Pontine haemorrhage
+Intrapontine hemorrhage (disorder),b7713009,Stroke diagnosis codes,a2622631000006114,10,Intrapontine haemorrhage
+Occlusion of bilateral pontine arteries (disorder),b788455001,Stroke diagnosis codes,a13905301000006116,1,Bilateral occlusion of pontine arteries
+Cerebral ischemic stroke due to dissection of artery (disorder),b788880006,Stroke diagnosis codes,a13909861000006114,2,Cerebral ischaemic stroke due to dissection of artery
+Cerebral ischemic stroke due to global hypoperfusion with watershed infarct (disorder),b788882003,Stroke diagnosis codes,a13909881000006116,10,Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct
+Cerebral ischemic stroke due to subarachnoid hemorrhage (disorder),b788884002,Stroke diagnosis codes,a13909901000006119,30,Cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage
+Occlusion of branch of basilar artery (disorder),b870579007,Stroke diagnosis codes,a13967201000006117,3,Occlusion of branch of basilar artery
+Acute cerebrovascular accident due to embolism of right middle cerebral artery (disorder),b931164671000119105,Stroke diagnosis codes,a14194941000006115,2,Acute cerebrovascular accident due to embolism of right middle cerebral artery
+Brain stem hemorrhage (disorder),b95454007,Stroke diagnosis codes,a4056931000006116,20,Brain stem haemorrhage
+Brain stem hemorrhage (disorder),b95454007,Stroke diagnosis codes,a4056951000006111,1,Brainstem haemorrhage
+Basilar artery syndrome (disorder),b64009001,Transient ischaemic attack (TIA) codes,a106392017,2000,Basilar artery syndrome
+Basilar artery syndrome (disorder),b64009001,Transient ischaemic attack (TIA) codes,a106394016,6000,Vertebrobasilar insufficiency
+Basilar artery syndrome (disorder),b64009001,Transient ischaemic attack (TIA) codes,a499739014,3000,Insufficiency - basilar artery
+Basilar artery syndrome (disorder),b64009001,Transient ischaemic attack (TIA) codes,a67511000006117,20000,Vertebro-basilar insufficiency
+Personal history of transient ischaemic attack (situation),b751371000000107,Transient ischaemic attack (TIA) codes,a1667741000000110,700,[V]Personal history of transient ischaemic attack
+Personal history of transient ischaemic attack (situation),b751371000000107,Transient ischaemic attack (TIA) codes,a8231151000006110,200,Personal history of transient ischaemic attack
+Subclavian steal syndrome (disorder),b15258001,Transient ischaemic attack (TIA) codes,a25897016,2000,Subclavian steal syndrome
+Vertebrobasilar artery syndrome (disorder),b195199008,Transient ischaemic attack (TIA) codes,a67501000006115,2000,Vertebrobasilar artery syndrome
+Multiple and bilateral precerebral artery syndromes (disorder),b195201005,Transient ischaemic attack (TIA) codes,a300345010,20,Multiple and bilateral precerebral artery syndromes
+Vertebrobasilar territory transient ischemic attack (disorder),b230717002,Transient ischaemic attack (TIA) codes,a5011521000006118,20,Vertebrobasilar territory transient ischaemic attack
+Vertebrobasilar territory transient ischemic attack (disorder),b230717002,Transient ischaemic attack (TIA) codes,a5011541000006113,7,Posterior circulation transient ischemic attack
+Vertebrobasilar territory transient ischemic attack (disorder),b230717002,Transient ischaemic attack (TIA) codes,a5011551000006110,4,Posterior circulation transient ischaemic attack
+Transient ischemic attack (disorder),b266257000,Transient ischaemic attack (TIA) codes,a300348012,1000,Other transient cerebral ischaemia
+Transient ischemic attack (disorder),b266257000,Transient ischaemic attack (TIA) codes,a300349016,7000,Transient cerebral ischaemia NOS
+Transient ischemic attack (disorder),b266257000,Transient ischaemic attack (TIA) codes,a395783012,800000,Transient ischaemic attack
+Transient ischemic attack (disorder),b266257000,Transient ischaemic attack (TIA) codes,a395788015,700000,Transient cerebral ischaemia
+Transient ischemic attack (disorder),b266257000,Transient ischaemic attack (TIA) codes,a95931000006111,10000,Transient cerebral ischaemia NOS
+Transient ischemic attack (disorder),b266257000,Transient ischaemic attack (TIA) codes,a416991000006112,1000,Transient cerebral ischemia
+Transient ischemic attack (disorder),b266257000,Transient ischaemic attack (TIA) codes,a988951000006117,10,Transient Ischaemic Attacks
+Transient ischemic attack (disorder),b266257000,Transient ischaemic attack (TIA) codes,a5492171000006112,300,TIA
+Transient ischemic attack (disorder),b266257000,Transient ischaemic attack (TIA) codes,a5492201000006111,40,TIA - Transient ischaemic attack
+Transient ischemic attack (disorder),b266257000,Transient ischaemic attack (TIA) codes,a5492221000006118,100,Transient ischemic attack
+Transient ischemic attack (disorder),b266257000,Transient ischaemic attack (TIA) codes,a11920121000006117,9,Transient cerebral ischemia
+Recurrent transient cerebral ischemic attack (disorder),b444172003,Transient ischaemic attack (TIA) codes,a7289121000006119,20,Recurrent transient cerebral ischaemic attack
+Recurrent transient cerebral ischemic attack (disorder),b444172003,Transient ischaemic attack (TIA) codes,a7289131000006116,1,Recurrent transient cerebral ischemic attack
+History of transient ischemic attack (situation),b161511000,Transient ischaemic attack (TIA) codes,a251692018,70000,H/O: TIA
+History of transient ischemic attack (situation),b161511000,Transient ischaemic attack (TIA) codes,a4540591000006113,2,History of transient ischemic attack
+History of transient ischemic attack (situation),b161511000,Transient ischaemic attack (TIA) codes,a14068071000006114,100,History of transient ischaemic attack
+Carotid artery syndrome hemispheric (disorder),b195200006,Transient ischaemic attack (TIA) codes,a300344014,500,Carotid artery syndrome hemispheric
+Impending cerebral ischemia (disorder),b195205001,Transient ischaemic attack (TIA) codes,a300352012,100,Impending cerebral ischaemia
+Intermittent cerebral ischemia (disorder),b195206000,Transient ischaemic attack (TIA) codes,a300353019,600,Intermittent cerebral ischaemia
+Carotid territory transient ischemic attack (disorder),b230716006,Transient ischaemic attack (TIA) codes,a345684012,900,Carotid territory transient ischaemic attack
+Carotid territory transient ischemic attack (disorder),b230716006,Transient ischaemic attack (TIA) codes,a5011491000006115,200,Anterior circulation transient ischaemic attack
+Carotid territory transient ischemic attack (disorder),b230716006,Transient ischaemic attack (TIA) codes,a5011501000006111,10,Anterior circulation transient ischemic attack
+Vertebral artery syndrome (disorder),b34781003,Transient ischaemic attack (TIA) codes,a58046010,800,Vertebral artery syndrome
+Vertebral artery syndrome (disorder),b34781003,Transient ischaemic attack (TIA) codes,a2476647018,300,Vertebral artery compression syndrome
+Transient cerebral ischemia due to atrial fibrillation (disorder),b426814001,Transient ischaemic attack (TIA) codes,a7064691000006118,1,Transient cerebral ischaemia due to atrial fibrillation

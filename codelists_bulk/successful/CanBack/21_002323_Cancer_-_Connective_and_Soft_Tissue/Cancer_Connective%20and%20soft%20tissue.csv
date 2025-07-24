@@ -1,0 +1,74 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+828,Cancer,Connective and soft tissue,a103180017,Mesothelioma,L1:Cancer_L2:Connective and soft tissue,B226.00
+829,Cancer,Connective and soft tissue,a705211000006111,Mesothelioma of pleura,L1:Cancer_L2:Connective and soft tissue,B232.00
+830,Cancer,Connective and soft tissue,a288840012,Malignant neoplasm of pleura NOS,L1:Cancer_L2:Connective and soft tissue,B23z.00
+831,Cancer,Connective and soft tissue,a288960017,Malignant neoplasm of connective and other soft tissue,L1:Cancer_L2:Connective and soft tissue,B31..00
+832,Cancer,Connective and soft tissue,a729361000006113,"Malig neop of connective and soft tissue head, face and neck",L1:Cancer_L2:Connective and soft tissue,B310.00
+833,Cancer,Connective and soft tissue,a1228565015,Malignant neoplasm of soft tissue of head,L1:Cancer_L2:Connective and soft tissue,B310000
+834,Cancer,Connective and soft tissue,a1228566019,Malignant neoplasm of soft tissue of face,L1:Cancer_L2:Connective and soft tissue,B310100
+835,Cancer,Connective and soft tissue,a1228567011,Malignant neoplasm of soft tissue of neck,L1:Cancer_L2:Connective and soft tissue,B310200
+836,Cancer,Connective and soft tissue,a288962013,Malignant neoplasm of cartilage of ear,L1:Cancer_L2:Connective and soft tissue,B310300
+837,Cancer,Connective and soft tissue,a288963015,Malignant neoplasm of tarsus of eyelid,L1:Cancer_L2:Connective and soft tissue,B310400
+838,Cancer,Connective and soft tissue,a288964014,Malignant neoplasm soft tissues of cervical spine,L1:Cancer_L2:Connective and soft tissue,B310500
+839,Cancer,Connective and soft tissue,a730031000006113,"Malig neop connective and soft tissue head, face, neck NOS",L1:Cancer_L2:Connective and soft tissue,B310z00
+840,Cancer,Connective and soft tissue,a729291000006111,Malig neop connective and soft tissue upper limb/shoulder,L1:Cancer_L2:Connective and soft tissue,B311.00
+841,Cancer,Connective and soft tissue,a288967019,Malignant neoplasm of connective and soft tissue of shoulder,L1:Cancer_L2:Connective and soft tissue,B311000
+842,Cancer,Connective and soft tissue,a288968012,"Malignant neoplasm of connective and soft tissue, upper arm",L1:Cancer_L2:Connective and soft tissue,B311100
+843,Cancer,Connective and soft tissue,a288969016,Malignant neoplasm of connective and soft tissue of fore-arm,L1:Cancer_L2:Connective and soft tissue,B311200
+844,Cancer,Connective and soft tissue,a288970015,Malignant neoplasm of connective and soft tissue of hand,L1:Cancer_L2:Connective and soft tissue,B311300
+845,Cancer,Connective and soft tissue,a288971016,Malignant neoplasm of connective and soft tissue of finger,L1:Cancer_L2:Connective and soft tissue,B311400
+846,Cancer,Connective and soft tissue,a288972011,Malignant neoplasm of connective and soft tissue of thumb,L1:Cancer_L2:Connective and soft tissue,B311500
+847,Cancer,Connective and soft tissue,a729301000006112,Malig neop connective soft tissue upper limb/shoulder NOS,L1:Cancer_L2:Connective and soft tissue,B311z00
+848,Cancer,Connective and soft tissue,a729401000006115,Malig neop of connective and soft tissue of hip and leg,L1:Cancer_L2:Connective and soft tissue,B312.00
+849,Cancer,Connective and soft tissue,a288975013,Malignant neoplasm of connective and soft tissue of hip,L1:Cancer_L2:Connective and soft tissue,B312000
+850,Cancer,Connective and soft tissue,a729451000006116,Malig neop of connective and soft tissue thigh and upper leg,L1:Cancer_L2:Connective and soft tissue,B312100
+851,Cancer,Connective and soft tissue,a730251000006110,Malig neop connective and soft tissue of popliteal space,L1:Cancer_L2:Connective and soft tissue,B312200
+852,Cancer,Connective and soft tissue,a729421000006113,Malig neop of connective and soft tissue of lower leg,L1:Cancer_L2:Connective and soft tissue,B312300
+853,Cancer,Connective and soft tissue,a288979019,Malignant neoplasm of connective and soft tissue of foot,L1:Cancer_L2:Connective and soft tissue,B312400
+854,Cancer,Connective and soft tissue,a288980016,Malignant neoplasm of connective and soft tissue of toe,L1:Cancer_L2:Connective and soft tissue,B312500
+855,Cancer,Connective and soft tissue,a730241000006113,Malig neop connective and soft tissue hip and leg NOS,L1:Cancer_L2:Connective and soft tissue,B312z00
+856,Cancer,Connective and soft tissue,a288985014,Malignant neoplasm of connective and soft tissue of thorax,L1:Cancer_L2:Connective and soft tissue,B313.00
+857,Cancer,Connective and soft tissue,a288986010,Malignant neoplasm of connective and soft tissue of axilla,L1:Cancer_L2:Connective and soft tissue,B313000
+858,Cancer,Connective and soft tissue,a155209019,Malignant neoplasm of diaphragm,L1:Cancer_L2:Connective and soft tissue,B313100
+859,Cancer,Connective and soft tissue,a155272012,Malignant neoplasm of great vessels,L1:Cancer_L2:Connective and soft tissue,B313200
+860,Cancer,Connective and soft tissue,a728491000006116,Malig neoplasm of connective and soft tissues of thor spine,L1:Cancer_L2:Connective and soft tissue,B313300
+861,Cancer,Connective and soft tissue,a729441000006118,Malig neop of connective and soft tissue of thorax NOS,L1:Cancer_L2:Connective and soft tissue,B313z00
+862,Cancer,Connective and soft tissue,a288991011,Malignant neoplasm of connective and soft tissue of abdomen,L1:Cancer_L2:Connective and soft tissue,B314.00
+863,Cancer,Connective and soft tissue,a729381000006115,Malig neop of connective and soft tissue of abdominal wall,L1:Cancer_L2:Connective and soft tissue,B314000
+864,Cancer,Connective and soft tissue,a728481000006119,Malig neoplasm of connective and soft tissues of lumb spine,L1:Cancer_L2:Connective and soft tissue,B314100
+865,Cancer,Connective and soft tissue,a729371000006118,Malig neop of connective and soft tissue of abdomen NOS,L1:Cancer_L2:Connective and soft tissue,B314z00
+866,Cancer,Connective and soft tissue,a288995019,Malignant neoplasm of connective and soft tissue of pelvis,L1:Cancer_L2:Connective and soft tissue,B315.00
+867,Cancer,Connective and soft tissue,a288999013,Malignant neoplasm of connective and soft tissue of buttock,L1:Cancer_L2:Connective and soft tissue,B315000
+868,Cancer,Connective and soft tissue,a729411000006117,Malig neop of connective and soft tissue of inguinal region,L1:Cancer_L2:Connective and soft tissue,B315100
+869,Cancer,Connective and soft tissue,a289001014,Malignant neoplasm of connective and soft tissue of perineum,L1:Cancer_L2:Connective and soft tissue,B315200
+870,Cancer,Connective and soft tissue,a728451000006110,Malig neopl of connective and soft tissue - sacrum or coccyx,L1:Cancer_L2:Connective and soft tissue,B315300
+871,Cancer,Connective and soft tissue,a729431000006111,Malig neop of connective and soft tissue of pelvis NOS,L1:Cancer_L2:Connective and soft tissue,B315z00
+872,Cancer,Connective and soft tissue,a729461000006119,Malig neop of connective and soft tissue trunk unspecified,L1:Cancer_L2:Connective and soft tissue,B316.00
+873,Cancer,Connective and soft tissue,a729281000006113,Malig neop connective and soft tissue other specified site,L1:Cancer_L2:Connective and soft tissue,B31y.00
+874,Cancer,Connective and soft tissue,a289007013,"Malignant neoplasm of connective and soft tissue, site NOS",L1:Cancer_L2:Connective and soft tissue,B31z.00
+875,Cancer,Connective and soft tissue,a289008015,Kaposi's sarcoma of soft tissue,L1:Cancer_L2:Connective and soft tissue,B31z000
+876,Cancer,Connective and soft tissue,a722911000006119,"Malignant neoplasm of peripheral nerves of head, face & neck",L1:Cancer_L2:Connective and soft tissue,B524000
+877,Cancer,Connective and soft tissue,a722901000006117,"Malignant neoplasm of peripheral nerve,upp limb,incl should",L1:Cancer_L2:Connective and soft tissue,B524100
+878,Cancer,Connective and soft tissue,a722871000006117,"Malignant neoplasm of peripheral nerve of low limb, incl hip",L1:Cancer_L2:Connective and soft tissue,B524200
+879,Cancer,Connective and soft tissue,a289388010,Malignant neoplasm of peripheral nerve of thorax,L1:Cancer_L2:Connective and soft tissue,B524300
+880,Cancer,Connective and soft tissue,a289389019,Malignant neoplasm of peripheral nerve of abdomen,L1:Cancer_L2:Connective and soft tissue,B524400
+881,Cancer,Connective and soft tissue,a289390011,Malignant neoplasm of peripheral nerve of pelvis,L1:Cancer_L2:Connective and soft tissue,B524500
+882,Cancer,Connective and soft tissue,a2659772015,Histiocytic sarcoma,L1:Cancer_L2:Connective and soft tissue,B62D.00
+883,Cancer,Connective and soft tissue,a305551000006110,[M]Angiosarcoma,L1:Cancer_L2:Connective and soft tissue,BBT1.11
+884,Cancer,Connective and soft tissue,a1230800010,[M]Kaposi's sarcoma,L1:Cancer_L2:Connective and soft tissue,BBTA.00
+885,Cancer,Connective and soft tissue,a309731000006110,"[M]Haemangiopericytoma, malignant",L1:Cancer_L2:Connective and soft tissue,BBTD200
+886,Cancer,Connective and soft tissue,a313521000006119,[M]Myxoid chondrosarcoma,L1:Cancer_L2:Connective and soft tissue,BBV9.00
+887,Cancer,Connective and soft tissue,a291782010,[M]Chondrosarcoma NOS,L1:Cancer_L2:Connective and soft tissue,BBW4.00
+888,Cancer,Connective and soft tissue,a308501000006115,[M]Fibrochondrosarcoma,L1:Cancer_L2:Connective and soft tissue,BBW4.11
+889,Cancer,Connective and soft tissue,a310791000006118,[M]Juxtacortical chondrosarcoma,L1:Cancer_L2:Connective and soft tissue,BBW6.00
+890,Cancer,Connective and soft tissue,a306681000006110,"[M]Chondroblastoma, malignant",L1:Cancer_L2:Connective and soft tissue,BBW8.00
+891,Cancer,Connective and soft tissue,a312421000006114,[M]Mesenchymal chondrosarcoma,L1:Cancer_L2:Connective and soft tissue,BBW9.00
+892,Cancer,Connective and soft tissue,a1228269013,[M]Myeloid sarcoma,L1:Cancer_L2:Connective and soft tissue,BBrA300
+893,Cancer,Connective and soft tissue,a1228267010,[M]Granulocytic sarcoma,L1:Cancer_L2:Connective and soft tissue,BBrA312
+894,Cancer,Connective and soft tissue,a403762019,[X]Mesothelioma of other sites,L1:Cancer_L2:Connective and soft tissue,Byu5000
+895,Cancer,Connective and soft tissue,a398291000006110,[X]Mesothelioma of lung,L1:Cancer_L2:Connective and soft tissue,Byu5011
+896,Cancer,Connective and soft tissue,a292126018,"[X]Mesothelioma, unspecified",L1:Cancer_L2:Connective and soft tissue,Byu5100
+897,Cancer,Connective and soft tissue,a291780019,[M]Chondromatous neoplasms,L1:Cancer_L2:Connective and soft tissue,BBW..00
+898,Cancer,Connective and soft tissue,a291783017,[M]Chondroblastoma NOS,L1:Cancer_L2:Connective and soft tissue,BBW7.00
+899,Cancer,Connective and soft tissue,a306721000006115,[M]Chondromatous giant cell tumour,L1:Cancer_L2:Connective and soft tissue,BBW7.11
+900,Cancer,Connective and soft tissue,a291786013,[M]Chondromatous neoplasm NOS,L1:Cancer_L2:Connective and soft tissue,BBWz.00

@@ -1,0 +1,78 @@
+med_code_id,term,snomed_ct_concept_id,observations
+459309011,Arthropathy due to type 2 diabetes mellitus (disorder),314903002,8
+459310018,Arthropathy due to type 2 diabetes mellitus (disorder),314903002,200
+459311019,Arthropathy due to type 2 diabetes mellitus (disorder),314903002,30
+84491000006118,Arthropathy due to type 2 diabetes mellitus (disorder),314903002,10
+84861000006112,Arthropathy due to type 2 diabetes mellitus (disorder),314903002,2
+1488898011,Hyperosmolar non-ketotic state due to type 2 diabetes mellitus (disorder),395204000,1000
+850691000006118,Hyperosmolar non-ketotic state due to type 2 diabetes mellitus (disorder),395204000,400
+1667891000000113,Hyperosmolar non-ketotic state due to type 2 diabetes mellitus (disorder),395204000,70
+14079871000006119,Hyperosmolar non-ketotic state due to type 2 diabetes mellitus (disorder),395204000,3
+616531000006116,Ketoacidosis due to type 2 diabetes mellitus (disorder),421750000,700
+928581000006111,Ketoacidosis due to type 2 diabetes mellitus (disorder),421750000,2000
+928591000006114,Ketoacidosis due to type 2 diabetes mellitus (disorder),421750000,70
+6977421000006110,Ketoacidosis due to type 2 diabetes mellitus (disorder),421750000,2
+14083991000006115,Ketoacidosis due to type 2 diabetes mellitus (disorder),421750000,3
+292589019,Type II diabetes mellitus uncontrolled (finding),443694000,200
+292590011,Type II diabetes mellitus uncontrolled (finding),443694000,10000
+84481000006116,Type II diabetes mellitus uncontrolled (finding),443694000,1000
+84851000006110,Type II diabetes mellitus uncontrolled (finding),443694000,600
+281171000006119,Type II diabetes mellitus uncontrolled (finding),443694000,8000
+7281511000006118,Type II diabetes mellitus uncontrolled (finding),443694000,3
+7306751000006110,Brittle type II diabetes mellitus (finding),445353002,2
+2287971000000119,Diabetes mellitus in remission (disorder),703136005,20000
+8044171000006110,Neuropathic ulcer of toe due to type 2 diabetes mellitus (disorder),140381000119104,2
+7968751000006116,Diabetes mellitus type 2 without retinopathy (disorder),1481000119100,2
+292576013,Multiple complications due to type 2 diabetes mellitus (disorder),190388001,30
+292577016,Multiple complications due to type 2 diabetes mellitus (disorder),190388001,2000
+84541000006111,Multiple complications due to type 2 diabetes mellitus (disorder),190388001,200
+84911000006119,Multiple complications due to type 2 diabetes mellitus (disorder),190388001,3
+280581000006118,Multiple complications due to type 2 diabetes mellitus (disorder),190388001,300
+14071211000006113,Multiple complications due to type 2 diabetes mellitus (disorder),190388001,1
+292579018,Type II diabetes mellitus with ulcer (disorder),190389009,1000
+292581016,Type II diabetes mellitus with ulcer (disorder),190389009,40
+84631000006119,Type II diabetes mellitus with ulcer (disorder),190389009,80
+85001000006117,Type II diabetes mellitus with ulcer (disorder),190389009,60
+280551000006114,Type II diabetes mellitus with ulcer (disorder),190389009,300
+1223147012,Insulin treated type 2 diabetes mellitus (disorder),237599002,2000
+1223148019,Insulin treated type 2 diabetes mellitus (disorder),237599002,1000
+840951000006119,Insulin treated type 2 diabetes mellitus (disorder),237599002,40000
+841351000006110,Insulin treated type 2 diabetes mellitus (disorder),237599002,1000
+914391000006116,Insulin treated type 2 diabetes mellitus (disorder),237599002,500000
+5109461000006115,Insulin treated type 2 diabetes mellitus (disorder),237599002,2
+457328010,Type II diabetes mellitus without complication (disorder),313436004,5000
+457329019,Type II diabetes mellitus without complication (disorder),313436004,9000
+457330012,Type II diabetes mellitus without complication (disorder),313436004,900
+84641000006112,Type II diabetes mellitus without complication (disorder),313436004,80
+85011000006119,Type II diabetes mellitus without complication (disorder),313436004,50
+616511000006110,Type II diabetes mellitus without complication (disorder),313436004,70000
+459306016,Peripheral angiopathy due to type 2 diabetes mellitus (disorder),314902007,50
+459308015,Peripheral angiopathy due to type 2 diabetes mellitus (disorder),314902007,200
+84591000006119,Peripheral angiopathy due to type 2 diabetes mellitus (disorder),314902007,6
+84961000006116,Peripheral angiopathy due to type 2 diabetes mellitus (disorder),314902007,20
+280561000006111,Peripheral angiopathy due to type 2 diabetes mellitus (disorder),314902007,60
+459312014,Type II diabetes mellitus with neuropathic arthropathy (disorder),314904008,30
+459313016,Type II diabetes mellitus with neuropathic arthropathy (disorder),314904008,800
+84571000006115,Type II diabetes mellitus with neuropathic arthropathy (disorder),314904008,20
+84941000006115,Type II diabetes mellitus with neuropathic arthropathy (disorder),314904008,10
+281181000006116,Type II diabetes mellitus with neuropathic arthropathy (disorder),314904008,20
+928561000006118,Persistent microalbuminuria due to type 2 diabetes mellitus (disorder),420715001,50000
+928571000006113,Persistent microalbuminuria due to type 2 diabetes mellitus (disorder),420715001,2000
+14083811000006118,Persistent microalbuminuria due to type 2 diabetes mellitus (disorder),420715001,2000
+616541000006114,Ketoacidotic coma due to type 2 diabetes mellitus (disorder),421847006,20
+928601000006118,Ketoacidotic coma due to type 2 diabetes mellitus (disorder),421847006,40
+928611000006115,Ketoacidotic coma due to type 2 diabetes mellitus (disorder),421847006,4
+12704991000006114,Ketoacidotic coma due to type 2 diabetes mellitus (disorder),421847006,1
+616501000006112,Disorder due to type 2 diabetes mellitus (disorder),422014003,600
+73466011,Diabetes mellitus type 2 (disorder),44054006,100000
+197761014,Diabetes mellitus type 2 (disorder),44054006,20000000
+493773010,Diabetes mellitus type 2 (disorder),44054006,40000
+493774016,Diabetes mellitus type 2 (disorder),44054006,600000
+84471000006119,Diabetes mellitus type 2 (disorder),44054006,200000
+84841000006113,Diabetes mellitus type 2 (disorder),44054006,50000
+223291000000111,Diabetes mellitus type 2 (disorder),44054006,20000
+280571000006116,Diabetes mellitus type 2 (disorder),44054006,700000
+3209431000006116,Diabetes mellitus type 2 (disorder),44054006,3
+3209441000006114,Diabetes mellitus type 2 (disorder),44054006,200
+2288061000000111,Type II diabetes mellitus in remission (disorder),703138006,10000
+2288071000000116,Type II diabetes mellitus in remission (disorder),703138006,8000

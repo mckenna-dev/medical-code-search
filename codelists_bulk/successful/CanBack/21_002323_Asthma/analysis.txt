@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 272
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2          MedCodeID                                    Term
+0   7732     Respiratory          Asthma         a104872017  Extrinsic sthm without sttus sthmticus
+1   7733     Respiratory          Asthma  a1118291000000110                 sthm control test score
+2   7734     Respiratory          Asthma  a1139011000000112         sthm Control Questionnire score

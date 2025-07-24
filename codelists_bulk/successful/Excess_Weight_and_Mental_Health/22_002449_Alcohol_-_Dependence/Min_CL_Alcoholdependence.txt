@@ -1,0 +1,60 @@
+	MedCodeId	Observations	Term	alcohol_dependence
+0	a500478011	1000000	Alcohol dependence syndrome	alcohol_dependence
+1	a12878014	200000	Alcoholism	alcohol_dependence
+2	a295144019	100000	Alcohol dependence syndrome NOS	alcohol_dependence
+3	a476611000006116	100000	Alcoholic cirrhosis of liver	alcohol_dependence
+4	a13929361000006112	100000	Alcohol detoxification	alcohol_dependence
+5	a294674018	80000	Alcohol withdrawal syndrome	alcohol_dependence
+6	a110629012	60000	Chronic alcoholism	alcohol_dependence
+7	a283559019	10000	Admitted to alcohol detoxification centre	alcohol_dependence
+8	a251626014	60000	H/O: alcoholism	alcohol_dependence
+9	a295136019	50000	Alcohol dependence	alcohol_dependence
+10	a106878015	50000	Alcohol detoxification	alcohol_dependence
+11	a315091000000117	20000	Alcohol withdrawal-induced seizure	alcohol_dependence
+12	a353698013	10000	Alcohol-induced chronic pancreatitis	alcohol_dependence
+13	a138527014	10000	Alcoholic cardiomyopathy	alcohol_dependence
+14	a295127018	10000	Acute alcoholic intoxication in alcoholism	alcohol_dependence
+15	a362921000006118	10000	[X]Alcohol addiction	alcohol_dependence
+16	a753331000006118	8000	Korsakov alcoholic psychosis	alcohol_dependence
+17	a295143013	6000	Chronic alcoholism NOS	alcohol_dependence
+18	a370971000006114	5000	[X]Chronic alcoholism	alcohol_dependence
+19	a295142015	5000	Chronic alcoholism in remission	alcohol_dependence
+20	a15243013	4000	Alcohol withdrawal delirium	alcohol_dependence
+21	a295141010	4000	Episodic chronic alcoholism	alcohol_dependence
+22	a297011014	3000	Alcoholic encephalopathy	alcohol_dependence
+23	a15244019	3000	Delirium tremens	alcohol_dependence
+24	a453265010	2000	Oesophageal varices in alcoholic cirrhosis of the liver	alcohol_dependence
+25	a507053019	1000	DTs - delirium tremens	alcohol_dependence
+26	a294669014	1000	Alcohol withdrawal hallucinosis	alcohol_dependence
+27	a376451000006113	1000	"[X]Delirium tremens, alcohol induced"	alcohol_dependence
+28	a478046010	1000	Cerebellar ataxia due to alcoholism	alcohol_dependence
+29	a2502971000006115	1000	Dementia associated with alcoholism	alcohol_dependence
+30	a295128011	900	"Acute alcoholic intoxication, unspecified, in alcoholism"	alcohol_dependence
+31	a294668018	900	Chronic alcoholic brain syndrome	alcohol_dependence
+32	a451124014	800	Chronic alcoholic hepatitis	alcohol_dependence
+33	a542611000006114	700	Cerebral degeneration due to alcoholism	alcohol_dependence
+34	a2298341000000114	700	In-house alcohol detoxification	alcohol_dependence
+35	a371501000000110	700	Delivery of rehabilitation for alcohol addiction	alcohol_dependence
+36	a295132017	600	Acute alcoholic intoxication in alcoholism NOS	alcohol_dependence
+37	a295130013	500	Episodic acute alcoholic intoxication in alcoholism	alcohol_dependence
+38	a295126010	500	Alcohol dependence with acute alcoholic intoxication	alcohol_dependence
+39	a370961000006119	400	[X]Chronic alcoholic brain syndrome	alcohol_dependence
+40	a295131012	300	"Acute alcoholic intoxication in remission, in alcoholism"	alcohol_dependence
+41	a2358251000000115	300	Alcohol dependence resolved	alcohol_dependence
+42	a295129015	200	Continuous acute alcoholic intoxication in alcoholism	alcohol_dependence
+43	a1779661000006118	100	Alcohol detoxification declined	alcohol_dependence
+44	a3122331000006110	60	Patient referral for alcoholism rehabilitation	alcohol_dependence
+45	a2614651000006115	60	Alcoholism	alcohol_dependence
+46	a502016018	40	Dipsomania	alcohol_dependence
+47	a7710581000006113	40	Severe alcohol dependence	alcohol_dependence
+48	a2626141000006112	30	Alcoholic polyneuropathy	alcohol_dependence
+49	a1974141000006118	20	"Mental and behav dis due to use alcohol: dependence syndr, episodic use [dipsomania]"	alcohol_dependence
+50	a7725141000006111	20	Moderate alcohol dependence	alcohol_dependence
+51	a7706231000006114	20	Mild alcohol dependence	alcohol_dependence
+52	a8088751000006117	10	Alcohol dependence with alcohol induced disorder	alcohol_dependence
+53	a8048151000006113	9	Chronic pancreatitis due to chronic alcoholism	alcohol_dependence
+54	a377081000006114	8	[X]Dipsomania	alcohol_dependence
+55	a5564291000006118	6	Alcoholism detoxication centre	alcohol_dependence
+56	a8088741000006119	4	Alcohol induced disorder co-occurrent and due to alcohol dependence	alcohol_dependence
+57	a1878791000006112	3	In-house alcohol detoxification	alcohol_dependence
+58	a3545841000006113	3	Detoxication therapy for alcoholism	alcohol_dependence

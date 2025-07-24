@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 26
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2  MedCodeID                    Term
+0   1728          Cancer        Melanoma  a84190018  Clark melanoma level 2
+1   1729          Cancer        Melanoma  a35572018  Clark melanoma level 3
+2   1730          Cancer        Melanoma   a3704012  Clark melanoma level 4

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 21
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tLDL']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                                       \tMedCodeId\tObservations\tTerm\tLDL
+0             0\ta259233017\t30000000\tSerum low density lipoprotein cholesterol level\tLDL
+1  1\ta1488764011\t8000000\tCalculated LDL (low density lipoprotein) cholesterol level\tLDL
+2       2\ta458314019\t2000000\tPlasma LDL (low density lipoprotein) cholesterol level\tLDL

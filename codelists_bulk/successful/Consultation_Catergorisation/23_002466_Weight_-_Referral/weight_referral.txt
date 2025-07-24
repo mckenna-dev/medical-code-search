@@ -1,0 +1,24 @@
+MedCodeId,Observations,Term,SnomedCTConceptId
+a2154209017,300000,Refer to weight management programme,408289007
+a297811000000117,100000,Weight management programme offered,819361000000109
+a1750991000000117,100000,Weight management service opportunity signposted,783041000000106
+a1709681000000111,80000,Referral to weight management service offered,767661000000105
+a297841000000116,50000,Weight management plan started,819321000000101
+a14176391000006111,40000,Referral to weight management service,1326201000000101
+a1721501000000113,30000,Referral to local authority weight management programme,771491000000104
+a14811551000006116,20000,Referral to NHS Digital Weight Management Programme,1402911000000108
+a628891000000118,10000,Counterweight weight management programme,313251000000103
+a14811711000006112,7000,Referral to NHS Tier 3 specialist weight management service,1403011000000103
+a2714971000000116,6000,Signposting to weight management service,1083431000000109
+a1735631000000119,4000,Discussion about weight management programme,776931000000102
+a14393821000006111,2000,Referred to Adult's Weight Management Service,14393821000006107
+a1844501000006115,900,Referral to weight management special interest general practitioner,837181000000103
+a2173321000000116,500,Referral to residential weight management programme,837111000000105
+a14811701000006114,300,Referral to NHS Tier 4 specialist weight management service,1402991000000104
+a2326311000000114,200,Intensive weight management programme commenced,904551000000107
+a1778201000006111,40,Group session: Weight management,1778201000006107
+a7771301000006110,30,Weight management program,718361005
+a7771291000006114,20,Weight management programme,718361005
+a6759901000006112,10,Refer to weight management program,408289007
+a2000621000006111,9,Date for weight management intervention offered to patient,2000621000006107
+a8278851000006114,3,Referral to weight management GPwSI (general practitioner with special interest),837181000000103

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 146
+Columns: 1
+Column names: ['v1\tmedcode\treadcode\tclinicalevents\treadterm']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                              v1\tmedcode\treadcode\tclinicalevents\treadterm
+0  115\t39799\t"Eu10600"\t166\t"[X]Mental and behav dis due to use alcohol: amnesic syndrome"
+1                                       2\t12710\t"6AB..00"\t384544\t"Dementia annual review"
+2                              153\t30032\t"E001200"\t172\t"Presenile dementia with paranoia"

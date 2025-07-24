@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 6
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId  Observations                          Term  SNOMED_CT_Concept_ID
+0  457965015      44490970   Serum total bilirubin level       997591000000109
+1  258906017      16823955         Serum bilirubin level       999691000000104
+2  458177010       2340220  Plasma total bilirubin level       997561000000103

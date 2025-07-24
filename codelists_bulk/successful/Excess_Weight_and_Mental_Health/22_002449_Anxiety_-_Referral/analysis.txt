@@ -1,0 +1,11 @@
+=== FILE ANALYSIS ===
+Rows: 2
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tAnxiety_referral']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                              \tMedCodeId\tObservations\tTerm\tAnxiety_referral
+0         0\t300681000000118\t4000\tReferral for guided self-help for anxiety\tAnxiety_referral
+1  1\t2618361000000113\t700\tReferral for psychological management of anxiety\tAnxiety_referral

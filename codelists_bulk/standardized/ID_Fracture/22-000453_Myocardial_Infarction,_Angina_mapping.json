@@ -1,0 +1,42 @@
+{
+  "original_file": "codelists_bulk\\successful\\ID_Fracture\\22-000453_Myocardial_Infarction,_Angina\\standardized_MI%20angina%20Aurum%20VF%206%20March%202022.csv",
+  "original_columns": [
+    "MedCodeId",
+    "Term",
+    "Observations",
+    "SNOMED_CT_Concept_ID",
+    "OriginalReadCode",
+    "CleansedReadCode",
+    "SnomedCTDescriptionId",
+    "Unnamed: 7",
+    "Search terms: *myocardial infarction* *heart attack* *angina*"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "snomed_ct_concept_id": "SNOMED_CT_Concept_ID",
+    "observations": "Observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "snomed_ct_concept_id": {
+      "column": "SNOMED_CT_Concept_ID",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 181,
+  "rows_standardized": 181,
+  "project": "ID_Fracture",
+  "codelist": "22-000453_Myocardial_Infarction,_Angina"
+}

@@ -1,0 +1,41 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a420192012	23159	Premature delivery	b282020008
+a305903017	10071	Early onset of delivery - delivered	b282020008
+a499688015	8271	Premature labour	b6383007
+a405120018	3258	Early onset of delivery	b6383007
+a1816741000006114	586	Premature labour and delivery	b282020008
+a962111000006115	390	Prenatal complications/preterm labour	b962111000006104
+a30590201	365	Early onset of delivery unspecified	b6383007
+a1816761000006113	278	Premature labour with premature delivery	b282020008
+a305904011	175	Early onset of delivery NOS	b6383007
+a906921000006114	141	[RFC] Premature onset of labour	b906921000006105
+a1816771000006118	40	Premature labour with term delivery	b282020008
+a6298091000006114	16	Premature birth of newborn	b367494004
+a1816781000006115	15	Premature delivery without labour	b282020008
+a9326571000006113	10	Preterm labour with preterm delivery	b10761241000119104
+a2601701000006114	6	Preterm labour	b6383007
+a9325771000006111	6	Preterm premature rupture of membranes with onset of labour unknown	b10759661000119108
+a9326581000006111	6	Preterm labor with preterm delivery	b10761241000119104
+a7511791000006113	5	Preterm spontaneous labour with preterm delivery	b698716002
+a2601711000006112	3	Preterm labor	b6383007
+a4798681000006116	3	Premature rupture of membranes with onset of labour within 24 hours of the rupture	b199660008
+a4798741000006116	2	Premature rupture of membranes with onset of labor after 24 hours of the rupture	b199662000
+a14726841000006116	2	Disorder of early neonate and/or fetus during second intrapartum stage due to forceps delivery	b1193556001
+a3766101000006117	2	Stillbirth of premature male (1000-2499 gms.)	b77814006
+a3464721000006113	2	Premature birth of newborn female	b59403008
+a7511821000006116	2	Preterm spontaneous labor with term delivery	b698717006
+a2577001000006116	2	Premature birth of newborn male	b4886009
+a2601681000006111	2	Premature labor	b6383007
+a3386841000006112	2	Premature birth of stillborn twins	b54650005
+a2966381000006112	1	Stillbirth of premature female (1000-2499 gms.)	b28996007
+a2719711000006118	1	Premature birth of newborn twins	b13859001
+a4798671000006119	1	Premature rupture of membranes with onset of labor within 24 hours of the rupture	b199660008
+a4798731000006114	1	Premature rupture of membranes with onset of labour after 24 hours of the rupture	b199662000
+a9325811000006111	1	Preterm premature rupture of membranes with onset of labor within 24 hours of rupture	b10759711000119103
+a9326541000006117	1	Preterm labour with preterm delivery in third trimester	b10761191000119104
+a14726861000006117	1	Disorder of early neonate and/or fetus during second intrapartum stage due to vacuum extraction delivery	b1193558000
+a14726851000006119	1	Disorder of early neonate and/or fetus during second intrapartum stage due to instrumental delivery	b1193557005
+a7836911000006117	1	Baby premature at delivery 23 completed weeks	b722840003
+a9325761000006116	1	Preterm premature rupture of membranes with onset of labor later than 24 hours after rupture	b10759611000119105
+a7511801000006114	1	Preterm spontaneous labor with preterm delivery	b698716002
+a9324521000006119	1	Premature rupture of membranes in full term pregnancy with onset of labour within 24 hours of rupture	b10753181000119105

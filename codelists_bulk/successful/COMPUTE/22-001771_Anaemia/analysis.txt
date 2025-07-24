@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 299
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                     Term  SNOMED_CT_Concept_ID
+0        399230013       2000000                  Anaemia           271737000.0
+1  745851000006117       2000000  Iron deficiency anaemia            87522002.0
+2        505888017        700000       Pernicious anaemia            84027009.0

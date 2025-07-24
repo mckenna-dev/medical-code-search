@@ -1,0 +1,49 @@
+med_code_id,term,snomed_ct_concept_id,observations
+2664351000006113,Chronic right-sided heart failure (disorder),10335000,100
+18472010,Acute congestive heart failure (disorder),10633002,7000
+4193361000006119,Chronic left-sided heart failure (disorder),111283005,8
+206703015,Right heart failure (disorder),128404006,20000
+8048061000006111,Chronic combined systolic and diastolic heart failure (disorder),153941000119100,2
+300179017,Decompensated cardiac failure (disorder),195111005,20000
+300190010,Acute left ventricular failure (disorder),195114002,10000
+2616472016,New York Heart Association Classification - Class III (finding),420913000,40000
+2616471011,New York Heart Association Classification - Class II (finding),421704003,80000
+70653017,Congestive heart failure (disorder),42343007,700000
+493287011,Congestive heart failure (disorder),42343007,500000
+3182531000006110,Congestive heart failure (disorder),42343007,2
+3182541000006117,Congestive heart failure (disorder),42343007,900
+3182551000006115,Congestive heart failure (disorder),42343007,800
+3182561000006118,Congestive heart failure (disorder),42343007,1
+2675255018,Congestive heart failure due to valvular disease (disorder),426611007,900
+72934016,Rheumatic left ventricular failure (disorder),43736008,300
+7250571000006113,Chronic systolic heart failure (disorder),441481004,20
+7251291000006119,Chronic diastolic heart failure (disorder),441530006,100
+2585431000006117,Chronic left-sided congestive heart failure (disorder),5375005,3
+3589241000006116,Chronic right-sided congestive heart failure (disorder),66989003,30
+141306010,Left heart failure (disorder),85232009,700000
+3886041000006118,Left heart failure (disorder),85232009,10000
+3886071000006114,Left heart failure (disorder),85232009,10
+510016018,Biventricular congestive heart failure (disorder),92506005,20000
+4005301000006110,Biventricular congestive heart failure (disorder),92506005,4
+14015051000006114,Acute on chronic right-sided congestive heart failure (disorder),16838951000119100,10
+300180019,Compensated cardiac failure (disorder),195112003,1000
+350484012,Heart failure as a complication of care (disorder),233924009,80
+490972013,Right ventricular failure (disorder),367363000,3000
+1816101000006113,Right ventricular failure (disorder),367363000,3000
+2616470012,New York Heart Association Classification - Class I (finding),420300004,40000
+2616473014,New York Heart Association Classification - Class IV (finding),422293003,3000
+1647701000000118,Heart failure with normal ejection fraction (disorder),446221000,10000
+1661371000000112,Heart failure with normal ejection fraction (disorder),446221000,500
+2227501000000110,Heart failure with normal ejection fraction (disorder),446221000,8000
+7321121000006119,Heart failure with normal ejection fraction (disorder),446221000,600
+3283871000006117,Chronic heart failure (disorder),48447003,80
+94251011,Acute heart failure (disorder),56675007,4000
+7573171000006116,Heart failure with reduced ejection fraction (disorder),703272007,1000
+13910671000006110,Heart failure with mid range ejection fraction (disorder),788950000,100
+139475013,Heart failure (disorder),84114007,800000
+139481017,Heart failure (disorder),84114007,100
+139482012,Heart failure (disorder),84114007,30000
+395772015,Heart failure (disorder),84114007,40000
+223981000000118,Heart failure (disorder),84114007,2000
+3868341000006118,Heart failure (disorder),84114007,1
+147247018,Chronic congestive heart failure (disorder),88805009,20000

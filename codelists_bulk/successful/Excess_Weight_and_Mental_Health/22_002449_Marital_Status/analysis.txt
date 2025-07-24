@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 127
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tmarital_category']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+      \tMedCodeId\tObservations\tTerm\tmarital_category
+0  0\ta250503019\t40000\tHomeless single person\tsingle
+1   1\ta262935017\t20000\tNo partner at present\tsingle
+2                 2\ta84322012\t5000000\tSingle\tsingle

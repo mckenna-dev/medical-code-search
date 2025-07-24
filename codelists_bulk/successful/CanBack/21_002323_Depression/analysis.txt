@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 170
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2           MedCodeID                                                                    Term
+0   7048     Psychiatric      Depression  a12127531000006113      Recurrent mild major depressive disorder co-occurrent with anxiety
+1   7049     Psychiatric      Depression  a12127541000006115    Recurrent severe major depressive disorder co-occurrent with anxiety
+2   7050     Psychiatric      Depression  a12127551000006118  Recurrent moderate major depressive disorder co-occurrent with anxiety

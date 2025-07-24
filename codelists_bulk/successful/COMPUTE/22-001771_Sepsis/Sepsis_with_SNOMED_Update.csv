@@ -1,0 +1,114 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+151281010,200000,Sepsis,91302008
+1209801015,60000,Sepsis due to urinary tract infection,721104000
+291664017,60000,Septicaemia,91302008
+1814601000006112,30000,Sepsis,91302008
+2840966012,10000,Neutropenic sepsis,443980004
+316411018,10000,Umbilical sepsis,276678006
+1650161000000119,10000,Biliary sepsis,750511000000101
+492822016,10000,Meningococcal septicaemia,4089001
+316478018,7000,Sepsis of the newborn,206376005
+395333017,7000,Septicaemia NOS,91302008
+317357011,6000,Septic shock,76571007
+510257017,3000,Sepsis due to Escherichia coli,447899008
+633541000006114,3000,E.coli septicaemia,447899008
+365023014,2000,Staphylococcal septicaemia,447894003
+458426011,2000,Meningococcal meningitis with meningococcal septicaemia,314130008
+484332018,2000,Streptococcal septicaemia,448418006
+509175013,2000,Pneumococcal septicaemia,448421008
+1814801000006113,2000,Sepsis NOS,91302008
+1814791000006112,2000,Other specified sepsis,91302008
+66843013,2000,Puerperal sepsis,2858002
+705871000006118,1000,Meningococcal meningitis with acute meningococcal septicaemia,313437008
+806571000006110,1000,Gram negative septicaemia NOS,449082003
+316914018,1000,Bacterial sepsis of newborn,276669000
+148801000006117,1000,Puerperal sepsis,2858002
+286497012,1000,Septicaemia due to Staphylococcus aureus,448417001
+286484010,800,"Septicaemia due to streptococcus, group B",448419003
+495504016,700,Salmonella septicaemia,449083008
+286481019,600,"Septicaemia due to streptococcus, group A",449504009
+286511014,600,Other specified septicaemias,91302008
+2900354014,600,Sepsis due to Staphylococcus aureus,448417001
+2899980010,500,Sepsis due to Gram negative bacteria,449082003
+492921010,500,Septicaemia of newborn,206376005
+1217028013,500,Sepsis due to Pseudomonas,448813005
+2900357019,500,Sepsis due to Streptococcus group B,448419003
+316410017,500,Other specified umbilical sepsis,239095007
+454282018,400,Septicaemia due to enterococcus,310669007
+288053014,400,"[X]Septicaemia, unspecified",91302008
+894311000006116,400,Umbilical sepsis - perinatal,42052009
+1216110018,400,[D]Septicaemic shock,76571007
+148811000006119,300,Sepsis NOS following abortion/ectopic/molar pregnancy,198609003
+454280014,300,Septicaemia due to streptococcus pneumoniae,448421008
+149081000006113,300,Septicaemia due to other gram negative organisms,449082003
+506459019,300,Postoperative sepsis,698819004
+1206286018,300,Haemophilus influenzae septicaemia,447685007
+2900355010,300,Sepsis due to Streptococcus,448418006
+2900359016,300,Sepsis due to Streptococcus pneumoniae,448421008
+2900360014,300,Sepsis due to Streptococcus group A,449504009
+425941000006119,300,Neonatal sepsis due to Streptococcus,944061000000108
+127157017,300,Septic shock,76571007
+325119019,200,Postoperative septic shock,213256002
+148841000006115,200,Sepsis of newborn due to other+unspecified streptococci,944061000000108
+316480012,200,Sepsis of newborn due to Staphylococcus aureus,206378006
+288045018,200,[X]Other streptococcal septicaemia,448418006
+288048016,200,"[X]Streptococcal septicaemia, unspecified",448418006
+288052016,200,[X]Other specified septicaemia,91302008
+112117014,200,Spontaneous abortion with sepsis,67465009
+2900059011,200,Sepsis due to Staphylococcus,447894003
+1780971000006118,200,Urosepsis,371093006
+286501019,200,Sepsis due to coagulase negative Staphylococcus,449505005
+286410013,200,Pasteurella septic infection (cat or dog bite),186327003
+2532525012,100,Vancomycin resistant enterococcal septicaemia,310649002
+1814981000006111,100,Candidal sepsis,447841007
+1814671000006118,100,Other streptococcal sepsis,448418006
+288049012,100,[X]Septicaemia due to other gram-negative organisms,449082003
+5588921000006115,100,Neonatal sepsis,276669000
+287577013,100,Candidal septicaemia,447841007
+305550018,100,Septicaemia NOS following abortive pregnancy,609485004
+425951000006117,100,Neonatal sepsis due to Staphylococcus,944071000000101
+500396015,100,Listeria septicaemia,449335002
+316481011,100,Sepsis of newborn due to Escherichia coli,206379003
+483922014,100,Puerperal septicaemia,2858002
+7354691000006112,90,Sepsis due to Streptococcus agalactiae,448419003
+322664014,80,Neonatal candida septicaemia,403000003
+359981019,80,Congenital sepsis NOS,1089000
+1216098010,80,Septicaemia due to anaerobes,447843005
+41959016,70,Tracheostomy sepsis,25042006
+1814621000006119,70,Streptococcal sepsis,448418006
+28961000006118,60,Other gram negative septicaemia NOS,449082003
+1814271000006115,60,Sepsis due to Salmonella,449083008
+495793016,60,Gonococcal septicaemia,5085001
+2901598017,50,Sepsis due to anaerobic bacteria,447843005
+1814781000006114,50,Sepsis due to other Gram negative organisms,449082003
+402236018,50,"Intrauterine fetal sepsis, unspecified",206331005
+7371101000006113,50,Sepsis due to Streptococcus pyogenes,449504009
+1814721000006110,40,Sepsis due to staphylococcus NOS,447894003
+1814751000006118,40,Sepsis due to Gram negative organisms,449082003
+2901596018,40,Sepsis due to Candida,447841007
+2899948013,40,Sepsis due to Haemophilus influenzae,447685007
+495285017,30,Herpes simplex septicaemia,448784003
+1814741000006115,30,Sepsis due to anaerobes,447843005
+1814681000006115,30,"Streptococcal sepsis, unspecified",448418006
+373279019,30,Septicaemia during labour,1125006
+1814301000006118,30,Listerial sepsis,449335002
+508853016,20,Septicaemic plague,9012003
+200921000006110,20,Puerperal septicaemia - delivered with postnatal complication,200195002
+307687019,20,Puerperal septicaemia with postnatal complication,200196001
+307682013,20,Puerperal septicaemia unspecified,2858002
+2900218013,20,Sepsis due to Listeria monocytogenes,449335002
+2900063016,20,Sepsis due to Actinomyces,447898000
+12705331000006113,20,Sepsis due to Salmonella,449083008
+299948012,20,Septic myocarditis NOS,22653005
+679811000006112,20,Neonatal monilial septicaemia,403000003
+2659281000006116,20,Bacterial sepsis,10001005
+1814711000006119,20,Sepsis due to other specified staphylococcus,447894003
+307688012,10,Puerperal septicaemia NOS,2858002
+299947019,10,Septic myocarditis - streptococcal,194958005
+299945010,10,Septic myocarditis - pneumococcal,194956009
+5118101000006116,10,Sepsis syndrome,238150007
+316482016,10,Sepsis of newborn due to anaerobes,206380000
+149011000006118,10,Septic obstetric embolism,267284008
+569621000006115,10,Clostridium septicum infection,266094004
+26714014,10,Septic shock due to transfusion,15765005
+585081000006114,10,Congenital septicaemia,1089000

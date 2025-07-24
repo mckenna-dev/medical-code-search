@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 27
+Columns: 1
+Column names: ['v1\tmedcode\treadcode\tclinicalevents\treadterm']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                              v1\tmedcode\treadcode\tclinicalevents\treadterm
+0  22\t90187\t"9Os0.00"\t20886\t"Atrial fibrillation monitoring first letter"
+1                                 0\t1757\t"G573100"\t26743\t"Atrial flutter"
+2              26\t35127\t"G573300"\t242\t"Non-rheumatic atrial fibrillation"

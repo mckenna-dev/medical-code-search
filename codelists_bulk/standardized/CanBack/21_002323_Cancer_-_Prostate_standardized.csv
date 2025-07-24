@@ -1,0 +1,7 @@
+med_code_id,term,snomed_ct_concept_id,observations
+722361000006115,Malignant neoplasm of prostate,,
+844951000006111,Gleason grade finding for prostatic cancer,,
+1490806016,Gleason prostate grade 2-4 (low),,
+1488634012,Gleason prostate grade 5-7 (medium),,
+1490807013,Gleason prostate grade 8-10 (high),,
+2460981000000118,Active surveillance of prostate cancer,,

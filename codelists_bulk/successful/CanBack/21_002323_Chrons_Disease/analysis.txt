@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 72
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2           MedCodeID                                         Term
+0   4532       Digestive        Crohns_D         a1222351011                          Crohn's disease NOS
+1   4533       Digestive        Crohns_D  a13765011000006113  Arthritis due to inflammatory bowel disease
+2   4534       Digestive        Crohns_D  a14614331000006112                   Crohn's regional enteritis

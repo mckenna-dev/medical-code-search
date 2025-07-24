@@ -1,0 +1,16 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+116049013,600000,Polycystic ovaries,69878008
+2478811014,300000,Polycystic ovarian syndrome,69878008
+13490341000006110,8000,Polycystic ovary syndrome,237055002
+13603301000006119,2000,Polycystic ovary,781067001
+3636241000006110,1000,PCOS - Polycystic ovarian syndrome,69878008
+13490351000006112,300,PCOS- polycystic ovary syndrome,237055002
+3636261000006114,100,Polycystic ovary syndrome,69878008
+3636221000006115,80,PCO - Polycystic ovaries,69878008
+3636201000006113,20,Polycystic ovarian disease,69878008
+3636271000006119,8,PCOD - Polycystic ovarian disease,69878008
+13931121000006117,5,Polycystic bilateral ovaries,830049001
+13931211000006119,1,PCOS (polycystic ovary syndrome) of bilateral ovaries,830054005
+13931191000006115,1,PCOS (polycystic ovary syndrome) of left ovary,830053004
+13931111000006113,1,Polycystic right ovary,830048009
+13931101000006110,1,Polycystic left ovary,830047004

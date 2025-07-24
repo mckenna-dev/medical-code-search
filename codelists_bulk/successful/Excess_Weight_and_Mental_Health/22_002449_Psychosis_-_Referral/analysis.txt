@@ -1,0 +1,11 @@
+=== FILE ANALYSIS ===
+Rows: 2
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tPsychosis_referral']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                                     \tMedCodeId\tObservations\tTerm\tPsychosis_referral
+0         0\t300931000000113\t4000\tReferral to psychosis early intervention service\tPsychosis_referral
+1  1\t12115591000006111\t1\tReferral for cognitive behavioural therapy for psychosis\tPsychosis_referral

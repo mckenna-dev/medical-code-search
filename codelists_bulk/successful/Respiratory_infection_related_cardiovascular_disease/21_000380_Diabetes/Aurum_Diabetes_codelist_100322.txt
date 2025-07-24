@@ -1,0 +1,1207 @@
+v1	medcodeid	cleansedreadcode	observations	term	snomedctconceptid	Typei	Typeii	unknowntype
+892	7507871000006114	" "	7	"Diabetes self management plan"	698360004	0	0	1
+590	298811000000118	"8I3k.00"	7000	"Insulin therapy declined"	198321000000100	0	0	1
+996	1704771000006111	"9m0B.00"	60	"Excluded from diabetic retinopathy screening as no current contact details"	374781000000105	0	0	1
+1176	1030541000006112	" "	20	"Adverse reaction to Insulin Glargine"	1030541000006108	0	0	1
+385	2549196011	"679R.00"	80000	"Patient offered diabetes structured education programme"	1103691000000102	0	0	1
+1403	7728071000006113	" "	5	"Referral to diabetes service"	715159005	0	0	1
+1511	1099881000006117	" "	2	"Adverse reaction to Isophane Insulin (Human)"	1099881000006101	0	0	1
+236	223291000000111	"C100111"	20000	"Maturity onset diabetes"	44054006	0	0	1
+141	264719017	"66AM.00"	20000	"Diabetic - follow-up default"	170771004	0	0	1
+656	12121371000006112	" "	10000	"Diabetes structured education programme offered"	1103691000000102	0	0	1
+985	1013691000006119	" "	100	"Adverse reaction to Intermediate And Long Acting Insulin Preparations"	1013691000006103	0	0	1
+295	2159960011	"8I6F.00"	30000	"Diabetic retinopathy screening not indicated"	408396006	0	0	1
+791	7107831000006117	" "	1000	"Diabetic education completed"	429729007	0	0	1
+1323	2550887011	"C113.00"	10	"Post-surgical hypoinsulinaemia"	190437000	0	0	1
+99	345486016	"F372.12"	100000	"Diabetic neuropathy"	230572002	0	0	1
+1429	5976641000006118	" "	2	"Admission to diabetic department"	308253000	0	0	1
+1050	5109621000006112	" "	60	"MODY - Maturity onset diabetes glucokinase-related"	237604008	0	0	1
+343	841011000006112	"F420800"	600	"Severe nonproliferative diabetic retinopathy"	312905005	0	0	1
+1454	1119321000006119	" "	1	"Adverse reaction to Insulin Soluble Aspart"	1119321000006103	0	0	1
+553	1673581000006117	" "	400	"Ineligibility for diabetic eye screening: Physical disability"	1673581000006101	0	0	1
+661	7483291000006111	" "	400	"Symptomatic diabetic peripheral neuropathy absent"	473134007	0	0	1
+334	2159976019	"2BBS.00"	40000	"O/E - left eye preproliferative diabetic retinopathy"	408412005	0	0	1
+1007	8459531000006110	" "	300	"Diabetes monitoring invitation email"	1083111000000108	0	0	1
+876	8239391000006115	" "	100	"Insulin/carbohydrate ratio - lunch"	768201000000108	0	0	1
+636	297964010	"F440700"	200	"Diabetic iritis"	193489006	0	0	1
+513	5192411000006114	" "	900	"Diabetic monitoring status"	243860001	0	0	1
+621	1799591000000110	"8BAj.00"	4000	"Informed dissent not to carry insulin passport"	805021000000104	0	0	1
+351	548121000000116	"9NiC.00"	500	"Did not attend DAFNE diabetes structured education programme"	307141000000102	0	0	1
+938	12490031000006110	" "	10	"Patient offered diabetes structured education programme"	416672007	0	0	1
+298	282570016	"8A13.00"	3000	"Diabetic stabilisation"	182781000	0	0	1
+1470	1841451000006115	" "	3	"Diabetic foot screening invitation"	1841451000006104	0	0	1
+701	1784711000006118	"8IF..00"	100	"Professional judgement not to engage patient with insulin alert requirements"	805521000000106	0	0	1
+473	297758012	"F420z00"	20000	"Diabetic retinopathy NOS"	4855003	0	0	1
+475	1573121000006119	" "	4000	"Insulin started by GP"	1573121000006103	0	0	1
+711	2159854012	"918T.00"	3000	"Diabetes key contact"	932321000000105	0	0	1
+1174	6843971000006117	" "	50	"Attended diabetes structured education program"	413597006	0	0	1
+147	264726017	"66AR.00"	600000	"Diabetes management plan given"	170742000	0	0	1
+540	1757221000006115	" "	60	"Suspected diabetes mellitus"	1757221000006104	0	0	1
+1012	8099131000006117	" "	6	"Did not complete dose adjustment for normal eating diabetes structured education programme"	306961000000101	0	0	1
+1457	1063651000006112	" "	1	"Adverse reaction to Isophane Insulin (Human, Prb)"	1063651000006108	0	0	1
+432	1479985016	"679c.00"	10000	"Insulin administration education"	385793003	0	0	1
+51	546221000000114	"9OLK.00"	10000	"DESMOND diabetes structured education programme completed"	306501000000105	0	0	1
+258	308071000000112	"93C4.00"	4000	"Patient consent given for addition to diabetic register"	202151000000105	0	0	1
+1168	719541000006111	"C10A000"	4	"Malnutrition-related diabetes mellitus with coma"	420996007	0	0	1
+1173	12010081000006120	" "	1	"Provision of patient held diabetes record declined"	763782001	0	0	1
+1153	8267041000006114	" "	20	"Diabetes monitoring injection site check declined"	819301000000105	0	0	1
+1079	11633211000006112	" "	10	"Atypical diabetes mellitus"	530558861000132096	0	0	1
+748	1162341000000110	"66Ar.00"	800	"Insulin treatment stopped"	708000007	0	0	1
+431	2116661000000116	"8Hlc.00"	80000	"Referral to community diabetes service"	811391000000104	0	0	1
+1239	6630561000006115	" "	70	"Diabetic macular oedema not clinically significant"	399864000	0	0	1
+1287	933231000006118	"C10yz97"	1	"Hypo states in diabetes"	658061000000102	0	0	1
+1154	356111014	" "	5	"Insulin-dependent diabetes mellitus secretory diarrhoea syndrome"	237618001	0	0	1
+746	2817479019	" "	100	"Hyperglycaemic crisis in diabetes mellitus"	441656006	0	0	1
+208	299991000000112	"8HTi.00"	10000	"Referral to multidisciplinary diabetic clinic"	198831000000108	0	0	1
+953	8082951000006116	" "	90	"Attended diabetes education and self management for ongoing and newly diagnosed structured programme"	276651000000107	0	0	1
+837	2249871000000113	"9NJy000"	100	"In-house diabetic foot screening first appointment"	870701000000106	0	0	1
+495	1876341000006117	" "	20000	"Diabetic 3 month review"	1876341000006101	0	0	1
+1178	1858831000006115	" "	3	"AURAS-AF - more time needed to decide on diabetes status"	1858831000006104	0	0	1
+451	8060931000006110	" "	4000	"No diabetic retinopathy"	201141000000103	0	0	1
+520	2380481000000115	"66o1.00"	100	"Enquiry about diabetic erectile dysfunction declined"	928851000000109	0	0	1
+1445	1140951000006112	" "	1	"Adverse reaction to Insulin Isophane Bovine"	1140951000006108	0	0	1
+279	1627291000006113	"8I83.00"	2000	"Did not complete DESMOND diabetes structured education programme"	306991000000107	0	0	1
+1451	1140501000006116	" "	1	"Adverse reaction to Soluble Insulin"	1140501000006100	0	0	1
+1248	1550571000000114	"C10A.11"	30	"Jamaica type diabetes"	75524006	0	0	1
+1062	12085021000006112	" "	20	"Preproliferative diabetic retinopathy of right eye"	769181007	0	0	1
+19	1628621000006112	"9NiD.00"	10000	"Did not attend DESMOND diabetes structured education programme"	307171000000108	0	0	1
+124	616461000006112	"C104.00"	10000	"Diabetes mellitus with renal manifestation"	127013003	0	0	1
+315	616971000006114	"N030100"	8000	"Diabetic Charcot's arthropathy"	201724008	0	0	1
+805	1628311000006111	"8I84.00"	700	"Did not complete XPERT diabetes structured education programme"	307021000000105	0	0	1
+1165	12115561000006116	" "	300	"Remote diabetes structured education and support programme commenced"	1097131000000105	0	0	1
+1211	1013681000006117	" "	1	"Adverse reaction to Short-Acting Insulin Preparations"	1013681000006101	0	0	1
+1260	6022931000006112	" "	7	"Diabetic macular edema"	312912001	0	0	1
+514	2532967014	"2BBm.00"	4000	"Clinically significant macular oedema of right eye due to diabetes mellitus"	769221001	0	0	1
+717	881481000006117	"C104.99"	1000	"Diabetes + nephropathy"	127013003	0	0	1
+1326	1891061000006117	" "	1	"Participant in Diabetes Aerobic and Resistance Exercise study"	1891061000006101	0	0	1
+75	285223014	"9N1Q.00"	4000000	"Seen in diabetic clinic"	185229005	0	0	1
+423	2176771000000110	"8IEQ.00"	1000	"Referral to community diabetes specialist nurse declined"	838731000000104	0	0	1
+626	1583891000006119	" "	100	"Ineligib for diab. eye screen: No longer categorised as diabetic"	1583891000006103	0	0	1
+1367	6546431000006119	" "	10	"On examination - Right diabetic foot at moderate risk"	394682001	0	0	1
+1499	1853141000006111	" "	2	"In-house diabetes foot screening"	1853141000006107	0	0	1
+1043	354651000006115	"U602312"	30	"[X] Adverse reaction to insulins"	293177002	0	0	1
+1001	5127801000006119	" "	3	"Insulin lipoatrophy"	238901000	0	0	1
+1064	12085181000006112	" "	9	"Moderate non-proliferative diabetic retinopathy of right eye"	769185003	0	0	1
+1214	8240001000006116	" "	50	"Mean total daily insulin dose"	769581000000107	0	0	1
+795	856771000006110	" "	2000	"Patient has been told has diabetes"	856771000006106	0	0	1
+439	1744461000006117	" "	300	"Self-administration of insulin"	1744461000006101	0	0	1
+1332	1133641000006111	" "	1	"Adverse reaction to Porcine Neutral Insulin"	1133641000006107	0	0	1
+71	139121000000119	"9h42.00"	400000	"Excepted from diabetes quality indicators - informed dissent"	716031000000106	0	0	1
+1151	12224731000006112	" "	60	"Moderate non-proliferative diabetic retinopathy"	312904009	0	0	1
+588	8099311000006114	" "	200	"Did not attend diabetes education and self management for ongoing and newly diagnosed structured programme"	307171000000108	0	0	1
+917	292503016	"C105z00"	300	"Diabetes mellitus NOS with ophthalmic manifestation"	25093002	0	0	1
+1493	8240511000006110	" "	1	"H/O: secondary diabetes mellitus"	771571000000102	0	0	1
+1372	6866901000006111	" "	5	"On examination - right eye stable treated proliferative diabetic retinopathy"	414910007	0	0	1
+505	1177721000000112	"66As.00"	4000	"Diabetic on subcutaneous treatment"	527691000000107	0	0	1
+181	2159980012	"2BBX.00"	70000	"Maculopathy of left eye with diabetes mellitus"	769245002	0	0	1
+216	1734281000000117	"66Au.00"	80000	"Diabetic erectile dysfunction review"	473209001	0	0	1
+1234	6041341000006114	" "	5	"Focal diabetic maculopathy"	314011005	0	0	1
+515	736791000000117	"9m06.00"	3000	"Excluded from diabetic retinopathy screening as deceased"	374631000000101	0	0	1
+659	306110015	"L180300"	400	"Diabetes mellitus during pregnancy - baby not yet delivered"	199227004	0	0	1
+1360	6030001000006116	" "	10	"Insulin-dependent diabetes without complication"	313435000	0	0	1
+148	2115761000000117	"661N400"	50000	"Diabetes self-management plan review"	810961000000103	0	0	1
+606	1842001000006118	" "	10000	"Diabetic annual review by practice nurse"	1842001000006102	0	0	1
+308	2159978018	"2BBV.00"	20000	"O/E - left eye proliferative diabetic retinopathy"	408414006	0	0	1
+1059	12086331000006116	" "	200	"Diabetic maculopathy of left eye"	769245002	0	0	1
+672	905621000006113	" "	6000	"[RFC] Diabetes"	905621000006109	0	0	1
+1340	8428521000006115	" "	50	"Seen in hospital diabetes antenatal clinic"	1054221000000100	0	0	1
+299	65526011	"F381311"	700	"Diabetic amyotrophy"	39058009	0	0	1
+769	546291000000112	"9OLL.00"	7000	"XPERT diabetes structured education programme completed"	306531000000104	0	0	1
+1463	12085171000006110	" "	3	"Moderate nonproliferative diabetic retinopathy of right eye"	769185003	0	0	1
+991	1132301000006114	" "	10	"Adverse reaction to Insulin Soluble Human"	1132301000006105	0	0	1
+178	452078013	"7L19800"	100000	"Subcutaneous injection of insulin"	308755006	0	0	1
+210	1707491000000116	"1JL..00"	20000	"Suspected diabetes mellitus"	473127005	0	0	1
+1220	8240801000006114	" "	40	"Insulin sensitivity factor"	771891000000101	0	0	1
+1172	7565341000006118	" "	200	"Diabetes clinic"	702706001	0	0	1
+499	1696331000006114	" "	200	"Diabetic dermopathy"	238982009	0	0	1
+30	1780286017	"66Ac.00"	900000	"Diabetic peripheral neuropathy screening"	401081006	0	0	1
+376	448261010	"9N2i.00"	20000	"Seen by diabetic liaison nurse"	305738006	0	0	1
+562	2548430017	"8Hg4.00"	2000	"Discharged from care of diabetes specialist nurse"	417467000	0	0	1
+1204	1127141000006114	" "	2	"Adverse reaction to Insulin (Zinc Suspension, Bovine)"	1127141000006105	0	0	1
+171	1484867016	"F420600"	90000	"Non proliferative diabetic retinopathy"	390834004	0	0	1
+205	309179013	"M271100"	30000	"Neuropathic diabetic ulcer - foot"	201251005	0	0	1
+429	616581000006115	"C107100"	600	"Diabetes mellitus, adult, + peripheral circulatory disorder"	422166005	0	0	1
+643	771391000006117	"C108D00"	100	"Insulin dependent diabetes mellitus with nephropathy"	127013003	0	0	1
+56	1488441010	"8B3l.00"	600000	"Diabetes medication review"	394725008	0	0	1
+1061	913801000006118	"C10EC12"	20	"Insulin dependent diabetes mellitus with polyneuropathy"	49455004	0	0	1
+729	8267081000006115	" "	90	"Diabetes monitoring injection site not checked"	819331000000104	0	0	1
+952	1877371000006111	" "	20	"Diabetes clinical management plan no longer in place"	1877371000006107	0	0	1
+1409	6041411000006117	" "	5	"Ischaemic diabetic maculopathy"	314014002	0	0	1
+134	2549778010	"9N0m.00"	10000	"Seen in diabetic nurse consultant clinic"	417566006	0	0	1
+899	292626017	"C10zz00"	300	"Diabetic complication"	74627003	0	0	1
+136	459705019	"1I0..00"	30000	"Diabetes mellitus excluded"	315216001	0	0	1
+1435	6670981000006118	" "	3	"Diabetic wet gangrene of the foot"	402864004	0	0	1
+573	144251000006113	"4494.00"	2000	"Serum insulin - C-polypeptide level"	1015231000000107	0	0	1
+1448	2900951000006115	" "	2	"Diabetic eye disease"	25093002	0	0	1
+787	8259591000006113	" "	200	"Referral to diabetic clinic"	809391000000101	0	0	1
+911	1916521000006118	" "	10000	"Access to online patient diabetes education given"	1916521000006102	0	0	1
+69	1824571000006112	" "	10000	"Referral to walking away from diabetes programme"	1824571000006108	0	0	1
+122	309737011	"N030000"	1000	"Diabetic cheiroarthropathy"	201723002	0	0	1
+546	856661000006112	" "	200	"Left diabetic foot active ulceration"	856661000006108	0	0	1
+361	292622015	"C10z.00"	600	"Diabetes mellitus with unspecified complication"	74627003	0	0	1
+692	178800012	"C110.11"	60	"Insulin coma"	111558006	0	0	1
+1118	8242811000006111	" "	1	"No H/O: diabetic nephropathy"	777591000000108	0	0	1
+633	913711000006112	"C10E912"	700	"Insulin dependent diabetes maturity onset"	73211009	0	0	1
+229	547061000000110	"8Hj5.00"	80000	"Referral to XPERT diabetes structured education programme"	306771000000105	0	0	1
+1044	305158015	"Kyu0300"	100	"Diabetic glomerulopathy"	309426007	0	0	1
+237	857971000006110	" "	10000	"Right non-proliferative diabetic retinopathy"	857971000006106	0	0	1
+282	2533107019	"66Af.00"	50000	"Patient diabetes education review"	385805005	0	0	1
+448	456686014	"9NM0.00"	80000	"Attending diabetes clinic"	312888008	0	0	1
+1396	3513752015	" "	1	"Absence of lower limb due to diabetes mellitus"	735200002	0	0	1
+884	1704791000006112	"9m0D.00"	200	"Excluded from diabetic retinopathy screening as learning disability"	374841000000109	0	0	1
+823	356119011	" "	5	"Abnormal metabolic state in diabetes mellitus"	237620003	0	0	1
+988	8099341000006113	" "	80	"Did not attend expert patient education versus routine treatment diabetes structured education programme"	307201000000109	0	0	1
+816	1227832019	"ZV77111"	300	"[V]Screening for diabetes mellitus (DM)"	171183004	0	0	1
+289	308360012	"M037200"	3000	"Cellulitis in diabetic foot"	200687002	0	0	1
+1253	6630591000006111	" "	1	"Diabetic retinal venous beading"	399866003	0	0	1
+1212	616231000006119	"L180200"	20	"Diabetes mellitus in the puerperium - baby delivered during current episode of care"	199226008	0	0	1
+1404	1137501000006119	" "	1	"Adverse reaction to Human Neutral Soluble Insulin"	1137501000006103	0	0	1
+328	640011000006114	" "	700	"Emergency Diabetic Admission since last appointment"	640011000006105	0	0	1
+1197	771351000006111	"C108600"	20	"Insulin dependent diabetes mellitus with gangrene"	422275004	0	0	1
+731	547331000000115	"8I81.00"	1000	"Did not complete diabetes structured education programme"	306931000000106	0	0	1
+80	21631000000117	"9OL..00"	1000000	"Diabetes monitoring administration"	713671000000109	0	0	1
+9	1767201000006118	"67IJ100"	20000	"Diabetic pre-pregnancy education"	394684000	0	0	1
+992	5933621000006118	" "	8	"Perceived control of insulin-dependent diabetes"	304752002	0	0	1
+406	856551000006114	" "	10000	"Diabetic - hospital eye check"	856551000006105	0	0	1
+235	483886014	"C10C.11"	3000	"Maturity onset diabetes in youth"	609561005	0	0	1
+599	910211000006114	" "	200	"[RFC] Diabetic health promotion"	910211000006105	0	0	1
+12	2159974016	"2BBQ.00"	400000	"O/E - left eye background diabetic retinopathy"	408410002	0	0	1
+955	733161000000116	"2BBr.00"	90	"Impaired vision due to diabetic retinopathy"	373041000000101	0	0	1
+1026	285759019	"9OL9.00"	400	"Diabetes monitoring deleted"	185761008	0	0	1
+1366	6546321000006111	" "	7	"On examination - Left diabetic foot at low risk"	394675000	0	0	1
+269	307661000000114	"8HHy.00"	8000	"Referral to diabetic register"	201961000000104	0	0	1
+968	857431000006116	" "	100	"Right diabetic maculopathy"	857431000006100	0	0	1
+306	1856651000006110	" "	6000	"Diabetes monitoring in secondary care"	1856651000006106	0	0	1
+1006	1128561000006115	" "	1	"Adverse reaction to Insulin Lispro Protamine Suspension"	1128561000006104	0	0	1
+483	292496015	"C104z00"	1000	"Diabetes mellitus with nephropathy NOS"	127013003	0	0	1
+21	1484886012	"2BBK.00"	1000000	"O/E - no left diabetic retinopathy"	390853009	0	0	1
+987	616571000006118	"C10y100"	1000	"Diabetes mellitus, adult, + other specified manifestation"	73211009	0	0	1
+1225	396661000006115	"Cyu2100"	3	"Malnutrition-related diabetes mellitus with multiple complications"	190411003	0	0	1
+377	278718015	"7L10000"	1000	"Continuous subcutaneous infusion of insulin"	180178009	0	0	1
+304	1780325018	"449E.00"	6000	"Plasma insulin C-peptide level"	999351000000102	0	0	1
+808	7257031000006118	" "	200	"Does rotate site of insulin injection"	441922002	0	0	1
+1191	8098241000006111	" "	10	"Attended XPERT (expert patient education versus routine treatment) diabetes structured education programme"	306401000000106	0	0	1
+931	913891000006113	"C10EF12"	10	"Insulin dependent diabetes mellitus with diabetic cataract"	43959009	0	0	1
+772	82373015	"F372.11"	2000	"Diabetic polyneuropathy"	49455004	0	0	1
+1138	3525931000006110	" "	3	"Insulin shock therapy"	63105004	0	0	1
+1350	1025241000006118	" "	3	"Adverse reaction to Insulin Aspart"	1025241000006102	0	0	1
+1494	3634971000006115	" "	2	"Insulin pump"	69805005	0	0	1
+10	216201011	"68A7.00"	5000000	"Diabetic retinopathy screening"	134395001	0	0	1
+863	1673601000006110	" "	100	"Ineligibility for diabetic eye screening: Terminal illness"	1673601000006106	0	0	1
+756	457157017	"ZV6DA00"	200	"[V]Admitted for commencement of insulin"	345041000000101	0	0	1
+399	547191000000117	"9NiA.00"	20000	"Did not attend diabetes structured education programme"	306861000000107	0	0	1
+1020	5231271000006117	" "	3	"Insulin used"	246491008	0	0	1
+754	2532974016	"8CP2.00"	700	"Transition of diabetes care options discussed"	415744000	0	0	1
+1410	1132291000006113	" "	2	"Adverse reaction to Soluble Insulin (Bovine, highly purified)"	1132291000006109	0	0	1
+945	13751000006117	"C108y00"	300	"Other specified diabetes mellitus with multiple comps"	385041000000108	0	0	1
+1132	1131211000006113	" "	1	"Adverse reaction to Insulin zinc suspension mixed bovine"	1131211000006109	0	0	1
+1066	12085121000006114	" "	1	"Mild nonproliferative diabetic retinopathy of left eye"	769184004	0	0	1
+84	1704731000006113	"9m07.00"	2000	"Excluded from diabetic retinopathy screening as under care of ophthalmologist"	374661000000106	0	0	1
+567	292512019	"C106z00"	2000	"Diabetes mellitus NOS with neurological manifestation"	422088007	0	0	1
+1030	13811000006110	"C10zy00"	30	"Other specified diabetes mellitus with unspecified comps"	74627003	0	0	1
+1133	6516331000006118	" "	90	"DNA - Did not attend diabetic clinic"	390922008	0	0	1
+1399	8098311000006115	" "	2	"DAFNE (dose adjustment for normal eating) diabetes structured education programme completed"	306471000000103	0	0	1
+1205	6348911000006117	" "	300	"Diabetic foot ulcer"	371087003	0	0	1
+958	292488013	"C103y00"	30	"Coma associated with diabetes mellitus"	420662003	0	0	1
+261	285752011	"9OL2.00"	6000	"Refuses diabetes monitoring"	185754009	0	0	1
+1357	8242331000006114	" "	30	"Diabetic retinopathy detected by national screening programme"	775841000000109	0	0	1
+897	5634901000006116	" "	100	"Diabetic foot"	280137006	0	0	1
+39	205225016	"C104.11"	30000	"Diabetic nephropathy"	127013003	0	0	1
+812	913651000006115	"C10E712"	200	"Insulin dependent diabetes mellitus with retinopathy"	4855003	0	0	1
+288	189831000000116	"9M00.00"	6000	"Informed consent for diabetes national audit"	113131000000107	0	0	1
+76	456646018	"8H7f.00"	100000	"Referral to diabetes nurse"	312856000	0	0	1
+755	1135131000006110	" "	20	"Adverse reaction to Insulin Detemir"	1135131000006106	0	0	1
+596	6613341000006113	" "	100	"Diabetic monitoring - injection sites abnormal"	398871001	0	0	1
+108	2139121000000115	"8BAm.00"	30000	"Insulin passport checked"	821501000000107	0	0	1
+687	8098861000006114	" "	500	"Referral to dose adjustment for normal eating diabetes structured education programme"	306701000000102	0	0	1
+204	2159949019	"8HBH.00"	3000	"Diabetic retinopathy 6 month review"	408385003	0	0	1
+238	297551015	"F372100"	10000	"Chronic painful diabetic neuropathy"	193184006	0	0	1
+1055	12085761000006116	" "	30	"Diabetic macular oedema of left eye"	769218003	0	0	1
+60	264724019	"66AQ.00"	300000	"Diabetes: shared care programme"	170775008	0	0	1
+1278	84791000006110	"C108C11"	1	"Polyneuropathy due to diabetes mellitus type I"	713705003	0	0	1
+699	354316011	"C314.11"	300	"Kidney disorder due to diabetes mellitus"	127013003	0	0	1
+1419	2683591000006110	" "	1	"Unstable diabetes mellitus"	11530004	0	0	1
+1313	719471000006119	"C10AW00"	1	"Malnutrit-related diabetes mellitus with unspec complics"	190411003	0	0	1
+1422	6515211000006114	" "	6	"BDR - Background diabetic retinopathy"	390834004	0	0	1
+140	1666931000000117	"2G5e.00"	100000	"O/E - Right diabetic foot at increased risk"	756391000000103	0	0	1
+1376	8303811000006115	" "	5	"Frequency of hyperglycaemic episodes"	872121000000100	0	0	1
+1291	771511000006116	"TB13100"	1	"Insulin-shock therapy with complication, without blame"	217063006	0	0	1
+1070	356078011	" "	30	"Secondary endocrine diabetes mellitus"	237601000	0	0	1
+417	1583921000006113	" "	600	"Ineligibility for diabetic eye screening: Deceased"	1583921000006109	0	0	1
+1210	771401000006115	"C108C00"	20	"Insulin dependent diabetes mellitus with polyneuropathy"	49455004	0	0	1
+1246	301611000000118	"66Ak.00"	100	"Diabetes monitoring lower risk albumin excretion"	199481000000100	0	0	1
+657	8286851000006116	" "	100	"Education about diabetic retinopathy"	846721000000101	0	0	1
+127	1784621000006118	"8IE9.00"	90000	"Referral to diabetes education and self management for ongoing and newly diagnosed structured programme declined"	781161000000107	0	0	1
+358	913531000006111	"C10E312"	100	"Insulin dependent diabetes mellitus with multiple complicat"	385041000000108	0	0	1
+1329	6761801000006113	" "	20	"On examination - left eye background diabetic retinopathy"	408410002	0	0	1
+133	1754911000006114	"9h43.00"	7000	"Excepted from diabetes quality indicators: service unavailable"	750721000000102	0	0	1
+679	282568013	"8A12.00"	700	"Diabetic crisis monitoring"	182780004	0	0	1
+1426	1871821000006113	" "	90	"Lifestyle advice regarding risk of diabetes"	1871821000006109	0	0	1
+1267	8099301000006111	" "	1	"Did not attend DAFNE (dose adjustment for normal eating) diabetes structured education programme"	307141000000102	0	0	1
+935	1567721000006116	" "	3	"Adverse reaction to Insulin Human (Inhaled)"	1567721000006100	0	0	1
+104	1484954015	"9N4I.00"	300000	"Did not attend diabetic clinic"	390922008	0	0	1
+471	772181000006112	"C108800"	700	"Insulin dependent diabetes mellitus - poor control"	268519009	0	0	1
+673	1839671000006113	" "	10000	"Diabetic short review"	1839671000006109	0	0	1
+1109	856621000006118	" "	40	"Left proliferative diabetic retinopathy"	856621000006102	0	0	1
+1019	292565014	"C108z00"	100	"Diabetes mellitus with multiple complications"	385041000000108	0	0	1
+199	283709014	"8H7C.00"	40000	"Referral to diabetic liaison nurse"	308458007	0	0	1
+480	4808921000006113	" "	500	"Diabetic neuropathic arthropathy"	201724008	0	0	1
+319	285753018	"9OL3.00"	30000	"Diabetes monitoring default"	185755005	0	0	1
+1441	3511972010	" "	2	"Diabetic education service"	734920002	0	0	1
+586	6515171000006112	" "	2000	"Nonproliferative diabetic retinopathy"	390834004	0	0	1
+93	401531012	"66AJ.00"	300000	"Diabetic - poor control"	268519009	0	0	1
+745	468191000006114	"TJ23.00"	100	"Adverse reaction to insulins and antidiabetic agents"	430400006	0	0	1
+40	1732691000000113	"66Aw.00"	50000	"Insulin dose"	775661000000106	0	0	1
+59	1799301000000112	"8CE0200"	80000	"Insulin passport given"	804881000000105	0	0	1
+869	1539131000006115	" "	400	"Referral for diabetic retinopathy screening"	1539131000006104	0	0	1
+1160	719561000006110	"C10A600"	2	"Malnutrition-related diabetes mellitus with multiple comps"	190411003	0	0	1
+95	2549901010	"9OLD.00"	50000	"Diabetic patient unsuitable for digital retinal photography"	417681008	0	0	1
+1416	5809871000006117	" "	2	"Insulin allergy"	294714000	0	0	1
+36	2159958014	"9NND.00"	600000	"Under care of diabetic foot screener"	408394009	0	0	1
+105	646031000000112	"66Ap.00"	20000	"Insulin treatment initiated"	345041000000101	0	0	1
+761	772151000006116	"C108900"	500	"Insulin dependent diabetes maturity onset"	73211009	0	0	1
+1436	7068831000006114	" "	8	"Diabetes mellitus due to cystic fibrosis"	427089005	0	0	1
+620	2160025013	"9b92000"	6000	"Diabetic medicine"	408475000	0	0	1
+724	1784011000006116	"8CdD.00"	20	"Advised to maintain back up supply of insulin for subcutaneous injection"	783301000000106	0	0	1
+710	309738018	"N030011"	200	"Diabetic cheiropathy"	201723002	0	0	1
+789	881521000006117	"C10y.99"	300	"Diabetes + other complications"	658011000000104	0	0	1
+1349	1745771000006118	" "	10	"Adverse reaction to Hypodermic Insulin Injection"	1745771000006102	0	0	1
+835	2548633012	"8I57.00"	4000	"Provision of patient held diabetes record refused"	763782001	0	0	1
+526	292617015	"C10y.00"	2000	"Diabetes mellitus with other specified manifestation"	74627003	0	0	1
+149	1666911000000113	"2G5d.00"	100000	"O/E - Left diabetic foot at increased risk"	756381000000100	0	0	1
+886	292489017	"C103z00"	100	"Diabetes mellitus NOS with ketoacidotic coma"	420422005	0	0	1
+1088	12189891000006110	" "	20	"PDR - proliferative diabetic retinopathy"	59276001	0	0	1
+767	1752811000000118	"1IA..00"	2000	"No evidence of diabetic nephropathy"	783901000000107	0	0	1
+1300	1955171000006110	" "	1	"Keele ENHANCE trial - diabetic review"	1955171000006106	0	0	1
+256	2159977011	"2BBT.00"	20000	"O/E - right eye proliferative diabetic retinopathy"	408413000	0	0	1
+948	857411000006110	" "	100	"Right proliferative diabetic retinopathy"	857411000006106	0	0	1
+1381	1103761000006114	" "	7	"Adverse reaction to Biphasic Insulin"	1103761000006105	0	0	1
+976	8099281000006112	" "	6	"Did not attend dose adjustment for normal eating diabetes structured education programme"	307141000000102	0	0	1
+898	8098351000006119	" "	70	"Expert patient education versus routine treatment diabetes structured education programme completed"	306531000000104	0	0	1
+509	453055012	"2G5D.00"	700	"Foot abnormality - non-diabetes"	309598002	0	0	1
+1231	8098341000006116	" "	40	"DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme completed"	306501000000105	0	0	1
+681	308110013	"Lyu2900"	400	"Pre-existing diabetes mellitus"	385051000000106	0	0	1
+847	1823921000006119	" "	600	"Diabetes mellitus confirmed"	1823921000006103	0	0	1
+618	643691000000114	"9kL..00"	10000	"Insulin initiation enhanced services administration"	344641000000106	0	0	1
+223	8098931000006110	" "	7000	"Referral to diabetes education and self management for ongoing and newly diagnosed diabetes structured programme"	306741000000104	0	0	1
+442	300021000000110	"9N1o.00"	8000	"Seen in multidisciplinary diabetic clinic"	198841000000104	0	0	1
+1238	356118015	" "	10	"Diabetes-deafness syndrome maternally transmitted"	237619009	0	0	1
+587	354509014	"K08yA00"	1000	"Proteinuric diabetic nephropathy"	236500003	0	0	1
+1060	913831000006114	"C10ED12"	50	"Insulin dependent diabetes mellitus with nephropathy"	127013003	0	0	1
+83	98476015	"F420100"	80000	"Proliferative diabetic retinopathy"	59276001	0	0	1
+120	264677018	"66A1.00"	100000	"Initial diabetic assessment"	170743005	0	0	1
+1462	3690681000006114	" "	4	"DM - Diabetes mellitus"	73211009	0	0	1
+265	285751016	"9OL1.00"	200000	"Attends diabetes monitoring"	185753003	0	0	1
+1134	771491000006110	"C108100"	200	"Insulin-dependent diabetes mellitus with ophthalmic comps"	25093002	0	0	1
+800	616451000006110	"C106.13"	200	"Diabetes mellitus with polyneuropathy"	49455004	0	0	1
+364	913681000006111	"C10E812"	300	"Insulin dependent diabetes mellitus - poor control"	268519009	0	0	1
+1045	1960611000006113	" "	50	"Diabetic foot examination - action required"	1960611000006109	0	0	1
+168	2014951000006115	" "	1000	"New diabetic foot ulcer"	2014951000006104	0	0	1
+766	787101000006114	"C107300"	100	"IDDM with peripheral circulatory disorder"	421895002	0	0	1
+1469	1841481000006111	" "	2	"Diabetic foot screening invitation second letter"	1841481000006107	0	0	1
+384	1164191000000111	"679L000"	40000	"Education about self management of diabetes"	698610002	0	0	1
+1110	857981000006113	" "	80	"Right preproliferative diabetic retinopathy"	857981000006109	0	0	1
+765	967701000006116	"C10M.00"	100	"Lipoatrophic diabetes mellitus"	127012008	0	0	1
+890	12490041000006116	" "	10	"Diabetic retinopathy screening offered"	417256004	0	0	1
+34	1488397014	"2G5I.00"	6000000	"O/E - Left diabetic foot at low risk"	394675000	0	0	1
+874	8239331000006119	" "	50	"Insulin sensitivity factor - breakfast"	768161000000100	0	0	1
+630	856681000006119	" "	2000	"Left diabetic foot moderate risk"	856681000006103	0	0	1
+1097	6022831000006119	" "	9	"Diabetic vitreous haemorrhage"	312910009	0	0	1
+1017	6022581000006116	" "	200	"Mild non-proliferative diabetic retinopathy"	312903003	0	0	1
+554	1783381000006112	"671F000"	3000	"Insulin alert patient information booklet information discussed"	804941000000106	0	0	1
+1166	746791000006111	"C108A00"	500	"Insulin-dependent diabetes without complication"	111552007	0	0	1
+872	7500211000006117	" "	30	"Pre-existing diabetes mellitus in pregnancy"	609563008	0	0	1
+1161	1954041000006119	" "	9	"Diabetic - uses carbohydrate counting"	1954041000006103	0	0	1
+497	418920011	"13L4.11"	700	"History of diabetes mellitus in child of subject"	444094009	0	0	1
+164	764201000006110	"2G5C.00"	3000	"Foot abnormality - diabetes related"	280137006	0	0	1
+52	2159973010	"2BBP.00"	400000	"O/E - right eye background diabetic retinopathy"	408409007	0	0	1
+113	406351000000114	"8Hl1.00"	200000	"Referral for diabetic retinopathy screening"	248161000000101	0	0	1
+49	264729012	"66AZ.00"	500000	"Diabetic monitoring NOS"	170742000	0	0	1
+18	77727018	"C10E.12"	60000	"Insulin dependent diabetes mellitus"	73211009	0	0	1
+191	532331000000119	"9OLF.00"	50000	"Diabetes structured education programme completed"	755491000000100	0	0	1
+1163	8098371000006112	" "	7	"XPERT (expert patient education versus routine treatment) diabetes structured education programme completed"	306531000000104	0	0	1
+677	2378231000000112	"8Hgd.00"	1000	"Discharge from secondary care diabetes service"	927821000000100	0	0	1
+840	8099221000006113	" "	100	"Did not complete expert patient education versus routine treatment diabetes structured education programme"	307021000000105	0	0	1
+427	297755010	"F420300"	5000	"Advanced diabetic maculopathy"	193350004	0	0	1
+172	347657010	"F420400"	200000	"Diabetic maculopathy"	232020009	0	0	1
+909	12705021000006112	" "	40	"Clinically significant macular oedema of right eye due to diabetes mellitus"	769221001	0	0	1
+250	1488406011	"6761.00"	4000	"Diabetic pre-pregnancy counselling"	394684000	0	0	1
+1247	12489821000006114	" "	20	"Diabetes key contact"	408290003	0	0	1
+1359	3941571000006114	" "	5	"Insulin C-peptide measurement"	88705004	0	0	1
+44	264681018	"66A4.00"	4000000	"Diabetic on oral treatment"	170746002	0	0	1
+43	264723013	"66AP.00"	2000000	"Diabetes: practice programme"	170774007	0	0	1
+775	1935341000006117	" "	700	"Patient in diabetes study"	1935341000006101	0	0	1
+713	8082941000006118	" "	100	"Attended DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme"	276651000000107	0	0	1
+1023	616151000006118	"L180000"	40	"Diabetes mellitus - unspec whether in pregnancy/puerperium"	199223000	0	0	1
+776	303846016	"K01x100"	700	"Nephrotic syndrome in diabetes mellitus"	197605007	0	0	1
+1290	720311000006119	"C10AX00"	1	"Malnutrit-relat diabetes mellitus with other spec comps"	190411003	0	0	1
+1187	2691031000006117	" "	20	"Functional hyperinsulinaemia"	12002009	0	0	1
+1333	12085891000006118	" "	4	"Clinically significant macular oedema of right eye co-occurrent and due to diabetes mellitus"	769221001	0	0	1
+463	1967341000006115	"9NST.00"	7000	"Not suitable for DESMOND (Diabetes Education and Self Management for Ongoing and Newly Diagnosed) programme"	720504004	0	0	1
+1407	1132371000006115	" "	1	"Adverse reaction to Insulin zinc suspension (bovine and porcine)"	1132371000006104	0	0	1
+878	8239341000006112	" "	40	"Insulin sensitivity factor - lunch"	768171000000107	0	0	1
+226	1583841000006111	" "	1000	"Ineligibility for diabetic eye screening"	1583841000006107	0	0	1
+1033	857741000006117	" "	2000	"Right diabetic foot moderate risk"	857741000006101	0	0	1
+163	297754014	"F420200"	50000	"Preproliferative diabetic retinopathy"	193349004	0	0	1
+456	1799241000000115	"8CE0100"	10000	"Insulin alert patient information booklet given"	804851000000104	0	0	1
+1196	1932051000006114	" "	200	"3D study - problems with diabetes management"	1932051000006105	0	0	1
+97	616341000006117	"6872.00"	700000	"Diabetes mellitus screening"	171183004	0	0	1
+1468	1031051000006113	" "	2	"Adverse reaction to Protamine Zinc Bovine Insulin"	1031051000006109	0	0	1
+956	213141000006111	"L180X00"	200	"Pre-existing diabetes mellitus, unspecified"	385051000000106	0	0	1
+92	1484923019	"8H7r.00"	200000	"Refer to diabetic foot screener"	390890005	0	0	1
+1103	1861341000006117	" "	10	"Adverse reaction to Insulin Degludec"	1861341000006101	0	0	1
+1346	6611521000006112	" "	6	"Diabetes self-monitoring health education"	398773005	0	0	1
+106	546471000000114	"9OLM.00"	500000	"Diabetes structured education programme declined"	306591000000103	0	0	1
+734	13761000006115	"C106y00"	100	"Other specified diabetes mellitus with neurological comps"	422088007	0	0	1
+607	391111000006119	"U602300"	800	"Adverse reaction to antidiabetic drug"	430400006	0	0	1
+1413	1048331000006114	" "	1	"Adverse reaction to Insulin Glulisine"	1048331000006105	0	0	1
+592	73294018	"F464000"	8000	"Diabetic cataract"	43959009	0	0	1
+23	1488403015	"2G5J.00"	1000000	"O/E - Left diabetic foot at moderate risk"	394681008	0	0	1
+703	975261000006113	"2BBl.00"	3000	"O/E - left eye stable treated proliferative diabetic retinopathy"	414894003	0	0	1
+128	2533102013	"9OLB.00"	50000	"Attended diabetes structured education programme"	413597006	0	0	1
+362	1220321013	"L180800"	10000	"Diabetes mellitus arising in pregnancy"	11687002	0	0	1
+846	292621010	"C10yz00"	50	"Diabetes mellitus NOS with other specified manifestation"	73211009	0	0	1
+1268	8098951000006115	" "	10	"Referral to DESMOND (diabetes education and self management for ongoing and newly diagnosed) diabetes structured programme"	306741000000104	0	0	1
+1056	12085141000006120	" "	10	"Mild non-proliferative diabetic retinopathy of left eye"	769184004	0	0	1
+330	2249831000000111	"9NJy.00"	30000	"In-house diabetic foot screening"	870681000000109	0	0	1
+444	616921000006113	"C106.11"	2000	"Diabetic amyotrophy"	39058009	0	0	1
+271	264701014	"66AD.00"	600000	"Fundoscopy - diabetic check"	170757007	0	0	1
+428	546001000000113	"9OLG.00"	5000	"Attended XPERT diabetes structured education programme"	306401000000106	0	0	1
+1402	8099361000006112	" "	3	"Did not attend XPERT (expert patient education versus routine treatment) diabetes structured education programme"	307201000000109	0	0	1
+579	292466013	"C100.00"	10000	"Diabetes mellitus without complication"	111552007	0	0	1
+1453	6866781000006116	" "	2	"On examination - right chronic diabetic foot ulcer"	414906009	0	0	1
+1084	7851731000006116	" "	30	"Diabetic mastopathy"	724136006	0	0	1
+577	856691000006116	" "	9000	"Left diabetic foot low current risk"	856691000006100	0	0	1
+597	6615341000006112	" "	1000	"Diabetic monitoring - injection sites normal"	398985007	0	0	1
+266	1868141000006110	"8IEa.00"	20000	"Referral to DAFNE diabetes structured education programme declined"	860981000000106	0	0	1
+1438	12117381000006110	" "	300	"Referral for diabetic care"	1099151000000109	0	0	1
+551	8098261000006110	" "	100	"Attended dose adjustment for normal eating diabetes structured education programme"	306441000000109	0	0	1
+1233	3253231000006110	" "	20	"Diabetes mellitus type I"	46635009	0	0	1
+993	616221000006117	"L180400"	7	"Diabetes mellitus in the puerperium - baby delivered during previous episode of care"	199228009	0	0	1
+107	2159170012	"8BL2.00"	600000	"Patient on maximal tolerated therapy for diabetes"	407569005	0	0	1
+468	1139861000000119	"66AQ100"	2000	"Declined consent for diabetes year of care programme"	512581000000104	0	0	1
+416	1996751000006117	" "	1000	"Insulin injection technique checked"	1996751000006101	0	0	1
+143	692951000000111	"66Aq.00"	500000	"Diabetic foot screen"	367011000000100	0	0	1
+913	913591000006110	"C10E512"	100	"Skin ulcer associated with diabetes mellitus"	422183001	0	0	1
+843	1873301000006114	" "	60	"Care contact service: diabetes"	1873301000006105	0	0	1
+1008	4929251000006115	" "	30	"Diabetic nurse"	224543004	0	0	1
+275	2159956013	"9NN9.00"	20000	"Under care of diabetes specialist nurse"	408392008	0	0	1
+131	546871000000112	"8Hj3.00"	10000	"Referral to DAFNE diabetes structured education programme"	306701000000102	0	0	1
+386	856631000006115	" "	2000	"Left laser treated diabetic retinopathy"	856631000006104	0	0	1
+1159	5833351000006114	" "	60	"Intentional insulin overdose"	296851001	0	0	1
+785	2549896013	"2BBo.00"	100	"O/E - sight threatening diabetic retinopathy"	417677008	0	0	1
+37	1488405010	"66AW.00"	200000	"Diabetic foot risk assessment"	394683006	0	0	1
+715	881501000006110	"C106.99"	5000	"Diabetes + neuropathy"	230572002	0	0	1
+678	857691000006119	" "	200	"Right diabetic foot active ulceration"	857691000006103	0	0	1
+934	8241041000006113	" "	20	"Symptomatic diabetic peripheral neuropathy"	773001000000103	0	0	1
+1506	6718121000006115	" "	4	"Diabetes type"	405751000	0	0	1
+262	461270012	"ZV77100"	10000	"[V]Screening for diabetes mellitus"	171183004	0	0	1
+38	616391000006114	"C106.00"	40000	"Nervous system disorder due to diabetes mellitus"	422088007	0	0	1
+393	616351000006115	"C107.11"	400	"Diabetes mellitus with gangrene"	422275004	0	0	1
+1169	1099341000006117	" "	1	"Adverse reaction to Insulin Zinc Suspension"	1099341000006101	0	0	1
+461	616821000006116	"3882.00"	7000	"Diabetes wellbeing questionnaire"	273413007	0	0	1
+42	264678011	"66A2.00"	2000000	"Follow-up diabetic assessment"	170744004	0	0	1
+101	1763421000006116	" "	3000	"Insulin dose"	1763421000006100	0	0	1
+145	12121381000006114	" "	8000	"Diabetic retinopathy screening offered"	1103701000000102	0	0	1
+912	1583911000006117	" "	300	"Ineligibility for diabetic eye screening: Under ophthalmic care"	1583911000006101	0	0	1
+1432	7567341000006113	" "	6	"Diabetes foot care clinic"	702848001	0	0	1
+629	12623631000006116	" "	7000	"Referral to online diabetes structured education programme"	1108731000000100	0	0	1
+845	902201000006112	"TJ23.99"	30	"Reaction: insulin/antidiabetic"	293190009	0	0	1
+826	967681000006119	"C10L.00"	10	"Fibrocalculous pancreatic diabetes"	2751001	0	0	1
+82	2548271013	"8CS0.00"	1000000	"Agreeing on diabetes care plan"	703040004	0	0	1
+751	1013661000006110	" "	100	"Adverse reaction to Drugs Used In Diabetes"	1013661000006106	0	0	1
+221	293759015	"Cyu2300"	2000	"Diabetic renal disease"	127013003	0	0	1
+125	139001000000110	"9h4..00"	40000	"Exception reporting - diabetes quality indicators"	716911000000104	0	0	1
+1437	8098981000006111	" "	10	"Referral to XPERT (expert patient education versus routine treatment) diabetes structured education programme"	306771000000105	0	0	1
+411	15518018	"C10N.00"	2000	"Secondary diabetes mellitus"	8801005	0	0	1
+998	12116461000006112	" "	40	"Did not commence remote structured diabetes education and support programme"	1098011000000102	0	0	1
+1076	301641000000117	"66Al.00"	50	"Diabetes monitoring higher risk albumin excretion"	199491000000103	0	0	1
+532	8098321000006111	" "	300	"Diabetes education and self management for ongoing and newly diagnosed structured programme completed"	306501000000105	0	0	1
+253	906711000006116	" "	2000	"[RFC] Diabetic foot/leg ulcer"	906711000006100	0	0	1
+1380	1137491000006110	" "	1	"Adverse reaction to Biphasic Isophane Insulin (Human)"	1137491000006106	0	0	1
+904	771381000006115	"C108300"	200	"Insulin dependent diabetes mellitus with multiple complicatn"	385041000000108	0	0	1
+752	719531000006118	"C10A.00"	200	"Malnutrition related diabetes mellitus"	75524006	0	0	1
+1142	1934931000006112	" "	2	"Adverse reaction to Allpresan Diabetic"	1934931000006108	0	0	1
+259	1744471000006112	" "	300	"Needs carer to administer insulin"	1744471000006108	0	0	1
+744	2265851000000114	"8BAp.00"	600	"Insulin passport not checked"	878011000000108	0	0	1
+1294	719481000006116	"C10A300"	1	"Malnutrit-related diabetes mellitus wth ophthalmic complicat"	421256007	0	0	1
+1325	306114012	"L180700"	1	"Pre-existing malnutrition-related diabetes mellitus"	199231005	0	0	1
+655	616831000006118	"C107.12"	500	"Diabetes with gangrene"	422275004	0	0	1
+1356	5505651000006113	" "	10	"Diabetes mellitus uncontrolled"	268519009	0	0	1
+923	1724331000006117	" "	50	"Insulin treatment stopped"	1724331000006101	0	0	1
+400	358036010	"M21yC11"	2000	"Insulin site lipohypertrophy"	238894004	0	0	1
+1029	293756010	"Cyu2000"	70	"[X]Other specified diabetes mellitus"	73211009	0	0	1
+1113	13781000006113	"C10yy00"	10	"Other specified diabetes mellitus with other spec comps"	73211009	0	0	1
+501	306108017	"L180100"	400	"Diabetes mellitus during pregnancy - baby delivered"	199225007	0	0	1
+1236	1694811000006118	" "	200	"Insulin administration education"	1694811000006102	0	0	1
+1107	857051000006118	" "	40	"Left preproliferative diabetic retinopathy"	857051000006102	0	0	1
+918	8241711000006112	" "	1	"Discussion about changing insulin requirement in pregnancy"	774551000000108	0	0	1
+858	306112011	"L180500"	800	"Pre-existing diabetes mellitus, insulin-dependent"	385051000000106	0	0	1
+716	887971000006115	"L180.99"	400	"Preg.+ diabetes mellitus"	199223000	0	0	1
+1354	1977131000006118	" "	2	"Adverse reaction to Insulin Human"	1977131000006102	0	0	1
+595	2415191000000113	"1M8..00"	2000	"Diabetic peripheral neuropathic pain"	944141000000108	0	0	1
+889	6444051000006119	" "	400	"Diabetic care"	385804009	0	0	1
+1358	7863811000006111	" "	7	"Lumbosacral plexopathy with diabetes mellitus"	724997001	0	0	1
+1263	6985411000006117	" "	2	"Diabetic skin ulcer"	422183001	0	0	1
+1013	1099861000006110	" "	8	"Adverse reaction to Isophane Insulin"	1099861000006106	0	0	1
+552	494831000000119	"C10N100"	1000	"Diabetes mellitus associated with cystic fibrosis"	426705001	0	0	1
+910	622221000000118	"C10FS00"	200	"Maternally inherited diabetes mellitus"	335621000000101	0	0	1
+639	3515955014	" "	700	"Diabetes self management plan"	735985000	0	0	1
+788	881511000006113	"C107.99"	700	"Diabetes + periph.circulat.dis"	422275004	0	0	1
+1164	12115571000006110	" "	30	"Remote diabetes structured education and support programme completed"	1097141000000101	0	0	1
+73	453053017	"2BBG.00"	10000	"Retinal abnormality - non-diabetes"	309596003	0	0	1
+342	546151000000110	"9OLJ.00"	2000	"DAFNE diabetes structured education programme completed"	306471000000103	0	0	1
+932	8286821000006113	" "	40	"Education about diabetic nephropathy"	846691000000105	0	0	1
+1507	1697221000006119	" "	1	"Adverse reaction to Ts-A Safety Insulin"	1697221000006103	0	0	1
+103	405057014	"9OLA.11"	30000	"Diabetes monitored"	270445003	0	0	1
+1067	5994181000006119	" "	10	"Diabetic department"	309924002	0	0	1
+169	9093013	"F420.00"	300000	"Diabetic retinopathy"	4855003	0	0	1
+933	1977221000006114	" "	20	"Adverse reaction to Insulin Human"	1977221000006105	0	0	1
+864	771421000006113	"C108500"	60	"Insulin dependent diabetes mellitus with ulcer"	422183001	0	0	1
+68	2548205017	"68A9.00"	80000	"Diabetic retinopathy screening offered"	1103701000000102	0	0	1
+521	2586731000000110	" "	3000	"Under care of community-based diabetes specialist nurse"	1024571000000100	0	0	1
+511	607851000006113	"66AO.00"	300	"Date diabetic treatment stopped"	170773001	0	0	1
+1418	7032031000006112	" "	8	"Diabetic peripheral neuropathy"	424736006	0	0	1
+1038	1583871000006115	" "	20	"Ineligibility for diabetic eye screening: No contact details"	1583871000006104	0	0	1
+137	857031000006113	" "	10000	"Left non-proliferative diabetic retinopathy"	857031000006109	0	0	1
+302	216195015	"66AU.00"	80000	"Diabetes care by hospital only"	243860001	0	0	1
+252	455408014	"F420500"	900	"Advanced diabetic retinal disease"	311782002	0	0	1
+581	411891014	"66AJ.11"	3000	"Unstable diabetes"	11530004	0	0	1
+1328	6761781000006114	" "	10	"On examination - right eye background diabetic retinopathy"	408409007	0	0	1
+91	2474309019	"8I3W.00"	200000	"Diabetic foot examination declined"	412752009	0	0	1
+531	354508018	"K08yA11"	30	"Clinical diabetic nephropathy"	236500003	0	0	1
+1280	719591000006119	"C10A400"	1	"Malnutrition-related diabetes mellitus wth neuro complicatns"	420683009	0	0	1
+510	547441000000118	"8I82.00"	60	"Did not complete DAFNE diabetes structured education program"	306961000000101	0	0	1
+1108	7861581000006118	" "	40	"Diabetic radiculoplexus neuropathy"	724810001	0	0	1
+222	2287311000000111	"66AS000"	200000	"Diabetes Year of Care annual review"	887861000000105	0	0	1
+1401	2683581000006112	" "	20	"Labile diabetes"	11530004	0	0	1
+723	616561000006113	"C107200"	200	"Diabetes mellitus, adult with gangrene"	421631007	0	0	1
+1505	7809991000006111	" "	1	"Insulin refused"	720971004	0	0	1
+349	317347010	"R054200"	1000	"[D]Gangrene of toe in diabetic"	195302000	0	0	1
+1431	8236711000006119	" "	20	"DNA (did not attend) diabetes foot screening"	762811000000109	0	0	1
+784	13771000006110	"C105y00"	90	"Other specified diabetes mellitus with ophthalmic complicatn"	25093002	0	0	1
+1135	12734741000006114	" "	300	"Registration for access to online diabetes self-management application"	143911000000105	0	0	1
+346	616191000006112	"L180.00"	4000	"Diabetes mellitus during pregnancy, childbirth and the puerperium"	199223000	0	0	1
+1477	6022611000006112	" "	6	"Mild nonproliferative diabetic retinopathy"	312903003	0	0	1
+1028	5549741000006110	" "	10	"Diabetes clinic satisfaction questionnaire"	273411009	0	0	1
+615	910491000006117	" "	2000	"[RFC] Diabetic leg ulcer"	910491000006101	0	0	1
+62	308811000000110	"8HTk.00"	50000	"Referral to diabetic eye clinic"	202461000000102	0	0	1
+726	377001000006117	"Cyu2.00"	500	"[X]Diabetes mellitus"	73211009	0	0	1
+530	1704801000006113	"9m0E.00"	1000	"Excluded from diabetic retinopathy screening as physical disorder"	374871000000103	0	0	1
+627	292475010	"C100z00"	4000	"Diabetes mellitus NOS with no mention of complication"	111552007	0	0	1
+506	1139821000000110	"66AQ000"	300	"Unsuitable for diabetes year of care programme"	512561000000108	0	0	1
+335	1690631000000113	"9NiZ.00"	8000	"Did not attend diabetes foot screening"	762811000000109	0	0	1
+689	72651000006114	"C108400"	100	"Unstable insulin dependent diabetes mellitus"	11530004	0	0	1
+665	4938911000006118	" "	1000	"Insulin regime"	225302006	0	0	1
+118	546961000000111	"8Hj4.00"	200000	"Referral to DESMOND diabetes structured education programme"	306741000000104	0	0	1
+871	845341000006111	"66AX.00"	200	"Diabetes: shared care in pregnancy - diabetologist and obstetrician"	24451000000107	0	0	1
+160	910501000006113	" "	10000	"[RFC] Diabetic foot ulcer"	910501000006109	0	0	1
+1364	6546241000006111	" "	8	"On examination - Right diabetic foot at low risk"	394671009	0	0	1
+1053	12085721000006110	" "	30	"Diabetic macular oedema of right eye"	769217008	0	0	1
+489	25261000000111	"9OL..11"	20000	"Diabetes clinic administration"	713691000000108	0	0	1
+1143	9482651000006116	" "	8	"Diabetes screening declined"	12275391000119108	0	0	1
+582	302011	"G73y000"	3000	"Diabetic peripheral angiopathy"	127014009	0	0	1
+502	251187019	"13Y1.00"	8000	"Diabetic association member"	161102006	0	0	1
+1351	8099181000006116	" "	5	"Did not complete DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme"	306991000000107	0	0	1
+294	345487013	"C106.12"	20000	"Diabetes mellitus with neuropathy"	230572002	0	0	1
+1379	5997431000006115	" "	1	"Diabetic liaison nurse"	310185003	0	0	1
+248	2474726011	"7276.00"	20000	"Pan retinal photocoagulation for diabetes"	413180006	0	0	1
+1282	1984081000006115	" "	1	"Manchester triage - Diabetes"	1984081000006104	0	0	1
+970	1015121000006112	" "	5	"Adverse reaction to Insulin Detemir"	1015121000006108	0	0	1
+593	12626341000006114	" "	10000	"QOF (Quality and Outcomes Framework) diabetes mellitus quality indicator-related care invitation"	1110921000000100	0	0	1
+425	2168881000000114	"7L10011"	3000	"Subcutaneous infusion with insulin pump"	180178009	0	0	1
+24	121589010	"C10..00"	5000000	"Diabetes mellitus"	73211009	0	0	1
+839	429972014	"C10E412"	70	"Unstable insulin dependent diabetes mellitus"	11530004	0	0	1
+215	2227981000000110	"9Oy0300"	10000	"Diabetic foot screening invitation second letter"	861551000000100	0	0	1
+13	1484888013	"2BBM.00"	100000	"O/E - diabetic maculopathy absent both eyes"	390855002	0	0	1
+1384	3511581000006114	" "	8	"Pretibial pigmental patches in diabetes"	62260007	0	0	1
+1042	771341000006114	"C108F00"	30	"Insulin dependent diabetes mellitus with diabetic cataract"	43959009	0	0	1
+1502	12085291000006120	" "	1	"Severe nonproliferative diabetic retinopathy of left eye"	769188001	0	0	1
+1057	12085091000006110	" "	10	"Mild non-proliferative diabetic retinopathy of right eye"	769183005	0	0	1
+848	8439971000006116	" "	2000	"Diabetes monitoring SMS (short message service) text message third invitation"	1066931000000108	0	0	1
+1295	719571000006115	"C10A200"	3	"Malnutrition-related diabetes mellitus with renal complications"	190407009	0	0	1
+203	2474334019	"8CR2.00"	100000	"Diabetes clinical management plan"	736284000	0	0	1
+555	1583861000006110	" "	700	"Ineligibility for diabetic eye screening: Persistent DNA"	1583861000006106	0	0	1
+685	3603911000006118	" "	3000	"Insulin"	67866001	0	0	1
+1005	932641000006116	"C103y99"	30	"Diabetes with coma"	630521000000101	0	0	1
+609	299211000000114	"66Ah.00"	5000	"Insulin needles changed for each injection"	198481000000109	0	0	1
+64	2159271018	"9N1i.00"	100000	"Seen in diabetic foot clinic"	407672007	0	0	1
+749	1960621000006117	" "	100	"Diabetic foot examination - no action required"	1960621000006101	0	0	1
+693	2532977011	"2G5V.00"	700	"O/E - right chronic diabetic foot ulcer"	414906009	0	0	1
+887	8240791000006113	" "	60	"Insulin/carbohydrate ratio"	771881000000103	0	0	1
+736	301161000000113	"66Aj.00"	400	"Insulin needles changed less than once a day"	199291000000104	0	0	1
+1288	2609971000000114	" "	2	"Referred by Diabetes UK roadshow clinician"	1033551000000109	0	0	1
+758	317348017	"R054300"	200	"[D]Widespread diabetic foot gangrene"	195303005	0	0	1
+273	297550019	"F372000"	6000	"Acute painful diabetic neuropathy"	193183000	0	0	1
+873	8239371000006116	" "	100	"Insulin/carbohydrate ratio - evening meal"	768191000000106	0	0	1
+990	1093131000006110	" "	2	"Adverse reaction to Isophane Insulin (Human Pyr)"	1093131000006106	0	0	1
+963	292495016	"C104y00"	100	"Other specified diabetes mellitus with renal complications"	127013003	0	0	1
+1461	12085071000006114	" "	2	"Mild nonproliferative diabetic retinopathy of right eye"	769183005	0	0	1
+316	2159969012	"9360.00"	70000	"Patient held diabetic record issued"	408405001	0	0	1
+682	7567351000006110	" "	100	"Diabetes in pregnancy clinic"	702849009	0	0	1
+619	8286801000006115	" "	900	"Education about diabetic neuropathy"	846661000000104	0	0	1
+1158	2843291000006110	" "	5	"Maternal diabetes syndrome"	21584002	0	0	1
+1131	7318191000006115	" "	2	"Change in insulin dose"	446047003	0	0	1
+3	1785332013	"F420000"	700000	"Background diabetic retinopathy"	390834004	0	0	1
+790	2159779017	"449G.00"	200	"Serum pro-insulin level"	1005511000000104	0	0	1
+139	309180011	"M271200"	20000	"Mixed diabetic ulcer - foot"	201252003	0	0	1
+571	975251000006111	"2BBk.00"	4000	"O/E - right eye stable treated proliferative diabetic retinopathy"	414910007	0	0	1
+645	764191000006112	"2G51000"	8000	"Foot abnormality - diabetes related"	280137006	0	0	1
+1374	6866541000006117	" "	3	"On examination - left eye stable treated proliferative diabetic retinopathy"	414894003	0	0	1
+783	617041000006117	" "	3000	"Diabetic Foot Risk Assessment"	617041000006101	0	0	1
+412	472901000000116	"66Am.00"	30000	"Insulin dose changed"	703972004	0	0	1
+654	6022921000006114	" "	5000	"Diabetic macular oedema"	312912001	0	0	1
+296	19931010	"66AJ100"	2000	"Brittle diabetes"	11530004	0	0	1
+704	6022621000006116	" "	70	"Moderate nonproliferative diabetic retinopathy"	312904009	0	0	1
+875	8239401000006118	" "	100	"Insulin/carbohydrate ratio - breakfast"	768211000000105	0	0	1
+1439	12166111000006116	" "	1	"Retinopathy due to diabetes mellitus"	4855003	0	0	1
+207	299261000000111	"66Ai.00"	300000	"Diabetic 6 month review"	198501000000100	0	0	1
+1208	1786715019	"C350011"	10	"Bronzed diabetes"	399144008	0	0	1
+768	548131000000119	"9NiE.00"	5000	"Did not attend XPERT diabetes structured education programme"	307201000000109	0	0	1
+389	264720011	"66AN.00"	10000	"Date diabetic treatment start"	170772006	0	0	1
+1371	7708051000006112	" "	1	"Gastroparesis due to diabetes mellitus type I"	713702000	0	0	1
+435	2586691000000116	" "	1000	"Under care of hospital-based diabetes specialist nurse"	1024551000000109	0	0	1
+1434	2576431000006117	" "	3	"DR - Diabetic retinopathy"	4855003	0	0	1
+667	5095031000006114	" "	60	"Microalbuminuric diabetic nephropathy"	236499007	0	0	1
+576	857761000006118	" "	9000	"Right diabetic foot low current risk"	857761000006102	0	0	1
+1411	12300391000006116	" "	10	"Macular oedema not clinically significant with diabetes mellitus"	399864000	0	0	1
+1016	10928019	" "	20	"Diabetes mellitus associated with genetic syndrome"	5969009	0	0	1
+1071	459293018	"C10EH12"	6	"Insulin dependent diabetes mellitus with arthropathy"	39710007	0	0	1
+1194	771331000006116	"C108H00"	70	"Insulin dependent diabetes mellitus with arthropathy"	39710007	0	0	1
+809	2683561000006119	" "	10	"Brittle diabetes mellitus"	11530004	0	0	1
+937	299191000000110	"66Ag.00"	700	"Insulin needles changed daily"	198471000000107	0	0	1
+1337	12102571000006116	" "	1	"Clinically significant macular oedema with diabetes mellitus"	770097006	0	0	1
+1082	1987971000006114	" "	100	"X-PERT First Steps diabetes self-management programme completed"	1033281000000100	0	0	1
+741	330806013	"TJ23z00"	80	"Adverse reaction to insulins and antidiabetic agents NOS"	430400006	0	0	1
+410	264716012	"66AJz00"	10000	"Diabetic - poor control NOS"	268519009	0	0	1
+1293	189711000000119	"C10M000"	4	"Lipoatrophic diabetes mellitus without complication"	112991000000101	0	0	1
+728	8099161000006114	" "	60	"Did not complete diabetes education and self management for ongoing and newly diagnosed structured programme"	306991000000107	0	0	1
+1335	12085791000006112	" "	3	"Diabetic macular edema of left eye"	769218003	0	0	1
+74	169731000006118	"2BBF.00"	200000	"Retinal abnormality - diabetes-related"	4855003	0	0	1
+88	1759911000000118	"8IE2.00"	8000	"Diabetes care plan declined"	787061000000100	0	0	1
+583	198461000000116	"C10G000"	900	"Diabetes mellitus associated with pancreatic disease"	51002006	0	0	1
+1227	1124301000006115	" "	2	"Adverse reaction to Human Soluble Insulin, Prb"	1124301000006104	0	0	1
+135	616421000006118	"C105.00"	20000	"Eye disorder due to diabetes mellitus"	25093002	0	0	1
+507	1704691000006117	"9m03.00"	200	"Eligibility permanently inactive for diabetic retinopathy screening"	371871000000101	0	0	1
+430	2533106011	"8HTe.00"	1000	"Referral to diabetes preconception counselling clinic"	415269004	0	0	1
+98	309177010	"M271000"	10000	"Ischaemic ulcer diabetic foot"	201250006	0	0	1
+648	730411000000115	"9m00.00"	4000	"Eligible for diabetic retinopathy screening"	371781000000108	0	0	1
+192	616711000006115	"9OL7.00"	100000	"Diabetes monitoring verbal invite"	185759004	0	0	1
+72	457231013	"9N1v.00"	1000000	"Seen in diabetic eye clinic"	313340009	0	0	1
+740	1850931000006111	" "	10000	"Reason for influenza vaccine - diabetes mellitus"	1850931000006107	0	0	1
+1449	354671000006113	"U60231E"	2	"[X] Adverse reaction to insulins and antidiabetic agents NOS"	430400006	0	0	1
+652	6888611000006119	" "	1	"Diabetic record status"	416193009	0	0	1
+1272	4392141000006116	" "	5	"Lipoatrophic diabetes"	127012008	0	0	1
+524	1704781000006114	"9m0C.00"	300	"Excluded from diabetic retinopathy screening as terminal illness"	374811000000108	0	0	1
+25	264676010	"66A..00"	6000000	"Diabetic monitoring"	170742000	0	0	1
+162	737031000000119	"9m0A.00"	100000	"Diabetic retinopathy screening declined"	839811000000106	0	0	1
+580	1621011000006115	" "	10000	"No evidence of diabetic peripheral neuropathy"	1621011000006104	0	0	1
+224	2159979014	"2BBW.00"	70000	"Maculopathy of right eye with diabetes mellitus"	769244003	0	0	1
+1352	1135841000006113	" "	2	"Adverse reaction to Insulin Glulisine"	1135841000006109	0	0	1
+1075	12086281000006112	" "	200	"Diabetic maculopathy of right eye"	769244003	0	0	1
+45	264727014	"66AS.00"	7000000	"Diabetic annual review"	170777000	0	0	1
+722	736911000000111	"9m08.00"	200	"Excluded from diabetic retinopathy screening as blind"	374691000000100	0	0	1
+924	9986011	" "	90	"Drug-induced diabetes mellitus"	5368009	0	0	1
+1490	356110010	" "	2	"Megaloblastic anaemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness"	237617006	0	0	1
+188	2674067015	"C10ER00"	6000	"Latent autoimmune diabetes mellitus in adult"	426875007	0	0	1
+1421	3292081000006115	" "	2	"Bullosis diabeticorum"	48951005	0	0	1
+33	1488393013	"2G5E.00"	6000000	"O/E - Right diabetic foot at low risk"	394671009	0	0	1
+441	264705017	"66AH.00"	50000	"Diabetic treatment changed"	170761001	0	0	1
+1229	8243411000006117	" "	50	"Referral to DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme declined"	781161000000107	0	0	1
+373	987441000006113	" "	20000	"Six month diabetic review"	987441000006109	0	0	1
+1495	7804621000006115	" "	1	"Not suitable for DESMOND (Diabetes Education and Self Management for Ongoing and Newly Diagnosed) program"	720504004	0	0	1
+512	2465001000000115	"679l.00"	2000	"Diabetic injection administration education"	968061000000105	0	0	1
+522	616381000006111	"C103.00"	800	"Diabetes mellitus with ketoacidotic coma"	26298008	0	0	1
+150	479981000000119	"8Hl4.00"	50000	"Referral to community diabetes specialist nurse"	279521000000108	0	0	1
+719	1773381000006119	" "	20000	"Seen in in-house nurse-led diabetic clinic"	1773381000006103	0	0	1
+1073	3636751012	" "	20	"Acute complication with diabetes mellitus"	762489000	0	0	1
+48	772161000006119	"C100011"	80000	"Insulin dependent diabetes mellitus"	73211009	0	0	1
+1048	1119981000006119	" "	30	"Adverse reaction to Insulin glargine"	1119981000006103	0	0	1
+1232	8099331000006115	" "	70	"Did not attend DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme"	307171000000108	0	0	1
+802	8439961000006111	" "	10000	"Diabetes monitoring SMS (short message service) text message second invitation"	1066921000000106	0	0	1
+504	2227861000000112	"9Oy0200"	60000	"Diabetic foot screening invitation first letter"	861531000000107	0	0	1
+14	2159975015	"2BBR.00"	40000	"O/E - right eye preproliferative diabetic retinopathy"	408411003	0	0	1
+1202	2460621000000111	"8OAL.00"	8	"Provision of diabetes identity card"	719570003	0	0	1
+1094	771481000006112	"C108200"	60	"Insulin-dependent diabetes mellitus with neurological comps"	422088007	0	0	1
+1258	719601000006110	"C10A500"	4	"Malnutrition-related diabetes mellitus with peripheral circulatory complications"	190410002	0	0	1
+1171	7567371000006117	" "	900	"Diabetic retinopathy clinic"	702850009	0	0	1
+698	468181000006111	"TJ23000"	80	"Insulin adverse reaction"	293177002	0	0	1
+340	764211000006113	"2G51100"	1000	"Foot abnormality - non-diabetes"	309598002	0	0	1
+111	2117891000000114	"661M400"	1000000	"Diabetes self-management plan agreed"	811981000000102	0	0	1
+469	2182651000000118	"8HTE100"	50000	"Referral to community diabetes clinic"	841221000000102	0	0	1
+838	453100011	"14F4.00"	500	"H/O: Admission in last year for diabetes foot problem"	309635005	0	0	1
+202	251591016	"1434.00"	100000	"H/O: diabetes mellitus"	161445009	0	0	1
+777	913501000006115	"C10E212"	100	"Insulin-dependent diabetes mellitus with neurological comps"	422088007	0	0	1
+1105	856641000006113	" "	30	"Left diabetic maculopathy"	856641000006109	0	0	1
+720	1079341000006112	" "	4	"Adverse reaction to Insulin Lispro"	1079341000006108	0	0	1
+217	2227781000000112	"9Oy0000"	40000	"Diabetic foot screening invitation"	861491000000107	0	0	1
+1216	5833331000006119	" "	30	"Insulin overdose"	296849000	0	0	1
+635	3319861000006118	" "	200	"Diabetic autonomic neuropathy"	50620007	0	0	1
+830	2906401000006113	" "	80	"Diabetic retinal microaneurysm"	25412000	0	0	1
+1427	8098281000006117	" "	1	"Attended DAFNE (dose adjustment for normal eating) diabetes structured education programme"	306441000000109	0	0	1
+63	2156571000000116	"67D8.00"	200000	"Provision of diabetes clinical summary"	829521000000104	0	0	1
+457	621511000000117	"9Oy..00"	20000	"Diabetes screening administration"	715111000000105	0	0	1
+1022	1120491000006114	" "	2	"Adverse reaction to Insulin Zinc Solution"	1120491000006105	0	0	1
+1275	329150014	"TA34100"	6	"Failure in dose in insulin-shock therapy"	216962009	0	0	1
+242	1824931000006119	" "	1000	"Home visit for diabetes monitoring"	1824931000006103	0	0	1
+1245	772131000006111	"C108J00"	20	"Insulin dependent diab mell with neuropathic arthropathy"	201724008	0	0	1
+446	1100981000006112	" "	60	"Adverse reaction to Codeine Linctus Diabetic"	1100981000006108	0	0	1
+1156	498512013	" "	1	"Genetic syndromes of diabetes mellitus"	5969009	0	0	1
+1093	499479018	"8BA4.00"	40	"Shock therapy - insulin"	63105004	0	0	1
+482	2549069011	"9N0n.00"	40000	"Seen in community diabetes specialist clinic"	416554009	0	0	1
+895	616211000006113	"L180z00"	300	"Diabetes mellitus in pregnancy/childbirth/puerperium NOS"	199223000	0	0	1
+1450	1118121000006110	" "	1	"Adverse reaction to Isophane insulin (human, crb)"	1118121000006106	0	0	1
+1353	6630581000006113	" "	4	"Very severe proliferative diabetic retinopathy"	399865004	0	0	1
+119	2533110014	"8Hj0.00"	500000	"Referral to diabetes structured education programme"	415270003	0	0	1
+234	11930651000006116	" "	3000	"QDiabetes risk calculator"	863501000000102	0	0	1
+670	856531000006119	" "	1000	"Diabetic - GP eye check"	856531000006103	0	0	1
+883	8195201000006113	" "	6	"History of diabetic complication"	519141000000107	0	0	1
+86	2159961010	"8I6G.00"	80000	"Diabetic foot examination not indicated"	408397002	0	0	1
+759	1966441000006113	"67W1.00"	5000	"Recommendation to self-refer for diabetes structured education"	977201000000107	0	0	1
+20	1484883016	"2BBJ.00"	1000000	"O/E - no right diabetic retinopathy"	390850007	0	0	1
+1167	4758121000006115	" "	20	"Insulin-dependent diabetes maturity onset"	190372001	0	0	1
+614	1787463012	"449D.00"	2000	"Plasma insulin level"	995451000000106	0	0	1
+1140	1088571000006114	" "	6	"Adverse reaction to Insulin Syringe"	1088571000006105	0	0	1
+622	264717015	"66AK.00"	10000	"Diabetic - cooperative patient"	170769004	0	0	1
+664	5979491000006119	" "	300	"Diabetes monitoring call"	308505000	0	0	1
+893	881471000006115	"C103.99"	70	"Diabetes with coma"	26298008	0	0	1
+1343	12085051000006116	" "	20	"Preproliferative diabetic retinopathy of left eye"	769182000	0	0	1
+1412	1140931000006117	" "	2	"Adverse reaction to Insulin Isophane Porcine"	1140931000006101	0	0	1
+1408	12704411000006112	" "	9	"Peripheral circulatory disorder associated with diabetes mellitus"	421895002	0	0	1
+908	12085921000006112	" "	40	"Clinically significant macular oedema of left eye due to diabetes mellitus"	769222008	0	0	1
+1307	292612014	"C10A700"	3	"Malnutrition-related diabetes mellitus without complications"	190412005	0	0	1
+303	144241000006111	"4493.00"	6000	"Serum insulin level"	997211000000103	0	0	1
+35	1780386019	"66Ab.00"	600000	"Diabetic foot examination"	401191002	0	0	1
+452	730471000000113	"9m01.00"	1000	"Ineligible for diabetic retinopathy screening"	371811000000106	0	0	1
+90	1824581000006110	" "	6000	"Referral to walking away from diabetes programme declined"	1824581000006106	0	0	1
+543	8098291000006119	" "	100	"Dose adjustment for normal eating diabetes structured education programme completed"	306471000000103	0	0	1
+177	2369111000000112	"67HA.00"	20000	"Lifestyle education for diabetes"	923461000000103	0	0	1
+230	1682801000006113	" "	80000	"Diabetic sick day rules advice"	1682801000006109	0	0	1
+542	1920661000006119	" "	400	"Unsuitable for DESMOND diabetes structured education programme"	1920661000006103	0	0	1
+54	1734721000000114	"66Av.00"	200000	"Assessment of diabetic erectile dysfunction"	473208009	0	0	1
+401	2549222013	"9N0o.00"	30000	"Seen in community diabetic specialist nurse clinic"	416696002	0	0	1
+96	1488395018	"2G5H.00"	30000	"O/E - Right diabetic foot - ulcerated"	394673007	0	0	1
+481	1776581000006117	" "	5000	"Reason for referral: Diabetes"	1776581000006101	0	0	1
+311	251892015	"14P3.00"	10000	"H/O: insulin therapy"	161649006	0	0	1
+877	8283131000006114	" "	40	"Date insulin pump therapy started"	841621000000104	0	0	1
+1308	913981000006115	"C10EJ12"	40	"Insulin dependent diab mell with neuropathic arthropathy"	201724008	0	0	1
+474	1583931000006111	" "	300	"Ineligibility for diabetic eye screening: Moved away"	1583931000006107	0	0	1
+1375	6931861000006110	" "	4	"Infection of foot associated with diabetes"	419100001	0	0	1
+214	2230301000000116	"9Oy0400"	6000	"Diabetic foot screening invitation third letter"	862481000000103	0	0	1
+87	16171000000110	"9OLZ.00"	90000	"Diabetes monitoring admin.NOS"	713671000000109	0	0	1
+166	2693189019	"679L.00"	200000	"Health education - diabetes"	385805005	0	0	1
+426	857421000006119	" "	2000	"Right laser treated diabetic retinopathy"	857421000006103	0	0	1
+1486	6546281000006117	" "	1	"On examination - Right diabetic foot - ulcerated"	394673007	0	0	1
+407	856611000006114	" "	3000	"Laser treated diabetic retinopathy"	856611000006105	0	0	1
+156	2279261000000115	"679L200"	200000	"Education about diabetes and driving"	700414001	0	0	1
+803	8098221000006116	" "	90	"Attended expert patient education versus routine treatment diabetes structured education programme"	306401000000106	0	0	1
+646	264718013	"66AL.00"	2000	"Diabetic-uncooperative patient"	170770003	0	0	1
+650	8098961000006118	" "	1000	"Referral to expert patient education versus routine treatment diabetes structured education programme"	306771000000105	0	0	1
+1116	125705011	" "	3	"Diabetes mellitus due to insulin receptor antibodies"	75682002	0	0	1
+332	1856641000006113	" "	30000	"Diabetes monitoring in primary care"	1856641000006109	0	0	1
+1365	6546411000006113	" "	10	"On examination - Left diabetic foot at moderate risk"	394681008	0	0	1
+718	881491000006119	"C105.99"	1000	"Diabetes + eye manifestation"	25093002	0	0	1
+644	292523015	"C107z00"	700	"Diabetes mellitus NOS with peripheral circulatory disorder"	421895002	0	0	1
+700	616081000006113	"889A.00"	30	"Diabetes mellitus insulin-glucose infusion in acute myocardial infarction"	315287002	0	0	1
+1087	1136831000006111	" "	2	"Adverse reaction to Re-usable insulin injection device"	1136831000006107	0	0	1
+484	283584016	"8H3O.00"	600	"Non-urgent diabetic admission"	183506001	0	0	1
+67	616751000006119	"9OL6.00"	400000	"Diabetes monitoring third letter"	185758007	0	0	1
+793	399419012	"F381300"	200	"Myasthenic syndrome due to diabetic amyotrophy"	267604001	0	0	1
+297	264704018	"66AG.00"	10000	"Diabetic drug side effects"	170760000	0	0	1
+1475	12180791000006114	" "	4	"Diabetic lumbosacral plexopathy"	39058009	0	0	1
+1492	8239411000006115	" "	1	"Active insulin time"	768241000000106	0	0	1
+1065	12085231000006118	" "	10	"Moderate non-proliferative diabetic retinopathy of left eye"	769186002	0	0	1
+545	1704651000006111	"9m0..00"	10000	"Diabetic retinopathy screening administrative status"	373031000000105	0	0	1
+1501	12085251000006112	" "	3	"Severe nonproliferative diabetic retinopathy of right eye"	769187006	0	0	1
+433	189841000000113	"9M10.00"	800	"Informed dissent for diabetes national audit"	113141000000103	0	0	1
+771	2249951000000114	"9NJy100"	300	"In-house diabetic foot screening follow-up appointment"	870741000000109	0	0	1
+753	12734771000006118	" "	70	"Declined to register for access to online diabetes self-management application"	143941000000106	0	0	1
+544	1763361000006116	" "	100	"Participant in ASCEND(A Study of Cardiovascu.Events in Diabetes)"	1763361000006100	0	0	1
+1330	7863801000006113	" "	1	"Lumbosacral plexopathy co-occurrent and due to diabetes mellitus"	724997001	0	0	1
+114	1488396017	"2G5L.00"	30000	"O/E - Left diabetic foot - ulcerated"	394674001	0	0	1
+1363	2451551000000117	" "	4	"Diabetes education care plan"	961931000000109	0	0	1
+16	301191000000119	"9N4p.00"	400000	"Did not attend diabetic retinopathy clinic"	199301000000100	0	0	1
+293	1230890017	"F171100"	6000	"Autonomic neuropathy due to diabetes"	50620007	0	0	1
+1080	11633221000006116	" "	1	"ADM - atypical diabetes mellitus"	530558861000132096	0	0	1
+41	458512016	"66AV.00"	200000	"Diabetic on insulin and oral treatment"	314194001	0	0	1
+272	621911000000114	"9Oy0.00"	100000	"Invitation for diabetes screening"	704408003	0	0	1
+336	787111000006112	"C108.11"	20000	"IDDM-Insulin dependent diabetes mellitus"	73211009	0	0	1
+817	449540010	" "	200	"Discharge by diabetic liaison nurse"	306499007	0	0	1
+126	737331000000117	"9m04.00"	5000	"Excluded from diabetic retinopathy screening"	374901000000103	0	0	1
+327	8064411000006119	" "	800	"Diabetic with adequate control"	204061000000100	0	0	1
+1121	8275381000006118	" "	80	"Endocrinology and diabetes"	828901000000109	0	0	1
+865	1856661000006112	" "	200	"Diabetes treatment type"	1856661000006108	0	0	1
+1485	3636752017	" "	1	"Acute complication co-occurrent and due to diabetes mellitus"	762489000	0	0	1
+329	857361000006119	" "	300000	"No H/O: diabetes mellitus"	857361000006103	0	0	1
+476	1775381000006118	" "	8000	"Referred to Diabetes Service"	1775381000006102	0	0	1
+240	1230929011	"C10G.00"	3000	"Secondary pancreatic diabetes mellitus"	51002006	0	0	1
+813	913471000006110	"C10E112"	200	"Insulin-dependent diabetes mellitus with ophthalmic comps"	25093002	0	0	1
+50	616731000006114	"9OL4.00"	4000000	"Diabetes monitoring first letter"	185756006	0	0	1
+419	358035014	"M21yC00"	3000	"Insulin lipohypertrophy"	238894004	0	0	1
+490	1682761000006116	" "	7000	"Advice given about insulin storage"	196551000000100	0	0	1
+888	8413691000006118	" "	400	"X-PERT (expert patient education versus routine treatment) First Steps diabetes self-management programme completed"	1033281000000100	0	0	1
+1447	3136191000006114	" "	3	"Administration of insulin"	39543009	0	0	1
+1424	6761881000006116	" "	1	"On examination - left eye proliferative diabetic retinopathy"	408414006	0	0	1
+1170	2597931000006119	" "	300	"Diabetic education"	6143009	0	0	1
+946	857441000006114	" "	300	"Right advanced diabetic retinal disease"	857441000006105	0	0	1
+879	8239351000006114	" "	40	"Insulin sensitivity factor - evening meal"	768181000000109	0	0	1
+453	5999771000006115	" "	9000	"Diabetes monitoring invitation"	310425007	0	0	1
+1179	1098831000006113	" "	30	"Adverse reaction to Hypodermic Insulin"	1098831000006109	0	0	1
+949	3286521000006111	" "	80	"Drug resistance to insulin"	48606007	0	0	1
+1009	11924351000006118	" "	8	"Diabetes treatment satisfaction questionnaire"	273412002	0	0	1
+1021	5833341000006112	" "	10	"Accidental insulin overdose"	296850000	0	0	1
+313	1799541000000117	"8BAi.00"	20000	"Insulin passport completed"	805001000000108	0	0	1
+1049	7828041000006115	" "	200	"Diabetic retinal eye exam"	722161008	0	0	1
+1338	12224761000006116	" "	1	"Severe NPDR (nonproliferative diabetic retinopathy)"	312905005	0	0	1
+1370	8259001000006114	" "	3	"Self management of diabetes"	806961000000103	0	0	1
+138	2243331000000115	"K27y700"	2000	"Erectile dysfunction due to diabetes mellitus"	867891000000101	0	0	1
+1128	2461101000000116	"66o3.00"	30	"Has diabetes identity card"	720724003	0	0	1
+1498	1713371000006112	" "	1	"Diabetic medicine"	1713371000006108	0	0	1
+144	1694761000006113	" "	10000	"Newly diagnosed diabetes"	405749004	0	0	1
+422	214921000006116	"F372.00"	8000	"Polyneuropathy in diabetes"	49455004	0	0	1
+832	1488749011	"66b1.00"	2000	"Diabetic monitoring not required"	395049009	0	0	1
+488	2586611000000113	" "	30000	"Seen by diabetes specialist nurse"	720685006	0	0	1
+1190	7469421000006113	" "	30	"Ambulatory insulin infusion pump"	470153003	0	0	1
+2	616741000006116	"9OL5.00"	900000	"Diabetes monitoring second letter"	185757002	0	0	1
+529	297552010	"F372200"	9000	"Asymptomatic diabetic neuropathy"	193185007	0	0	1
+1209	384521000006118	"U613400"	8	"[X]Failure in dosage in electroshock or insulin-shock ther"	385961000000108	0	0	1
+445	2205911000000116	"8CMW700"	9000	"Diabetes clinical pathway"	851501000000106	0	0	1
+628	2532976019	"2G5W.00"	800	"O/E - left chronic diabetic foot ulcer"	414890007	0	0	1
+806	2249991000000118	"8HgZ.00"	80	"Discharge from in-house diabetic foot screening"	870761000000105	0	0	1
+57	264707013	"66AI.00"	400000	"Diabetic - good control"	170763003	0	0	1
+247	2287151000000113	"67H9.00"	200000	"Lifestyle education regarding risk of diabetes"	699826006	0	0	1
+485	1065811000000118	"8HgC.00"	700	"Discharged from diabetes shared care programme"	494961000000102	0	0	1
+1150	6515201000006111	" "	8	"NPDR - Non proliferative diabetic retinopathy"	390834004	0	0	1
+61	616891000006119	" "	100000	"Diabetic - moderate control"	616891000006103	0	0	1
+1344	6444031000006114	" "	10	"Diabetic care assessment"	385803003	0	0	1
+58	264682013	"66A5.00"	1000000	"Diabetic on insulin"	170747006	0	0	1
+1270	6022691000006119	" "	7	"Early proliferative diabetic retinopathy"	312906006	0	0	1
+421	1841461000006118	" "	2000	"Diabetic foot screening invitation letter"	1841461000006102	0	0	1
+1460	7812131000006119	" "	2	"Diabetic retinopathy absent"	721103006	0	0	1
+1269	6872991000006113	" "	40	"Referral to diabetes structured education program"	415270003	0	0	1
+1388	12734341000006112	" "	100	"QOF (Quality and Outcomes Framework) diabetes mellitus quality indicator-related care invitation using preferred method of communication"	143401000000102	0	0	1
+927	457327017	"C10EA12"	300	"Insulin-dependent diabetes without complication"	111552007	0	0	1
+1400	1020731000006114	" "	1	"Adverse reaction to Insulin Zinc Suspension Lente (Evans)"	1020731000006105	0	0	1
+1025	1132361000006110	" "	1	"Adverse reaction to Insulin zinc suspension (human, prb)"	1132361000006106	0	0	1
+153	2159948010	"8HBG.00"	90000	"Diabetic retinopathy 12 month review"	408384004	0	0	1
+814	13791000006111	"C107y00"	30	"Other specified diabetes mellitus with periph circ comps"	421895002	0	0	1
+280	8439941000006112	" "	40000	"Diabetes monitoring SMS (short message service) text message first invitation"	1066911000000100	0	0	1
+1387	7741101000006113	" "	4	"Diabetic embryopathy"	716020005	0	0	1
+1068	354661000006118	"U602311"	10	"[X] Adverse reaction to insulins and antidiabetic agents"	430400006	0	0	1
+309	616441000006113	"C107.00"	4000	"Peripheral vascular disorder due to diabetes mellitus"	421895002	0	0	1
+535	1013671000006115	" "	40	"Adverse reaction to Insulins"	1013671000006104	0	0	1
+187	2279291000000114	"679L211"	30000	"Advice about diabetes and driving"	700414001	0	0	1
+260	2368911000000117	"679L300"	60000	"Diabetic foot care education"	923361000000106	0	0	1
+1137	772141000006118	"C108G00"	3	"Insulin dependent diab mell with peripheral angiopathy"	421895002	0	0	1
+829	4808881000006117	" "	80	"Diabetic hand syndrome"	201723002	0	0	1
+1382	5009561000006114	" "	1	"Diabetic chronic painful polyneuropathy"	230575000	0	0	1
+1289	913921000006119	"C10EG12"	5	"Insulin dependent diab mell with peripheral angiopathy"	421895002	0	0	1
+465	1884591000006118	"66o..00"	5000	"Further diabetic monitoring"	170742000	0	0	1
+1345	1822391000006114	" "	20	"Date other antidiabetic drug started"	1822391000006105	0	0	1
+220	6444071000006112	" "	2000	"Diabetic care education"	385805005	0	0	1
+1414	6761821000006115	" "	3	"On examination - right eye preproliferative diabetic retinopathy"	408411003	0	0	1
+1510	1824081000006117	" "	1	"Diabetes clinical pathway protocol followed"	1824081000006101	0	0	1
+320	1484887015	"2BBL.00"	20000	"O/E - diabetic maculopathy present both eyes"	390854003	0	0	1
+498	1704751000006118	"9m09.00"	500	"Excluded from diabetic retinopathy screening as no longer diabetic"	374721000000109	0	0	1
+1100	771501000006119	"C108000"	80	"Insulin-dependent diabetes mellitus with renal complications"	127013003	0	0	1
+102	931191000006110	"9h41.00"	300000	"Excepted from diabetes quality indicators - patient unsuitable"	717421000000100	0	0	1
+66	405561000000113	"68AB.00"	60000	"Diabetic digital retinopathy screening offered"	247771000000108	0	0	1
+921	1704681000006115	"9m02.00"	400	"Eligibility temporarily inactive for diabetic retinopathy screening"	371841000000107	0	0	1
+22	1488404014	"2G5F.00"	1000000	"O/E - Right diabetic foot at moderate risk"	394682001	0	0	1
+397	283544013	"8H2J.00"	4000	"Diabetic emergency hospital admission"	183472000	0	0	1
+1222	1118981000006112	" "	10	"Adverse reaction to Insulin Aspart"	1118981000006108	0	0	1
+305	2287971000000119	"C10P.00"	20000	"Diabetes mellitus in remission"	703136005	0	0	1
+286	2283241000000113	"8I94.00"	20000	"Diabetes structured education programme not available"	885931000000100	0	0	1
+170	1755441000006119	"9OLN.00"	300000	"Diabetes monitoring invitation by short message service text messaging"	705072004	0	0	1
+962	856651000006110	" "	300	"Left advanced diabetic retinal disease"	856651000006106	0	0	1
+995	736731000000118	"9m05.00"	900	"Excluded from diabetic retinopathy screening as moved away"	374601000000107	0	0	1
+861	771411000006117	"C108700"	300	"Insulin dependent diabetes mellitus with retinopathy"	4855003	0	0	1
+1152	189721000000113	"C10N000"	20	"Secondary diabetes mellitus without complication"	8801005	0	0	1
+1098	913621000006112	"C10E612"	20	"Insulin dependent diabetes mellitus with gangrene"	422275004	0	0	1
+574	1947151000006112	"9Na5100"	10000	"Joint consultation with practice nurse and community diabetes specialist nurse"	956781000000107	0	0	1
+251	546071000000117	"9OLH.00"	2000	"Attended DAFNE diabetes structured education programme"	306441000000109	0	0	1
+455	8297051000006113	" "	300	"Referral to DAFNE (dose adjustment for normal eating) diabetes structured education programme declined"	860981000000106	0	0	1
+321	777231000006119	"66AA.11"	80000	"Diabetic monitoring - injection sites"	268517006	0	0	1
+1474	12085211000006112	" "	1	"Moderate nonproliferative diabetic retinopathy of left eye"	769186002	0	0	1
+572	908831000006118	" "	200000	"[RFC] Diabetes mellitus"	908831000006102	0	0	1
+1219	3416171000006118	" "	20	"Necrobiosis lipoidica diabeticorum"	56391002	0	0	1
+735	913441000006119	"C10E012"	200	"Insulin-dependent diabetes mellitus with renal complications"	127013003	0	0	1
+326	772171000006114	"C108.00"	100000	"Insulin dependent diabetes mellitus"	73211009	0	0	1
+1339	1067271000006114	" "	1	"Adverse reaction to Human Initard 50/50 Insulin"	1067271000006105	0	0	1
+94	2474671011	"8I3X.00"	200000	"Diabetic retinopathy screening refused"	413122001	0	0	1
+154	2288061000000111	"C10P100"	10000	"Type II diabetes mellitus in remission"	703138006	0	1	0
+494	454092018	" "	500	"Diabetic hyperosmolar non-ketotic state"	310505005	0	1	0
+1081	292582011	"C10F511"	8	"Type II diabetes mellitus with gangrene"	421631007	0	1	0
+901	938331000006118	"C10FQ11"	100	"Exudative maculopathy with type 2 diabetes mellitus"	421779007	0	1	0
+1318	84561000006110	"C109212"	100	"Type 2 diabetes mellitus with neurological complications"	421326000	0	1	0
+1203	84491000006118	"C109G12"	10	"Type 2 diabetes mellitus with arthropathy"	314903002	0	1	0
+382	84481000006116	"C109712"	1000	"Type 2 diabetes mellitus - poor control"	443694000	0	1	0
+1302	84931000006113	"C109211"	30	"Neurological disorder with diabetes type 2"	421326000	0	1	0
+112	280571000006116	"C109.00"	700000	"Non-insulin dependent diabetes mellitus"	44054006	0	1	0
+1484	8118151000006112	" "	4	"Hyperosmolarity co-occurrent and due to drug induced diabetes mellitus"	367261000119100	0	1	0
+691	292484010	"C102z00"	100	"Hyperosmolar coma associated with diabetes mellitus"	422126006	0	1	0
+566	616501000006112	"C10z100"	600	"Disorder due to type 2 diabetes mellitus"	422014003	0	1	0
+1442	7966931000006114	" "	2	"Angina associated with type 2 diabetes mellitus"	791000119109	0	1	0
+709	281211000006117	"C109500"	90	"Gangrene associated with type 2 diabetes mellitus"	421631007	0	1	0
+668	292589019	"C10F711"	200	"Type II diabetes mellitus - poor control"	443694000	0	1	0
+903	12704971000006112	" "	40	"Neurologic disorder associated with type 2 diabetes mellitus"	421326000	0	1	0
+1127	3209441000006114	" "	100	"Diabetes mellitus type 2"	44054006	0	1	0
+594	292577016	"C10F300"	2000	"Type 2 diabetes mellitus with multiple complications"	190388001	0	1	0
+690	1667891000000113	"C10FK11"	70	"Hyperosmolar non-ketotic state in type II diabetes mellitus"	395204000	0	1	0
+1221	459311019	"C10FG11"	30	"Type II diabetes mellitus with arthropathy"	314903002	0	1	0
+291	80997013	"C1A..00"	4000	"Insulin resistance"	48606007	0	1	0
+348	616241000006112	"C10B.00"	5000	"Diabetes mellitus induced by steroids"	190447002	0	1	0
+1309	84961000006116	"C109F11"	20	"Type II diabetes mellitus with peripheral angiopathy"	314902007	0	1	0
+977	2475901019	"C10K.00"	300	"Type A insulin resistance"	237651005	0	1	0
+1004	84611000006113	"C109012"	200	"Type 2 diabetes mellitus with renal complications"	420279001	0	1	0
+712	914221000006113	"C10FA00"	200	"Type 2 diabetes mellitus with mononeuropathy"	420436000	0	1	0
+676	914301000006111	"C10FE00"	300	"Type 2 diabetes mellitus with diabetic cataract"	420756003	0	1	0
+46	493774016	"C10F.11"	600000	"Type II diabetes mellitus"	44054006	0	1	0
+563	587521000006111	"C109000"	700	"Non-insulin-dependent diabetes mellitus with renal comps"	420279001	0	1	0
+947	280561000006111	"C109F00"	60	"Non-insulin-dependent diabetes mellitus with peripheral angiopathy"	314902007	0	1	0
+1296	2159850015	"449H.00"	4	"Serum 32-33 split pro-insulin level"	1010091000000107	0	1	0
+906	84501000006114	"C109E12"	70	"Type 2 diabetes mellitus with diabetic cataract"	420756003	0	1	0
+263	616511000006110	"C100100"	70000	"Diabetes mellitus, adult onset, no mention of complication"	313436004	0	1	0
+556	1223148019	"C109J11"	1000	"Insulin treated non-insulin dependent diabetes mellitus"	237599002	0	1	0
+1077	914041000006111	"C10F011"	20	"Type II diabetes mellitus with renal complications"	420279001	0	1	0
+1459	8264221000006117	" "	30	"Management of gestational diabetes mellitus"	816261000000105	0	1	0
+0	197761014	"C10F.00"	20000000	"Type 2 diabetes mellitus"	44054006	0	1	0
+1189	84531000006118	"C109A12"	20	"Type 2 diabetes mellitus with mononeuropathy"	420436000	0	1	0
+601	84851000006110	"C109711"	600	"Type II diabetes mellitus - poor control"	443694000	0	1	0
+1145	84631000006119	"C109412"	80	"Type 2 diabetes mellitus with ulcer"	190389009	0	1	0
+660	7480661000006114	" "	1000	"H/O diabetes mellitus type 2"	472969004	0	1	0
+387	914261000006119	"C10FC00"	5000	"Diabetes type 2 with nephropathy"	420279001	0	1	0
+404	840951000006119	"C109J00"	40000	"Insulin treated Type 2 diabetes mellitus"	237599002	0	1	0
+190	479571000000110	"66Ao.00"	100000	"Diabetes type 2 review"	279321000000104	0	1	0
+905	84641000006112	"C109912"	80	"Type 2 diabetes mellitus without complication"	313436004	0	1	0
+267	938321000006116	"C10FQ00"	1000	"Exudative maculopathy associated with type 2 diabetes mellitus"	421779007	0	1	0
+943	457156014	"ZV6DB00"	90	"[V]Admitted for conversion to insulin"	876361000000109	0	1	0
+1085	967631000006115	"C10H000"	8	"Diabetes mellitus induced by non-steroid drugs without complication"	413183008	0	1	0
+1386	3258001000006116	" "	7	"Gestational diabetes mellitus, class A>2<"	46894009	0	1	0
+589	616481000006119	"C106100"	1000	"Diabetes mellitus, adult onset, + neurological manifestation"	421326000	0	1	0
+1035	8438221000006116	" "	7	"Type 2 diabetes mellitus risk assessment invitation third letter"	1065481000000106	0	1	0
+939	459312014	"C10FH11"	30	"Type II diabetes mellitus with neuropathic arthropathy"	314904008	0	1	0
+1491	12704991000006114	" "	1	"Ketoacidotic coma in type 2 diabetes mellitus"	421847006	0	1	0
+533	356085010	"C10D.11"	700	"Maturity onset diabetes in youth type 2"	237604008	0	1	0
+1106	616541000006114	"C103100"	20	"Diabetes mellitus, adult onset, with ketoacidotic coma"	421847006	0	1	0
+518	928571000006113	"C10FM11"	2000	"Type II diabetes mellitus with persistent microalbuminuria"	420715001	0	1	0
+695	914071000006115	"C10F200"	1000	"Neurologic disorder associated with type 2 diabetes mellitus"	421326000	0	1	0
+851	85011000006119	"C109911"	50	"Type II diabetes mellitus without complication"	313436004	0	1	0
+174	299621000000117	"C10FR00"	3000	"Gastroparesis with type 2 diabetes mellitus"	713703005	0	1	0
+570	3330160012	" "	400	"HHS - Hyperosmolar hyperglycaemic syndrome"	310505005	0	1	0
+1476	5109511000006117	" "	2	"Insulin resistance syndrome"	237602007	0	1	0
+1213	8438181000006113	" "	100	"Type 2 diabetes mellitus risk assessment invitation first letter"	1065461000000102	0	1	0
+825	616491000006116	"C105100"	800	"Diabetes mellitus, adult onset, + ophthalmic manifestation"	422099009	0	1	0
+811	8016621000006116	" "	100	"Gestational diabetes mellitus complicating pregnancy"	40801000119106	0	1	0
+1315	914081000006117	"C10F211"	10	"Type II diabetes mellitus with neurological complications"	421326000	0	1	0
+1425	5109461000006115	" "	2	"Diabetes type 2 on insulin"	237599002	0	1	0
+478	292579018	"C10F400"	1000	"Type 2 diabetes mellitus with ulcer"	190389009	0	1	0
+706	2262381000000117	"66AH200"	700	"Conversion to insulin by diabetes specialist nurse"	876381000000100	0	1	0
+984	84881000006119	"C109511"	7	"Type II diabetes mellitus with gangrene"	421631007	0	1	0
+1046	280521000006117	"C109A00"	30	"Non-insulin dependent diabetes mellitus with mononeuropathy"	420436000	0	1	0
+1089	8016601000006114	" "	50	"Postpartum gestational diabetes mellitus"	40791000119105	0	1	0
+353	292590011	"C10F700"	10000	"Type II diabetes mellitus poorly controlled"	443694000	0	1	0
+1444	5109561000006119	" "	10	"Maturity onset diabetes of the young, type 2"	237604008	0	1	0
+568	616551000006111	"C104100"	600	"Diabetes mellitus, adult onset, with renal manifestation"	420279001	0	1	0
+464	840971000006112	"C10D.00"	600	"Diabetes mellitus autosomal dominant type II"	237604008	0	1	0
+608	616531000006116	"C101100"	700	"Diabetes mellitus, adult onset, with ketoacidosis"	421750000	0	1	0
+928	459313016	"C10FH00"	800	"Type 2 diabetes mellitus with neuropathic arthropathy"	314904008	0	1	0
+702	84871000006117	"C109E11"	100	"Cataract due to diabetes mellitus type 2"	420756003	0	1	0
+1285	84861000006112	"C109G11"	2	"Type II diabetes mellitus with arthropathy"	314903002	0	1	0
+781	280551000006114	"C109400"	300	"Non-insulin-dependent diabetes mellitus with ulcer"	190389009	0	1	0
+894	459310018	"C10FG00"	200	"Type 2 diabetes mellitus with arthropathy"	314903002	0	1	0
+491	914241000006118	"C10FB00"	800	"Polyneuropathy due to type 2 diabetes mellitus"	713706002	0	1	0
+1242	292576013	"C10F311"	30	"Type II diabetes mellitus with multiple complications"	190388001	0	1	0
+1243	914061000006110	"C10F111"	10	"Type II diabetes mellitus with ophthalmic complications"	422099009	0	1	0
+1446	8012071000006112	" "	1	"Type II diabetes on insulin"	24471000000103	0	1	0
+907	84901000006117	"C109A11"	30	"Mononeuropathy with type 2 diabetes mellitus"	420436000	0	1	0
+182	356079015	"C10F811"	3000	"Metabolic syndrome X"	237602007	0	1	0
+292	801901000006119	"L180811"	70000	"Gestational diabetes mellitus"	11687002	0	1	0
+929	2359401000000111	"66AH300"	3000	"Conversion to non-insulin injectable medication"	918891000000108	0	1	0
+1175	928611000006115	"C10FP11"	4	"Ketoacidotic coma in type II diabetes mellitus"	421847006	0	1	0
+764	84621000006117	"C109612"	100	"Type 2 diabetes mellitus with retinopathy"	422034002	0	1	0
+460	622051000000118	"ZV13F00"	3000	"History of gestational diabetes mellitus"	472971004	0	1	0
+1018	8012061000006117	" "	80	"Type 2 diabetic on insulin"	24471000000103	0	1	0
+324	127051000006112	"C10B000"	500	"Steroid-induced diabetes mellitus without complication"	190416008	0	1	0
+1406	12002731000006116	" "	7	"Insulin resistance"	763325000	0	1	0
+1405	3209431000006116	" "	2	"Diabetes mellitus type II"	44054006	0	1	0
+77	84841000006113	"C109.13"	50000	"Type II diabetes mellitus"	44054006	0	1	0
+523	8438281000006117	" "	3000	"Type 2 diabetes mellitus risk assessment invitation SMS (short message service) text message"	1065511000000100	0	1	0
+1215	5587071000006119	" "	2	"Diabetes mellitus in neonate small for gestational age"	276560009	0	1	0
+1482	1855351000006110	" "	10	"Conversion to insulin by diabetic specialist nurse"	1855351000006106	0	1	0
+527	84551000006113	"C109C12"	600	"Type 2 diabetes mellitus with nephropathy"	420279001	0	1	0
+1027	280541000006112	"C109B00"	40	"Non-insulin dependent diabetes mellitus with polyneuropathy"	713706002	0	1	0
+900	84571000006115	"C109H12"	20	"Type 2 diabetes mellitus with neuropathic arthropathy"	314904008	0	1	0
+598	280531000006119	"C109C00"	200	"Non-insulin dependent diabetes mellitus with nephropathy"	420279001	0	1	0
+707	914161000006114	"C10F611"	80	"Type II diabetes mellitus with retinopathy"	422034002	0	1	0
+142	928561000006118	"C10FM00"	50000	"Persistent microalbuminuria associated with type 2 diabetes mellitus"	420715001	0	1	0
+1237	84511000006112	"C109512"	10	"Type 2 diabetes mellitus with gangrene"	421631007	0	1	0
+123	264706016	"66AH000"	60000	"Conversion to insulin"	170762008	0	1	0
+940	292583018	"C10F500"	300	"Type 2 diabetes mellitus with gangrene"	421631007	0	1	0
+686	281161000006114	"C109E00"	100	"Non-insulin depend diabetes mellitus with diabetic cataract"	420756003	0	1	0
+354	457328010	"C109900"	5000	"Non-insulin-dependent diabetes mellitus without complication"	313436004	0	1	0
+1180	459309011	"C109G00"	8	"Non-insulin dependent diabetes mellitus with arthropathy"	314903002	0	1	0
+801	84981000006114	"C109011"	60	"Type II diabetes mellitus with renal complications"	420279001	0	1	0
+1481	8438201000006114	" "	90	"Type 2 diabetes mellitus risk assessment invitation second letter"	1065471000000109	0	1	0
+408	928541000006117	"C10FL00"	30000	"Persistent proteinuria associated with type 2 diabetes mellitus"	421986006	0	1	0
+1032	281181000006116	"C109H00"	20	"Non-insulin dependent diabetes mellitus with neuropathic arthropathy"	314904008	0	1	0
+318	493773010	"C109.11"	40000	"NIDDM - Non-insulin dependent diabetes mellitus"	44054006	0	1	0
+454	7480721000006111	" "	3000	"H/O gestational diabetes mellitus"	472971004	0	1	0
+1139	84941000006115	"C109H11"	10	"Type II diabetes mellitus with neuropathic arthropathy"	314904008	0	1	0
+774	280581000006118	"C109300"	300	"Non-insulin-dependent diabetes mellitus with multiple complications"	190388001	0	1	0
+1201	459306016	"C10FF11"	50	"Type II diabetes mellitus with peripheral angiopathy"	314902007	0	1	0
+447	928581000006111	"C10FN00"	2000	"Ketoacidosis in type 2 diabetes mellitus"	421750000	0	1	0
+1199	193221000006111	"C109800"	50	"Reaven's syndrome"	237602007	0	1	0
+926	1780981000006115	" "	1000	"Diabetic on non-insulin injectable"	1780981000006104	0	1	0
+827	881451000006113	"C100199"	30000	"Diabetes mellitus -adult onset"	532411000000102	0	1	0
+981	84991000006112	"C109611"	100	"Type II diabetes mellitus with retinopathy"	422034002	0	1	0
+129	459520010	"212H.00"	40000	"Diabetes resolved"	315051004	0	1	0
+1039	199471000000118	"C10K000"	10	"Type A insulin resistance without complication"	237651005	0	1	0
+739	84971000006111	"C109B11"	20	"Type II diabetes mellitus with polyneuropathy"	713706002	0	1	0
+688	914051000006113	"C10F100"	1000	"Disorder of eye with type 2 diabetes mellitus"	422099009	0	1	0
+611	457330012	"C10F911"	900	"Type II diabetes mellitus without complication"	313436004	0	1	0
+1096	292581016	"C10F411"	40	"Type II diabetes mellitus with ulcer"	190389009	0	1	0
+1509	4758011000006112	" "	2	"Type 2 diabetes mellitus with hyperosmolar coma"	190331003	0	1	0
+794	84951000006118	"C109111"	30	"Disorder of eye with type 2 diabetes mellitus"	422099009	0	1	0
+733	306113018	"L180600"	100	"Pre-existing diabetes mellitus, non-insulin-dependent"	199230006	0	1	0
+310	641581000006115	"C109600"	600	"Non-insulin-dependent diabetes mellitus with retinopathy"	422034002	0	1	0
+1341	6969931000006116	" "	2	"Diabetes type 2 with neurological disorder"	421326000	0	1	0
+245	281171000006119	"C109700"	8000	"Type II diabetes mellitus uncontrolled"	443694000	0	1	0
+1305	914231000006111	"C10FA11"	30	"Type II diabetes mellitus with mononeuropathy"	420436000	0	1	0
+954	914311000006114	"C10FE11"	90	"Type II diabetes mellitus with diabetic cataract"	420756003	0	1	0
+500	1488898011	"C10FK00"	1000	"Hyperosmolar non-ketotic state in type 2 diabetes mellitus"	395204000	0	1	0
+1378	8044221000006116	" "	3	"Ischaemic foot ulcer due to type 2 diabetes mellitus"	140521000119107	0	1	0
+434	2460251000000115	"66o2.00"	10000	"Diabetic on non-insulin injectable medication"	719566006	0	1	0
+557	5110461000006114	" "	200	"Insulin resistance - type A"	237651005	0	1	0
+1420	7812871000006112	" "	1	"Maternal history of gestational diabetes"	721151003	0	1	0
+487	914151000006112	"C10F600"	5000	"Retinopathy with type 2 diabetes mellitus"	422034002	0	1	0
+1277	84591000006119	"C109F12"	6	"Type 2 diabetes mellitus with peripheral angiopathy"	314902007	0	1	0
+130	914391000006116	"C10FJ00"	500000	"Insulin treated Type 2 diabetes mellitus"	237599002	0	1	0
+1041	4796321000006113	" "	40	"Pre-existing type 2 diabetes mellitus"	199230006	0	1	0
+1054	2686071000006114	" "	500	"Gestational diabetes"	11687002	0	1	0
+1503	7969001000006112	" "	1	"Foot ulcer due to type 2 diabetes mellitus"	1521000119100	0	1	0
+841	850691000006118	"C109K00"	400	"Hyperosmolar non-ketotic state in type 2 diabetes mellitus"	395204000	0	1	0
+600	914031000006118	"C10F000"	3000	"Renal disorder associated with type II diabetes mellitus"	420279001	0	1	0
+344	587111000006111	"C109100"	500	"Non-insulin-dependent diabetes mellitus with ophthalm comps"	422099009	0	1	0
+885	8438261000006110	" "	10	"Type 2 diabetes mellitus risk assessment telephone invitation"	1065501000000102	0	1	0
+1120	914271000006114	"C10FC11"	90	"Type II diabetes mellitus with nephropathy"	420279001	0	1	0
+1395	7281511000006118	" "	3	"Type 2 diabetes mellitus uncontrolled"	443694000	0	1	0
+78	20191016	"L180900"	200000	"Gestational diabetes mellitus"	11687002	0	1	0
+388	616801000006114	"2126300"	10000	"Diabetes resolved"	315051004	0	1	0
+194	84471000006119	"C109.12"	200000	"Type 2 diabetes mellitus"	44054006	0	1	0
+1101	84541000006111	"C109312"	200	"Type 2 diabetes mellitus with multiple complications"	190388001	0	1	0
+1112	84581000006117	"C109112"	200	"Type 2 diabetes mellitus with ophthalmic complications"	422099009	0	1	0
+708	841351000006110	"C109J12"	1000	"Insulin treated Type II diabetes mellitus"	237599002	0	1	0
+773	674961000006118	"C107400"	400	"Peripheral circulatory disorder associated with type 2 diabetes mellitus"	422166005	0	1	0
+994	3719631000006112	" "	4	"Gestational diabetes mellitus, class A>1<"	75022004	0	1	0
+763	84921000006110	"C109C11"	500	"Renal disorder due to type 2 diabetes mellitus"	420279001	0	1	0
+844	928591000006114	"C10FN11"	70	"Type II diabetes mellitus with ketoacidosis"	421750000	0	1	0
+1319	914251000006116	"C10FB11"	30	"Type II diabetes mellitus with polyneuropathy"	713706002	0	1	0
+212	2160090014	"C10H.00"	200	"Diabetes mellitus induced by non-steroid drugs"	408540003	0	1	0
+1002	1855341000006113	" "	60	"Conversion to insulin by hospital"	1855341000006109	0	1	0
+714	454093011	" "	60	"HONKS - Diabetic hyperosmolar non-ketotic state"	310505005	0	1	0
+694	1667921000000117	"C10FR11"	300	"Type II diabetes mellitus with gastroparesis"	713703005	0	1	0
+109	2288071000000116	"C10P111"	8000	"Type 2 diabetes mellitus in remission"	703138006	0	1	0
+828	292483016	"C102100"	70	"Diabetes mellitus, adult onset, with hyperosmolar coma"	190331003	0	1	0
+850	2686101000006116	" "	60	"GDM - Gestational diabetes mellitus"	11687002	0	1	0
+519	2128081000000111	"66Ay.00"	4000	"Gestational diabetes mellitus annual review"	816711000000104	0	1	0
+881	1988741000006117	" "	20	"Pregnancy and non-insulin-dependent diabetes mellitus"	237627000	0	1	0
+1257	928601000006118	"C10FP00"	40	"Ketoacidotic coma in type 2 diabetes mellitus"	421847006	0	1	0
+1193	5110001000006118	" "	40	"Pregnancy and type 2 diabetes mellitus"	237627000	0	1	0
+383	457329019	"C10F900"	9000	"Type 2 diabetes mellitus without complication"	313436004	0	1	0
+1373	9313441000006116	" "	1	"Diabetes type 2 with diabetic ulcer of left foot"	10660471000119108	0	1	0
+152	5109611000006116	" "	300	"MODY - Maturity onset diabetes in youth type 2"	237604008	0	1	0
+986	85001000006117	"C109411"	60	"Type II diabetes mellitus with ulcer"	190389009	0	1	0
+1195	459308015	"C10FF00"	200	"Type 2 diabetes mellitus with peripheral angiopathy"	314902007	0	1	0
+780	928551000006115	"C10FL11"	500	"Type II diabetes mellitus with persistent proteinuria"	421986006	0	1	0
+1147	84911000006119	"C109311"	3	"Type II diabetes mellitus with multiple complications"	190388001	0	1	0
+862	3330159019	" "	200	"HHS - Hyperosmolar hyperglycemic syndrome"	310505005	0	1	0
+180	127041000006110	"C11y000"	10000	"Steroid-induced diabetes"	190447002	0	1	0
+798	1223147012	"C10FJ11"	2000	"Insulin treated Type II diabetes mellitus"	237599002	0	1	0
+1331	8016611000006112	" "	20	"Gestational diabetes, delivered"	40791000119105	0	1	0
+1177	2262341000000113	"66AH100"	200	"Conversion to insulin in secondary care"	876361000000109	0	1	0
+341	356080017	"C10F800"	300	"Reaven's syndrome"	237602007	0	1	0
+323	292480018	"C102.00"	600	"Diabetes mellitus with hyperosmolar coma"	422126006	0	1	0
+855	8438161000006115	" "	70	"Type 2 diabetes mellitus risk assessment invitation"	1065451000000100	0	1	0
+770	280591000006115	"C109200"	400	"Non-insulin-dependent diabetes mellitus with neuro comps"	421326000	0	1	0
+649	84601000006110	"C109B12"	10	"Type 2 diabetes mellitus with polyneuropathy"	713706002	0	1	0
+1440	6982521000006119	" "	6	"Diabetes type 2 with retinopathy"	422034002	0	1	0
+201	73466011	"C100112"	100000	"Non-insulin dependent diabetes mellitus"	44054006	0	1	0
+1286	913491000006111	"C10E111"	3	"Type I diabetes mellitus with ophthalmic complications"	739681000	1	0	0
+585	483882011	"C10C.00"	500	"Maturity-onset diabetes of the young"	609561005	1	0	0
+944	7287611000006113	" "	50	"Type 1 diabetes mellitus uncontrolled"	444073006	1	0	0
+821	2288011000000114	"C10P000"	100	"Type I diabetes mellitus in remission"	703137001	1	0	0
+1136	913781000006117	"C10EB00"	10	"Type 1 diabetes mellitus with mononeuropathy"	420918009	1	0	0
+338	292479016	"C101z00"	1000	"Diabetes mellitus NOS with ketoacidosis"	420422005	1	0	0
+569	84371000006110	"C108D12"	200	"Type 1 diabetes mellitus with nephropathy"	421893009	1	0	0
+642	297492014	"F345000"	600	"Diabetic mononeuritis multiplex"	193141005	1	0	0
+1306	292541011	"C10E600"	200	"Type 1 diabetes mellitus with gangrene"	420825003	1	0	0
+405	1804191000006114	" "	10000	"Diabetic retinopathy screen done by optician"	1804191000006105	1	0	0
+211	938301000006114	"C10EP00"	400	"Exudative maculopathy with type 1 diabetes mellitus"	420486006	1	0	0
+625	928461000006119	"C10EK00"	3000	"Persistent proteinuria associated with type 1 diabetes mellitus"	420514000	1	0	0
+244	6953861000006110	" "	7000	"Diabetic ketoacidosis"	420422005	1	0	0
+1223	84381000006113	"C108212"	20	"Type 1 diabetes mellitus with neurological complications"	421468001	1	0	0
+1090	459296014	"C10EJ00"	200	"Type 1 diabetes mellitus with neuropathic arthropathy"	71771000119100	1	0	0
+536	620171000000113	"8H4e.00"	7000	"Referral to diabetes special interest general practitioner"	334711000000100	1	0	0
+786	881461000006110	"C101.99"	600	"Diabetes+ketoacidosis -no coma"	420422005	1	0	0
+1508	8244671000006110	" "	2	"H/O diabetic ketoacidosis"	783231000000106	1	0	0
+824	881441000006111	"C100099"	5000	"Diabetes mellitus - juvenile"	73211009	1	0	0
+961	2967831017	" "	8	"Pre-existing type 1 diabetes mellitus in pregnancy"	199223000	1	0	0
+870	7480691000006118	" "	200	"H/O diabetes mellitus type 1"	472970003	1	0	0
+1037	84321000006114	"C108F12"	10	"Type 1 diabetes mellitus with diabetic cataract"	421920002	1	0	0
+902	292553010	"C10E900"	1000	"Type 1 diabetes mellitus maturity onset"	190372001	1	0	0
+227	616641000006110	"C101000"	1000	"Diabetes mellitus, juvenile type, with ketoacidosis"	420270002	1	0	0
+853	84801000006111	"C108011"	50	"Type I diabetes mellitus with renal complications"	421893009	1	0	0
+560	616621000006115	"C100000"	10000	"Type 1 diabetes mellitus without complication"	313435000	1	0	0
+920	1947161000006114	"9Na5200"	5000	"Joint consultation with General Practitioner and community diabetes specialist nurse"	956921000000109	1	0	0
+1011	5754581000006110	" "	20	"Brittle type 1 diabetes mellitus"	290002008	1	0	0
+1292	913771000006115	"C10EB12"	7	"Insulin dependent diabetes mellitus with mononeuropathy"	230577008	1	0	0
+1428	8440231000006115	" "	2	"Eating disorder co-occurrent with diabetes mellitus type 1"	1067201000000106	1	0	0
+450	178798017	" "	4000	"Diabetic ketoacidosis without coma"	111556005	1	0	0
+1303	928531000006110	"C10EN11"	4	"Type I diabetes mellitus with ketoacidotic coma"	421075007	1	0	0
+549	6953901000006115	" "	300	"DKA - diabetic ketoacidosis"	420422005	1	0	0
+922	7500191000006118	" "	9	"Maturity onset diabetes of the young, type 1"	609562003	1	0	0
+1301	913791000006119	"C10EB11"	1	"Type I diabetes mellitus with mononeuropathy"	420918009	1	0	0
+415	1966321000006112	"66o6.00"	3000	"Diabetic on insulin and glucagon-like peptide 1 receptor agonist"	976361000000100	1	0	0
+209	479511000000117	"66An.00"	9000	"Diabetes type 1 review"	279291000000109	1	0	0
+193	616701000006118	"9OL8.00"	200000	"Diabetes monitoring telephone invite"	185760009	1	0	0
+880	8232101000006117	" "	90	"Referral to type I diabetes structured education programme"	754461000000105	1	0	0
+1265	6951091000006110	" "	4	"Diabetes type 1 with ketoacidosis"	420270002	1	0	0
+1504	1039391000006117	" "	1	"Adverse reaction to U100 Insulin Sterile, Single Use"	1039391000006101	1	0	0
+1141	616681000006116	"C10y000"	100	"Diabetes mellitus, juvenile, + other specified manifestation"	73211009	1	0	0
+1117	913461000006115	"C10E011"	20	"Type I diabetes mellitus with renal complications"	421893009	1	0	0
+517	459292011	"C10EH00"	40	"Type 1 diabetes mellitus with arthropathy"	314893005	1	0	0
+1083	84461000006114	"C108A12"	10	"Type 1 diabetes mellitus without complication"	313435000	1	0	0
+663	913451000006117	"C10E000"	2000	"Type 1 diabetes mellitus with renal complications"	421893009	1	0	0
+1003	84301000006116	"C108912"	50	"Type 1 diabetes mellitus maturity onset"	190372001	1	0	0
+496	292548017	"C10E800"	1000	"Type 1 diabetes mellitus - poor control"	444073006	1	0	0
+1078	84671000006116	"C108911"	200	"Type I diabetes mellitus maturity onset"	190372001	1	0	0
+807	429971019	"C10E400"	400	"Unstable type 1 diabetes mellitus"	290002008	1	0	0
+1036	84691000006115	"C108F11"	20	"Cataract due to diabetes mellitus type 1"	421920002	1	0	0
+477	84661000006111	"C108811"	700	"Type I diabetes mellitus poorly controlled"	444073006	1	0	0
+975	913511000006117	"C10E200"	100	"Type 1 diabetes mellitus with neurological complications"	421468001	1	0	0
+1129	84731000006111	"C108311"	300	"Multiple complications of type 1 diabetes mellitus"	422228004	1	0	0
+1471	6961081000006118	" "	1	"Gangrene associated with type 1 diabetes mellitus"	420825003	1	0	0
+1126	3253241000006117	" "	20	"Diabetes mellitus type 1"	46635009	1	0	0
+732	1996761000006115	" "	400	"Education about ketoacidosis"	846651000000102	1	0	0
+151	457953019	"42c3.00"	40000	"HbA1 level (Diabetes Control and Complications Trial aligned)"	1019551000000104	1	0	0
+1228	84701000006115	"C108611"	10	"Type I diabetes mellitus with gangrene"	420825003	1	0	0
+634	1780311019	"C10EL00"	3000	"Type 1 diabetes mellitus with persistent microalbuminuria"	401110002	1	0	0
+121	494564012	"C10E.11"	70000	"Type I diabetes mellitus"	46635009	1	0	0
+1311	84781000006112	"C108G11"	2	"Type I diabetes mellitus with peripheral angiopathy"	31211000119101	1	0	0
+820	913661000006118	"C10E700"	2000	"Retinopathy with type 1 diabetes mellitus"	420789003	1	0	0
+1304	459294012	"C10EH11"	20	"Type I diabetes mellitus with arthropathy"	314893005	1	0	0
+965	2288041000000110	"C10P011"	60	"Type 1 diabetes mellitus in remission"	703137001	1	0	0
+1149	913901000006112	"C10EF00"	20	"Type 1 diabetes mellitus with diabetic cataract"	421920002	1	0	0
+1250	84821000006118	"C108511"	20	"Type I diabetes mellitus with ulcer"	190368000	1	0	0
+1010	457325013	"C10EA11"	80	"Type I diabetes mellitus without complication"	313435000	1	0	0
+1254	84451000006112	"C108512"	30	"Type 1 diabetes mellitus with ulcer"	190368000	1	0	0
+1069	928471000006114	"C10EK11"	10	"Type I diabetes mellitus with persistent proteinuria"	420514000	1	0	0
+1310	913911000006110	"C10EF11"	1	"Type I diabetes mellitus with diabetic cataract"	421920002	1	0	0
+1047	292606016	"C10A100"	100	"Malnutrition-related diabetes mellitus with ketoacidosis"	190406000	1	0	0
+1500	1128051000006111	" "	1	"Adverse reaction to U 100 Insulin Syringe"	1128051000006107	1	0	0
+605	292478012	"C101y00"	400	"Other specified diabetes mellitus with ketoacidosis"	420422005	1	0	0
+1297	771371000006118	"C108B00"	7	"Insulin dependent diabetes mellitus with mononeuropathy"	230577008	1	0	0
+350	616661000006114	"C104000"	100	"Diabetes mellitus, juvenile type, with renal manifestation"	421893009	1	0	0
+1255	913671000006113	"C10E711"	70	"Type I diabetes mellitus with retinopathy"	420789003	1	0	0
+1276	84681000006118	"C108H11"	1	"Type I diabetes mellitus with arthropathy"	314893005	1	0	0
+29	2622193012	"C101.00"	50000	"Diabetes mellitus with ketoacidosis"	420422005	1	0	0
+617	857111000006115	" "	4000	"Number of admissions for ketoacidosis"	857111000006104	1	0	0
+1322	84391000006111	"C108J12"	3	"Type 1 diabetes mellitus with neuropathic arthropathy"	71771000119100	1	0	0
+737	429970018	"C10E411"	50	"Unstable type I diabetes mellitus"	290002008	1	0	0
+591	345492010	"F3y0.00"	1000	"Diabetic mononeuropathy"	230577008	1	0	0
+1024	292540012	"C10E500"	200	"Type 1 diabetes mellitus with ulcer"	190368000	1	0	0
+1321	84431000006117	"C108012"	50	"Type 1 diabetes mellitus with renal complications"	421893009	1	0	0
+414	1966311000006116	"66o5.00"	7000	"Diabetic on oral treatment and glucagon-like peptide 1 receptor agonist"	976341000000101	1	0	0
+983	292482014	"C102000"	20	"Diabetes mellitus, juvenile type, with hyperosmolar coma"	190330002	1	0	0
+1157	913551000006116	"C10E311"	10	"Type I diabetes mellitus with multiple complications"	422228004	1	0	0
+390	913841000006116	"C10ED00"	1000	"Renal disorder associated with type 1 diabetes mellitus"	421893009	1	0	0
+79	616691000006118	"9OLA.00"	800000	"Diabetes monitoring check done"	270445003	1	0	0
+534	84441000006110	"C108712"	40	"Type 1 diabetes mellitus with retinopathy"	420789003	1	0	0
+458	293498012	"C362700"	2000	"Ketoacidosis"	56051008	1	0	0
+369	913541000006118	"C10E300"	900	"Type 1 diabetes mellitus with multiple complications"	422228004	1	0	0
+1091	72711000006117	"C108412"	20	"Unstable type 1 diabetes mellitus"	290002008	1	0	0
+1146	84751000006116	"C108211"	3	"Type I diabetes mellitus with neurological complications"	421468001	1	0	0
+219	84651000006114	"C108.13"	20000	"Type I diabetes mellitus"	46635009	1	0	0
+443	84291000006117	"C108812"	600	"Type 1 diabetes mellitus - poor control"	444073006	1	0	0
+1314	913821000006111	"C10EC11"	1	"Type I diabetes mellitus with polyneuropathy"	713705003	1	0	0
+1284	84421000006115	"C108C12"	10	"Type 1 diabetes mellitus with polyneuropathy"	713705003	1	0	0
+27	197984010	"C10E.00"	2000000	"Type 1 diabetes mellitus"	46635009	1	0	0
+1200	928491000006110	"C10EL11"	90	"Type I diabetes mellitus with persistent microalbuminuria"	401110002	1	0	0
+730	84811000006114	"C108711"	90	"Type I diabetes mellitus with retinopathy"	420789003	1	0	0
+1283	913521000006113	"C10E211"	2	"Neurological disorder with type 1 diabetes mellitus"	421468001	1	0	0
+1031	616651000006112	"C103000"	40	"Diabetes mellitus, juvenile type, with ketoacidotic coma"	421075007	1	0	0
+516	84311000006118	"C108H12"	10	"Type 1 diabetes mellitus with arthropathy"	314893005	1	0	0
+1320	292543014	"C10E611"	10	"Type I diabetes mellitus with gangrene"	420825003	1	0	0
+779	616601000006113	"C105000"	200	"Diabetes mellitus, juvenile type, + ophthalmic manifestation"	739681000	1	0	0
+857	913931000006116	"C10EG00"	20	"Type 1 diabetes mellitus with peripheral angiopathy"	31211000119101	1	0	0
+1218	3395801000006115	" "	9	"Starvation ketoacidosis"	55178001	1	0	0
+81	928501000006119	"C10EM00"	10000	"Ketoacidosis in type 1 diabetes mellitus"	420270002	1	0	0
+1099	292551012	"C10E911"	60	"Type I diabetes mellitus maturity onset"	190372001	1	0	0
+1148	913851000006119	"C10ED11"	20	"Type I diabetes mellitus with nephropathy"	421893009	1	0	0
+997	84331000006112	"C108612"	2	"Type 1 diabetes mellitus with gangrene"	420825003	1	0	0
+1230	292538019	"C10E511"	9	"Type I diabetes mellitus with ulcer"	190368000	1	0	0
+1102	616591000006117	"C107000"	30	"Diabetes mellitus, juvenile +peripheral circulatory disorder"	421365002	1	0	0
+705	928521000006112	"C10EN00"	500	"Ketoacidotic coma in type 1 diabetes mellitus"	421075007	1	0	0
+624	913811000006115	"C10EC00"	90	"Type 1 diabetes mellitus with polyneuropathy"	713705003	1	0	0
+941	1667941000000112	"C10EQ11"	300	"Type I diabetes mellitus with gastroparesis"	713702000	1	0	0
+1279	84761000006119	"C108J11"	100	"Type I diabetes mellitus with neuropathic arthropathy"	71771000119100	1	0	0
+980	292550013	"C10E811"	50	"Type I diabetes mellitus - poor control"	444073006	1	0	0
+743	2476117016	"C10C.12"	500	"Maturity onset diabetes in youth type 1"	609562003	1	0	0
+989	938311000006112	"C10EP11"	30	"Type I diabetes mellitus with exudative maculopathy"	420486006	1	0	0
+942	84741000006118	"C108D11"	400	"Type I diabetes mellitus with nephropathy"	421893009	1	0	0
+999	84361000006115	"C108312"	10	"Type 1 diabetes mellitus with multiple complications"	422228004	1	0	0
+1256	72721000006113	"C108411"	10	"Unstable type I diabetes mellitus"	290002008	1	0	0
+352	928511000006116	"C10EM11"	600	"Type I diabetes mellitus with ketoacidosis"	420270002	1	0	0
+1235	84401000006113	"C108112"	90	"Type 1 diabetes mellitus with ophthalmic complications"	739681000	1	0	0
+971	616611000006111	"C10z000"	80	"Disorder due to type 1 diabetes mellitus"	420868002	1	0	0
+472	616671000006119	"C106000"	100	"Diabetes mellitus, juvenile, + neurological manifestation"	421468001	1	0	0
+1465	6953871000006115	" "	2	"Ketoacidosis in diabetes mellitus"	420422005	1	0	0
+641	1968641000006114	"C10Q.00"	90	"Maturity-onset diabetes of the young, type 5"	609572000	1	0	0
+578	1628691000006114	"9Nl4.00"	9000	"Seen by general practitioner with special interest in diabetes"	300641000000105	1	0	0
+547	84771000006114	"C108111"	20	"Disorder of eye with type 1 diabetes mellitus"	739681000	1	0	0
+647	297510017	"F35z000"	2000	"Diabetic mononeuritis NOS"	193141005	1	0	0
+822	457326014	"C10EA00"	400	"Type 1 diabetes mellitus without complication"	313435000	1	0	0
+867	913481000006113	"C10E100"	400	"Type 1 diabetes mellitus with ophthalmic complications"	739681000	1	0	0
+290	299601000000114	"C10EQ00"	5000	"Gastroparesis with type 1 diabetes mellitus"	713702000	1	0	0
+1249	913941000006114	"C10EG11"	2	"Peripheral angiopathy due to type 1 diabetes mellitus"	31211000119101	1	0	0
+155	84281000006115	"C108.12"	30000	"Type 1 diabetes mellitus"	46635009	1	0	0
+852	84831000006115	"C108A11"	4	"Type I diabetes mellitus without complication"	313435000	1	0	0
+1316	84721000006113	"C108B11"	4	"Mononeuropathy with type 1 diabetes mellitus"	420918009	1	0	0
+610	459162010	"C10EE12"	100	"Insulin dependent diabetes mellitus with hypoglycaemic coma"	237632004	0	0	1
+1487	6546261000006110	" "	3	"On examination - Right diabetic foot at high risk"	394672002	0	0	1
+300	451410016	"2G5A.00"	30000	"O/E - Right diabetic foot at risk"	308105005	0	0	1
+818	857721000006112	" "	500	"Right diabetic foot high risk"	857721000006108	0	0	1
+55	264679015	"66A3.00"	1000000	"Diabetic on diet only"	170745003	0	0	1
+1496	2575281000006111	" "	1	"Maternal diabetes mellitus with hypoglycaemia affecting fetus OR newborn"	4783006	0	0	1
+640	8058021000006115	" "	1000	"Hypoglycaemic warning good"	198131000000101	0	0	1
+241	356121018	" "	200	"Diabetic severe hyperglycaemia"	237621004	0	0	1
+1433	2575271000006113	" "	2	"Maternal diabetes mellitus with hypoglycemia affecting fetus OR newborn"	4783006	0	0	1
+357	264714010	"66AJ200"	3000	"Loss of hypoglycaemic warning"	170766006	0	0	1
+819	856671000006117	" "	400	"Left diabetic foot high risk"	856671000006101	0	0	1
+1488	6546341000006116	" "	3	"On examination - Left diabetic foot at high risk"	394676004	0	0	1
+31	1488394019	"2G5G.00"	300000	"O/E - Right diabetic foot at high risk"	394672002	0	0	1
+440	771361000006113	"C108E00"	200	"Insulin dependent diabetes mellitus with hypoglycaemic coma"	237632004	0	0	1
+32	1488398016	"2G5K.00"	300000	"O/E - Left diabetic foot at high risk"	394676004	0	0	1
+882	8058011000006111	" "	60	"Hypoglycaemic warning impaired"	198121000000103	0	0	1
+671	2575261000006118	" "	3	"Maternal diabetes mellitus with hypoglycaemia affecting foetus OR newborn"	4783006	0	0	1
+402	2302761000000119	"66AJ400"	2000	"Hypoglycaemic warning absent"	894741000000107	0	0	1
+1355	6612501000006110	" "	6	"Diabetic foot at risk"	398819009	0	0	1
+368	451411017	"2G5B.00"	30000	"O/E - Left diabetic foot at risk"	308106006	0	0	1
+1226	84891000006116	"C109D11"	4	"Type II diabetes mellitus with hypoglycaemic coma"	719216001	0	1	0
+374	1665721000000112	"66At111"	8000	"Type 2 diabetic dietary review"	754121000000107	0	1	0
+528	459167016	"C10FD00"	200	"Type 2 diabetes mellitus with hypoglycaemic coma"	719216001	0	1	0
+539	1713231000006118	" "	20000	"QDiabetes (QDScore) type 2 diabetes 10 year risk"	1713231000006102	0	1	0
+503	84521000006116	"C109D12"	20	"Type 2 diabetes mellitus with hypoglycaemic coma"	719216001	0	1	0
+603	8012091000006113	" "	100	"Type II diabetes on diet only"	24481000000101	0	1	0
+842	8012081000006110	" "	60	"Type 2 diabetic on diet only"	24481000000101	0	1	0
+254	7086001000006113	" "	500	"Dietary education for type 2 diabetes mellitus"	428274007	0	1	0
+1014	459169018	"C10FD11"	60	"Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II"	719216001	0	1	0
+796	280511000006113	"C109D00"	60	"Non-insulin dependent diabetes mellitus with hypoglyca coma"	719216001	0	1	0
+26	1658901000000118	"66At100"	1000000	"Type II diabetic dietary review"	754121000000107	0	1	0
+612	459161015	"C10EE00"	200	"Type 1 diabetes mellitus with hypoglycaemic coma"	314771006	1	0	0
+957	459163017	"C10EE11"	30	"Type I diabetes mellitus with hypoglycaemic coma"	314771006	1	0	0
+854	84711000006117	"C108E11"	60	"Type I diabetes mellitus with hypoglycaemic coma"	314771006	1	0	0
+115	1658861000000113	"66At000"	70000	"Type I diabetic dietary review"	754101000000103	1	0	0
+1122	84341000006119	"C108E12"	20	"Type 1 diabetes mellitus with hypoglycaemic coma"	314771006	1	0	0
+391	1665751000000119	"66At011"	600	"Type 1 diabetic dietary review"	754101000000103	1	0	0

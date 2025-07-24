@@ -1,0 +1,97 @@
+	MedCodeId	Observations	Term	Anxiety_diagnosis
+0	488211000006112	8000000	Mixed anxiety and depressive disorder	Anxiety_diagnosis
+1	488201000006114	6000000	Anxiety disorder	Anxiety_diagnosis
+2	363661000006113	500000	[X]Anxiety NOS	Anxiety_diagnosis
+3	481154010	400000	Generalised anxiety disorder	Anxiety_diagnosis
+4	294960010	300000	Chronic anxiety	Anxiety_diagnosis
+5	398561000006117	300000	[X]Mixed anxiety and depressive disorder	Anxiety_diagnosis
+6	294961014	100000	Recurrent anxiety	Anxiety_diagnosis
+7	3287741000006111	100000	Anxiety	Anxiety_diagnosis
+8	296249012	90000	[X]Anxiety disorder, unspecified	Anxiety_diagnosis
+9	388071000006116	80000	[X]Generalized anxiety disorder	Anxiety_diagnosis
+10	223641000000116	50000	Phobic anxiety disorder	Anxiety_diagnosis
+11	296239014	30000	[X]Panic disorder [episodic paroxysmal anxiety]	Anxiety_diagnosis
+12	398351000006110	30000	[X]Mild anxiety depression	Anxiety_diagnosis
+13	296238018	30000	[X]Other anxiety disorders	Anxiety_diagnosis
+14	363651000006111	20000	Anxiety neurosis	Anxiety_diagnosis
+15	296224013	20000	[X]Phobic anxiety disorders	Anxiety_diagnosis
+16	367931000006118	10000	Body dysmorphic disorder	Anxiety_diagnosis
+17	419841000006116	10000	[X]Persistant anxiety depression	Anxiety_diagnosis
+18	441512015	5000	Separation anxiety disorder	Anxiety_diagnosis
+19	296237011	4000	[X]Phobic anxiety disorder, unspecified	Anxiety_diagnosis
+20	296245018	2000	[X]Other mixed anxiety disorders	Anxiety_diagnosis
+21	401881014	1000	[X]Other specified anxiety disorders	Anxiety_diagnosis
+22	403931000006116	900	Organic anxiety disorder	Anxiety_diagnosis
+23	2848311000006117	700	GAD - Generalised anxiety disorder	Anxiety_diagnosis
+24	296236019	600	[X]Other phobic anxiety disorders	Anxiety_diagnosis
+25	378291000006117	400	[X]Dream anxiety disorder	Anxiety_diagnosis
+26	2848291000006116	200	Generalized anxiety disorder	Anxiety_diagnosis
+27	12127551000006118	80	Recurrent moderate major depressive disorder co-occurrent with anxiety	Anxiety_diagnosis
+28	5024071000006118	60	Anxiety depression	Anxiety_diagnosis
+29	12127531000006113	60	Recurrent mild major depressive disorder co-occurrent with anxiety	Anxiety_diagnosis
+30	2907991000006110	40	Social anxiety disorder	Anxiety_diagnosis
+31	9901161000006119	20	Mild major depressive disorder co-occurrent with anxiety single episode	Anxiety_diagnosis
+32	12127541000006115	10	Recurrent severe major depressive disorder co-occurrent with anxiety	Anxiety_diagnosis
+33	6358151000006115	10	Episodic paroxysmal anxiety disorder	Anxiety_diagnosis
+34	9901261000006114	6	Moderate major depressive disorder co-occurrent with anxiety single episode	Anxiety_diagnosis
+35	4196231000006110	4	Dream anxiety disorder	Anxiety_diagnosis
+36	9901281000006116	4	Severe major depressive disorder co-occurrent with anxiety single episode	Anxiety_diagnosis
+37	3142901000006117	2	Cannabis-induced anxiety disorder	Anxiety_diagnosis
+38	423021000006114	400000	Post-traumatic stress disorder	Anxiety_diagnosis
+39	1210253015	300000	Panic disorder	Anxiety_diagnosis
+40	400321000006113	200000	[X]Obsessive - compulsive disorder	Anxiety_diagnosis
+41	269821000006113	200000	Obsessive-compulsive disorder	Anxiety_diagnosis
+42	294992011	100000	Agoraphobia with panic attacks	Anxiety_diagnosis
+43	295016017	80000	Obsessional neurosis	Anxiety_diagnosis
+44	362871000006111	60000	Agoraphobia	Anxiety_diagnosis
+45	295017014	40000	Obsessive-compulsive disorder NOS	Anxiety_diagnosis
+46	295512014	20000	Other post-traumatic stress disorder	Anxiety_diagnosis
+47	418051000006118	20000	[X]Panic disorder with agoraphobia	Anxiety_diagnosis
+48	427071000006115	20000	Social phobia	Anxiety_diagnosis
+49	223631000000113	20000	Phobic disorders	Anxiety_diagnosis
+50	138401000006119	20000	Social phobic disorders	Anxiety_diagnosis
+51	3268081000006115	20000	PTSD - Post-traumatic stress disorder	Anxiety_diagnosis
+52	427231000006111	10000	Specific phobia	Anxiety_diagnosis
+53	420631000006114	10000	Phobic disorder	Anxiety_diagnosis
+54	401780016	10000	Phobic disorder	Anxiety_diagnosis
+55	3268061000006113	10000	Posttraumatic stress disorder	Anxiety_diagnosis
+56	294993018	9000	Agoraphobia without history of panic disorder	Anxiety_diagnosis
+57	882381000006115	5000	Agoraphobia	Anxiety_diagnosis
+58	296255019	4000	[X]Obsessive-compulsive disorder, unspecified	Anxiety_diagnosis
+59	460751013	3000	Occupation-related stress disorder	Anxiety_diagnosis
+60	3592651000006112	3000	Acute stress disorder	Anxiety_diagnosis
+61	426871000006113	3000	[X]Simple phobia	Anxiety_diagnosis
+62	400341000006118	3000	[X]Obsessive-compulsive neurosis	Anxiety_diagnosis
+63	294995013	2000	Social phobia, fear of public speaking	Anxiety_diagnosis
+64	362881000006114	2000	[X]Agoraphobia without history of panic disorder	Anxiety_diagnosis
+65	294994012	1000	Social phobia, fear of eating in public	Anxiety_diagnosis
+66	371071000006117	900	[X]Claustrophobia	Anxiety_diagnosis
+67	4764871000006114	700	OCD - Obsessive-compulsive disorder	Anxiety_diagnosis
+68	1755931000006116	700	Chronic post-traumatic stress disorder following military combat	Anxiety_diagnosis
+69	296254015	500	[X]Other obsessive-compulsive disorders	Anxiety_diagnosis
+70	1755941000006114	300	Delayed posttraumatic stress disorder following military combat	Anxiety_diagnosis
+71	7285321000006119	300	Complex posttraumatic stress disorder	Anxiety_diagnosis
+72	1755921000006119	200	Acute posttraumatic stress disorder following military combat	Anxiety_diagnosis
+73	427061000006110	200	[X]Social neurosis	Anxiety_diagnosis
+74	429421000006116	200	[X]Traumatic neurosis	Anxiety_diagnosis
+75	90724016	200	Simple phobia	Anxiety_diagnosis
+76	1808521000006110	200	Panic disorder without agoraphobia	Anxiety_diagnosis
+77	294996014	100	Social phobia, fear of public washing	Anxiety_diagnosis
+78	3265811000006112	100	Adjustment disorder with anxious mood	Anxiety_diagnosis
+79	362181000006117	90	[X]Acrophobia	Anxiety_diagnosis
+80	932131000006118	60	Needle phobia	Anxiety_diagnosis
+81	6027091000006114	40	Chronic post-traumatic stress disorder	Anxiety_diagnosis
+82	4764881000006112	30	Obsessive compulsive disorder	Anxiety_diagnosis
+83	295011010	9	Anancastic neurosis	Anxiety_diagnosis
+84	363361000006117	8	[X]Anthropophobia	Anxiety_diagnosis
+85	2668441000006114	6	Work-related stress disorder	Anxiety_diagnosis
+86	363211000006112	6	[X]Anankastic neurosis	Anxiety_diagnosis
+87	3962111000006111	3	Panic disorder with agoraphobia AND mild panic attacks	Anxiety_diagnosis
+88	3073541000006113	3	Panic disorder with agoraphobia	Anxiety_diagnosis
+89	4764861000006119	2	Anankastic neurosis	Anxiety_diagnosis
+90	3375111000006115	2	Panic disorder without agoraphobia with panic attacks in partial remission	Anxiety_diagnosis
+91	2630621000006112	1	Panic disorder with agoraphobia AND moderate panic attacks	Anxiety_diagnosis
+92	2587471000006114	1	Panic disorder with agoraphobia AND severe panic attacks	Anxiety_diagnosis
+93	3558031000006116	1	Panic disorder without agoraphobia with moderate panic attacks	Anxiety_diagnosis
+94	3684921000006110	1	Panic disorder without agoraphobia with mild panic attacks	Anxiety_diagnosis
+95	3649691000006114	1	Phobia of going out	Anxiety_diagnosis

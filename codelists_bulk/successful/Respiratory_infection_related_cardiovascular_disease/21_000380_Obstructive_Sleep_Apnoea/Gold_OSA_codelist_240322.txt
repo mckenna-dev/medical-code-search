@@ -1,0 +1,11 @@
+medcode	readcode	clinical_events	immunisation_events	referral_events	test_events	read_term	database_build
+48539	"R005100"	103	0	2	0	"[D]Insomnia with sleep apnoea"	"February 2009"
+2506	"R005311"	33293	0	9523	1	"[D]Sleep apnoea syndrome"	"February 2009"
+37667	"8A43.00"	554	0	31	0	"Apnoea alarm monitoring"	"February 2009"
+7603	"Fy03.00"	16989	0	2664	0	"Sleep apnoea"	"February 2009"
+982	"R060400"	8622	0	1417	3	"[D]Apnoea"	"February 2009"
+23779	"H5B..00"	3029	0	282	0	"Sleep apnoea"	"February 2009"
+36301	"R005300"	948	0	59	0	"[D]Hypersomnia with sleep apnoea"	"February 2009"
+20748	"H5B0.00"	1589	0	21	0	"Obstructive sleep apnoea"	"February 2009"
+20438	"R005312"	286	0	62	0	"[D]Syndrome sleep apnoea"	"February 2009"
+8148	"Fy03.11"	27013	0	1376	0	"Obstructive sleep apnoea"	"February 2009"

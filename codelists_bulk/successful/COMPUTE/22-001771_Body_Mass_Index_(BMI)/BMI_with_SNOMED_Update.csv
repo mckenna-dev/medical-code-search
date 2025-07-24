@@ -1,0 +1,16 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+100716012,66499074,Body mass index,60621009
+253848011,270339,Body mass index 30+ - obesity,162864005
+253847018,235946,Body mass index index 25-29 - overweight,162863004
+253844013,149212,Normal body mass index,35425004
+453856012,74427,Body mass index less than 20,310252000
+253845014,24175,Increased body mass index,48499001
+2474325012,10797,Body mass index 20-24 - normal,412768003
+11923361000006119,9963,Finding of body mass index,301331008
+2160062010,7187,Body mass index 40+ - severely obese,408512008
+3484801000006114,6133,BMI - Body mass index,60621009
+253846010,5079,Decreased body mass index,6497000
+1900331000006113,1242,Obese class III (body mass index equal to or greater than 40.0),914741000000103
+923861000006112,481,Body mass index,923861000006108
+4553741000006118,113,BMI 30+ - obesity,162864005
+5998281000006119,76,BMI less than 20,310252000

@@ -1,0 +1,45 @@
+{
+  "original_file": "codelists_bulk\\successful\\ID_Fracture\\22-000453_Body_Mass_Index_(BMI)\\standardized_bmi.csv",
+  "original_columns": [
+    "MedCodeId",
+    "MedCodeId.1",
+    "Term",
+    "Observations",
+    "SNOMED_CT_Concept_ID",
+    "os_term",
+    "originalreadcode",
+    "cleansedreadcode",
+    "snomedctdescriptionid",
+    "release",
+    "emiscodecategoryid",
+    "simpleterm"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "snomed_ct_concept_id": "SNOMED_CT_Concept_ID",
+    "observations": "Observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "snomed_ct_concept_id": {
+      "column": "SNOMED_CT_Concept_ID",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 36,
+  "rows_standardized": 36,
+  "project": "ID_Fracture",
+  "codelist": "22-000453_Body_Mass_Index_(BMI)"
+}

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 369
+Columns: 1
+Column names: ['v1\tmedcode\treadcode\tclinicalevents\treadterm']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                            v1\tmedcode\treadcode\tclinicalevents\treadterm
+0  190\t39877\t"7A48400"\t39\t"Bypass femoral artery by fem/tib art anast c prosthesis NEC"
+1                          280\t105136\t"7A18400"\t6\t"Revision of plastic repair of aorta"
+2                              1\t2760\t"G73zz00"\t57752\t"Peripheral vascular disease NOS"

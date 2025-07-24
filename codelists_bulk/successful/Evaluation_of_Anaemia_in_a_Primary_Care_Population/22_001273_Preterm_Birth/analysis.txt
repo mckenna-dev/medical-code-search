@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 40
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tSnomedCTConceptId']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                     MedCodeId\tObservations\tTerm\tSnomedCTConceptId
+0                   a420192012\t23159\tPremature delivery\tb282020008
+1  a305903017\t10071\tEarly onset of delivery - delivered\tb282020008
+2                        a499688015\t8271\tPremature labour\tb6383007

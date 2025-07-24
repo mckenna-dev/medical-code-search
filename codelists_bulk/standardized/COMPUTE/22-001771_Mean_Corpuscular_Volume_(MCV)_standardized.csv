@@ -1,0 +1,7 @@
+med_code_id,term,snomed_ct_concept_id,observations
+714931000006112,MCV - Mean corpuscular volume,1022491000000106,72724333
+257286011,Erythrocyte mean corpuscular volume determination,104133003,304
+4101151000006115,MCV - Mean cell volume,104133003,137
+257284014,MCV - low,165455001,131
+257281018,MCV - normal,165452003,108
+257283015,MCV - raised,165454002,106

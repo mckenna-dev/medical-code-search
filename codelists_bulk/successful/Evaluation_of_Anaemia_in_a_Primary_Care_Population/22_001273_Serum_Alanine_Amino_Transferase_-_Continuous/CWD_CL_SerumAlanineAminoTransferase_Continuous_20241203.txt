@@ -1,0 +1,5 @@
+	Column0	MedCodeId	Term	Count
+0	24	a306221000000119	Serum alanine aminotransferase level	47498056
+1	105	a1484990010	Plasma alanine aminotransferase level	2884674
+2	2987	a478541000006119	Alanine aminotransferase (ALT) (serum glutamic-pyruvic transaminase) (SGPT) level normal	459
+3	3784	a478531000006112	Alanine aminotransferase (ALT) (serum glutamic-pyruvic transaminase) (SGPT) level abnormal	194

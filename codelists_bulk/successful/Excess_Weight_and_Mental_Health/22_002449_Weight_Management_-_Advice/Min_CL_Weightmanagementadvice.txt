@@ -1,0 +1,119 @@
+	MedCodeId	Observations	Term	weight_management_advice																																													
+0	a1662431000000112	900000	Advice given about weight management	weight_management_advice																																													
+1	a977951000006110	600000	Health education - weight management	weight_management_advice																																													
+2	a200241000006114	600000	Patient advised about weight-reducing diet	weight_management_advice																																													
+3	a240911000006113	200000	Patient advised to lose weight	weight_management_advice																																													
+4	a854681000006113	100000	Weight reducing diet advised	weight_management_advice																																													
+5	a7508801000006119	10000	Patient advised about weight management	weight_management_advice																																													
+6	a5494311000006110	6000	Weight-reducing diet education	weight_management_advice																																													
+7	a1735631000000119	4000	Discussion about weight management programme	weight_management_advice																																													
+8	a918271000006119	70	Pt advised re wt reducing diet	weight_management_advice																																													
+9	a411892019	500000	Weight loss advised	weight_management_advice																																													
+10	a264764015	90000	Ideal weight discussed	weight_management_advice																																													
+11	a1753321000006116	4000	"Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity"	weight_management_advice																																													
+12	a1227771010	2000	[V]Dietary counselling in obesity	weight_management_advice																																													
+13	a5494331000006116	200	Dietary advice for weight reduction	weight_management_advice																																													
+14	a5686501000006114	100	Obesity diet education	weight_management_advice																																													
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	

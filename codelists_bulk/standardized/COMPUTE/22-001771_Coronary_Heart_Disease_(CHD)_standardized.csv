@@ -1,0 +1,295 @@
+med_code_id,term,snomed_ct_concept_id,observations
+1229885017,Microinfarct of heart (disorder),42531007,40
+7065281000006117,Ischemic congestive cardiomyopathy (disorder),426856002,8
+7084801000006112,Mixed myocardial ischemia and infarction (disorder),428196007,4
+3191111000006116,Congenital coronary artery sclerosis (disorder),42866003,1
+7093091000006111,Recent myocardial infarction (situation),428752002,2
+7100421000006116,Recurrent coronary arteriosclerosis after percutaneous transluminal coronary angioplasty (disorder),429245005,1
+7298951000006115,Arteriosclerosis of coronary artery bypass graft of transplanted heart (disorder),444855007,2
+7844010,Preinfarction syndrome (disorder),4557003,5000
+7845011,Preinfarction syndrome (disorder),4557003,90000
+7847015,Preinfarction syndrome (disorder),4557003,8000
+299741012,Preinfarction syndrome (disorder),4557003,5000
+494261017,Preinfarction syndrome (disorder),4557003,6000
+72571000006115,Preinfarction syndrome (disorder),4557003,60000
+2571561000006118,Preinfarction syndrome (disorder),4557003,3
+7475751000006117,Ischemic dilated cardiomyopathy due to coronary artery disease (disorder),472100003,20
+2536395017,Coronary arteriosclerosis (disorder),53741008,200000
+3371361000006117,Coronary arteriosclerosis (disorder),53741008,20
+3371381000006110,Coronary arteriosclerosis (disorder),53741008,90
+3371411000006113,Coronary arteriosclerosis (disorder),53741008,900
+3371421000006117,Coronary arteriosclerosis (disorder),53741008,1000
+299711010,Acute myocardial infarction of lateral wall (disorder),58612006,3000
+3452181000006112,Acute myocardial infarction of lateral wall (disorder),58612006,5
+455651000006114,Acute anteroseptal myocardial infarction (disorder),62695002,4000
+3536581000006113,Coronary occlusion (disorder),63739005,30
+3536601000006115,Coronary occlusion (disorder),63739005,4
+457531000006110,Acute myocardial infarction of inferolateral wall (disorder),65547006,10000
+3565871000006113,Acute myocardial infarction of inferolateral wall (disorder),65547006,10
+109915012,Postmyocardial infarction syndrome (disorder),66189004,300
+109916013,Postmyocardial infarction syndrome (disorder),66189004,500
+3576371000006117,Postmyocardial infarction syndrome (disorder),66189004,2
+455641000006112,Acute myocardial infarction of anterolateral wall (disorder),70211005,20000
+3641641000006116,Acute myocardial infarction of anterolateral wall (disorder),70211005,10
+7571611000006117,Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle (disorder),703165004,1
+7572221000006117,Subsequent ST segment elevation myocardial infarction of inferior wall (disorder),703209002,1
+7572321000006112,Acute ST segment elevation myocardial infarction of inferior wall (disorder),703213009,80
+7572331000006110,Acute ST segment elevation myocardial infarction of inferior wall (disorder),703213009,70
+7572341000006117,Acute ST segment elevation myocardial infarction of inferior wall (disorder),703213009,6
+7574041000006111,Mitral valve regurgitation due to and following acute myocardial infarction (disorder),703326006,1
+7574481000006111,Subsequent non-ST segment elevation myocardial infarction (disorder),703360004,2
+7574491000006114,Subsequent non-ST segment elevation myocardial infarction (disorder),703360004,6
+116992017,Acute subendocardial infarction (disorder),70422006,9000
+7696501000006114,Resting ischemia co-occurrent and due to ischemic heart disease (disorder),712866001,1
+299714019,Acute myocardial infarction of inferior wall (disorder),73795002,90000
+3699921000006110,Acute myocardial infarction of inferior wall (disorder),73795002,10
+1234005010,Acute myocardial infarction of inferoposterior wall (disorder),76593002,3000
+3745741000006117,Acute myocardial infarction of inferoposterior wall (disorder),76593002,7
+3842391000006115,Ischemic contracture of left ventricle syndrome (disorder),82522008,2
+13930031000006112,Delayed postmyocardial infarction pericarditis (disorder),827164008,10
+13930051000006117,Delayed postmyocardial infarction pericarditis (disorder),827164008,1000
+13935161000006114,Acute myocardial infarction of right ventricle (disorder),836293000,1
+13935211000006117,Acute myocardial infarction of inferolateral wall with posterior extension (disorder),836295007,2
+13941141000006111,Acute ST segment elevation myocardial infarction due to occlusion of mid portion of anterior descending branch of left coronary artery (disorder),840312002,7
+13941161000006110,Acute ST segment elevation myocardial infarction due to occlusion of mid portion of anterior descending branch of left coronary artery (disorder),840312002,1
+13941171000006115,Occlusion of mid portion of anterior descending branch of left coronary artery (disorder),840313007,20
+13941191000006119,Occlusion of distal portion of anterior descending branch of left coronary artery (disorder),840315000,10
+13941211000006118,Acute ST segment elevation myocardial infarction due to occlusion of distal portion of anterior descending branch of left coronary artery (disorder),840316004,1
+13941231000006112,Acute ST segment elevation myocardial infarction due to occlusion of distal portion of anterior descending branch of left coronary artery (disorder),840316004,1
+13945191000006117,Occlusion of anterior descending branch of left coronary artery (disorder),840608004,5
+13947581000006115,Occlusion of diagonal branch of anterior descending branch of left coronary artery (disorder),846667001,2
+3886751000006118,"Angina, class III (disorder)",85284003,7
+14130061000006116,Stenosis of right coronary artery (disorder),876856005,20
+14130071000006111,Stenosis of right coronary artery (disorder),876856005,2
+14130091000006112,Stenosis of circumflex branch of left coronary artery (disorder),876858006,8
+14130101000006118,Stenosis of anterior descending branch of left coronary artery (disorder),876859003,40
+14130111000006115,Stenosis of anterior descending branch of left coronary artery (disorder),876859003,3
+14132941000006118,Myocardial infarction with non-obstructive coronary artery (disorder),879955009,30
+14145381000006119,Occlusion of circumflex branch of left coronary artery (disorder),896690007,3
+4005601000006116,Calcific coronary arteriosclerosis (disorder),92517006,300
+12122331000006116,Acute ST segment elevation myocardial infarction of inferolateral wall (disorder),12238111000119106,10
+4354151000006115,Right coronary artery occlusion (disorder),123642008,40
+208365015,Postoperative myocardial infarction (disorder),129574000,700
+455423016,Postoperative myocardial infarction (disorder),129574000,80
+212081000006112,Postoperative myocardial infarction (disorder),129574000,2
+212091000006110,Postoperative myocardial infarction (disorder),129574000,6
+9843961000006118,Acute ST segment elevation myocardial infarction of anterolateral wall (disorder),15712881000119105,3
+9843981000006111,Acute ST segment elevation myocardial infarction of lateral wall (disorder),15712921000119103,2
+9844011000006119,Acute ST segment elevation myocardial infarction of posterior wall (disorder),15713041000119103,3
+9844051000006118,Acute ST segment elevation myocardial infarction due to right coronary artery occlusion (disorder),15713121000119105,1
+9868461000006110,Unstable angina co-occurrent and due to coronary arteriosclerosis (disorder),15960061000119102,5
+9868571000006116,Mural thrombus of left ventricle following acute myocardial infarction (disorder),15960981000119105,40
+810811000006116,History of myocardial infarct at age less than sixty (situation),161502000,10000
+14015031000006119,Myocardial infarction due to demand ischemia (disorder),16837681000119104,2
+14015311000006110,Coronary artery disease due to type 2 diabetes mellitus (disorder),16891151000119103,1
+32122016,Status anginosus (disorder),19057007,50
+299719012,Acute atrial infarction (disorder),194809007,100
+299742017,Coronary thrombosis not resulting in myocardial infarction (disorder),194821006,200
+2619484018,Coronary thrombosis not resulting in myocardial infarction (disorder),194821006,70
+682481000006118,Coronary thrombosis not resulting in myocardial infarction (disorder),194821006,400
+4775931000006111,Coronary thrombosis not resulting in myocardial infarction (disorder),194821006,3
+299745015,Acute coronary insufficiency (disorder),194823009,8000
+931961000006117,Acute coronary insufficiency (disorder),194823009,200
+299757012,Angina (disorder),194828000,3000000
+299758019,Angina (disorder),194828000,8
+299765010,Angina (disorder),194828000,50000
+300874013,Angina (disorder),194828000,300
+482941000006119,Angina (disorder),194828000,50000
+4775971000006114,Angina (disorder),194828000,400
+4775981000006112,Angina (disorder),194828000,1
+4776001000006111,Angina (disorder),194828000,3
+4776031000006115,Angina (disorder),194828000,20
+299783019,Double coronary vessel disease (disorder),194843003,20000
+4776071000006117,Double coronary vessel disease (disorder),194843003,30
+4776081000006119,Double coronary vessel disease (disorder),194843003,3
+299796018,Generalized ischemic myocardial dysfunction (disorder),194849004,10000
+4776121000006117,Generalized ischemic myocardial dysfunction (disorder),194849004,1000
+4776141000006112,Generalized ischemic myocardial dysfunction (disorder),194849004,20
+299808017,Subsequent myocardial infarction (disorder),194856005,700
+299813018,Subsequent myocardial infarction (disorder),194856005,20
+300881018,Subsequent myocardial infarction (disorder),194856005,4
+300882013,Subsequent myocardial infarction (disorder),194856005,10
+118831000006118,Subsequent myocardial infarction (disorder),194856005,40
+498031000006112,Atrial septal defect due to and following acute myocardial infarction (disorder),194863005,80
+159001000006119,Rupture of papillary muscle as current complication following acute myocardial infarction (disorder),194867006,6
+100681000006116,"Thrombosis of atrium, auricular appendage, and ventricle due to and following acute myocardial infarction (disorder)",194868001,80
+36036010,Syncope anginosa (disorder),21470009,100
+37443015,Myocardial infarction (disorder),22298006,10000
+219521000000119,Myocardial infarction (disorder),22298006,1000
+2855301000006112,Myocardial infarction (disorder),22298006,3000
+2855341000006114,Myocardial infarction (disorder),22298006,8
+2855351000006111,Myocardial infarction (disorder),22298006,10
+338974012,Ischemic chest pain (finding),225566008,6000
+350346019,Triple vessel disease of the heart (disorder),233817007,40000
+5056201000006111,Triple vessel disease of the heart (disorder),233817007,50
+350350014,New onset angina (disorder),233821000,3000
+350354017,Silent myocardial ischemia (disorder),233823002,2000
+5056261000006112,Silent myocardial ischemia (disorder),233823002,1
+5056311000006117,Acute Q wave infarction - inferior (disorder),233829003,1
+299710011,Acute posterior myocardial infarction (disorder),233838001,4000
+5056411000006110,Old anterior myocardial infarction (disorder),233839009,10
+5056431000006116,Old lateral myocardial infarction (disorder),233841005,3
+5056441000006114,Old posterior myocardial infarction (disorder),233842003,2
+537751000006115,Cardiac rupture due to and following acute myocardial infarction (disorder),233847009,200
+216351000006118,Post-infarction pericarditis (disorder),233885007,300
+5056941000006119,Post-infarction pericarditis (disorder),233885007,20
+8087551000006113,History of acute ST segment elevation myocardial infarction (situation),285721000119104,1
+8087751000006116,Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery (disorder),285981000119103,5
+447324018,Acute Q wave myocardial infarction (disorder),304914007,500
+5935321000006111,Acute Q wave myocardial infarction (disorder),304914007,10
+450322013,Acute non-Q wave infarction (disorder),307140009,3000
+451369010,History of myocardial infarction in last year (situation),308065005,2000
+212061000006119,Postoperative transmural myocardial infarction of anterior wall (disorder),311792005,20
+212071000006114,Postoperative transmural myocardial infarction of inferior wall (disorder),311793000,20
+455422014,Postoperative subendocardial myocardial infarction (disorder),311796008,100
+6043771000006118,Non-Q wave myocardial infarction (disorder),314207007,5
+459487012,Refractory angina (disorder),315025001,1000
+3024781000006112,"Past myocardial infarction diagnosed on electrocardiogram AND/OR other special investigation, but currently presenting no symptoms (disorder)",32574007,2
+6360351000006112,Multi vessel coronary artery disease (disorder),371803003,100
+6360361000006114,Left main coronary artery disease (disorder),371804009,30
+6360391000006118,Atypical angina (disorder),371807002,200
+1786197015,Coronary artery thrombosis (disorder),398274000,3000
+1786198013,Coronary artery thrombosis (disorder),398274000,400
+6601121000006118,Coronary artery thrombosis (disorder),398274000,80
+6601131000006115,Coronary artery thrombosis (disorder),398274000,1
+230021000006115,History of myocardial infarction (situation),399211009,6000
+1738171000006114,History of myocardial infarction (situation),399211009,2000
+1780491019,Acute ST segment elevation myocardial infarction (disorder),401303003,200000
+6651221000006117,Acute ST segment elevation myocardial infarction (disorder),401303003,200
+2160096015,Coronary artery bypass graft occlusion (disorder),408546009,6000
+3166141000006114,"Angina, class II (disorder)",41334000,20
+6841391000006118,Acute myocardial ischemia (disorder),413444003,6
+299776014,Chronic ischemic heart disease (disorder),413838009,10000
+299800012,Chronic ischemic heart disease (disorder),413838009,300
+299804015,Chronic ischemic heart disease (disorder),413838009,300
+299805019,Chronic ischemic heart disease (disorder),413838009,2000
+300879015,Chronic ischemic heart disease (disorder),413838009,70
+6847761000006118,Chronic ischemic heart disease (disorder),413838009,1
+2534674015,Chronic myocardial ischemia (disorder),413844008,3000
+2537483013,Chronic myocardial ischemia (disorder),413844008,400
+6850801000006111,Disorder of coronary artery (disorder),414024009,200
+7105241000006116,Typical angina (disorder),429559004,80
+7106991000006111,Arteriosclerosis of coronary artery bypass graft (disorder),429673002,1
+89332015,Atherosclerosis of coronary artery (disorder),443502000,1000
+2536393012,Atherosclerosis of coronary artery (disorder),443502000,800
+595731000006114,Atherosclerosis of coronary artery (disorder),443502000,40000
+7278491000006111,Atherosclerosis of coronary artery (disorder),443502000,1
+494438016,Subendocardial ischemia (disorder),46109009,200
+299708014,Acute anteroapical myocardial infarction (disorder),52035003,200
+299707016,Acute myocardial infarction of anterior wall (disorder),54329005,6000
+299709018,Acute myocardial infarction of anterior wall (disorder),54329005,20000
+3381601000006117,Acute myocardial infarction of anterior wall (disorder),54329005,90
+94884017,Acute myocardial infarction (disorder),57054005,1000000
+299718016,Acute myocardial infarction (disorder),57054005,2000
+299720018,Acute myocardial infarction (disorder),57054005,500
+299721019,Acute myocardial infarction (disorder),57054005,60000
+219531000000117,Acute myocardial infarction (disorder),57054005,300000
+362461000006119,Acute myocardial infarction (disorder),57054005,80
+460681000006116,Acute myocardial infarction (disorder),57054005,400
+884141000006116,Acute myocardial infarction (disorder),57054005,700
+884151000006119,Acute myocardial infarction (disorder),57054005,7000
+3427201000006111,Acute myocardial infarction (disorder),57054005,1
+98087016,Angina decubitus (disorder),59021001,2000
+299763015,Angina decubitus (disorder),59021001,200
+498328016,Angina decubitus (disorder),59021001,4000
+482811000006113,Angina decubitus (disorder),59021001,1000
+3458791000006114,Angina decubitus (disorder),59021001,2
+3459561000006119,Acute myocardial infarction of apical-lateral wall (disorder),59063002,1
+3499001000006116,"Angina, class I (disorder)",61490001,7
+3551171000006114,Acute myocardial infarction of high lateral wall (disorder),64627002,1
+3600701000006114,Coronary artery atheroma (disorder),67682002,500
+7502661000006117,Microvascular ischemia of myocardium (disorder),697976003,9
+1654891000000110,Coronary angioplasty planned (situation),698377004,1000
+1550991000000116,Coronary artery bypass graft operation planned (situation),698378009,1000
+7508021000006119,Coronary artery bypass graft operation planned (situation),698378009,10
+7510331000006117,History of non-ST segment elevation myocardial infarction (situation),698593009,5
+7571581000006113,Acute ST segment elevation myocardial infarction of anterior wall (disorder),703164000,100
+7571601000006115,Acute ST segment elevation myocardial infarction of anterior wall (disorder),703164000,70
+7572301000006119,Acute myocardial infarction during procedure (disorder),703212004,3
+7572351000006115,Silent coronary vasospastic disease (disorder),703214003,7
+7703511000006110,Subacute ischemic heart disease (disorder),713405002,4
+2609111000000119,Non-obstructive atherosclerosis of coronary artery (disorder),719678003,600
+7789771000006114,Non-obstructive atherosclerosis of coronary artery (disorder),719678003,2
+7855741000006112,Atherosclerosis of autologous coronary artery bypass graft (disorder),724431008,1
+1234306015,Acute myocardial infarction of septum (disorder),79009004,600
+7966931000006114,Angina due to type 2 diabetes mellitus (disorder),791000119109,2
+2115181000000110,Coronary microvascular disease (disorder),810681000000101,1000
+13941091000006115,Acute ST segment elevation myocardial infarction due to occlusion of proximal portion of anterior descending branch of left coronary artery (disorder),840309000,2
+13941121000006116,Occlusion of proximal portion of anterior descending branch of left coronary artery (disorder),840310005,20
+13945211000006116,Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery (disorder),840609007,2
+13945971000006115,Occlusion of septal branch of anterior descending branch of left coronary artery (disorder),840679006,2
+13947721000006111,Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery (disorder),846683001,1
+13961321000006113,Occlusion of proximal portion of right coronary artery (disorder),868215007,2
+13961371000006114,Acute ST segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery (disorder),868220007,1
+13961451000006111,Acute ST segment elevation myocardial infarction due to occlusion of posterior descending branch of right coronary artery (disorder),868225002,1
+13961461000006113,Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery (disorder),868226001,1
+14130081000006114,Stenosis of left coronary artery main stem (disorder),876857001,9
+1218860015,Acute infarction of papillary muscle (disorder),10273003,6
+2515471000006117,Septal infarction by electrocardiogram (finding),1077002,5
+8036721000006118,Chronic total occlusion of coronary artery (disorder),117051000119103,40
+12122341000006114,Acute ST segment elevation myocardial infarction of inferoposterior wall (disorder),12238151000119107,10
+4354131000006110,Left coronary artery occlusion (disorder),123641001,6
+8041051000006118,History of placement of stent in coronary artery bypass graft (situation),130541000119100,3
+9843991000006114,Acute ST segment elevation myocardial infarction of anteroseptal wall (disorder),15712961000119108,1
+12125951000006116,Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft (disorder),15960581000119102,1
+967931000006114,Acute myocardial infarction of posterolateral wall (disorder),15990001,200
+810821000006112,History of myocardial infarct at age greater than sixty (situation),161503005,10000
+4031011,Old myocardial infarction (disorder),1755008,60000
+4032016,Old myocardial infarction (disorder),1755008,700
+299712015,True posterior myocardial infarction (disorder),194802003,500
+299782012,Single coronary vessel disease (disorder),194842008,20000
+4776051000006110,Single coronary vessel disease (disorder),194842008,5
+299811016,Subsequent myocardial infarction of anterior wall (disorder),194857001,90
+299812011,Subsequent myocardial infarction of inferior wall (disorder),194858006,100
+813961000006116,Hemopericardium due to and following acute myocardial infarction (disorder),194862000,90
+158601000006116,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction (disorder),194865003,10
+158611000006118,Rupture of chordae tendinae due to and following acute myocardial infarction (disorder),194866002,2
+8011041000006111,Acute myocardial infarction due to right coronary artery occlusion (disorder),23311000119105,4
+350348018,Stable angina (disorder),233819005,70000
+5056331000006111,Acute Q wave infarction - inferolateral (disorder),233831007,2
+5056421000006119,Old inferior myocardial infarction (disorder),233840006,20
+350376014,Silent myocardial infarction (disorder),233843008,3000
+5056461000006113,Silent myocardial infarction (disorder),233843008,2
+5056471000006118,Accelerated coronary artery disease in transplanted heart (disorder),233844002,1
+67081000006119,Post-infarction ventricular septal defect (disorder),233846000,60
+5056501000006113,Post-infarction ventricular septal defect (disorder),233846000,6
+5058231000006119,Coronary artery stenosis (disorder),233970002,400
+5294511000006117,Coronary graft stenosis (disorder),251024009,7
+494260016,Impending infarction (disorder),25106000,4
+5647291000006110,Ischemic myocardial dysfunction (disorder),281091000,4
+442204010,Exercise-induced angina (disorder),300995000,10000
+5887611000006117,Exercise-induced angina (disorder),300995000,700
+5887631000006111,Exercise-induced angina (disorder),300995000,70
+5887641000006118,Exercise-induced angina (disorder),300995000,1
+458410010,Post infarct angina (disorder),314116003,1000
+459488019,Transient myocardial ischemia (disorder),315026000,1000
+616081000006113,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction (procedure),315287002,30
+459859010,Asymptomatic coronary heart disease (disorder),315348000,5000
+59952018,Nocturnal angina (disorder),35928006,400
+543291000006110,Myocardial infarction with complication (disorder),371068009,40
+12276271000006112,Progressive angina (disorder),371806006,3
+6360401000006116,Recurrent angina status post percutaneous transluminal coronary angioplasty (disorder),371808007,1
+6360421000006114,Recurrent angina following placement of coronary artery stent (disorder),371809004,1
+6360441000006119,Recurrent angina status post coronary artery bypass graft (disorder),371810009,1
+1488382011,Acute coronary syndrome (disorder),394659003,200000
+6546111000006118,Acute coronary syndrome (disorder),394659003,70
+6546751000006118,First myocardial infarction (disorder),394710008,20
+451132018,History of coronary artery bypass grafting (situation),399261000,8000
+460686018,History of coronary artery bypass grafting (situation),399261000,200
+1227364015,History of coronary artery bypass grafting (situation),399261000,10000
+1780501013,Acute non-ST segment elevation myocardial infarction (disorder),401314000,400000
+6651391000006114,Acute non-ST segment elevation myocardial infarction (disorder),401314000,600
+6841231000006113,Acute ischemic heart disease (disorder),413439005,10
+299723016,Ischemic heart disease (disorder),414545008,400
+299750014,Ischemic heart disease (disorder),414545008,200
+299834013,Ischemic heart disease (disorder),414545008,4000
+299835014,Ischemic heart disease (disorder),414545008,100000
+300876010,Ischemic heart disease (disorder),414545008,50
+2534664018,Ischemic heart disease (disorder),414545008,5000000
+2537480011,Ischemic heart disease (disorder),414545008,1000000
+39111000006114,Ischemic heart disease (disorder),414545008,2000
+394541000006112,Ischemic heart disease (disorder),414545008,2000
+6860251000006115,Ischemic heart disease (disorder),414545008,60
+6860261000006118,Ischemic heart disease (disorder),414545008,30
+6864781000006110,Myocardial ischemia (disorder),414795007,90
+2729671000000118,Acute transmural myocardial infarction (disorder),1089471000000109,40

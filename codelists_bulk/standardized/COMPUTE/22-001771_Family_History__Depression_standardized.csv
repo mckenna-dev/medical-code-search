@@ -1,0 +1,5 @@
+med_code_id,term,snomed_ct_concept_id,observations
+249861014,FH: Depression,160329001,100000
+250065016,FH: Puerperal depression,160403000,500
+4529611000006110,Family history of depression,160329001,300
+4529621000006119,Family history: Depression,160329001,10

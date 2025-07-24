@@ -1,0 +1,501 @@
+Codelist_Name,ERAP_Number,Project_Title,Author,Coding System,Year_Created,Path_to_Codelist
+AIDS,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/AIDS_with_SNOMED_Update.csv
+Alcohol,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_alcohol_status.csv
+Alcohol,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_alcohol.csv
+Alcohol - Dependence,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Alcoholdependence.txt
+Alcohol - Problematic Drinking,22-001836,CHD Anaemia,"Cynthia Wright Drakesmith, Margaret Smith",Gold,2024,https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/Promblematic_Drinking.csv
+Alcohol / Drinking,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Alcoholdependence.txt
+Alpha1Antitrypsin,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Alpha1Antitrypsin_with_SNOMED_Update.csv
+Anaemia,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Anaemia_with_SNOMED_Update.csv
+Anaemia,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Anaemia.txt
+Anaemia,22_001273,Evaluation of Anaemia in a Primary Care Population,Sarah Haynes,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SH_AK_Anaemia.txt
+Angina,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_angina.csv
+Ankle Brachial Pressure,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/AnkleBrachial_with_SNOMED_Update.csv
+Anorexia - Diagnosis,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_Anorexia.txt
+Anorexia Nervosa - Eating disorder,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_Eatingdisorder_Anorexianervosa_diagnosis_20240304.txt
+Anticoagluation,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Anticoagulation_with_SNOMED_Update.csv
+Anticyclic Citrunillinated Peptide Ab Level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/AntiCyclicCitrullinatedPeptideAbLevel_with_SNOMED_Update.csv
+Antiphospholipid Syndrome,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/AntiphospholipidSyndrome_with_SNOMED_Update.csv
+Antithrombin Level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Antithrombin_with_SNOMED_Update.csv
+Anxiety - Diagnosis,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_AnxietyDiagnosis_20240304.txt
+Anxiety - Referral,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_AnxietyReferral_20240304.txt
+Asthma,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Asthma_QOF_Codelist.csv
+Asthma,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_asthma.csv
+Asthma Control Questionnaire,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/AsthmaControlQuestionnaire_with_SNOMED_Update.csv
+Asthma control test score,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/AshtmaControlTestScore_with_SNOMED_Update.csv
+"Asthma, Chronic Obstructive Pulmonary Disease",22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_Asthma%20or%20COPD%20%20Aurum%20VF%2027%20March%202022.csv
+Atrial Fibrillation,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Atrial_fibrillation_QOF_Codelist.csv
+Atrial Fibrillation,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Atrial%20Arrhythmia/Aurum_AF_codelist_010422.txt
+Atrial Fibrillation,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Atrial%20Arrhythmia/Gold_AF_codelist_010422.txt
+Back Pain,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Backpain.txt
+Bariatric Surgery,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Exposures/Min_CL_Bariatricsurgery.txt
+Basophil Count,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/BasophilCount_with_SNOMED_Update.csv
+Basophil Percentage,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/BasophilPercentage_with_SNOMED_Update.csv
+Bipolar - Diagnosis,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_Bipolar_diagnosis_20240304.txt
+Bipolar - Referral,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_Bipolar_referral_20240304.txt
+Bleed - Any,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Bleeding%20and%20negative%20outcomes/Aurum_Any_Bleed_codelist_220323.txt
+Bleed - Any,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Bleeding%20and%20negative%20outcomes/Gold_Any_Bleed_codelist_220323.txt
+Bleed - Major,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Bleeding%20and%20negative%20outcomes/Aurum_Major_Bleed_codelist_230323.txt
+Bleed - Major,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Bleeding%20and%20negative%20outcomes/Gold_Major_Bleed_codelist_230323.txt
+Bleeding Disorders,22_001273,Evaluation of Anaemia in a Primary Care Population,Sarah Haynes,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SH_AK_Bleeding_Disorders.txt
+Blood Glucose,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Bloodglucose.txt
+Blood Glucose - Fasting,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Fastingbloodglucose.txt
+Blood Oxygen Saturation,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/BloodOxygenSaturation_with_SNOMED_Update.csv
+Body Mass Index (BMI),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/BMI_with_SNOMED_Update.csv
+Body Mass Index (BMI),22-001836,CHD Anaemia,"Cynthia Wright Drakesmith, Margaret Smith",Gold,2024,https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/BMI.csv
+Body Mass Index (BMI),22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_bmi.csv
+Body Mass Index (BMI),22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Exposures/Min_BMI_20240220.txt
+Body Mass Index (BMI) - Continuous,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/CWD_CL_BMI_Continuous_20241203.txt
+Bronchiectasis,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/AK_CL_Bronchiectasis.txt
+Bulimia nervosa - Eating disorder,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_Eatingdisorder_Bulimianervosa_diagnosis_20240304.txt
+C- Reactive Proteint (CRP),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/CRP_with_SNOMED_Update.csv
+C- Reactive Proteint (CRP),21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/CRP_Aurum181022.txt
+C- Reactive Proteint (CRP),21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/CRP_Gold181022.txt
+C- Reactive Proteint (CRP),22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_CRP.txt
+CA125 Level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/CA125_with_SNOMED_Update.csv
+CA19 Level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/CA19_with_SNOMED_Update.csv
+Cancer,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_Cancer%20Aurum%20VF%2027%20March%202022.csv
+Cancer,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_cancer.csv
+Cancer,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Cancer.txt
+Cancer - Heamotological,21_000380,Respiratory infection related cardiovascular disease,Brian Nicholson,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Cancers/BN_Haematological_cancers.txt
+Cancer - Solid,21_000380,Respiratory infection related cardiovascular disease,Brian Nicholson,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Cancers/BN_solid_cancers.txt
+Cannabis,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Cannibis_with_SNOMED_Update.csv
+Carcinoembryonic antigen level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/CarcinoembryonicAntigen_with_SNOMED_Update.csv
+Cardiovascular Disease (CVD),22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_CVD.txt
+Cellulitus,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Aurum_Cellulitis_codelist_300323.txt
+Cellulitus,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Gold_Cellulitis_codelist_300323.txt
+Cholesterol,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/AurumCholesterol141022.txt
+Cholesterol,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/Gold_Cholesterol_codes141022.txt
+Cholesterol,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Cholesterol.txt
+Cholesterol - Subgroups,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/AurumCholesterolSubgroups081122.txt
+Cholesterol - Subgroups,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/Gold_Cholesterol_codes_subtypes081122.txt
+Chronic Heart Disease (CHD),21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Chronic%20Heart%20Disease/CHD_Aurum_prelim_v1_020322.txt
+Chronic Heart Disease (CHD),21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Chronic%20Heart%20Disease/CHD_Gold_prelim_V1_020322.txt
+Chronic Kidney Disease (CKD),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Chronic_Kidney_Disease_QOF_Codelist.csv
+Chronic Kidney Disease (CKD),22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_ckd.csv
+Chronic Kidney Disease (CKD) - (3-5),22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/AK_CL_CKD_3to5.txt
+Chronic Liver Disease,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_Chronic%20liver%20disease%20Aurum%20VF%206%20Mar%202022.csv
+Chronic Liver Disease,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_chronic%20liver%20disease.csv
+Chronic Obstructive Pulmonary Disease (COPD),22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/AK_CL_COPD_updated.txt
+Chronic Obstructive Pulmonary Disease (COPD),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/COPD_QOF_Codelist.csv
+Chronic Obstructive Pulmonary Disease (COPD),21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/COPD/Aurum_COPD_codelist.txt
+Chronic Obstructive Pulmonary Disease (COPD),21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/COPD/Gold_COPD_codelist.txt
+Chronic Obstructive Pulmonary Disease (COPD),22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_copd.csv
+Chronic Obstructive Pulmonary Disease (COPD),22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_COPD.txt
+Chron'ss Disease,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/VM_Crohns.txt
+Cirrhosis,22_001273,Evaluation of Anaemia in a Primary Care Population,Suzanne Maynard,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SM_CL_cirrhosis.txt
+Cirrhosis - Type,22_001273,Evaluation of Anaemia in a Primary Care Population,Suzanne Maynard,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SM_CL_cirrhosis_type20250224.txt
+Coeliac Disease,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/VM_VL_Coeliac.txt
+Congenital Heart Disease,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/CongenitalHeartDisease_with_SNOMED_Update.csv
+Congenital Heart Disease (CHD),22-001836,CHD Anaemia,"Cynthia Wright Drakesmith, Margaret Smith",Gold,2024,https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/CHD.csv
+Congenital Heart Disease (CHD) - HES ONS Classes,22-001836,CHD Anaemia,"Cynthia Wright Drakesmith, Margaret Smith",Gold,2024,https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/HES_ONS_CHD_classes_20230913.csv
+Constipation,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Bleeding%20and%20negative%20outcomes/Aurum_constipation_codelist_220323.txt
+Constipation,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Bleeding%20and%20negative%20outcomes/Gold_constipation_codelist_220323.txt
+Coronary Heart Disease (CHD),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Coronary_Heart_Disease_QOF_Codelist.csv
+Coronary Heart Disease (CHD),22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_CHD.txt
+Creatinine clearance,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/CreatinineClearance_with_SNOMED_Update.csv
+Dementia,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/IE_CL_Dementia_updated.txt
+Dementia,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Dementia_QOF_Codelist.csv
+Dementia,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Dementia/Aurum_Dementia_codelist_030322.txt
+Dementia,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Dementia/Gold_Dementia_codelist_030322.txt
+Dementia,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_Dementia%20Aurum%20VF%206%20Mar%202022.csv
+Dementia,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_Dementia.csv
+Dementia,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Dementia.txt
+Depression,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Depression_QOF_Codelist.csv
+Depression - Diagnosis,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_DepressionDiagnosis_20240304.txt
+Depression - Referral,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_DepressionReferral_20240304.txt
+Depression screening using questions,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/DepressionScreeningUsingQuestions_with_SNOMED_Update.csv
+Diabetes,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Diabetes/Aurum_Diabetes_codelist_100322.txt
+Diabetes,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Diabetes/Gold_Diabetes_codelist_100322.txt
+Diabetes,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_diabetes.csv
+Diabetes,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_diabetes.csv
+Diabetes,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Diabetes.txt
+Diabetes,22_001273,Evaluation of Anaemia in a Primary Care Population,Suzanne Maynard,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/FINAL_CL_diabetes.txt
+Diabetes - Type 1,22-001836,CHD Anaemia,"Cynthia Wright Drakesmith, Margaret Smith",Gold,2024,https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/Diabetes_Type1.csv
+Diabetes - Type 2,22-001836,CHD Anaemia,"Cynthia Wright Drakesmith, Margaret Smith",Gold,2024,https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/Diabetes_Type2.csv
+Diabetes (Type 2),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Diabetes_Type2_QOF_Codelist.csv
+Diastolic blood pressure,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/DiastolicBP_with_SNOMED_Update.csv
+Diastolic blood pressure,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_DiastolicBP_20240416.txt
+Drug Addiction,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Drugaddiction.txt
+Dual-energy X-ray Absorptiometry (DXA) - Forearm,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/DXA_Forearm_with_SNOMED_Update.csv
+Dual-energy X-ray Absorptiometry (DXA) - Lumbar,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/DXA_Lumbar_with_SNOMED_Update.csv
+Dual-energy X-ray Absorptiometry (DXA) - Neck,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/DXA_Neck_with_SNOMED_Update.csv
+Dual-energy X-ray Absorptiometry (DXA) - Unspecified,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/DXA_Unspecified_with_SNOMED_Update.csv
+Dyspnea,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Dyspnea_with_SNOMED_Update.csv
+Eatin disorder - Referral,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_Eatingdisorder_Referral_20240304.txt
+Eating disorder - Other,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_Eatingdisorder_Other_diagnosis_20240304.txt
+Eczema,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Eczema.txt
+eGFR (estimated glomerular filtration rate) using CKD-Epi (Chronic Kidney Disease Epidemiology Collaboration) formula,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/eGFR_Epi_with_SNOMED_Update.csv
+Endometriosis,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/IE_CL_Endometriosis.txt
+Eosinophil count,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/EosinophilCount_with_SNOMED_Update.csv
+Eosinophil Percentage,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/EosinophilPercentage_with_SNOMED_Update.csv
+Epilepsy,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_epilepsy.csv
+Epilepsy,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_epilepsy.csv
+Erectile Dysfunction,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Aurum_Erectiledysfunction_codelist_240322.txt
+Erectile Dysfunction,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Gold_Erectiledysfunction_codelist_240322.txt
+Erythrocyte sedimentation rate (ESR),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/ESR_with_SNOMED_Update.csv
+Ethnicity,22-001873,Anaemia,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Anaemia/blob/main/Smith/Codelists/Ethnicity.csv
+Ethnicity,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_ethnicitycodes.csv
+Ethnicity,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_ethnicity.csv
+Falls,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_falls.csv
+Falls,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_Falls.csv
+Family History: Anxiety,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/FamilyHistoryAnxiety_with_SNOMED_Update.csv
+Family History: Cancer,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/FamilyHistoryCancer_with_SNOMED_Update.csv
+Family History: Cardiovascular Disease,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Aurum__FHxCVD_codelist_050123.txt
+Family History: Cardiovascular Disease,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Aurum__FHxCVD_codelist_260123.txt
+Family History: Cardiovascular Disease,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Gold_FHxCVD_codelist_050123.txt
+Family History: Cardiovascular Disease,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Gold_FHxCVD_codelist_260213.txt
+Family History: Coronary Heart Disease (CHD),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/FamilyHistoryCoronaryHeartDisease_with_SNOMED_Update.csv
+Family History: Dementia,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/FamilyHistoryDementia_with_SNOMED_Update.csv
+Family History: Depression,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/FamilyHistoryDepression_with_SNOMED_Update.csv
+Family History: Diabetes,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/FamilyHistoryDiabetes_with_SNOMED_Update.csv
+Family History: Parkinsons,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/FamilyHistoryParkinsons_with_SNOMED_Update.csv
+Family History: Rhuematoid Arthritis,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/FamilyHistoryRheumatoidArthritis_with_SNOMED_Update.csv
+Family History: Schizoprenia,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/FamilyHistorySchizoprenia_with_SNOMED_Update.csv
+Family History: Stroke,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/FamilyHistoryStroke_with_SNOMED_Update.csv
+Famiy History: Chronic Obstructive Pulmonary Disease (COPD),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/FamilyHistoryCOPD_with_SNOMED_Update.csv
+Fasting blood glucose level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/FastingBloodGlucose_with_SNOMED_Update.csv
+Fatigue,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Fatigue_with_SNOMED_Update.csv
+Febrile Respiratory Illness (FRI),21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Resp_infection_codes/AURUM_Cohort_FRIs_by_type_table.txt
+Febrile Respiratory Illness (FRI),21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Resp_infection_codes/GOLD_Cohort_FRIs_by_type_table.txt
+Ferritin,22-001873,Anaemia,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Anaemia/blob/main/Smith/Codelists/Ferritin.csv
+Ferritin Level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Ferritin_with_SNOMED_Update.csv
+Fibrogen Level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Fibrogen_with_SNOMED_Update.csv
+Flu,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Flu_with_SNOMED_Update.csv
+Follicle stimulating hormone level (FSH),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/FSH_with_SNOMED_Update.csv
+Fracture,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_fracture_medcodeids.csv
+Fracture,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_cprd%20fracture%20codes.csv
+Fracture Risk Assessment Tool (FRAX) - Hip,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/FRAX_hip_with_SNOMED_Update.csv
+Fracture Risk Assessment Tool (FRAX) - Unspecified,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/FRAX_Unspecified_with_SNOMED_Update.csv
+Frailty,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/AK_CL_Frailty.txt
+GAD-7 score,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/GAD-7Score_with_SNOMED_Update.csv
+Gastro-esophageal reflux disease (GORD),22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SM_CL_GORD.txt
+GFR (glomerular filtration rate) calculated by abbreviated Modification of Diet,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/eGFR_Mod_with_SNOMED_Update.csv
+Gout,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Gout_with_SNOMED_Update.csv
+Gout,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Gout.txt
+Haematocrit Packed Cell Volume (PCV),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Haematocrit_with_SNOMED_Update.csv
+Haemoglobin,22-001836,CHD Anaemia,"Cynthia Wright Drakesmith, Margaret Smith",Gold,2024,https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/Haemoglobin.csv
+Haemoglobin,22-001873,Anaemia,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Anaemia/blob/main/Smith/Codelists/Haemoglobin.csv
+Haemoglobin A1c level (HbA1c),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/HbA1c_with_SNOMED_Update.csv
+Haemoglobin A1c level (HbA1c),22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_HbA1c.txt
+Haemoglobin Level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Haemoglobin_with_SNOMED_Update.csv
+Hearing Impairment,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_hearing%20impairment.csv
+Hearing Loss,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/HearingLoss_with_SNOMED_Update.csv
+Heart Failure,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Heart_failure_QOF_Codelist.csv
+Heart Failure,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Aurum_HF_codelist.txt
+Heart Failure,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Gold_HF_codelist.txt
+Heart Failure,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Heartfailure.txt
+Heart Failure (HF),22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/VM_CL_HeartFailure.txt
+Height,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Height_with_SNOMED_Update.csv
+Height,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_height.csv
+Height,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Exposures/Min_Height_20240220.txt
+High density lipoprotein cholesterol level (HDL Cholesterol),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/HDL_Cholesterol_with_SNOMED_Update.csv
+High density lipoprotein cholesterol level (HDL Cholesterol),22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_HDL.txt
+Hip Circumference,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Exposures/Min_HipCirc_20240220.txt
+HIV AIDS,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/HIV_AIDS_with_SNOMED_Update.csv
+Hyperglycemia,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_hyperglycemia.txt
+Hyperprolactinaemia,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_Hyperprolactinaemia%20Aurum%20VF%2016%20Feb%202022.csv
+Hyperprolactinaemia,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_hyperprolactinaemia.csv
+Hypertension,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Hypertension_QOF_Codelist.csv
+Hypertension,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Hypertension.txt
+"Hyperthyroidism, Hyperparathroidism, Cushing's syndrome",22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_Hyperthyroidism%2C%20Hyperparathroidism%2C%20Cushing's%20syndrome%20Aurum%20VF%206%20Mar%202022.csv
+"Hyperthyroidism, Hyperparathroidism, Cushing's syndrome",22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_Hyperthyroidism%2C%20Hyperparathyroidism%2C%20Cushing's%20syndrome.csv
+Hypogonadism,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_Hypogonadism%20final%2010%20Feb%202022.csv
+Hypogonadism,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_hypogonadism.csv
+Impaired Mobility,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_impaired%20mobility.csv
+Insomnia,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Insomnia_with_SNOMED_Update.csv
+Intellectual Disability,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_ID_codes.csv
+Intellectual Disability,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_ID%20codes%20colour%20coded.csv
+International Normalised Ratio (INR),22_001273,Evaluation of Anaemia in a Primary Care Population,Suzanne Maynard,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/VM_IronDeficiency.txt
+Iron - Deficiency,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/VM_IronDeficiency.txt
+Irritable Bowel Syndrome (IBS/IBD),22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/VM_CL_IBS.txt
+Irritable Bowel Syndrome (IBS/IBD),22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_IBD.txt
+Kidney Injury - Acute,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/AcuteKidneyInjury_with_SNOMED_Update.csv
+Learning Difficulties,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_Learning%20diff%20exclusions%20VF%2021%20Apr%202021.csv
+Learning Disability,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/LearningDisability_with_SNOMED_Update.csv
+Low density lipoprotein cholesterol level (LDL Cholesterol),22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_LDL.txt
+Lupus,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Lupus_with_SNOMED_Update.csv
+Lymphocyte count,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/LymphocyteCount_with_SNOMED_Update.csv
+Lymphocyte Percentage,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/LymphocytePercentage_with_SNOMED_Update.csv
+Malabsorption,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_malabsorption.csv
+Malabsorption,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_Malabsorption%2C%20Crohn's%2C%20etc.csv
+Marital Status,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Maritalstatus.txt
+Mean cell haemoglobin (MCH),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/MCH_with_SNOMED_Update.csv
+Mean Corpuscular Haemoglobin (MCH),22-001836,CHD Anaemia,"Cynthia Wright Drakesmith, Margaret Smith",Gold,2024,https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/MeanCorpuscularHaemoglobin.csv
+Mean Corpuscular Haemoglobin (MCH),22-001873,Anaemia,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Anaemia/blob/main/Smith/Codelists/Mean_Corpuscular_Haemoglobin.csv
+Mean corpuscular haemoglobin concentration (MCHC),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/MCHC_with_SNOMED_Update.csv
+Mean Corpuscular Volume (MCV),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/MCV_with_SNOMED_Update.csv
+Mean Corpuscular Volume (MCV),22-001836,CHD Anaemia,"Cynthia Wright Drakesmith, Margaret Smith",Gold,2024,https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/MeanCorpuscularVolume.csv
+Mean Corpuscular Volume (MCV),22-001873,Anaemia,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Anaemia/blob/main/Smith/Codelists/Mean_Corpuscular_Volume.csv
+Mean platelet volume (MPV),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/MPV_with_SNOMED_Update.csv
+Monocyte count,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/MonocyteCount_with_SNOMED_Update.csv
+Monocyte Percentage,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/MonocytePercentage_with_SNOMED_Update.csv
+Multiple Sclerosis (MS),22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/AK_CL_Multiple_Sclerosis.txt
+Multiple Sclerosis (MS),22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Multiplesclerosis.txt
+Myeloma,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Myeloma_with_SNOMED_Update.csv
+Myocardial Infarction,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_mi.csv
+"Myocardial Infarction, Angina",22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_MI%20angina%20Aurum%20VF%206%20March%202022.csv
+Neutrophil count,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/NeutrophilCount_with_SNOMED_Update.csv
+Nuetrophil Percentage,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/NeutrophilPercentage_with_SNOMED_Update.csv
+Number of days per week of mod intensity physical activity,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/NumDaysPhysAct_with_SNOMED_Update.csv
+Obstructive Sleep Apnoea,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Aurum_OSA_codelist_240322.txt
+Obstructive Sleep Apnoea,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Gold_OSA_codelist_240322.txt
+Obstructive Sleep Apnoea,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Obstructivesleepapnoea.txt
+Osteoarthritis,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/IE_CL_Osteoarthritis.txt
+Osteoarthritis,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Covariates-Osteoarthristis.txt
+Osteoporosis,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Osteoporosis_QOF_Codelist.csv
+Palpitations,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Palpitations_with_SNOMED_Update.csv
+Parkinson's Disease,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/IE_CL_Parkinsons.txt
+Parkinson's Disease,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_Parkinsons.csv
+Patient Health Questionnaire 9 (PHQ-9),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/PHQ-9_with_SNOMED_Update.csv
+Peak flow rate (PFR),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/PeakFlowRate_with_SNOMED_Update.csv
+Peripheral Arterial Disease,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Peripheral_Arterial_Disease_QOF_Codelist.csv
+Peripheral Artery Disease (PAD),21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Peripheral%20Vasc%20disease/Aurum_PAD_codelist_080322.txt
+Peripheral Artery Disease (PAD),21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Peripheral%20Vasc%20disease/Gold_PAD_codelist_080322.txt
+Physical Activity,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Physicalactivity.txt
+Plasma viscosity,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/PlasmaViscosity_with_SNOMED_Update.csv
+Platelet count,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/PlateletCount_with_SNOMED_Update.csv
+Platelets,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/Platelet_Aurum181022.txt
+Platelets,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/platelets_Gold181022.txt
+Platelets - Continuous,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/CWD_CL_Platelets_Continuous_20241203.txt
+Polycystic Ovary Syndrome (PCOS),22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/AK_CL_PCOS.txt
+Polycystic Ovary Syndrome (PCOS),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/PCOS_with_SNOMED_Update.csv
+"Poor Mobility, Parkinsons",22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_Poor%20mobility%20Parkinson%20Aurum%20VF%2027%20March%202022.csv
+Postpartum Haemorrhage (PPH),22_001273,Evaluation of Anaemia in a Primary Care Population,Sarah Haynes,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SH_AK_PPH.txt
+Predicted peak flow rate,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/PredictedPeakFlowRate_with_SNOMED_Update.csv
+Preeclampsia,22_001273,Evaluation of Anaemia in a Primary Care Population,Sarah Haynes,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SH_AK_Preeclampsia.txt
+Preterm Birth,22_001273,Evaluation of Anaemia in a Primary Care Population,Sarah Haynes,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SH_AK_PreTerm_Birth.txt
+Protein C level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Protein_C_with_SNOMED_Update.csv
+Protein S level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Protein_S_with_SNOMED_Update.csv
+Psychosis - Diagnosis,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_Psychosis_diagnosis_20240304.txt
+Psychosis - Referral,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_Psychosis_referral_20240304.txt
+Pulse rate,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Pulse_with_SNOMED_Update.csv
+Random blood sugar,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/RandomBloodSugar_with_SNOMED_Update.csv
+Red blood cell count (RBC),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/RedBloodCellCount_with_SNOMED_Update.csv
+Red blood cell distribution width (RDW),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/RDW_with_SNOMED_Update.csv
+Renal Failure,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Renalfailure.txt
+Rheumatoid Arthritis,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/IE_CL_Rheumatoid_Arthritis.txt
+Rheumatoid Arthritis,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Rheumatoid_Arthritis_QOF_Codelist.csv
+Rheumatoid Arthritis,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Aurum_RheumArthritis_codelist_090922.txt
+Rheumatoid Arthritis,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Gold_RheumArthritis_codelist_090922.txt
+"Rheumatoid Arthritis, Systemic Lupus Erythematosus (SLE)",22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_Rheumatoid%20arthritis%20or%20SLE%20Aurum%20VF%2027%20March%202022.csv
+"Rheumatoid Arthritis, Systemic Lupus Erythematosus (SLE)",22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_Rheumatoid%20arthritis%20and%20SLE.csv
+Rheumatoid factor,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/RheumatoidFactor_with_SNOMED_Update.csv
+Rhinitis,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/VM_CL_Rhinitis.txt
+Rubella,22-001836,CHD Anaemia,"Cynthia Wright Drakesmith, Margaret Smith",Gold,2024,https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/Rubella.csv
+Sarcopenia,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Sarcopenia.txt
+Schizoprenia - Diagnosis,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_Schizophrenia_diagnosis_20240304.txt
+Self Harm,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_Self-injurious%20behaviour%20Aurum%20VF%2027%20March%202022.csv
+Self Harm,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_Self-injur%20and%20harm.csv
+Sepsis,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Sepsis_with_SNOMED_Update.csv
+Serum Alanine Amino Transferase - Continuous,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/CWD_CL_SerumAlanineAminoTransferase_Continuous_20241203.txt
+Serum alanine aminotransferase level (ALT),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumAminotransferaseALT_with_SNOMED_Update.csv
+Serum albumin level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumAlbumin_with_SNOMED_Update.csv
+Serum alkaline phosphatase level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumAlkalinePhosphatase_with_SNOMED_Update.csv
+Serum amylase level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumAmylase_with_SNOMED_Update.csv
+Serum Aspartate Aminotransferase level,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/CWD_CL_SerumAspartateAminoTransferase_Continuous_20241203.txt
+Serum Aspartate Aminotransferase level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumAspartateTransaminase_with_SNOMED_Update.csv
+Serum bilirubin level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumBilrubin_with_SNOMED_Update.csv
+Serum calcium level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumCalcium_with_SNOMED_Update.csv
+Serum cholesterol/high density lipoprotein ratio (HDL),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Total_Chol_HDL_ratio_with_SNOMED_Update.csv
+Serum creatinine level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumCreatinine_with_SNOMED_Update.csv
+Serum folate level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Folate_with_SNOMED_Update.csv
+Serum iron level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumIron_with_SNOMED_Update.csv
+Serum lactate dehydrogenase level (LDH),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/LactateDehydrongenase_with_SNOMED_Update.csv
+Serum low density lipoprotein cholesterol level (LDL Cholesterol),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/LDL_Cholesterol_with_SNOMED_Update.csv
+Serum non high density lipoprotein cholesterol level (Non HDL Cholesterol),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/NonHDL_Cholesterol_with_SNOMED_Update.csv
+Serum oestradiol level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Oestradiol_with_SNOMED_Update.csv
+Serum potassium level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumPotassium_with_SNOMED_Update.csv
+Serum pro-BNP peptide level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumProBNPPeptide_with_SNOMED_Update.csv
+Serum progesterone level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Progesterone_with_SNOMED_Update.csv
+Serum sodium level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumSodium_with_SNOMED_Update.csv
+Serum thyroid stimulating hormone level (TSH),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/ThyroidStimulatingHormone_with_SNOMED_Update.csv
+Serum total cholesterol level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/TotalSerumCholesterol_with_SNOMED_Update.csv
+Serum total iron binding capacity (TBIC),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/TotalIronBindingCapacity_with_SNOMED_Update.csv
+Serum total protein,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumProtein_with_SNOMED_Update.csv
+Serum urea level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumUrea_with_SNOMED_Update.csv
+Serum vitamin B12 level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/SerumB12_with_SNOMED_Update.csv
+Serum vitamin D level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/VitaminD_with_SNOMED_Update.csv
+Severe Mental Illness,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Severe_Mental_Illness_QOF_Codelist.csv
+Severe Mental Illness Symptoms,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Outcomes/Min_CL_SMI_symptom_20240304.txt
+Skin Infection,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Skinsofttissueinfection.txt
+Skin Lesion,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Bleeding%20and%20negative%20outcomes/Aurum_skinlesion_codelist_300323.txt
+Skin Lesion,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Bleeding%20and%20negative%20outcomes/Gold_skinlesion_codelist_300323.txt
+Smoking,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Smoking_with_SNOMED_Update.csv
+Smoking,22-001836,CHD Anaemia,"Cynthia Wright Drakesmith, Margaret Smith",Gold,2024,https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/Smoking.csv
+Smoking,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_smoking.csv
+Smoking,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Smoking.txt
+Smoking - Current Smoker,22_001273,Evaluation of Anaemia in a Primary Care Population,Sarah Haynes,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SH_AK_Current_Smoker.txt
+Smoking - Ex Smoker,22_001273,Evaluation of Anaemia in a Primary Care Population,Sarah Haynes,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SH_AK_Ex_Smoker.txt
+Smoking - Never Smoked,22_001273,Evaluation of Anaemia in a Primary Care Population,Sarah Haynes,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SH_AK_Never_Smoked.txt
+Stroke,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/AK_CL_Stroke.txt
+Stroke,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Stroke.txt
+Stroke (TIA),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Stroke_TIA_QOF_Codelists.csv
+"Stroke, Transient Ischaemic Attack (TIA)",22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_Stroke%20TIA%20Aurum%20VF%2027%20March%202022.csv
+"Stroke, Transient Ischaemic Attack (TIA)",22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_stroke%20and%20tia.csv
+Systolic Blood Pressure,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Systolic_with_SNOMED_Update.csv
+Systolic Blood Pressure,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Systolic_20240417.txt
+Transplant - Liver,22_001273,Evaluation of Anaemia in a Primary Care Population,Suzanne Maynard,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SM_CL_livertransplant.txt
+Thrombocythaemia,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/Aurum_Thrombocythaemia_codes141022.txt
+Thrombocythaemia,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/Gold_Thrombocythaemia_codes141022.txt
+Thrombocytopenia,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/Aurum_Thrombocytopenia_codes141022.txt
+Thrombocytopenia,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Tests/Gold_Thrombocytopenia_codes141022.txt
+Thyroid Disease,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Thyroiddisease.txt
+Thyrotoxicosis,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Thyrotoxicosis_with_SNOMED_Update.csv
+Tinnitus,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Tinnitus_with_SNOMED_Update.csv
+Transfusion,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Bleeding%20and%20negative%20outcomes/Aurum_transfusion_codelist_220323.txt
+Transfusion,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Bleeding%20and%20negative%20outcomes/Gold_transfusion_codelist_220323.txt
+Triglycerides Level,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Triglycerides.txt
+Ulcerative Colitis,22_001273,Evaluation of Anaemia in a Primary Care Population,Alvin Katumba,Aurum,2024,https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/VM_CL_UlcerativeColitis.txt
+Unemployment,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Riskfactors/Unemployment_with_SNOMED_Update.csv
+Urinary Tract Infection (UTI) - Acute,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Aurum,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Aurum_AcuteUTI_codelist_300323.txt
+Urinary Tract Infection (UTI) - Acute,21_000380,Respiratory infection related cardiovascular disease,Joseph Lee,Gold,2020,https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Gold_AcuteUTI_codelist_300323.txt
+Urine albumin : creatinine ratio,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/UrioneAbuminCreatinineRatio_with_SNOMED_Update.csv
+Urine albumin level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/UrineAlbumin_with_SNOMED_Update.csv
+Urine creatinine level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/UrineCreatinineLevel_with_SNOMED_Update.csv
+Urine protein level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/UrineProtein_with_SNOMED_Update.csv
+Urine urea level,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Urea_Urine_with_SNOMED_Update.csv
+Visual Impairment,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_visual%20impairment.csv
+Visual Impairment,22-000453,ID Fracture,Margaret Smith,Gold,2024,https://github.com/ndpchs-cprd/18-186-Gold-IDFracture/blob/main/Codelists/standardized_visual%20impairment.csv
+Waist Circumference,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Exposures/Min_WaistCirc_20240220.txt
+Waist/Hip Ratio,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Exposures/Min_WaistHip_20240220.txt
+Weight,22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Weight_with_SNOMED_Update.csv
+Weight,22-000453,ID Fracture,Margaret Smith,Aurum,2024,https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_weight.csv
+Weight,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Exposures/Min_Weight_20240220.txt
+Weight Gain - Unexpected,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Unexpectedweightgain.txt
+Weight Loss - Intentional,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_intentionalweightloss.txt
+Weight Loss - Unexpected,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Unexpectedweightloss.txt
+Weight Management - Advice,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Exposures/Min_CL_Weightmanagementadvice.txt
+Weight Management - Referral,22_002449,Excess Weight and Mental Health,Min Gao,Aurum,2024,https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Exposures/Min_CL_Weightmanagementreferral.txt
+White blood cell count (WCC),22-001771,COMPUTE,Cynthia Wrght Drakesmith,Aurum,2023,https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/WhiteBloodCellCount_with_SNOMED_Update.csv
+Alcohol - Advice,23_002466,Consultation Catergorisation,Laura Heath,Aurum,2024,https://github.com/ndpchs-cprd/23-002466/blob/main/Codelists/alcohol_advice.txt
+Alcohol - Referral,23_002466,Consultation Catergorisation,Laura Heath,Aurum,2024,https://github.com/ndpchs-cprd/23-002466/blob/main/Codelists/alcohol_referral.txt
+Palliative Care,23_002466,Consultation Catergorisation,Laura Heath,Aurum,2024,https://github.com/ndpchs-cprd/23-002466/blob/main/Codelists/palliative.txt
+Physical Activity - Advice,23_002466,Consultation Catergorisation,Laura Heath,Aurum,2024,https://github.com/ndpchs-cprd/23-002466/blob/main/Codelists/physical%20activity_advice.txt
+Physical Activiy - Referral,23_002466,Consultation Catergorisation,Laura Heath,Aurum,2024,https://github.com/ndpchs-cprd/23-002466/blob/main/Codelists/physical%20activity_referral.txt
+Smoking - Advice,23_002466,Consultation Catergorisation,Laura Heath,Aurum,2024,https://github.com/ndpchs-cprd/23-002466/blob/main/Codelists/smoking_advice.txt
+Smoking - Referral,23_002466,Consultation Catergorisation,Laura Heath,Aurum,2024,https://github.com/ndpchs-cprd/23-002466/blob/main/Codelists/smoking_referral.txt
+Weight - Advice,23_002466,Consultation Catergorisation,Laura Heath,Aurum,2024,https://github.com/ndpchs-cprd/23-002466/blob/main/Codelists/weight_advice.txt
+Weight - Referral,23_002466,Consultation Catergorisation,Laura Heath,Aurum,2024,https://github.com/ndpchs-cprd/23-002466/blob/main/Codelists/weight_referral.txt
+Alcohol Status - Alcohol Dependence,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Alcohol_status_Alcohol_dependence.csv
+Alcohol Status - Current Drinker,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Alcohol_status_current_drinker.csv
+Alcohol Status - Current Hazard Drinker,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Alcohol_status_current_drinker_hazard.csv
+Alcohol Status - Non Drinker,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Alcohol_status_non_drinker.csv
+Alcohol Status - Past Drinker,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Alcohol_status_past_drinker.csv
+Gout - Arthritis Inflammatory,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Arthritis_inflammatory_Gout.csv
+Arthritis Inflammatory - Other Inflammatory,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Arthritis_inflammatory_Other_Inflammatory.csv
+Polymyalgia Rheumatica - Arthritis Inflammatory,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Arthritis_inflammatory_Polymyalgia_rheumatica.csv
+Psoriatic Arthritis - Arthritis Inflammatory,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Arthritis_inflammatory_Psoriatic_arthritis.csv
+Rheumatoid Arthritis - Arthritis Inflammatory,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Arthritis_inflammatory_Rheumatoid_arthritis.csv
+Systemic Lupus Erythematosus - Arthritis Inflammatory,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Arthritis_inflammatory_SLE.csv
+Osteoarthritis - Arthritis Non-Inflammatory,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Arthritis_non-inflammatory_Osteoarthritis.csv
+Body Mass Index (BMI),21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/BMI_BMI.csv
+Cancer - Anal,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Anal.csv
+Cancer - Biliary,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Biliary.csv
+Cancer - Bladder,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Bladder.csv
+Cancer - Bone,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Bone.csv
+Cancer- Brain,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Brain.csv
+Cancer - Breast,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Breast.csv
+Cancer - Central Nervous System (CNS),21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_CNS.csv
+Cancer - Cervix,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Cervix.csv
+Cancer - Colon,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Cervix.csv
+Cancer - Colorectal,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Colon.csv
+Cancer - Soft Tissue,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Colorectal.csv
+Cancer - Connective and Soft Tissue,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Connective%20and%20soft%20tissue.csv
+Cancer - Connective Tissue,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Connective%20tissue.csv
+Cancer - Endocrine,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Endocrine.csv
+Cancer - Eye,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Eye.csv
+Cancer - Gallbladder,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Gallbladder.csv
+Cancer - Gastric,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Gastric.csv
+Cancer - Head and Neck,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Head%20and%20neck.csv
+Cancer - Kidney,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Kidney.csv
+Cancer - Leukaemia,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Leukaemia.csv
+Cancer - Leukemia,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Leukemia.csv
+Cancer - Liver,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Liver.csv
+Cancer - Lung,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Lung.csv
+Cancer - Lymphoma,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Lymphoma.csv
+Cancer - Melanoma of Skin,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Melanoma%20of%20skin.csv
+Cancer - Melanoma,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Melanoma.csv
+Cancer - Meninge,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Meninge.csv
+Cancer - Meninges,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Meninges.csv
+Cancer - Myeloma,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Myeloma.csv
+Cancer - Oesophagus,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Oesophagus.csv
+Cancer - Other Female,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Other%20female.csv
+Cancer - Other Haemotological,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Other%20haematological.csv
+Cancer - Other Male,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Other%20male.csv
+Cancer - Other Thoracic,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Other%20thoracic.csv
+Cancer - Other,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Other.csv
+Cancer - Ovarian,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Ovarian.csv
+Cancer - Ovary,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Ovary.csv
+Cancer - Pancreas,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Pancreas.csv
+Cancer - Papiliary,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Papiliary.csv
+Cancer - Penis,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Penis.csv
+Cancer - Prostate,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Prostate.csv
+Cancer - Rectum,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Rectum.csv
+Cancer - Secondary Cancer,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Secondary%20cancer.csv
+Cancer - Small Intestine,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Small%20intestine.csv
+Cancer - Spine,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Spine.csv
+Cancer - Stomach,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Stomach.csv
+Cancer - Testis,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Testis.csv
+Cancer - Thoracic,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Thoracic.csv
+Cancer - Thyroid,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Thyroid.csv
+Cancer - Unspecified,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Unspecified.csv
+Cancer - Uretine,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Uretine.csv
+Cancer - Uterine,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Uterine.csv
+Cancer - Vulvovaginal,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cancer_Vulvovaginal.csv
+Aortic Valve Disease,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cardiovascular_Aortic_valve_D.csv
+Atrial Fibrillation,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cardiovascular_Atrial_fibrilation.csv
+Cardiac Failure,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cardiovascular_Cardiac_failure.csv
+Stroke - Ischemic Heamorraghic,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cardiovascular_IschemicHeamorraghic_stroke.csv
+Mitral Valve Disease,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cardiovascular_Mitral_valve_D.csv
+"Myocardial Infarction, Angina, Ischemic Heart Disease",21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cardiovascular_Myocardial_infarctionanginaischemic_heart_D.csv
+Peripheral Vascular Disease,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cardiovascular_Peripheral_vascular_D.csv
+"Thromosis, Embolism",21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Cardiovascular_Thrombosisembolism.csv
+"Vessel atherosclerosis, Aneurysm, Stenosis",21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/edit/main/Codelists/Cardiovascular_Vessel_atherosclerosisaneurysmstenosis.csv
+Complex Regional Pain & Chronic Pain (Excluding Back Pain),21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Chronic_pain_syndrome_Complex_Regional_Pain_SChronic_pain_exclback_pain.csv
+Fibromyalgia,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Chronic_pain_syndrome_Fibromyalgia.csv
+Diabetes - Type 1,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Diabetes_Diabetes_Mellitus_I.csv
+Diabetes - Type 2,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Diabetes_Diabetes_Mellitus_II.csv
+Diabetes Mellitus - Unclear,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Diabetes_Diabetes_Mellitus_unclear.csv
+Constipation,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Digestive_Constipation.csv
+Chrons Disease,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Digestive_Crohns_D.csv
+Duodenal Ulcer without Haemorrhage,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Digestive_Duodenal_Ulcer_without_haemorrhage.csv
+Gall Bladder Stone,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Digestive_Gall_bladder_stone.csv
+Gastric Ulcer,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Digestive_Gastric_Ulcer.csv
+Gastritis,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Digestive_Gastritis.csv
+Gastrointestinal Bleed,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Digestive_Gastrointestinal_bleed.csv
+Irritable Bowel Syndrome,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Digestive_Irritable_Bowel_Syndrome.csv
+Liver Disease,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Digestive_Liver_Disease.csv
+Ulcerative Colitis,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Digestive_Ulcerative_Colitis.csv
+Eating Disorders,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Eating_disorders_Eating_disorders.csv
+Benign Prostatic Hypertrophy,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Genitourinary_Benign_Prostatic_Hypertrophy.csv
+"Chronic Kidney Disease - Stage 3,4,5",21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Genitourinary_Chronic_Kidney_D_StageIII.csv
+Dysmenorrhea,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Genitourinary_Dysmenorrhoea.csv
+Pelvic Inflammatory Disease (Female),21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Genitourinary_Female_Pelvic_Inflammatory_D.csv
+Pelvic Pain,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Genitourinary_Pelvic_pain.csv
+Renal Stone,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Genitourinary_Renal_stone.csv
+Hypertension,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Hypertension_Hypertension.csv
+Migraine,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Migraine_Migraine.csv
+Neck Pain,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Neck_pain_Neck_pain.csv
+Dementia,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Neurological_Dementia.csv
+Multiple Sclerosis (MS),21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Neurological_Multiple_Sclerosis.csv
+Parkinson's Disease,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Neurological_Parkinsons_D.csv
+Neuraliga Postherpetic & Trigemincal,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Neuropathic_pain_Neuraliga_PostherpeticTrigeminal.csv
+Neuropathic Pain,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Neuropathic_pain_Neuropathic_pain.csv
+Opiod Misuse,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Opioid_misuse_Opioid_misuse.csv
+Osteoporosis,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Osteoporosis_Osteoporosis.csv
+Polycystic Ovary Syndrome (PCOS),21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/PCOS_PCOS.csv
+Anxiety,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Psychiatric_Anxiety.csv
+Bipolar,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Psychiatric_Bipolar.csv
+Depression,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Psychiatric_Depression.csv
+Psychosis,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Psychiatric_Psychosis.csv
+Schizoprenia,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Psychiatric_Schizophrenia.csv
+Asthma,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Respiratory_Asthma.csv
+Bronchiectasis,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Respiratory_Bronchiectasis.csv
+Chronic Obstructive Pulmonary Disease (COPD),21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Respiratory_COPD.csv
+Sleep Disorders,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Sleep_disorders_insomniaapnea.csv
+Smoking Status - Current Smoker,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Smoking_status_current_smoker.csv
+Smoking Status - Ex-Smoker,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Smoking_status_ex_smoker.csv
+Smoking Status - Non-Smoker,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Smoking_status_non_smoker.csv
+Hyperthyroidism,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Thyroid_disease_Hyperthyroidism.csv
+Hypothyroidism,21_002323,CanBack,Aron Downie,Aurum,2024,https://github.com/ndpchs-cprd/12-21-002323-CanBack/blob/main/Codelists/Thyroid_disease_Hypothyroidism.csv

@@ -1,0 +1,4 @@
+	MedCodeId	Observations	Term	category
+0	423142010	100000	Hip circumference	continuous
+1	856021000006112	40000	Hip measurement	continuous
+2	991851000006119	3	Hip circumference	continuous

@@ -1,0 +1,114 @@
+	MedCodeId	Observations	Term	weight_management_referral																																													
+0	a2154209017	300000	Refer to weight management programme	weight_management_referral																																													
+1	a297811000000117	100000	Weight management programme offered	weight_management_referral																																													
+2	a1709681000000111	80000	Referral to weight management service offered	weight_management_referral																																													
+3	a14176391000006111	40000	Referral to weight management service	weight_management_referral																																													
+4	a1721501000000113	30000	Referral to local authority weight management programme	weight_management_referral																																													
+5	a1844501000006115	900	Referral to weight management special interest general practitioner	weight_management_referral																																													
+6	a2173321000000116	500	Referral to residential weight management programme	weight_management_referral																																													
+7	a6759901000006112	10	Refer to weight management program	weight_management_referral																																													
+8	a1750991000000117	100000	Weight management service opportunity signposted	weight_management_referral																																													
+9	a2714971000000116	6000	Signposting to weight management service	weight_management_referral																																													
+10	a8278851000006114	3	Referral to weight management GPwSI (general practitioner with special interest)	weight_management_referral																																													
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	

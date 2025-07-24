@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 72
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+0                    36276\t"N043300"\t129\t0\t1\t0\t"Monarticular juvenile rheumatoid arthritis"\t"February 2009"
+1                                        46436\t"N042100"\t34\t0\t1\t0\t"Rheumatoid lung disease"\t"February 2009"
+2                           31209\t"F396400"\t22\t0\t1\t0\t"Myopathy due to rheumatoid arthritis"\t"February 2009"

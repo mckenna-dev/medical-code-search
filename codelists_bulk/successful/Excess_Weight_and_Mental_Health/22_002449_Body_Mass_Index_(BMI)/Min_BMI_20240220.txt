@@ -1,0 +1,52 @@
+	MedCodeId	Observations	Term	BMI category
+0	3484801000006114	7000	BMI - Body mass index	continuous
+1	100716012	100000000	Body mass index	continuous
+2	923861000006112	4000	Body mass index	continuous
+3	2196071000000116	2000	Baseline body mass index	continuous
+4	8286991000006119	30	Baseline BMI (body mass index)	continuous
+5	11923361000006119	10000	Finding of body mass index	continuous
+6	981741000006110	700	Underweight: adult BMI 18.5; child BMI 5th percentile; or less	underweight
+7	1808061000006114	100	Body mass index less than 18.5	underweight
+8	7068841000006116	2	Body mass index less than 16.5	underweight
+9	253846010	100000	Decreased body mass index	underweight
+10	2159952010	30000	Underweight	underweight
+11	253687013	20000	O/E - Underweight	underweight
+12	910261000006112	100	[RFC] Underweight	underweight
+13	2474325012	200000	Body mass index 20-24 - normal	normalweight
+14	3070611000006119	1	Normal BMI (body mass index)	normalweight
+15	1808071000006119	1	Body mass index 18.5-24.9	normalweight
+16	253844013	1000000	Normal body mass index	normalweight
+17	253847018	1000000	Body mass index index 25-29 - overweight	overweight
+18	4553701000006115	20000	Body mass index 25-29 - overweight	overweight
+19	4553721000006113	200	BMI 25-29 - overweight	overweight
+20	981731000006117	200	Overweight: adult BMI 25.0; child BMI 95th percentile; or more	overweight
+21	7833991000006118	60	Overweight in adulthood with body mass index of 25 or more but less than 30	overweight
+22	253845014	800000	Increased body mass index	overweight
+23	411922013	100000	O/E - overweight	overweight
+24	356960015	20000	Overweight	overweight
+25	910251000006110	3000	[RFC] Overweight	overweight
+26	2350241000000116	20000	Obese class I (body mass index 30.0 - 34.9)	obese
+27	2350261000000115	10000	Obese class II (body mass index 35.0 - 39.9)	obese
+28	12113181000006115	60	Obese class II	obese
+29	12113161000006113	10	Obese class I	obese
+30	857321000006113	20000	Moderately obese	obese
+31	253848011	2000000	Body mass index 30+ - obesity	obese
+32	280881000006115	100000	O/E - obese	obese
+33	253576010	30000	O/E - obese	obese
+34	6866991000006116	800	Obese	obese
+35	4553741000006118	200	BMI 30+ - obesity	obese
+36	2535065012	2000000	Obesity	obese
+37	451432013	10000	Simple obesity	obese
+38	356966014	4000	Generalised obesity	obese
+39	434770018	700	Lifelong obesity	obese
+40	293803016	500	[X]Other obesity	obese
+41	2160062010	200000	Body mass index 40+ - severely obese	severely obese
+42	1900331000006113	10000	Obese class III (body mass index equal to or greater than 40.0)	severely obese
+43	857911000006118	10000	Very obese	severely obese
+44	13926671000006119	60	Obese class III	severely obese
+45	6763391000006114	10	Body mass index 40+ - morbidly obese	severely obese
+46	6763401000006111	1	BMI (body mass index) 40+ - severely obese	severely obese
+47	8024931000006112	8	Severe obesity	severely obese
+48	356968010	100000	Morbid obesity	severely obese
+49	453856012	300000	Body mass index less than 20	BMI_lessthan20
+50	5998281000006119	100	BMI less than 20	BMI_lessthan20

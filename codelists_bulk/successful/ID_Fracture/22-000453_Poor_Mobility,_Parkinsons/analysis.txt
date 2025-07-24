@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 429
+Columns: 9
+Column names: ['MedCodeId', 'Term', 'Observations', 'SNOMED_CT_Concept_ID', 'OriginalReadCode', 'CleansedReadCode', 'SnomedCTDescriptionId', 'Unnamed: 7', 'Search terms: *pleg* * mobil* * wheelchair*  *cerebral palsy*  * spast*  * walk* *coordin*  * unstead*  *balance*']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId                           Term  Observations  SNOMED_CT_Concept_ID OriginalReadCode
+0   19943011                   Quadriplegia         10000              11538006             F240
+1   19944017                    Tetraplegia         10000              11538006           F240-1
+2   66483014  Hereditary spastic paraplegia          8000              39912006             F141

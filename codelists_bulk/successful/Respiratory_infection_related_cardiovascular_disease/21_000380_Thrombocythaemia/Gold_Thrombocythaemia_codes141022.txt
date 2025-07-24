@@ -1,0 +1,7 @@
+medcode	readcode	clinical_events	immunisation_events	referral_events	test_events	read_term	database_build
+31560	"B937.12"	83	0	2	0	"Idiopathic thrombocythaemia"	"February 2009"
+17386	"B937500"	1121	0	49	2	"Idiopathic thrombocythaemia"	"February 2009"
+3320	"42P3.00"	9210	0	1628	7559	"Thrombocythaemia"	"February 2009"
+11950	"B937400"	1980	0	48	0	"Essential (haemorrhagic) thrombocythaemia"	"February 2009"
+12265	"B937411"	738	0	33	0	"Primary thrombocythaemia"	"February 2009"
+30043	"BBs4.00"	335	0	14	0	"[M]Idiopathic thrombocythaemia"	"February 2009"

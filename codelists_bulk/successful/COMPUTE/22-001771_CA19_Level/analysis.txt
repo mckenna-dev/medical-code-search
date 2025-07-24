@@ -1,0 +1,11 @@
+=== FILE ANALYSIS ===
+Rows: 2
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                       Term  SNOMED_CT_Concept_ID
+0         457873013         66525        CA 19-9 (cancer antigen 19-9) level      1030691000000107
+1  2337341000000111         45925  Serum CA 19-9 (cancer antigen 19-9) level      1000451000000106

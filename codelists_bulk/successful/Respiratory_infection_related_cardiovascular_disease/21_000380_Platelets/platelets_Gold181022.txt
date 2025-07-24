@@ -1,0 +1,5 @@
+medcode	readterm	type
+7	"Platelet count"	"platelets"
+26927	"Platelet count normal"	"platelets"
+26926	"Platelet count NOS"	"platelets"
+4415	"Platelet count abnormal"	"platelets"

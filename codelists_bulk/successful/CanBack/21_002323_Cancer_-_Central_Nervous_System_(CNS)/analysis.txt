@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 14
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                                                                      Term
+0    792          Cancer             CNS  a728461000006112                                Malig neopl peripheral nerves and autonomic nervous system
+1    793          Cancer             CNS  a720001000006119  Malignant neoplasm, overlapping lesion of peripheral nerves and autonomic nervous system
+2    794          Cancer             CNS  a730491000006117                                 Mal neoplasm/periph nerves+autonomic nervous system,unspc

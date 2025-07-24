@@ -1,0 +1,44 @@
+{
+  "original_file": "codelists_bulk\\successful\\ID_Fracture\\22-000453_Fracture\\standardized_cprd%20fracture%20codes.csv",
+  "original_columns": [
+    "MedCodeId",
+    "Term",
+    "Observations",
+    "SNOMED_CT_Concept_ID",
+    "readterm",
+    "readcode",
+    "MOP Site",
+    "Unnamed: 4",
+    "Major osteoporotic site",
+    "ICD-10 code",
+    "ICD-10 term"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "snomed_ct_concept_id": "SNOMED_CT_Concept_ID",
+    "observations": "Observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "snomed_ct_concept_id": {
+      "column": "SNOMED_CT_Concept_ID",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 1046,
+  "rows_standardized": 1046,
+  "project": "ID_Fracture",
+  "codelist": "22-000453_Fracture"
+}

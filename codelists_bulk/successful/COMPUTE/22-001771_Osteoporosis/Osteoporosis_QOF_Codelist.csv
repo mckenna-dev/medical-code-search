@@ -1,0 +1,40 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+Postmenopausal osteoporosis (disorder),b102447009,Osteoporosis codes,a54058015,10000,Postmenopausal osteoporosis
+Drug-induced osteoporosis (disorder),b14651005,Osteoporosis codes,a24883018,3000,Drug-induced osteoporosis
+Postoophorectomy osteoporosis (disorder),b203433000,Osteoporosis codes,a312133010,100,Postoophorectomy osteoporosis
+Post-surgical malabsorption osteoporosis (disorder),b203434006,Osteoporosis codes,a212431000006119,10,Postsurgical malabsorption osteoporosis
+Osteoporosis in endocrine disorders (disorder),b203437004,Osteoporosis codes,a312138018,200,Osteoporosis in endocrine disorders
+Vertebral osteoporosis (disorder),b203438009,Osteoporosis codes,a312139014,20000,Vertebral osteoporosis
+Postoophorectomy osteoporosis with pathological fracture (disorder),b203444008,Osteoporosis codes,a312156018,20,Postoophorectomy osteoporosis with pathological fracture
+Osteoporosis of disuse with pathological fracture (disorder),b203445009,Osteoporosis codes,a312157010,200,Osteoporosis of disuse with pathological fracture
+Idiopathic osteoporosis with pathological fracture (disorder),b203448006,Osteoporosis codes,a312160015,1000,Idiopathic osteoporosis with pathological fracture
+Osteoporotic fracture of thoracic vertebra (disorder),b203451004,Osteoporosis codes,a40891000006118,9000,Osteoporosis with pathological fracture of thoracic vertebrae
+Osteoporotic fracture of cervical vertebra (disorder),b203452006,Osteoporosis codes,a40871000006119,200,Osteoporosis with pathological fracture of cervical vertebrae
+Osteoporotic kyphosis (disorder),b203657009,Osteoporosis codes,a312441019,4000,Osteoporotic kyphosis
+Adult idiopathic generalized osteoporosis (disorder),b240155001,Osteoporosis codes,a5144161000006119,2,Adult idiopathic generalised osteoporosis
+Osteoporotic vertebral collapse (disorder),b240198002,Osteoporosis codes,a359833013,50000,Osteoporotic vertebral collapse
+Osteoporotic vertebral collapse (disorder),b240198002,Osteoporosis codes,a455536018,3000,Collapse of vertebra due to osteoporosis
+Osteoporosis localized to spine (disorder),b309745002,Osteoporosis codes,a453226012,5000,Osteoporosis localised to spine
+Osteoporosis caused by corticosteroid (disorder),b390833005,Osteoporosis codes,a1484866013,700,Osteoporosis due to corticosteroids
+Osteoporosis caused by corticosteroid (disorder),b390833005,Osteoporosis codes,a6515141000006116,10,Osteoporosis due to corticosteroid
+Disuse osteoporosis (disorder),b53174001,Osteoporosis codes,a496578010,70,Disuse atrophy of bone
+Disuse osteoporosis (disorder),b53174001,Osteoporosis codes,a625381000006110,300,Dissuse osteoporosis
+Disuse osteoporosis (disorder),b53174001,Osteoporosis codes,a3362291000006115,20,Disuse osteoporosis
+Premenopausal idiopathic osteoporosis (disorder),b735617003,Osteoporosis codes,a3515006019,1,Premenopausal idiopathic osteoporosis
+Osteoporosis due to malabsorption (disorder),b735618008,Osteoporosis codes,a3515008018,1,Osteoporosis due to malabsorption
+Senile osteoporosis (disorder),b18040001,Osteoporosis codes,a30475015,5000,Senile osteoporosis
+Idiopathic generalized osteoporosis (disorder),b203429007,Osteoporosis codes,a786501000006117,1000,Idiopathic generalised osteoporosis
+Pathological fracture co-occurrent and due to drug-induced osteoporosis (disorder),b203447001,Osteoporosis codes,a312159013,400,Drug-induced osteoporosis with pathological fracture
+Osteoporotic fracture of lumbar vertebra (disorder),b203450003,Osteoporosis codes,a40881000006116,9000,Osteoporosis with pathological fracture of lumbar vertebrae
+Postmenopausal osteoporosis with pathological fracture (disorder),b203453001,Osteoporosis codes,a312165013,1000,Postmenopausal osteoporosis with pathological fracture
+Secondary generalized osteoporosis (disorder),b240157009,Osteoporosis codes,a5144201000006113,20,Secondary generalised osteoporosis
+Primary osteoporosis (disorder),b276661002,Osteoporosis codes,a5588801000006119,40,Primary osteoporosis
+Primary osteoporosis (disorder),b276661002,Osteoporosis codes,a5588811000006116,2,Age-related osteoporosis
+Menopausal osteoporosis (disorder),b32369003,Osteoporosis codes,a3021381000006110,1,Menopausal osteoporosis
+Idiopathic osteoporosis (disorder),b3345002,Osteoporosis codes,a2552271000006117,20,Idiopathic osteoporosis
+Osteoporosis (disorder),b64859006,Osteoporosis codes,a107806013,2000000,Osteoporosis
+Osteoporosis (disorder),b64859006,Osteoporosis codes,a312124013,20000,"Osteoporosis, unspecified"
+Osteoporosis (disorder),b64859006,Osteoporosis codes,a312142015,30000,Osteoporosis NOS
+Osteoporosis (disorder),b64859006,Osteoporosis codes,a312682011,700,[X]Other osteoporosis
+Osteoporosis (disorder),b64859006,Osteoporosis codes,a312683018,30,[X]Osteoporosis in other disorders classified elsewhere
+Osteoporosis (disorder),b64859006,Osteoporosis codes,a3555091000006111,3,OP - Osteoporosis

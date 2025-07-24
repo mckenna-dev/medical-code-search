@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 24
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order  Flag_classifyL1 Flag_classifyL2           MedCodeID                                                                      Term
+0   8420  Sleep_disorders  insomnia+apnea          a111701012                                                           Middle insomnia
+1   8421  Sleep_disorders  insomnia+apnea  a11639631000006119  Recommendation to use digital cognitive behavioural therapy for insomnia
+2   8422  Sleep_disorders  insomnia+apnea  a11998341000006118                                             Insomnia Severity Index score

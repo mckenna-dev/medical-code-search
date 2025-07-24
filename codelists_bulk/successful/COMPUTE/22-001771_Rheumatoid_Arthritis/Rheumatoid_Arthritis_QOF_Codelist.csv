@@ -1,0 +1,99 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+Diffuse interstitial rheumatoid disease of lung (disorder),b10713006,Rheumatoid arthritis diagnosis codes,a311496011,2000,Fibrosing alveolitis associated with rheumatoid arthritis
+Rheumatoid arthritis of left hip (disorder),b1073721000119103,Rheumatoid arthritis diagnosis codes,a3528264013,5,Rheumatoid arthritis of left hip
+Rheumatoid arthritis of left wrist (disorder),b1073751000119106,Rheumatoid arthritis diagnosis codes,a13687691000006111,1,Rheumatoid arthritis of left wrist
+Rheumatoid arthritis of right hand (disorder),b1073791000119101,Rheumatoid arthritis diagnosis codes,a3528262012,1,Rheumatoid arthritis of right hand
+Rheumatoid arthritis of right hip (disorder),b1073801000119100,Rheumatoid arthritis diagnosis codes,a3528266010,5,Rheumatoid arthritis of right hip
+Rheumatoid arthritis of right knee (disorder),b1073811000119102,Rheumatoid arthritis diagnosis codes,a8447281000006115,4,Rheumatoid arthritis of right knee
+Deformity of left foot co-occurrent and due to rheumatoid arthritis (disorder),b1073891000119106,Rheumatoid arthritis diagnosis codes,a3527061011,1,Deformity of left foot co-occurrent and due to rheumatoid arthritis
+Rheumatoid arthritis of bilateral hands (disorder),b15687321000119109,Rheumatoid arthritis diagnosis codes,a13709571000006112,4,Bilateral rheumatoid arthritis of hands
+Seronegative rheumatoid arthritis of bilateral wrists (disorder),b15691321000119101,Rheumatoid arthritis diagnosis codes,a14177941000006118,2,Bilateral seronegative rheumatoid arthritis of wrists
+Rheumatoid myocarditis (disorder),b195136004,Rheumatoid arthritis diagnosis codes,a300221014,20,Rheumatoid myocarditis
+Rheumatoid arthritis of acromioclavicular joint (disorder),b201768005,Rheumatoid arthritis diagnosis codes,a309791014,80,Rheumatoid arthritis of acromioclavicular joint
+Rheumatoid arthritis of elbow (disorder),b201769002,Rheumatoid arthritis diagnosis codes,a309792019,400,Rheumatoid arthritis of elbow
+Rheumatoid arthritis of wrist (disorder),b201771002,Rheumatoid arthritis diagnosis codes,a309794018,2000,Rheumatoid arthritis of wrist
+Rheumatoid arthritis of wrist (disorder),b201771002,Rheumatoid arthritis diagnosis codes,a989291000006112,4,Rheum. arth. - wrist joint
+Rheumatoid arthritis of metacarpophalangeal joint (disorder),b201772009,Rheumatoid arthritis diagnosis codes,a162111000006117,800,Rheumatoid arthritis of metacarpophalangeal joint
+Rheumatoid arthritis of metacarpophalangeal joint (disorder),b201772009,Rheumatoid arthritis diagnosis codes,a989301000006113,2,Rheum. arth. - hand joint
+Rheumatoid arthritis of hip (disorder),b201775006,Rheumatoid arthritis diagnosis codes,a309798015,300,Rheumatoid arthritis of hip
+Rheumatoid arthritis of hip (disorder),b201775006,Rheumatoid arthritis diagnosis codes,a989311000006111,1,Rheum. arth. - hip joint
+Rheumatoid arthritis of knee (disorder),b201777003,Rheumatoid arthritis diagnosis codes,a309800010,2000,Rheumatoid arthritis of knee
+Rheumatoid arthritis of knee (disorder),b201777003,Rheumatoid arthritis diagnosis codes,a989321000006115,1,Rheum. arth. - knee joint
+Rheumatoid arthritis of lesser metatarsophalangeal joint (disorder),b201784006,Rheumatoid arthritis diagnosis codes,a162101000006115,40,Rheumatoid arthritis of lesser metatarsophalangeal joint
+Rheumatoid arthritis of interphalangeal joint of toe (disorder),b201785007,Rheumatoid arthritis diagnosis codes,a162081000006111,40,Rheumatoid arthritis of interphalangeal joint of toe
+Rheumatoid arthritis with organ / system involvement (disorder),b239793008,Rheumatoid arthritis diagnosis codes,a16911000006114,200,Rheumatoid arthritis with organ / system involvement
+Rheumatoid arthritis with organ / system involvement (disorder),b239793008,Rheumatoid arthritis diagnosis codes,a162231000006117,1000,Rheumatoid arthropathy + visceral/systemic involvement NOS
+Rheumatoid arthritis with organ / system involvement (disorder),b239793008,Rheumatoid arthritis diagnosis codes,a424981000006114,30,[X]Rheumatoid arthritis+involvement/other organs or systems
+Rheumatoid arthritis of multiple joints (disorder),b287006005,Rheumatoid arthritis diagnosis codes,a426510015,30000,Rheumatoid arthritis - multiple joint
+Rheumatoid arthritis of multiple joints (disorder),b287006005,Rheumatoid arthritis diagnosis codes,a5721431000006114,1000,Rheumatoid arthritis of multiple joints
+Rheumatoid arthritis of hand joint (disorder),b287007001,Rheumatoid arthritis diagnosis codes,a5721451000006119,10,Rheumatoid arthritis - hand joint
+Rheumatoid arthritis with carditis (disorder),b28880005,Rheumatoid arthritis diagnosis codes,a48361011,90,Rheumatoid carditis
+Seropositive erosive rheumatoid arthritis (disorder),b308143008,Rheumatoid arthritis diagnosis codes,a451461014,10000,Seropositive erosive rheumatoid arthritis
+Subcutaneous rheumatoid nodule (disorder),b33719002,Rheumatoid arthritis diagnosis codes,a485614018,3000,Rheumatoid nodule
+Subcutaneous rheumatoid nodule (disorder),b33719002,Rheumatoid arthritis diagnosis codes,a162341000006115,4000,Rheumatoid nodule
+Subcutaneous rheumatoid nodule (disorder),b33719002,Rheumatoid arthritis diagnosis codes,a3042571000006112,20,Subcutaneous rheumatoid nodule
+Rheumatoid arthritis with arteritis (disorder),b399923009,Rheumatoid arthritis diagnosis codes,a6631621000006116,4,Rheumatoid arteritis
+Felty's syndrome (disorder),b57160007,Rheumatoid arthritis diagnosis codes,a95067016,2000,Felty's syndrome
+Felty's syndrome (disorder),b57160007,Rheumatoid arthritis diagnosis codes,a3428911000006119,1,Felty syndrome
+Rheumatoid arthritis with erosion of joint (disorder),b735599007,Rheumatoid arthritis diagnosis codes,a3514955016,4,Erosion of joint surface co-occurrent and due to rheumatoid arthritis
+Rheumatoid arthritis of joint of spine (disorder),b781206002,Rheumatoid arthritis diagnosis codes,a13605001000006117,1,Rheumatoid arthritis of joint of spine
+Uveitis-rheumatoid arthritis syndrome (disorder),b86219005,Rheumatoid arthritis diagnosis codes,a3901751000006115,2,Uveitis-rheumatoid arthritis syndrome
+Rheumatoid arthritis of left foot (disorder),b1073701000119107,Rheumatoid arthritis diagnosis codes,a13687681000006113,1,Rheumatoid arthritis of left foot
+Rheumatoid arthritis of left knee (disorder),b1073731000119100,Rheumatoid arthritis diagnosis codes,a8447181000006111,7,Rheumatoid arthritis of left knee
+Rheumatoid arthritis of left shoulder (disorder),b1073741000119109,Rheumatoid arthritis diagnosis codes,a12114051000006110,1,Rheumatoid arthritis of left shoulder
+Rheumatoid arthritis of right foot (disorder),b1073781000119104,Rheumatoid arthritis diagnosis codes,a13687701000006111,1,Rheumatoid arthritis of right foot
+Rheumatoid arthritis of right shoulder (disorder),b1073821000119109,Rheumatoid arthritis diagnosis codes,a12114061000006112,3,Rheumatoid arthritis of right shoulder
+Rheumatoid arthritis of right wrist (disorder),b1073831000119107,Rheumatoid arthritis diagnosis codes,a13687711000006114,1,Rheumatoid arthritis of right wrist
+Deformity of right hand co-occurrent and due to rheumatoid arthritis (disorder),b1073861000119104,Rheumatoid arthritis diagnosis codes,a3527737010,1,Deformity of right hand co-occurrent and due to rheumatoid arthritis
+Deformity of left hand co-occurrent and due to rheumatoid arthritis (disorder),b1073871000119105,Rheumatoid arthritis diagnosis codes,a3527712017,1,Deformity of left hand co-occurrent and due to rheumatoid arthritis
+Deformity of right foot co-occurrent and due to rheumatoid arthritis (disorder),b1073881000119108,Rheumatoid arthritis diagnosis codes,a3527731011,2,Deformity of right foot co-occurrent and due to rheumatoid arthritis
+Seropositive rheumatoid arthritis of multiple joints (disorder),b11055151000119108,Rheumatoid arthritis diagnosis codes,a9357441000006116,4,Seropositive rheumatoid arthritis of multiple joints
+Rheumatoid arthritis of bilateral knees (disorder),b15687201000119107,Rheumatoid arthritis diagnosis codes,a13709541000006116,8,Bilateral rheumatoid arthritis of knees
+Deformity of bilateral hands due to rheumatoid arthritis (disorder),b15744441000119101,Rheumatoid arthritis diagnosis codes,a14011041000006114,5,Bilateral deformity of hands due to rheumatoid arthritis
+Rheumatoid arthritis of cervical spine (disorder),b201764007,Rheumatoid arthritis diagnosis codes,a309787016,400,Rheumatoid arthritis of cervical spine
+Rheumatoid arthritis of shoulder (disorder),b201766009,Rheumatoid arthritis diagnosis codes,a309789018,600,Rheumatoid arthritis of shoulder
+Rheumatoid arthritis of sternoclavicular joint (disorder),b201767000,Rheumatoid arthritis diagnosis codes,a309790010,20,Rheumatoid arthritis of sternoclavicular joint
+Rheumatoid arthritis of distal radioulnar joint (disorder),b201770001,Rheumatoid arthritis diagnosis codes,a162051000006115,30,Rheumatoid arthritis of distal radio-ulnar joint
+Rheumatoid arthritis of distal radioulnar joint (disorder),b201770001,Rheumatoid arthritis diagnosis codes,a4809101000006114,4,Rheumatoid arthritis of distal radioulnar joint
+Rheumatoid arthritis of proximal interphalangeal joint of finger (disorder),b201773004,Rheumatoid arthritis diagnosis codes,a162131000006111,400,Rheumatoid arthritis of proximal interphalangeal joint of finger
+Rheumatoid arthritis of distal interphalangeal joint of finger (disorder),b201774005,Rheumatoid arthritis diagnosis codes,a162041000006117,80,Rheumatoid arthritis of distal interphalangeal joint of finger
+Rheumatoid arthritis of sacroiliac joint (disorder),b201776007,Rheumatoid arthritis diagnosis codes,a162141000006118,40,Rheumatoid arthritis of sacroiliac joint
+Rheumatoid arthritis of tibiofibular joint (disorder),b201778008,Rheumatoid arthritis diagnosis codes,a162191000006110,6,Rheumatoid arthritis of tibio-fibular joint
+Rheumatoid arthritis of ankle (disorder),b201779000,Rheumatoid arthritis diagnosis codes,a309802019,300,Rheumatoid arthritis of ankle
+Rheumatoid arthritis of ankle (disorder),b201779000,Rheumatoid arthritis diagnosis codes,a989331000006117,1,Rheum. arth. - ankle/foot
+Rheumatoid arthritis of subtalar joint (disorder),b201780002,Rheumatoid arthritis diagnosis codes,a309803012,80,Rheumatoid arthritis of subtalar joint
+Rheumatoid arthritis of talonavicular joint (disorder),b201781003,Rheumatoid arthritis diagnosis codes,a309804018,90,Rheumatoid arthritis of talonavicular joint
+Rheumatoid arthritis of first metatarsophalangeal joint (disorder),b201783000,Rheumatoid arthritis diagnosis codes,a168761000006118,100,Rheumatoid arthritis of 1st metatarsophalangeal joint
+Rheumatoid arthritis of first metatarsophalangeal joint (disorder),b201783000,Rheumatoid arthritis diagnosis codes,a4809221000006114,20,Rheumatoid arthritis of first metatarsophalangeal joint
+Flare of rheumatoid arthritis (disorder),b201791009,Rheumatoid arthritis diagnosis codes,a309816012,10000,Flare of rheumatoid arthritis
+Seropositive rheumatoid arthritis (disorder),b239791005,Rheumatoid arthritis diagnosis codes,a312518013,2000,[X]Other seropositive rheumatoid arthritis
+Seropositive rheumatoid arthritis (disorder),b239791005,Rheumatoid arthritis diagnosis codes,a312534011,3000,"[X]Seropositive rheumatoid arthritis, unspecified"
+Seropositive rheumatoid arthritis (disorder),b239791005,Rheumatoid arthritis diagnosis codes,a149911000006117,100000,Seropositive rheumatoid arthritis
+Seronegative rheumatoid arthritis (disorder),b239792003,Rheumatoid arthritis diagnosis codes,a359292012,100000,Seronegative rheumatoid arthritis
+Rheumatoid arthritis of ankle and/or foot (disorder),b287008006,Rheumatoid arthritis diagnosis codes,a5721481000006110,5,Rheumatoid arthritis - ankle and/or foot
+Seronegative rheumatoid arthritis of multiple joints (disorder),b319081000119109,Rheumatoid arthritis diagnosis codes,a13677531000006119,30,Seronegative rheumatoid arthritis of multiple sites
+Rheumatoid arthritis with pneumoconiosis (disorder),b398640008,Rheumatoid arthritis diagnosis codes,a1786505011,20,Caplan's syndrome
+Rheumatoid arthritis with pneumoconiosis (disorder),b398640008,Rheumatoid arthritis diagnosis codes,a6608781000006113,1,Caplan's syndrome
+Rheumatoid lung disease (disorder),b398726004,Rheumatoid arthritis diagnosis codes,a1778239014,800,Rheumatoid lung disease
+Rheumatoid lung disease (disorder),b398726004,Rheumatoid arthritis diagnosis codes,a1786545019,400,Rheumatoid lung
+Rheumatoid lung disease (disorder),b398726004,Rheumatoid arthritis diagnosis codes,a162301000006117,900,Rheumatoid lung
+Rheumatoid arthritis with vasculitis (disorder),b400054000,Rheumatoid arthritis diagnosis codes,a1779323014,2000,Rheumatoid vasculitis
+Juvenile seropositive polyarthritis (disorder),b410796000,Rheumatoid arthritis diagnosis codes,a6802591000006112,1,Juvenile seropositive polyarthritis
+Rheumatoid arthritis of temporomandibular joint (disorder),b427770001,Rheumatoid arthritis diagnosis codes,a7078501000006113,5,Rheumatoid arthritis of temporomandibular joint
+Rheumatoid arthritis of foot (disorder),b429192004,Rheumatoid arthritis diagnosis codes,a309805017,40,Rheumatoid arthritis of other tarsal joint
+Rheumatoid arthritis of foot (disorder),b429192004,Rheumatoid arthritis diagnosis codes,a7099641000006113,3,Rheumatoid arthritis of foot
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a116082011,2000000,Rheumatoid arthritis
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a312520011,300,[X]Other specified rheumatoid arthritis
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a168751000006115,30000,Rheumatoid arthritis and other inflammatory polyarthropathy
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a889731000006111,10000,Rheumatoid arthritis NOS
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a889741000006118,40,Rheum. arth. - other joint
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a889751000006116,300,Rheum. arth. - ankle/foot
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a889761000006119,500,Rheum. arth. - knee joint
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a889771000006114,90,Rheum. arth. - hip joint
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a889781000006112,900,Rheum. arth. - hand joint
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a889791000006110,800,Rheum. arth. - wrist joint
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a889801000006111,40,Rheum. arth. - elbow joint
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a889811000006114,80,Rheum. arth. - shoulder joint
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a889821000006118,7000,Rheum. arth. - multiple joint
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a3636541000006112,2,RA - Rheumatoid arthritis
+Rheumatoid arthritis (disorder),b69896004,Rheumatoid arthritis diagnosis codes,a3636551000006114,3,Rheumatoid disease

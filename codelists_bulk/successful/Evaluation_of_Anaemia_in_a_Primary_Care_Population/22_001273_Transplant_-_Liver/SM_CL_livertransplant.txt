@@ -1,0 +1,28 @@
+MedCodeId	Observations	Term	liver transplant
+a30458014	30000	Transplantation of liver	liver transplant
+a31211000006119	3000	Orthotopic transplantation of liver	liver transplant
+a270234015	1000	Transplantation of liver NOS	liver transplant
+a864281000006116	1000	Liver transplant	liver transplant
+a324976011	400	Liver transplant failure and rejection	liver transplant
+a251929017	400	H/O: liver recipient	liver transplant
+a4661751000006118	300	Orthotopic liver transplant	liver transplant
+a270232016	300	Replacement of previous liver transplant	liver transplant
+a376141000000113	200	Orthotopic transplantation of liver NEC	liver transplant
+a822591000006117	200	Heterotopic liver transplant	liver transplant
+a500401000006116	40	Auxillary liver transplant	liver transplant
+a739931000006118	40	"Liver transplant with complication, without blame"	liver transplant
+a270233014	20	Other specified transplantation of liver	liver transplant
+a2676200013	10	Orthotopic transplantation of whole liver	liver transplant
+a5087211000006119	8	Liver transplant rejection	liver transplant
+a4661791000006112	7	Piggy-back liver transplant	liver transplant
+a225661000006111	6	Piggy back liver transplant	liver transplant
+a2560521000006110	6	Transplanted liver	liver transplant
+a2786021000006116	6	LTx - Liver transplant	liver transplant
+a8325771000006113	1	Ultrasound guided biopsy of transplanted liver	liver transplant
+a5161081000006117	1	US scan of transplant liver	liver transplant
+a5161091000006119	1	Ultrasound scan of transplant liver	liver transplant
+a7767231000006112	1	Doppler ultrasound scan of transplanted liver	liver transplant
+a7133411000006113	1	Acute rejection of liver transplant	liver transplant
+a2786011000006112	1	Hepatic transplantation	liver transplant
+a5538541000006110	1	Entire transplanted liver	liver transplant
+a5087201000006117	1	Liver transplant disorder	liver transplant

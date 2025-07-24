@@ -1,0 +1,25 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+Atrial fibrillation with rapid ventricular response (disorder),b120041000119109,Atrial fibrillation codes,a8037691000006113,200,Atrial fibrillation with rapid ventricular response
+Atypical atrial flutter (disorder),b15964901000119107,Atrial fibrillation codes,a2608251000000116,200,Atypical atrial flutter
+Rapid atrial fibrillation (disorder),b314208002,Atrial fibrillation codes,a6043781000006115,400,Rapid atrial fibrillation
+Atrial fibrillation (disorder),b49436004,Atrial fibrillation codes,a82343012,4000000,Atrial fibrillation
+Atrial fibrillation (disorder),b49436004,Atrial fibrillation codes,a3299911000006116,50,AF - Atrial fibrillation
+Longstanding persistent atrial fibrillation (disorder),b706923002,Atrial fibrillation codes,a7610331000006110,9,Longstanding persistent atrial fibrillation
+Typical atrial flutter (disorder),b720448006,Atrial fibrillation codes,a2608211000000115,90,Typical atrial flutter
+Paroxysmal atrial fibrillation with rapid ventricular response (disorder),b1010405004,Atrial fibrillation codes,a14161691000006115,4,Paroxysmal atrial fibrillation with rapid ventricular response
+Atrial fibrillation and flutter (disorder),b195080001,Atrial fibrillation codes,a300130013,500000,Atrial fibrillation and flutter
+Atrial fibrillation and flutter (disorder),b195080001,Atrial fibrillation codes,a300132017,30000,Atrial fibrillation and flutter NOS
+Lone atrial fibrillation (disorder),b233910005,Atrial fibrillation codes,a5057261000006110,20,Lone atrial fibrillation
+Non-rheumatic atrial fibrillation (disorder),b233911009,Atrial fibrillation codes,a350465014,2000,Non-rheumatic atrial fibrillation
+Paroxysmal atrial fibrillation (disorder),b282825002,Atrial fibrillation codes,a421235014,700000,Paroxysmal atrial fibrillation
+Paroxysmal atrial fibrillation (disorder),b282825002,Atrial fibrillation codes,a5669591000006113,60,AF - Paroxysmal atrial fibrillation
+Paroxysmal atrial fibrillation (disorder),b282825002,Atrial fibrillation codes,a5669601000006117,100,PAF - Paroxysmal atrial fibrillation
+Paroxysmal atrial fibrillation (disorder),b282825002,Atrial fibrillation codes,a5669611000006119,9,Intermittent atrial fibrillation
+Controlled atrial fibrillation (disorder),b300996004,Atrial fibrillation codes,a5887651000006116,20,Controlled atrial fibrillation
+Chronic atrial flutter (disorder),b425615007,Atrial fibrillation codes,a7046981000006110,1,Chronic atrial flutter
+Chronic atrial fibrillation (disorder),b426749004,Atrial fibrillation codes,a2675253013,400,Chronic atrial fibrillation
+Paroxysmal atrial flutter (disorder),b427665004,Atrial fibrillation codes,a2675306013,5000,Paroxysmal atrial flutter
+Permanent atrial fibrillation (disorder),b440028005,Atrial fibrillation codes,a636721000000112,3000,Permanent atrial fibrillation
+Persistent atrial fibrillation (disorder),b440059007,Atrial fibrillation codes,a636701000000115,4000,Persistent atrial fibrillation
+Atrial flutter (disorder),b5370000,Atrial fibrillation codes,a9988012,200000,Atrial flutter
+Familial atrial fibrillation (disorder),b715395008,Atrial fibrillation codes,a7731461000006119,3,Familial atrial fibrillation

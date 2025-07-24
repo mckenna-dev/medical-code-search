@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 128
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1       Flag_classifyL2           MedCodeID                                                          Term
+0   4088        Diabetes  Diabetes_Mellitus_II         a1223147012                     Insulin treated Type II diabetes mellitus
+1   4089        Diabetes  Diabetes_Mellitus_II         a1223148019       Insulin treated non-insulin dependent diabetes mellitus
+2   4090        Diabetes  Diabetes_Mellitus_II  a12704971000006112  Neurologic disorder associated with type 2 diabetes mellitus

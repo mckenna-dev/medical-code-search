@@ -1,0 +1,5 @@
+med_code_id,term,snomed_ct_concept_id,observations
+636871000000118,Osteoporotic fracture probability score using FRAX (fracture risk assessment tool),736956002,156643
+1865611000006113,Ten year osteoporotic fracture probability score using FRAX (Fracture Risk Assessment Tool) with body mass index,1092661000000106,25531
+1865601000006110,Ten year osteoporotic fracture probability score using FRAX (Fracture Risk Assessment Tool) with bone mineral density,1092671000000104,18412
+2737451000000118,FRAX 10 year osteoporotic fracture probability score with bone mineral density,1092671000000104,51

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 69
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1     Flag_classifyL2          MedCodeID             Term
+0   8776  Alcohol_status  Alcohol_dependence  a4978011000006117   Secret drinker
+1   8777  Alcohol_status  Alcohol_dependence  a4978021000006113   Hidden drinker
+2   8778  Alcohol_status  Alcohol_dependence  a4978031000006111  Problem drinker

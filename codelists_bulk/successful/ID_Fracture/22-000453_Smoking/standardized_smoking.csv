@@ -1,0 +1,100 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,cleansedreadcode,status,intensity
+4120301000006118,Non-smoker for medical reasons,,105541001,,non smoker,
+1009271000006118,Non Smoker - Nos,,1009271000006102,,non smoker,
+397732011,Never smoked tobacco,,266919005,1371.00,non smoker,
+3926051000006118,Tolerant non-smoker,,87739003,,non smoker,
+4120291000006119,Non-smoker for religious reasons,,105540000,,non smoker,
+250374013,Current non-smoker,,160618006,137L.00,non smoker,
+854951000006113,Grade A non-smoker,,854951000006109,,non smoker,
+6217561000006111,Intolerant non-smoker,,360929005,,non smoker,
+14866014,Non-smoker,,8392000,1371.11,non smoker,
+5495921000006119,Never smoked,,266919005,,non smoker,
+6217461000006110,Aggressive non-smoker,,360918006,,non smoker,
+4120281000006117,Non-smoker for personal reasons,,105539002,,non smoker,
+250363016,Ex-trivial cigarette smoker (<1/day),,266921000,1377.00,ex smoker,light
+250364010,Ex-light cigarette smoker (1-9/day),,266922007,1378.00,ex smoker,light
+2735381000000111,Ex-light smoker (1-9/day),,1092111000000104,,ex smoker,light
+2735421000000119,Ex-trivial smoker (<1/day),,1092131000000107,,ex smoker,light
+2735331000000112,Ex-moderate smoker (10-19/day),,1092091000000109,,ex smoker,moderate
+250365011,Ex-moderate cigarette smoker (10-19/day),,266923002,1379.00,ex smoker,moderate
+250367015,Ex-very heavy cigarette smoker (40+/day),,266925009,137B.00,ex smoker,heavy
+250366012,Ex-heavy cigarette smoker (20-39/day),,266924008,137A.00,ex smoker,heavy
+2735281000000119,Ex-heavy smoker (20-39/day),,1092071000000105,,ex smoker,heavy
+2735201000000112,Ex-very heavy smoker (40+/day),,1092041000000104,,ex smoker,heavy
+3513199018,Ex-smoker for less than 1 year,,735128000,,ex smoker,
+649841000006110,Ex-smoker,,8517006,137S.00,ex smoker,
+418914010,Ex-cigarette smoker,,281018007,137j.00,ex smoker,
+2636041000006110,Cessation of smoking,,8517006,,ex smoker,
+903041000006110,EX-Smoker NOS,,266928006,137F.99,ex smoker,
+250373019,Stopped smoking,,160617001,137K.00,ex smoker,
+2735181000000113,Ex-smoker amount unknown,,1092031000000108,,ex smoker,
+853001000006110,Ex-smoker NOS,,853001000006106,,ex smoker,
+6217151000006116,Intolerant ex-smoker,,360890004,,ex smoker,
+1151791000000117,Recently stopped smoking,,517211000000106,137K000,ex smoker,
+5496031000006112,Ex-cigarette smoker amount unknown,,266928006,,ex smoker,
+649861000006114,Ex-Cigarette Smoker,,649861000006105,,ex smoker,
+854111000006110,Past smoker,,854111000006106,,ex smoker,
+8017571000006117,Ex-smoker for more than 1 year,,48031000119106,,ex smoker,
+250371017,Ex-smoker - amount unknown,,8517006,137F.00,ex smoker,
+298701000000114,History of tobacco use,,8517006,ZV11600,ex smoker,
+649821000006115,Ex-cigar smoker,,160621008,137O.00,ex smoker,
+852991000006114,Ex-cigar smoker,,852991000006105,,ex smoker,
+649831000006117,Ex-pipe smoker,,160620009,137N.00,ex smoker,
+854051000006112,Ex-pipe smoker,,854051000006108,,ex smoker,
+649851000006112,Ex- Rolled Tobacco Smoker,,649851000006108,,ex smoker,
+1059701000000119,Ex roll-up cigarette smoker,,492191000000103,137l.00,ex smoker,
+250385010,Date ceased smoking,,160625004,137T.00,ex smoker,
+3374141000006117,Tolerant ex-smoker,,53896009,,ex smoker,
+4980561000006117,Time since stopped smoking,,228486009,,ex smoker,
+6217281000006116,Aggressive ex-smoker,,360900008,,ex smoker,
+5003141000006118,Trivial cigarette smoker,,230059006,,current smoker,light
+5003151000006116,Light cigarette smoker,,230060001,,current smoker,light
+743331000006116,Light cigarette smoker (1-9 cigs/day),,160603005,1373.00,current smoker,light
+8153381000006119,Occasional smoker,,428041000124106,,current smoker,light
+854961000006110,Grade B light smoker (1-10/day),,854961000006106,,current smoker,light
+5495941000006114,Occasional smoker,,266920004,,current smoker,light
+8153371000006117,Occasional tobacco smoker,,428041000124106,,current smoker,light
+5495951000006111,Occasional cigarette smoker (less than one cigarette/day),,266920004,,current smoker,light
+397733018,Occasional smoker,,428041000124106,1372.11,current smoker,light
+88471000006112,Trivial cigarette smoker (less than one cigarette/day),,266920004,1372.00,current smoker,light
+11904991000006116,Occasional cigarette smoker,,230059006,,current smoker,light
+854981000006117,Grade C moderate smoker (11-20/day),,854981000006101,,current smoker,moderate
+5003161000006119,Moderate cigarette smoker,,230062009,,current smoker,moderate
+700121000006118,Moderate cigarette smoker (10-19 cigs/day),,160604004,1374.00,current smoker,moderate
+3419101000006116,Moderate smoker (20 or less per day),,56578002,,current smoker,moderate
+5003181000006112,Very heavy cigarette smoker,,230064005,,current smoker,heavy
+5003171000006114,Heavy cigarette smoker,,230063004,,current smoker,heavy
+67621000006112,Very heavy cigarette smoker (40+ cigs/day),,160606002,1376.00,current smoker,heavy
+3422221000006116,Heavy smoker (over 20 per day),,56771006,,current smoker,heavy
+855001000006114,Grade D heavy smoker (>20 Day),,855001000006105,,current smoker,heavy
+5003191000006110,Chain smoker,,230065006,,current smoker,heavy
+819331000006110,Heavy cigarette smoker (20-39 cigs/day),,160605003,1375.00,current smoker,heavy
+854071000006119,Current smoker,,854071000006103,,current smoker,
+216212011,Smoking reduced,,134406006,137V.00,current smoker,
+250368013,Keeps trying to stop smoking,,160612007,137C.00,current smoker,
+503483019,Current smoker,,77176002,137R.00,current smoker,
+137791000006118,Smoking restarted,,308438006,137Q.11,current smoker,
+2474719011,Minutes from waking to first tobacco consumption,,413173009,137h.00,current smoker,
+108938018,Cigarette smoker,,65568007,137P.00,current smoker,
+1592611000000110,Failed attempt to stop smoking,,446172000,137m.00,current smoker,
+8063181000006116,Wants to stop smoking,,203191000000107,,current smoker,
+854021000006115,Cigarette smoker,,854021000006104,,current smoker,
+2669652019,Smoking started,,266929003,137Q.00,current smoker,
+1780360012,Reason for restarting smoking,,401159003,137f.00,current smoker,
+903981000006117,Not interested in stopping smoking,,903981000006101,,current smoker,
+128130017,Smoker,,77176002,137P.11,current smoker,
+604961000006114,Current Smoker NOS,,604961000006105,,current smoker,
+7375991000006118,Smokes tobacco daily,,449868002,,current smoker,
+1488576014,Thinking about stopping smoking,,394871007,137c.00,current smoker,
+2670126018,Smoking restarted,,308438006,137e.00,current smoker,
+250372012,Trying to give up smoking,,160616005,137G.00,current smoker,
+1488577017,Ready to stop smoking,,394872000,137b.00,current smoker,
+1488578010,Not interested in stopping smoking,,394873005,137d.00,current smoker,
+99639019,Cigar smoker,,59978006,137J.00,current smoker,
+136515019,Pipe smoker,,82302008,137H.00,current smoker,
+250375014,Rolls own cigarettes,,160619003,137M.00,current smoker,
+852981000006111,Rolls own cigarettes,,852981000006107,,current smoker,
+344793011,Cigarette consumption,,230056004,137X.00,,estimated
+102921000006112,Tobacco smoking consumption,,266918002,137..00,,estimated
+137721000006115,Smoker - amount smoked,,266918002,137..11,,estimated
+5495901000006112,Amount and type of tobacco smoked,,266918002,,,estimated

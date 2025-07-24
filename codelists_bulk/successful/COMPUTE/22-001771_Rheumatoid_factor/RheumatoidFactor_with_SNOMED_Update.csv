@@ -1,0 +1,9 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+162261000006114,1202819,Rheumatoid factor,992081000000101
+975681000006118,126267,Rheumatoid factor IgM level,1020741000000107
+1488677013,46427,Rheumatoid factor screening test,994021000000106
+257897018,1508,Rheumatoid factor negative,165840002
+257908018,954,Rheumatoid factor NOS,992081000000101
+2533215010,604,Rheumatoid factor IgG level,1021281000000103
+457892010,447,Fluid rheumatoid factor level,992091000000104
+257896010,164,Rheumatoid factor positive,165839004

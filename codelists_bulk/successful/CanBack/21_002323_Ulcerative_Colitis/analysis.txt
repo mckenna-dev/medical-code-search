@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 47
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1     Flag_classifyL2           MedCodeID                                         Term
+0   5209       Digestive  Ulcerative_Colitis          a107644019                           Ulcerative colitis
+1   5210       Digestive  Ulcerative_Colitis  a13765011000006113  Arthritis due to inflammatory bowel disease
+2   5211       Digestive  Ulcerative_Colitis  a14195011000006119                  Acute ulcerative pancolitis

@@ -1,0 +1,295 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+Microinfarct of heart (disorder),b42531007,Coronary heart disease (CHD) codes,a1229885017,40,Microinfarction of heart
+Ischemic congestive cardiomyopathy (disorder),b426856002,Coronary heart disease (CHD) codes,a7065281000006117,8,Ischaemic congestive cardiomyopathy
+Mixed myocardial ischemia and infarction (disorder),b428196007,Coronary heart disease (CHD) codes,a7084801000006112,4,Mixed myocardial ischaemia and infarction
+Congenital coronary artery sclerosis (disorder),b42866003,Coronary heart disease (CHD) codes,a3191111000006116,1,Congenital coronary artery sclerosis
+Recent myocardial infarction (situation),b428752002,Coronary heart disease (CHD) codes,a7093091000006111,2,Recent myocardial infarction
+Recurrent coronary arteriosclerosis after percutaneous transluminal coronary angioplasty (disorder),b429245005,Coronary heart disease (CHD) codes,a7100421000006116,1,Recurrent coronary arteriosclerosis after percutaneous transluminal coronary angioplasty
+Arteriosclerosis of coronary artery bypass graft of transplanted heart (disorder),b444855007,Coronary heart disease (CHD) codes,a7298951000006115,2,Arteriosclerosis of coronary artery bypass graft of transplanted heart
+Preinfarction syndrome (disorder),b4557003,Coronary heart disease (CHD) codes,a7844010,5000,Preinfarction syndrome
+Preinfarction syndrome (disorder),b4557003,Coronary heart disease (CHD) codes,a7845011,90000,Unstable angina
+Preinfarction syndrome (disorder),b4557003,Coronary heart disease (CHD) codes,a7847015,8000,Crescendo angina
+Preinfarction syndrome (disorder),b4557003,Coronary heart disease (CHD) codes,a299741012,5000,Preinfarction syndrome
+Preinfarction syndrome (disorder),b4557003,Coronary heart disease (CHD) codes,a494261017,6000,Worsening angina
+Preinfarction syndrome (disorder),b4557003,Coronary heart disease (CHD) codes,a72571000006115,60000,Unstable angina
+Preinfarction syndrome (disorder),b4557003,Coronary heart disease (CHD) codes,a2571561000006118,3,Pre-infarction syndrome
+Ischemic dilated cardiomyopathy due to coronary artery disease (disorder),b472100003,Coronary heart disease (CHD) codes,a7475751000006117,20,Ischaemic dilated cardiomyopathy due to coronary artery disease
+Coronary arteriosclerosis (disorder),b53741008,Coronary heart disease (CHD) codes,a2536395017,200000,Coronary artery disease
+Coronary arteriosclerosis (disorder),b53741008,Coronary heart disease (CHD) codes,a3371361000006117,20,Coronary arteriosclerosis
+Coronary arteriosclerosis (disorder),b53741008,Coronary heart disease (CHD) codes,a3371381000006110,90,CAD - Coronary artery disease
+Coronary arteriosclerosis (disorder),b53741008,Coronary heart disease (CHD) codes,a3371411000006113,900,CHD - Coronary heart disease
+Coronary arteriosclerosis (disorder),b53741008,Coronary heart disease (CHD) codes,a3371421000006117,1000,Coronary heart disease
+Acute myocardial infarction of lateral wall (disorder),b58612006,Coronary heart disease (CHD) codes,a299711010,3000,Acute lateral myocardial infarction
+Acute myocardial infarction of lateral wall (disorder),b58612006,Coronary heart disease (CHD) codes,a3452181000006112,5,Acute myocardial infarction of lateral wall
+Acute anteroseptal myocardial infarction (disorder),b62695002,Coronary heart disease (CHD) codes,a455651000006114,4000,Acute anteroseptal myocardial infarction
+Coronary occlusion (disorder),b63739005,Coronary heart disease (CHD) codes,a3536581000006113,30,Coronary occlusion
+Coronary occlusion (disorder),b63739005,Coronary heart disease (CHD) codes,a3536601000006115,4,Coronary artery occluded
+Acute myocardial infarction of inferolateral wall (disorder),b65547006,Coronary heart disease (CHD) codes,a457531000006110,10000,Acute inferolateral myocardial infarction
+Acute myocardial infarction of inferolateral wall (disorder),b65547006,Coronary heart disease (CHD) codes,a3565871000006113,10,Acute myocardial infarction of inferolateral wall
+Postmyocardial infarction syndrome (disorder),b66189004,Coronary heart disease (CHD) codes,a109915012,300,Post-myocardial infarction syndrome
+Postmyocardial infarction syndrome (disorder),b66189004,Coronary heart disease (CHD) codes,a109916013,500,Dressler's syndrome
+Postmyocardial infarction syndrome (disorder),b66189004,Coronary heart disease (CHD) codes,a3576371000006117,2,Postmyocardial infarction syndrome
+Acute myocardial infarction of anterolateral wall (disorder),b70211005,Coronary heart disease (CHD) codes,a455641000006112,20000,Acute anterolateral myocardial infarction
+Acute myocardial infarction of anterolateral wall (disorder),b70211005,Coronary heart disease (CHD) codes,a3641641000006116,10,Acute myocardial infarction of anterolateral wall
+Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle (disorder),b703165004,Coronary heart disease (CHD) codes,a7571611000006117,1,Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle
+Subsequent ST segment elevation myocardial infarction of inferior wall (disorder),b703209002,Coronary heart disease (CHD) codes,a7572221000006117,1,Subsequent ST segment elevation myocardial infarction of inferior wall
+Acute ST segment elevation myocardial infarction of inferior wall (disorder),b703213009,Coronary heart disease (CHD) codes,a7572321000006112,80,Acute ST segment elevation myocardial infarction of inferior wall
+Acute ST segment elevation myocardial infarction of inferior wall (disorder),b703213009,Coronary heart disease (CHD) codes,a7572331000006110,70,Acute STEMI (ST elevation myocardial infarction) of inferior wall
+Acute ST segment elevation myocardial infarction of inferior wall (disorder),b703213009,Coronary heart disease (CHD) codes,a7572341000006117,6,Acute inferior ST segment elevation myocardial infarction
+Mitral valve regurgitation due to and following acute myocardial infarction (disorder),b703326006,Coronary heart disease (CHD) codes,a7574041000006111,1,Mitral valve regurgitation due to acute myocardial infarction
+Subsequent non-ST segment elevation myocardial infarction (disorder),b703360004,Coronary heart disease (CHD) codes,a7574481000006111,2,Subsequent non-ST segment elevation myocardial infarction
+Subsequent non-ST segment elevation myocardial infarction (disorder),b703360004,Coronary heart disease (CHD) codes,a7574491000006114,6,Subsequent NSTEMI (non-ST segment elevation myocardial infarction)
+Acute subendocardial infarction (disorder),b70422006,Coronary heart disease (CHD) codes,a116992017,9000,Acute subendocardial infarction
+Resting ischemia co-occurrent and due to ischemic heart disease (disorder),b712866001,Coronary heart disease (CHD) codes,a7696501000006114,1,Resting ischaemia
+Acute myocardial infarction of inferior wall (disorder),b73795002,Coronary heart disease (CHD) codes,a299714019,90000,Acute myocardial infarction of inferior wall
+Acute myocardial infarction of inferior wall (disorder),b73795002,Coronary heart disease (CHD) codes,a3699921000006110,10,Acute inferior myocardial infarction
+Acute myocardial infarction of inferoposterior wall (disorder),b76593002,Coronary heart disease (CHD) codes,a1234005010,3000,Acute inferoposterior infarction
+Acute myocardial infarction of inferoposterior wall (disorder),b76593002,Coronary heart disease (CHD) codes,a3745741000006117,7,Acute myocardial infarction of inferoposterior wall
+Ischemic contracture of left ventricle syndrome (disorder),b82522008,Coronary heart disease (CHD) codes,a3842391000006115,2,Ischaemic contracture of left ventricle syndrome
+Delayed postmyocardial infarction pericarditis (disorder),b827164008,Coronary heart disease (CHD) codes,a13930031000006112,10,Delayed postmyocardial infarction pericarditis
+Delayed postmyocardial infarction pericarditis (disorder),b827164008,Coronary heart disease (CHD) codes,a13930051000006117,1000,Dressler's syndrome
+Acute myocardial infarction of right ventricle (disorder),b836293000,Coronary heart disease (CHD) codes,a13935161000006114,1,Acute myocardial infarction of right ventricle
+Acute myocardial infarction of inferolateral wall with posterior extension (disorder),b836295007,Coronary heart disease (CHD) codes,a13935211000006117,2,Acute myocardial infarction of inferolateral wall with posterior extension
+Acute ST segment elevation myocardial infarction due to occlusion of mid portion of anterior descending branch of left coronary artery (disorder),b840312002,Coronary heart disease (CHD) codes,a13941141000006111,7,Acute ST segment elevation myocardial infarction due to mid left anterior descending coronary artery occlusion
+Acute ST segment elevation myocardial infarction due to occlusion of mid portion of anterior descending branch of left coronary artery (disorder),b840312002,Coronary heart disease (CHD) codes,a13941161000006110,1,Acute STEMI (ST elevation myocardial infarction) due to mid LAD (left anterior descending) coronary artery occlusion
+Occlusion of mid portion of anterior descending branch of left coronary artery (disorder),b840313007,Coronary heart disease (CHD) codes,a13941171000006115,20,Occlusion of mid left anterior descending coronary artery
+Occlusion of distal portion of anterior descending branch of left coronary artery (disorder),b840315000,Coronary heart disease (CHD) codes,a13941191000006119,10,Occlusion of distal left anterior descending coronary artery
+Acute ST segment elevation myocardial infarction due to occlusion of distal portion of anterior descending branch of left coronary artery (disorder),b840316004,Coronary heart disease (CHD) codes,a13941211000006118,1,Acute ST segment elevation myocardial infarction due to distal left anterior descending coronary artery occlusion
+Acute ST segment elevation myocardial infarction due to occlusion of distal portion of anterior descending branch of left coronary artery (disorder),b840316004,Coronary heart disease (CHD) codes,a13941231000006112,1,Acute STEMI (ST elevation myocardial infarction) due to distal LAD (left anterior descending) coronary artery occlusion
+Occlusion of anterior descending branch of left coronary artery (disorder),b840608004,Coronary heart disease (CHD) codes,a13945191000006117,5,Occlusion of anterior descending branch of left coronary artery
+Occlusion of diagonal branch of anterior descending branch of left coronary artery (disorder),b846667001,Coronary heart disease (CHD) codes,a13947581000006115,2,Occlusion of diagonal branch of anterior descending branch of left coronary artery
+"Angina, class III (disorder)",b85284003,Coronary heart disease (CHD) codes,a3886751000006118,7,"Angina, class III"
+Stenosis of right coronary artery (disorder),b876856005,Coronary heart disease (CHD) codes,a14130061000006116,20,Stenosis of right coronary artery
+Stenosis of right coronary artery (disorder),b876856005,Coronary heart disease (CHD) codes,a14130071000006111,2,RCA (right coronary artery) stenosis
+Stenosis of circumflex branch of left coronary artery (disorder),b876858006,Coronary heart disease (CHD) codes,a14130091000006112,8,Stenosis of circumflex branch of left coronary artery
+Stenosis of anterior descending branch of left coronary artery (disorder),b876859003,Coronary heart disease (CHD) codes,a14130101000006118,40,Stenosis of anterior descending branch of left coronary artery
+Stenosis of anterior descending branch of left coronary artery (disorder),b876859003,Coronary heart disease (CHD) codes,a14130111000006115,3,LAD (left anterior descending) coronary artery stenosis
+Myocardial infarction with non-obstructive coronary artery (disorder),b879955009,Coronary heart disease (CHD) codes,a14132941000006118,30,Myocardial infarction with non-obstructive coronary artery
+Occlusion of circumflex branch of left coronary artery (disorder),b896690007,Coronary heart disease (CHD) codes,a14145381000006119,3,Occlusion of circumflex branch of left coronary artery
+Calcific coronary arteriosclerosis (disorder),b92517006,Coronary heart disease (CHD) codes,a4005601000006116,300,Calcific coronary arteriosclerosis
+Acute ST segment elevation myocardial infarction of inferolateral wall (disorder),b12238111000119106,Coronary heart disease (CHD) codes,a12122331000006116,10,Acute ST segment elevation myocardial infarction of inferolateral wall
+Right coronary artery occlusion (disorder),b123642008,Coronary heart disease (CHD) codes,a4354151000006115,40,Right coronary artery occlusion
+Postoperative myocardial infarction (disorder),b129574000,Coronary heart disease (CHD) codes,a208365015,700,Postoperative myocardial infarction
+Postoperative myocardial infarction (disorder),b129574000,Coronary heart disease (CHD) codes,a455423016,80,"Postoperative myocardial infarction, unspecified"
+Postoperative myocardial infarction (disorder),b129574000,Coronary heart disease (CHD) codes,a212081000006112,2,Postoperative transmural myocardial infarction other sites
+Postoperative myocardial infarction (disorder),b129574000,Coronary heart disease (CHD) codes,a212091000006110,6,Postoperative transmural myocardial infarction unspec site
+Acute ST segment elevation myocardial infarction of anterolateral wall (disorder),b15712881000119105,Coronary heart disease (CHD) codes,a9843961000006118,3,Acute ST segment elevation myocardial infarction of anterolateral wall
+Acute ST segment elevation myocardial infarction of lateral wall (disorder),b15712921000119103,Coronary heart disease (CHD) codes,a9843981000006111,2,Acute ST segment elevation myocardial infarction of lateral wall
+Acute ST segment elevation myocardial infarction of posterior wall (disorder),b15713041000119103,Coronary heart disease (CHD) codes,a9844011000006119,3,Acute ST segment elevation myocardial infarction of posterior wall
+Acute ST segment elevation myocardial infarction due to right coronary artery occlusion (disorder),b15713121000119105,Coronary heart disease (CHD) codes,a9844051000006118,1,Acute ST segment elevation myocardial infarction due to right coronary artery occlusion
+Unstable angina co-occurrent and due to coronary arteriosclerosis (disorder),b15960061000119102,Coronary heart disease (CHD) codes,a9868461000006110,5,Unstable angina co-occurrent and due to coronary arteriosclerosis
+Mural thrombus of left ventricle following acute myocardial infarction (disorder),b15960981000119105,Coronary heart disease (CHD) codes,a9868571000006116,40,Mural thrombus of left ventricle following acute myocardial infarction
+History of myocardial infarct at age less than sixty (situation),b161502000,Coronary heart disease (CHD) codes,a810811000006116,10000,H/O: myocardial infarct at less than 60
+Myocardial infarction due to demand ischemia (disorder),b16837681000119104,Coronary heart disease (CHD) codes,a14015031000006119,2,Myocardial infarction due to demand ischaemia
+Coronary artery disease due to type 2 diabetes mellitus (disorder),b16891151000119103,Coronary heart disease (CHD) codes,a14015311000006110,1,Coronary artery disease due to type 2 diabetes mellitus
+Status anginosus (disorder),b19057007,Coronary heart disease (CHD) codes,a32122016,50,Status anginosus
+Acute atrial infarction (disorder),b194809007,Coronary heart disease (CHD) codes,a299719012,100,Acute atrial infarction
+Coronary thrombosis not resulting in myocardial infarction (disorder),b194821006,Coronary heart disease (CHD) codes,a299742017,200,Coronary thrombosis not resulting in myocardial infarction
+Coronary thrombosis not resulting in myocardial infarction (disorder),b194821006,Coronary heart disease (CHD) codes,a2619484018,70,MI - Myocardial infarction aborted
+Coronary thrombosis not resulting in myocardial infarction (disorder),b194821006,Coronary heart disease (CHD) codes,a682481000006118,400,Myocardial infarction aborted
+Coronary thrombosis not resulting in myocardial infarction (disorder),b194821006,Coronary heart disease (CHD) codes,a4775931000006111,3,Aborted myocardial infarction
+Acute coronary insufficiency (disorder),b194823009,Coronary heart disease (CHD) codes,a299745015,8000,Acute coronary insufficiency
+Acute coronary insufficiency (disorder),b194823009,Coronary heart disease (CHD) codes,a931961000006117,200,Acute coronary syndrome
+Angina (disorder),b194828000,Coronary heart disease (CHD) codes,a299757012,3000000,Angina pectoris
+Angina (disorder),b194828000,Coronary heart disease (CHD) codes,a299758019,8,Stenocardia
+Angina (disorder),b194828000,Coronary heart disease (CHD) codes,a299765010,50000,Angina pectoris NOS
+Angina (disorder),b194828000,Coronary heart disease (CHD) codes,a300874013,300,[X]Other forms of angina pectoris
+Angina (disorder),b194828000,Coronary heart disease (CHD) codes,a482941000006119,50000,Angina pectoris NOS
+Angina (disorder),b194828000,Coronary heart disease (CHD) codes,a4775971000006114,400,Angina
+Angina (disorder),b194828000,Coronary heart disease (CHD) codes,a4775981000006112,1,Cardiac angina
+Angina (disorder),b194828000,Coronary heart disease (CHD) codes,a4776001000006111,3,Anginal syndrome
+Angina (disorder),b194828000,Coronary heart disease (CHD) codes,a4776031000006115,20,Ischaemic heart disease - angina
+Double coronary vessel disease (disorder),b194843003,Coronary heart disease (CHD) codes,a299783019,20000,Double coronary vessel disease
+Double coronary vessel disease (disorder),b194843003,Coronary heart disease (CHD) codes,a4776071000006117,30,Two coronary vessel disease
+Double coronary vessel disease (disorder),b194843003,Coronary heart disease (CHD) codes,a4776081000006119,3,Double vessel coronary artery disease
+Generalized ischemic myocardial dysfunction (disorder),b194849004,Coronary heart disease (CHD) codes,a299796018,10000,Ischaemic cardiomyopathy
+Generalized ischemic myocardial dysfunction (disorder),b194849004,Coronary heart disease (CHD) codes,a4776121000006117,1000,Generalised ischaemic myocardial dysfunction
+Generalized ischemic myocardial dysfunction (disorder),b194849004,Coronary heart disease (CHD) codes,a4776141000006112,20,Ischemic cardiomyopathy
+Subsequent myocardial infarction (disorder),b194856005,Coronary heart disease (CHD) codes,a299808017,700,Subsequent myocardial infarction
+Subsequent myocardial infarction (disorder),b194856005,Coronary heart disease (CHD) codes,a299813018,20,Subsequent myocardial infarction of other sites
+Subsequent myocardial infarction (disorder),b194856005,Coronary heart disease (CHD) codes,a300881018,4,[X]Subsequent myocardial infarction of other sites
+Subsequent myocardial infarction (disorder),b194856005,Coronary heart disease (CHD) codes,a300882013,10,[X]Subsequent myocardial infarction of unspecified site
+Subsequent myocardial infarction (disorder),b194856005,Coronary heart disease (CHD) codes,a118831000006118,40,Subsequent myocardial infarction of unspecified site
+Atrial septal defect due to and following acute myocardial infarction (disorder),b194863005,Coronary heart disease (CHD) codes,a498031000006112,80,Atrial septal defect as current complication following acute myocardial infarction
+Rupture of papillary muscle as current complication following acute myocardial infarction (disorder),b194867006,Coronary heart disease (CHD) codes,a159001000006119,6,Rupture of papillary muscle as current complication following acute myocardial infarction
+"Thrombosis of atrium, auricular appendage, and ventricle due to and following acute myocardial infarction (disorder)",b194868001,Coronary heart disease (CHD) codes,a100681000006116,80,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+Syncope anginosa (disorder),b21470009,Coronary heart disease (CHD) codes,a36036010,100,Syncope anginosa
+Myocardial infarction (disorder),b22298006,Coronary heart disease (CHD) codes,a37443015,10000,Heart attack
+Myocardial infarction (disorder),b22298006,Coronary heart disease (CHD) codes,a219521000000119,1000,Attack - heart
+Myocardial infarction (disorder),b22298006,Coronary heart disease (CHD) codes,a2855301000006112,3000,Myocardial infarction
+Myocardial infarction (disorder),b22298006,Coronary heart disease (CHD) codes,a2855341000006114,8,MI - Myocardial infarction
+Myocardial infarction (disorder),b22298006,Coronary heart disease (CHD) codes,a2855351000006111,10,Myocardial infarct
+Ischemic chest pain (finding),b225566008,Coronary heart disease (CHD) codes,a338974012,6000,Ischaemic chest pain
+Triple vessel disease of the heart (disorder),b233817007,Coronary heart disease (CHD) codes,a350346019,40000,Triple vessel disease of the heart
+Triple vessel disease of the heart (disorder),b233817007,Coronary heart disease (CHD) codes,a5056201000006111,50,Triple vessel coronary artery disease
+New onset angina (disorder),b233821000,Coronary heart disease (CHD) codes,a350350014,3000,New onset angina
+Silent myocardial ischemia (disorder),b233823002,Coronary heart disease (CHD) codes,a350354017,2000,Silent myocardial ischaemia
+Silent myocardial ischemia (disorder),b233823002,Coronary heart disease (CHD) codes,a5056261000006112,1,Asymptomatic ischaemia
+Acute Q wave infarction - inferior (disorder),b233829003,Coronary heart disease (CHD) codes,a5056311000006117,1,Acute Q wave infarction - inferior
+Acute posterior myocardial infarction (disorder),b233838001,Coronary heart disease (CHD) codes,a299710011,4000,Acute posterior myocardial infarction
+Old anterior myocardial infarction (disorder),b233839009,Coronary heart disease (CHD) codes,a5056411000006110,10,Old anterior myocardial infarction
+Old lateral myocardial infarction (disorder),b233841005,Coronary heart disease (CHD) codes,a5056431000006116,3,Old lateral myocardial infarction
+Old posterior myocardial infarction (disorder),b233842003,Coronary heart disease (CHD) codes,a5056441000006114,2,Old posterior myocardial infarction
+Cardiac rupture due to and following acute myocardial infarction (disorder),b233847009,Coronary heart disease (CHD) codes,a537751000006115,200,Cardiac rupture after acute myocardial infarction
+Post-infarction pericarditis (disorder),b233885007,Coronary heart disease (CHD) codes,a216351000006118,300,Post infarction pericarditis
+Post-infarction pericarditis (disorder),b233885007,Coronary heart disease (CHD) codes,a5056941000006119,20,Post-infarction pericarditis
+History of acute ST segment elevation myocardial infarction (situation),b285721000119104,Coronary heart disease (CHD) codes,a8087551000006113,1,History of acute ST segment elevation myocardial infarction
+Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery (disorder),b285981000119103,Coronary heart disease (CHD) codes,a8087751000006116,5,Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery
+Acute Q wave myocardial infarction (disorder),b304914007,Coronary heart disease (CHD) codes,a447324018,500,Acute Q-wave infarct
+Acute Q wave myocardial infarction (disorder),b304914007,Coronary heart disease (CHD) codes,a5935321000006111,10,Acute Q wave myocardial infarction
+Acute non-Q wave infarction (disorder),b307140009,Coronary heart disease (CHD) codes,a450322013,3000,Acute non-Q wave infarction
+History of myocardial infarction in last year (situation),b308065005,Coronary heart disease (CHD) codes,a451369010,2000,H/O: Myocardial infarction in last year
+Postoperative transmural myocardial infarction of anterior wall (disorder),b311792005,Coronary heart disease (CHD) codes,a212061000006119,20,Postoperative transmural myocardial infarction of anterior wall
+Postoperative transmural myocardial infarction of inferior wall (disorder),b311793000,Coronary heart disease (CHD) codes,a212071000006114,20,Postoperative transmural myocardial infarction of inferior wall
+Postoperative subendocardial myocardial infarction (disorder),b311796008,Coronary heart disease (CHD) codes,a455422014,100,Postoperative subendocardial myocardial infarction
+Non-Q wave myocardial infarction (disorder),b314207007,Coronary heart disease (CHD) codes,a6043771000006118,5,Non-Q wave myocardial infarction
+Refractory angina (disorder),b315025001,Coronary heart disease (CHD) codes,a459487012,1000,Refractory angina
+"Past myocardial infarction diagnosed on electrocardiogram AND/OR other special investigation, but currently presenting no symptoms (disorder)",b32574007,Coronary heart disease (CHD) codes,a3024781000006112,2,"Past myocardial infarction diagnosed on ECG AND/OR other special investigation, but currently presenting no symptoms"
+Multi vessel coronary artery disease (disorder),b371803003,Coronary heart disease (CHD) codes,a6360351000006112,100,Multi vessel coronary artery disease
+Left main coronary artery disease (disorder),b371804009,Coronary heart disease (CHD) codes,a6360361000006114,30,Left main coronary artery disease
+Atypical angina (disorder),b371807002,Coronary heart disease (CHD) codes,a6360391000006118,200,Atypical angina
+Coronary artery thrombosis (disorder),b398274000,Coronary heart disease (CHD) codes,a1786197015,3000,Coronary thrombosis
+Coronary artery thrombosis (disorder),b398274000,Coronary heart disease (CHD) codes,a1786198013,400,Thrombosis - coronary
+Coronary artery thrombosis (disorder),b398274000,Coronary heart disease (CHD) codes,a6601121000006118,80,Coronary artery thrombosis
+Coronary artery thrombosis (disorder),b398274000,Coronary heart disease (CHD) codes,a6601131000006115,1,CT - Coronary thrombosis
+History of myocardial infarction (situation),b399211009,Coronary heart disease (CHD) codes,a230021000006115,6000,Personal history of myocardial infarction
+History of myocardial infarction (situation),b399211009,Coronary heart disease (CHD) codes,a1738171000006114,2000,History of myocardial infarction
+Acute ST segment elevation myocardial infarction (disorder),b401303003,Coronary heart disease (CHD) codes,a1780491019,200000,Acute ST segment elevation myocardial infarction
+Acute ST segment elevation myocardial infarction (disorder),b401303003,Coronary heart disease (CHD) codes,a6651221000006117,200,STEMI - ST elevation myocardial infarction
+Coronary artery bypass graft occlusion (disorder),b408546009,Coronary heart disease (CHD) codes,a2160096015,6000,Coronary artery bypass graft occlusion
+"Angina, class II (disorder)",b41334000,Coronary heart disease (CHD) codes,a3166141000006114,20,"Angina, class II"
+Acute myocardial ischemia (disorder),b413444003,Coronary heart disease (CHD) codes,a6841391000006118,6,Acute myocardial ischaemia
+Chronic ischemic heart disease (disorder),b413838009,Coronary heart disease (CHD) codes,a299776014,10000,Chronic ischaemic heart disease
+Chronic ischemic heart disease (disorder),b413838009,Coronary heart disease (CHD) codes,a299800012,300,Other specified chronic ischaemic heart disease
+Chronic ischemic heart disease (disorder),b413838009,Coronary heart disease (CHD) codes,a299804015,300,Other specified chronic ischaemic heart disease NOS
+Chronic ischemic heart disease (disorder),b413838009,Coronary heart disease (CHD) codes,a299805019,2000,Other chronic ischaemic heart disease NOS
+Chronic ischemic heart disease (disorder),b413838009,Coronary heart disease (CHD) codes,a300879015,70,[X]Other forms of chronic ischaemic heart disease
+Chronic ischemic heart disease (disorder),b413838009,Coronary heart disease (CHD) codes,a6847761000006118,1,Chronic ischemic heart disease
+Chronic myocardial ischemia (disorder),b413844008,Coronary heart disease (CHD) codes,a2534674015,3000,Chronic myocardial ischaemia
+Chronic myocardial ischemia (disorder),b413844008,Coronary heart disease (CHD) codes,a2537483013,400,Chronic coronary insufficiency
+Disorder of coronary artery (disorder),b414024009,Coronary heart disease (CHD) codes,a6850801000006111,200,Disorder of coronary artery
+Typical angina (disorder),b429559004,Coronary heart disease (CHD) codes,a7105241000006116,80,Typical angina
+Arteriosclerosis of coronary artery bypass graft (disorder),b429673002,Coronary heart disease (CHD) codes,a7106991000006111,1,Coronary arteriosclerosis of coronary artery bypass graft
+Atherosclerosis of coronary artery (disorder),b443502000,Coronary heart disease (CHD) codes,a89332015,1000,Atherosclerotic heart disease
+Atherosclerosis of coronary artery (disorder),b443502000,Coronary heart disease (CHD) codes,a2536393012,800,Arteriosclerotic heart disease
+Atherosclerosis of coronary artery (disorder),b443502000,Coronary heart disease (CHD) codes,a595731000006114,40000,Coronary atherosclerosis
+Atherosclerosis of coronary artery (disorder),b443502000,Coronary heart disease (CHD) codes,a7278491000006111,1,Atherosclerosis of coronary artery
+Subendocardial ischemia (disorder),b46109009,Coronary heart disease (CHD) codes,a494438016,200,Subendocardial ischaemia
+Acute anteroapical myocardial infarction (disorder),b52035003,Coronary heart disease (CHD) codes,a299708014,200,Acute anteroapical infarction
+Acute myocardial infarction of anterior wall (disorder),b54329005,Coronary heart disease (CHD) codes,a299707016,6000,Acute anterior myocardial infarction
+Acute myocardial infarction of anterior wall (disorder),b54329005,Coronary heart disease (CHD) codes,a299709018,20000,Anterior myocardial infarction NOS
+Acute myocardial infarction of anterior wall (disorder),b54329005,Coronary heart disease (CHD) codes,a3381601000006117,90,Acute myocardial infarction of anterior wall
+Acute myocardial infarction (disorder),b57054005,Coronary heart disease (CHD) codes,a94884017,1000000,Acute myocardial infarction
+Acute myocardial infarction (disorder),b57054005,Coronary heart disease (CHD) codes,a299718016,2000,Other acute myocardial infarction
+Acute myocardial infarction (disorder),b57054005,Coronary heart disease (CHD) codes,a299720018,500,Other acute myocardial infarction NOS
+Acute myocardial infarction (disorder),b57054005,Coronary heart disease (CHD) codes,a299721019,60000,Acute myocardial infarction NOS
+Acute myocardial infarction (disorder),b57054005,Coronary heart disease (CHD) codes,a219531000000117,300000,MI - acute myocardial infarction
+Acute myocardial infarction (disorder),b57054005,Coronary heart disease (CHD) codes,a362461000006119,80,[X]Acute transmural myocardial infarction of unspecif site
+Acute myocardial infarction (disorder),b57054005,Coronary heart disease (CHD) codes,a460681000006116,400,Acute transmural myocardial infarction of unspecif site
+Acute myocardial infarction (disorder),b57054005,Coronary heart disease (CHD) codes,a884141000006116,700,Coronary thrombosis
+Acute myocardial infarction (disorder),b57054005,Coronary heart disease (CHD) codes,a884151000006119,7000,Myocardial Infarction
+Acute myocardial infarction (disorder),b57054005,Coronary heart disease (CHD) codes,a3427201000006111,1,AMI - Acute myocardial infarction
+Angina decubitus (disorder),b59021001,Coronary heart disease (CHD) codes,a98087016,2000,Angina decubitus
+Angina decubitus (disorder),b59021001,Coronary heart disease (CHD) codes,a299763015,200,Angina decubitus NOS
+Angina decubitus (disorder),b59021001,Coronary heart disease (CHD) codes,a498328016,4000,Angina at rest
+Angina decubitus (disorder),b59021001,Coronary heart disease (CHD) codes,a482811000006113,1000,Angina at rest
+Angina decubitus (disorder),b59021001,Coronary heart disease (CHD) codes,a3458791000006114,2,Anginal chest pain at rest
+Acute myocardial infarction of apical-lateral wall (disorder),b59063002,Coronary heart disease (CHD) codes,a3459561000006119,1,Acute myocardial infarction of apical-lateral wall
+"Angina, class I (disorder)",b61490001,Coronary heart disease (CHD) codes,a3499001000006116,7,"Angina, class I"
+Acute myocardial infarction of high lateral wall (disorder),b64627002,Coronary heart disease (CHD) codes,a3551171000006114,1,Acute myocardial infarction of high lateral wall
+Coronary artery atheroma (disorder),b67682002,Coronary heart disease (CHD) codes,a3600701000006114,500,Coronary artery atheroma
+Microvascular ischemia of myocardium (disorder),b697976003,Coronary heart disease (CHD) codes,a7502661000006117,9,Microvascular ischaemia of myocardium
+Coronary angioplasty planned (situation),b698377004,Coronary heart disease (CHD) codes,a1654891000000110,1000,Coronary angioplasty planned
+Coronary artery bypass graft operation planned (situation),b698378009,Coronary heart disease (CHD) codes,a1550991000000116,1000,Coronary artery bypass graft operation planned
+Coronary artery bypass graft operation planned (situation),b698378009,Coronary heart disease (CHD) codes,a7508021000006119,10,CABG (coronary artery bypass graft) operation planned
+History of non-ST segment elevation myocardial infarction (situation),b698593009,Coronary heart disease (CHD) codes,a7510331000006117,5,History of non-ST segment elevation myocardial infarction
+Acute ST segment elevation myocardial infarction of anterior wall (disorder),b703164000,Coronary heart disease (CHD) codes,a7571581000006113,100,Acute anterior ST segment elevation myocardial infarction
+Acute ST segment elevation myocardial infarction of anterior wall (disorder),b703164000,Coronary heart disease (CHD) codes,a7571601000006115,70,Acute STEMI (ST elevation myocardial infarction) of anterior wall
+Acute myocardial infarction during procedure (disorder),b703212004,Coronary heart disease (CHD) codes,a7572301000006119,3,Acute myocardial infarction during procedure
+Silent coronary vasospastic disease (disorder),b703214003,Coronary heart disease (CHD) codes,a7572351000006115,7,Silent coronary vasospastic disease
+Subacute ischemic heart disease (disorder),b713405002,Coronary heart disease (CHD) codes,a7703511000006110,4,Subacute ischaemic heart disease
+Non-obstructive atherosclerosis of coronary artery (disorder),b719678003,Coronary heart disease (CHD) codes,a2609111000000119,600,Non-obstructive coronary atherosclerosis
+Non-obstructive atherosclerosis of coronary artery (disorder),b719678003,Coronary heart disease (CHD) codes,a7789771000006114,2,Non-obstructive atherosclerosis of coronary artery
+Atherosclerosis of autologous coronary artery bypass graft (disorder),b724431008,Coronary heart disease (CHD) codes,a7855741000006112,1,Atherosclerosis of autologous coronary artery bypass graft
+Acute myocardial infarction of septum (disorder),b79009004,Coronary heart disease (CHD) codes,a1234306015,600,Acute septal infarction
+Angina due to type 2 diabetes mellitus (disorder),b791000119109,Coronary heart disease (CHD) codes,a7966931000006114,2,Angina associated with type 2 diabetes mellitus
+Coronary microvascular disease (disorder),b810681000000101,Coronary heart disease (CHD) codes,a2115181000000110,1000,Coronary microvascular disease
+Acute ST segment elevation myocardial infarction due to occlusion of proximal portion of anterior descending branch of left coronary artery (disorder),b840309000,Coronary heart disease (CHD) codes,a13941091000006115,2,Acute ST segment elevation myocardial infarction due to proximal left anterior descending coronary artery occlusion
+Occlusion of proximal portion of anterior descending branch of left coronary artery (disorder),b840310005,Coronary heart disease (CHD) codes,a13941121000006116,20,Occlusion of proximal left anterior descending coronary artery
+Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery (disorder),b840609007,Coronary heart disease (CHD) codes,a13945211000006116,2,Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery
+Occlusion of septal branch of anterior descending branch of left coronary artery (disorder),b840679006,Coronary heart disease (CHD) codes,a13945971000006115,2,Occlusion of septal branch of anterior descending branch of left coronary artery
+Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery (disorder),b846683001,Coronary heart disease (CHD) codes,a13947721000006111,1,Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery
+Occlusion of proximal portion of right coronary artery (disorder),b868215007,Coronary heart disease (CHD) codes,a13961321000006113,2,Occlusion of proximal portion of right coronary artery
+Acute ST segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery (disorder),b868220007,Coronary heart disease (CHD) codes,a13961371000006114,1,Acute ST segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery
+Acute ST segment elevation myocardial infarction due to occlusion of posterior descending branch of right coronary artery (disorder),b868225002,Coronary heart disease (CHD) codes,a13961451000006111,1,Acute STEMI (ST elevation myocardial infarction) due to PDA (posterior descending artery) branch of RCA (right coronary artery) occlusion
+Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery (disorder),b868226001,Coronary heart disease (CHD) codes,a13961461000006113,1,Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery
+Stenosis of left coronary artery main stem (disorder),b876857001,Coronary heart disease (CHD) codes,a14130081000006114,9,Stenosis of left coronary artery main stem
+Acute infarction of papillary muscle (disorder),b10273003,Coronary heart disease (CHD) codes,a1218860015,6,Acute papillary muscle infarction
+Septal infarction by electrocardiogram (finding),b1077002,Coronary heart disease (CHD) codes,a2515471000006117,5,Septal infarction by electrocardiogram
+Chronic total occlusion of coronary artery (disorder),b117051000119103,Coronary heart disease (CHD) codes,a8036721000006118,40,Chronic total occlusion of coronary artery
+Acute ST segment elevation myocardial infarction of inferoposterior wall (disorder),b12238151000119107,Coronary heart disease (CHD) codes,a12122341000006114,10,Acute ST segment elevation myocardial infarction of inferoposterior wall
+Left coronary artery occlusion (disorder),b123641001,Coronary heart disease (CHD) codes,a4354131000006110,6,Left coronary artery occlusion
+History of placement of stent in coronary artery bypass graft (situation),b130541000119100,Coronary heart disease (CHD) codes,a8041051000006118,3,History of placement of stent in coronary artery bypass graft
+Acute ST segment elevation myocardial infarction of anteroseptal wall (disorder),b15712961000119108,Coronary heart disease (CHD) codes,a9843991000006114,1,Acute ST segment elevation myocardial infarction of anteroseptal wall
+Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft (disorder),b15960581000119102,Coronary heart disease (CHD) codes,a12125951000006116,1,Arteriosclerosis of autologous vein coronary artery bypass graft with angina
+Acute myocardial infarction of posterolateral wall (disorder),b15990001,Coronary heart disease (CHD) codes,a967931000006114,200,Acute myocardial infarction of posterolateral wall
+History of myocardial infarct at age greater than sixty (situation),b161503005,Coronary heart disease (CHD) codes,a810821000006112,10000,H/O: myocardial infarct at greater than 60
+Old myocardial infarction (disorder),b1755008,Coronary heart disease (CHD) codes,a4031011,60000,Old myocardial infarction
+Old myocardial infarction (disorder),b1755008,Coronary heart disease (CHD) codes,a4032016,700,Healed myocardial infarction
+True posterior myocardial infarction (disorder),b194802003,Coronary heart disease (CHD) codes,a299712015,500,True posterior myocardial infarction
+Single coronary vessel disease (disorder),b194842008,Coronary heart disease (CHD) codes,a299782012,20000,Single coronary vessel disease
+Single coronary vessel disease (disorder),b194842008,Coronary heart disease (CHD) codes,a4776051000006110,5,Single vessel coronary artery disease
+Subsequent myocardial infarction of anterior wall (disorder),b194857001,Coronary heart disease (CHD) codes,a299811016,90,Subsequent myocardial infarction of anterior wall
+Subsequent myocardial infarction of inferior wall (disorder),b194858006,Coronary heart disease (CHD) codes,a299812011,100,Subsequent myocardial infarction of inferior wall
+Hemopericardium due to and following acute myocardial infarction (disorder),b194862000,Coronary heart disease (CHD) codes,a813961000006116,90,Haemopericardium as current complication following acute myocardial infarction
+Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction (disorder),b194865003,Coronary heart disease (CHD) codes,a158601000006116,10,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+Rupture of chordae tendinae due to and following acute myocardial infarction (disorder),b194866002,Coronary heart disease (CHD) codes,a158611000006118,2,Rupture of chordae tendinae as current complication following acute myocardial infarction
+Acute myocardial infarction due to right coronary artery occlusion (disorder),b23311000119105,Coronary heart disease (CHD) codes,a8011041000006111,4,Acute myocardial infarction due to right coronary artery occlusion
+Stable angina (disorder),b233819005,Coronary heart disease (CHD) codes,a350348018,70000,Stable angina
+Acute Q wave infarction - inferolateral (disorder),b233831007,Coronary heart disease (CHD) codes,a5056331000006111,2,Acute Q wave infarction - inferolateral
+Old inferior myocardial infarction (disorder),b233840006,Coronary heart disease (CHD) codes,a5056421000006119,20,Old inferior myocardial infarction
+Silent myocardial infarction (disorder),b233843008,Coronary heart disease (CHD) codes,a350376014,3000,Silent myocardial infarction
+Silent myocardial infarction (disorder),b233843008,Coronary heart disease (CHD) codes,a5056461000006113,2,MI - Silent myocardial infarction
+Accelerated coronary artery disease in transplanted heart (disorder),b233844002,Coronary heart disease (CHD) codes,a5056471000006118,1,Accelerated coronary artery disease in transplanted heart
+Post-infarction ventricular septal defect (disorder),b233846000,Coronary heart disease (CHD) codes,a67081000006119,60,Ventricular septal defect as current complication following acute myocardial infarction
+Post-infarction ventricular septal defect (disorder),b233846000,Coronary heart disease (CHD) codes,a5056501000006113,6,Post-infarction ventricular septal defect
+Coronary artery stenosis (disorder),b233970002,Coronary heart disease (CHD) codes,a5058231000006119,400,Coronary artery stenosis
+Coronary graft stenosis (disorder),b251024009,Coronary heart disease (CHD) codes,a5294511000006117,7,Coronary graft stenosis
+Impending infarction (disorder),b25106000,Coronary heart disease (CHD) codes,a494260016,4,Impending infarction
+Ischemic myocardial dysfunction (disorder),b281091000,Coronary heart disease (CHD) codes,a5647291000006110,4,Ischaemic myocardial dysfunction
+Exercise-induced angina (disorder),b300995000,Coronary heart disease (CHD) codes,a442204010,10000,Angina on effort
+Exercise-induced angina (disorder),b300995000,Coronary heart disease (CHD) codes,a5887611000006117,700,Exercise-induced angina
+Exercise-induced angina (disorder),b300995000,Coronary heart disease (CHD) codes,a5887631000006111,70,Exertional angina
+Exercise-induced angina (disorder),b300995000,Coronary heart disease (CHD) codes,a5887641000006118,1,Angina of effort
+Post infarct angina (disorder),b314116003,Coronary heart disease (CHD) codes,a458410010,1000,Post infarct angina
+Transient myocardial ischemia (disorder),b315026000,Coronary heart disease (CHD) codes,a459488019,1000,Transient myocardial ischaemia
+Diabetes mellitus insulin-glucose infusion in acute myocardial infarction (procedure),b315287002,Coronary heart disease (CHD) codes,a616081000006113,30,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+Asymptomatic coronary heart disease (disorder),b315348000,Coronary heart disease (CHD) codes,a459859010,5000,Asymptomatic coronary heart disease
+Nocturnal angina (disorder),b35928006,Coronary heart disease (CHD) codes,a59952018,400,Nocturnal angina
+Myocardial infarction with complication (disorder),b371068009,Coronary heart disease (CHD) codes,a543291000006110,40,Myocardial infarction with complication
+Progressive angina (disorder),b371806006,Coronary heart disease (CHD) codes,a12276271000006112,3,Progressive angina
+Recurrent angina status post percutaneous transluminal coronary angioplasty (disorder),b371808007,Coronary heart disease (CHD) codes,a6360401000006116,1,Recurrent angina after percutaneous transluminal coronary angioplasty
+Recurrent angina following placement of coronary artery stent (disorder),b371809004,Coronary heart disease (CHD) codes,a6360421000006114,1,Recurrent angina after coronary stent placement
+Recurrent angina status post coronary artery bypass graft (disorder),b371810009,Coronary heart disease (CHD) codes,a6360441000006119,1,Recurrent angina after coronary artery bypass graft
+Acute coronary syndrome (disorder),b394659003,Coronary heart disease (CHD) codes,a1488382011,200000,Acute coronary syndrome
+Acute coronary syndrome (disorder),b394659003,Coronary heart disease (CHD) codes,a6546111000006118,70,ACS - Acute coronary syndrome
+First myocardial infarction (disorder),b394710008,Coronary heart disease (CHD) codes,a6546751000006118,20,First myocardial infarction
+History of coronary artery bypass grafting (situation),b399261000,Coronary heart disease (CHD) codes,a451132018,8000,[V]Presence of coronary artery bypass graft
+History of coronary artery bypass grafting (situation),b399261000,Coronary heart disease (CHD) codes,a460686018,200,[V]Presence of aortocoronary bypass graft
+History of coronary artery bypass grafting (situation),b399261000,Coronary heart disease (CHD) codes,a1227364015,10000,History of coronary artery bypass grafting
+Acute non-ST segment elevation myocardial infarction (disorder),b401314000,Coronary heart disease (CHD) codes,a1780501013,400000,Acute non-ST segment elevation myocardial infarction
+Acute non-ST segment elevation myocardial infarction (disorder),b401314000,Coronary heart disease (CHD) codes,a6651391000006114,600,NSTEMI - Non-ST segment elevation MI
+Acute ischemic heart disease (disorder),b413439005,Coronary heart disease (CHD) codes,a6841231000006113,10,Acute ischaemic heart disease
+Ischemic heart disease (disorder),b414545008,Coronary heart disease (CHD) codes,a299723016,400,Other acute and subacute ischaemic heart disease
+Ischemic heart disease (disorder),b414545008,Coronary heart disease (CHD) codes,a299750014,200,Other acute and subacute ischaemic heart disease NOS
+Ischemic heart disease (disorder),b414545008,Coronary heart disease (CHD) codes,a299834013,4000,Other specified ischaemic heart disease
+Ischemic heart disease (disorder),b414545008,Coronary heart disease (CHD) codes,a299835014,100000,Ischaemic heart disease NOS
+Ischemic heart disease (disorder),b414545008,Coronary heart disease (CHD) codes,a300876010,50,[X]Other forms of acute ischaemic heart disease
+Ischemic heart disease (disorder),b414545008,Coronary heart disease (CHD) codes,a2534664018,5000000,Ischaemic heart disease
+Ischemic heart disease (disorder),b414545008,Coronary heart disease (CHD) codes,a2537480011,1000000,IHD - Ischaemic heart disease
+Ischemic heart disease (disorder),b414545008,Coronary heart disease (CHD) codes,a39111000006114,2000,Other acute and subacute ischaemic heart disease
+Ischemic heart disease (disorder),b414545008,Coronary heart disease (CHD) codes,a394541000006112,2000,[X]Ischaemic heart diseases
+Ischemic heart disease (disorder),b414545008,Coronary heart disease (CHD) codes,a6860251000006115,60,Ischemic heart disease
+Ischemic heart disease (disorder),b414545008,Coronary heart disease (CHD) codes,a6860261000006118,30,IHD - Ischemic heart disease
+Myocardial ischemia (disorder),b414795007,Coronary heart disease (CHD) codes,a6864781000006110,90,Myocardial ischaemia
+Acute transmural myocardial infarction (disorder),b1089471000000109,Coronary heart disease (CHD) codes,a2729671000000118,40,Acute transmural myocardial infarction

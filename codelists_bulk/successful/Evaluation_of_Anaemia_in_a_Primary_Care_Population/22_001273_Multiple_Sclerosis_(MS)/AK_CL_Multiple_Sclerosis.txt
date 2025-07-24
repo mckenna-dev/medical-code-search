@@ -1,0 +1,55 @@
+MedCodeId	Observations	Term	multiple_sclerosis 
+a41398015	700000	Multiple sclerosis	multiple_sclerosis 
+a908811000006112	20000	[RFC] Multiple sclerosis	multiple_sclerosis 
+a297181019	20000	Multiple sclerosis NOS	multiple_sclerosis 
+a1682241000006111	10000	Multiple sclerosis (MS) relapsing remitting	multiple_sclerosis 
+a983311000006114	10000	Multiple sclerosis - relapsing remitting	multiple_sclerosis 
+a299241000000110	8000	Multiple sclerosis review (regime/therapy)	multiple_sclerosis 
+a297180018	7000	Exacerbation of multiple sclerosis	multiple_sclerosis 
+a983291000006110	4000	Multiple sclerosis - primary progressive	multiple_sclerosis 
+a2692565012	3000	Primary progressive multiple sclerosis	multiple_sclerosis 
+a2674605012	3000	Secondary progressive multiple sclerosis	multiple_sclerosis 
+a1223979019	3000	Disseminated sclerosis	multiple_sclerosis 
+a297179016	2000	Generalized multiple sclerosis (disorder)	multiple_sclerosis 
+a983301000006111	2000	Multiple sclerosis - secondary progressive	multiple_sclerosis 
+a1757431000000113	1000	Referral to community multiple sclerosis team (procedure)	multiple_sclerosis 
+a297177019	700	Multiple sclerosis of the spinal cord (disorder)	multiple_sclerosis 
+a979461000006111	700	Spec serv for pat with multiple sclerosis - enh serv admin	multiple_sclerosis 
+a315671000000110	700	Multiple sclerosis multidisciplinary review	multiple_sclerosis 
+a1674381000000115	500	Multiple sclerosis monitoring first letter (procedure)	multiple_sclerosis 
+a300141000000119	500	Multiple sclerosis care plan agreed (finding)	multiple_sclerosis 
+a641211000000118	300	Benign multiple sclerosis	multiple_sclerosis 
+a695191000006119	300	Multiple sclerosis of the brainstem	multiple_sclerosis 
+a1674121000000119	200	Multiple sclerosis monitoring administration	multiple_sclerosis 
+a1679791000006113	100	Management of multiple sclerosis in progressive disability phase (regime/therapy)	multiple_sclerosis 
+a983261000006119	100	Multiple sclerosis - personal health plan	multiple_sclerosis 
+a1148911000000119	100	Multiple sclerosis review declined	multiple_sclerosis 
+a1674661000000118	100	Multiple sclerosis monitoring second letter	multiple_sclerosis 
+a699791000000111	60	Management of multiple sclerosis in stable disability phase (regime/therapy)	multiple_sclerosis 
+a1674971000000118	60	Multiple sclerosis monitoring telephone invitation (procedure)	multiple_sclerosis 
+a1675051000000110	50	Multiple sclerosis monitoring third letter (procedure)	multiple_sclerosis 
+a699731000000110	40	Management of multiple sclerosis in early disease phase	multiple_sclerosis 
+a905781000006118	30	[RFC] Multiple sclerosis	multiple_sclerosis 
+a1747821000006117	30	Multiple sclerosis monitoring administration	multiple_sclerosis 
+a1747831000006119	30	Multiple sclerosis monitoring first letter	multiple_sclerosis 
+a699911000000117	20	Management of multiple sclerosis in palliative phase	multiple_sclerosis 
+a5552111000006118	20	Kurtzke multiple sclerosis rating scale	multiple_sclerosis 
+a4769281000006110	20	Multiple sclerosis of the brainstem	multiple_sclerosis 
+a5006891000006112	10	Acute relapsing multiple sclerosis	multiple_sclerosis 
+a699671000000115	9	Management of multiple sclerosis in onset phase (regime/therapy)	multiple_sclerosis 
+a2894411000006110	9	MS - Multiple sclerosis	multiple_sclerosis 
+a641301000000114	8	Malignant multiple sclerosis (disorder)	multiple_sclerosis 
+a7058051000006116	7	Multiple sclerosis (MS) relapsing remitting	multiple_sclerosis 
+a5006901000006111	4	Chronic progressive multiple sclerosis (disorder)	multiple_sclerosis 
+a1747861000006111	4	Multiple sclerosis monitoring telephone invite	multiple_sclerosis 
+a1747851000006114	4	Multiple sclerosis monitoring third letter	multiple_sclerosis 
+a5006911000006114	3	Multiple sclerosis (MS) chronic/progressive	multiple_sclerosis 
+a5006921000006118	2	Remittent-progressive multiple sclerosis (disorder)	multiple_sclerosis 
+a7092351000006112	2	Multiple sclerosis (MS) primary progressive	multiple_sclerosis 
+a7510741000006111	1	Dementia associated with multiple sclerosis	multiple_sclerosis 
+a7861151000006116	1	Progressive relapsing multiple sclerosis	multiple_sclerosis 
+a7045281000006112	1	Multiple sclerosis (MS) secondary progressive	multiple_sclerosis 
+a8024671000006115	1	Dementia due to multiple sclerosis with altered behaviour	multiple_sclerosis 
+a8238411000006112	1	Management of multiple sclerosis	multiple_sclerosis 
+a4769291000006113	1	Brain stem multiple sclerosis	multiple_sclerosis 
+a4769321000006116	1	Generalized multiple sclerosis	multiple_sclerosis 

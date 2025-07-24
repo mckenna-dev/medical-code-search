@@ -1,0 +1,27 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1728,Cancer,Melanoma,a84190018,Clark melanoma level 2,L1:Cancer_L2:Melanoma,4M71.00
+1729,Cancer,Melanoma,a35572018,Clark melanoma level 3,L1:Cancer_L2:Melanoma,4M72.00
+1730,Cancer,Melanoma,a3704012,Clark melanoma level 4,L1:Cancer_L2:Melanoma,4M73.00
+1731,Cancer,Melanoma,a27148012,Clark melanoma level 5,L1:Cancer_L2:Melanoma,4M74.00
+1732,Cancer,Melanoma,a2438671000000118,Malignant melanoma stage IIC,L1:Cancer_L2:Melanoma,B32C.00
+1733,Cancer,Melanoma,a2438711000000117,Malignant melanoma stage IIIA,L1:Cancer_L2:Melanoma,B32D.00
+1734,Cancer,Melanoma,a289124016,Malignant neoplasm of skin of heel,L1:Cancer_L2:Melanoma,B337600
+1735,Cancer,Melanoma,a403754010,Malignant melanoma,L1:Cancer_L2:Melanoma,BBE1.00
+1736,Cancer,Melanoma,a312251000006118,[M]Melanocarcinoma,L1:Cancer_L2:Melanoma,BBE1.11
+1737,Cancer,Melanoma,a312291000006112,[M]Melanosarcoma NOS,L1:Cancer_L2:Melanoma,BBE1.13
+1738,Cancer,Melanoma,a313651000006112,[M]Naevocarcinoma,L1:Cancer_L2:Melanoma,BBE1.14
+1739,Cancer,Melanoma,a1229572014,"[M]Malignant melanoma, regressing",L1:Cancer_L2:Melanoma,BBE1000
+1740,Cancer,Melanoma,a1231028010,"[M]Desmoplastic melanoma, malignant",L1:Cancer_L2:Melanoma,BBE1100
+1741,Cancer,Melanoma,a314051000006119,Nodular melanoma,L1:Cancer_L2:Melanoma,BBE2.00
+1742,Cancer,Melanoma,a305741000006115,[M]Balloon cell melanoma,L1:Cancer_L2:Melanoma,BBE4.00
+1743,Cancer,Melanoma,a305231000006118,Amelanotic melanoma,L1:Cancer_L2:Melanoma,BBEA.00
+1744,Cancer,Melanoma,a311971000006113,[M]Malignant melanoma in junctional naevus,L1:Cancer_L2:Melanoma,BBEC.00
+1745,Cancer,Melanoma,a1230100013,[M]Malignant melanoma in Hutchinson's melanotic freckle,L1:Cancer_L2:Melanoma,BBEG.00
+1746,Cancer,Melanoma,a310961000006112,[M]Lentigo maligna melanoma,L1:Cancer_L2:Melanoma,BBEG.11
+1747,Cancer,Melanoma,a1221446018,"[M]Acral lentiginous melanoma, malignant",L1:Cancer_L2:Melanoma,BBEG000
+1748,Cancer,Melanoma,a317201000006115,Superficial spreading melanoma,L1:Cancer_L2:Melanoma,BBEH.00
+1749,Cancer,Melanoma,a311951000006115,[M]Malignant melanoma in giant pigmented naevus,L1:Cancer_L2:Melanoma,BBEM.00
+1750,Cancer,Melanoma,a292116013,[X]Melanoma and other malignant neoplasms of skin,L1:Cancer_L2:Melanoma,Byu4.00
+1751,Cancer,Melanoma,a396171000006118,[X]Malignant melanoma of other+unspecified parts of face,L1:Cancer_L2:Melanoma,Byu4000
+1752,Cancer,Melanoma,a292118014,"[X]Malignant melanoma of skin, unspecified",L1:Cancer_L2:Melanoma,Byu4100
+1753,Cancer,Melanoma,a292121011,[X]Malignant neoplasm of mesothelial and soft tissue,L1:Cancer_L2:Melanoma,Byu5.00

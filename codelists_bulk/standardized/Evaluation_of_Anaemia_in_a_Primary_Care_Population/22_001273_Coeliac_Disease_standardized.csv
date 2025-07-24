@@ -1,0 +1,37 @@
+med_code_id,term,snomed_ct_concept_id,observations
+1772803017,Coeliac disease,396331005.0,500000
+303690012,Coeliac disease NOS,396331005.0,9000
+1689421000000115,Coeliac disease annual review,473213008.0,5000
+1689381000000112,Coeliac disease monitoring,703970007.0,3000
+1655141000000110,Coeliac disease monitoring invitation first letter,752301000000000.0,2000
+1119251000000112,Coeliac disease autoantibody profile positive,443718009.0,2000
+1651841000000119,Coeliac disease monitoring invitation,750871000000000.0,1000
+303687018,Acquired coeliac disease,197479008.0,1000
+1745851000006117,Coeliac disease monitoring 1st letter,1745850000000000.0,1000
+1655181000000119,Coeliac disease monitoring invitation second letter,752321000000000.0,300
+303686010,Congenital coeliac disease,197478000.0,300
+1745861000006115,Coeliac disease monitoring 2nd letter,1745860000000000.0,300
+1651921000000116,Coeliac disease annual review declined,750911000000000.0,200
+1687291000006116,Coeliac leaflet given,1687290000000000.0,200
+1745871000006110,Coeliac disease monitoring 3rd letter,1745870000000000.0,200
+1745841000006119,Coeliac disease monitoring administration,1745840000000000.0,100
+2263871000000118,Coeliac UK member,877071000000000.0,100
+1747711000006116,Coeliac disease annual review,1747710000000000.0,100
+1655221000000112,Coeliac disease monitoring invitation third letter,752341000000000.0,100
+1871791000006116,Coeliac disease screening of first degree relatives completed,1871790000000000.0,60
+7281951000006112,Autoantibody screening for coeliac disease positive,443718009.0,50
+1747701000006119,Coeliac disease monitoring,1747700000000000.0,50
+221181000000119,Gee - Herter disease,45259000.0,30
+1745881000006113,Coeliac disease monitoring phone invite,1745880000000000.0,30
+3230001000006118,Coeliac infantilism,45259000.0,30
+3992891000006113,Adult form of coeliac disease,91867008.0,30
+5741741000006110,Coeliac disease diet education,289134009.0,30
+1651881000000110,Coeliac disease monitoring telephone invitation,750891000000000.0,20
+411383013,Coeliac rickets,275404008.0,20
+1859331000006118,Coeliac society member,1859330000000000.0,4
+6567671000006110,Celiac disease,396331005.0,3
+3230021000006111,Gee-Herter disease,45259000.0,3
+1745891000006111,Coeliac disease annual review declined,1745890000000000.0,2
+6567641000006119,Coeliac crisis,396330006.0,1
+6567721000006118,Coeliac syndrome,396331005.0,1
+6567681000006113,CD - Coeliac disease,396331005.0,1

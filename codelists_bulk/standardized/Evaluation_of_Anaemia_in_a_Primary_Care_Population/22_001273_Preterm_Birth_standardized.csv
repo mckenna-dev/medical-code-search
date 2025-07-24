@@ -1,0 +1,41 @@
+med_code_id,term,snomed_ct_concept_id,observations
+420192012,Premature delivery,282020008,23159
+305903017,Early onset of delivery - delivered,282020008,10071
+499688015,Premature labour,6383007,8271
+405120018,Early onset of delivery,6383007,3258
+1816741000006114,Premature labour and delivery,282020008,586
+962111000006115,Prenatal complications/preterm labour,962111000006104,390
+30590201,Early onset of delivery unspecified,6383007,365
+1816761000006113,Premature labour with premature delivery,282020008,278
+305904011,Early onset of delivery NOS,6383007,175
+906921000006114,[RFC] Premature onset of labour,906921000006105,141
+1816771000006118,Premature labour with term delivery,282020008,40
+6298091000006114,Premature birth of newborn,367494004,16
+1816781000006115,Premature delivery without labour,282020008,15
+9326571000006113,Preterm labour with preterm delivery,10761241000119104,10
+2601701000006114,Preterm labour,6383007,6
+9325771000006111,Preterm premature rupture of membranes with onset of labour unknown,10759661000119108,6
+9326581000006111,Preterm labor with preterm delivery,10761241000119104,6
+7511791000006113,Preterm spontaneous labour with preterm delivery,698716002,5
+2601711000006112,Preterm labor,6383007,3
+4798681000006116,Premature rupture of membranes with onset of labour within 24 hours of the rupture,199660008,3
+4798741000006116,Premature rupture of membranes with onset of labor after 24 hours of the rupture,199662000,2
+14726841000006116,Disorder of early neonate and/or fetus during second intrapartum stage due to forceps delivery,1193556001,2
+3766101000006117,Stillbirth of premature male (1000-2499 gms.),77814006,2
+3464721000006113,Premature birth of newborn female,59403008,2
+7511821000006116,Preterm spontaneous labor with term delivery,698717006,2
+2577001000006116,Premature birth of newborn male,4886009,2
+2601681000006111,Premature labor,6383007,2
+3386841000006112,Premature birth of stillborn twins,54650005,2
+2966381000006112,Stillbirth of premature female (1000-2499 gms.),28996007,1
+2719711000006118,Premature birth of newborn twins,13859001,1
+4798671000006119,Premature rupture of membranes with onset of labor within 24 hours of the rupture,199660008,1
+4798731000006114,Premature rupture of membranes with onset of labour after 24 hours of the rupture,199662000,1
+9325811000006111,Preterm premature rupture of membranes with onset of labor within 24 hours of rupture,10759711000119103,1
+9326541000006117,Preterm labour with preterm delivery in third trimester,10761191000119104,1
+14726861000006117,Disorder of early neonate and/or fetus during second intrapartum stage due to vacuum extraction delivery,1193558000,1
+14726851000006119,Disorder of early neonate and/or fetus during second intrapartum stage due to instrumental delivery,1193557005,1
+7836911000006117,Baby premature at delivery 23 completed weeks,722840003,1
+9325761000006116,Preterm premature rupture of membranes with onset of labor later than 24 hours after rupture,10759611000119105,1
+7511801000006114,Preterm spontaneous labor with preterm delivery,698716002,1
+9324521000006119,Premature rupture of membranes in full term pregnancy with onset of labour within 24 hours of rupture,10753181000119105,1

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 245
+Columns: 9
+Column names: ['MedCodeId', 'Term', 'Observations', 'SNOMED_CT_Concept_ID', 'OriginalReadCode', 'CleansedReadCode', 'SnomedCTDescriptionId', 'Release', 'EmisCodeCategoryId']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId                       Term  Observations  SNOMED_CT_Concept_ID OriginalReadCode
+0         83729012          Dyslexia training           NaN              50260001             8E23
+1        255260017             O/E - dyslexia           NaN             163933004             2B55
+2  376901000006118  [X]Developmental dyslexia           NaN             192136006          Eu810-2

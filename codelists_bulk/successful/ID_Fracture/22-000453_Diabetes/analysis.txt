@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 297
+Columns: 13
+Column names: ['MedCodeId', 'Term', 'Observations', 'SNOMED_CT_Concept_ID', 'READcode', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId                                                          Term  Observations  SNOMED_CT_Concept_ID READcode
+0        711                                             Diabetes mellitus           NaN                   NaN  C10..00
+1      38986             Diabetes mellitus with no mention of complication           NaN                   NaN  C100.00
+2      24490  Diabetes mellitus, juvenile type, no mention of complication           NaN                   NaN  C100000

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 72
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tbariatric_surgery']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                             \tMedCodeId\tObservations\tTerm\tbariatric_surgery
+0  0\ta1009221000006119\t40\tLaparascopic sleeve gastrectomy\tbariatric_surgery
+1       1\ta1689061000000118\t9\tReversal of duodenal switch\tbariatric_surgery
+2   2\ta1767571000006110\t2000\tInsertion of gastric balloon\tbariatric_surgery

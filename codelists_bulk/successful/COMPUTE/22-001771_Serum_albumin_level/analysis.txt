@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 3
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                  Term  SNOMED_CT_Concept_ID
+0         278130018      68690701   Serum albumin level      1000821000000103
+1        1484984011       2541408  Plasma albumin level      1013361000000105
+2  4107351000006113           229         Serum albumin             104485008

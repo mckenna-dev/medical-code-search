@@ -1,0 +1,8 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2322,Cancer,Thyroid,a317651000006118,[M]Trabecular adenocarcinoma,L1:Cancer_L2:Thyroid,BB5F.00
+2323,Cancer,Thyroid,a310161000006110,Hurthle cell adenocarcinoma,L1:Cancer_L2:Thyroid,BB5W111
+2324,Cancer,Thyroid,a314311000006118,[M]Oncytic adenocarcinoma,L1:Cancer_L2:Thyroid,BB5W112
+2325,Cancer,Thyroid,a291538016,Medullary carcinoma,L1:Cancer_L2:Thyroid,BB9B.00
+2326,Cancer,Thyroid,a306211000006118,[M]C cell carcinoma,L1:Cancer_L2:Thyroid,BB9B.11
+2327,Cancer,Thyroid,a312161000006111,Medullary carcinoma with amyloid stroma,L1:Cancer_L2:Thyroid,BB9C.00
+2328,Cancer,Thyroid,a312171000006116,[M]Medullary carcinoma with lymphoid stroma,L1:Cancer_L2:Thyroid,BB9D.00

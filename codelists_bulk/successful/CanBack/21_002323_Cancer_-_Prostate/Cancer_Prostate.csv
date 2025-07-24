@@ -1,0 +1,7 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2072,Cancer,Prostate,a722361000006115,Malignant neoplasm of prostate,L1:Cancer_L2:Prostate,B46..00
+2073,Cancer,Prostate,a844951000006111,Gleason grade finding for prostatic cancer,L1:Cancer_L2:Prostate,4M0..00
+2074,Cancer,Prostate,a1490806016,Gleason prostate grade 2-4 (low),L1:Cancer_L2:Prostate,4M00.00
+2075,Cancer,Prostate,a1488634012,Gleason prostate grade 5-7 (medium),L1:Cancer_L2:Prostate,4M01.00
+2076,Cancer,Prostate,a1490807013,Gleason prostate grade 8-10 (high),L1:Cancer_L2:Prostate,4M02.00
+2077,Cancer,Prostate,a2460981000000118,Active surveillance of prostate cancer,L1:Cancer_L2:Prostate,8AD0.00

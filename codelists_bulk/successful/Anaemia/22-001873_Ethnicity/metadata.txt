@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22-001873-Anaemia/blob/main/Smith/Codelists/Ethnicity.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22-001873-Anaemia/main/Smith/Codelists/Ethnicity.csv
+Codelist Name: Ethnicity
+Project Title: Anaemia
+ERAP Number: 22-001873
+Author: Margaret Smith
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:26:08
+File Size: 47279 bytes

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 7
+Columns: 1
+Column names: ['\tColumn0\tMedCodeId\tTerm\tCount']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                 \tColumn0\tMedCodeId\tTerm\tCount
+0       0\t7\ta102928018\tPlatelet count\t73059491
+1    1\t2245\ta257443013\tPlatelet count NOS\t1232
+2  2\t3838\ta3506391000006111\tPlatelet count\t184

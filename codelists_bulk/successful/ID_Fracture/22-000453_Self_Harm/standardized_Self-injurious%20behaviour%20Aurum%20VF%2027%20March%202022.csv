@@ -1,0 +1,13 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,OriginalReadCode,CleansedReadCode,SnomedCTDescriptionId,Unnamed: 7,TH agrees?,Search terms: *self* *injur*       *self* *harm*
+331589018,Suicide and selfinflicted injury NOS,4000,248062006,TKz,TKz..00,370336015,,Y,
+404265013,Suicide and selfinflicted injury,40000,248062006,TK,TK...00,370336015,,Y,
+425851000006114,[X]Self inflicted injury,20000,248062006,U2-1,U2...11,370336015,,Y,
+5591421000006115,Self inflicted injury,2000,276853009,^ESCTSE559142, ,413174019,,Y,
+334956014,[X]Intentional self harm by unspecified means,30000,418420002,U2z,U2z..00,2576648017,,Y,
+404266014,Suicide and self harm,10000,248062006,TK-4,TK...14,370336015,,Y,
+458925017,H/O: deliberate self harm,200000,314550003,146B,146B.00,458925017,,Y,
+940461000006119,H/O: deliberate self harm outside prison,20,940461000006103,HMPNQHO1, ,940461000006119,,Y,
+940471000006114,H/O: deliberate self harm within prison,30,940471000006105,HMPNQHO2, ,940471000006114,,Y,
+971271000006116,Injury from deliberate self harm,40,971271000006100,TRIQQIN7, ,971271000006116,,Y,
+5513141000006117,Suicide and self harm,10,269725004,^ESCTSU551314, ,404266014,,Y,
+6047261000006111,History of deliberate self harm,40,314550003,^ESCTHI604726, ,2986831018,,Y,

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 25
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\ttriglycerides']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                            \tMedCodeId\tObservations\tTerm\ttriglycerides
+0  0\ta145471000006115\t50000000\tSerum triglycerides level\ttriglycerides
+1         1\ta259579011\t2000000\tPlasma triglyceride level\ttriglycerides
+2        2\ta854481000006110\t400000\tFasting triglycerides\ttriglycerides

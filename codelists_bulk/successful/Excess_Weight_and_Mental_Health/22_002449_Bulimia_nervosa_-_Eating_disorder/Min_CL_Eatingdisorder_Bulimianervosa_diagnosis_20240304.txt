@@ -1,0 +1,7 @@
+	MedCodeId	Observations	Term	Eatingdisorder_Bulimianervosa_diagnosis
+0	368051000006111	80000	Bulimia nervosa	Eatingdisorder_Bulimianervosa_diagnosis
+1	527421000006116	30000	Bulimia (non-organic overeating)	Eatingdisorder_Bulimianervosa_diagnosis
+2	1222496015	30000	Bulimia	Eatingdisorder_Bulimianervosa_diagnosis
+3	368061000006113	10000	[X]Bulimia NOS	Eatingdisorder_Bulimianervosa_diagnosis
+4	366541000006118	2000	Atypical bulimia nervosa	Eatingdisorder_Bulimianervosa_diagnosis
+5	3027091000006119	2	Bulimia nervosa, purging type	Eatingdisorder_Bulimianervosa_diagnosis

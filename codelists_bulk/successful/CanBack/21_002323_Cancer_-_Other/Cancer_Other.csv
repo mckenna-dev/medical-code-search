@@ -1,0 +1,124 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1872,Cancer,Other,a288739019,Malignant neoplasm of retroperitoneum and peritoneum,L1:Cancer_L2:Other,B18..00
+1873,Cancer,Other,a1228549016,Malignant neoplasm of retroperitoneum,L1:Cancer_L2:Other,B180.00
+1874,Cancer,Other,a288741018,Malignant neoplasm of perinephric tissue,L1:Cancer_L2:Other,B180100
+1875,Cancer,Other,a288742013,Malignant neoplasm of retrocaecal tissue,L1:Cancer_L2:Other,B180200
+1876,Cancer,Other,a288744014,Malignant neoplasm of retroperitoneum NOS,L1:Cancer_L2:Other,B180z00
+1877,Cancer,Other,a174532014,Mesothelioma of peritoneum,L1:Cancer_L2:Other,B181.00
+1878,Cancer,Other,a288747019,Malignant neoplasm of specified parts of peritoneum,L1:Cancer_L2:Other,B18y.00
+1879,Cancer,Other,a288749016,Malignant neoplasm of mesocaecum,L1:Cancer_L2:Other,B18y100
+1880,Cancer,Other,a288751017,Malignant neoplasm of mesorectum,L1:Cancer_L2:Other,B18y200
+1881,Cancer,Other,a482641017,Malignant neoplasm of omentum,L1:Cancer_L2:Other,B18y300
+1882,Cancer,Other,a155446017,Malignant neoplasm of parietal peritoneum,L1:Cancer_L2:Other,B18y400
+1883,Cancer,Other,a155452016,Malignant neoplasm of pelvic peritoneum,L1:Cancer_L2:Other,B18y500
+1884,Cancer,Other,a288754013,Malignant neoplasm of the pouch of Douglas,L1:Cancer_L2:Other,B18y600
+1885,Cancer,Other,a482537012,Malignant neoplasm of mesentery,L1:Cancer_L2:Other,B18y700
+1886,Cancer,Other,a288756010,Malignant neoplasm of specified parts of peritoneum NOS,L1:Cancer_L2:Other,B18yz00
+1887,Cancer,Other,a288757018,Malignant neoplasm of retroperitoneum and peritoneum NOS,L1:Cancer_L2:Other,B18z.00
+1888,Cancer,Other,a288760013,Malignant neoplasm of spleen NEC,L1:Cancer_L2:Other,B1z1.00
+1889,Cancer,Other,a288761012,Angiosarcoma of spleen,L1:Cancer_L2:Other,B1z1000
+1890,Cancer,Other,a288762017,Fibrosarcoma of spleen,L1:Cancer_L2:Other,B1z1100
+1891,Cancer,Other,a288763010,Malignant neoplasm of spleen NOS,L1:Cancer_L2:Other,B1z1z00
+1892,Cancer,Other,a219181000006119,Pleural fluid: malignant cells present,L1:Cancer_L2:Other,4D56.00
+1893,Cancer,Other,a403673017,Malignant neoplasm of digestive organs and peritoneum,L1:Cancer_L2:Other,B1...00
+1894,Cancer,Other,a537051000006118,Carcinoma of digestive organs and peritoneum,L1:Cancer_L2:Other,B1...11
+1895,Cancer,Other,a247091000006118,Overlapping malignant lesion of retroperitoneum and peritoneum,L1:Cancer_L2:Other,B182.00
+1896,Cancer,Other,a729561000006118,Malig neop oth/ill-defined sites digestive tract/peritoneum,L1:Cancer_L2:Other,B1z..00
+1897,Cancer,Other,a288764016,"Malignant neoplasm, overlapping lesion of digestive system",L1:Cancer_L2:Other,B1z2.00
+1898,Cancer,Other,a720461000006110,Malignant neoplasm other spec digestive tract and peritoneum,L1:Cancer_L2:Other,B1zy.00
+1899,Cancer,Other,a288766019,Malignant neoplasm of digestive tract and peritoneum NOS,L1:Cancer_L2:Other,B1zz.00
+1900,Cancer,Other,a289435015,Malignant tumour of axilla,L1:Cancer_L2:Other,B551000
+1901,Cancer,Other,a155477015,Malignant neoplasm of presacral region,L1:Cancer_L2:Other,B553100
+1902,Cancer,Other,a155501015,Malignant neoplasm of sacrococcygeal region,L1:Cancer_L2:Other,B553200
+1903,Cancer,Other,a289446017,Malignant neoplasm of upper limb NOS,L1:Cancer_L2:Other,B554.00
+1904,Cancer,Other,a289447014,Malignant tumour of lower limb,L1:Cancer_L2:Other,B555.00
+1905,Cancer,Other,a289448016,Malignant neoplasm of other specified sites,L1:Cancer_L2:Other,B55y.00
+1906,Cancer,Other,a289449012,Malignant neoplasm of back,L1:Cancer_L2:Other,B55y000
+1907,Cancer,Other,a289450012,Malignant neoplasm of trunk,L1:Cancer_L2:Other,B55y100
+1908,Cancer,Other,a289451011,Malignant neoplasm of flank,L1:Cancer_L2:Other,B55y200
+1909,Cancer,Other,a289452016,Malignant neoplasm of specified site NOS,L1:Cancer_L2:Other,B55yz00
+1910,Cancer,Other,a723601000006116,Malignant neoplasm of other and ill defined site NOS,L1:Cancer_L2:Other,B55z.00
+1911,Cancer,Other,a745971000006116,Letterer-Siwe disease (clinical),L1:Cancer_L2:Other,B625.00
+1912,Cancer,Other,a824231000006111,"Histiocytosis X (acute, progressive)",L1:Cancer_L2:Other,B625.11
+1913,Cancer,Other,a289776011,Letterer-Siwe disease of unspecified sites,L1:Cancer_L2:Other,B625000
+1914,Cancer,Other,a154082012,Letterer-Siwe disease of intrathoracic lymph nodes,L1:Cancer_L2:Other,B625200
+1915,Cancer,Other,a154089015,Letterer-Siwe disease of lymph nodes of multiple sites,L1:Cancer_L2:Other,B625800
+1916,Cancer,Other,a289780018,Letterer-Siwe disease NOS,L1:Cancer_L2:Other,B625z00
+1917,Cancer,Other,a289781019,Malignant mast cell tumours,L1:Cancer_L2:Other,B626.00
+1918,Cancer,Other,a289783016,Mast cell malignancy,L1:Cancer_L2:Other,B626000
+1919,Cancer,Other,a716911000006110,Mast cell malignancy of lymph nodes of inguinal region and lower limb,L1:Cancer_L2:Other,B626500
+1920,Cancer,Other,a289791013,Mast cell malignancy of lymph nodes of multiple sites,L1:Cancer_L2:Other,B626800
+1921,Cancer,Other,a289793011,Malignant mast cell tumour NOS,L1:Cancer_L2:Other,B626z00
+1922,Cancer,Other,a1815131000006111,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue,L1:Cancer_L2:Other,B627F00
+1923,Cancer,Other,a1815261000006114,Multifocal and unisystemic Langerhans-cell histiocytosis,L1:Cancer_L2:Other,B62B.00
+1924,Cancer,Other,a2168481000000111,Unifocal Langerhans-cell histiocytosis,L1:Cancer_L2:Other,B62C.00
+1925,Cancer,Other,a411516014,Immunoproliferative neoplasm,L1:Cancer_L2:Other,B62zz11
+1926,Cancer,Other,a289873010,Other immunoproliferative neoplasms,L1:Cancer_L2:Other,B63y.00
+1927,Cancer,Other,a289874016,Immunoproliferative neoplasm or myeloma NOS,L1:Cancer_L2:Other,B63z.00
+1928,Cancer,Other,a554151000006112,Polycythaemia vera (clinical),L1:Cancer_L2:Other,B671.00
+1929,Cancer,Other,a1815691000006116,Myelodysplastic/myeloproliferative disease,L1:Cancer_L2:Other,B677.00
+1930,Cancer,Other,a2645960018,Myeloproliferative disorder,L1:Cancer_L2:Other,B6y0.00
+1931,Cancer,Other,a683351000006111,Myeloproliferative disease,L1:Cancer_L2:Other,B6y0.11
+1932,Cancer,Other,a451430017,Plasmacytoma NOS,L1:Cancer_L2:Other,B936.12
+1933,Cancer,Other,a316761000006111,Spindle cell carcinoma,L1:Cancer_L2:Other,BB1D.00
+1934,Cancer,Other,a315631000006118,[M]Polygonal cell carcinoma,L1:Cancer_L2:Other,BB1F.00
+1935,Cancer,Other,a291331014,[M]Spheroidal cell carcinoma,L1:Cancer_L2:Other,BB1G.00
+1936,Cancer,Other,a291343010,Papillary carcinoma,L1:Cancer_L2:Other,BB22.00
+1937,Cancer,Other,a291344016,Verrucous carcinoma,L1:Cancer_L2:Other,BB24.00
+1938,Cancer,Other,a318051000006112,[M]Verrucous epidermoid carcinoma,L1:Cancer_L2:Other,BB24.11
+1939,Cancer,Other,a318081000006116,[M]Verrucous squamous cell carcinoma,L1:Cancer_L2:Other,BB24.12
+1940,Cancer,Other,a315011000006119,Papillary squamous cell carcinoma,L1:Cancer_L2:Other,BB26.00
+1941,Cancer,Other,a314891000006116,[M]Papillary epidermoid carcinoma,L1:Cancer_L2:Other,BB26.11
+1942,Cancer,Other,a316181000006119,[M]Schneiderian carcinoma,L1:Cancer_L2:Other,BB46.00
+1943,Cancer,Other,a317691000006112,"[M]Transitional cell carcinoma, spindle cell type",L1:Cancer_L2:Other,BB47.00
+1944,Cancer,Other,a304701000006118,Adenoid cystic carcinoma,L1:Cancer_L2:Other,BB5J.00
+1945,Cancer,Other,a307281000006110,[M]Cylindroid adenocarcinoma,L1:Cancer_L2:Other,BB5J.11
+1946,Cancer,Other,a307291000006113,[M]Cylindroid bronchial adenoma,L1:Cancer_L2:Other,BB5J.12
+1947,Cancer,Other,a307271000006112,[M]Cribriform carcinoma,L1:Cancer_L2:Other,BB5K.00
+1948,Cancer,Other,a1216670013,"[M]Carcinoid tumour, argentaffin, malignant",L1:Cancer_L2:Other,BB5R300
+1949,Cancer,Other,a291419011,"[M]Carcinoid tumour, nonargentaffin, malignant",L1:Cancer_L2:Other,BB5R500
+1950,Cancer,Other,a1216356017,"[M]Mucocarcinoid tumour, malignant",L1:Cancer_L2:Other,BB5R600
+1951,Cancer,Other,a308031000006115,[M]Eosinophil carcinoma,L1:Cancer_L2:Other,BB5V311
+1952,Cancer,Other,a305861000006114,Basophil carcinoma,L1:Cancer_L2:Other,BB5V700
+1953,Cancer,Other,a313191000006112,[M]Mucoid cell carcinoma,L1:Cancer_L2:Other,BB5V711
+1954,Cancer,Other,a314621000006117,Oxyphilic adenocarcinoma,L1:Cancer_L2:Other,BB5W100
+1955,Cancer,Other,a314071000006112,[M]Nonencapsulated sclerosing carcinoma,L1:Cancer_L2:Other,BB5f700
+1956,Cancer,Other,a305011000006117,Adrenal cortical carcinoma,L1:Cancer_L2:Other,BB5h100
+1957,Cancer,Other,a316511000006118,Signet ring carcinoma,L1:Cancer_L2:Other,BB85.00
+1958,Cancer,Other,a316531000006112,Signet ring cell carcinoma,L1:Cancer_L2:Other,BB85000
+1959,Cancer,Other,a310861000006116,Krukenberg tumour,L1:Cancer_L2:Other,BB85111
+1960,Cancer,Other,a291528014,[M]Signet ring carcinoma NOS,L1:Cancer_L2:Other,BB85z00
+1961,Cancer,Other,a316441000006115,[M]Sertoli cell carcinoma,L1:Cancer_L2:Other,BBCA.00
+1962,Cancer,Other,a315101000006118,Malignant paraganglioma,L1:Cancer_L2:Other,BBD1.00
+1963,Cancer,Other,a315251000006110,Malignant phaeochromocytoma,L1:Cancer_L2:Other,BBDA.00
+1964,Cancer,Other,a315231000006115,[M]Phaeochromoblastoma,L1:Cancer_L2:Other,BBDA.11
+1965,Cancer,Other,a309351000006116,Glomangiosarcoma,L1:Cancer_L2:Other,BBDB.00
+1966,Cancer,Other,a309361000006119,[M]Glomoid sarcoma,L1:Cancer_L2:Other,BBDB.11
+1967,Cancer,Other,a308181000006118,[M]Epithelioid cell melanoma,L1:Cancer_L2:Other,BBEP.00
+1968,Cancer,Other,a291607010,Spindle cell melanoma,L1:Cancer_L2:Other,BBEQ.00
+1969,Cancer,Other,a316801000006119,"[M]Spindle cell melanoma, type B",L1:Cancer_L2:Other,BBES.00
+1970,Cancer,Other,a312851000006119,[M]Mixed epithelioid and spindle melanoma,L1:Cancer_L2:Other,BBET.00
+1971,Cancer,Other,a316821000006112,Spindle cell sarcoma,L1:Cancer_L2:Other,BBF3.00
+1972,Cancer,Other,a1235290011,[M]Giant cell sarcoma (except of bone),L1:Cancer_L2:Other,BBF4.00
+1973,Cancer,Other,a315511000006111,Pleomorphic cell sarcoma,L1:Cancer_L2:Other,BBF4.11
+1974,Cancer,Other,a308191000006115,Epithelioid cell sarcoma,L1:Cancer_L2:Other,BBF6.00
+1975,Cancer,Other,a309041000006115,Germinoma,L1:Cancer_L2:Other,BBQ2.00
+1976,Cancer,Other,a307861000006118,Endodermal sinus tumour,L1:Cancer_L2:Other,BBQ4.00
+1977,Cancer,Other,a317421000006112,"[M]Teratoblastoma, malignant",L1:Cancer_L2:Other,BBQ7213
+1978,Cancer,Other,a317431000006110,[M]Teratocarcinoma,L1:Cancer_L2:Other,BBQ7300
+1979,Cancer,Other,a312041000006113,Malignant teratoma - undifferentiated,L1:Cancer_L2:Other,BBQ7400
+1980,Cancer,Other,a312021000006118,"[M]Malignant teratoma, intermediate type",L1:Cancer_L2:Other,BBQ7500
+1981,Cancer,Other,a307531000006112,[M]Dermoid cyst with malignant transformation,L1:Cancer_L2:Other,BBQ9.00
+1982,Cancer,Other,a1216406014,Mixed germ cell tumour,L1:Cancer_L2:Other,BBQB.00
+1983,Cancer,Other,a309741000006117,Haemangiosarcoma,L1:Cancer_L2:Other,BBT1.00
+1984,Cancer,Other,a309641000006111,"[M]Haemangioendothelioma, malignant",L1:Cancer_L2:Other,BBT7100
+1985,Cancer,Other,a1216731014,"[M]Epithelioid haemangioendothelioma, malignant",L1:Cancer_L2:Other,BBTK.00
+1986,Cancer,Other,a215915014,Malignant histiocytosis,L1:Cancer_L2:Other,BBm1.00
+1987,Cancer,Other,a1220816015,[M]Acute progressive histiocytosis X,L1:Cancer_L2:Other,BBm3.12
+1988,Cancer,Other,a304071000006110,[M] Angioendotheliomatosis,L1:Cancer_L2:Other,BBmJ.00
+1989,Cancer,Other,a292099015,Malignant tumour of digestive organ,L1:Cancer_L2:Other,Byu1.00
+1990,Cancer,Other,a396651000006117,Malignant neoplasm of gastrointestinal tract,L1:Cancer_L2:Other,Byu1300
+1991,Cancer,Other,a292158011,[X]Malignant neoplasm of other specified sites,L1:Cancer_L2:Other,ByuC000
+1992,Cancer,Other,a292175017,Malignant immunoproliferative disease (clinical),L1:Cancer_L2:Other,ByuD400
+1993,Cancer,Other,a396631000006112,[X]Malignant neoplasms/independent (primary) multiple sites,L1:Cancer_L2:Other,ByuE.00
+1994,Cancer,Other,a396641000006119,[X]Malignant neoplasms/independent(primary)multiple sites,L1:Cancer_L2:Other,ByuE000

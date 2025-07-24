@@ -1,0 +1,9 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	snomedctdescriptionid	release	term2
+1780272016	"FH: Myocardial infarct in 1st degree male relative <55 years"	"12CP"	"12CP.00"	401067009	1780272016		"FH: Myocardial infarct in 1st degree male relative <55 years"
+460145014	"FH angina female first degree age known"	"12CG"	"12CG.00"	315626001	460145014		"FH angina female first degree age known"
+460138014	"FH myocardial infarction male first degree age known"	"12CA"	"12CA.00"	315619001	460138014		"FH myocardial infarction male first degree age known"
+1780323013	"FH: Angina in 1st degree male relative <55 years"	"12CM"	"12CM.00"	401122004	1780323013		"FH: Angina in 1st degree male relative <55 years"
+460142012	"FH angina male first degree age known"	"12CE"	"12CE.00"	315623009	460142012		"FH angina male first degree age known"
+460140016	"FH myocardial infarction female first degree age known"	"12CC"	"12CC.00"	315621006	460140016		"FH myocardial infarction female first degree age known"
+1669611000006115	"FH: Cardiovascular disease 1st degree male relative < 55 years"	"EMISNQFH8"	""	1669611000006104	1669611000006115		"FH: Cardiovascular disease 1st degree male relative < 55 years"
+1676931000006119	"FH: Cardiovascular disease 1st degree male relative < 55 yrs"	"12CV"	"12CV.00"	439724007	1676931000006119		"FH: Cardiovascular disease 1st degree male relative < 55 yrs"

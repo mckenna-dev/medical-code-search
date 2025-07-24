@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 68
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+    MedCodeId  Observations               Term  SNOMED_CT_Concept_ID
+0  a150085018       3000000               Gout                   NaN
+1  a293392012        100000  Gouty arthropathy                   NaN
+2  a293412014        100000           Gout NOS                   NaN

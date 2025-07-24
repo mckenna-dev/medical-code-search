@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22-002449-Excess_Body_Weight/blob/main/Codelists/Covariates/Min_CL_Maritalstatus.txt
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22-002449-Excess_Body_Weight/main/Codelists/Covariates/Min_CL_Maritalstatus.txt
+Codelist Name: Marital Status
+Project Title: Excess Weight and Mental Health
+ERAP Number: 22_002449
+Author: Min Gao
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:27:19
+File Size: 6492 bytes

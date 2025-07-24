@@ -1,0 +1,43 @@
+{
+  "original_file": "codelists_bulk\\successful\\ID_Fracture\\22-000453_Hypogonadism\\standardized_Hypogonadism%20final%2010%20Feb%202022.csv",
+  "original_columns": [
+    "MedCodeId",
+    "Term",
+    "Observations",
+    "SNOMED_CT_Concept_ID",
+    "OriginalReadCode",
+    "CleansedReadCode",
+    "In records",
+    "SnomedCTDescriptionId",
+    "Unnamed: 8",
+    "Search terms: gonad, menop, testost, cryptorchyd, amenorrh, turner, klinefelter, kallman, x0, xxy, testic, ovar, androg, eunu"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "snomed_ct_concept_id": "SNOMED_CT_Concept_ID",
+    "observations": "Observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "snomed_ct_concept_id": {
+      "column": "SNOMED_CT_Concept_ID",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 207,
+  "rows_standardized": 207,
+  "project": "ID_Fracture",
+  "codelist": "22-000453_Hypogonadism"
+}

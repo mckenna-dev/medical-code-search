@@ -1,0 +1,165 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+2982426011,,Provision of smoking cessation leaflet,699033005
+604961000006114,,Current Smoker NOS,604961000006105
+649851000006112,,Ex- Rolled Tobacco Smoker,649851000006108
+649861000006114,,Ex-Cigarette Smoker,649861000006105
+852111000006118,,Gradual smoking reduction,852111000006102
+853001000006110,,Ex-smoker NOS,853001000006106
+852991000006114,,Ex-cigar smoker,
+854021000006115,,Cigarette smoker,854021000006104
+854051000006112,,Ex-pipe smoker,854051000006108
+854071000006119,,Current smoker,854071000006103
+854111000006110,,Past smoker,854111000006106
+854951000006113,,Grade A non-smoker,854951000006109
+854961000006110,,Grade B light smoker (1-10/day),854961000006106
+854981000006117,,Grade C moderate smoker (11-20/day),854981000006101
+855001000006114,,Grade D heavy smoker (>20 Day),855001000006105
+903981000006117,,Not interested in stopping smoking,903981000006101
+904001000006111,,Ready to stop smoking,904001000006107
+904021000006118,,Previous smoking quit attempts,904021000006102
+904011000006114,,Smoking cessation declaration signed by patient,904011000006105
+904031000006115,,Thinking about stopping smoking,904031000006104
+904111000006113,,Carbon monoxide validation confirms non-smoker,904111000006109
+904121000006117,,Carbon monoxide validation confirms smoker,904121000006101
+961581000006114,,Smokes/uses tobacco products,961581000006105
+1009271000006118,,Non Smoker - Nos,1009271000006102
+1777011000006118,,Reason for referral: Smoking Cessation,1777011000006102
+1771191000006119,,Attends smoking cessation clinic not at practice,201941000000100
+137711000006111,,Smoker (Read codes),137711000006107
+854151000006111,,Date stopped smoking,854151000006107
+904191000006115,,Smoking cessation motivation score,904191000006104
+904181000006118,,Smoking cessation counselling,904181000006102
+904201000006117,,Smoking cessation confidence score,904201000006101
+904211000006119,,Smoking cessation service patient satisfaction score,904211000006103
+904221000006110,,Smoking cessation bupropion therapy,904221000006106
+904231000006113,,Smoking cessation counselling by telephone,904231000006109
+904241000006115,,Smoking cessation counselling in person,904241000006104
+909391000006117,,[RFC] Smoking cessation,909391000006101
+1591651000006110,,Smoking cessation referral declined,1591651000006106
+1626121000006116,,Smoking cessation drug therapy - varenicline,1626121000006100
+1819411000006114,,Smoking increased,1819411000006105
+37311000006117,,Other anti-smoking drug given,37311000006101
+852121000006114,,Smoking cessation-maintain abstinence,852121000006105
+852131000006112,,Smoking cessation-practice nurse support,852131000006108
+856371000006111,,Smoking clinic,856371000006107
+1694421000006112,,Stop smoking monitoring admin.,714001000000108
+1758971000006113,,Stop smoking monitoring invitation SMS text message sent,
+1758981000006111,,Stop smoking monitoring invitation first SMS text message sent,
+1758991000006114,,Stop smoking monitoring invitation second SMS text message sent,
+1759001000006114,,Stop smoking monitoring invitation third SMS text message sent,
+1778181000006110,,Group session: Stop smoking education programme,1778181000006106
+1809131000006111,,Total time smoked,228487000
+137721000006115,,Smoker - amount smoked,266918002
+397732011,,Never smoked tobacco,266919005
+14866014,,Non-smoker,8392000
+88471000006112,,Trivial smoker - < 1 cig/day,266920004
+397733018,,Occasional smoker,428041000124106
+743331000006116,,Light smoker - 1-9 cigs/day,160603005
+700121000006118,,Moderate smoker - 10-19 cigs/d,160604004
+819331000006110,,Heavy smoker - 20-39 cigs/day,160605003
+67621000006112,,Very heavy smoker - 40+cigs/d,160606002
+250363016,,Ex-trivial smoker (<1/day),266921000
+250364010,,Ex-light smoker (1-9/day),266922007
+250365011,,Ex-moderate smoker (10-19/day),266923002
+250366012,,Ex-heavy smoker (20-39/day),266924008
+344795016,,Pipe tobacco consumption,230058003
+250367015,,Ex-very heavy smoker (40+/day),266925009
+1488577017,,Ready to stop smoking,394872000
+250368013,,Keeps trying to stop smoking,160612007
+1488576014,,Thinking about stopping smoking,394871007
+1488578010,,Not interested in stopping smoking,394873005
+2670126018,,Smoking restarted,308438006
+250371017,,Ex-smoker - amount unknown,8517006
+1780360012,,Reason for restarting smoking,401159003
+903041000006110,,EX-Smoker NOS,266928006
+250372012,,Trying to give up smoking,160616005
+1780396011,,Cigarette pack-years,401201003
+136515019,,Pipe smoker,82302008
+2474719011,,Minutes from waking to first tobacco consumption,413173009
+72373013,,Passive smoker,43381005
+342613016,,Exposed to tobacco smoke at home,228524006
+99639019,,Cigar smoker,59978006
+418914010,,Ex-cigarette smoker,281018007
+250373019,,Stopped smoking,160617001
+1151791000000117,,Recently stopped smoking,517211000000106
+250374013,,Current non-smoker,160618006
+1059701000000119,,Ex roll-up cigarette smoker,492191000000103
+903051000006112,,Tobacco Consumption Nil,160618006
+1592611000000110,,Failed attempt to stop smoking,446172000
+250375014,,Rolls own cigarettes,160619003
+649831000006117,,Ex pipe smoker,160620009
+342574011,,Total time smoked,228487000
+649821000006115,,Ex cigar smoker,160621008
+2170961000000116,,Waterpipe tobacco consumption,836001000000109
+108938018,,Cigarette smoker,65568007
+128130017,,Smoker,77176002
+2669652019,,Smoking started,266929003
+137791000006118,,Smoking restarted,308438006
+503483019,,Current smoker,77176002
+649841000006110,,Ex smoker,8517006
+250385010,,Date ceased smoking,160625004
+459702016,,Not a passive smoker,315213009
+216212011,,Smoking reduced,134406006
+344793011,,Cigarette consumption,230056004
+344794017,,Cigar consumption,230057008
+1484932017,,Smoking cessation milestones,390900001
+1484933010,,Negotiated date for cessation of smoking,390901002
+1488873010,,Smoking free weeks,395177003
+1773560017,,Smoking cessation programme start date,401160008
+1563081000000115,,Practice based smoking cessation programme start date,712971000000108
+1125741000000111,,Brief intervention for smoking cessation,506491000000102
+492511000000117,,Smoking cessation therapy,710081004
+482771000000118,,Smoking cessation drug therapy,713700008
+482871000000111,,Other specified smoking cessation therapy,710081004
+489931000000114,,Smoking cessation therapy NOS,710081004
+2462431000000110,,Varenicline smoking cessation therapy offered,966991000000104
+303501000000115,,Smoking cessation advice provided by community pharmacist,200221000000105
+338608011,,Smoking cessation advice,225323000
+1750931000000118,,Stop smoking service opportunity signposted,783011000000105
+1489355012,,Referral to smoking cessation advisor,395700008
+1715591000006117,,Referral to NHS stop smoking service,505281000000106
+459722017,,Referral to stop-smoking clinic,315232003
+1176421000000118,,Smoking cessation advice declined,527151000000107
+1175011000000112,,Smoking cessation programme declined,1087441000000106
+2141561000000115,,Smoking cessation drug therapy declined,822591000000108
+2462391000000119,,Varenicline smoking cessation therapy declined,966971000000103
+2251871000000112,,Referral to smoking cessation service declined,871641000000105
+2251911000000114,,Referral to smoking cessation service,871661000000106
+736241000000116,,Smoking cessation - enhanced services administration,374361000000100
+1704491000006115,,Smoking cessatn monitor template complet - enhanc serv admin,374391000000106
+1741641000006117,,Smoking cessation ESA monitoring template completed,374391000000106
+1123951000000110,,Ex-smoker annual review - enhanced services administration,505761000000105
+1154471000000114,,Ex-smoker annual review,505761000000105
+1123751000000113,,Non-smoker annual review - enhanced services administration,505681000000109
+1154431000000112,,Non-smoker annual review,505681000000109
+1714541000006110,,Current smoker annual review - enhanced services admin,505651000000103
+1152111000000118,,Current smoker annual review,505651000000103
+1780273014,,Seen by smoking cessation advisor,401068004
+62881000000117,,DNA - Did not attend smoking cessation clinic,25261000000107
+1709641000000115,,Referral for smoking cessation service offered,767641000000109
+21681000000118,,Anti-smoking monitoring admin.,714001000000108
+25281000000119,,Stop smoking clinic admin.,714021000000104
+21691000000116,,Stop smoking monitoring admin.,714001000000108
+498831000006118,,Attends stop smoking monitor.,185789006
+285792013,,Refuses stop smoking monitor,765001003
+285793015,,Stop smoking monitor default,185791003
+128311000006112,,Stop smoking monitor 1st lettr,185792005
+128321000006116,,Stop smoking monitor 2nd lettr,185793000
+128331000006118,,Stop smoking monitor 3rd lettr,185794006
+128371000006115,,Stop smoking monitor verb.inv.,185795007
+128361000006110,,Stop smoking monitor phone inv,185796008
+285805010,,Stop smoking monitoring delete,185798009
+128381000006117,,Stop smoking monitor.chck done,185799001
+1751721000000113,,Stop smoking invitation short message service text message,783381000000101
+1785671000006116,,Stop smoking invitation first SMS text message,783401000000101
+1785681000006118,,Stop smoking invitation second SMS text message,783441000000103
+1785691000006115,,Stop smoking invitation third SMS text message,783481000000106
+16261000000110,,Stop smoking monitor admin.NOS,714001000000108
+78013015,,Smokers' cough,46802002
+342444018,,Smokes drugs in cigarette form,228378005
+852981000006111,,Rolls own cigarettes,852981000006107
+904041000006113,,Waking time to first cigarette,904041000006109
+904091000006116,,Date of last cigarette,904091000006100
+981841000006115,,Exposure to cigarette/cigar smoke,981841000006104
+342443012,,Smokes drugs,228377000
+342445017,,Smokes drugs through a pipe,228379002

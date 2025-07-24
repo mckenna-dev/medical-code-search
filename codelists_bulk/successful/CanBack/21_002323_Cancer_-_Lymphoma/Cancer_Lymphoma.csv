@@ -1,0 +1,280 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1449,Cancer,Lymphoma,a289594015,Lymphosarcoma of intrathoracic lymph nodes,L1:Cancer_L2:Lymphoma,B601200
+1450,Cancer,Lymphoma,a289595019,Lymphosarcoma of intra-abdominal lymph nodes,L1:Cancer_L2:Lymphoma,B601300
+1451,Cancer,Lymphoma,a289599013,Lymphosarcoma of spleen,L1:Cancer_L2:Lymphoma,B601700
+1452,Cancer,Lymphoma,a289601010,Lymphosarcoma NOS,L1:Cancer_L2:Lymphoma,B601z00
+1453,Cancer,Lymphoma,a2663190016,Burkitt's lymphoma,L1:Cancer_L2:Lymphoma,B602.00
+1454,Cancer,Lymphoma,a289603013,"Burkitt's lymphoma of lymph nodes of head, face and neck",L1:Cancer_L2:Lymphoma,B602100
+1455,Cancer,Lymphoma,a289604019,Burkitt's lymphoma of intrathoracic lymph nodes,L1:Cancer_L2:Lymphoma,B602200
+1456,Cancer,Lymphoma,a289605018,Burkitt's lymphoma of intra-abdominal lymph nodes,L1:Cancer_L2:Lymphoma,B602300
+1457,Cancer,Lymphoma,a527801000006112,Burkitt's lymphoma of lymph nodes of inguinal region and leg,L1:Cancer_L2:Lymphoma,B602500
+1458,Cancer,Lymphoma,a289612010,Burkitt's lymphoma NOS,L1:Cancer_L2:Lymphoma,B602z00
+1459,Cancer,Lymphoma,a2663473018,Hodgkin's disease,L1:Cancer_L2:Lymphoma,B61..00
+1460,Cancer,Lymphoma,a1815031000006110,Hodgkin lymphoma,L1:Cancer_L2:Lymphoma,B61..11
+1461,Cancer,Lymphoma,a826681000006115,Hodgkin's paragranuloma,L1:Cancer_L2:Lymphoma,B610.00
+1462,Cancer,Lymphoma,a826751000006118,"Hodgkin's paragranuloma of lymph nodes of head, face, neck",L1:Cancer_L2:Lymphoma,B610100
+1463,Cancer,Lymphoma,a289621011,Hodgkin's paragranuloma of intra-abdominal lymph nodes,L1:Cancer_L2:Lymphoma,B610300
+1464,Cancer,Lymphoma,a2663476014,Hodgkin's granuloma,L1:Cancer_L2:Lymphoma,B611.00
+1465,Cancer,Lymphoma,a289629013,"Hodgkin's granuloma of lymph nodes of head, face and neck",L1:Cancer_L2:Lymphoma,B611100
+1466,Cancer,Lymphoma,a2663376010,Hodgkin's sarcoma,L1:Cancer_L2:Lymphoma,B612.00
+1467,Cancer,Lymphoma,a289643015,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,L1:Cancer_L2:Lymphoma,B612400
+1468,Cancer,Lymphoma,a1220414014,"Hodgkin's disease, nodular sclerosis",L1:Cancer_L2:Lymphoma,B614.00
+1469,Cancer,Lymphoma,a289660013,"Hodgkin's disease, nodular sclerosis of unspecified site",L1:Cancer_L2:Lymphoma,B614000
+1470,Cancer,Lymphoma,a826611000006110,"Hodgkin's nodular sclerosis of head, face and neck",L1:Cancer_L2:Lymphoma,B614100
+1471,Cancer,Lymphoma,a826651000006111,Hodgkin's nodular sclerosis of intrathoracic lymph nodes,L1:Cancer_L2:Lymphoma,B614200
+1472,Cancer,Lymphoma,a826631000006116,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes,L1:Cancer_L2:Lymphoma,B614300
+1473,Cancer,Lymphoma,a826661000006113,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm,L1:Cancer_L2:Lymphoma,B614400
+1474,Cancer,Lymphoma,a154811011,"Hodgkin's disease, nodular sclerosis of spleen",L1:Cancer_L2:Lymphoma,B614700
+1475,Cancer,Lymphoma,a826671000006118,Hodgkin's nodular sclerosis of lymph nodes of multiple sites,L1:Cancer_L2:Lymphoma,B614800
+1476,Cancer,Lymphoma,a289669014,"Hodgkin's disease, nodular sclerosis NOS",L1:Cancer_L2:Lymphoma,B614z00
+1477,Cancer,Lymphoma,a2663461018,"Hodgkin's disease, mixed cellularity",L1:Cancer_L2:Lymphoma,B615.00
+1478,Cancer,Lymphoma,a289670010,"Hodgkin's disease, mixed cellularity of unspecified site",L1:Cancer_L2:Lymphoma,B615000
+1479,Cancer,Lymphoma,a826571000006117,"Hodgkin's mixed cellularity of lymph nodes head, face, neck",L1:Cancer_L2:Lymphoma,B615100
+1480,Cancer,Lymphoma,a826561000006112,Hodgkin's mixed cellularity of intrathoracic lymph nodes,L1:Cancer_L2:Lymphoma,B615200
+1481,Cancer,Lymphoma,a826581000006119,Hodgkin's mixed cellularity of lymph nodes inguinal and leg,L1:Cancer_L2:Lymphoma,B615500
+1482,Cancer,Lymphoma,a289679011,"Hodgkin's disease, mixed cellularity NOS",L1:Cancer_L2:Lymphoma,B615z00
+1483,Cancer,Lymphoma,a2663187010,"Hodgkin's disease, lymphocytic depletion",L1:Cancer_L2:Lymphoma,B616.00
+1484,Cancer,Lymphoma,a289680014,Hodgkin's lymphocytic depletion of unspecified site,L1:Cancer_L2:Lymphoma,B616000
+1485,Cancer,Lymphoma,a826471000006116,Hodgkin's lymphocytic depletion lymph nodes axilla and arm,L1:Cancer_L2:Lymphoma,B616400
+1486,Cancer,Lymphoma,a826481000006118,Hodgkin's lymphocytic depletion lymph nodes inguinal and leg,L1:Cancer_L2:Lymphoma,B616500
+1487,Cancer,Lymphoma,a289699017,"Hodgkin's disease, lymphocytic depletion of spleen",L1:Cancer_L2:Lymphoma,B616700
+1488,Cancer,Lymphoma,a826491000006115,Hodgkin's lymphocytic depletion lymph nodes multiple sites,L1:Cancer_L2:Lymphoma,B616800
+1489,Cancer,Lymphoma,a289701017,"Hodgkin's disease, lymphocytic depletion NOS",L1:Cancer_L2:Lymphoma,B616z00
+1490,Cancer,Lymphoma,a2168431000000112,Nodular lymphocyte predominant Hodgkin lymphoma,L1:Cancer_L2:Lymphoma,B617.00
+1491,Cancer,Lymphoma,a1815051000006115,Nodular sclerosis classical Hodgkin lymphoma,L1:Cancer_L2:Lymphoma,B618.00
+1492,Cancer,Lymphoma,a1815061000006118,Mixed cellularity classical Hodgkin lymphoma,L1:Cancer_L2:Lymphoma,B619.00
+1493,Cancer,Lymphoma,a2870724014,Lymphocyte-rich classical Hodgkin lymphoma,L1:Cancer_L2:Lymphoma,B61B.00
+1494,Cancer,Lymphoma,a1815091000006114,Other classical Hodgkin lymphoma,L1:Cancer_L2:Lymphoma,B61C.00
+1495,Cancer,Lymphoma,a826121000006114,Hodgkin's disease NOS,L1:Cancer_L2:Lymphoma,B61z.00
+1496,Cancer,Lymphoma,a1815101000006115,Hodgkin lymphoma NOS,L1:Cancer_L2:Lymphoma,B61z.11
+1497,Cancer,Lymphoma,a289703019,"Hodgkin's disease NOS, unspecified site",L1:Cancer_L2:Lymphoma,B61z000
+1498,Cancer,Lymphoma,a289704013,"Hodgkin's disease NOS of lymph nodes of head, face and neck",L1:Cancer_L2:Lymphoma,B61z100
+1499,Cancer,Lymphoma,a289705014,Hodgkin's disease NOS of intrathoracic lymph nodes,L1:Cancer_L2:Lymphoma,B61z200
+1500,Cancer,Lymphoma,a289706010,Hodgkin's disease NOS of intra-abdominal lymph nodes,L1:Cancer_L2:Lymphoma,B61z300
+1501,Cancer,Lymphoma,a826181000006113,Hodgkin's disease NOS of lymph nodes of axilla and arm,L1:Cancer_L2:Lymphoma,B61z400
+1502,Cancer,Lymphoma,a826171000006110,Hodgkin's disease NOS of lymph nodes inguinal region and leg,L1:Cancer_L2:Lymphoma,B61z500
+1503,Cancer,Lymphoma,a289710013,Hodgkin's disease NOS of spleen,L1:Cancer_L2:Lymphoma,B61z700
+1504,Cancer,Lymphoma,a289711012,Hodgkin's disease NOS of lymph nodes of multiple sites,L1:Cancer_L2:Lymphoma,B61z800
+1505,Cancer,Lymphoma,a289702012,Hodgkin's disease NOS,L1:Cancer_L2:Lymphoma,B61zz00
+1506,Cancer,Lymphoma,a673611000006113,Nodular lymphoma (Brill - Symmers disease),L1:Cancer_L2:Lymphoma,B620.00
+1507,Cancer,Lymphoma,a289717011,Nodular lymphoma of unspecified site,L1:Cancer_L2:Lymphoma,B620000
+1508,Cancer,Lymphoma,a157688015,Nodular lymphoma of intrathoracic lymph nodes,L1:Cancer_L2:Lymphoma,B620200
+1509,Cancer,Lymphoma,a157686016,Nodular lymphoma of intra-abdominal lymph nodes,L1:Cancer_L2:Lymphoma,B620300
+1510,Cancer,Lymphoma,a673681000006118,Nodular lymphoma of lymph nodes of inguinal region and leg,L1:Cancer_L2:Lymphoma,B620500
+1511,Cancer,Lymphoma,a157692010,Nodular lymphoma of lymph nodes of multiple sites,L1:Cancer_L2:Lymphoma,B620800
+1512,Cancer,Lymphoma,a289726014,Nodular lymphoma NOS,L1:Cancer_L2:Lymphoma,B620z00
+1513,Cancer,Lymphoma,a2663191017,Mycosis fungoides,L1:Cancer_L2:Lymphoma,B621.00
+1514,Cancer,Lymphoma,a289727017,Mycosis fungoides of unspecified site,L1:Cancer_L2:Lymphoma,B621000
+1515,Cancer,Lymphoma,a157075017,Mycosis fungoides of lymph nodes of axilla and upper limb,L1:Cancer_L2:Lymphoma,B621400
+1516,Cancer,Lymphoma,a683691000006113,Mycosis fungoides of lymph nodes of inguinal region and leg,L1:Cancer_L2:Lymphoma,B621500
+1517,Cancer,Lymphoma,a289738017,Mycosis fungoides of lymph nodes of multiple sites,L1:Cancer_L2:Lymphoma,B621800
+1518,Cancer,Lymphoma,a289739013,Mycosis fungoides NOS,L1:Cancer_L2:Lymphoma,B621z00
+1519,Cancer,Lymphoma,a146651000006118,Sezary's disease,L1:Cancer_L2:Lymphoma,B622.00
+1520,Cancer,Lymphoma,a289749011,Sezary's disease NOS,L1:Cancer_L2:Lymphoma,B622z00
+1521,Cancer,Lymphoma,a587201000006115,Non - Hodgkin's lymphoma,L1:Cancer_L2:Lymphoma,B627.00
+1522,Cancer,Lymphoma,a2839871014,Non-Hodgkin lymphoma,L1:Cancer_L2:Lymphoma,B627.11
+1523,Cancer,Lymphoma,a414257019,Follicular non-Hodgkin's small cleaved cell lymphoma,L1:Cancer_L2:Lymphoma,B627000
+1524,Cancer,Lymphoma,a763431000006118,Follicular non-Hodg mixed sml cleavd & lge cell lymphoma,L1:Cancer_L2:Lymphoma,B627100
+1525,Cancer,Lymphoma,a414278016,Follicular non-Hodgkin's large cell lymphoma,L1:Cancer_L2:Lymphoma,B627200
+1526,Cancer,Lymphoma,a289799010,Diffuse non-Hodgkin's small cell (diffuse) lymphoma,L1:Cancer_L2:Lymphoma,B627300
+1527,Cancer,Lymphoma,a289801013,Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma,L1:Cancer_L2:Lymphoma,B627400
+1528,Cancer,Lymphoma,a621041000006116,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma,L1:Cancer_L2:Lymphoma,B627500
+1529,Cancer,Lymphoma,a1219545019,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,L1:Cancer_L2:Lymphoma,B627600
+1530,Cancer,Lymphoma,a621071000006112,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma,L1:Cancer_L2:Lymphoma,B627700
+1531,Cancer,Lymphoma,a289812013,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),L1:Cancer_L2:Lymphoma,B627800
+1532,Cancer,Lymphoma,a414252013,Mucosa-associated lymphoma,L1:Cancer_L2:Lymphoma,B627900
+1533,Cancer,Lymphoma,a1668101000000112,Diffuse non-Hodgkin's large cell lymphoma,L1:Cancer_L2:Lymphoma,B627A00
+1534,Cancer,Lymphoma,a289813015,Other types of follicular non-Hodgkin's lymphoma,L1:Cancer_L2:Lymphoma,B627B00
+1535,Cancer,Lymphoma,a451429010,Follicular non-Hodgkin's lymphoma,L1:Cancer_L2:Lymphoma,B627C00
+1536,Cancer,Lymphoma,a763421000006116,Follicular lymphoma NOS,L1:Cancer_L2:Lymphoma,B627C11
+1537,Cancer,Lymphoma,a444799014,Diffuse non-Hodgkin's centroblastic lymphoma,L1:Cancer_L2:Lymphoma,B627D00
+1538,Cancer,Lymphoma,a198006010,Diffuse large B-cell lymphoma,L1:Cancer_L2:Lymphoma,B627E00
+1539,Cancer,Lymphoma,a2870725010,Mediastinal (thymic) large B-cell lymphoma,L1:Cancer_L2:Lymphoma,B627G00
+1540,Cancer,Lymphoma,a82041000006113,Unspecified B-cell non-Hodgkin's lymphoma,L1:Cancer_L2:Lymphoma,B627W00
+1541,Cancer,Lymphoma,a621091000006113,"Diffuse non-Hodgkin's lymphoma, unspecified",L1:Cancer_L2:Lymphoma,B627X00
+1542,Cancer,Lymphoma,a1815151000006116,Follicular lymphoma,L1:Cancer_L2:Lymphoma,B628.00
+1543,Cancer,Lymphoma,a1815161000006119,Follicular lymphoma grade 1,L1:Cancer_L2:Lymphoma,B628000
+1544,Cancer,Lymphoma,a1815171000006114,Follicular lymphoma grade 2,L1:Cancer_L2:Lymphoma,B628100
+1545,Cancer,Lymphoma,a1815181000006112,Follicular lymphoma grade 3,L1:Cancer_L2:Lymphoma,B628200
+1546,Cancer,Lymphoma,a2124491000000113,Follicular lymphoma grade 3a,L1:Cancer_L2:Lymphoma,B628300
+1547,Cancer,Lymphoma,a2124511000000117,Follicular lymphoma grade 3b,L1:Cancer_L2:Lymphoma,B628400
+1548,Cancer,Lymphoma,a2901912012,Diffuse follicle centre lymphoma,L1:Cancer_L2:Lymphoma,B628500
+1549,Cancer,Lymphoma,a1815221000006115,Cutaneous follicle centre lymphoma,L1:Cancer_L2:Lymphoma,B628600
+1550,Cancer,Lymphoma,a1815231000006117,Other types of follicular lymphoma,L1:Cancer_L2:Lymphoma,B628700
+1551,Cancer,Lymphoma,a207325017,T/NK-cell lymphoma,L1:Cancer_L2:Lymphoma,B62E.00
+1552,Cancer,Lymphoma,a2168491000000113,"Anaplastic large cell lymphoma, ALK-positive",L1:Cancer_L2:Lymphoma,B62E100
+1553,Cancer,Lymphoma,a1815321000006110,"Anaplastic large cell lymphoma, ALK-negative",L1:Cancer_L2:Lymphoma,B62E200
+1554,Cancer,Lymphoma,a1815331000006113,Cutaneous T-cell lymphoma,L1:Cancer_L2:Lymphoma,B62E300
+1555,Cancer,Lymphoma,a2534467019,"Extranodal NK/T-cell lymphoma, nasal type",L1:Cancer_L2:Lymphoma,B62E400
+1556,Cancer,Lymphoma,a2872841013,Hepatosplenic T-cell lymphoma,L1:Cancer_L2:Lymphoma,B62E500
+1557,Cancer,Lymphoma,a414298014,Enteropathy-associated T-cell lymphoma,L1:Cancer_L2:Lymphoma,B62E600
+1558,Cancer,Lymphoma,a1815391000006112,Subcutaneous panniculitic T-cell lymphoma,L1:Cancer_L2:Lymphoma,B62E700
+1559,Cancer,Lymphoma,a1815401000006114,Blastic NK-cell lymphoma,L1:Cancer_L2:Lymphoma,B62E800
+1560,Cancer,Lymphoma,a2534468012,Angioimmunoblastic T-cell lymphoma,L1:Cancer_L2:Lymphoma,B62E900
+1561,Cancer,Lymphoma,a1815431000006118,Other mature T/NK-cell lymphoma,L1:Cancer_L2:Lymphoma,B62Ew00
+1562,Cancer,Lymphoma,a1815451000006113,Nonfollicular lymphoma,L1:Cancer_L2:Lymphoma,B62F.00
+1563,Cancer,Lymphoma,a2168861000000117,Non-follicular lymphoma,L1:Cancer_L2:Lymphoma,B62F.11
+1564,Cancer,Lymphoma,a1815461000006110,Small cell B-cell lymphoma,L1:Cancer_L2:Lymphoma,B62F000
+1565,Cancer,Lymphoma,a123978016,Mantle cell lymphoma,L1:Cancer_L2:Lymphoma,B62F100
+1566,Cancer,Lymphoma,a2168691000000110,Lymphoblastic (diffuse) lymphoma,L1:Cancer_L2:Lymphoma,B62F200
+1567,Cancer,Lymphoma,a289820010,Malignant lymphoma otherwise specified,L1:Cancer_L2:Lymphoma,B62x.00
+1568,Cancer,Lymphoma,a344657018,T-zone lymphoma,L1:Cancer_L2:Lymphoma,B62x000
+1569,Cancer,Lymphoma,a344670010,Lymphoepithelioid lymphoma,L1:Cancer_L2:Lymphoma,B62x100
+1570,Cancer,Lymphoma,a2659756011,Peripheral T-cell lymphoma,L1:Cancer_L2:Lymphoma,B62x200
+1571,Cancer,Lymphoma,a344806015,True histiocytic lymphoma,L1:Cancer_L2:Lymphoma,B62x600
+1572,Cancer,Lymphoma,a39671000006114,Oth and unspecif peripheral & cutaneous T-cell lymphomas,L1:Cancer_L2:Lymphoma,B62xX00
+1573,Cancer,Lymphoma,a728721000006111,Malignant lymphoma NOS,L1:Cancer_L2:Lymphoma,B62y.00
+1574,Cancer,Lymphoma,a289830018,Malignant lymphoma NOS of unspecified site,L1:Cancer_L2:Lymphoma,B62y000
+1575,Cancer,Lymphoma,a289831019,"Malignant lymphoma NOS of lymph nodes of head, face and neck",L1:Cancer_L2:Lymphoma,B62y100
+1576,Cancer,Lymphoma,a289832014,Malignant lymphoma NOS of intrathoracic lymph nodes,L1:Cancer_L2:Lymphoma,B62y200
+1577,Cancer,Lymphoma,a289842011,Malignant lymphoma NOS of intra-abdominal lymph nodes,L1:Cancer_L2:Lymphoma,B62y300
+1578,Cancer,Lymphoma,a728781000006110,Malignant lymphoma NOS of lymph nodes of axilla and arm,L1:Cancer_L2:Lymphoma,B62y400
+1579,Cancer,Lymphoma,a728771000006112,Malignant lymphoma NOS of lymph node inguinal region and leg,L1:Cancer_L2:Lymphoma,B62y500
+1580,Cancer,Lymphoma,a289845013,Malignant lymphoma NOS of intrapelvic lymph nodes,L1:Cancer_L2:Lymphoma,B62y600
+1581,Cancer,Lymphoma,a289846014,Malignant lymphoma NOS of spleen,L1:Cancer_L2:Lymphoma,B62y700
+1582,Cancer,Lymphoma,a289847017,Malignant lymphoma NOS of lymph nodes of multiple sites,L1:Cancer_L2:Lymphoma,B62y800
+1583,Cancer,Lymphoma,a289829011,Malignant lymphoma NOS,L1:Cancer_L2:Lymphoma,B62yz00
+1584,Cancer,Lymphoma,a1230735015,[M]Sezary's disease,L1:Cancer_L2:Lymphoma,BBl1.00
+1585,Cancer,Lymphoma,a292083014,[M]Monocytoid B-cell lymphoma,L1:Cancer_L2:Lymphoma,BBv0.00
+1586,Cancer,Lymphoma,a1220814017,[M]AngiocentricT-cell lymphoma,L1:Cancer_L2:Lymphoma,BBv2.00
+1587,Cancer,Lymphoma,a292169014,[X]Other Hodgkin's disease,L1:Cancer_L2:Lymphoma,ByuD000
+1588,Cancer,Lymphoma,a292170010,[X]Other types of follicular non-Hodgkin's lymphoma,L1:Cancer_L2:Lymphoma,ByuD100
+1589,Cancer,Lymphoma,a292173012,[X]Other types of diffuse non-Hodgkin's lymphoma,L1:Cancer_L2:Lymphoma,ByuD200
+1590,Cancer,Lymphoma,a292174018,[X]Other specified types of non-Hodgkin's lymphoma,L1:Cancer_L2:Lymphoma,ByuD300
+1591,Cancer,Lymphoma,a292191019,"[X]Diffuse non-Hodgkin's lymphoma, unspecified",L1:Cancer_L2:Lymphoma,ByuDC00
+1592,Cancer,Lymphoma,a404441000006117,[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas,L1:Cancer_L2:Lymphoma,ByuDD00
+1593,Cancer,Lymphoma,a292193016,[X]Unspecified B-cell non-Hodgkin's lymphoma,L1:Cancer_L2:Lymphoma,ByuDE00
+1594,Cancer,Lymphoma,a406154013,"[X]Non-Hodgkin's lymphoma, unspecified type",L1:Cancer_L2:Lymphoma,ByuDF00
+1595,Cancer,Lymphoma,a400011000006119,[X]Non-Hodgkin's lymphoma NOS,L1:Cancer_L2:Lymphoma,ByuDF11
+1596,Cancer,Lymphoma,a50949017,Lymphoma stage I,L1:Cancer_L2:Lymphoma,4M20.00
+1597,Cancer,Lymphoma,a126918018,Lymphoma stage II,L1:Cancer_L2:Lymphoma,4M21.00
+1598,Cancer,Lymphoma,a94699019,Lymphoma stage III,L1:Cancer_L2:Lymphoma,4M22.00
+1599,Cancer,Lymphoma,a110346017,Lymphoma stage IV,L1:Cancer_L2:Lymphoma,4M23.00
+1600,Cancer,Lymphoma,a287029018,Burkitt lymphoma co-occurrent with human immunodeficiency virus infection,L1:Cancer_L2:Lymphoma,A789600
+1601,Cancer,Lymphoma,a825721000006115,Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection,L1:Cancer_L2:Lymphoma,A789700
+1602,Cancer,Lymphoma,a825711000006111,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",L1:Cancer_L2:Lymphoma,A789X00
+1603,Cancer,Lymphoma,a288182013,[X]HIV disease resulting in other non-Hodgkin's lymphoma,L1:Cancer_L2:Lymphoma,AyuC600
+1604,Cancer,Lymphoma,a403705015,Malignant neoplasm of lymphatic and haemopoietic tissue,L1:Cancer_L2:Lymphoma,B6...00
+1605,Cancer,Lymphoma,a725221000006111,Malignant neoplasm of histiocytic tissue,L1:Cancer_L2:Lymphoma,B6...11
+1606,Cancer,Lymphoma,a289580016,Lymphosarcoma and reticulosarcoma,L1:Cancer_L2:Lymphoma,B60..00
+1607,Cancer,Lymphoma,a289582012,"Reticulosarcoma of lymph nodes of head, face and neck",L1:Cancer_L2:Lymphoma,B600100
+1608,Cancer,Lymphoma,a157745018,Reticulosarcoma of intra-abdominal lymph nodes,L1:Cancer_L2:Lymphoma,B600300
+1609,Cancer,Lymphoma,a157752016,Reticulosarcoma of spleen,L1:Cancer_L2:Lymphoma,B600700
+1610,Cancer,Lymphoma,a289590012,Reticulosarcoma NOS,L1:Cancer_L2:Lymphoma,B600z00
+1611,Cancer,Lymphoma,a289591011,Lymphosarcoma,L1:Cancer_L2:Lymphoma,B601.00
+1612,Cancer,Lymphoma,a289592016,Lymphosarcoma of unspecified site,L1:Cancer_L2:Lymphoma,B601000
+1613,Cancer,Lymphoma,a731691000006110,Lymphosarcoma of lymph nodes of inguinal region and lower limb,L1:Cancer_L2:Lymphoma,B601500
+1614,Cancer,Lymphoma,a289600011,Lymphosarcoma of lymph nodes of multiple sites,L1:Cancer_L2:Lymphoma,B601800
+1615,Cancer,Lymphoma,a289613017,Other specified reticulosarcoma or lymphosarcoma,L1:Cancer_L2:Lymphoma,B60y.00
+1616,Cancer,Lymphoma,a289614011,Reticulosarcoma or lymphosarcoma NOS,L1:Cancer_L2:Lymphoma,B60z.00
+1617,Cancer,Lymphoma,a289721016,Nodular lymphoma of lymph nodes of axilla and upper limb,L1:Cancer_L2:Lymphoma,B620400
+1618,Cancer,Lymphoma,a445586018,Malignant histiocytosis,L1:Cancer_L2:Lymphoma,B623.00
+1619,Cancer,Lymphoma,a289750011,Malignant histiocytosis of unspecified site,L1:Cancer_L2:Lymphoma,B623000
+1620,Cancer,Lymphoma,a728571000006118,"Malignant histiocytosis of lymph nodes of head, face and neck",L1:Cancer_L2:Lymphoma,B623100
+1621,Cancer,Lymphoma,a154183017,Malignant histiocytosis of intra-abdominal lymph nodes,L1:Cancer_L2:Lymphoma,B623300
+1622,Cancer,Lymphoma,a154192019,Malignant histiocytosis of lymph nodes of multiple sites,L1:Cancer_L2:Lymphoma,B623800
+1623,Cancer,Lymphoma,a289754019,Malignant histiocytosis NOS,L1:Cancer_L2:Lymphoma,B623z00
+1624,Cancer,Lymphoma,a1815491000006119,Other non-follicular lymphoma,L1:Cancer_L2:Lymphoma,B62Fy00
+1625,Cancer,Lymphoma,a289849019,Malignant neoplasms of lymphoid and histiocytic tissue NOS,L1:Cancer_L2:Lymphoma,B62z.00
+1626,Cancer,Lymphoma,a81481000006118,Unspec malig neop lymphoid/histiocytic of unspecified site,L1:Cancer_L2:Lymphoma,B62z000
+1627,Cancer,Lymphoma,a81421000006117,Unspec malig neop lymphoid/histiocytic lymph node head/neck,L1:Cancer_L2:Lymphoma,B62z100
+1628,Cancer,Lymphoma,a81401000006110,Unspec malig neop lymphoid/histiocytic intra-abdominal nodes,L1:Cancer_L2:Lymphoma,B62z300
+1629,Cancer,Lymphoma,a81411000006113,Unspec malig neop lymphoid/histiocytic lymph node axilla/arm,L1:Cancer_L2:Lymphoma,B62z400
+1630,Cancer,Lymphoma,a81431000006119,Unspec malig neop lymphoid/histiocytic nodes inguinal/leg,L1:Cancer_L2:Lymphoma,B62z500
+1631,Cancer,Lymphoma,a81441000006112,Unspec malig neop lymphoid/histiocytic of intrapelvic nodes,L1:Cancer_L2:Lymphoma,B62z600
+1632,Cancer,Lymphoma,a81461000006111,Unspec malig neop lymphoid/histiocytic of multiple sites,L1:Cancer_L2:Lymphoma,B62z800
+1633,Cancer,Lymphoma,a403710016,Lymphoid and histiocytic malignancy NOS,L1:Cancer_L2:Lymphoma,B62zz00
+1634,Cancer,Lymphoma,a727811000006111,Malignant neoplasm lymphatic or haematopoietic tissue OS,L1:Cancer_L2:Lymphoma,B6y..00
+1635,Cancer,Lymphoma,a289987014,Malignant neoplasm lymphatic or haematopoietic tissue NOS,L1:Cancer_L2:Lymphoma,B6z..00
+1636,Cancer,Lymphoma,a680761000006117,"Neo/uncertn+unknwn behav/lymph,h'matopetc+rel tiss,unspcf",L1:Cancer_L2:Lymphoma,B93X.00
+1637,Cancer,Lymphoma,a311391000006113,[M]Lymphoepithelial carcinoma,L1:Cancer_L2:Lymphoma,BB2M.00
+1638,Cancer,Lymphoma,a311301000006118,[M]Lymphangiosarcoma,L1:Cancer_L2:Lymphoma,BBU1.00
+1639,Cancer,Lymphoma,a291887011,"[M]Lymphomas, NOS or diffuse",L1:Cancer_L2:Lymphoma,BBg..00
+1640,Cancer,Lymphoma,a311671000006118,Malignant lymphoma,L1:Cancer_L2:Lymphoma,BBg1.00
+1641,Cancer,Lymphoma,a311431000006119,[M]Lymphoma NOS,L1:Cancer_L2:Lymphoma,BBg1.11
+1642,Cancer,Lymphoma,a291891018,"[M]Malignant lymphoma, diffuse NOS",L1:Cancer_L2:Lymphoma,BBg1000
+1643,Cancer,Lymphoma,a311871000006119,"[M]Malignant lymphoma, non-Hodgkin's type",L1:Cancer_L2:Lymphoma,BBg2.00
+1644,Cancer,Lymphoma,a314061000006117,[M]Non-Hodgkin's lymphoma,L1:Cancer_L2:Lymphoma,BBg2.11
+1645,Cancer,Lymphoma,a291892013,"[M]Malignant lymphoma, undifferentiated cell type NOS",L1:Cancer_L2:Lymphoma,BBg3.00
+1646,Cancer,Lymphoma,a311911000006116,"[M]Malignant lymphoma, stem cell type",L1:Cancer_L2:Lymphoma,BBg4.00
+1647,Cancer,Lymphoma,a291894014,"[M]Malignant lymphoma, convoluted cell type NOS",L1:Cancer_L2:Lymphoma,BBg5.00
+1648,Cancer,Lymphoma,a311521000006118,[M]Lymphosarcoma NOS,L1:Cancer_L2:Lymphoma,BBg6.00
+1649,Cancer,Lymphoma,a1222289015,"[M]Malignant lymphoma, lymphoplasmacytoid type",L1:Cancer_L2:Lymphoma,BBg7.00
+1650,Cancer,Lymphoma,a1234197011,"[M]Malignant lymphoma, immunoblastic type",L1:Cancer_L2:Lymphoma,BBg8.00
+1651,Cancer,Lymphoma,a291900014,"[M]Malignant lymphoma, centroblastic-centrocytic, diffuse",L1:Cancer_L2:Lymphoma,BBgA.00
+1652,Cancer,Lymphoma,a291902018,"[M]Malignant lymphoma, follicular centre cell NOS",L1:Cancer_L2:Lymphoma,BBgB.00
+1653,Cancer,Lymphoma,a291903011,"[M]Malignant lymphoma, lymphocytic, well differentiated NOS",L1:Cancer_L2:Lymphoma,BBgC.00
+1654,Cancer,Lymphoma,a1222219012,[M]Lymphocytic lymphoma NOS,L1:Cancer_L2:Lymphoma,BBgC.11
+1655,Cancer,Lymphoma,a1222220018,[M]Lymphocytic lymphosarcoma NOS,L1:Cancer_L2:Lymphoma,BBgC.12
+1656,Cancer,Lymphoma,a311611000006110,"[M]Malignant lymphoma, lymphocytic, intermediate differentiation NOS",L1:Cancer_L2:Lymphoma,BBgD.00
+1657,Cancer,Lymphoma,a291905016,"[M]Malignant lymphoma, centrocytic",L1:Cancer_L2:Lymphoma,BBgE.00
+1658,Cancer,Lymphoma,a311811000006111,"[M]Malignant lymphoma, lymphocytic, poorly differentiated NOS",L1:Cancer_L2:Lymphoma,BBgG.00
+1659,Cancer,Lymphoma,a311351000006119,[M]Lymphoblastic lymphosarcoma NOS,L1:Cancer_L2:Lymphoma,BBgG.11
+1660,Cancer,Lymphoma,a1222221019,[M]Lymphoblastic lymphoma NOS,L1:Cancer_L2:Lymphoma,BBgG.12
+1661,Cancer,Lymphoma,a311361000006117,[M]Lymphoblastoma NOS,L1:Cancer_L2:Lymphoma,BBgG.13
+1662,Cancer,Lymphoma,a291909010,[M]Prolymphocytic lymphosarcoma,L1:Cancer_L2:Lymphoma,BBgH.00
+1663,Cancer,Lymphoma,a291910017,"[M]Malignant lymphoma, centroblastic type NOS",L1:Cancer_L2:Lymphoma,BBgJ.00
+1664,Cancer,Lymphoma,a1222222014,[M]Germinoblastic sarcoma NOS,L1:Cancer_L2:Lymphoma,BBgJ.11
+1665,Cancer,Lymphoma,a311601000006112,"[M]Malignant lymphoma, follicular centre cell, non-cleaved NOS",L1:Cancer_L2:Lymphoma,BBgK.00
+1666,Cancer,Lymphoma,a1232576019,"[M]Malignant lymphoma, small lymphocytic NOS",L1:Cancer_L2:Lymphoma,BBgL.00
+1667,Cancer,Lymphoma,a215912012,"[M]Malignant lymphoma, small cleaved cell, diffuse",L1:Cancer_L2:Lymphoma,BBgM.00
+1668,Cancer,Lymphoma,a311641000006114,"[M]Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",L1:Cancer_L2:Lymphoma,BBgN.00
+1669,Cancer,Lymphoma,a1230828016,"[M]Malignant lymphoma, mixed small and large cell, diffuse",L1:Cancer_L2:Lymphoma,BBgP.00
+1670,Cancer,Lymphoma,a291913015,[M]Malignant lymphomatous polyposis,L1:Cancer_L2:Lymphoma,BBgQ.00
+1671,Cancer,Lymphoma,a1230392016,"[M]Malignant lymphoma, large cell, diffuse NOS",L1:Cancer_L2:Lymphoma,BBgR.00
+1672,Cancer,Lymphoma,a291914014,"[M]Malignant lymphoma, large cell, cleaved, diffuse",L1:Cancer_L2:Lymphoma,BBgS.00
+1673,Cancer,Lymphoma,a311801000006113,"[M]Malignant lymphoma, large cell, noncleaved, diffuse",L1:Cancer_L2:Lymphoma,BBgT.00
+1674,Cancer,Lymphoma,a311881000006116,"[M]Malignant lymphoma, small cell, noncleaved, diffuse",L1:Cancer_L2:Lymphoma,BBgV.00
+1675,Cancer,Lymphoma,a311441000006112,Lymphoid neoplasm,L1:Cancer_L2:Lymphoma,BBgz.00
+1676,Cancer,Lymphoma,a315991000006111,[M]Reticulosarcomas,L1:Cancer_L2:Lymphoma,BBh..00
+1677,Cancer,Lymphoma,a315951000006117,[M]Reticulosarcoma NOS,L1:Cancer_L2:Lymphoma,BBh0.00
+1678,Cancer,Lymphoma,a316001000006112,[M]Reticulum cell sarcoma NOS,L1:Cancer_L2:Lymphoma,BBh0.11
+1679,Cancer,Lymphoma,a315971000006110,"[M]Reticulosarcoma, nodular",L1:Cancer_L2:Lymphoma,BBh2.00
+1680,Cancer,Lymphoma,a1221109014,[M]Hodgkin's disease,L1:Cancer_L2:Lymphoma,BBj..00
+1681,Cancer,Lymphoma,a309991000006111,[M]Hodgkin's disease NOS,L1:Cancer_L2:Lymphoma,BBj0.00
+1682,Cancer,Lymphoma,a403760010,"[M]Lymphogranuloma, malignant",L1:Cancer_L2:Lymphoma,BBj0.11
+1683,Cancer,Lymphoma,a291931019,"[M]Hodgkin's disease, lymphocytic predominance",L1:Cancer_L2:Lymphoma,BBj1.00
+1684,Cancer,Lymphoma,a291932014,"Hodgkin lymphoma, lymphocyte-rich",L1:Cancer_L2:Lymphoma,BBj1000
+1685,Cancer,Lymphoma,a1233285010,"[M]Hodgkin,s disease, lymphocytic predominance, nodular",L1:Cancer_L2:Lymphoma,BBj1100
+1686,Cancer,Lymphoma,a1229767019,"[M]Hodgkin's disease, mixed cellularity",L1:Cancer_L2:Lymphoma,BBj2.00
+1687,Cancer,Lymphoma,a215913019,"Hodgkin lymphoma, lymphocyte depletion",L1:Cancer_L2:Lymphoma,BBj3.00
+1688,Cancer,Lymphoma,a310071000006116,"[M]Hodgkin's disease, lymphocytic depletion, diffuse fibrosis",L1:Cancer_L2:Lymphoma,BBj4.00
+1689,Cancer,Lymphoma,a215914013,"Hodgkin lymphoma, nodular sclerosis",L1:Cancer_L2:Lymphoma,BBj6.00
+1690,Cancer,Lymphoma,a310141000006111,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic predominance",L1:Cancer_L2:Lymphoma,BBj6000
+1691,Cancer,Lymphoma,a291933016,"Hodgkin lymphoma, nodular sclerosis, grade 1",L1:Cancer_L2:Lymphoma,BBj6100
+1692,Cancer,Lymphoma,a310131000006118,"[M]Hodgkin's disease, nodular sclerosis, lymphocytic depletion",L1:Cancer_L2:Lymphoma,BBj6200
+1693,Cancer,Lymphoma,a1229491012,"[M]Hodgkin's disease, nodular sclerosis, cellular phase",L1:Cancer_L2:Lymphoma,BBj7.00
+1694,Cancer,Lymphoma,a1233711012,[M]Hodgkin's granuloma,L1:Cancer_L2:Lymphoma,BBj9.00
+1695,Cancer,Lymphoma,a453326010,[M]Hodgkin's disease NOS,L1:Cancer_L2:Lymphoma,BBjz.00
+1696,Cancer,Lymphoma,a311461000006111,"Malignant lymphoma, follicular AND/OR nodular",L1:Cancer_L2:Lymphoma,BBk..00
+1697,Cancer,Lymphoma,a403761014,"[M]Malignant lymphoma, nodular NOS",L1:Cancer_L2:Lymphoma,BBk0.00
+1698,Cancer,Lymphoma,a306111000006112,[M]Brill - Symmers' disease,L1:Cancer_L2:Lymphoma,BBk0.11
+1699,Cancer,Lymphoma,a308801000006118,[M]Follicular lymphosarcoma NOS,L1:Cancer_L2:Lymphoma,BBk0.12
+1700,Cancer,Lymphoma,a309181000006110,[M]Giant follicular lymphoma,L1:Cancer_L2:Lymphoma,BBk0.13
+1701,Cancer,Lymphoma,a291943018,"[M]Malignant lymphoma, centroblastic-centrocytic, follicular",L1:Cancer_L2:Lymphoma,BBk2.00
+1702,Cancer,Lymphoma,a311621000006119,"[M]Malignant lymphoma, lymphocytic, well differentiated, nodular",L1:Cancer_L2:Lymphoma,BBk3.00
+1703,Cancer,Lymphoma,a311561000006112,"[M]Malignant lymphoma, follicular centre cell, cleaved, follicular",L1:Cancer_L2:Lymphoma,BBk5.00
+1704,Cancer,Lymphoma,a1229648010,"[M]Malignant lymphoma, centroblastic type, follicular",L1:Cancer_L2:Lymphoma,BBk7.00
+1705,Cancer,Lymphoma,a311591000006116,"[M]Malig lymp,follicular centre cell,noncleaved,follicular",L1:Cancer_L2:Lymphoma,BBk8.00
+1706,Cancer,Lymphoma,a291953017,"[M]Lymphoma, nodular or follicular NOS",L1:Cancer_L2:Lymphoma,BBkz.00
+1707,Cancer,Lymphoma,a313301000006119,Mycosis fungoides,L1:Cancer_L2:Lymphoma,BBl..00
+1708,Cancer,Lymphoma,a313311000006116,[M]Mycosis fungoides,L1:Cancer_L2:Lymphoma,BBl0.00
+1709,Cancer,Lymphoma,a291955012,[M]Mycosis fungoides NOS,L1:Cancer_L2:Lymphoma,BBlz.00
+1710,Cancer,Lymphoma,a291957016,[M]Microglioma,L1:Cancer_L2:Lymphoma,BBm0.00
+1711,Cancer,Lymphoma,a215916010,[M]Malignant reticulosis,L1:Cancer_L2:Lymphoma,BBm1.11
+1712,Cancer,Lymphoma,a1220820016,[M]True histiocytic lymphoma,L1:Cancer_L2:Lymphoma,BBm4.00
+1713,Cancer,Lymphoma,a291959018,Mature (peripheral) T-cell neoplasm,L1:Cancer_L2:Lymphoma,BBm5.00
+1714,Cancer,Lymphoma,a291960011,[M] Alpha heavy chain disease,L1:Cancer_L2:Lymphoma,BBm6.00
+1715,Cancer,Lymphoma,a304151000006118,Monocytoid B-cell lymphoma,L1:Cancer_L2:Lymphoma,BBm9.00
+1716,Cancer,Lymphoma,a1225763012,[M] Cutaneous lymphoma,L1:Cancer_L2:Lymphoma,BBmD.00
+1717,Cancer,Lymphoma,a291963013,Non-Hodgkin lymphoma (category),L1:Cancer_L2:Lymphoma,BBmH.00
+1718,Cancer,Lymphoma,a318171000006118,Waldenstrom's macroglobulinaemia,L1:Cancer_L2:Lymphoma,BBmK.00
+1719,Cancer,Lymphoma,a359291000006111,Secondary malignant neoplasm of lymph nodes of multiple sites,L1:Cancer_L2:Lymphoma,ByuC200
+1720,Cancer,Lymphoma,a396621000006114,"[X]Malignant neoplasms of lymphoid, haematopoietic and related tissue",L1:Cancer_L2:Lymphoma,ByuD.00
+1721,Cancer,Lymphoma,a405081000006118,"[X]Oth spcf mal neoplsm/lymphoid,haematopoietic+rltd tissue",L1:Cancer_L2:Lymphoma,ByuDA00
+1722,Cancer,Lymphoma,a396101000006112,Malignant tumour of lymphoid haemopoietic and related tissue,L1:Cancer_L2:Lymphoma,ByuDB00
+1723,Cancer,Lymphoma,a293380012,Waldenstrom's macroglobulinaemia,L1:Cancer_L2:Lymphoma,C333000
+1724,Cancer,Lymphoma,a2168841000000118,Waldenstrom macroglobulinaemia,L1:Cancer_L2:Lymphoma,C333011
+1725,Cancer,Lymphoma,a2659763011,Alpha heavy chain disease,L1:Cancer_L2:Lymphoma,C333100
+1726,Cancer,Lymphoma,a2659693012,Gamma heavy chain disease,L1:Cancer_L2:Lymphoma,C333200
+1727,Cancer,Lymphoma,a114573012,Heavy chain disease,L1:Cancer_L2:Lymphoma,C333300

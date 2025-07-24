@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 36
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId  Observations                                                     Term  SNOMED_CT_Concept_ID
+0  150375010        500000                                           Thyrotoxicosis              90739004
+1  292366014         40000  Thyrotoxicosis without mention of goitre or other cause              90739004
+2  292372014         40000                                       Thyrotoxicosis NOS              90739004

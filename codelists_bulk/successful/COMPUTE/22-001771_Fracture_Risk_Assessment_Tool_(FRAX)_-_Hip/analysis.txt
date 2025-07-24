@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                                                                                          Term  SNOMED_CT_Concept_ID
+0   636881000000116        155610                                     Hip fracture probability score using FRAX (fracture risk assessment tool)             736957006
+1  1865591000006119         25414       Ten year hip fracture probability score using FRAX (Fracture Risk Assessment Tool) with body mass index      1092681000000102
+2  1865581000006117         19239  Ten year hip fracture probability score using FRAX (Fracture Risk Assessment Tool) with bone mineral density      1092691000000100

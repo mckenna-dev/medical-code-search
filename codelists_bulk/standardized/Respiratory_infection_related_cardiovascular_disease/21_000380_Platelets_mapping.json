@@ -1,0 +1,21 @@
+{
+  "original_file": "codelists_bulk\\successful\\Respiratory_infection_related_cardiovascular_disease\\21_000380_Platelets\\platelets_Gold181022.txt",
+  "original_columns": [
+    "medcode",
+    "readterm",
+    "type"
+  ],
+  "column_mapping": {
+    "med_code_id": "medcode"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "medcode",
+      "type": "secondary"
+    }
+  },
+  "rows_processed": 4,
+  "rows_standardized": 4,
+  "project": "Respiratory_infection_related_cardiovascular_disease",
+  "codelist": "21_000380_Platelets"
+}

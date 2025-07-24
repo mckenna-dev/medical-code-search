@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 183
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tcopd']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                                                           MedCodeId\tObservations\tTerm\tcopd
+0                                             a475431013\t5000000\tChronic obstructive pulmonary disease\tcopd
+1                              a1488424013\t3000000\tChronic obstructive pulmonary disease annual review\tcopd
+2  a977911000006114\t2000000\tNumber of chronic obstructive pulmonary disease exacerbations in past year\tcopd

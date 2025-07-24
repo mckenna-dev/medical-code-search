@@ -1,0 +1,19 @@
+	Med_Code_ID	Observations	Description	IBD	
+0	a18666015	2000000	Irritable bowel syndrome	IBD	
+1	a742351000006119	800000	Irritable colon - Irritable bowel syndrome	IBD	
+2	a886361000006114	80000	Irritable bowel - IBS	IBD	
+3	a303172010	60000	Irritable bowel syndrome with diarrhoea	IBD	
+4	a303071000000118	6000	History of irritable bowel syndrome	IBD	
+5	a906181000006110	4000	[RFC] Irritable bowel syndrome (IBS)	IBD	
+6	a1495560015	2000	[X]Psychogenic IBS	IBD	
+7	a2791650019	2000	Irritable bowel syndrome characterised by constipation	IBD	
+8	a1927491000006111	2000	Irritable bowel syndrome characterised by alternating bowel habit	IBD	
+9	a2129721000000119	500	Management of irritable bowel syndrome	IBD	
+10	a2670911000006112	200	IBS - Irritable bowel syndrome	IBD	
+11	a2670921000006116	30	Irritable bowel	IBD	
+12	a5086151000006112	30	Irritable bowel syndrome variant of childhood	IBD	
+13	a5086181000006116	10	Irritable bowel syndrome variant of childhood with constipation	IBD	
+14	a5086161000006114	5	Irritable bowel syndrome variant of childhood with diarrhoea	IBD	
+15	a7240101000006111	3	Constipation predominant irritable bowel syndrome	IBD	
+16	a4786241000006112	2	Irritable bowel syndrome with diarrhea	IBD	
+17	a2670951000006113	1	IC - Irritable colon	IBD	

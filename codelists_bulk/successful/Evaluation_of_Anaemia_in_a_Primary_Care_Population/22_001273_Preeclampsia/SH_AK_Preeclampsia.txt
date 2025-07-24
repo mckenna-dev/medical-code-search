@@ -1,0 +1,27 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a1226072015	40938	Preeclampsia	b398254007
+a398342013	20363	Pre-eclampsia	b398254007
+a77942011	11873	Severe pre-eclampsia	b46764007
+a355622019	7137	Toxaemia of pregnancy	b15394000
+a703011000006115	5615	Mild pre-eclampsia	b41114007
+a355625017	3206	Moderate pre-eclampsia	b237281009
+a68583017	2608	Mild pre-eclampsia	b41114007
+a305801019	2489	Severe pre-eclampsia - delivered	b198983002
+a494622019	1482	Proteinuric hypertension of pregnancy	b398254007
+a887841000006118	1207	Pre-eclampsia NOS	b648001000000103
+a305805011	446	Severe pre-eclampsia NOS	b46764007
+a305802014	156	Severe pre-eclampsia - delivered with postnatal complication	b198984008
+a6600701000006119	86	PET - Pre-eclamptic toxaemia	b398254007
+a30580401	72	Severe pre-eclampsia with postnatal complication	b198986005
+a5105201000006119	61	Moderate proteinuric hypertension of pregnancy	b237281009
+a305803016	58	Severe pre-eclampsia - not delivered	b198985009
+a403581000006112	32	[X]Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium	b198609003
+a3255811000006116	18	PET - Severe pre-eclamptic toxaemia	b46764007
+a991571000006114	15	Pre-eclampsia NOS	b41114007
+a3162221000006111	13	PET - Mild pre-eclamptic toxaemia	b41114007
+a12027721000006112	3	Postpartum pre-eclampsia	b765182005
+a325583100000611	3	Severe proteinuric hypertension of pregnancy	b46764007
+a3162211000006115	2	Mild pre-eclamptic toxaemia	b41114007
+a6600691000006119	2	Pre-eclamptic toxaemia	b398254007
+a6600741000006117	1	PE - Pre-eclampsia	b398254007
+a3595901000006111	1	Superimposed pre-eclampsia	b67359005

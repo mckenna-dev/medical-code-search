@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 311
+Columns: 7
+Column names: ['MedCodeId', 'Term', 'Observations', 'SNOMED_CT_Concept_ID', 'readterm', 'drinker', 'level']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId  Term  Observations  SNOMED_CT_Concept_ID                     readterm
+0       27.0   NaN           NaN                   NaN          Alcohol consumption
+1      322.0   NaN           NaN                   NaN  Moderate drinker - 3-6u/day
+2     1618.0   NaN           NaN                   NaN     Heavy drinker - 7-9u/day

@@ -1,0 +1,337 @@
+med_code_id,term,snomed_ct_concept_id,observations
+424681000006118,"Recurrent reactive depressive episodes, severe, with psychosis (disorder)",1086471000000103,400
+2730111000000111,Acute predominantly delusional psychotic disorder (disorder),1089691000000105,10
+294730012,Subchronic schizophrenia with acute exacerbations (disorder),111482003,100
+178723016,Catatonic schizophrenia in remission (disorder),111483008,80
+296031017,Undifferentiated schizophrenia (disorder),111484002,1000
+1219653018,Undifferentiated schizophrenia (disorder),111484002,200
+366571000006114,Undifferentiated schizophrenia (disorder),111484002,30
+371031000006115,Undifferentiated schizophrenia (disorder),111484002,1000
+294737010,Chronic disorganized schizophrenia (disorder),12939007,60
+294882016,Mild bipolar disorder (disorder),13313007,400
+294880012,Bipolar disorder (disorder),13746004,50000
+294881011,Bipolar disorder (disorder),13746004,1000
+294888017,Bipolar disorder (disorder),13746004,3000
+294891017,Bipolar disorder (disorder),13746004,10000
+294892012,Bipolar disorder (disorder),13746004,5000
+294896010,Bipolar disorder (disorder),13746004,800
+296135011,Bipolar disorder (disorder),13746004,20000
+401865016,Bipolar disorder (disorder),13746004,1000
+367101000006112,Bipolar disorder (disorder),13746004,600000
+396071000006119,Bipolar disorder (disorder),13746004,80
+396791000006116,Bipolar disorder (disorder),13746004,20000
+396801000006115,Bipolar disorder (disorder),13746004,10000
+513871000006118,Bipolar disorder (disorder),13746004,100000
+882311000006110,Bipolar disorder (disorder),13746004,10000
+294738017,Subchronic disorganized schizophrenia with acute exacerbations (disorder),14291003,4
+294895014,Mixed bipolar I disorder (disorder),16506000,300
+294724012,Non-organic psychosis (disorder),191525009,30000
+294949018,Non-organic psychosis (disorder),191525009,500
+401771016,Non-organic psychosis (disorder),191525009,8000
+401862018,Non-organic psychosis (disorder),191525009,10000
+25461000006115,Non-organic psychosis (disorder),191525009,3000
+223611000000117,Non-organic psychosis (disorder),191525009,30000
+412201000006113,Non-organic psychosis (disorder),191525009,2000
+294726014,Simple schizophrenia (disorder),191527001,300
+294727017,Simple schizophrenia (disorder),191527001,30000
+294734015,Simple schizophrenia (disorder),191527001,600
+426881000006111,Simple schizophrenia (disorder),191527001,600
+294731011,Acute exacerbation of chronic schizophrenia (disorder),191531007,1000
+294742019,Catatonic schizophrenia (disorder),191542003,3000
+294743012,Catatonic schizophrenia (disorder),191542003,2
+294744018,Catatonic schizophrenia (disorder),191542003,100
+294753013,Catatonic schizophrenia (disorder),191542003,90
+370451000006110,Catatonic schizophrenia (disorder),191542003,500
+370461000006112,Catatonic schizophrenia (disorder),191542003,400
+425641000006111,Catatonic schizophrenia (disorder),191542003,20
+425651000006113,Catatonic schizophrenia (disorder),191542003,200
+294750011,Acute exacerbation of subchronic catatonic schizophrenia (disorder),191547009,6
+294766013,Subchronic latent schizophrenia (disorder),191561004,1
+294768014,Acute exacerbation of subchronic latent schizophrenia (disorder),191563001,3
+294769018,Acute exacerbation of chronic latent schizophrenia (disorder),191564007,10
+294770017,Latent schizophrenia in remission (disorder),191565008,100
+456731000006115,Acute exacerbation of chronic schizoaffective schizophrenia (disorder),191572009,100
+4763921000006118,Acute exacerbation of chronic schizoaffective schizophrenia (disorder),191572009,3
+294806015,"Single manic episode, severe, with psychosis (disorder)",191586008,1000
+294808019,Single manic episode in full remission (disorder),191588009,1000
+294812013,"Recurrent manic episodes, mild (disorder)",191592002,200
+294815010,"Recurrent manic episodes, severe, with psychosis (disorder)",191595000,500
+294840015,"Recurrent major depressive episodes, severe, with psychosis (disorder)",191613003,10000
+424551000006113,"Recurrent major depressive episodes, severe, with psychosis (disorder)",191613003,1000
+424671000006116,"Recurrent major depressive episodes, severe, with psychosis (disorder)",191613003,4000
+294849019,"Bipolar affective disorder, currently manic, mild (disorder)",191620005,1000
+294850019,"Bipolar affective disorder, currently manic, moderate (disorder)",191621009,2000
+367071000006119,"Bipolar affective disorder, currently manic, severe, with psychosis (disorder)",191623007,3000
+513701000006116,"Bipolar affective disorder, currently manic, severe, with psychosis (disorder)",191623007,2000
+294860011,"Bipolar affective disorder, current episode depression (disorder)",191627008,4000
+294861010,"Bipolar affective disorder, current episode depression (disorder)",191627008,2000
+294868016,"Bipolar affective disorder, current episode depression (disorder)",191627008,2000
+513751000006117,"Bipolar affective disorder, current episode depression (disorder)",191627008,8000
+294863013,"Bipolar affective disorder, currently depressed, moderate (disorder)",191630001,2000
+367091000006118,"Bipolar affective disorder, currently depressed, moderate (disorder)",191630001,3000
+513861000006113,"Bipolar affective disorder, currently depressed, in full remission (disorder)",191634005,800
+294869012,Mixed bipolar affective disorder (disorder),191636007,60000
+294870013,Mixed bipolar affective disorder (disorder),191636007,3000
+294877011,Mixed bipolar affective disorder (disorder),191636007,10000
+294872017,"Mixed bipolar affective disorder, moderate (disorder)",191639000,1000
+294874016,"Mixed bipolar affective disorder, severe, with psychosis (disorder)",191641004,2000
+294893019,Atypical manic disorder (disorder),191658009,200
+294904016,Simple paranoid state (disorder),191668004,5000
+294911017,Paranoia querulans (disorder),191672000,60
+294924017,Psychogenic paranoid psychosis (disorder),191680007,1000
+424071000006112,Psychogenic paranoid psychosis (disorder),191680007,500
+294927012,Psychogenic stupor (disorder),191683009,50
+5023531000006114,Epileptic psychosis (disorder),231449007,10
+423041000006119,Post-schizophrenic depression (disorder),231485007,200
+5023901000006110,Post-schizophrenic depression (disorder),231485007,4
+296066015,Persistent delusional disorder (disorder),231487004,2000
+401857019,Persistent delusional disorder (disorder),231487004,600
+376501000006110,Persistent delusional disorder (disorder),231487004,900
+394461000006110,Persistent delusional disorder (disorder),231487004,30
+418181000006110,Persistent delusional disorder (disorder),231487004,10
+419861000006117,Persistent delusional disorder (disorder),231487004,30000
+5128691000006114,Delusional hyperhidrosis (disorder),238977002,1
+43595011,Residual schizophrenia (disorder),26025008,2000
+169061000006112,Residual schizophrenia (disorder),26025008,2
+424841000006113,Residual schizophrenia (disorder),26025008,400
+424931000006113,Residual schizophrenia (disorder),26025008,2
+44335019,Paraphrenia (disorder),26472000,6000
+401763015,Acute schizophrenic episode (disorder),268617001,4000
+294802018,"Manic disorder, single episode (disorder)",268619003,2000
+294809010,"Manic disorder, single episode (disorder)",268619003,500
+401765010,"Manic disorder, single episode (disorder)",268619003,40000
+401864017,"Manic disorder, single episode (disorder)",268619003,1000
+367151000006111,"Manic disorder, single episode (disorder)",268619003,6000
+396691000006111,"Manic disorder, single episode (disorder)",268619003,6000
+396741000006113,"Manic disorder, single episode (disorder)",268619003,8000
+882321000006119,"Manic disorder, single episode (disorder)",268619003,8000
+401768012,Chronic paranoid psychosis (disorder),268622001,8000
+161371000006118,Chronic paranoid psychosis (disorder),268622001,6
+401770015,Acute paranoid reaction (disorder),268624000,2000
+367951000006113,Borderline schizophrenia (disorder),274952002,100
+362421000006113,Acute schizophrenia-like psychotic disorder (disorder),278853003,4000
+368001000006112,Acute schizophrenia-like psychotic disorder (disorder),278853003,50
+368011000006110,Acute schizophrenia-like psychotic disorder (disorder),278853003,60
+403611000006116,Acute schizophrenia-like psychotic disorder (disorder),278853003,1
+425671000006115,Acute schizophrenia-like psychotic disorder (disorder),278853003,80
+2532965018,Erotomania (disorder),280949006,200
+5645621000006116,Erotomania (disorder),280949006,5
+376271000006119,Cycloid psychosis (disorder),307417003,300
+376281000006116,Cycloid psychosis (disorder),307417003,60
+401856011,Schizotypal personality disorder (disorder),31027006,3000
+155281000006119,Schizotypal personality disorder (disorder),31027006,2000
+423731000006114,Schizotypal personality disorder (disorder),31027006,60
+423741000006116,Schizotypal personality disorder (disorder),31027006,20
+425731000006110,Schizotypal personality disorder (disorder),31027006,1000
+3000261000006112,Schizotypal personality disorder (disorder),31027006,1
+294740010,Disorganized schizophrenia in remission (disorder),31373002,60
+367111000006110,"Bipolar I disorder, most recent episode hypomanic (disorder)",31446002,9000
+3006671000006118,"Bipolar I disorder, most recent episode hypomanic (disorder)",31446002,40
+3036131000006117,Somatic delusion disorder (disorder),33323008,3
+418251000006110,Involutional paraphrenia (disorder),38295006,600
+3116711000006110,Involutional paraphrenia (disorder),38295006,20
+3118041000006112,"Schizoaffective disorder, bipolar type (disorder)",38368003,1
+3137261000006111,Undifferentiated schizophrenia in remission (disorder),39610001,2
+296022017,"[X]Schizophrenia, schizotypal and delusional disorders (disorder)",417601000000102,10000
+12480451000006112,"[X]Schizophrenia, schizotypal and delusional disorders (disorder)",417601000000102,30
+3175731000006118,Amok (disorder),41932008,2
+71539017,Subchronic catatonic schizophrenia (disorder),42868002,30
+82171000006116,Severe bipolar disorder with psychotic features (disorder),4441000,200
+215841000000114,Delusional disorder (disorder),48500005,50000
+9225016,Schizophrenia in remission (disorder),4926007,10000
+294728010,Schizophrenia (disorder),58214004,30000
+294789017,Schizophrenia (disorder),58214004,300
+294790014,Schizophrenia (disorder),58214004,300000
+296040018,Schizophrenia (disorder),58214004,2000
+401764014,Schizophrenia (disorder),58214004,2000
+401855010,Schizophrenia (disorder),58214004,500
+370631000006117,Schizophrenia (disorder),58214004,5
+425601000006114,Schizophrenia (disorder),58214004,60000
+425681000006117,Schizophrenia (disorder),58214004,400
+425711000006116,Schizophrenia (disorder),58214004,1000
+3515942013,Postpartum psychosis in remission (disorder),60401000119104,3
+367051000006112,Severe depressed bipolar I disorder without psychotic features (disorder),61403008,800
+513731000006112,Severe depressed bipolar I disorder without psychotic features (disorder),61403008,600
+389641000006110,Induced psychotic disorder (disorder),61831009,400
+389651000006112,Induced psychotic disorder (disorder),61831009,60
+389661000006114,Induced psychotic disorder (disorder),61831009,1000
+3504721000006117,Induced psychotic disorder (disorder),61831009,4
+3504751000006114,Induced psychotic disorder (disorder),61831009,100
+3504791000006115,Induced psychotic disorder (disorder),61831009,30
+513741000006119,Manic bipolar I disorder in partial remission (disorder),63249007,500
+296095012,Schizoaffective disorder (disorder),68890003,600
+296096013,Schizoaffective disorder (disorder),68890003,20000
+425541000006110,Schizoaffective disorder (disorder),68890003,100000
+425551000006112,Schizoaffective disorder (disorder),68890003,2000
+114616017,Chronic catatonic schizophrenia (disorder),68995007,30
+362391000006117,Acute polymorphic psychotic disorder without symptoms of schizophrenia (disorder),712824002,2000
+362381000006115,Acute polymorphic psychotic disorder co-occurrent with symptoms of schizophrenia (disorder),712850003,2000
+367971000006115,Acute polymorphic psychotic disorder co-occurrent with symptoms of schizophrenia (disorder),712850003,1
+7696261000006113,Acute polymorphic psychotic disorder co-occurrent with symptoms of schizophrenia (disorder),712850003,1
+379771000006116,Severe major depression with psychotic features (disorder),73867007,6000
+1715191000006112,Severe major depression with psychotic features (disorder),73867007,10000
+3700911000006115,Severe major depression with psychotic features (disorder),73867007,20
+1755901000006112,"Single major depressive episode, severe, with psychosis, psychosis in remission (disorder)",755321000000106,2000
+8232571000006118,"Single major depressive episode, severe, with psychosis, psychosis in remission (disorder)",755321000000106,400
+701051000006118,"Mixed bipolar affective disorder, in partial remission (disorder)",760721000000109,1000
+8235161000006110,"Mixed bipolar affective disorder, in partial remission (disorder)",760721000000109,6
+182861000006110,"Recurrent manic episodes, in partial remission (disorder)",764671000000105,60
+294807012,Single manic episode in partial remission (disorder),764731000000103,20
+8237871000006117,Single manic episode in remission (disorder),764741000000107,5
+12059201000006117,"Bipolar disorder, most recent episode depression (disorder)",767631007,7
+12059211000006119,"Bipolar disorder, most recent episode manic (disorder)",767632000,20
+13911951000006118,Rapid cycling bipolar II disorder (disorder),789061003,8
+294883014,Moderate bipolar disorder (disorder),79584002,400
+132503015,Subchronic paranoid schizophrenia (disorder),79866005,300
+1234861017,Chronic schizophrenia (disorder),83746006,60000
+3862661000006112,Chronic schizophrenia (disorder),83746006,100
+2729751000000118,Recurrent depression with current severe episode and psychotic features (disorder),1089511000000100,30
+2730071000000117,Mania with mood-incongruent psychotic features (disorder),1089671000000106,1
+2730091000000118,Mania with psychotic features (disorder),1089681000000108,90
+12736721000006110,First episode psychosis (finding),1127191000000108,300
+513691000006116,Severe manic bipolar I disorder without psychotic features (disorder),162004,300
+28758018,Subchronic schizophrenia (disorder),16990005,30
+294725013,Schizophrenic disorders (disorder),191526005,400000
+882281000006113,Schizophrenic disorders (disorder),191526005,2000
+882291000006111,Schizophrenic disorders (disorder),191526005,40000
+294739013,Acute exacerbation of chronic hebephrenic schizophrenia (disorder),191539009,10
+4763641000006116,Acute exacerbation of chronic hebephrenic schizophrenia (disorder),191539009,1
+294751010,Acute exacerbation of chronic catatonic schizophrenia (disorder),191548004,10
+294757014,Acute exacerbation of subchronic paranoid schizophrenia (disorder),191554003,100
+294758016,Acute exacerbation of chronic paranoid schizophrenia (disorder),191555002,800
+294764011,Latent schizophrenia (disorder),191559008,100
+294765012,Latent schizophrenia (disorder),191559008,10
+294771018,Latent schizophrenia (disorder),191559008,300
+395021000006111,Latent schizophrenia (disorder),191559008,8
+395031000006114,Latent schizophrenia (disorder),191559008,3
+294767016,Chronic latent schizophrenia (disorder),191562006,40
+294773015,Schizoaffective schizophrenia (disorder),191567000,3
+78531000006116,Schizoaffective schizophrenia (disorder),191567000,3000
+155141000006116,Schizoaffective schizophrenia (disorder),191567000,30000
+155161000006117,Schizoaffective schizophrenia (disorder),191567000,4000
+882301000006112,Schizoaffective schizophrenia (disorder),191567000,3000
+123611000006110,Subchronic schizoaffective schizophrenia (disorder),191569002,10
+556631000006116,Chronic schizoaffective schizophrenia (disorder),191570001,4000
+456801000006115,Acute exacerbation of subchronic schizoaffective schizophrenia (disorder),191571002,50
+4763911000006114,Acute exacerbation of subchronic schizoaffective schizophrenia (disorder),191571002,2
+155151000006119,Schizoaffective schizophrenia in remission (disorder),191574005,2000
+294787015,Cenesthopathic schizophrenia (disorder),191577003,3
+294788013,Cenesthopathic schizophrenia (disorder),191577003,2
+294803011,"Single manic episode, mild (disorder)",191583000,2000
+294804017,"Single manic episode, moderate (disorder)",191584006,300
+294810017,Recurrent manic episodes (disorder),191590005,2000
+294811018,Recurrent manic episodes (disorder),191590005,400
+294818012,Recurrent manic episodes (disorder),191590005,300
+424661000006111,Recurrent manic episodes (disorder),191590005,200
+294813015,"Recurrent manic episodes, moderate (disorder)",191593007,300
+294817019,"Recurrent manic episodes, in full remission (disorder)",191597008,400
+294828015,"Single major depressive episode, severe, with psychosis (disorder)",191604000,10000
+401869010,"Single major depressive episode, severe, with psychosis (disorder)",191604000,50000
+426921000006115,"Single major depressive episode, severe, with psychosis (disorder)",191604000,800
+426961000006114,"Single major depressive episode, severe, with psychosis (disorder)",191604000,2000
+294847017,"Bipolar affective disorder, current episode manic (disorder)",191618007,2000
+294848010,"Bipolar affective disorder, current episode manic (disorder)",191618007,3000
+294858014,"Bipolar affective disorder, current episode manic (disorder)",191618007,1000
+367081000006116,"Bipolar affective disorder, current episode manic (disorder)",191618007,800
+513801000006112,"Bipolar affective disorder, current episode manic (disorder)",191618007,5000
+513811000006110,"Bipolar affective disorder, currently manic, in full remission (disorder)",191625000,700
+294862015,"Bipolar affective disorder, currently depressed, mild (disorder)",191629006,2000
+294871012,"Mixed bipolar affective disorder, mild (disorder)",191638008,900
+294876019,"Mixed bipolar affective disorder, in full remission (disorder)",191643001,1000
+294908018,Shared paranoid disorder (disorder),191670008,60
+294909014,Shared paranoid disorder (disorder),191670008,30
+387071000006117,Shared paranoid disorder (disorder),191670008,10
+294917018,Reactive depressive psychosis (disorder),191676002,10000
+294918011,Reactive depressive psychosis (disorder),191676002,20000
+426951000006112,Reactive depressive psychosis (disorder),191676002,100
+426981000006116,Reactive depressive psychosis (disorder),191676002,200
+294919015,Acute hysterical psychosis (disorder),191677006,900
+367121000006119,"Bipolar affective disorder, current episode mixed (disorder)",192362008,2000
+398541000006116,"Bipolar affective disorder, current episode mixed (disorder)",192362008,2000
+4767311000006117,"Bipolar affective disorder, current episode mixed (disorder)",192362008,200
+294926015,Reactive psychoses (disorder),231437006,300
+294929010,Reactive psychoses (disorder),231437006,300
+346896012,Reactive psychoses (disorder),231437006,1000
+424511000006112,Reactive psychoses (disorder),231437006,2000
+296083012,Acute transient psychotic disorder (disorder),231489001,600
+401859016,Acute transient psychotic disorder (disorder),231489001,700
+401860014,Acute transient psychotic disorder (disorder),231489001,4000
+362271000006110,Acute transient psychotic disorder (disorder),231489001,20000
+367991000006119,Acute transient psychotic disorder (disorder),231489001,1000
+296110017,Mania (disorder),231494001,4000
+296118012,Mania (disorder),231494001,200
+401863011,Mania (disorder),231494001,6000
+223601000000119,Mania (disorder),231494001,4000
+396701000006111,Mania (disorder),231494001,100
+396711000006114,Mania (disorder),231494001,50
+396761000006112,Mania (disorder),231494001,8
+5023961000006111,Mania (disorder),231494001,7
+389401000006111,Hypomania (disorder),231496004,40000
+789221000006116,Hypomania (disorder),231496004,6000
+5128641000006117,Delusions of parasitosis (disorder),238973003,40
+5128651000006115,Delusions of infestation (disorder),238974009,7
+423271000006116,Schizophrenic prodrome (disorder),247804008,30
+423471000006117,Schizophrenic prodrome (disorder),247804008,300
+5248961000006113,Schizophrenic prodrome (disorder),247804008,20
+376251000006112,"Schizoaffective disorder, mixed type (disorder)",270901009,1
+398631000006113,"Schizoaffective disorder, mixed type (disorder)",270901009,1000
+425521000006115,"Schizoaffective disorder, mixed type (disorder)",270901009,4000
+5517971000006118,"Schizoaffective disorder, mixed type (disorder)",270901009,1
+425511000006111,"Schizoaffective disorder, manic type (disorder)",271428004,5000
+425571000006119,"Schizoaffective disorder, manic type (disorder)",271428004,600
+425701000006119,"Schizoaffective disorder, manic type (disorder)",271428004,100
+294736018,Subchronic disorganized schizophrenia (disorder),27387000,2
+5568191000006118,Acute polymorphic psychotic disorder (disorder),274953007,100
+5614141000006110,Delusional dysmorphophobia (disorder),278508007,10
+424541000006111,Severe recurrent major depression with psychotic features (disorder),28475009,2000
+424571000006115,Severe recurrent major depression with psychotic features (disorder),28475009,5000
+2957311000006113,Severe recurrent major depression with psychotic features (disorder),28475009,500
+52897013,Chronic paranoid schizophrenia (disorder),31658008,9000
+294735019,Disorganized schizophrenia (disorder),35252006,80
+294741014,Disorganized schizophrenia (disorder),35252006,300
+378051000006119,Disorganized schizophrenia (disorder),35252006,50
+388741000006110,Disorganized schizophrenia (disorder),35252006,900
+819351000006115,Disorganized schizophrenia (disorder),35252006,5000
+3068121000006112,Disorganized schizophrenia (disorder),35252006,300
+1785851000006110,Bipolar I disorder (disorder),371596008,1000
+6890801000006117,Late onset schizophrenia (disorder),416340002,10
+294887010,Bipolar disorder in full remission (disorder),41836007,2000
+294897018,Affective psychosis (disorder),441704009,3000
+294898011,Affective psychosis (disorder),441704009,2000
+294902017,Affective psychosis (disorder),441704009,3000
+82151000006114,Severe bipolar disorder without psychotic features (disorder),53049002,70
+10122017,Brief reactive psychosis (disorder),5464005,1000
+2586801000006115,Brief reactive psychosis (disorder),5464005,3
+105029017,Paranoid schizophrenia in remission (disorder),63181006,3000
+367961000006110,Bouffée délirante (disorder),63204009,1
+523481000006114,Bouffée délirante (disorder),63204009,20
+3527771000006116,Bouffée délirante (disorder),63204009,1
+107878010,Paranoid schizophrenia (disorder),64905009,500000
+294754019,Paranoid schizophrenia (disorder),64905009,2000
+294760019,Paranoid schizophrenia (disorder),64905009,7000
+418221000006118,Paranoid schizophrenia (disorder),64905009,20000
+418261000006112,Paranoid schizophrenia (disorder),64905009,200
+346895011,Psychotic disorder (disorder),69322001,100000
+424231000006116,Psychotic disorder (disorder),69322001,100000
+3627341000006115,Psychotic disorder (disorder),69322001,200
+1667591000000111,Non-organic psychosis in remission (disorder),755311000000100,4000
+8232541000006114,Non-organic psychosis in remission (disorder),755311000000100,1000
+1755911000006110,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission (disorder)",755331000000108,2000
+8232591000006117,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission (disorder)",755331000000108,300
+701071000006111,"Mixed bipolar affective disorder, severe (disorder)",764591000000108,400
+182871000006115,"Recurrent manic episodes, severe (disorder)",764621000000106,60
+294805016,"Single manic episode, severe (disorder)",764641000000104,200
+367061000006114,Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder),765176007,2000
+396781000006119,Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder),765176007,500
+513721000006114,Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder),765176007,800
+3760411000006111,Jealous delusion disorder (disorder),77475008,4
+367161000006113,Bipolar II disorder (disorder),83225003,6000
+1785861000006112,Bipolar II disorder (disorder),83225003,10000
+1785871000006117,Bipolar II disorder (disorder),83225003,800
+3854401000006113,Bipolar II disorder (disorder),83225003,10
+425501000006113,"Schizoaffective disorder, depressive type (disorder)",84760002,7000
+425561000006114,"Schizoaffective disorder, depressive type (disorder)",84760002,1000
+425691000006119,"Schizoaffective disorder, depressive type (disorder)",84760002,300
+296130018,Bipolar disorder in remission (disorder),85248005,10000
+3886291000006119,Bipolar disorder in remission (disorder),85248005,1
+3946141000006118,Schizophreniform disorder (disorder),88975006,20

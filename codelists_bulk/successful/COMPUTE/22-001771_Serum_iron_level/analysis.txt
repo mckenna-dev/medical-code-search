@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 6
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations               Term  SNOMED_CT_Concept_ID
+0  144291000006119       2649915   Serum iron level      1019351000000105
+1       1484986013          5152  Plasma iron level      1001561000000100
+2        404437013          5087   Serum iron tests      1015441000000104

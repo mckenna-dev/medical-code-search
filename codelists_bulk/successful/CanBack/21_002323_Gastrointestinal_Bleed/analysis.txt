@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 43
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1         Flag_classifyL2    MedCodeID                             Term
+0   4873       Digestive  Gastrointestinal_bleed  a1231704018   Bleeding chronic gastric ulcer
+1   4874       Digestive  Gastrointestinal_bleed  a1235462014  Bleeding chronic duodenal ulcer
+2   4875       Digestive  Gastrointestinal_bleed  a1235493010     Bleeding acute gastric ulcer

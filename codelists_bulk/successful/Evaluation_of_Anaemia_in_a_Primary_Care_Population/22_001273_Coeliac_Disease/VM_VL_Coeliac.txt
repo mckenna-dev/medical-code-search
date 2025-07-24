@@ -1,0 +1,37 @@
+MedCodeId	Observations	Term	SnomedCTConceptId	
+a1772803017	500000	Coeliac disease	396331005	Coeliac
+a303690012	9000	Coeliac disease NOS	396331005	Coeliac
+a1689421000000115	5000	Coeliac disease annual review	473213008	Coeliac
+a1689381000000112	3000	Coeliac disease monitoring	703970007	Coeliac
+a1655141000000110	2000	Coeliac disease monitoring invitation first letter	7.52301E+14	Coeliac
+a1119251000000112	2000	Coeliac disease autoantibody profile positive	443718009	Coeliac
+a1651841000000119	1000	Coeliac disease monitoring invitation	7.50871E+14	Coeliac
+a303687018	1000	Acquired coeliac disease	197479008	Coeliac
+a1745851000006117	1000	Coeliac disease monitoring 1st letter	1.74585E+15	Coeliac
+a1655181000000119	300	Coeliac disease monitoring invitation second letter	7.52321E+14	Coeliac
+a303686010	300	Congenital coeliac disease	197478000	Coeliac
+a1745861000006115	300	Coeliac disease monitoring 2nd letter	1.74586E+15	Coeliac
+a1651921000000116	200	Coeliac disease annual review declined	7.50911E+14	Coeliac
+a1687291000006116	200	Coeliac leaflet given	1.68729E+15	Coeliac
+a1745871000006110	200	Coeliac disease monitoring 3rd letter	1.74587E+15	Coeliac
+a1745841000006119	100	Coeliac disease monitoring administration	1.74584E+15	Coeliac
+a2263871000000118	100	Coeliac UK member	8.77071E+14	Coeliac
+a1747711000006116	100	Coeliac disease annual review	1.74771E+15	Coeliac
+a1655221000000112	100	Coeliac disease monitoring invitation third letter	7.52341E+14	Coeliac
+a1871791000006116	60	Coeliac disease screening of first degree relatives completed	1.87179E+15	Coeliac
+a7281951000006112	50	Autoantibody screening for coeliac disease positive	443718009	Coeliac
+a1747701000006119	50	Coeliac disease monitoring	1.7477E+15	Coeliac
+a221181000000119	30	Gee - Herter disease	45259000	Coeliac
+a1745881000006113	30	Coeliac disease monitoring phone invite	1.74588E+15	Coeliac
+a3230001000006118	30	Coeliac infantilism	45259000	Coeliac
+a3992891000006113	30	Adult form of coeliac disease	91867008	Coeliac
+a5741741000006110	30	Coeliac disease diet education	289134009	Coeliac
+a1651881000000110	20	Coeliac disease monitoring telephone invitation	7.50891E+14	Coeliac
+a411383013	20	Coeliac rickets	275404008	Coeliac
+a1859331000006118	4	Coeliac society member	1.85933E+15	Coeliac
+a6567671000006110	3	Celiac disease	396331005	Coeliac
+a3230021000006111	3	Gee-Herter disease	45259000	Coeliac
+a1745891000006111	2	Coeliac disease annual review declined	1.74589E+15	Coeliac
+a6567641000006119	1	Coeliac crisis	396330006	Coeliac
+a6567721000006118	1	Coeliac syndrome	396331005	Coeliac
+a6567681000006113	1	CD - Coeliac disease	396331005	Coeliac

@@ -1,0 +1,130 @@
+MedCodeId	Observations	Term	dementia
+a408401000000119	800000	Dementia annual review	dementia
+a45046017	700000	Alzheimer's disease	dementia
+a431681000006117	500000	Vascular dementia	dementia
+a359241000006119	300000	Dementia	dementia
+a295668011	300000	[X]Dementia in Alzheimer's disease	dementia
+a26545010	300000	Senile dementia	dementia
+a295671015	100000	"[X]Dementia in Alzheimer's dis, atypical or mixed type"	dementia
+a882171000006115	100000	Dementia	dementia
+a148381000006115	100000	Senile/presenile dementia	dementia
+a294635013	90000	Uncomplicated senile dementia	dementia
+a408361000000111	80000	Dementia monitoring first letter	dementia
+a363021000006113	50000	[X]Alzheimer's dementia unspec	dementia
+a497559016	50000	Arteriosclerotic dementia	dementia
+a376541000006112	40000	Dementia in Alzheimer's disease with late onset	dementia
+a359141000006111	30000	[X] Senile dementia NOS	dementia
+a2403101000000116	30000	Dementia medication review	dementia
+a696161000006115	30000	Multi-infarct dementia	dementia
+a295688010	30000	Dementia in Parkinsons disease	dementia
+a407461000000119	30000	Dementia monitoring	dementia
+a425901000006116	20000	"[X]Senile dementia,Alzheimer's type"	dementia
+a408421000000111	20000	Dementia monitoring second letter	dementia
+a295681016	20000	"[X]Vascular dementia, unspecified"	dementia
+a915111000006112	20000	Dementia review	dementia
+a914941000006112	20000	[D] Dementia	dementia
+a2366391000000114	20000	Dementia leaflet given	dementia
+a499946014	20000	Alzheimer's disease with early onset	dementia
+a500317011	20000	Alzheimer's disease with late onset	dementia
+a21256010	10000	Presenile dementia	dementia
+a12115661000006119	10000	Provision of information about Join Dementia Research	dementia
+a295672010	10000	"[X]Dementia in Alzheimer's disease, unspecified"	dementia
+a406841000000115	10000	Dementia monitoring administration	dementia
+a408501000000115	9000	Dementia monitoring telephone invitation	dementia
+a399031000006111	9000	[X]Multi-infarct dementia	dementia
+a398571000006112	9000	Mixed cortical and subcortical vascular dementia	dementia
+a914951000006114	9000	[D] Dementia in Alzheimer's disease	dementia
+a2221421000000114	9000	Referral to dementia service	dementia
+a294718018	7000	Dementia in conditions EC	dementia
+a376531000006119	7000	Dementia in Alzheimer's disease with early onset	dementia
+a295684012	7000	Dementia associated with another disease	dementia
+a3414251000006112	6000	VAD - Vascular dementia	dementia
+a363791000006112	6000	[X]Arteriosclerotic dementia	dementia
+a346929012	6000	Alcoholic dementia	dementia
+a408461000000115	6000	Dementia monitoring third letter	dementia
+a882201000006116	5000	Senile dementia - simple type	dementia
+a76484016	5000	Senile degeneration of brain	dementia
+a428201000006119	5000	Subcortical vascular dementia	dementia
+a914921000006117	4000	[D] Vascular dementia	dementia
+a345092016	4000	Frontotemporal degeneration	dementia
+a294646011	4000	Senile dementia with depression	dementia
+a294644014	4000	Senile dementia with depressive or paranoid features	dementia
+a1856601000006111	4000	Dementia monitoring in primary care	dementia
+a295685013	4000	Dementia due to Pick's disease	dementia
+a408481000000112	3000	Dementia monitoring verbal invitation	dementia
+a294648012	3000	Senile dementia with delirium	dementia
+a294645010	3000	Senile dementia with paranoia	dementia
+a1972081000006115	3000	"Unspecified dementia, other mixed symptoms"	dementia
+a1972341000006111	3000	"Dementia in Alzheimer's dis, atypical or mixed type, other mixed symptoms"	dementia
+a8024201000006111	3000	Mixed dementia	dementia
+a3802651000006111	2000	Dementia of the Lewy body type	dementia
+a1972471000006111	2000	"Dementia in Alzheimer's disease, unspecified, other mixed symptoms"	dementia
+a362941000006113	2000	[X]Alcoholic dementia NOS	dementia
+a295680015	2000	[X]Other vascular dementia	dementia
+a295687017	2000	Dementia due to Huntington chorea	dementia
+a295714013	2000	[X]Delirium superimposed on dementia	dementia
+a294656010	2000	Arteriosclerotic dementia NOS	dementia
+a939491000006118	2000	[RFC] Dementia	dementia
+a6024061000006111	2000	Senile dementia of the Lewy body type	dementia
+a401760017	1000	Other alcoholic dementia	dementia
+a2502971000006115	1000	Dementia associated with alcoholism	dementia
+a2405911000000115	1000	Referral to Alzheimer's Society	dementia
+a294643015	1000	Presenile dementia NOS	dementia
+a914931000006119	1000	[D] Dementia with Lewy bodies	dementia
+a295690011	1000	[X]Dementia in other specified diseases classif elsewhere	dementia
+a882191000006119	900	Senile and presenile dementias	dementia
+a294652012	900	Uncomplicated arteriosclerotic dementia	dementia
+a294642013	900	Presenile dementia with depression	dementia
+a431691000006119	900	Vascular dementia of acute onset	dementia
+a915121000006116	900	Dementia review with third party	dementia
+a1972231000006114	800	"Dementia in Alzheimer's dis, atypical or mixed type, without additional symptoms"	dementia
+a1949631000006115	700	Dementia stage at diagnosis - early (mild)	dementia
+a1856611000006114	600	Dementia monitoring in secondary care	dementia
+a8214731000006110	600	Dementia monitoring invitation	dementia
+a1949641000006113	600	Dementia stage at diagnosis - mid (moderate)	dementia
+a6900181000006114	600	"Primary degenerative dementia of the Alzheimer type, senile onset"	dementia
+a359151000006113	600	"[X] Senile dementia, depressed or paranoid type"	dementia
+a1972021000006119	600	"Unspecified dementia, without additional symptoms"	dementia
+a5005601000006112	500	Frontotemporal dementia	dementia
+a359081000006118	500	[X] Presenile dementia NOS	dementia
+a1976831000006111	500	"Vascular dementia, unspecified, other mixed symptoms"	dementia
+a2931251000006113	500	Alzheimer dementia	dementia
+a882211000006118	500	Senile dementia-acute confused	dementia
+a905791000006115	500	[RFC] Alzheimer's disease	dementia
+a914801000006116	400	Local Alzheimer's society involved	dementia
+a2290431000000110	400	Antipsychotic drug therapy for dementia	dementia
+a1949651000006110	400	Dementia stage at diagnosis - late (severe)	dementia
+a423351000006115	400	"[X]Presenile dementia,Alzheimer's type"	dementia
+a2715131000000119	400	Signposting to Alzheimer's Society	dementia
+a294637017	400	Uncomplicated presenile dementia	dementia
+a299325013	400	[X]Other Alzheimer's disease	dementia
+a294655014	400	Arteriosclerotic dementia with depression	dementia
+a294654013	400	Arteriosclerotic dementia with paranoia	dementia
+a294641018	400	Presenile dementia with paranoia	dementia
+a1933001000006115	300	Referral to dementia early intervention service	dementia
+a423221000006117	300	[X]Predominantly cortical dementia	dementia
+a1973401000006112	300	"Other vascular dementia, other mixed symptoms"	dementia
+a295713019	300	"[X]Delirium not superimposed on dementia, so described"	dementia
+a376571000006116	300	[X]Dementia in human immunodef virus [HIV] disease	dementia
+a359101000006114	300	Cerebral degeneration presenting primarily with dementia	dementia
+a294647019	300	Senile dementia with depressive or paranoid features NOS	dementia
+a251194016	200	Alzheimer's disease society member	dementia
+a1972211000006115	200	"Dementia in Alzheimer's disease with late onset, other mixed symptoms"	dementia
+a6897211000006117	200	"Primary degenerative dementia of the Alzheimer type, presenile onset"	dementia
+a295686014	200	Dementia due to Creutzfeldt Jakob disease	dementia
+a13909641000006114	200	Agitation due to dementia	dementia
+a1823871000006112	200	Dementia confirmed	dementia
+a423381000006111	200	"[X]Primary degen dementia of Alzheimer's type, senile onset"	dementia
+a1969651000006118	100	Dementia case finding question: positive response from patient	dementia
+a1972371000006115	100	"Dementia in Alzheimer's disease, unspecified, without additional symptoms"	dementia
+a1972141000006113	100	"Dementia in Alzheimer's disease with early onset, other mixed symptoms"	dementia
+a399481000000113	100	Prion protein markers for Creutzfeldt-Jakob disease	dementia
+a8042791000006116	100	Lewy body dementia with behavioural disturbance	dementia
+a294638010	100	Presenile dementia with delirium	dementia
+a2366171000000112	100	Sporadic Creutzfeldt-Jakob disease	dementia
+a1856631000006115	100	Did not attend dementia monitoring	dementia
+a1576281000006119	100	Cause of Death- Alzheimer'S Disease	dementia
+a7043651000006119	100	Dementia associated with Parkinson's Disease	dementia
+a6897271000006114	100	Dementia in Alzheimer's disease - type 2	dementia
+a2931241000006111	100	Alzheimer disease	dementia
+a363031000006111	100	[X]Alzheimer's disease type 1	dementia

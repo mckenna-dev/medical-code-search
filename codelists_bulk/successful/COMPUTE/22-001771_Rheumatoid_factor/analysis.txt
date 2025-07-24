@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 8
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                              Term  SNOMED_CT_Concept_ID
+0  162261000006114       1202819                 Rheumatoid factor       992081000000101
+1  975681000006118        126267       Rheumatoid factor IgM level      1020741000000107
+2       1488677013         46427  Rheumatoid factor screening test       994021000000106

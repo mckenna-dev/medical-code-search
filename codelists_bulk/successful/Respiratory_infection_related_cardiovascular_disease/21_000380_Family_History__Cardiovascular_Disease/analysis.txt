@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 6
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+0                               3198\t"12C2.00"\t463073\t0\t476\t2\t"FH: Ischaemic heart dis. <60"\t"February 2009"
+1                              12806\t"12C2.12"\t27813\t0\t36\t0\t"FH: MI- Myocardial infarct <60"\t"February 2009"
+2  18661\t"12CP.00"\t8095\t0\t2\t0\t"FH: Myocardial infarct in 1st degree male relative <55 years"\t"February 2009"

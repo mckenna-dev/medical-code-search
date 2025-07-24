@@ -1,0 +1,23 @@
+	MedCodeId	Observations	Term	HDL
+0	a259232010	60000000	Serum high density lipoprotein cholesterol level	HDL
+1	a458313013	2000000	Plasma HDL (high density lipoprotein) cholesterol level	HDL
+2	a259266018	300000	Lipoprotein electroph. - HDL	HDL
+3	a259242012	200000	Serum fasting HDL (high density lipoprotein) cholesterol level	HDL
+4	a259243019	100000	Serum random HDL (high density lipoprotein) cholesterol level	HDL
+5	a1822511000006110	100000	Test request : Serum HDL cholesterol level	HDL
+6	a855771000006118	100000	HDL cholesterol level	HDL
+7	a259567011	40000	Plasma fasting HDL (high density lipoprotein) cholesterol level	HDL
+8	a259564016	30000	Plasma random HDL (high density lipoprotein) cholesterol level	HDL
+9	a2949971000006113	400	High density lipoprotein cholesterol measurement	HDL
+10	a817591000006110	300	HDL - electrophoresis	HDL
+11	a2650141000006111	200	HDL	HDL
+12	a4079571000006118	100	HDL cholesterol	HDL
+13	a2650121000006116	100	High density lipoprotein	HDL
+14	a987321000006112	60	Pre-treatment fasting HDL cholesterol	HDL
+15	a8385731000006118	50	Serum HDL (high density lipoprotein) cholesterol level	HDL
+16	a4600211000006117	40	Serum HDL cholesterol level	HDL
+17	a2783851000006110	8	HDL measurement	HDL
+18	a2950001000006114	7	HDL - High density lipoprotein cholesterol level	HDL
+19	a4600201000006115	5	Serum HDL cholesterol measurement	HDL
+20	a4600561000006117	1	Lipoprotein electrophoresis - High density lipoprotein	HDL
+21	a12622321000006118	7	HDL (high density lipoprotein) cholesterol substance concentration in serum	HDL

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 9
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                             Term
+0   2236          Cancer           Spine  a720631000006115  Malignant neoplasm, overlapping lesion of brain
+1   2237          Cancer           Spine  a726641000006111             Malignant neoplasm of cranial nerves
+2   2238          Cancer           Spine        a289369015             Malignant neoplasm of olfactory bulb

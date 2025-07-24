@@ -1,0 +1,37 @@
+med_code_id,term,snomed_ct_concept_id,observations
+150375010,Thyrotoxicosis,90739004,500000
+292366014,Thyrotoxicosis without mention of goitre or other cause,90739004,40000
+292372014,Thyrotoxicosis NOS,90739004,40000
+251588016,H/O: thyrotoxicosis,161442007,10000
+881371000006111,Thyrotoxicosis +/- goitre,286909009,4000
+293750016,[X]Other thyrotoxicosis,90739004,900
+101891000006113,Thyrotoxicosis without mention of goitre or cause no crisis,90739004,800
+398782015,Thyrotoxicosis of other specified origin,90739004,700
+292365013,Thyrotoxicosis of other specified origin NOS,90739004,300
+101911000006110,"Thyrotoxicosis without mention of goitre, cause with crisis",90739004,200
+292361016,Thyrotoxicosis of other specified origin with no crisis,90739004,200
+5108031000006113,Thyrotoxicosis due to Graves' disease,237499004,200
+507481016,Thyrotoxicosis from ectopic thyroid nodule,87232008,200
+23518016,Neonatal thyrotoxicosis,13795004,200
+1233040016,Myopathy due to thyrotoxicosis,68437005,100
+355987012,Chronic thyroiditis with transient thyrotoxicosis,237538007,70
+297591017,Myasthenic syndrome due to thyrotoxicosis,193214009,40
+292362011,Thyrotoxicosis of other specified origin with crisis,90739004,40
+5720991000006112,Thyrotoxicosis with or without goitre,286909009,30
+2856241000006111,T>3< thyrotoxicosis,22350004,20
+9370014,Thyrotoxicosis factitia,4997005,20
+292357010,Thyrotoxicosis from ectopic thyroid nodule NOS,87232008,20
+661271000006114,Factitia thyrotoxicosis,4997005,20
+5108071000006111,Borderline thyrotoxicosis,237503005,10
+292355019,Thyrotoxicosis from ectopic thyroid nodule with no crisis,190255006,10
+2922501000006118,Thyrotoxicosis due to multinodular goitre,26389007,9
+3700961000006117,Thyrotoxicosis with toxic single thyroid nodule,73869005,8
+5108191000006113,Thyrotoxicosis on thyroxine therapy,237509009,4
+5108041000006115,Autoimmune thyrotoxicosis,237499004,4
+5500041000006112,Thyrotoxicosis with diffuse goitre,267374005,2
+5108061000006116,Thyrotoxicosis due to acute thyroiditis,237501007,2
+292356018,Thyrotoxicosis from ectopic thyroid nodule with crisis,190256007,2
+3508471000006118,Amiodarone-induced thyrotoxicosis,62052002,1
+3918281000006110,Thyrotoxicosis from ectopic thyroid tissue,87232008,1
+2922511000006115,Thyrotoxicosis with toxic multinodular goitre,26389007,1
+5108121000006111,Gestational thyrotoxicosis,237506002,1

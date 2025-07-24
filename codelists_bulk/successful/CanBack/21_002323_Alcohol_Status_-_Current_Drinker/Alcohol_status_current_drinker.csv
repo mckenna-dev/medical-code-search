@@ -1,0 +1,141 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+8604,Alcohol_status,current_drinker,a1738421000000111,Lower risk drinking,L1:Alcohol_status_L2:current_drinker,
+8605,Alcohol_status,current_drinker,a250312016,Light drinker - 1-2u/day,L1:Alcohol_status_L2:current_drinker,
+8606,Alcohol_status,current_drinker,a250340014,Alcohol intake within recommended sensible limits,L1:Alcohol_status_L2:current_drinker,
+8607,Alcohol_status,current_drinker,a342320016,Light drinker,L1:Alcohol_status_L2:current_drinker,
+8608,Alcohol_status,current_drinker,a397729013,Trivial drinker - <1u/day,L1:Alcohol_status_L2:current_drinker,
+8609,Alcohol_status,current_drinker,a629811000006113,Occasional drinker,L1:Alcohol_status_L2:current_drinker,
+8610,Alcohol_status,current_drinker,a629821000006117,Drinks rarely,L1:Alcohol_status_L2:current_drinker,
+8611,Alcohol_status,current_drinker,a1738341000000110,Increasing risk drinking,L1:Alcohol_status_L2:current_drinker,
+8612,Alcohol_status,current_drinker,a250313014,Moderate drinker - 3-6u/day,L1:Alcohol_status_L2:current_drinker,
+8613,Alcohol_status,current_drinker,a73012011,Moderate drinker,L1:Alcohol_status_L2:current_drinker,
+8614,Alcohol_status,current_drinker,a223671000000110,Hangover from alcohol,L1:Alcohol_status_L2:current_drinker,
+8615,Alcohol_status,current_drinker,a2502061000006114,Current drinker,L1:Alcohol_status_L2:current_drinker,
+8616,Alcohol_status,current_drinker,a2502071000006119,Alcohol user,L1:Alcohol_status_L2:current_drinker,
+8617,Alcohol_status,current_drinker,a2502081000006116,Drinks alcohol,L1:Alcohol_status_L2:current_drinker,
+8618,Alcohol_status,current_drinker,a2502091000006118,Current drinker of alcohol,L1:Alcohol_status_L2:current_drinker,
+8619,Alcohol_status,current_drinker,a250331010,Spirit drinker,L1:Alcohol_status_L2:current_drinker,
+8620,Alcohol_status,current_drinker,a250332015,Beer drinker,L1:Alcohol_status_L2:current_drinker,
+8621,Alcohol_status,current_drinker,a250333013,Drinks beer and spirits,L1:Alcohol_status_L2:current_drinker,
+8622,Alcohol_status,current_drinker,a250334019,Drinks wine,L1:Alcohol_status_L2:current_drinker,
+8623,Alcohol_status,current_drinker,a3024491000006118,Hangover,L1:Alcohol_status_L2:current_drinker,
+8624,Alcohol_status,current_drinker,a346930019,Inebriety NOS,L1:Alcohol_status_L2:current_drinker,
+8625,Alcohol_status,current_drinker,a4533361000006116,Drinker of hard liquor,L1:Alcohol_status_L2:current_drinker,
+8626,Alcohol_status,current_drinker,a47085011,Social drinker,L1:Alcohol_status_L2:current_drinker,
+8627,Alcohol_status,current_drinker,a4978131000006112,Home drinker,L1:Alcohol_status_L2:current_drinker,
+8628,Alcohol_status,current_drinker,a4978411000006113,Drinks alcohol evenly through week,L1:Alcohol_status_L2:current_drinker,
+8629,Alcohol_status,current_drinker,a4978421000006117,Drinks alcohol unevenly through week,L1:Alcohol_status_L2:current_drinker,
+8630,Alcohol_status,current_drinker,a4978431000006119,Weekend drinker,L1:Alcohol_status_L2:current_drinker,
+8631,Alcohol_status,current_drinker,a4978451000006114,Bout drinker,L1:Alcohol_status_L2:current_drinker,
+8632,Alcohol_status,current_drinker,a4978461000006111,Episodic drinker,L1:Alcohol_status_L2:current_drinker,
+8633,Alcohol_status,current_drinker,a4978491000006115,Daily drinker,L1:Alcohol_status_L2:current_drinker,
+8634,Alcohol_status,current_drinker,a4978501000006111,Drinks alcohol daily,L1:Alcohol_status_L2:current_drinker,
+8635,Alcohol_status,current_drinker,a4978511000006114,Habitual drinker,L1:Alcohol_status_L2:current_drinker,
+8636,Alcohol_status,current_drinker,a6006211000006116,Drinking alcohol,L1:Alcohol_status_L2:current_drinker,
+8637,Alcohol_status,current_drinker,a7334601000006116,Drinks alcoholic cider,L1:Alcohol_status_L2:current_drinker,
+8638,Alcohol_status,current_drinker,a7334611000006118,Cider drinker,L1:Alcohol_status_L2:current_drinker,
+8639,Alcohol_status,current_drinker,a7334621000006114,Drinks cider,L1:Alcohol_status_L2:current_drinker,
+8640,Alcohol_status,current_drinker,a7967731000006110,Decreased alcohol consumption,L1:Alcohol_status_L2:current_drinker,
+8641,Alcohol_status,current_drinker,a8229891000006112,Drinks real ale,L1:Alcohol_status_L2:current_drinker,
+8642,Alcohol_status,current_drinker,a970431000006112,Misuse of Beer or Cider,L1:Alcohol_status_L2:current_drinker,
+8643,Alcohol_status,current_drinker,a250335018,Alcohol intake above recommended sensible limits,L1:Alcohol_status_L2:current_drinker,
+8644,Alcohol_status,current_drinker,a299061000000117,Hazardous alcohol use,L1:Alcohol_status_L2:current_drinker,
+8645,Alcohol_status,current_drinker,a144179014,Heavy drinker,L1:Alcohol_status_L2:current_drinker,
+8646,Alcohol_status,current_drinker,a1738381000000119,Higher risk drinking,L1:Alcohol_status_L2:current_drinker,
+8647,Alcohol_status,current_drinker,a250314015,Heavy drinker - 7-9u/day,L1:Alcohol_status_L2:current_drinker,
+8648,Alcohol_status,current_drinker,a250316018,Very heavy drinker - >9u/day,L1:Alcohol_status_L2:current_drinker,
+8649,Alcohol_status,current_drinker,a2740831000000114,Harmful use of alcohol,L1:Alcohol_status_L2:current_drinker,
+8650,Alcohol_status,current_drinker,a299081000000114,Harmful alcohol use,L1:Alcohol_status_L2:current_drinker,
+8651,Alcohol_status,current_drinker,a342322012,Very heavy drinker,L1:Alcohol_status_L2:current_drinker,
+8652,Alcohol_status,current_drinker,a342366014,Binge drinker,L1:Alcohol_status_L2:current_drinker,
+8653,Alcohol_status,current_drinker,a4533231000006117,Very heavy drinker - greater than 9 units/day,L1:Alcohol_status_L2:current_drinker,
+8654,Alcohol_status,current_drinker,a4533441000006111,XS - Excessive alcohol consumption,L1:Alcohol_status_L2:current_drinker,
+8655,Alcohol_status,current_drinker,a4533451000006113,Excessive alcohol consumption,L1:Alcohol_status_L2:current_drinker,
+8656,Alcohol_status,current_drinker,a4533461000006110,Excessive alcohol use,L1:Alcohol_status_L2:current_drinker,
+8657,Alcohol_status,current_drinker,a4977991000006113,Fairly heavy drinker,L1:Alcohol_status_L2:current_drinker,
+8658,Alcohol_status,current_drinker,a1806211000006115,Unsuccessful attempts to reduce alcohol consumption,L1:Alcohol_status_L2:current_drinker,
+8659,Alcohol_status,current_drinker,a2911291000006114,Acute alcohol intoxication,L1:Alcohol_status_L2:current_drinker,
+8660,Alcohol_status,current_drinker,a2911301000006110,Drunk,L1:Alcohol_status_L2:current_drinker,
+8661,Alcohol_status,current_drinker,a295251015,"Nondependent alcohol abuse, unspecified",L1:Alcohol_status_L2:current_drinker,
+8662,Alcohol_status,current_drinker,a295252010,"Nondependent alcohol abuse, continuous",L1:Alcohol_status_L2:current_drinker,
+8663,Alcohol_status,current_drinker,a295253017,"Nondependent alcohol abuse, episodic",L1:Alcohol_status_L2:current_drinker,
+8664,Alcohol_status,current_drinker,a295255012,Nondependent alcohol abuse NOS,L1:Alcohol_status_L2:current_drinker,
+8665,Alcohol_status,current_drinker,a342361016,Drinks in morning to get rid of hangover,L1:Alcohol_status_L2:current_drinker,
+8666,Alcohol_status,current_drinker,a342421016,Feels should cut down drinking,L1:Alcohol_status_L2:current_drinker,
+8667,Alcohol_status,current_drinker,a346931015,Drunkenness,L1:Alcohol_status_L2:current_drinker,
+8668,Alcohol_status,current_drinker,a362251000006117,Alcohol intoxication,L1:Alcohol_status_L2:current_drinker,
+8669,Alcohol_status,current_drinker,a397881000006114,Alcohol abuse,L1:Alcohol_status_L2:current_drinker,
+8670,Alcohol_status,current_drinker,a401797010,Nondependent alcohol abuse,L1:Alcohol_status_L2:current_drinker,
+8671,Alcohol_status,current_drinker,a4559361000006118,On examination - breath - alcohol smell,L1:Alcohol_status_L2:current_drinker,
+8672,Alcohol_status,current_drinker,a606991000000117,Alcohol misuse,L1:Alcohol_status_L2:current_drinker,
+8673,Alcohol_status,current_drinker,a769451000006111,Intoxication - alcohol,L1:Alcohol_status_L2:current_drinker,
+8674,Alcohol_status,current_drinker,a882531000006110,Non-dependent abuse of alcohol,L1:Alcohol_status_L2:current_drinker,
+8675,Alcohol_status,current_drinker,a4978011000006117,Secret drinker,L1:Alcohol_status_L2:current_drinker,
+8676,Alcohol_status,current_drinker,a4978021000006113,Hidden drinker,L1:Alcohol_status_L2:current_drinker,
+8677,Alcohol_status,current_drinker,a4978031000006111,Problem drinker,L1:Alcohol_status_L2:current_drinker,
+8678,Alcohol_status,current_drinker,a4978061000006119,Dependent drinker,L1:Alcohol_status_L2:current_drinker,
+8679,Alcohol_status,current_drinker,a4978161000006115,Park drinker,L1:Alcohol_status_L2:current_drinker,
+8680,Alcohol_status,current_drinker,a4978171000006110,Street drinker,L1:Alcohol_status_L2:current_drinker,
+8681,Alcohol_status,current_drinker,a4978261000006110,Isolated drinker,L1:Alcohol_status_L2:current_drinker,
+8682,Alcohol_status,current_drinker,a4978271000006115,Lone drinker,L1:Alcohol_status_L2:current_drinker,
+8683,Alcohol_status,current_drinker,a8103541000006113,Feels alcohol consumption is not a problem,L1:Alcohol_status_L2:current_drinker,
+8684,Alcohol_status,current_drinker,a8106921000006119,Feels it is not necessary to reduce alcohol consumption,L1:Alcohol_status_L2:current_drinker,
+8685,Alcohol_status,current_drinker,a500478011,Alcohol dependence syndrome,L1:Alcohol_status_L2:current_drinker,1000000
+8686,Alcohol_status,current_drinker,a12878014,Alcoholism,L1:Alcohol_status_L2:current_drinker,200000
+8687,Alcohol_status,current_drinker,a295144019,Alcohol dependence syndrome NOS,L1:Alcohol_status_L2:current_drinker,100000
+8688,Alcohol_status,current_drinker,a476611000006116,Alcoholic cirrhosis of liver,L1:Alcohol_status_L2:current_drinker,100000
+8689,Alcohol_status,current_drinker,a13929361000006112,Alcohol detoxification,L1:Alcohol_status_L2:current_drinker,100000
+8690,Alcohol_status,current_drinker,a294674018,Alcohol withdrawal syndrome,L1:Alcohol_status_L2:current_drinker,80000
+8691,Alcohol_status,current_drinker,a110629012,Chronic alcoholism,L1:Alcohol_status_L2:current_drinker,60000
+8692,Alcohol_status,current_drinker,a283559019,Admitted to alcohol detoxification centre,L1:Alcohol_status_L2:current_drinker,10000
+8693,Alcohol_status,current_drinker,a251626014,H/O: alcoholism,L1:Alcohol_status_L2:current_drinker,60000
+8694,Alcohol_status,current_drinker,a295136019,Alcohol dependence,L1:Alcohol_status_L2:current_drinker,50000
+8695,Alcohol_status,current_drinker,a106878015,Alcohol detoxification,L1:Alcohol_status_L2:current_drinker,50000
+8696,Alcohol_status,current_drinker,a315091000000117,Alcohol withdrawal-induced seizure,L1:Alcohol_status_L2:current_drinker,20000
+8697,Alcohol_status,current_drinker,a353698013,Alcohol-induced chronic pancreatitis,L1:Alcohol_status_L2:current_drinker,10000
+8698,Alcohol_status,current_drinker,a138527014,Alcoholic cardiomyopathy,L1:Alcohol_status_L2:current_drinker,10000
+8699,Alcohol_status,current_drinker,a295127018,Acute alcoholic intoxication in alcoholism,L1:Alcohol_status_L2:current_drinker,10000
+8700,Alcohol_status,current_drinker,a362921000006118,[X]Alcohol addiction,L1:Alcohol_status_L2:current_drinker,10000
+8701,Alcohol_status,current_drinker,a753331000006118,Korsakov alcoholic psychosis,L1:Alcohol_status_L2:current_drinker,8000
+8702,Alcohol_status,current_drinker,a295143013,Chronic alcoholism NOS,L1:Alcohol_status_L2:current_drinker,6000
+8703,Alcohol_status,current_drinker,a370971000006114,[X]Chronic alcoholism,L1:Alcohol_status_L2:current_drinker,5000
+8704,Alcohol_status,current_drinker,a295142015,Chronic alcoholism in remission,L1:Alcohol_status_L2:current_drinker,5000
+8705,Alcohol_status,current_drinker,a15243013,Alcohol withdrawal delirium,L1:Alcohol_status_L2:current_drinker,4000
+8706,Alcohol_status,current_drinker,a295141010,Episodic chronic alcoholism,L1:Alcohol_status_L2:current_drinker,4000
+8707,Alcohol_status,current_drinker,a297011014,Alcoholic encephalopathy,L1:Alcohol_status_L2:current_drinker,3000
+8708,Alcohol_status,current_drinker,a15244019,Delirium tremens,L1:Alcohol_status_L2:current_drinker,3000
+8709,Alcohol_status,current_drinker,a453265010,Oesophageal varices in alcoholic cirrhosis of the liver,L1:Alcohol_status_L2:current_drinker,2000
+8710,Alcohol_status,current_drinker,a507053019,DTs - delirium tremens,L1:Alcohol_status_L2:current_drinker,1000
+8711,Alcohol_status,current_drinker,a294669014,Alcohol withdrawal hallucinosis,L1:Alcohol_status_L2:current_drinker,1000
+8712,Alcohol_status,current_drinker,a376451000006113,"[X]Delirium tremens, alcohol induced",L1:Alcohol_status_L2:current_drinker,1000
+8713,Alcohol_status,current_drinker,a478046010,Cerebellar ataxia due to alcoholism,L1:Alcohol_status_L2:current_drinker,1000
+8714,Alcohol_status,current_drinker,a2502971000006115,Dementia associated with alcoholism,L1:Alcohol_status_L2:current_drinker,1000
+8715,Alcohol_status,current_drinker,a295128011,"Acute alcoholic intoxication, unspecified, in alcoholism",L1:Alcohol_status_L2:current_drinker,900
+8716,Alcohol_status,current_drinker,a294668018,Chronic alcoholic brain syndrome,L1:Alcohol_status_L2:current_drinker,900
+8717,Alcohol_status,current_drinker,a451124014,Chronic alcoholic hepatitis,L1:Alcohol_status_L2:current_drinker,800
+8718,Alcohol_status,current_drinker,a542611000006114,Cerebral degeneration due to alcoholism,L1:Alcohol_status_L2:current_drinker,700
+8719,Alcohol_status,current_drinker,a2298341000000114,In-house alcohol detoxification,L1:Alcohol_status_L2:current_drinker,700
+8720,Alcohol_status,current_drinker,a371501000000110,Delivery of rehabilitation for alcohol addiction,L1:Alcohol_status_L2:current_drinker,700
+8721,Alcohol_status,current_drinker,a295132017,Acute alcoholic intoxication in alcoholism NOS,L1:Alcohol_status_L2:current_drinker,600
+8722,Alcohol_status,current_drinker,a295130013,Episodic acute alcoholic intoxication in alcoholism,L1:Alcohol_status_L2:current_drinker,500
+8723,Alcohol_status,current_drinker,a295126010,Alcohol dependence with acute alcoholic intoxication,L1:Alcohol_status_L2:current_drinker,500
+8724,Alcohol_status,current_drinker,a370961000006119,[X]Chronic alcoholic brain syndrome,L1:Alcohol_status_L2:current_drinker,400
+8725,Alcohol_status,current_drinker,a295131012,"Acute alcoholic intoxication in remission, in alcoholism",L1:Alcohol_status_L2:current_drinker,300
+8726,Alcohol_status,current_drinker,a2358251000000115,Alcohol dependence resolved,L1:Alcohol_status_L2:current_drinker,300
+8727,Alcohol_status,current_drinker,a295129015,Continuous acute alcoholic intoxication in alcoholism,L1:Alcohol_status_L2:current_drinker,200
+8728,Alcohol_status,current_drinker,a1779661000006118,Alcohol detoxification declined,L1:Alcohol_status_L2:current_drinker,100
+8729,Alcohol_status,current_drinker,a3122331000006110,Patient referral for alcoholism rehabilitation,L1:Alcohol_status_L2:current_drinker,60
+8730,Alcohol_status,current_drinker,a2614651000006115,Alcoholism,L1:Alcohol_status_L2:current_drinker,60
+8731,Alcohol_status,current_drinker,a502016018,Dipsomania,L1:Alcohol_status_L2:current_drinker,40
+8732,Alcohol_status,current_drinker,a7710581000006113,Severe alcohol dependence,L1:Alcohol_status_L2:current_drinker,40
+8733,Alcohol_status,current_drinker,a2626141000006112,Alcoholic polyneuropathy,L1:Alcohol_status_L2:current_drinker,30
+8734,Alcohol_status,current_drinker,a1974141000006118,"Mental and behav dis due to use alcohol: dependence syndr, episodic use [dipsomania]",L1:Alcohol_status_L2:current_drinker,20
+8735,Alcohol_status,current_drinker,a7725141000006111,Moderate alcohol dependence,L1:Alcohol_status_L2:current_drinker,20
+8736,Alcohol_status,current_drinker,a7706231000006114,Mild alcohol dependence,L1:Alcohol_status_L2:current_drinker,20
+8737,Alcohol_status,current_drinker,a8088751000006117,Alcohol dependence with alcohol induced disorder,L1:Alcohol_status_L2:current_drinker,10
+8738,Alcohol_status,current_drinker,a8048151000006113,Chronic pancreatitis due to chronic alcoholism,L1:Alcohol_status_L2:current_drinker,9
+8739,Alcohol_status,current_drinker,a377081000006114,[X]Dipsomania,L1:Alcohol_status_L2:current_drinker,8
+8740,Alcohol_status,current_drinker,a5564291000006118,Alcoholism detoxication centre,L1:Alcohol_status_L2:current_drinker,6
+8741,Alcohol_status,current_drinker,a8088741000006119,Alcohol induced disorder co-occurrent and due to alcohol dependence,L1:Alcohol_status_L2:current_drinker,4
+8742,Alcohol_status,current_drinker,a1878791000006112,In-house alcohol detoxification,L1:Alcohol_status_L2:current_drinker,3
+8743,Alcohol_status,current_drinker,a3545841000006113,Detoxication therapy for alcoholism,L1:Alcohol_status_L2:current_drinker,3

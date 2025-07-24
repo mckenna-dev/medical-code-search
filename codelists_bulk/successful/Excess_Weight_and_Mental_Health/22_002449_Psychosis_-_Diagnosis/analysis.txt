@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 48
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tPsychosis_diagnosis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                                                                                   \tMedCodeId\tObservations\tTerm\tPsychosis_diagnosis
+0\t296022017\t10000\t[X]Schizophrenia                                                         schizotypal and delusional disorders\tPsychosis_diagnosis
+1\t294769018\t10\tAcute exacerbation of chronic latent schizophrenia\tPsychosis_diagnosis                                                           NaN
+2\t294768014\t3\tAcute exacerbation of subchronic latent schizophrenia\tPsychosis_diagnosis                                                         NaN

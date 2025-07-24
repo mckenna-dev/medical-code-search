@@ -1,0 +1,8 @@
+med_code_id,term,snomed_ct_concept_id,observations
+648521000006111,Erythrocyte sedimentation rate,1022511000000103,16879480
+8404311000006116,ESR - erythrocyte sedimentation rate,1022511000000103,148211
+257303016,ESR raised,165468009,359
+257302014,ESR normal,165467004,315
+6898141000006114,ESR - Erythrocyte sedimentation rate,416838001,227
+648511000006115,Erythrocyte sedimentation,416560009,97
+109801000006119,Test request : ESR,109801000006103,65

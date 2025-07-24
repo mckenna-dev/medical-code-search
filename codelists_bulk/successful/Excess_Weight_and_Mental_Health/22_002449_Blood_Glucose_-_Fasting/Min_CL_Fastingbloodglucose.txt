@@ -1,0 +1,11 @@
+	MedCodeId	Observations	Term	f_blood_glucose
+0	a405633013	2000000	Fasting blood glucose level	f_blood_glucose
+1	a1822521000006119	300000	Test request : Fasting blood glucose level	f_blood_glucose
+2	a5519881000006117	90	Fasting blood glucose measurement	f_blood_glucose
+3	a5519891000006119	60	Fasting blood glucose level	f_blood_glucose
+4	a5519911000006117	30	Fasting blood glucose	f_blood_glucose
+5	a259598013	20000000	Plasma fasting glucose level	f_blood_glucose
+6	a259587012	3000000	Serum fasting glucose level	f_blood_glucose
+7	a2476950017	80000	Impaired fasting glucose	f_blood_glucose
+8	a5519921000006113	2	FBS - Fasting blood sugar	f_blood_glucose
+9	a667181000006113	1000000	Fasting blood sugar	f_blood_glucose

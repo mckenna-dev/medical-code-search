@@ -1,0 +1,9 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+5467,Genitourinary ,Pelvic_pain,a1222528012,[D] Pelvic pain,L1:Genitourinary _L2:Pelvic_pain,
+5468,Genitourinary ,Pelvic_pain,a252841013,C/O pelvic pain,L1:Genitourinary _L2:Pelvic_pain,
+5469,Genitourinary ,Pelvic_pain,a3133971000006116,Pelvic pain syndrome,L1:Genitourinary _L2:Pelvic_pain,
+5470,Genitourinary ,Pelvic_pain,a4546871000006112,Complaining of pelvic pain,L1:Genitourinary _L2:Pelvic_pain,
+5471,Genitourinary ,Pelvic_pain,a5103011000006112,Chronic pelvic pain of female,L1:Genitourinary _L2:Pelvic_pain,
+5472,Genitourinary ,Pelvic_pain,a5620581000006113,Chronic pelvic pain without obvious pathology,L1:Genitourinary _L2:Pelvic_pain,
+5473,Genitourinary ,Pelvic_pain,a6049451000006117,Acute pelvic pain,L1:Genitourinary _L2:Pelvic_pain,
+5474,Genitourinary ,Pelvic_pain,a66078012,Pelvic congestion syndrome,L1:Genitourinary _L2:Pelvic_pain,

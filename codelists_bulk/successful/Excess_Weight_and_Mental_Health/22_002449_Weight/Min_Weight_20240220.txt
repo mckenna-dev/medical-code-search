@@ -1,0 +1,22 @@
+	MedCodeId	Observations	Term	Weight category
+0	253677014	100000000	Body weight	continuous
+1	253688015	100000	O/E - weight NOS	continuous
+2	1780175010	70000	Baseline weight	continuous
+3	11905011000006114	40000	O/E - weight	continuous
+4	7879461000006116	20000	Weight	continuous
+5	1910911000006118	4000	Reported weight	continuous
+6	1219023012	200	Sample weight	continuous
+7	923851000006110	100	O/E - weight	continuous
+8	2934311000006118	40	Weight	continuous
+9	3514400010	10	Current body weight	continuous
+10	4551811000006113	9	On examination - weight	continuous
+11	6251151000006116	3	Body weight measure	continuous
+12	451201014	7000000	Weight monitoring	continuous
+13	59281000006111	9000	Weight screening	continuous
+14	253680010	60000	O/E - weight within 10% ideal	weight within 10% ideal
+15	253679012	5000	O/E -weight 10-20% below ideal	weight 10-20% below ideal
+16	272551000006116	2000	O/E - weight > 20% below ideal	weight greater than 20% below ideal
+17	4551821000006117	50	O/E - weight greater than 20% below ideal	weight greater than 20% below ideal
+18	402435016	60000	O/E - weight 10-20% over ideal	weight 10-20% over ideal
+19	217781000000116	50000	O/E - weight greater than 20% over ideal	weight greater than 20% over ideal
+20	5507901000006110	1	O/E - weight greater than 20% over ideal	weight greater than 20% over ideal

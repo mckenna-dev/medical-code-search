@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 55
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\talcohol_dependence']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                          \tMedCodeId\tObservations\tTerm\talcohol_dependence
+0     0\ta500478011\t1000000\tAlcohol dependence syndrome\talcohol_dependence
+1                        1\ta12878014\t200000\tAlcoholism\talcohol_dependence
+2  2\ta295144019\t100000\tAlcohol dependence syndrome NOS\talcohol_dependence

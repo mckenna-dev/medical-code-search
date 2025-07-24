@@ -1,0 +1,35 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2383,Cancer,Uterine,a289166015,"Malignant neoplasm of uterus, part unspecified",L1:Cancer_L2:Uterine,B40..00
+2384,Cancer,Uterine,a1228493018,Malignant neoplasm of cervix uteri,L1:Cancer_L2:Uterine,B41..00
+2385,Cancer,Uterine,a543481000006111,Cervical carcinoma (uterus),L1:Cancer_L2:Uterine,B41..11
+2386,Cancer,Uterine,a1210561014,Malignant neoplasm of body of uterus,L1:Cancer_L2:Uterine,B43..00
+2387,Cancer,Uterine,a289187013,"Malignant neoplasm of corpus uteri, excluding isthmus",L1:Cancer_L2:Uterine,B430.00
+2388,Cancer,Uterine,a289188015,Malignant neoplasm of cornu of corpus uteri,L1:Cancer_L2:Uterine,B430000
+2389,Cancer,Uterine,a289189011,Malignant neoplasm of fundus of corpus uteri,L1:Cancer_L2:Uterine,B430100
+2390,Cancer,Uterine,a289190019,Malignant neoplasm of endometrium of corpus uteri,L1:Cancer_L2:Uterine,B430200
+2391,Cancer,Uterine,a980021000006113,Malignant neoplasm of endometrium,L1:Cancer_L2:Uterine,B430211
+2392,Cancer,Uterine,a289191015,Malignant neoplasm of myometrium of corpus uteri,L1:Cancer_L2:Uterine,B430300
+2393,Cancer,Uterine,a289192010,Malignant neoplasm of corpus uteri NOS,L1:Cancer_L2:Uterine,B430z00
+2394,Cancer,Uterine,a289193017,Malignant neoplasm of isthmus of uterine body,L1:Cancer_L2:Uterine,B431.00
+2395,Cancer,Uterine,a289194011,Malignant neoplasm of lower uterine segment,L1:Cancer_L2:Uterine,B431000
+2396,Cancer,Uterine,a289195012,Malignant neoplasm of isthmus of uterine body NOS,L1:Cancer_L2:Uterine,B431z00
+2397,Cancer,Uterine,a289197016,Malignant neoplasm of other site of uterine body,L1:Cancer_L2:Uterine,B43y.00
+2398,Cancer,Uterine,a289198014,Malignant neoplasm of body of uterus NOS,L1:Cancer_L2:Uterine,B43z.00
+2399,Cancer,Uterine,a726271000006117,Malignant neoplasm of fallopian tube,L1:Cancer_L2:Uterine,B441.00
+2400,Cancer,Uterine,a289204012,Malignant neoplasm of uterine adnexa NOS,L1:Cancer_L2:Uterine,B44z.00
+2401,Cancer,Uterine,a292139019,"[X]Malignant neoplasm of uterine adnexa, unspecified",L1:Cancer_L2:Uterine,Byu7000
+2402,Cancer,Uterine,a155468010,Primary malignant neoplasm of placenta,L1:Cancer_L2:Uterine,B42..00
+2403,Cancer,Uterine,a289196013,Malignant neoplasm of overlapping lesion of corpus uteri,L1:Cancer_L2:Uterine,B432.00
+2404,Cancer,Uterine,a289199018,Malignant neoplasm of uterine adnexa,L1:Cancer_L2:Uterine,B44..00
+2405,Cancer,Uterine,a155155010,Malignant neoplasm of broad ligament,L1:Cancer_L2:Uterine,B442.00
+2406,Cancer,Uterine,a289203018,Malignant neoplasm of other site of uterine adnexa,L1:Cancer_L2:Uterine,B44y.00
+2407,Cancer,Uterine,a289184018,Choriocarcinoma,L1:Cancer_L2:Uterine,B911013
+2408,Cancer,Uterine,a307071000006118,[M]Cloacogenic carcinoma,L1:Cancer_L2:Uterine,BB49.00
+2409,Cancer,Uterine,a312491000006111,[M]Mesodermal mixed tumour,L1:Cancer_L2:Uterine,BBL6.00
+2410,Cancer,Uterine,a307801000006119,[M]Embryonal hepatoma,L1:Cancer_L2:Uterine,BBL8.11
+2411,Cancer,Uterine,a306451000006116,"Embryonal carcinosarcoma,",L1:Cancer_L2:Uterine,BBLA.00
+2412,Cancer,Uterine,a307831000006110,[M]Embryonal sarcoma,L1:Cancer_L2:Uterine,BBLD.00
+2413,Cancer,Uterine,a291718019,Embryonal carcinoma,L1:Cancer_L2:Uterine,BBQ3.00
+2414,Cancer,Uterine,a1230128019,[M]Choriocarcinoma,L1:Cancer_L2:Uterine,BBR2.00
+2415,Cancer,Uterine,a306821000006110,[M]Choriocarcinoma combined with teratoma,L1:Cancer_L2:Uterine,BBR3.00
+2416,Cancer,Uterine,a312031000006115,"[M]Malignant teratoma, trophoblastic",L1:Cancer_L2:Uterine,BBR4.00

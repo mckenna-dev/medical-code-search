@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 15
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations                                                        Term  SNOMED_CT_Concept_ID
+0         92208011        200000                                Systemic lupus erythematosus            55464009.0
+1        309408013          7000                            Systemic lupus erythematosus NOS            55464009.0
+2  114251000006118          1000  Systemic lupus erythematosus with organ/system involvement           239887007.0

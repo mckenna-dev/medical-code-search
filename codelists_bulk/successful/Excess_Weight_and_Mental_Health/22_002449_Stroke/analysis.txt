@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 824
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tstroke\t\t\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                     \tMedCodeId\tObservations\tTerm\tstroke\t\t\t
+0    0\ta405339016\t900000\tCerebrovascular accident\tstroke\t\t\t
+1    1\ta405339016\t900000\tCerebrovascular accident\tstroke\t\t\t
+2  2\ta395783012\t800000\tTransient ischaemic attack\tstroke\t\t\t

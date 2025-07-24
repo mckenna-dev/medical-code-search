@@ -1,0 +1,10 @@
+Original URL: https://github.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/blob/main/Resp_infection_codes/GOLD_Cohort_FRIs_by_type_table.txt
+Downloaded from: https://raw.githubusercontent.com/Protocols-For-Research/CPRD-codes-CVD-infection-risk/main/Resp_infection_codes/GOLD_Cohort_FRIs_by_type_table.txt
+Codelist Name: Febrile Respiratory Illness (FRI)
+Project Title: Respiratory infection related cardiovascular disease
+ERAP Number: 21_000380
+Author: Joseph Lee
+Coding System: Gold
+Year Created: 2020
+Downloaded: 2025-06-25 13:26:27
+File Size: 20353 bytes

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 20
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SnomedCTConceptId']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                                              Term  SnomedCTConceptId
+0       a1484890014         80000                Referral to community alcohol team          390857005
+1       a2549646014         50000       Referral to community drug and alcohol team          417096006
+2  a622961000000116         30000  Referral to specialist alcohol treatment service          431260004

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 77
+Columns: 6
+Column names: ['Description', 'SNOMED_CT_Concept_ID', 'Codelist_Name', 'Med_Code_Id', 'Observations', 'Term']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                                              Description SNOMED_CT_Concept_ID              Codelist_Name Med_Code_Id  Observations
+0  Arthropathy due to type 2 diabetes mellitus (disorder)           b314903002  Codes for diabetes type 2  a459309011             8
+1  Arthropathy due to type 2 diabetes mellitus (disorder)           b314903002  Codes for diabetes type 2  a459310018           200
+2  Arthropathy due to type 2 diabetes mellitus (disorder)           b314903002  Codes for diabetes type 2  a459311019            30

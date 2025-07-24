@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 27
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2   MedCodeID              Term
+0   1828          Cancer         Myeloma  a344820010  Multiple myeloma
+1   1829          Cancer         Myeloma  a344818012  Kahler's disease
+2   1830          Cancer         Myeloma  a344819016      Myelomatosis

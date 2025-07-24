@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 336
+Columns: 6
+Column names: ['Description', 'SNOMED_CT_Concept_ID', 'Codelist_Name', 'Med_Code_Id', 'Observations', 'Term']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                                                                 Description SNOMED_CT_Concept_ID                                                    Codelist_Name        Med_Code_Id  Observations
+0  Recurrent reactive depressive episodes, severe, with psychosis (disorder)    b1086471000000103  Psychosis and schizophrenia and bipolar affective disease codes   a424681000006118           400
+1               Acute predominantly delusional psychotic disorder (disorder)    b1089691000000105  Psychosis and schizophrenia and bipolar affective disease codes  a2730111000000111            10
+2               Subchronic schizophrenia with acute exacerbations (disorder)           b111482003  Psychosis and schizophrenia and bipolar affective disease codes         a294730012           100

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 54
+Columns: 13
+Column names: ['MedCodeId', 'Term', 'Observations', 'SNOMED_CT_Concept_ID', '1001', 'Unnamed: 1', '376874', '11086', '137', '0', 'H3...00', 'Chronic obstructive pulmonary disease', '2009-02-01 00:00:00']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId  Term  Observations  SNOMED_CT_Concept_ID   1001
+0        NaN   NaN           NaN                   NaN    998
+1        NaN   NaN           NaN                   NaN   3243
+2        NaN   NaN           NaN                   NaN  25603

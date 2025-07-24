@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4631
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tcancer\t\t\t\t\t']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                \tMedCodeId\tObservations\tTerm\tcancer\t\t\t\t\t
+0    0\ta722361000006115\t2000000\tMalignant tumour of prostate\tcancer\t\t\t\t\t
+1                   1\ta1780324019\t2000000\tCancer care review\tcancer\t\t\t\t\t
+2  2\ta1210642019\t1000000\tMalignant neoplasm of female breast\tcancer\t\t\t\t\t

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 13
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+        MedCodeId  Observations                        Term  SNOMED_CT_Concept_ID
+0  70401000006114        630304         Urine total protein      1003291000000105
+1        84066017        470962               Urine protein      1028811000000103
+2      2549739011         68282  Random urine protein level      1011581000000106

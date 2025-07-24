@@ -1,0 +1,112 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+Benign hypertension (disorder),b10725009,Hypertension diagnosis codes,a2670511000006119,9,Benign hypertension
+Multiple drug intolerant hypertension (disorder),b1078301000112109,Hypertension diagnosis codes,a13688011000006110,1,Multiple drug intolerant hypertension
+Benign essential hypertension (disorder),b1201005,Hypertension diagnosis codes,a3135013,300000,Benign essential hypertension
+Renovascular hypertension (disorder),b123799005,Hypertension diagnosis codes,a299683014,1000,Renovascular hypertension
+Renovascular hypertension (disorder),b123799005,Hypertension diagnosis codes,a4356081000006115,2,Hypertension due to renovascular disease
+Secondary benign hypertension (disorder),b194785008,Hypertension diagnosis codes,a299678018,400,Secondary benign hypertension
+Secondary benign hypertension (disorder),b194785008,Hypertension diagnosis codes,a299680012,200,Benign secondary hypertension
+Hypertension secondary to endocrine disorder (disorder),b194788005,Hypertension diagnosis codes,a299681011,1000,Hypertension secondary to endocrine disorders
+Hypertension secondary to endocrine disorder (disorder),b194788005,Hypertension diagnosis codes,a4775831000006118,20,Hypertension secondary to endocrine disorder
+Hypertension caused by drug (disorder),b194791005,Hypertension diagnosis codes,a299684015,500,Hypertension secondary to drug
+"Benign essential hypertension complicating pregnancy, childbirth and the puerperium (disorder)",b198942000,Hypertension diagnosis codes,a504831000006116,4000,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium"
+"Benign essential hypertension complicating pregnancy, childbirth and the puerperium (disorder)",b198942000,Hypertension diagnosis codes,a887811000006117,50,Preg.+ pre-existing hypertensn
+"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered (disorder)",b198944004,Hypertension diagnosis codes,a504791000006111,700,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered"
+"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered (disorder)",b198946002,Hypertension diagnosis codes,a504821000006119,70,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered"
+"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication (disorder)",b198947006,Hypertension diagnosis codes,a504781000006113,80,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication"
+"Renal hypertension complicating pregnancy, childbirth and the puerperium (disorder)",b198949009,Hypertension diagnosis codes,a176961000006112,10,Renal hypertension in pregnancy/childbirth/puerp unspecified
+"Renal hypertension complicating pregnancy, childbirth and the puerperium (disorder)",b198949009,Hypertension diagnosis codes,a176971000006117,200,"Renal hypertension complicating pregnancy, childbirth and the puerperium"
+"Renal hypertension complicating pregnancy, childbirth and the puerperium (disorder)",b198949009,Hypertension diagnosis codes,a176981000006119,20,Renal hypertension in pregnancy/childbirth/puerperium NOS
+"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication (disorder)",b198952001,Hypertension diagnosis codes,a176931000006115,6,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication"
+"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered (disorder)",b198953006,Hypertension diagnosis codes,a176941000006113,10,"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered"
+Pre-eclampsia or eclampsia with pre-existing hypertension (disorder),b198997005,Hypertension diagnosis codes,a305818015,700,Pre-eclampsia or eclampsia with pre-existing hypertension
+Pre-eclampsia or eclampsia with pre-existing hypertension (disorder),b198997005,Hypertension diagnosis codes,a212961000006118,400,Pre-eclampsia or eclampsia + pre-existing hypertension NOS
+Pre-eclampsia or eclampsia with pre-existing hypertension (disorder),b198997005,Hypertension diagnosis codes,a213011000006113,1000,Pre-eclampsia or eclampsia with hypertension unspecified
+Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered (disorder),b199002002,Hypertension diagnosis codes,a213001000006110,200,Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered
+Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication (disorder),b199003007,Hypertension diagnosis codes,a212971000006113,100,Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication
+"Pre-existing hypertension complicating pregnancy, childbirth and puerperium (disorder)",b199005000,Hypertension diagnosis codes,a213111000006112,90,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium"
+"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium (disorder)",b199006004,Hypertension diagnosis codes,a213091000006115,6,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium"
+"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium (disorder)",b199008003,Hypertension diagnosis codes,a213081000006118,40,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium"
+Secondary hypertension (disorder),b31992008,Hypertension diagnosis codes,a53452019,30000,Secondary hypertension
+Secondary hypertension (disorder),b31992008,Hypertension diagnosis codes,a299682016,900,Secondary hypertension NOS
+Secondary hypertension (disorder),b31992008,Hypertension diagnosis codes,a300870016,100,[X]Other secondary hypertension
+Secondary hypertension (disorder),b31992008,Hypertension diagnosis codes,a300871017,300,[X]Hypertension secondary to other renal disorders
+Secondary hypertension (disorder),b31992008,Hypertension diagnosis codes,a158241000006117,1000,Secondary hypertension NOS
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a64168014,10000000,Hypertensive disease
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a299686018,4000,Other specified hypertensive disease
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a299687010,800000,Hypertensive disorder
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a300869017,400,[X]Hypertensive diseases
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a523801000006119,70000,BP - hypertensive disease
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a790121000006116,800000,Hypertension
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a3117411000006118,80,High blood pressure
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a3117451000006117,3,BP - High blood pressure
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a3117461000006115,6,Systemic arterial hypertension
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a3117481000006113,50,HT - Hypertension
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a3117491000006111,1,High blood pressure disorder
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a3117511000006117,50,HTN - Hypertension
+"Hypertensive disorder, systemic arterial (disorder)",b38341003,Hypertension diagnosis codes,a3117521000006113,1,"Hypertensive disorder, systemic arterial"
+Postpartum pre-existing essential hypertension (disorder),b40511000119107,Hypertension diagnosis codes,a8016541000006110,6,Postpartum pre-existing essential hypertension
+Systolic essential hypertension (disorder),b429457004,Hypertension diagnosis codes,a7103581000006114,20,Systolic essential hypertension
+Diastolic hypertension (disorder),b48146000,Hypertension diagnosis codes,a80224019,3000,Diastolic hypertension
+Systolic hypertension (disorder),b56218007,Hypertension diagnosis codes,a93494011,60000,Systolic hypertension
+Essential hypertension (disorder),b59621000,Hypertension diagnosis codes,a99042012,30000000,Essential hypertension
+Essential hypertension (disorder),b59621000,Hypertension diagnosis codes,a99047018,700,Primary hypertension
+Essential hypertension (disorder),b59621000,Hypertension diagnosis codes,a395751018,900000,Essential hypertension NOS
+Essential hypertension (disorder),b59621000,Hypertension diagnosis codes,a3468491000006113,6,Idiopathic hypertension
+Malignant hypertension (disorder),b70272006,Hypertension diagnosis codes,a3642801000006112,2000,Malignant hypertension
+Supine hypertension (disorder),b712832005,Hypertension diagnosis codes,a7696031000006114,20,Supine hypertension
+Secondary diastolic hypertension (disorder),b74451002,Hypertension diagnosis codes,a3710191000006113,1,Secondary diastolic hypertension
+Malignant essential hypertension (disorder),b78975002,Hypertension diagnosis codes,a131046010,20000,Malignant essential hypertension
+Malignant essential hypertension (disorder),b78975002,Hypertension diagnosis codes,a884121000006111,800,Malignant hypertension
+Malignant essential hypertension (disorder),b78975002,Hypertension diagnosis codes,a3784371000006115,5,Accelerated essential hypertension
+Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),b843821000000102,Hypertension diagnosis codes,a1846941000006119,20000,Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),b843821000000102,Hypertension diagnosis codes,a2193031000000112,20000,Stage 1 hypertension
+Severe hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),b843841000000109,Hypertension diagnosis codes,a1846961000006115,1000,Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+Severe hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),b843841000000109,Hypertension diagnosis codes,a2193021000000110,2000,Severe hypertension
+Stage 2 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),b846371000000103,Hypertension diagnosis codes,a1846991000006111,30000,Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+Stage 2 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),b846371000000103,Hypertension diagnosis codes,a8286581000006114,3,Stage 2 hypertension
+Pre-existing hypertension in obstetric context (disorder),b86041002,Hypertension diagnosis codes,a305764016,200,Other pre-existing hypertension in preg/childbirth/puerp
+Pre-existing hypertension in obstetric context (disorder),b86041002,Hypertension diagnosis codes,a19411000006110,5,Other pre-exist hypertension in preg/childb/puerp + p/n comp
+Pre-existing hypertension in obstetric context (disorder),b86041002,Hypertension diagnosis codes,a19421000006119,30,Other pre-exist hypertension in preg/childb/puerp-not deliv
+Pre-existing hypertension in obstetric context (disorder),b86041002,Hypertension diagnosis codes,a19431000006116,60,Other pre-existing hypertension in preg/childb/puerp - deliv
+Pre-existing hypertension in obstetric context (disorder),b86041002,Hypertension diagnosis codes,a19441000006114,60,Other pre-existing hypertension in preg/childb/puerp NOS
+Pre-existing hypertension in obstetric context (disorder),b86041002,Hypertension diagnosis codes,a19451000006111,100,Other pre-existing hypertension in preg/childb/puerp unspec
+Pre-existing hypertension in obstetric context (disorder),b86041002,Hypertension diagnosis codes,a39871000006113,8,Oth pre-exist hypert in preg/childb/puerp -del with p/n comp
+Pre-existing hypertension in obstetric context (disorder),b86041002,Hypertension diagnosis codes,a504801000006112,400,Benign essential hypertension in preg/childb/puerp NOS
+Pre-existing hypertension in obstetric context (disorder),b86041002,Hypertension diagnosis codes,a504811000006110,700,Benign essential hypertension in preg/childb/puerp unspec
+Pre-existing hypertension in obstetric context (disorder),b86041002,Hypertension diagnosis codes,a3898601000006112,20,Pre-existing hypertension in obstetric context
+Nocturnal hypertension (disorder),b863191000000102,Hypertension diagnosis codes,a8298681000006113,9,Nocturnal hypertension
+Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) without evidence of end organ damage (disorder),b908631000000108,Hypertension diagnosis codes,a1908711000006115,20000,Stage 1 hypertension (NICE 2011) without evidence of end organ damage
+Hypertensive emergency (disorder),b132721000119104,Hypertension diagnosis codes,a8041701000006119,20,Hypertensive emergency
+Renal sclerosis with hypertension (disorder),b14973001,Hypertension diagnosis codes,a2737251000006112,5,Renal sclerosis with hypertension
+Labile systemic arterial hypertension (disorder),b16229371000119106,Hypertension diagnosis codes,a9897511000006110,5,Labile systemic arterial hypertension
+Hypertension caused by oral contraceptive pill (disorder),b169465000,Hypertension diagnosis codes,a262960017,1000,Hypertension induced by oral contraceptive pill
+Secondary malignant renovascular hypertension (disorder),b194783001,Hypertension diagnosis codes,a299676019,40,Secondary malignant renovascular hypertension
+"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication (disorder)",b198945003,Hypertension diagnosis codes,a504761000006115,50,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication"
+"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered (disorder)",b198951008,Hypertension diagnosis codes,a176951000006110,20,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered"
+"Renal hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication (disorder)",b198954000,Hypertension diagnosis codes,a176921000006118,5,"Renal hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication"
+Pre-eclampsia or eclampsia with pre-existing hypertension - delivered (disorder),b198999008,Hypertension diagnosis codes,a212991000006114,2000,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered
+Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication (disorder),b199000005,Hypertension diagnosis codes,a212981000006111,200,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication
+"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium (disorder)",b199007008,Hypertension diagnosis codes,a213101000006114,1,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium"
+Renal hypertension (disorder),b28119000,Hypertension diagnosis codes,a2951231000006117,4,Renal hypertension
+Labile essential hypertension (disorder),b371125006,Hypertension diagnosis codes,a6349461000006119,20,Labile essential hypertension
+Hypertension with albuminuria (disorder),b397748008,Hypertension diagnosis codes,a6592161000006112,5,Hypertension with albuminuria
+Hypertensive urgency (disorder),b443482000,Hypertension diagnosis codes,a7278171000006116,40,Hypertensive urgency
+Low-renin essential hypertension (disorder),b46481004,Hypertension diagnosis codes,a3250801000006112,3,Low-renin essential hypertension
+Parenchymal renal hypertension (disorder),b57684003,Hypertension diagnosis codes,a3437381000006110,5,Parenchymal renal hypertension
+Sustained diastolic hypertension (disorder),b59720008,Hypertension diagnosis codes,a3470001000006117,1,Sustained diastolic hypertension
+Benign essential hypertension in obstetric context (disorder),b63287004,Hypertension diagnosis codes,a3529151000006119,1,Benign essential hypertension in obstetric context
+Pre-eclampsia added to pre-existing hypertension (disorder),b67359005,Hypertension diagnosis codes,a3595861000006116,3,Pre-eclampsia added to pre-existing hypertension
+Pre-eclampsia added to pre-existing hypertension (disorder),b67359005,Hypertension diagnosis codes,a3595901000006111,1,Superimposed pre-eclampsia
+Hypertensive crisis (disorder),b706882009,Hypertension diagnosis codes,a7609711000006110,50,Hypertensive crisis
+Essential hypertension in obstetric context (disorder),b72022006,Hypertension diagnosis codes,a3671691000006112,1,Essential hypertension in obstetric context
+Benign secondary renovascular hypertension (disorder),b73410007,Hypertension diagnosis codes,a2478822013,500,Secondary benign renovascular hypertension
+Diastolic hypertension co-occurrent with systolic hypertension (disorder),b762463000,Hypertension diagnosis codes,a3636695013,2,Diastolic hypertension and systolic hypertension
+Essential hypertension complicating AND/OR reason for care during pregnancy (disorder),b78808002,Hypertension diagnosis codes,a3781691000006113,1,Essential hypertension complicating AND/OR reason for care during pregnancy
+Hypertension resistant to drug therapy (disorder),b845891000000103,Hypertension diagnosis codes,a2193971000000110,2000,Hypertension resistant to drug therapy
+Hypertension resistant to drug therapy (disorder),b845891000000103,Hypertension diagnosis codes,a8286321000006117,3,Resistant hypertension
+Chronic hypertension in obstetric context (disorder),b8762007,Hypertension diagnosis codes,a2639781000006114,2,Chronic hypertension in obstetric context
+Malignant secondary hypertension (disorder),b89242004,Hypertension diagnosis codes,a299677011,200,Secondary malignant hypertension NOS
+Malignant secondary hypertension (disorder),b89242004,Hypertension diagnosis codes,a151161000006115,600,Malignant secondary hypertension
+Malignant secondary hypertension (disorder),b89242004,Hypertension diagnosis codes,a3950631000006119,1,Accelerated secondary hypertension
+Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) with evidence of end organ damage (disorder),b908651000000101,Hypertension diagnosis codes,a1908721000006111,2000,Stage 1 hypertension (NICE 2011) with evidence of end organ damage

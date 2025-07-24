@@ -1,0 +1,10 @@
+=== FILE ANALYSIS ===
+Rows: 1
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tBipolar_referral']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                         \tMedCodeId\tObservations\tTerm\tBipolar_referral
+0  0\t6891981000006111\t3\tReferral for bipolar disorder\tBipolar_referral

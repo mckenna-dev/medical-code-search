@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 28
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2          MedCodeID                                                        Term
+0   8561  Smoking_status       ex_smoker  a1059701000000119                                 Ex roll-up cigarette smoker
+1   8562  Smoking_status       ex_smoker  a1123951000000110  Ex-smoker annual review - enhanced services administration
+2   8563  Smoking_status       ex_smoker  a1151791000000117                                    Recently stopped smoking

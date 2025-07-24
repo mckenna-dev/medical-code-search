@@ -1,0 +1,89 @@
+med_code_id,term,snomed_ct_concept_id,observations
+303393017,Cirrhosis and chronic liver disease,197279005,50000
+303464018,Other non-alcoholic chronic liver disease NOS,328383001,200
+303465017,Chronic liver disease,328383001,20000
+303466016,Liver abscess and sequelae of chronic liver disease,197324004,500
+303489012,Liver abscess and chronic liver disease causing sequelae NOS,197324004,8
+396394015,Other sequelae of chronic liver disease,235856003,300
+1850901000006115,Reason for influenza vaccine - chronic liver disease,1850901000006104,1000
+4044018,Biliary cirrhosis,1761006,20000
+11267010,Indian childhood cirrhosis,6183001,9
+21289010,Secondary biliary cirrhosis,12368000,300
+52980015,Primary biliary cirrhosis,31712002,50000
+123999018,Congestive cirrhosis,74669004,20
+126721013,Florid cirrhosis,76301009,30
+303414013,Unilobular portal cirrhosis,197291001,3
+303419015,Diffuse nodular cirrhosis,197293003,200
+303420014,Fatty portal cirrhosis,197294009,50
+303425016,Capsular portal cirrhosis,197296006,20
+303433015,Pigmentary portal cirrhosis,197299004,4
+303435010,Toxic portal cirrhosis,197301006,3
+303437019,Bacterial portal cirrhosis,197303009,2
+303438012,Cardituberculous cirrhosis,301811001,30
+303439016,Syphilitic portal cirrhosis,197305002,1
+303440019,Zooparasitic portal cirrhosis,197306001,1
+303441015,Infectious cirrhosis,235896001,100
+303442010,Portal cirrhosis unspecified,419728003,50
+303452014,Biliary cirrhosis of children,197310003,4
+303453016,Biliary cirrhosis NOS,1761006,300
+303518014,Toxic liver disease with fibrosis and cirrhosis of liver,197362001,200
+303781011,[X]Other and unspecified cirrhosis of liver,19943007,2000
+353613017,Cirrhosis of liver,19943007,80000
+353621011,"Laennec's cirrhosis, non-alcoholic",235895002,3
+396390012,Multilobular portal cirrhosis,266469006,3
+396391011,Cardiac portal cirrhosis,266470007,100
+396392016,Juvenile portal cirrhosis,266471006,10
+396393014,Non-alcoholic cirrhosis NOS,266468003,3000
+451442010,Oesophageal varices in cirrhosis of the liver,308129003,1000
+453265010,Oesophageal varices in alcoholic cirrhosis of the liver,309783001,2000
+477604016,Mixed portal cirrhosis,15999000,10
+493707012,Hypertrophic portal cirrhosis,43904005,200
+1786709019,Pigmentary cirrhosis of liver,399126000,40
+2576980018,Portal cirrhosis,419728003,100
+2579818016,Laennec's cirrhosis,419728003,5
+55851000006118,Xanthomatous portal cirrhosis,271440004,2
+211821000006111,Postnecrotic cirrhosis of liver,43904005,8
+221111000000114,Cirrhosis - non-alcoholic,266468003,9000
+226161000006113,Pipe-stem portal cirrhosis,197300007,1
+476611000006116,Alcoholic cirrhosis of liver,420054005,100000
+550431000006116,Childhood function cirrhosis,197284004,9
+603321000006118,Cryptogenic cirrhosis,89580002,3000
+731231000006114,Macronodular cirrhosis of liver,43904005,500
+803961000006119,Glycogenosis with hepatic cirrhosis,29633007,100
+906081000006114,[RFC] Cirrhosis,906081000006105,2000
+1736361000000112,Cystic fibrosis related cirrhosis,776981000000103,20
+2816671000006112,Hepatic cirrhosis,19943007,1
+2816681000006110,CL - Cirrhosis of liver,19943007,3
+2847631000006117,Micronodular cirrhosis,21861000,1
+3206871000006111,Macronodular cirrhosis,43904005,30
+3713561000006119,Cardiac cirrhosis,74669004,5
+4353641000006110,Toxic cirrhosis,123604002,6
+4355091000006112,Latent cirrhosis,123716002,1
+5359951000006114,Cirrhotic,255417007,20
+5360171000006118,Non-cirrhotic,255436002,6
+5524681000006114,Cirrhosis secondary to cholestasis,271440004,2
+6349661000006117,Early cirrhosis,371139006,10
+6947461000006115,Alcoholic cirrhosis,420054005,10000
+6947471000006110,Alcoholic liver cirrhosis,420054005,40
+7743871000006114,Decompensated cirrhosis of liver,716203000,100
+7743881000006112,Decompensated cirrhosis,716203000,20
+7966981000006110,Cirrhosis of liver due to chronic hepatitis C,831000119103,1
+8458711000006115,Ascites due to alcoholic cirrhosis,1082601000119104,3
+14146411000006112,Oesophageal varices due to cirrhosis of liver,897004000,3
+14146421000006116,Oesophageal varices due to cirrhosis of liver caused by alcohol,897005004,2
+127487019,Chronic hepatitis,76783007,30000
+303409014,Chronic hepatitis unspecified,76783007,400
+303410016,Chronic hepatitis NOS,76783007,4000
+557071000006112,Chronic hepatitis C,128302006,20000
+683211000000113,Chronic hepatitis annual review,362421000000102,60
+1680591000006117,Chronic hepatitis annual review - enhanced services admin,362421000000102,200
+5086841000006119,Chronic hepatic failure,235886005,4
+12061221000006116,Chronic hepatitis C caused by hepatitis C virus genotype 6,767809001,1
+12064771000006114,Chronic hepatitis C caused by Hepatitis C virus genotype 3,768006009,10
+12066941000006110,Chronic hepatitis C caused by Hepatitis C virus genotype 1,768127002,2
+12070031000006113,Chronic hepatitis C caused by Hepatitis C virus genotype 1b,768288001,1
+12070041000006115,Chronic hepatitis C caused by Hepatitis C virus genotype 1a,768289009,1
+325079010,Liver failure as a complication of care,213230009,200
+353596018,Liver failure,59927004,3000
+359011000006113,[X] Liver failure,59927004,3000
+906001000006117,[RFC] Liver failure,906001000006101,500

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 4
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId  Observations                          Term  SNOMED_CT_Concept_ID
+0  259598013       7757827  Plasma fasting glucose level      1003141000000105
+1  259587012       1139648   Serum fasting glucose level      1003131000000101
+2  405633013        646815   Fasting blood glucose level       997681000000108

@@ -1,0 +1,12 @@
+med_code_id,term,snomed_ct_concept_id,observations
+250317010,Stopped drinking alcohol,,
+250321015,Ex-trivial drinker (<1u/day),,
+250322010,Ex-light drinker - (1-2u/day),,
+250323017,Ex-moderate drinker - (3-6u/d),,
+250324011,Ex-heavy drinker - (7-9u/day),,
+250329018,Ex-very heavy drinker-(>9u/d),,
+3843491000006118,Ex-drinker,,
+4533271000006119,Ex-trivial drinker - less than 1 unit/day,,
+4533331000006113,Ex-very heavy drinker - greater than 9 units/day,,
+5720641000006112,Ex-problem drinker,,
+5886961000006112,Abstinent alcoholic,,

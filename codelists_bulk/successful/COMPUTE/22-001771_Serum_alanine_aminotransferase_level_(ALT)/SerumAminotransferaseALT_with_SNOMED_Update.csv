@@ -1,0 +1,6 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+306221000000119,47498056,Serum alanine aminotransferase level,1018251000000107
+373708010,6575236,Serum aspartate aminotransferase level,1000881000000102
+1484990010,2884674,Plasma alanine aminotransferase level,1013211000000103
+478541000006119,459,Alanine aminotransferase (ALT) (serum glutamic-pyruvic transaminase) (SGPT) level normal,166645004
+478531000006112,194,Alanine aminotransferase (ALT) (serum glutamic-pyruvic transaminase) (SGPT) level abnormal,166646003

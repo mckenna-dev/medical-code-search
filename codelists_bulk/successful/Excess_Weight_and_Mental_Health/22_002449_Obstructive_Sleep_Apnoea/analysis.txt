@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 15
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tobstructive_sleep_apnoea']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                              \tMedCodeId\tObservations\tTerm\tobstructive_sleep_apnoea
+0       0\ta267911000006119\t200000\tObstructive sleep apnoea\tobstructive_sleep_apnoea
+1       1\ta219501000000111\t100000\tObstructive sleep apnoea\tobstructive_sleep_apnoea
+2  2\ta3773271000006117\t3000\tOSA - Obstructive sleep apnoea\tobstructive_sleep_apnoea

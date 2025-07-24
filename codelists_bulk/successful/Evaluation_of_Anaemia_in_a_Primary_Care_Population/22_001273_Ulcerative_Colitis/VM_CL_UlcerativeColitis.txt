@@ -1,0 +1,48 @@
+MedCodeId	Observations	Term	SnomedCTConceptId	
+a107644019	900000	Ulcerative colitis	64766004	UC
+a41137017	100000	Inflammatory bowel disease	24526004	UC
+a85931000006112	100000	Ulcerative colitis and/or proctitis	295046003	UC
+a496249010	30000	Ulcerative proctitis	52231000	UC
+a435370011	30000	Ulcerative proctocolitis	295046003	UC
+a411543016	20000	H/O: ulcerative colitis	275549008	UC
+a2872721013	8000	Ulcerative pancolitis	444548001	UC
+a2532953017	8000	Exacerbation of ulcerative colitis	414156000	UC
+a85891000006115	4000	Ulcerative enterocolitis	235714007	UC
+a303762015	2000	[X]Other ulcerative colitis	64766004	UC
+a302956014	2000	Ulcerative proctocolitis NOS	295046003	UC
+a496332018	1000	Ulcerative rectosigmoiditis	52506002	UC
+a2269891000000116	900	Management of inflammatory bowel disease	700104004	UC
+a2269901000000115	700	Management of IBD (inflammatory bowel disease)	700104004	UC
+a309743013	700	Arthropathy in ulcerative colitis	201727001	UC
+a1816421000006112	500	Left sided ulcerative colitis	445243001	UC
+a85901000006116	300	Ulcerative (chronic) ileocolitis	196987008	UC
+a3351351000006116	300	Ulcerative proctosigmoiditis	52506002	UC
+a302953018	200	Ulcerative ileocolitis	196987008	UC
+a3346671000006113	200	Chronic ulcerative proctitis	52231000	UC
+a906191000006113	90	[RFC] Ulcerative colitis	9.06191E+14	UC
+a2338581000000110	80	Dietary education for inflammatory bowel disease	9.09671E+14	UC
+a3351341000006118	60	Ulcerative colitis confined to rectum and sigmoid colon	52506002	UC
+a2891431000006118	60	IBD - Inflammatory bowel disease	24526004	UC
+a3132961000006117	50	Infective colitis	39341005	UC
+a309836013	10	Juvenile arthritis in ulcerative colitis	201807008	UC
+a2659581000000113	9	Signposting to Crohn's and Colitis UK	1.05734E+15	UC
+a7489581000006113	7	History of inflammatory bowel disease	608844008	UC
+a4411741000006119	6	Acute ulcerative colitis	128600008	UC
+a2726621000006117	5	Severe chronic ulcerative colitis	14311001	UC
+a5139551000006114	4	Juvenile arthritis of inflammatory bowel disease	239809007	UC
+a13765011000006113	3	Arthritis due to inflammatory bowel disease	9350004	UC
+a3553391000006113	3	UC - Ulcerative colitis	64766004	UC
+a14195011000006119	3	Acute ulcerative pancolitis	9.66012E+17	UC
+a6204981000006116	3	Idiopathic chronic inflammatory bowel disease	359664009	UC
+a3346691000006114	3	Ulcerative colitis confined to rectum	52231000	UC
+a7260561000006112	3	Chronic ulcerative pancolitis	442159003	UC
+a3351321000006113	2	Chronic ulcerative proctosigmoiditis	52506002	UC
+a5574431000006111	2	History of ulcerative colitis	275549008	UC
+a3780301000006118	1	Moderate chronic ulcerative colitis	78712000	UC
+a7821281000006113	1	Inflammatory polyps co-occurrent and due to inflammatory bowel disease	721686000	UC
+a6797971000006118	1	Iritis with inflammatory bowel disease	410483002	UC
+a7502561000006118	1	Ulcerative colitis in remission	697969008	UC
+a7294371000006118	1	Chronic ulcerative colitis	444546002	UC
+a2601661000006118	1	Chronic inflammatory small bowel disease	6382002	UC
+a3774141000006118	1	Mild chronic ulcerative colitis	78324009	UC
+a5139611000006114	1	Seronegative arthritis secondary to inflammatory bowel disease	239814006	UC

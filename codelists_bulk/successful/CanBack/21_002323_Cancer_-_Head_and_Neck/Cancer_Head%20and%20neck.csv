@@ -1,0 +1,218 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1024,Cancer,Head and neck,a380095017,"Carcinoma of lip, oral cavity and pharynx",L1:Cancer_L2:Head and neck,B0...11
+1025,Cancer,Head and neck,a724891000006113,Malignant neoplasm of lip,L1:Cancer_L2:Head and neck,B00..00
+1026,Cancer,Head and neck,a403771011,Carcinoma of lip,L1:Cancer_L2:Head and neck,B00..11
+1027,Cancer,Head and neck,a1228504019,"Malignant neoplasm of upper lip, vermilion border",L1:Cancer_L2:Head and neck,B000.00
+1028,Cancer,Head and neck,a720801000006112,"Malignant neoplasm of upper lip, external",L1:Cancer_L2:Head and neck,B000000
+1029,Cancer,Head and neck,a288350019,"Malignant neoplasm of upper lip, lipstick area",L1:Cancer_L2:Head and neck,B000100
+1030,Cancer,Head and neck,a288351015,"Malignant neoplasm of upper lip, vermilion border NOS",L1:Cancer_L2:Head and neck,B000z00
+1031,Cancer,Head and neck,a724421000006114,"Malignant neoplasm of lower lip, vermilion border",L1:Cancer_L2:Head and neck,B001.00
+1032,Cancer,Head and neck,a288354011,"Malignant neoplasm of lower lip, external",L1:Cancer_L2:Head and neck,B001000
+1033,Cancer,Head and neck,a1228506017,"Malignant neoplasm of lower lip, lipstick area",L1:Cancer_L2:Head and neck,B001100
+1034,Cancer,Head and neck,a288355012,"Malignant neoplasm of lower lip, vermilion border NOS",L1:Cancer_L2:Head and neck,B001z00
+1035,Cancer,Head and neck,a288363013,"Malignant neoplasm of upper lip, inner aspect",L1:Cancer_L2:Head and neck,B002.00
+1036,Cancer,Head and neck,a288372017,"Malignant neoplasm of upper lip, frenulum",L1:Cancer_L2:Head and neck,B002100
+1037,Cancer,Head and neck,a288364019,"Malignant neoplasm of upper lip, mucosa",L1:Cancer_L2:Head and neck,B002200
+1038,Cancer,Head and neck,a288362015,"Malignant neoplasm of upper lip, oral aspect",L1:Cancer_L2:Head and neck,B002300
+1039,Cancer,Head and neck,a288377011,"Malignant neoplasm of upper lip, inner aspect NOS",L1:Cancer_L2:Head and neck,B002z00
+1040,Cancer,Head and neck,a406399011,"Malignant neoplasm of lower lip, inner aspect",L1:Cancer_L2:Head and neck,B003.00
+1041,Cancer,Head and neck,a288380012,"Malignant neoplasm of lower lip, buccal aspect",L1:Cancer_L2:Head and neck,B003000
+1042,Cancer,Head and neck,a288382016,"Malignant neoplasm of lower lip, frenulum",L1:Cancer_L2:Head and neck,B003100
+1043,Cancer,Head and neck,a724401000006116,"Malignant neoplasm of lower lip, mucosa",L1:Cancer_L2:Head and neck,B003200
+1044,Cancer,Head and neck,a724411000006118,"Malignant neoplasm of lower lip, oral aspect",L1:Cancer_L2:Head and neck,B003300
+1045,Cancer,Head and neck,a288387010,"Malignant neoplasm of lower lip, inner aspect NOS",L1:Cancer_L2:Head and neck,B003z00
+1046,Cancer,Head and neck,a288388017,"Malignant neoplasm of lip unspecified, inner aspect",L1:Cancer_L2:Head and neck,B004.00
+1047,Cancer,Head and neck,a724901000006112,"Malignant neoplasm of lip unspecified, buccal aspect",L1:Cancer_L2:Head and neck,B004000
+1048,Cancer,Head and neck,a288391017,"Malignant neoplasm of lip unspecified, mucosa",L1:Cancer_L2:Head and neck,B004200
+1049,Cancer,Head and neck,a288393019,"Malignant neoplasm of lip, oral aspect",L1:Cancer_L2:Head and neck,B004300
+1050,Cancer,Head and neck,a726351000006116,Malignant neoplasm of commissure of lip,L1:Cancer_L2:Head and neck,B005.00
+1051,Cancer,Head and neck,a288404018,Malignant neoplasm of overlapping lesion of lip,L1:Cancer_L2:Head and neck,B006.00
+1052,Cancer,Head and neck,a453301018,"Malignant neoplasm of lip, unspecified",L1:Cancer_L2:Head and neck,B007.00
+1053,Cancer,Head and neck,a288408015,"Malignant neoplasm of lip, unspecified, external",L1:Cancer_L2:Head and neck,B00z000
+1054,Cancer,Head and neck,a288409011,"Malignant neoplasm of lip, unspecified, lipstick area",L1:Cancer_L2:Head and neck,B00z100
+1055,Cancer,Head and neck,a288410018,"Malignant neoplasm of lip, vermilion border NOS",L1:Cancer_L2:Head and neck,B00zz00
+1056,Cancer,Head and neck,a721311000006114,Malignant neoplasm of tongue,L1:Cancer_L2:Head and neck,B01..00
+1057,Cancer,Head and neck,a727381000006110,Malignant neoplasm of base of tongue,L1:Cancer_L2:Head and neck,B010.00
+1058,Cancer,Head and neck,a1228509012,Malignant neoplasm of posterior third of tongue,L1:Cancer_L2:Head and neck,B010.11
+1059,Cancer,Head and neck,a288411019,Malignant neoplasm of base of tongue dorsal surface,L1:Cancer_L2:Head and neck,B010000
+1060,Cancer,Head and neck,a288412014,Malignant neoplasm of fixed part of tongue NOS,L1:Cancer_L2:Head and neck,B010z00
+1061,Cancer,Head and neck,a155211011,Malignant neoplasm of dorsal surface of tongue,L1:Cancer_L2:Head and neck,B011.00
+1062,Cancer,Head and neck,a288417015,Malignant neoplasm of midline of tongue,L1:Cancer_L2:Head and neck,B011100
+1063,Cancer,Head and neck,a288418013,Malignant neoplasm of dorsum of tongue NOS,L1:Cancer_L2:Head and neck,B011z00
+1064,Cancer,Head and neck,a288419017,"Malignant neoplasm of tongue, tip and lateral border",L1:Cancer_L2:Head and neck,B012.00
+1065,Cancer,Head and neck,a155669014,Malignant neoplasm of ventral surface of tongue,L1:Cancer_L2:Head and neck,B013.00
+1066,Cancer,Head and neck,a288423013,Malignant neoplasm of anterior 2/3 of tongue ventral surface,L1:Cancer_L2:Head and neck,B013000
+1067,Cancer,Head and neck,a288427014,Malignant neoplasm of frenulum linguae,L1:Cancer_L2:Head and neck,B013100
+1068,Cancer,Head and neck,a288429012,Malignant neoplasm of ventral tongue surface NOS,L1:Cancer_L2:Head and neck,B013z00
+1069,Cancer,Head and neck,a288430019,Malignant neoplasm of anterior 2/3 of tongue unspecified,L1:Cancer_L2:Head and neck,B014.00
+1070,Cancer,Head and neck,a288433017,"Malignant neoplasm of tongue, junctional zone",L1:Cancer_L2:Head and neck,B015.00
+1071,Cancer,Head and neck,a724881000006110,Malignant neoplasm of lingual tonsil,L1:Cancer_L2:Head and neck,B016.00
+1072,Cancer,Head and neck,a1219531013,Malignant overlapping lesion of tongue,L1:Cancer_L2:Head and neck,B017.00
+1073,Cancer,Head and neck,a288434011,Malignant neoplasm of other sites of tongue,L1:Cancer_L2:Head and neck,B01y.00
+1074,Cancer,Head and neck,a288435012,Malignant neoplasm of tongue NOS,L1:Cancer_L2:Head and neck,B01z.00
+1075,Cancer,Head and neck,a1228510019,Malignant neoplasm of major salivary glands,L1:Cancer_L2:Head and neck,B02..00
+1076,Cancer,Head and neck,a723501000006117,Malignant neoplasm of parotid gland,L1:Cancer_L2:Head and neck,B020.00
+1077,Cancer,Head and neck,a1228513017,Malignant neoplasm of submandibular gland,L1:Cancer_L2:Head and neck,B021.00
+1078,Cancer,Head and neck,a721881000006113,Malignant neoplasm of sublingual gland,L1:Cancer_L2:Head and neck,B022.00
+1079,Cancer,Head and neck,a288437016,Malignant neoplasm of other major salivary glands,L1:Cancer_L2:Head and neck,B02y.00
+1080,Cancer,Head and neck,a288438014,Malignant neoplasm of major salivary gland NOS,L1:Cancer_L2:Head and neck,B02z.00
+1081,Cancer,Head and neck,a725861000006118,Malignant neoplasm of gum,L1:Cancer_L2:Head and neck,B03..00
+1082,Cancer,Head and neck,a720761000006115,Malignant neoplasm of upper gum,L1:Cancer_L2:Head and neck,B030.00
+1083,Cancer,Head and neck,a724311000006111,Malignant neoplasm of lower gum,L1:Cancer_L2:Head and neck,B031.00
+1084,Cancer,Head and neck,a288439018,Malignant neoplasm of other sites of gum,L1:Cancer_L2:Head and neck,B03y.00
+1085,Cancer,Head and neck,a288440016,Malignant neoplasm of gum NOS,L1:Cancer_L2:Head and neck,B03z.00
+1086,Cancer,Head and neck,a725611000006117,Malignant neoplasm of floor of mouth,L1:Cancer_L2:Head and neck,B04..00
+1087,Cancer,Head and neck,a288443019,Malignant neoplasm of anterior portion of floor of mouth,L1:Cancer_L2:Head and neck,B040.00
+1088,Cancer,Head and neck,a288444013,Malignant neoplasm of lateral portion of floor of mouth,L1:Cancer_L2:Head and neck,B041.00
+1089,Cancer,Head and neck,a1219533011,"Malignant neoplasm, overlapping lesion of floor of mouth",L1:Cancer_L2:Head and neck,B042.00
+1090,Cancer,Head and neck,a288448011,Malignant neoplasm of other sites of floor of mouth,L1:Cancer_L2:Head and neck,B04y.00
+1091,Cancer,Head and neck,a288449015,Malignant neoplasm of floor of mouth NOS,L1:Cancer_L2:Head and neck,B04z.00
+1092,Cancer,Head and neck,a288450015,Malignant neoplasm of other and unspecified parts of mouth,L1:Cancer_L2:Head and neck,B05..00
+1093,Cancer,Head and neck,a727151000006117,Malignant neoplasm of cheek mucosa,L1:Cancer_L2:Head and neck,B050.00
+1094,Cancer,Head and neck,a727561000006112,Malignant neoplasm of buccal mucosa,L1:Cancer_L2:Head and neck,B050.11
+1095,Cancer,Head and neck,a288453018,Malignant neoplasm of vestibule of mouth,L1:Cancer_L2:Head and neck,B051.00
+1096,Cancer,Head and neck,a288454012,Malignant neoplasm of upper buccal sulcus,L1:Cancer_L2:Head and neck,B051000
+1097,Cancer,Head and neck,a288459019,Malignant neoplasm of lower buccal sulcus,L1:Cancer_L2:Head and neck,B051100
+1098,Cancer,Head and neck,a725101000006111,Malignant neoplasm of hard palate,L1:Cancer_L2:Head and neck,B052.00
+1099,Cancer,Head and neck,a721621000006110,Malignant neoplasm of soft palate,L1:Cancer_L2:Head and neck,B053.00
+1100,Cancer,Head and neck,a721041000006111,Malignant neoplasm of uvula,L1:Cancer_L2:Head and neck,B054.00
+1101,Cancer,Head and neck,a288469013,Malignant neoplasm of palate unspecified,L1:Cancer_L2:Head and neck,B055.00
+1102,Cancer,Head and neck,a288470014,Malignant neoplasm of junction of hard and soft palate,L1:Cancer_L2:Head and neck,B055000
+1103,Cancer,Head and neck,a1228523014,Malignant neoplasm of roof of mouth,L1:Cancer_L2:Head and neck,B055100
+1104,Cancer,Head and neck,a288471013,Malignant neoplasm of palate NOS,L1:Cancer_L2:Head and neck,B055z00
+1105,Cancer,Head and neck,a722541000006111,Malignant neoplasm of retromolar area,L1:Cancer_L2:Head and neck,B056.00
+1106,Cancer,Head and neck,a288473011,Malignant neoplasm of other specified mouth parts,L1:Cancer_L2:Head and neck,B05y.00
+1107,Cancer,Head and neck,a288474017,Malignant neoplasm of mouth NOS,L1:Cancer_L2:Head and neck,B05z.00
+1108,Cancer,Head and neck,a173946014,Kaposi's sarcoma of palate,L1:Cancer_L2:Head and neck,B05z000
+1109,Cancer,Head and neck,a723571000006111,Malignant neoplasm of oropharynx,L1:Cancer_L2:Head and neck,B06..00
+1110,Cancer,Head and neck,a721351000006110,Malignant neoplasm of tonsil,L1:Cancer_L2:Head and neck,B060.00
+1111,Cancer,Head and neck,a1228530015,Malignant neoplasm of faucial tonsil,L1:Cancer_L2:Head and neck,B060000
+1112,Cancer,Head and neck,a1228529013,Malignant neoplasm of palatine tonsil,L1:Cancer_L2:Head and neck,B060100
+1113,Cancer,Head and neck,a723321000006117,Malignant neoplasm of overlapping lesion of tonsil,L1:Cancer_L2:Head and neck,B060200
+1114,Cancer,Head and neck,a288478019,Malignant neoplasm tonsil NOS,L1:Cancer_L2:Head and neck,B060z00
+1115,Cancer,Head and neck,a721361000006112,Malignant neoplasm of tonsillar fossa,L1:Cancer_L2:Head and neck,B061.00
+1116,Cancer,Head and neck,a288486019,Malignant neoplasm of tonsillar pillar,L1:Cancer_L2:Head and neck,B062.00
+1117,Cancer,Head and neck,a288485015,Malignant neoplasm of faucial pillar,L1:Cancer_L2:Head and neck,B062000
+1118,Cancer,Head and neck,a725811000006116,Malignant neoplasm of glossopalatine fold,L1:Cancer_L2:Head and neck,B062100
+1119,Cancer,Head and neck,a2475984012,Malignant neoplasm of palatoglossal arch,L1:Cancer_L2:Head and neck,B062200
+1120,Cancer,Head and neck,a723391000006115,Malignant neoplasm of palatopharyngeal arch,L1:Cancer_L2:Head and neck,B062300
+1121,Cancer,Head and neck,a288505015,Malignant neoplasm of tonsillar fossa NOS,L1:Cancer_L2:Head and neck,B062z00
+1122,Cancer,Head and neck,a721481000006111,Malignant neoplasm of vallecula,L1:Cancer_L2:Head and neck,B063.00
+1123,Cancer,Head and neck,a288506019,Malignant neoplasm of anterior epiglottis,L1:Cancer_L2:Head and neck,B064.00
+1124,Cancer,Head and neck,a288507011,"Malignant neoplasm of epiglottis, free border",L1:Cancer_L2:Head and neck,B064000
+1125,Cancer,Head and neck,a288508018,Malignant neoplasm of glossoepiglottic fold,L1:Cancer_L2:Head and neck,B064100
+1126,Cancer,Head and neck,a288509014,Malignant neoplasm of anterior epiglottis NOS,L1:Cancer_L2:Head and neck,B064z00
+1127,Cancer,Head and neck,a288510016,Malignant neoplasm of junctional region of epiglottis,L1:Cancer_L2:Head and neck,B065.00
+1128,Cancer,Head and neck,a155332018,Malignant neoplasm of lateral wall of oropharynx,L1:Cancer_L2:Head and neck,B066.00
+1129,Cancer,Head and neck,a288515014,Malignant neoplasm of posterior wall of oropharynx,L1:Cancer_L2:Head and neck,B067.00
+1130,Cancer,Head and neck,a288516010,"Malignant neoplasm of oropharynx, other specified sites",L1:Cancer_L2:Head and neck,B06y.00
+1131,Cancer,Head and neck,a288517018,Malignant neoplasm of other specified site of oropharynx NOS,L1:Cancer_L2:Head and neck,B06yz00
+1132,Cancer,Head and neck,a288518011,Malignant neoplasm of oropharynx NOS,L1:Cancer_L2:Head and neck,B06z.00
+1133,Cancer,Head and neck,a288522018,Malignant neoplasm of nasopharynx,L1:Cancer_L2:Head and neck,B07..00
+1134,Cancer,Head and neck,a1228532011,Malignant neoplasm of roof of nasopharynx,L1:Cancer_L2:Head and neck,B070.00
+1135,Cancer,Head and neck,a288529010,Malignant neoplasm of posterior wall of nasopharynx,L1:Cancer_L2:Head and neck,B071.00
+1136,Cancer,Head and neck,a288533015,Malignant neoplasm of adenoid,L1:Cancer_L2:Head and neck,B071000
+1137,Cancer,Head and neck,a288532013,Malignant neoplasm of pharyngeal tonsil,L1:Cancer_L2:Head and neck,B071100
+1138,Cancer,Head and neck,a288541015,Malignant neoplasm of posterior wall of nasopharynx NOS,L1:Cancer_L2:Head and neck,B071z00
+1139,Cancer,Head and neck,a724841000006116,Malignant neoplasm of lateral wall of nasopharynx,L1:Cancer_L2:Head and neck,B072.00
+1140,Cancer,Head and neck,a288546013,Malignant neoplasm of pharyngeal recess,L1:Cancer_L2:Head and neck,B072000
+1141,Cancer,Head and neck,a288550018,Malignant neoplasm of lateral wall of nasopharynx NOS,L1:Cancer_L2:Head and neck,B072z00
+1142,Cancer,Head and neck,a288552014,Malignant neoplasm of anterior wall of nasopharynx,L1:Cancer_L2:Head and neck,B073.00
+1143,Cancer,Head and neck,a288556012,Malignant neoplasm of nasopharyngeal soft palate surface,L1:Cancer_L2:Head and neck,B073100
+1144,Cancer,Head and neck,a720491000006119,Malignant neoplasm posterior margin nasal septum and choanae,L1:Cancer_L2:Head and neck,B073200
+1145,Cancer,Head and neck,a288561014,Malignant neoplasm of anterior wall of nasopharynx NOS,L1:Cancer_L2:Head and neck,B073z00
+1146,Cancer,Head and neck,a1219467016,"Malignant neoplasm, overlapping lesion of nasopharynx",L1:Cancer_L2:Head and neck,B074.00
+1147,Cancer,Head and neck,a288563012,Malignant neoplasm of other specified site of nasopharynx,L1:Cancer_L2:Head and neck,B07y.00
+1148,Cancer,Head and neck,a288564018,Malignant neoplasm of nasopharynx NOS,L1:Cancer_L2:Head and neck,B07z.00
+1149,Cancer,Head and neck,a725241000006116,Malignant neoplasm of hypopharynx,L1:Cancer_L2:Head and neck,B08..00
+1150,Cancer,Head and neck,a723031000006117,Malignant neoplasm of postcricoid region,L1:Cancer_L2:Head and neck,B080.00
+1151,Cancer,Head and neck,a722421000006115,Malignant neoplasm of pyriform sinus,L1:Cancer_L2:Head and neck,B081.00
+1152,Cancer,Head and neck,a727761000006116,"Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect",L1:Cancer_L2:Head and neck,B082.00
+1153,Cancer,Head and neck,a288568015,Malignant neoplasm of posterior pharynx,L1:Cancer_L2:Head and neck,B083.00
+1154,Cancer,Head and neck,a288570012,Malignant neoplasm of other specified hypopharyngeal site,L1:Cancer_L2:Head and neck,B08y.00
+1155,Cancer,Head and neck,a288571011,Malignant neoplasm of hypopharynx NOS,L1:Cancer_L2:Head and neck,B08z.00
+1156,Cancer,Head and neck,a729591000006114,"Malig neop other/ill-defined sites lip, oral cavity, pharynx",L1:Cancer_L2:Head and neck,B0z..00
+1157,Cancer,Head and neck,a288573014,Malignant neoplasm of pharynx unspecified,L1:Cancer_L2:Head and neck,B0z0.00
+1158,Cancer,Head and neck,a288578017,Malignant neoplasm of Waldeyer's ring,L1:Cancer_L2:Head and neck,B0z1.00
+1159,Cancer,Head and neck,a724781000006117,Malignant neoplasm of laryngopharynx,L1:Cancer_L2:Head and neck,B0z2.00
+1160,Cancer,Head and neck,a723801000006115,"Malignant neoplasm of other sites lip, oral cavity, pharynx",L1:Cancer_L2:Head and neck,B0zy.00
+1161,Cancer,Head and neck,a288582015,"Malignant neoplasm of lip, oral cavity and pharynx NOS",L1:Cancer_L2:Head and neck,B0zz.00
+1162,Cancer,Head and neck,a729321000006119,"Malig neop nasal cavities, middle ear and accessory sinuses",L1:Cancer_L2:Head and neck,B20..00
+1163,Cancer,Head and neck,a1228552012,Malignant neoplasm of nasal cavities,L1:Cancer_L2:Head and neck,B200.00
+1164,Cancer,Head and neck,a288771014,Malignant neoplasm of cartilage of nose,L1:Cancer_L2:Head and neck,B200000
+1165,Cancer,Head and neck,a288772019,Malignant neoplasm of nasal conchae,L1:Cancer_L2:Head and neck,B200100
+1166,Cancer,Head and neck,a721961000006111,Malignant neoplasm of septum of nose,L1:Cancer_L2:Head and neck,B200200
+1167,Cancer,Head and neck,a288775017,Malignant neoplasm of vestibule of nose,L1:Cancer_L2:Head and neck,B200300
+1168,Cancer,Head and neck,a288776016,Malignant neoplasm of nasal cavities NOS,L1:Cancer_L2:Head and neck,B200z00
+1169,Cancer,Head and neck,a730011000006119,"Malig neop auditory tube, middle ear and mastoid air cells",L1:Cancer_L2:Head and neck,B201.00
+1170,Cancer,Head and neck,a288779011,Malignant neoplasm of auditory (Eustachian) tube,L1:Cancer_L2:Head and neck,B201000
+1171,Cancer,Head and neck,a288784017,Malignant neoplasm of tympanic cavity,L1:Cancer_L2:Head and neck,B201100
+1172,Cancer,Head and neck,a288787012,Malignant neoplasm of tympanic antrum,L1:Cancer_L2:Head and neck,B201200
+1173,Cancer,Head and neck,a724621000006112,Malignant neoplasm of mastoid air cells,L1:Cancer_L2:Head and neck,B201300
+1174,Cancer,Head and neck,a730021000006110,"Malig neop auditory tube, middle ear, mastoid air cells NOS",L1:Cancer_L2:Head and neck,B201z00
+1175,Cancer,Head and neck,a724641000006117,Malignant neoplasm of maxillary sinus,L1:Cancer_L2:Head and neck,B202.00
+1176,Cancer,Head and neck,a1228553019,Malignant neoplasm of ethmoid sinus,L1:Cancer_L2:Head and neck,B203.00
+1177,Cancer,Head and neck,a719021000006111,Malignant neoplasm of frontal sinus,L1:Cancer_L2:Head and neck,B204.00
+1178,Cancer,Head and neck,a721721000006119,Malignant neoplasm of sphenoidal sinus,L1:Cancer_L2:Head and neck,B205.00
+1179,Cancer,Head and neck,a288790018,"Malignant neoplasm, overlapping lesion of accessory sinuses",L1:Cancer_L2:Head and neck,B206.00
+1180,Cancer,Head and neck,a729571000006113,"Malig neop other site nasal cavity, middle ear and sinuses",L1:Cancer_L2:Head and neck,B20y.00
+1181,Cancer,Head and neck,a288792014,Malignant neoplasm of accessory sinus NOS,L1:Cancer_L2:Head and neck,B20z.00
+1182,Cancer,Head and neck,a724791000006119,Malignant neoplasm of larynx,L1:Cancer_L2:Head and neck,B21..00
+1183,Cancer,Head and neck,a288794010,Malignant neoplasm of glottis,L1:Cancer_L2:Head and neck,B210.00
+1184,Cancer,Head and neck,a288797015,Malignant neoplasm of supraglottis,L1:Cancer_L2:Head and neck,B211.00
+1185,Cancer,Head and neck,a721871000006110,Malignant neoplasm of subglottis,L1:Cancer_L2:Head and neck,B212.00
+1186,Cancer,Head and neck,a724761000006110,Malignant neoplasm of laryngeal cartilage,L1:Cancer_L2:Head and neck,B213.00
+1187,Cancer,Head and neck,a288799017,Malignant neoplasm of arytenoid cartilage,L1:Cancer_L2:Head and neck,B213000
+1188,Cancer,Head and neck,a288800018,Malignant neoplasm of cricoid cartilage,L1:Cancer_L2:Head and neck,B213100
+1189,Cancer,Head and neck,a288801019,Malignant neoplasm of cuneiform cartilage,L1:Cancer_L2:Head and neck,B213200
+1190,Cancer,Head and neck,a288802014,Malignant neoplasm of thyroid cartilage,L1:Cancer_L2:Head and neck,B213300
+1191,Cancer,Head and neck,a288803016,Malignant neoplasm of laryngeal cartilage NOS,L1:Cancer_L2:Head and neck,B213z00
+1192,Cancer,Head and neck,a1219468014,"Malignant neoplasm, overlapping lesion of larynx",L1:Cancer_L2:Head and neck,B214.00
+1193,Cancer,Head and neck,a451428019,Malignant neoplasm of epiglottis NOS,L1:Cancer_L2:Head and neck,B215.00
+1194,Cancer,Head and neck,a288806012,"Malignant neoplasm of larynx, other specified site",L1:Cancer_L2:Head and neck,B21y.00
+1195,Cancer,Head and neck,a288807015,Malignant neoplasm of larynx NOS,L1:Cancer_L2:Head and neck,B21z.00
+1196,Cancer,Head and neck,a289424013,"Malignant neoplasm of head, neck and face",L1:Cancer_L2:Head and neck,B550.00
+1197,Cancer,Head and neck,a289425014,Malignant neoplasm of head NOS,L1:Cancer_L2:Head and neck,B550000
+1198,Cancer,Head and neck,a289426010,Malignant neoplasm of cheek NOS,L1:Cancer_L2:Head and neck,B550100
+1199,Cancer,Head and neck,a289427018,Malignant neoplasm of nose NOS,L1:Cancer_L2:Head and neck,B550200
+1200,Cancer,Head and neck,a289428011,Malignant neoplasm of jaw NOS,L1:Cancer_L2:Head and neck,B550300
+1201,Cancer,Head and neck,a289429015,Malignant neoplasm of neck NOS,L1:Cancer_L2:Head and neck,B550400
+1202,Cancer,Head and neck,a289430013,Malignant neoplasm of supraclavicular fossa NOS,L1:Cancer_L2:Head and neck,B550500
+1203,Cancer,Head and neck,a289431012,"Malignant neoplasm of head, neck and face NOS",L1:Cancer_L2:Head and neck,B550z00
+1204,Cancer,Head and neck,a445587010,Malignant reticulosis,L1:Cancer_L2:Head and neck,B62x400
+1205,Cancer,Head and neck,a396301000006110,"[X]Malignant neoplasm of lip, oral cavity and pharynx",L1:Cancer_L2:Head and neck,Byu0.00
+1206,Cancer,Head and neck,a720791000006111,Malignant tumour of upper labial mucosa,L1:Cancer_L2:Head and neck,B002000
+1207,Cancer,Head and neck,a288472018,Overlapping malignant neoplasm of mouth,L1:Cancer_L2:Head and neck,B057.00
+1208,Cancer,Head and neck,a305841000006110,Basaloid carcinoma,L1:Cancer_L2:Head and neck,BB48.00
+1209,Cancer,Head and neck,a313131000006113,Mucoepidermoid carcinoma,L1:Cancer_L2:Head and neck,BB71.00
+1210,Cancer,Head and neck,a291495018,Cystadenocarcinoma,L1:Cancer_L2:Head and neck,BB80100
+1211,Cancer,Head and neck,a316381000006117,"[M] Serous cystadenoma, borderline malignancy",L1:Cancer_L2:Head and neck,BB81100
+1212,Cancer,Head and neck,a291508010,Serous cystadenocarcinoma,L1:Cancer_L2:Head and neck,BB81200
+1213,Cancer,Head and neck,a314851000006110,"[M]Papillary cystadenoma, borderline malignancy",L1:Cancer_L2:Head and neck,BB81400
+1214,Cancer,Head and neck,a291510012,Papillary cystadenocarcinoma,L1:Cancer_L2:Head and neck,BB81500
+1215,Cancer,Head and neck,a314971000006111,[M]Papillary serous cystadenocarcinoma,L1:Cancer_L2:Head and neck,BB81800
+1216,Cancer,Head and neck,a316401000006117,Serous surface papillary carcinoma,L1:Cancer_L2:Head and neck,BB81B00
+1217,Cancer,Head and neck,a313111000006119,Mucinous cystadenoma - borderline malignancy,L1:Cancer_L2:Head and neck,BB81D00
+1218,Cancer,Head and neck,a291515019,Mucinous cystadenocarcinoma,L1:Cancer_L2:Head and neck,BB81E00
+1219,Cancer,Head and neck,a315741000006117,[M]Pseudomucinous adenocarcinoma,L1:Cancer_L2:Head and neck,BB81E11
+1220,Cancer,Head and neck,a314921000006110,[M]Papillary mucinous cystadenocarcinoma,L1:Cancer_L2:Head and neck,BB81H00
+1221,Cancer,Head and neck,a1220823019,"[M]Serous cystadenoma, borderline malignancy",L1:Cancer_L2:Head and neck,BB81J00
+1222,Cancer,Head and neck,a1220825014,"[M]Papillary cystadenoma, borderline malignancy",L1:Cancer_L2:Head and neck,BB81K00
+1223,Cancer,Head and neck,a1220826010,"[M]Papillary serous cystadenoma, borderline malignancy",L1:Cancer_L2:Head and neck,BB81M00
+1224,Cancer,Head and neck,a313041000006119,Mucinous adenocarcinoma,L1:Cancer_L2:Head and neck,BB82100
+1225,Cancer,Head and neck,a307091000006117,[M]Colloid adenocarcinoma,L1:Cancer_L2:Head and neck,BB82111
+1226,Cancer,Head and neck,a308951000006111,[M]Gelatinous adenocarcinoma,L1:Cancer_L2:Head and neck,BB82112
+1227,Cancer,Head and neck,a313171000006111,[M]Mucoid adenocarcionoma,L1:Cancer_L2:Head and neck,BB82113
+1228,Cancer,Head and neck,a313201000006110,[M]Mucous adenocarcinoma,L1:Cancer_L2:Head and neck,BB82114
+1229,Cancer,Head and neck,a1219790013,[M]Pseudomyxoma peritonei,L1:Cancer_L2:Head and neck,BB83.00
+1230,Cancer,Head and neck,a313031000006112,[M]Mucin-producing adenocarcinoma,L1:Cancer_L2:Head and neck,BB84.00
+1231,Cancer,Head and neck,a1235961012,[M]Epithelial-myoepithelial carcinoma,L1:Cancer_L2:Head and neck,BBB7.00
+1232,Cancer,Head and neck,a309551000006112,Malignant granulosa cell tumour,L1:Cancer_L2:Head and neck,BBC4.00
+1233,Cancer,Head and neck,a314201000006112,Malignant odontogenic tumour,L1:Cancer_L2:Head and neck,BBZ2.00
+1234,Cancer,Head and neck,a305271000006115,[M]Ameloblastic odontosarcoma,L1:Cancer_L2:Head and neck,BBZC.00
+1235,Cancer,Head and neck,a314141000006117,[M]Odontogenic fibrosarcoma,L1:Cancer_L2:Head and neck,BBZN.11
+1236,Cancer,Head and neck,a314251000006111,[M]Olfactory neurogenic tumour,L1:Cancer_L2:Head and neck,BBcA.00
+1237,Cancer,Head and neck,a305081000006112,Asthesioneuroblastoma,L1:Cancer_L2:Head and neck,BBcC.00
+1238,Cancer,Head and neck,a314231000006116,Olfactory neuroblastoma,L1:Cancer_L2:Head and neck,BBcC.11
+1239,Cancer,Head and neck,a314241000006114,[M]Olfactory neuroepithelioma,L1:Cancer_L2:Head and neck,BBcD.11
+1240,Cancer,Head and neck,a1216442018,"[M]Triton tumour, malignant",L1:Cancer_L2:Head and neck,BBe9.00

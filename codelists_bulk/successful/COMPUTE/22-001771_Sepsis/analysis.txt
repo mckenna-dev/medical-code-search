@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 113
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+    MedCodeId  Observations                                   Term  SNOMED_CT_Concept_ID
+0   151281010        200000                                 Sepsis              91302008
+1  1209801015         60000  Sepsis due to urinary tract infection             721104000
+2   291664017         60000                            Septicaemia              91302008

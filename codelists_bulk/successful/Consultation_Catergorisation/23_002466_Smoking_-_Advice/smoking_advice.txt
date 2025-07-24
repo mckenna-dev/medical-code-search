@@ -1,0 +1,23 @@
+MedCodeId,Observations,Term,SnomedCTConceptId
+a338608011,40000000,Smoking cessation advice,225323000
+a818061000006111,10000000,Smoking cessation education,225323000
+a936011000006114,500000,Advice on effects of smoking on health,225324006
+a1484933010,400000,Negotiated date for cessation of smoking,390901002
+a1125741000000111,200000,Brief intervention for smoking cessation,506491000000102
+a16581000006111,70000,Other smoking information,16581000006107
+a265092010,70000,Pregnancy smoking advice,171055003
+a1811991000006111,30000,Health education - parental smoking,203551000000108
+a4939261000006116,10000,Smoking effects education,225324006
+a4939251000006118,5000,Advice on smoking,225323000
+a2982426011,2000,Provision of smoking cessation leaflet,699033005
+a303501000000115,2000,Smoking cessation advice provided by community pharmacist,200221000000105
+a13499671000006118,1000,Brief intervention for smoking cessation,771155005
+a4640171000006113,1000,Pregnancy smoking education,171055003
+a8279661000006118,400,Provision of written information about smoking cessation,838131000000103
+a7559591000006110,70,Tobacco use cessation education,702388001
+a8196151000006112,60,Smoking cessation leaflet given,521721000000109
+a4939241000006115,9,Advice on effects of smoking on health,225323000
+a6427931000006116,4,Smoking cessation assistance,384742004
+a7696001000006118,3,Patient request for smoking cessation information,712829007
+a12626191000006119,2,VBA (Very Brief Advice) on Smoking,1110791000000100
+a923201000006112,1,Pregnancy smoking advice,923201000006108

@@ -1,0 +1,27 @@
+med_code_id,term,snomed_ct_concept_id,observations
+1226072015,Preeclampsia,398254007,40938
+398342013,Pre-eclampsia,398254007,20363
+77942011,Severe pre-eclampsia,46764007,11873
+355622019,Toxaemia of pregnancy,15394000,7137
+703011000006115,Mild pre-eclampsia,41114007,5615
+355625017,Moderate pre-eclampsia,237281009,3206
+68583017,Mild pre-eclampsia,41114007,2608
+305801019,Severe pre-eclampsia - delivered,198983002,2489
+494622019,Proteinuric hypertension of pregnancy,398254007,1482
+887841000006118,Pre-eclampsia NOS,648001000000103,1207
+305805011,Severe pre-eclampsia NOS,46764007,446
+305802014,Severe pre-eclampsia - delivered with postnatal complication,198984008,156
+6600701000006119,PET - Pre-eclamptic toxaemia,398254007,86
+30580401,Severe pre-eclampsia with postnatal complication,198986005,72
+5105201000006119,Moderate proteinuric hypertension of pregnancy,237281009,61
+305803016,Severe pre-eclampsia - not delivered,198985009,58
+403581000006112,"[X]Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",198609003,32
+3255811000006116,PET - Severe pre-eclamptic toxaemia,46764007,18
+991571000006114,Pre-eclampsia NOS,41114007,15
+3162221000006111,PET - Mild pre-eclamptic toxaemia,41114007,13
+12027721000006112,Postpartum pre-eclampsia,765182005,3
+325583100000611,Severe proteinuric hypertension of pregnancy,46764007,3
+3162211000006115,Mild pre-eclamptic toxaemia,41114007,2
+6600691000006119,Pre-eclamptic toxaemia,398254007,2
+6600741000006117,PE - Pre-eclampsia,398254007,1
+3595901000006111,Superimposed pre-eclampsia,67359005,1

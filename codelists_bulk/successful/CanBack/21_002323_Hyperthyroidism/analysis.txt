@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 65
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order  Flag_classifyL1  Flag_classifyL2         MedCodeID                                                         Term
+0   8231  Thyroid_disease  Hyperthyroidism  a101891000006113  Thyrotoxicosis without mention of goitre or cause no crisis
+1   8232  Thyroid_disease  Hyperthyroidism  a101911000006110  Thyrotoxicosis without mention of goitre, cause with crisis
+2   8233  Thyroid_disease  Hyperthyroidism        a102259010                                       Iatrogenic thyroiditis

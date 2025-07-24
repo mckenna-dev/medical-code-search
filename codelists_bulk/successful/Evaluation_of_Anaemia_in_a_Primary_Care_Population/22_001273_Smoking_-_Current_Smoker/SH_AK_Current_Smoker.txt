@@ -1,0 +1,382 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a338608011	50820093	Smoking cessation advice	b225323000
+a108938018	26360292	Cigarette smoker	b65568007
+a818061000006111	19937901	Smoking cessation education	b225323000
+a503483019	16422310	Current smoker	b77176002
+a250373019	4873082	Stopped smoking	b160617001
+a700121000006118	3656630	Moderate cigarette smoker (10-19 cigs/day)	b160604004
+a743331000006116	3051417	Light cigarette smoker (1-9 cigs/day)	b160603005
+a250372012	2605578	Trying to give up smoking	b160616005
+a102921000006112	2350991	Tobacco smoking consumption	b266918002
+a128130017	2334640	Smoker	b77176002
+a250375014	1607033	Rolls own cigarettes	b160619003
+a81933100000611	1593037	Heavy cigarette smoker (20-39 cigs/day)	b160605003
+a5999811000006115	1527500	Smoking monitoring invitation	b310429001
+a1780273014	1392553	Seen by smoking cessation advisor	b401068004
+a1489355012	1343427	Referral to smoking cessation advisor	b395700008
+a148857801	1284283	Not interested in stopping smoking	b394873005
+a1176421000000118	1256461	Smoking cessation advice declined	b527151000000107
+a344793011	1137087	Cigarette consumption	b230056004
+a459722017	1060897	Referral to stop-smoking clinic	b315232003
+a457286014	1027819	Nicotine replacement therapy	b313396002
+a1488576014	946542	Thinking about stopping smoking	b394871007
+a936011000006114	775378	Advice on effects of smoking on health	b225324006
+a137811000006119	747931	Smoking Status	b137811000006103
+a88471000006112	708865	Trivial cigarette smoker (less than one cigarette/day)	b266920004
+a2265711000000117	641707	Electronic cigarette user	b722499006
+a6282331000006114	626795	Tobacco smoking behaviour - finding	b365981007
+a1175011000000112	564921	Smoking cessation programme declined	b1087441000000106
+a1488577017	558675	Ready to stop smoking	b394872000
+a1780396011	555387	Cigarette pack-years	b401201003
+a148493301	514365	Negotiated date for cessation of smoking	b390901002
+a99639019	454174	Cigar smoker	b59978006
+a498831000006118	445227	Attends stop smoking monitoring	b185789006
+a2251871000000112	401258	Referral to smoking cessation service declined	b871641000000105
+a1709641000000115	368299	Referral for smoking cessation service offered	b767641000000109
+a2141561000000115	350727	Smoking cessation drug therapy declined	b822591000000108
+a1773560017	322967	Smoking cessation programme start date	b401160008
+a1125741000000111	291137	Brief intervention for smoking cessation	b506491000000102
+a856371000006111	286707	Smoking clinic	b856371000006107
+a136515019	273222	Pipe smoker	b82302008
+a492511000000117	260849	Smoking cessation therapy	b710081004
+a128381000006117	254916	Stop smoking monitoring check done	b185799001
+a1484932017	232535	Smoking cessation milestones	b390900001
+a397733018	216432	Occasional smoker	b428041000124106
+a21681000000118	210645	Anti-smoking monitoring admin.	b714001000000108
+a1662951000000113	209584	Declined consent for follow-up by smoking cessation team	b755741000000100
+a62881000000117	206081	DNA - Did not attend smoking cessation clinic	b25261000000107
+a1152111000000118	201693	Current smoker annual review	b505651000000103
+a137771000006119	198173	Smoking Age Started	b137771000006103
+a1484934016	191242	Smoking status at 4 weeks	b390902009
+a148887301	164115	Smoking free weeks	b395177003
+a482791000000119	162576	Nicotine replacement therapy using nicotine patch	b790121000000107
+a128311000006112	162213	Stop smoking monitoring first letter	b185792005
+a1750931000000118	161235	Stop smoking service opportunity signposted	b783011000000105
+a2669652019	151091	Smoking started	b266929003
+a1715591000006117	145143	Referral to National Health Service stop smoking service	b505281000000106
+a2251911000000114	139443	Referral to smoking cessation service	b871661000000106
+a482771000000118	139124	Smoking cessation drug therapy	b713700008
+a2474719011	129400	Minutes from waking to first tobacco consumption	b413173009
+a21691000000116	126327	Anti-smoking monitoring administration	b714001000000108
+a67621000006112	123277	Very heavy cigarette smoker (40+ cigs/day)	b160606002
+a1484937011	110810	Nicotine replacement therapy provided free	b390905006
+a904181000006118	109327	Smoking cessation counselling	b904181000006102
+a128371000006115	107230	Stop smoking monitoring verbal invite	b185795007
+a250368013	95133	Keeps trying to stop smoking	b160612007
+a1626100000011	93051	Stop smoking monitoring administration	b714001000000108
+a26509201	90983	Pregnancy smoking advice	b171055003
+a102951000006115	84489	Tobacco dependence	b89765005
+a904011000006114	84028	Smoking cessation declaration signed by patient	b904011000006105
+a250387019	81783	Tobacco consumption NOS	b266918002
+a852131000006112	78619	Smoking cessation-practice nurse support	b852131000006108
+a2717211000000112	77556	Signposting to smoking cessation service	b1084381000000100
+a159261100000011	76095	Failed attempt to stop smoking	b446172000
+a16581000006111	75579	Other smoking information	b16581000006107
+a285792013	74640	Monitoring of smoking cessation therapy refused	b765001003
+a736241000000116	69806	Smoking cessation enhanced services administration	b374361000000100
+a1662911000000114	62077	Consent given for follow-up by smoking cessation team	b755721000000107
+a37311000006117	57845	Other anti-smoking drug given	b37311000006101
+a5979551000006114	55748	Smoking monitoring status	b308512009
+a216212011	51512	Smoking reduced	b134406006
+a344794017	51029	Cigar consumption	b230057008
+a1484935015	50436	Smoking status between 4 and 52 weeks	b390903004
+a1651711000000113	48706	Consent given for smoking cessation data sharing	b750851000000104
+a459524018	47801	Over the counter nicotine replacement therapy	b315055008
+a482831000000114	45665	Nicotine replacement therapy using nicotine inhalator	b280811000000104
+a25281000000119	45649	Stop smoking clinic administration	b714021000000104
+a4939261000006116	45556	Smoking effects education	b225324006
+a482871000000111	42901	Other specified smoking cessation therapy	b710081004
+a1151791000000117	37872	Recently stopped smoking	b517211000000106
+a668811000000117	34733	Mother does not smoke	b438618001
+a13499671000006118	34720	Brief intervention for smoking cessation	b771155005
+a1563081000000115	33813	Practice based smoking cessation programme start date	b712971000000108
+a904091000006116	33690	Date of last cigarette	b904091000006100
+a90405100000611	29239	Carbon monoxide validation of smoking status	b904051000006106
+a904151000006114	29167	Smoking cessation 4 week F/U completed	b904151000006105
+a489931000000114	26077	Smoking cessation therapy NOS	b710081004
+a12836100000611	24651	Stop smoking monitoring telephone invite	b185796008
+a1780360012	24526	Reason for restarting smoking	b401159003
+a2670126018	23804	Smoking restarted	b308438006
+a8063181000006116	23339	Wants to stop smoking	b203191000000107
+a904121000006117	21810	Carbon monoxide validation confirms smoker	b904121000006101
+a90422100000611	20534	Smoking cessation bupropion therapy	b904221000006106
+a1123541000000118	19977	Stop smoking face to face follow-up	b505581000000108
+a604961000006114	19249	Current Smoker NOS	b604961000006105
+a904191000006115	18641	Smoking cessation motivation score	b904191000006104
+a482811000000118	18640	Nicotine replacement therapy using nicotine gum	b280801000000101
+a909391000006117	18356	[RFC] Smoking cessation	b909391000006101
+a1925121000006113	17275	Issue of nicotine replacement therapy voucher	b784481000000108
+a904241000006115	17125	Smoking cessation counselling in person	b904241000006104
+a854021000006115	16566	Cigarette smoker	b854021000006104
+a342443012	16515	Smokes drugs	b228377000
+a459484017	16214	Nicotine replacement therapy refused	b315022003
+a1626121000006116	16029	Smoking cessation drug therapy - varenicline	b1626121000006100
+a482851000000119	15809	Nicotine replacement therapy using nicotine lozenge	b790131000000109
+a408878014	15601	Fagerstrom Test for Nicotine Dependence total score	b762991003
+a285793015	15378	Stop smoking monitor default	b185791003
+a1979491000006115	15027	Smoking cessation follow-up	b1979491000006104
+a852121000006114	14774	Smoking cessation-maintain abstinence	b852121000006105
+a904071000006117	14260	Smoking cessation 4 week follow up	b904071000006101
+a904231000006113	13987	Smoking cessation counselling by telephone	b904231000006109
+a128321000006116	13907	Stop smoking monitoring second letter	b185793000
+a137791000006118	13665	Smoking restarted	b308438006
+a1716141000000117	13058	Lost to smoking cessation follow-up	b768971000000109
+a498058100000611	12818	Age at starting smoking	b228488005
+a2159962015	12703	Smoking review not indicated	b408398007
+a13653481000006112	12607	Nicotine-filled electronic cigarette user	b785889008
+a7375991000006118	12262	Smokes tobacco daily	b449868002
+a137711000006111	12233	Smoker (Read codes)	b137711000006107
+a11904991000006116	11727	Occasional cigarette smoker	b230059006
+a4939251000006118	11680	Advice on smoking	b225323000
+a2170961000000116	11577	Waterpipe tobacco consumption	b836001000000109
+a5003151000006116	11320	Light cigarette smoker	b230060001
+a78013015	10215	Smokers' cough	b46802002
+a8012751000006116	10057	Did not attend smoking cessation clinic	b25261000000107
+a1704491000006115	9618	Smoking cessation enhanced services administration monitoring template completed	b374391000000106
+a344795016	9448	Pipe tobacco consumption	b230058003
+a137421000006113	9426	Smoke inhalation	b426936004
+a923611000006113	8625	Health ed. - smoking	b923611000006109
+a832301000006117	8465	Smoke inhalation	b426936004
+a8221521000006111	7849	Smoking cessation	b720401000000103
+a904201000006117	7604	Smoking cessation confidence score	b904201000006101
+a5496021000006114	7115	Tobacco smoking consumption unknown	b266927001
+a5003161000006119	6500	Moderate cigarette smoker	b230062009
+a13619901000006115	5844	Number of calculated smoking pack years	b782516008
+a128331000006118	5442	Stop smoking monitoring third letter	b185794006
+a1484936019	5271	Smoking status at 52 weeks	b390904005
+a5003171000006114	5102	Heavy cigarette smoker	b230063004
+a1653781000000119	5006	Declined consent for smoking cessation data sharing	b751661000000106
+a150398019	4917	Nicotine withdrawal	b90755006
+a854981000006117	4880	Grade C moderate smoker (11-20/day)	b854981000006101
+a854151000006111	4838	Date stopped smoking	b854151000006107
+a1708051000000119	4407	Smoking status at 12 weeks	b766931000000106
+a904141000006112	4058	Smoking cessation 4 week F/U not completed	b904141000006108
+a961581000006114	4007	Smokes/uses tobacco products	b961581000006105
+a1488870013	3946	Nicotine replacement therapy contraindicated	b395174005
+a85496100000611	3938	Grade B light smoker (1-10/day)	b854961000006106
+a13494621000006118	3789	Referral for brief intervention for smoking cessation	b770729006
+a15055561000006119	3784	Uses electronic cigarette daily	b35341000087101
+a8061901000006111	3783	Attends practice smoking cessation clinic	b201931000000109
+a8153371000006117	3746	Occasional tobacco smoker	b428041000124106
+a250369017	3520	Admitted tobacco consumption possibly untrue	b160613002
+a854071000006119	3410	Current smoker	b854071000006103
+a4640171000006113	3301	Pregnancy smoking education	b171055003
+a2203381000000113	3095	Smoking cessation 12 week follow-up	b850331000000104
+a303501000000115	2895	Smoking cessation advice provided by community pharmacist	b200221000000105
+a460828018	2757	Tobacco user	b110483000
+a167635100000611	2668	Nicotine replacement therapy using nicotine sublingual tablets	b1676351000006106
+a4980561000006117	2607	Time since stopped smoking	b228486009
+a246243100000011	2526	Varenicline smoking cessation therapy offered	b966991000000104
+a8196151000006112	2491	Smoking cessation leaflet given	b521721000000109
+a342444018	2427	Smokes drugs in cigarette form	b228378005
+a2982426011	2315	Provision of smoking cessation leaflet	b699033005
+a1771191000006119	2235	Attends smoking cessation clinic not at practice	b201941000000100
+a904161000006111	2195	Smoking cessation 52 week F/U completed	b904161000006107
+a852111000006118	2183	Gradual smoking reduction	b852111000006102
+a855001000006114	2004	Grade D heavy smoker (>20 Day)	b855001000006105
+a159165100000611	2001	Smoking cessation referral declined	b1591651000006106
+a1472605100000611	1898	Nicotine replacement therapy	b151159008
+a1694421000006112	1777	Stop smoking monitoring admin.	b714001000000108
+a1755201000006117	1688	Consent given for follow-up evaluation after smoking cessation intervention	b750821000000109
+a500319100000611	1511	Chain smoker	b230065006
+a1825081000006118	1440	Smoking cessation 12 week F/U completed	b1825081000006102
+a3959111000006111	1355	Tobacco dependence syndrome	b89765005
+a3419101000006116	1293	Moderate smoker (20 or less per day)	b56578002
+a1979951000006115	1219	Socio-economic classification code (stop smoking): Routine and manual occupation	b1979951000006104
+a904081000006119	1174	Smoking cessation 52 week follow up	b904081000006103
+a1704571000006117	1151	Chronic obstructive pulmonary disease structured smoking assessment declined	b375911000000102
+a1979481000006118	1132	Nicotine replacement therapy using nicotine mouth spray	b1979481000006102
+a5979541000006112	1091	Smoking monitoring call	b308511002
+a13653501000006119	1083	Vaper with nicotine	b785889008
+a1741641000006117	1068	Smoking cessation ESA monitoring template completed	b374391000000106
+a1704561000006112	1040	Referred for chronic obstructive pulmonary disease structured smoking assessment	b375851000000108
+a295256013	976	Tobacco dependence, unspecified	b89765005
+a137751000006112	963	Smoking Age	b137751000006108
+a1979571000006117	931	Socio-economic classification code (stop smoking): Retired	b1979571000006101
+a85411100000611	912	Past smoker	b854111000006106
+a3422221000006116	876	Heavy smoker (over 20 per day)	b56771006
+a15055651000006115	860	Uses electronic cigarette occasionally	b35371000087109
+a329808012	854	Accident caused by cigarette	b217580001
+a342445017	834	Smokes drugs through a pipe	b228379002
+a12024761000006112	670	Monitoring of smoking cessation therapy declined	b765001003
+a6282351000006119	660	Smoking	b365981007
+a461114016	651	Counselling about tobacco use	b711028002
+a1979601000006112	569	Socio-economic classification code (stop smoking): Managerial/professional occupation	b1979601000006108
+a177818100000611	549	Group session: Stop smoking education programme	b1778181000006106
+a998861000006112	539	Nicotine replacement therapy provided by community pharmacist	b200211000000104
+a1777011000006118	533	Reason for referral: Smoking Cessation	b1777011000006102
+a14421941000006111	527	Trying to give up using electronic cigarette	b1137691001
+a295260011	498	Tobacco dependence NOS	b89765005
+a28580501	480	Stop smoking monitoring delete	b185798009
+a1833971000006116	430	Stop Smoking satisfaction questionnaire given	b1833971000006100
+a197961100000611	420	Socio-economic classification code (stop smoking): Intermediate occupation	b1979611000006106
+a171454100000611	392	Current smoker annual review - enhanced services admin	b505651000000103
+a8279661000006118	383	Provision of written information about smoking cessation	b838131000000103
+a1704581000006119	377	COPD structured smoking assessment declined	b375911000000102
+a1979591000006116	376	Socio-economic classification code (stop smoking): Sick or disabled and unable to work	b1979591000006100
+a15055601000006119	373	Daily vaper	b35341000087101
+a1755231000006113	322	Declined consent for follow-up evaluation after smoking cessation intervention	b751101000000101
+a1979621000006119	320	Socio-economic classification code (stop smoking): Unable to code	b1979621000006103
+a15166541000006114	305	PLCOm2012 (Prostate, Lung, Colorectal, and Ovarian modified 2012) 6-year lung cancer risk calculator for smokers score	b1792031000000106
+a14658381000006111	296	Nicotine replacement therapy declined	b315022003
+a5003181000006112	289	Very heavy cigarette smoker	b230064005
+a7368961000006112	257	Stopped smoking during pregnancy	b449368009
+a983101000006113	253	Misuse of Nicotine	b983101000006109
+a4074571000006117	218	Cigarette smoke	b102408007
+a1899551000006112	212	Mother's smoking status at time of baby's birth - smoker	b1899551000006108
+a904171000006116	201	Smoking cessation 52 week F/U not completed	b904171000006100
+a15166561000006113	192	Assessment using PLCOm2012 (Prostate, Lung, Colorectal, and Ovarian modified 2012) 6-year lung cancer risk calculator for smokers	b1792041000000102
+a6427931000006116	174	Smoking cessation assistance	b384742004
+a3544141000006118	169	Smoke	b64197008
+a12758711000006119	163	Electronic cigarette vaper	b722499006
+a397911000006114	163	[X]Mental and behavioural disorders due to use of tobacco: harmful use	b724697004
+a7368971000006117	158	Stopped smoking before pregnancy	b449369001
+a397981000006119	157	[X]Mental and behav dis due to use tobacco: dependence syndr	b30310000
+a295257016	146	Tobacco dependence, continuous	b191887008
+a7832521000006115	146	Electronic cigarette	b722498003
+a1979471000006116	142	Nicotine replacement therapy using nicotine nasal spray	b1979471000006100
+a29595101	141	Nicotine-induced organic mental disorder	b30310000
+a1819411000006114	141	Smoking increased	b1819411000006105
+a1697731000006111	135	Nicotine replacement therapy not tolerated	b1697731000006107
+a295259018	128	Tobacco dependence in remission	b191889006
+a1825071000006116	124	Smoking cessation 12 week F/U not completed	b1825071000006100
+a170455100000611	118	Referred for COPD structured smoking assessment	b375851000000108
+a1746211000006111	115	Smoking status at 12 weeks	b1746211000006107
+a5495941000006114	112	Occasional smoker	b266920004
+a14933931000006118	108	Community Pharmacy Smoking Cessation Service	b1659131000000104
+a263604100000611	106	Cessation of smoking	b8517006
+a197955100000611	99	Socio-economic classification code (stop smoking): Full time student	b1979551000006106
+a324597019	99	Toxic effect of tobacco and nicotine	b212899006
+a7696001000006118	93	Patient request for smoking cessation information	b712829007
+a8056731000006119	86	Smoking assessment	b196771000000101
+a15055691000006114	80	Occasional vaper	b35371000087109
+a13655401000006119	75	Vaper without nicotine	b786063001
+a904211000006119	74	Smoking cessation service patient satisfaction score	b904211000006103
+a755959100000611	72	Tobacco use cessation education	b702388001
+a1974421000006116	71	Mental and behav dis due to use tobacco: dependence syndr, continuous use	b1974421000006100
+a314292100000611	71	Tobacco	b39953003
+a852981000006111	67	Rolls own cigarettes	b852981000006107
+a263570019	64	Maternal tobacco abuse	b169940006
+a4074561000006112	61	Tobacco smoke	b102407002
+a103041000006112	59	Tobacco processors	b159882006
+a14616531000006112	56	Smoking	b77176002
+a4948531000006116	49	Smokes in bed	b225934006
+a5074201000006119	48	Smokers keratosis	b235033006
+a14421951000006113	48	Trying to give up vaping	b1137691001
+a498071100000611	48	Finding relating to moist tobacco use	b228499007
+a5495951000006111	46	Occasional cigarette smoker (less than one cigarette/day)	b266920004
+a2462391000000119	44	Varenicline smoking cessation therapy declined	b966971000000103
+a295258014	35	Tobacco dependence, episodic	b191888003
+a1449402100000611	34	Former smoker	b8517006
+a903981000006117	29	Not interested in stopping smoking	b903981000006101
+a12626191000006119	24	VBA (Very Brief Advice) on Smoking	b1110791000000100
+a197481100000611	22	Mental & behav dis due to use tobacco: psychotic disorder, mixed	b1974811000006106
+a5550551000006111	21	FTND - Fagerstrom test for nicotine dependence	b273453005
+a4939241000006115	20	Advice on effects of smoking on health	b225323000
+a904001000006111	19	Ready to stop smoking	b904001000006107
+a189954100000611	19	Mother's smoking status at time of baby's birth	b1899541000006106
+a7859781000006116	17	Harmful pattern of use of nicotine	b724697004
+a1974401000006114	16	Mental and behav dis due to use tobacco: dependence syndr, currently using the substance [active dependence]	b1974401000006105
+a1365349100000611	16	Nicotine-filled electronic cigarette vaper	b785889008
+a1873511000006118	15	Care contact service: Smoking/substance cessation/interven prog.	b1873511000006102
+a39727100000611	14	[X]Mental and behavioural disorders due to use of tobacco: other mental and behavioural disorders	b30310000
+a3430571000006116	13	Tobacco	b57264008
+a249037015	13	Tobacco processor	b159882006
+a39768100000611	12	[X]Mental and behavioural disorders due to use of tobacco: psychotic disorder	b30310000
+a4180331000006118	11	Tobacco use	b110483000
+a187943100000611	10	User of electronic cigarette	b1879431000006106
+a4980781000006115	10	User of moist powdered tobacco	b228504007
+a329807019	10	Accident caused by cigar	b217579004
+a397461000006119	9	[X]Mental and behavioural disorders due to use of tobacco: unspecified mental and behavioural disorder	b30310000
+a1179361100000611	9	Smoking cessation behaviour support	b384742004
+a1973821000006117	8	Mental & behav dis due to use tobacco: acute intoxication, uncomplicated	b1973821000006101
+a783254100000611	8	e-cigarette	b722498003
+a7507181000006115	7	Hookah pipe smoker	b698289004
+a1809121000006113	7	Waterpipe tobacco consumption	b1809121000006109
+a1974871000006118	7	Mental & behav dis due to tobacco: resid & late-onset psychot dis, personality or behaviour disorder	b1974871000006102
+a903051000006112	7	Tobacco Consumption Nil	b160618006
+a1442196100000611	6	Trying to give up using e-cigarette	b1137691001
+a3582451000006114	6	Cigarette smoking tobacco	b66562002
+a3615221000006116	6	Nicotine	b68540007
+a5553641000006116	6	Occasions for smoking scale	b273657002
+a4980741000006114	6	Moist tobacco consumption	b228500003
+a16588018	6	Tobacco deposit on teeth	b9473008
+a397991000006116	5	[X]Mental and behavioural disorders due to use of tobacco: withdrawal state	b90755006
+a5802191000006119	5	Nicotine allergy	b293993005
+a5827951000006117	5	Accidental nicotine overdose	b296352003
+a7832501000006113	5	Cigarette	b722496004
+a197446100000611	5	Mental and behav dis due to use tobacco: dependence syndr, episodic use [dipsomania]	b1974461000006106
+a6047151000006118	5	Tobacco related optic neuropathy	b314538009
+a1823811000006115	5	Smoking cessation 12 week follow up	b1823811000006104
+a7681981000006118	4	Assessment of tobacco use	b711013002
+a12452041000006114	4	Refuses stop smoking monitor	b185790002
+a904031000006115	4	Thinking about stopping smoking	b904031000006104
+a14440501000006111	4	Advice about cessation of vaping	b1148687006
+a397971000006117	4	[X]Mental and behav dis due to use tobacco: amnesic syndrome	b30310000
+a5003141000006118	4	Trivial cigarette smoker	b230059006
+a6475771000006114	4	Nicotine inhaler	b387690007
+a316079016	4	Fetus and newborn affected by maternal use of tobacco	b206154006
+a197465100000611	4	Mental & behav dis due to use tobacco: psychotic disorder, schizophrenia-like	b1974651000006106
+a6649431000006116	4	Smoking cessation program start date	b401160008
+a5244051000006117	4	Nicotine staining of finger	b247439004
+a175409100000011	3	Issue of nicotine replacement therapy voucher	b784481000000108
+a4835491000006116	3	Fetal or neonatal effect of maternal use of tobacco	b206154006
+a249038013	3	Tobacco processor NOS	b159882006
+a2741221000000116	3	Referral for brief intervention for smoking cessation	b1094321000000100
+a2737011000000111	3	Number of calculated smoking pack years	b1092481000000104
+a7832561000006114	3	e-cigarette user	b722499006
+a197450100000611	3	Mental and behav dis due to use tobacco: withdrawal state, uncomplicated	b1974501000006106
+a1974281000006116	3	Mental and behav dis due to use tobacco: dependence syndr, currently abstinent	b1974281000006100
+a7504551000006112	2	Smoking device	b698101006
+a7650811000006116	2	Assessment of readiness for smoking cessation	b709507008
+a5555231000006111	2	Reasons for smoking scale	b273738001
+a904041000006113	2	Waking time to first cigarette	b904041000006109
+a7967851000006114	2	Age at smoking cessation	b1221000175102
+a2651021000006113	2	Tobacco deposit on teeth	b9473008
+a397671000006112	2	[X]Mental and behavioural disorders due to use of tobacco: acute intoxication	b30310000
+a397281000006113	2	[X]Mental and behavioural disorders due to use of tobacco: withdrawal state with delirium	b90755006
+a1974761000006115	2	Mental & behav dis due to use tobacco: psychotic disorder, predominantly depressive symptoms	b1974761000006104
+a1974341000006115	2	Mental and behav dis due to use tobacco: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	b1974341000006104
+a387464100000611	2	Pipe smoking tobacco	b84498003
+a1538681000006118	2	Smoke	b1538681000006102
+a933181000006113	2	Drug reaction: nicotine	b292451006
+a3946841000006114	2	Nicotine stomatitis	b89013002
+a4948541000006114	2	Hides lit cigarettes in pockets	b225935007
+a4980751000006111	2	Does not use moist powdered tobacco	b228501004
+a1505559100000611	2	Daily vape user	b35341000087101
+a15055681000006111	2	Occasional vape use	b35371000087109
+a7507191000006117	2	Water pipe smoker	b698289004
+a8190531000006112	2	Referral to NHS (National Health Service) stop smoking service	b505281000000106
+a5553301000006112	1	Motives for smoking scale	b273632007
+a3513814014	1	Electronic cigarette liquid containing nicotine	b735240008
+a14440511000006114	1	Education about cessation of vaping	b1148687006
+a676485100000611	1	Nicotine 4mg lozenge	b408623002
+a397181000006117	1	[X]Mental and behavioural disorders due to use of tobacco: residual and late-onset psychotic disorder	b30310000
+a3513803011	1	Electronic cigarette liquid	b735238003
+a11930861000006119	1	User of electronic cigarette	b877941000000107
+a103221000033113	1	Nicotine	b68540007
+a6282371000006112	1	Tobacco smoking consumption - finding	b365982000
+a3414821000006119	1	Nicotine dependence	b56294008
+a7832511000006111	1	Cigar	b722497008
+a1973851000006114	1	Mental & behav dis due to use tobacco: acute intoxication, with other medical complications	b1973851000006105
+a197403100000611	1	Mental & behav dis due to use tobacco: acute intoxication, with convulsions	b1974031000006106
+a1973981000006113	1	Mental & behav dis due to use tobacco: acute intoxication, with coma	b1973981000006109
+a1973951000006117	1	Mental & behav dis due to use tobacco: acute intoxication, with perceptual distortions	b1973951000006101
+a1973921000006114	1	Mental & behav dis due to use tobacco: acute intoxication, with delirium	b1973921000006105
+a1979541000006113	1	Socio-economic classification code (stop smoking)	b1979541000006109
+a1974841000006114	1	Mental & behav dis due to tobacco: resid & late-onset psychot dis, flashbacks	b1974841000006105
+a1974791000006111	1	Mental & behav dis due to use tobacco: psychotic disorder, predominantly manic symptoms	b1974791000006107
+a1974741000006119	1	Mental & behav dis due to use tobacco: psychotic disorder, predominantly polymorphic	b1974741000006103
+a1974711000006118	1	Mental & behav dis due to use tobacco: psychotic disorder, predominantly hallucinatory	b1974711000006102
+a197498100000611	1	Mental & behav dis due to tobacco: resid & late-onset psychot dis, late-onset psychotic disorder	b1974981000006106
+a1974961000006117	1	Mental & behav dis due to tobacco: resid & late-onset psychot dis, other persisting cognitive impairment	b1974961000006101
+a1974931000006114	1	Mental & behav dis due to tobacco: resid & late-onset psychot dis, dementia	b1974931000006105
+a1974911000006115	1	Mental & behav dis due to tobacco: resid & late-onset psychot dis, residual affective disorder	b1974911000006104
+a1974581000006118	1	Mental & behav dis due to tobacco: withdrawl state wth delirium, with convulsions	b1974581000006102
+a1974571000006116	1	Mental & behav dis due to tobacco: withdrawl state wth delirium, without convulsions	b1974571000006100
+a1974531000006119	1	Mental and behav dis due to use tobacco: withdrawal state, with convulsions	b1974531000006103
+a1974371000006111	1	Mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs	b1974371000006107
+a1974681000006119	1	Mental & behav dis due to use tobacco: psychotic disorder, predominantly delusional	b1974681000006103
+a923201000006112	1	Pregnancy smoking advice	b923201000006108
+a855801000006116	1	Heart beat smoking grades	b855801000006100
+a12024741000006113	1	Monitoring of smoking cessation therapy	b765000002

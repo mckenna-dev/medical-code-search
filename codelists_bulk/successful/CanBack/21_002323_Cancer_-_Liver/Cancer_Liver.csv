@@ -1,0 +1,17 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1391,Cancer,Liver,a288688013,Malignant neoplasm of liver and intrahepatic bile ducts,L1:Cancer_L2:Liver,B15..00
+1392,Cancer,Liver,a157732017,Primary malignant neoplasm of liver,L1:Cancer_L2:Liver,B150.00
+1393,Cancer,Liver,a288690014,Primary carcinoma of liver,L1:Cancer_L2:Liver,B150000
+1394,Cancer,Liver,a342834014,Hepatoblastoma of liver,L1:Cancer_L2:Liver,B150100
+1395,Cancer,Liver,a342851019,Primary angiosarcoma of liver,L1:Cancer_L2:Liver,B150200
+1396,Cancer,Liver,a342807011,Hepatocellular carcinoma,L1:Cancer_L2:Liver,B150300
+1397,Cancer,Liver,a288692018,Primary malignant neoplasm of liver NOS,L1:Cancer_L2:Liver,B150z00
+1398,Cancer,Liver,a288700011,Malignant neoplasm of liver unspecified,L1:Cancer_L2:Liver,B152.00
+1399,Cancer,Liver,a292101010,[X]Other specified carcinomas of liver,L1:Cancer_L2:Liver,Byu1100
+1400,Cancer,Liver,a1224870013,[M]Hepatocellular carcinoma NOS,L1:Cancer_L2:Liver,BB5D500
+1401,Cancer,Liver,a309891000006115,"[M]Hepatoma, malignant",L1:Cancer_L2:Liver,BB5D512
+1402,Cancer,Liver,a311211000006112,[M]Liver cell carcinoma,L1:Cancer_L2:Liver,BB5D513
+1403,Cancer,Liver,a1231089017,[M]Combined hepatocellular carcinoma and cholangiocarcinoma,L1:Cancer_L2:Liver,BB5D700
+1404,Cancer,Liver,a309851000006114,[M]Hepatocholangiocarcinoma,L1:Cancer_L2:Liver,BB5D711
+1405,Cancer,Liver,a1221209015,"[M] Hepatocellular carcinoma, fibrolamellar",L1:Cancer_L2:Liver,BB5D800
+1406,Cancer,Liver,a309811000006113,Hepatoblastoma,L1:Cancer_L2:Liver,BBL8.00

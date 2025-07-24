@@ -1,0 +1,20 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a397732011	101542273	Never smoked tobacco	b266919005
+a250374013	14199182	Current non-smoker	b160618006
+a14866014	4144519	Non-smoker	b8392000
+a14421911000006112	254245	Never used electronic cigarette	b1137690000
+a1154431000000112	207119	Non-smoker annual review	b505681000000109
+a904111000006113	37270	Carbon monoxide validation confirms non-smoker	b904111000006109
+a1009271000006118	22783	Non Smoker - Nos	b1009271000006102
+a5495921000006119	14382	Never smoked	b266919005
+a7965041000006111	9330	Never smoked any substance	b221000119102
+a1123751000000113	6234	Non-smoker annual review - enhanced services administration	b505681000000109
+a854951000006113	5541	Grade A non-smoker	b854951000006109
+a6718071000006115	4503	Current non smoker but past smoking history unknown	b405746006
+a13655381000006119	1352	Non-nicotine-filled electronic cigarette user	b786063001
+a1899581000006116	554	Mother's smoking status at time of baby's birth - never smoked	b1899581000006100
+a1979561000006112	324	Socio-economic classification code (stop smoking): Never worked or unemployed for over one year	b1979561000006108
+a14421921000006116	27	Never vaped	b1137690000
+a7569061000006118	13	Never used tobacco	b702979003
+a903051000006112	7	Tobacco Consumption Nil	b160618006
+a13655391000006116	1	Non-nicotine-filled electronic cigarette vaper	b786063001

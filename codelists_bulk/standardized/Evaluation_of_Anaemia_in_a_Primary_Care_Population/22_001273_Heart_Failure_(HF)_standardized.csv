@@ -1,0 +1,217 @@
+med_code_id,term,snomed_ct_concept_id,observations
+299673010,Hypertensive heart and renal disease with renal failure,194780003.0,100
+1822161000006116,Heart failure pathway protocol not followed,1820000000000000.0,1
+145328019,Chronic rheumatic heart disease,87648004.0,6000
+299630018,Other specified chronic rheumatic heart disease,87648004.0,400
+299637015,Chronic rheumatic heart disease NOS,87648004.0,1000
+299776014,Chronic ischaemic heart disease,413838009.0,10000
+299800012,Other specified chronic ischaemic heart disease,413838009.0,300
+299804015,Other specified chronic ischaemic heart disease NOS,413838009.0,300
+299805019,Other chronic ischaemic heart disease NOS,413838009.0,2000
+300879015,[X]Other forms of chronic ischaemic heart disease,413838009.0,70
+371021000006118,[X]Chronic rheumatic heart disease,87648004.0,300
+8030421000006114,Hypertensive heart AND chronic kidney disease stage 4,96700000000000.0,3
+8030431000006112,Hypertensive heart AND chronic kidney disease stage 3,96700000000000.0,1
+8030441000006119,Hypertensive heart AND chronic kidney disease stage 2,96700000000000.0,1
+8030451000006117,Hypertensive heart AND chronic kidney disease stage 1,96800000000000.0,1
+92841017,Left ventricular hypertrophy,55827005.0,100000
+5836981000006113,Left ventricular aneurysm,297160003.0,2
+5837001000006115,Left ventricular wall aneurysmal,297160003.0,1
+5837011000006117,LVA - Left ventricular aneurysm,297160003.0,1
+3406901000006112,LVH - Left ventricular hypertrophy,55827005.0,30
+13941041000006112,Moderate left ventricular hypertrophy,840304005.0,1
+7573191000006115,Heart failure with reduced ejection fraction due to myocarditis,703274008.0,3
+2616471011,New York Heart Association Classification - Class II,421704003.0,80000
+2616472016,New York Heart Association Classification - Class III,420913000.0,40000
+2616473014,New York Heart Association Classification - Class IV,422293003.0,3000
+18472010,Acute congestive heart failure,10633002.0,7000
+70653017,Congestive heart failure,42343007.0,700000
+94251011,Acute heart failure,56675007.0,4000
+139475013,Heart failure,84114007.0,800000
+147247018,Chronic congestive heart failure,88805009.0,20000
+206703015,Right heart failure,128404006.0,20000
+216184014,Congestive heart failure monitoring,134378009.0,30000
+251680018,H/O: heart failure,161505003.0,8000
+300217019,Post cardiac operation heart failure NOS,195130005.0,20
+350484012,Heart failure as a complication of care,233924009.0,80
+395772015,Heart failure NOS,84114007.0,40000
+453099015,H/O: Heart failure in last year,309634009.0,800
+728671000006119,Malignant hypertensive heart disease with congestive cardiac failure,83105008.0,40
+741701000006114,Hypertensive heart and renal disease with (congestive) heart failure,194779001.0,50
+789941000006117,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,194781004.0,20
+1746171000000119,Has heart failure management plan,781000000000000.0,9000
+1747691000006119,Emergency heart failure admission since last appointment,1750000000000000.0,20
+1784061000006118,Preferred place of care for next exacerbation of heart failure,790000000000000.0,10
+1856361000006116,Heart failure monitoring in primary care,1860000000000000.0,900
+1856371000006111,Heart failure monitoring in secondary care,1860000000000000.0,100
+1856381000006114,Heart failure monitoring default,1860000000000000.0,50
+1861731000006114,AURAS-AF - consider the patient to have heart failure,1860000000000000.0,2
+6204381000006117,Acute right-sided heart failure,359617009.0,5
+6914191000006115,Systolic heart failure,417996009.0,5
+6919191000006119,Diastolic heart failure,418304008.0,20
+7025691000006110,Decompensated chronic heart failure,424404003.0,2000
+7052811000006113,Right heart failure due to pulmonary hypertension,426012001.0,1
+7056281000006118,Congestive heart failure due to left ventricular systolic dysfunction,426263006.0,30
+7250571000006113,Chronic systolic heart failure,441481004.0,20
+7251291000006119,Chronic diastolic heart failure,441530006.0,100
+7321121000006119,Heart failure with preserved ejection fraction,446221000.0,600
+7475721000006114,Heart failure due to end stage congenital heart disease,471880001.0,3
+7484711000006114,Heart failure medication review,473226007.0,7000
+7507301000006110,Acute exacerbation of chronic congestive heart failure,698296002.0,2
+7510341000006110,Symptomatic congestive heart failure,698594003.0,1
+510016018,Biventricular congestive heart failure,92506005.0,20000
+504901000006118,Benign hypertensive heart disease with congestive cardiac failure,194767001.0,500
+2115781000000114,Heart failure self-management plan review,811000000000000.0,1000
+2117931000000116,Heart failure self-management plan agreed,812000000000000.0,3000
+2122191000000110,Education about deteriorating heart failure,814000000000000.0,3000
+2205951000000117,Heart failure clinical pathway,852000000000000.0,800
+2227501000000110,Heart failure with preserved ejection fraction,446221000.0,8000
+2352391000000117,On optimal heart failure therapy,916000000000000.0,600
+2405871000000117,Heart failure rehabilitation programme not available,940000000000000.0,3
+2585431000006117,Chronic left-sided congestive heart failure,5375005.0,3
+2660881000006116,High output heart failure,10091002.0,2
+2664351000006113,Chronic right-sided heart failure,10335000.0,100
+3182561000006118,CHF - Congestive heart failure,42343007.0,1
+3213831000006118,Right heart failure secondary to left heart failure,44313006.0,2
+3283871000006117,Chronic heart failure,48447003.0,80
+3489281000006119,Hypertensive heart disease without congestive heart failure,60899001.0,1
+3589241000006116,Chronic right-sided congestive heart failure,66989003.0,30
+3868341000006118,HF - Heart failure,84114007.0,1
+3886041000006118,Left heart failure,85232009.0,10000
+4193361000006119,Chronic left-sided heart failure,111283005.0,8
+4540521000006111,History of heart failure,161505003.0,1
+1484917012,Heart failure follow-up,390884006.0,30000
+1484918019,Heart failure annual review,390885007.0,100000
+1488804017,Heart failure confirmed,395105005.0,20000
+2548316014,Seen by community heart failure nurse,417359009.0,80000
+2549208013,Emergency hospital admission for heart failure,416683003.0,800
+2645623019,Heart failure education,423475008.0,20000
+2675255018,Congestive heart failure due to valvular disease,426611007.0,900
+3515953019,Heart failure self management plan,735984001.0,30
+308011000000119,Provision of information about heart failure,962000000000000.0,2000
+308041000000118,Referral to heart failure exercise programme,704095000.0,600
+308231000000118,Heart failure monitoring administration,714000000000000.0,8000
+308261000000111,Heart failure review completed,202000000000000.0,30000
+308301000000118,Discussion about heart failure care plan,872000000000000.0,10000
+311561000000117,Referred to heart failure education group,204000000000000.0,80
+404741000000119,Heart failure 6 month review,247000000000000.0,50000
+406801000000118,Heart failure monitoring telephone invitation,718000000000000.0,4000
+407041000000111,Heart failure monitoring verbal invitation,718000000000000.0,1000
+407061000000112,Heart failure monitoring first letter,717000000000000.0,60000
+407081000000115,Heart failure monitoring second letter,717000000000000.0,20000
+407101000000114,Heart failure monitoring third letter,717000000000000.0,5000
+407441000000115,Exception reporting - heart failure quality indicators,716000000000000.0,2000
+1539381000006117,Heart failure lifestyle plan commenced,1540000000000000.0,30
+1539391000006119,Heart failure information starter pack provided,1540000000000000.0,20
+1539471000006111,Heart failure monitoring - unstable symptoms,1540000000000000.0,20
+1539481000006114,Heart failure monitoring - specialist clinical needs,1540000000000000.0,600
+1539491000006112,Heart failure monitoring - social issues,1540000000000000.0,20
+1539501000006116,Heart failure monitoring - psychological issues,1540000000000000.0,3
+1539511000006118,Heart failure monitoring - multiple readmissions,1540000000000000.0,7
+1539521000006114,Heart failure monitoring - co-medications,1540000000000000.0,200
+1539531000006112,Heart failure monitoring - co-morbidities,1540000000000000.0,20
+1539541000006119,Heart failure monitoring - palliative care,1540000000000000.0,90
+1561941000006119,Excepted from heart failure quality indicators - patient unsuitable,717000000000000.0,20000
+1561951000006117,Excepted from heart failure quality indicators - informed dissent,717000000000000.0,9000
+1647701000000118,Heart failure with normal ejection fraction,446221000.0,10000
+1661371000000112,HFNEF - heart failure with normal ejection fraction,446221000.0,500
+1693911000000115,Referral to heart failure education group declined,764000000000000.0,50
+1734081000000112,Referral to heart failure exercise programme declined,704097008.0,300
+1734161000000119,Referral to heart failure exercise programme not indicated,704096004.0,80
+7573171000006116,Heart failure with reduced ejection fraction,703272007.0,1000
+7573181000006118,Heart failure with reduced ejection fraction due to coronary artery disease,703273002.0,8
+7573201000006117,Heart failure with reduced ejection fraction due to cardiomyopathy,703275009.0,30
+7573211000006119,Heart failure with reduced ejection fraction due to heart valve disease,703276005.0,7
+8011111000006111,Congestive heart failure with right heart failure,23300000000000.0,2
+8030311000006111,Exacerbation of congestive heart failure,96300000000000.0,10
+8048061000006111,Chronic combined systolic and diastolic heart failure,154000000000000.0,2
+8214751000006115,Heart failure monitoring invitation,711000000000000.0,3000
+8278041000006115,Rehabilitation for heart failure,836000000000000.0,1
+8290471000006114,Heart failure initial assessment,851000000000000.0,70
+8303561000006119,Heart failure monitoring,872000000000000.0,1000
+12623611000006114,Excepted from heart failure quality indicators - service unavailable,1110000000000000.0,20
+12626351000006111,QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation,1110000000000000.0,1000
+12734351000006110,QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation using preferred method of communication,143000000000000.0,10
+13910671000006110,Heart failure with mid range ejection fraction,788950000.0,100
+14015051000006114,Acute on chronic right-sided congestive heart failure,1.68e+16,10
+6978012,Diastolic dysfunction,3545003.0,20000
+1489358014,Left ventricular diastolic dysfunction,395704004.0,30000
+2159198010,Echocardiogram shows left ventricular diastolic dysfunction,407597004.0,30000
+2549128016,Right ventricular diastolic dysfunction,416610007.0,500
+939571000006115,Diastolic dysfunction,940000000000000.0,30
+72934016,Rheumatic left ventricular failure,43736008.0,300
+141306010,Left ventricular failure,85232009.0,700000
+300190010,Acute left ventricular failure,195114002.0,10000
+3886071000006114,LVF - Left ventricular failure,85232009.0,10
+4005301000006110,Biventricular failure,92506005.0,4
+1816101000006113,Right ventricular failure,367363000.0,3000
+490972013,Right ventricular failure,367363000.0,3000
+216207010,Left ventricular systolic dysfunction,134401001.0,200000
+2159197017,Echocardiogram shows left ventricular systolic dysfunction,407596008.0,200000
+2548656015,Right ventricular systolic dysfunction,416158002.0,3000
+1991651000006115,Severe left ventricular systolic dysfunction,1990000000000000.0,2000
+6348241000006112,Systolic dysfunction,371037005.0,20
+7119751000006110,Chronic systolic dysfunction of left ventricle,430396006.0,5
+7119761000006112,Chronic left ventricular systolic dysfunction,430396006.0,3
+7510321000006115,Asymptomatic left ventricular systolic dysfunction,698592004.0,8
+6212521000006115,Acute cardiac pulmonary oedema,360371003.0,30
+905361000006110,[RFC] Chronic heart disease (CHD),905000000000000.0,1000
+1850881000006117,Reason for influenza vaccine - chronic heart disease,1850000000000000.0,7000
+8439891000006111,Chronic heart disease monitoring invitation SMS (short message service) text message,1070000000000000.0,600
+8439901000006110,Chronic heart disease monitoring SMS (short message service) text message first invitation,1070000000000000.0,600
+8439921000006117,Chronic heart disease monitoring SMS (short message service) text message second invitation,1070000000000000.0,300
+8439931000006119,Chronic heart disease monitoring SMS (short message service) text message third invitation,1070000000000000.0,20
+741681000006111,Hypertensive heart disease NOS with CCF,64715009.0,500
+3182551000006115,CCF - Congestive cardiac failure,42343007.0,800
+82584011,Acute cor pulmonale,49584005.0,10000
+3800291000006115,COR - Chronic cor pulmonale,79955004.0,3
+3855401000006112,Cor pulmonale,83291003.0,100
+139482012,Cardiac failure,84114007.0,30000
+223981000000118,Cardiac failure NOS,84114007.0,2000
+905391000006119,[RFC] Cardiac failure,905000000000000.0,200
+300179017,Decompensated cardiac failure,195111005.0,20000
+300180019,Compensated cardiac failure,195112003.0,1000
+451426015,Cardiac failure therapy,308118002.0,2000
+493287011,Congestive cardiac failure,42343007.0,500000
+316833010,Congenital cardiac failure,206586007.0,900
+317955011,Cardiorespiratory failure,410431009.0,900
+325061011,Cardiorespiratory failure as a complication of care,213215000.0,30
+1576321000006113,Cause of Death- Congestive Cardiac Failure,1580000000000000.0,300
+3182541000006117,Congestive cardiac failure,42343007.0,900
+2533628012,Left ventricular dysfunction monitoring first letter,414586001.0,600
+2533629016,Left ventricular dysfunction monitoring second letter,414588000.0,200
+2533630014,Left ventricular dysfunction monitoring third letter,414589008.0,100
+2549089012,Left ventricular dysfunction monitoring verbal invite,416573008.0,80
+2694523019,Left ventricular cardiac dysfunction,429589006.0,4000
+8234591000006113,Generalised left ventricular dysfunction,760000000000000.0,4
+226181000000110,Left ventricular dysfunction monitoring administration,714000000000000.0,2000
+407001000000113,Left ventricular dysfunction monitoring telephone invitation,716000000000000.0,40
+5292771000006114,Left ventricular wall dyskinetic,250911003.0,1
+8234611000006119,Left ventricular dysfunction due to right ventricular interaction,760000000000000.0,10
+7487191000006113,Right ventricular cardiac dysfunction,473365008.0,2
+784191000006110,Impaired left ventricular function,275514001.0,100000
+411506018,Impaired left ventricular function,275514001.0,50000
+5292751000006116,Left ventricular wall akinetic,250910002.0,6
+5292791000006110,Left ventricular wall hypokinetic,250912005.0,10
+5331271000006112,Left ventricular abnormality,253535002.0,20
+5331371000006115,Left ventricular dilatation,253541009.0,30
+5331381000006117,Abnormal left ventricular muscle band,253542002.0,1
+5573991000006118,Impaired left ventricular func,275514001.0,40
+6361031000006112,Depression of left ventricular systolic function,371862006.0,4
+7347751000006119,Left ventricular myocardial noncompaction cardiomyopathy,447935001.0,1
+374013010,Left ventricular ejection fraction,250908004.0,90000
+377550012,Left ventricular outflow tract obstruction,253546004.0,1
+13793321000006118,Left cardiac ventricular dilatation,253541009.0,10
+14133401000006116,Acquired left ventricular dilation,880002001.0,1
+355821000000117,Relief of left ventricular outflow tract obstruction,223000000000000.0,40
+1908831000006118,Left ventricular outflow tract obstruction,253546004.0,700
+6847761000006118,Chronic ischemic heart disease,413838009.0,1
+403107019,Cardiac insufficiency as a complication of care,269299003.0,70
+5043881000006110,LVAD - Implantation of left ventricular assist device,232967006.0,8
+349042010,Implantation of left ventricular assist device,232967006.0,500
+324974014,Heart transplant failure and rejection,213151004.0,20
+5331461000006116,LVOTO - Left ventricular outflow tract obstruction,253546004.0,10
+504911000006115,Benign hypertensive heart disease without CCF,77970009.0,100
+741691000006114,Hypertensive heart disease NOS without CCF,64715009.0,300
+728681000006116,Malignant hypertensive heart disease without congestive heart failure,36315003.0,80
+132655012,Chronic cor pulmonale,79955004.0,20000

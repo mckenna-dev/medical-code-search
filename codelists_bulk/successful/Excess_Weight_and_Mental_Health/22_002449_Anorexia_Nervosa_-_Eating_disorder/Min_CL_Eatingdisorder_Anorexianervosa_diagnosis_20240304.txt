@@ -1,0 +1,6 @@
+	MedCodeId	Observations	Term	Eatingdisorder_Anorexianervosa_diagnosis
+0	94597012	200000	Anorexia nervosa	Eatingdisorder_Anorexianervosa_diagnosis
+1	363321000006111	10000	[X]Anorexia nervosa	Eatingdisorder_Anorexianervosa_diagnosis
+2	366521000006113	6000	Atypical anorexia nervosa	Eatingdisorder_Anorexianervosa_diagnosis
+3	3423851000006118	1	AN - Anorexia nervosa	Eatingdisorder_Anorexianervosa_diagnosis
+4	7532211000006110	300	Avoidant restrictive food intake disorder	Eatingdisorder_Anorexianervosa_diagnosis

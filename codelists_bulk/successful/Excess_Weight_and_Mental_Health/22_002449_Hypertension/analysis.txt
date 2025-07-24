@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 263
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\thypertension']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                         \tMedCodeId\tObservations\tTerm\thypertension
+0         0\ta99042012\t30000000\tEssential hypertension\thypertension
+1           1\ta64168014\t10000000\tHypertensive disease\thypertension
+2  2\ta790091000006115\t6000000\tHypertension monitoring\thypertension

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 52
+Columns: 1
+Column names: ['medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+  medcode\treadcode\tclinical_events\timmunisation_events\treferral_events\ttest_events\tread_term\tdatabase_build
+0                                              70189\t"Kyu5100"\t54\t0\t1\t0\t"[X]Other cystitis"\t"February 2009"
+1      67410\t"Lyu6100"\t2\t0\t0\t0\t"[X]Other genitourinary tract infections following delivery"\t"February 2009"
+2     100892\t"Lyu2400"\t1\t0\t0\t0\t"[X]Other+unspcf genitourinary tract infection in pregnancy"\t"November 2010"

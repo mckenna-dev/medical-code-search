@@ -1,0 +1,18 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1855,Cancer,Oesophagus,a1216488012,Malignant neoplasm of oesophagus,L1:Cancer_L2:Oesophagus,B10..00
+1856,Cancer,Oesophagus,a288589012,Malignant neoplasm of cervical oesophagus,L1:Cancer_L2:Oesophagus,B100.00
+1857,Cancer,Oesophagus,a288594012,Malignant neoplasm of thoracic oesophagus,L1:Cancer_L2:Oesophagus,B101.00
+1858,Cancer,Oesophagus,a288597017,Malignant neoplasm of abdominal oesophagus,L1:Cancer_L2:Oesophagus,B102.00
+1859,Cancer,Oesophagus,a288602012,Malignant neoplasm of upper third of oesophagus,L1:Cancer_L2:Oesophagus,B103.00
+1860,Cancer,Oesophagus,a288607018,Malignant neoplasm of middle third of oesophagus,L1:Cancer_L2:Oesophagus,B104.00
+1861,Cancer,Oesophagus,a288608011,Malignant neoplasm of lower third of oesophagus,L1:Cancer_L2:Oesophagus,B105.00
+1862,Cancer,Oesophagus,a1215862010,"Malignant neoplasm, overlapping lesion of oesophagus",L1:Cancer_L2:Oesophagus,B106.00
+1863,Cancer,Oesophagus,a638841000000113,Siewert type I adenocarcinoma,L1:Cancer_L2:Oesophagus,B107.00
+1864,Cancer,Oesophagus,a288614016,Malignant neoplasm of other specified part of oesophagus,L1:Cancer_L2:Oesophagus,B10y.00
+1865,Cancer,Oesophagus,a403674011,Malignant neoplasm of oesophagus NOS,L1:Cancer_L2:Oesophagus,B10z.00
+1866,Cancer,Oesophagus,a1216486011,Oesophageal cancer,L1:Cancer_L2:Oesophagus,B10z.11
+1867,Cancer,Oesophagus,a306261000006115,Carcinoid bronchial adenoma,L1:Cancer_L2:Oesophagus,BB5R111
+1868,Cancer,Oesophagus,a1219789016,[M]Bronchiolo-alveolar adenocarcinoma,L1:Cancer_L2:Oesophagus,BB5S200
+1869,Cancer,Oesophagus,a305201000006114,[M]Alveolar cell carcinoma,L1:Cancer_L2:Oesophagus,BB5S211
+1870,Cancer,Oesophagus,a306131000006118,[M]Bronchiolar carcinoma,L1:Cancer_L2:Oesophagus,BB5S212
+1871,Cancer,Oesophagus,a305181000006113,[M]Alveolar adenocarcinoma,L1:Cancer_L2:Oesophagus,BB5S400

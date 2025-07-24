@@ -1,0 +1,37 @@
+{
+  "original_file": "codelists_bulk\\successful\\COMPUTE\\22-001771_Polycystic_Ovary_Syndrome_(PCOS)\\PCOS_with_SNOMED_Update.csv",
+  "original_columns": [
+    "MedCodeId",
+    "Observations",
+    "Term",
+    "SNOMED_CT_Concept_ID"
+  ],
+  "column_mapping": {
+    "med_code_id": "MedCodeId",
+    "term": "Term",
+    "snomed_ct_concept_id": "SNOMED_CT_Concept_ID",
+    "observations": "Observations"
+  },
+  "mapping_details": {
+    "med_code_id": {
+      "column": "MedCodeId",
+      "type": "primary"
+    },
+    "term": {
+      "column": "Term",
+      "type": "primary"
+    },
+    "snomed_ct_concept_id": {
+      "column": "SNOMED_CT_Concept_ID",
+      "type": "primary"
+    },
+    "observations": {
+      "column": "Observations",
+      "type": "primary"
+    }
+  },
+  "rows_processed": 15,
+  "rows_standardized": 15,
+  "project": "COMPUTE",
+  "codelist": "22-001771_Polycystic_Ovary_Syndrome_(PCOS)"
+}

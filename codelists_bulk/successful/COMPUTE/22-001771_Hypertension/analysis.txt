@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 111
+Columns: 6
+Column names: ['Description', 'SNOMED_CT_Concept_ID', 'Codelist_Name', 'Med_Code_Id', 'Observations', 'Term']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                                        Description SNOMED_CT_Concept_ID                 Codelist_Name         Med_Code_Id  Observations
+0                    Benign hypertension (disorder)            b10725009  Hypertension diagnosis codes   a2670511000006119             9
+1  Multiple drug intolerant hypertension (disorder)    b1078301000112109  Hypertension diagnosis codes  a13688011000006110             1
+2          Benign essential hypertension (disorder)             b1201005  Hypertension diagnosis codes            a3135013        300000

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 16
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+         MedCodeId  Observations               Term  SNOMED_CT_Concept_ID
+0        101130017       1000000           Tinnitus              60862001
+1  102721000006110        200000  Tinnitus symptoms              60862001
+2        299214018         30000       Tinnitus NOS              60862001

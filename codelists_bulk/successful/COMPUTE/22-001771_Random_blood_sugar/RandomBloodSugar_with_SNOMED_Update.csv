@@ -1,0 +1,7 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+191761000006112,404670,Random blood sugar,271061004
+259310015,6719,Random blood sugar normal,166890005
+5519841000006111,2617,Random blood glucose measurement,271061004
+259312011,1435,Random blood sugar raised,166892002
+2729491000000116,638,Random blood glucose level,1089381000000101
+259311016,121,Random blood sugar low,166891009

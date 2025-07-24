@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 3
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tEatingdisorder_Referral']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                          \tMedCodeId\tObservations\tTerm\tEatingdisorder_Referral
+0               0\t1780181019\t50000\tReferral to eating disorders clinic\tEatingdisorder_Referral
+1  1\t1764491000006116\t500\tReferral to eating disorders outreach clinic\tEatingdisorder_Referral
+2          2\t1776641000006112\t200\tReason for referral: Eating Disorder\tEatingdisorder_Referral

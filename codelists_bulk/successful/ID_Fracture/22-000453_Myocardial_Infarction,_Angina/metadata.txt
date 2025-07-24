@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/21-000433-Aurum-IDFracture/blob/main/Codelists/standardized_MI%20angina%20Aurum%20VF%206%20March%202022.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/21-000433-Aurum-IDFracture/main/Codelists/standardized_MI%20angina%20Aurum%20VF%206%20March%202022.csv
+Codelist Name: Myocardial Infarction, Angina
+Project Title: ID Fracture
+ERAP Number: 22-000453
+Author: Margaret Smith
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:27:32
+File Size: 18628 bytes

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 140
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1  Flag_classifyL2          MedCodeID                                               Term
+0   8604  Alcohol_status  current_drinker  a1738421000000111                                Lower risk drinking
+1   8605  Alcohol_status  current_drinker         a250312016                           Light drinker - 1-2u/day
+2   8606  Alcohol_status  current_drinker         a250340014  Alcohol intake within recommended sensible limits

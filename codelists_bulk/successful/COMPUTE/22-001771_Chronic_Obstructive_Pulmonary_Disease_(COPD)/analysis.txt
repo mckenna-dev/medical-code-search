@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 99
+Columns: 6
+Column names: ['Description', 'SNOMED_CT_Concept_ID', 'Codelist_Name', 'Med_Code_Id', 'Observations', 'Term']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+                                                                      Description SNOMED_CT_Concept_ID                                       Codelist_Name       Med_Code_Id  Observations
+0  Acute infective exacerbation of chronic obstructive airways disease (disorder)           b285381006  Chronic obstructive pulmonary disease (COPD) codes        a424365019         40000
+1                    Very severe chronic obstructive pulmonary disease (disorder)     b293991000000106  Chronic obstructive pulmonary disease (COPD) codes  a516801000000112         50000
+2                       Moderate chronic obstructive pulmonary disease (disorder)           b313297008  Chronic obstructive pulmonary disease (COPD) codes        a457169013        800000

@@ -1,0 +1,61 @@
+	medcode	readcode	clinicalevents	readterm
+2	398	G580.00	234834	Congestive heart failure
+0	884	G581.00	213914	Left ventricular failure
+4	2062	G58..00	143170	Heart failure
+1	2906	G580.11	102221	Congestive cardiac failure
+6	8966	G5yy900	34454	Left ventricular systolic dysfunction
+13	17851	8HBE.00	21430	Heart failure follow-up
+10	4024	G58z.00	18394	Heart failure NOS
+33	30779	662W.00	16953	Heart failure annual review
+9	1223	G58..11	13353	Cardiac failure
+8	13189	662g.00	12786	New York Heart Association classification - class II
+34	12366	662T.00	12763	Congestive heart failure monitoring
+48	72965	9Or3.00	12500	Heart failure monitoring first letter
+7	9913	1O1..00	12023	Heart failure confirmed
+3	11284	585f.00	9929	Echocardiogram shows left ventricular systolic dysfunction
+12	30749	9hH0.00	9288	Excepted heart failure quality indicators: Patient unsuitabl
+5	18853	662f.00	7705	New York Heart Association classification - class I
+49	19380	9Or0.00	6436	Heart failure review completed
+15	19066	662h.00	5971	New York Heart Association classification - class III
+16	32911	9Or..00	4971	Heart failure monitoring administration
+17	32945	8CL3.00	4073	Heart failure care plan discussed with patient
+18	5255	G581000	2477	Acute left ventricular failure
+11	27884	G580200	2431	Decompensated cardiac failure
+41	15058	14A6.00	2173	H/O: heart failure
+31	64062	9hH1.00	2173	Excepted heart failure quality indicators: Informed dissent
+21	32671	G580100	1953	Chronic congestive heart failure
+47	72386	9Or4.00	1943	Heart failure monitoring second letter
+25	9524	G580.14	1771	Biventricular failure
+14	10079	G580.12	1737	Right heart failure
+44	83502	662p.00	1706	Heart failure 6 month review
+27	103732	8CMK.00	1569	Has heart failure management plan
+35	23707	G580000	1347	Acute congestive heart failure
+36	17278	G58z.12	1116	Cardiac failure NOS
+28	95835	679X.00	887	Heart failure education
+30	27964	G582.00	727	Acute heart failure
+23	10154	G580.13	719	Right ventricular failure
+26	102428	8H7o000	634	Fast track HF referral for transthoracic 2D echocardiogram
+40	101138	G583.00	631	Heart failure with normal ejection fraction
+29	51214	662i.00	612	New York Heart Association classification - class IV
+37	106897	G583.12	592	Heart failure with preserved ejection fraction
+42	90192	9Or2.00	559	Heart failure monitoring verbal invite
+45	100784	2126400	545	Heart failure resolved
+53	89650	9Or5.00	539	Heart failure monitoring third letter
+43	90193	9Or1.00	483	Heart failure monitoring telephone invite
+19	32898	8H2S.00	483	Admit heart failure emergency
+38	104275	G584.00	406	Right ventricular failure
+24	11424	G580300	260	Compensated cardiac failure
+39	22262	G1yz100	184	Rheumatic left ventricular failure
+51	46912	14AM.00	137	H/O: Heart failure in last year
+20	94870	G580400	121	Congestive heart failure due to valvular disease
+32	12590	G58z.11	120	Weak heart
+55	101137	G583.11	118	HFNEF - heart failure with normal ejection fraction
+22	52127	G211100	93	Benign hypertensive heart disease with CCF
+54	105002	679W100	39	Education about deteriorating heart failure
+46	21837	G232.00	36	Hypertensive heart&renal dis wth (congestive) heart failure
+52	114261	661N500	25	Heart failure self-management plan review
+57	61660	G211000	18	Benign hypertensive heart disease without CCF
+50	57987	G234.00	10	Hyperten heart&renal dis+both(congestv)heart and renal fail
+58	72668	G210100	7	Malignant hypertensive heart disease with CCF
+56	66306	SP11111	5	Heart failure as a complication of care
+59	95334	G210000	5	Malignant hypertensive heart disease without CCF

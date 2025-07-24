@@ -1,0 +1,6 @@
+med_code_id,term,snomed_ct_concept_id,observations
+1485103010,Lumbar DXA scan result osteoporotic,391075000,1577
+2694876017,Lumbar spine DXA scan,428377003,1230
+1485104016,Lumbar DXA scan result osteopenic,391076004,1138
+1485102017,Lumbar DXA scan result normal,391074001,779
+8460401000006119,Lumbar spine DXA scan T score,1083701000000107,449

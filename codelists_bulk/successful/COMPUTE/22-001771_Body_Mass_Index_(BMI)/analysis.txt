@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 15
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId  Observations                                      Term  SNOMED_CT_Concept_ID
+0  100716012      66499074                           Body mass index              60621009
+1  253848011        270339             Body mass index 30+ - obesity             162864005
+2  253847018        235946  Body mass index index 25-29 - overweight             162863004

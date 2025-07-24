@@ -1,0 +1,6 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild,Unnamed: 8,For discussion VFAF
+2118,,,,2263,724,979,0,4435100,Prolactin level raised,2009-02-01 00:00:00,,
+5707,,,,4496,360,0,0,BB5y400,[M]Prolactinoma,2009-02-01 00:00:00,,
+6732,,,,10099,1233,0,0,C131000,Hyperprolactinaemia,2009-02-01 00:00:00,,
+13787,,,,283,266,355660,0,443j.00,Serum prolactin level,2009-02-01 00:00:00,,
+12478,,,,4337,7200,147301,0,4435,Prolactin level,2009-02-01 00:00:00,,

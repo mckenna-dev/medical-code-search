@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/blob/main/Codelists/SM_CL_cirrhosis_type20250224.txt
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22-001873-Evaluation_of_Anaemia_in-Primary_Care_Population/main/Codelists/SM_CL_cirrhosis_type20250224.txt
+Codelist Name: Cirrhosis - Type
+Project Title: Evaluation of Anaemia in a Primary Care Population
+ERAP Number: 22_001273
+Author: Suzanne Maynard
+Coding System: Aurum
+Year Created: 2024
+Downloaded: 2025-06-25 13:25:25
+File Size: 11546 bytes

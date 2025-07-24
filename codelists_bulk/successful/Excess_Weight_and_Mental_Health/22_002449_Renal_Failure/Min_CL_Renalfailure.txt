@@ -1,0 +1,101 @@
+	MedCodeId	Observations	Term	renal_failure
+0	a618391000000118	800	CKD stage 1 with proteinuria	renal_failure
+1	a618401000000115	1000	CKD stage 1 without proteinuria	renal_failure
+2	a618411000000118	2000	CKD stage 2 with proteinuria	renal_failure
+3	a618421000000112	8000	CKD stage 2 without proteinuria	renal_failure
+4	a618431000000114	10000	CKD stage 3 with proteinuria	renal_failure
+5	a618441000000117	30000	CKD stage 3 without proteinuria	renal_failure
+6	a618451000000119	5000	CKD stage 3A with proteinuria	renal_failure
+7	a618461000000116	30000	CKD stage 3A without proteinuria	renal_failure
+8	a618471000000111	6000	CKD stage 3B with proteinuria	renal_failure
+9	a618481000000113	10000	CKD stage 3B without proteinuria	renal_failure
+10	a618491000000110	9000	CKD stage 4 with proteinuria	renal_failure
+11	a618501000000116	6000	CKD stage 4 without proteinuria	renal_failure
+12	a618511000000119	3000	CKD stage 5 with proteinuria	renal_failure
+13	a618521000000113	1000	CKD stage 5 without proteinuria	renal_failure
+14	a7147741000006114	4	CKD stage 1	renal_failure
+15	a7147761000006113	6	CKD stage 2	renal_failure
+16	a7147781000006115	80	CKD stage 4	renal_failure
+17	a7174791000006111	50	CKD stage 3	renal_failure
+18	a7174851000006111	40	CKD stage 5	renal_failure
+19	a305192017	300	[X]Other chronic renal failure	renal_failure
+20	a354406016	100000	Renal impairment	renal_failure
+21	a354409011	100000	Chronic renal impairment	renal_failure
+22	a354417015	4000	Acute-on-chronic renal failure	renal_failure
+23	a509111010	400000	Chronic renal failure	renal_failure
+24	a595541000000119	800	Chronic kidney disease stage 1 with proteinuria	renal_failure
+25	a595601000000118	1000	Chronic kidney disease stage 1 without proteinuria	renal_failure
+26	a595661000000119	3000	Chronic kidney disease stage 2 with proteinuria	renal_failure
+27	a595721000000116	9000	Chronic kidney disease stage 2 without proteinuria	renal_failure
+28	a595811000000117	30000	Chronic kidney disease stage 3 with proteinuria	renal_failure
+29	a595871000000110	100000	Chronic kidney disease stage 3 without proteinuria	renal_failure
+30	a595931000000116	10000	Chronic kidney disease stage 3A with proteinuria	renal_failure
+31	a595991000000115	80000	Chronic kidney disease stage 3A without proteinuria	renal_failure
+32	a596051000000115	10000	Chronic kidney disease stage 3B with proteinuria	renal_failure
+33	a596131000000114	30000	Chronic kidney disease stage 3B without proteinuria	renal_failure
+34	a596191000000110	20000	Chronic kidney disease stage 4 with proteinuria	renal_failure
+35	a596261000000111	20000	Chronic kidney disease stage 4 without proteinuria	renal_failure
+36	a596321000000110	5000	Chronic kidney disease stage 5 with proteinuria	renal_failure
+37	a596401000000111	2000	Chronic kidney disease stage 5 without proteinuria	renal_failure
+38	a619541000006116	10000	Dialysis for renal failure	renal_failure
+39	a1212359014	2	Renal failure NOS following abortive pregnancy	renal_failure
+40	a1221119015	100	ARF - Acute renal failure	renal_failure
+41	a1705781000006113	500	Acute renal failure due to obstruction	renal_failure
+42	a176741000006110	5	Renal failure after crushing	renal_failure
+43	a176771000006119	100	Renal failure following crush syndrome	renal_failure
+44	a1816581000006110	700	Kidney failure unspecified	renal_failure
+45	a1847641000006114	60	Acute renal failure induced by non-steroidal anti-inflammatory drug	renal_failure
+46	a216921000006111	9	Post-delivery acute renal failure - delivered with p/n prob	renal_failure
+47	a2180741000000113	1	Acute renal failure induced by aminoglycoside	renal_failure
+48	a2180901000000112	2	Acute renal failure induced by cyclosporin A	renal_failure
+49	a218351000000112	200	Post operative renal failure	renal_failure
+50	a2184271000000115	90	Acute renal failure due to non-traumatic rhabdomyolysis	renal_failure
+51	a2191301000000116	60	Acute renal failure induced by radiographic contrast media	renal_failure
+52	a2198081000000118	60	Acute renal failure due to traumatic rhabdomyolysis	renal_failure
+53	a2214211000000112	20	Acute renal failure induced by toxin	renal_failure
+54	a228211000006117	40	Placement other apparatus for compensation for renal failure	renal_failure
+55	a259688011	50000	Renal function tests abnormal	renal_failure
+56	a2645796013	1000	Acute renal failure due to ACE inhibitor	renal_failure
+57	a2767154014	1000	Chronic kidney disease stage 5	renal_failure
+58	a2767383018	90	Chronic kidney disease stage 1	renal_failure
+59	a2767384012	800	Chronic kidney disease stage 2	renal_failure
+60	a2767385013	3000	Chronic kidney disease stage 4	renal_failure
+61	a2773184015	20000	Chronic kidney disease stage 3	renal_failure
+62	a278834012	20	Other specified compensation for renal failure	renal_failure
+63	a278835013	10	Compensation for renal failure NOS	renal_failure
+64	a299665018	1000	Hypertensive renal disease with renal failure	renal_failure
+65	a299673010	100	Hypertensive heart and renal disease with renal failure	renal_failure
+66	a303915016	600	Other acute renal failure	renal_failure
+67	a303916015	3000	Acute renal failure NOS	renal_failure
+68	a303943013	20000	Impaired renal function disorder	renal_failure
+69	a303949012	200	Other impaired renal function disorder	renal_failure
+70	a303960015	2000	Impaired renal function disorder NOS	renal_failure
+71	a304031000000117	40000	Chronic kidney disease stage 1	renal_failure
+72	a304051000000112	200000	Chronic kidney disease stage 2	renal_failure
+73	a304071000000115	3000000	Chronic kidney disease stage 3	renal_failure
+74	a304091000000116	500000	Chronic kidney disease stage 4	renal_failure
+75	a304111000000114	100000	Chronic kidney disease stage 5	renal_failure
+76	a305191012	400	[X]Other acute renal failure	renal_failure
+77	a305569011	50	Renal failure following abortive pregnancy	renal_failure
+78	a305571011	9	Acute renal failure following abortive pregnancy	renal_failure
+79	a307550017	10	Post-delivery acute renal failure unspecified	renal_failure
+80	a3245851000006118	900	ESRF - End stage renal failure	renal_failure
+81	a354407013	60000	Impaired renal function	renal_failure
+82	a354413016	700	Acute drug-induced renal failure	renal_failure
+83	a356557018	100	Renal failure-associated hyperphosphataemia	renal_failure
+84	a394639018	900	Compensation for renal failure	renal_failure
+85	a396711013	60000	RF - Renal failure	renal_failure
+86	a396713011	100	Other impaired renal function disorder NOS	renal_failure
+87	a402249011	100	Congenital renal failure	renal_failure
+88	a403109016	300	Renal failure as a complication of care	renal_failure
+89	a403110014	100	Kidney failure as a complication of care	renal_failure
+90	a424731000006111	10000	Renal failure	renal_failure
+91	a459420012	20000	Deteriorating renal function	renal_failure
+92	a460091000006111	100000	Acute renal failure	renal_failure
+93	a460121000006110	40	Acute renal failure following labour and delivery	renal_failure
+94	a481692010	2000	Acute renal failure due to rhabdomyolysis	renal_failure
+95	a557811000000119	100000	Chronic kidney disease stage 3A	renal_failure
+96	a557831000000110	60000	Chronic kidney disease stage 3B	renal_failure
+97	a641471000006117	8000	End stage renal failure	renal_failure
+98	a886631000006110	1000	Renal failure NOS	renal_failure
+99	a887731000006115	2000	Renal failure	renal_failure

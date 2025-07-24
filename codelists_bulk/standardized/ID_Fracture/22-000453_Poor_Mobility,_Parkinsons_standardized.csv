@@ -1,0 +1,430 @@
+med_code_id,term,snomed_ct_concept_id,observations
+19943011,Quadriplegia,11538006,10000
+19944017,Tetraplegia,11538006,10000
+66483014,Hereditary spastic paraplegia,39912006,8000
+69671016,Monoplegia of upper limb,41764006,700
+72531016,Infantile hemiplegia,1593000,4000
+84272011,Hemiplegia,50582007,30000
+89919017,Diplegia of upper limbs,54099005,300
+100323011,Paraplegia,60389000,50000
+132112014,Spastic hemiplegia,79633009,4000
+133450019,Monoplegia of lower limb,80420005,800
+134251013,Flaccid hemiplegia,80935004,100
+254829017,O/E - hemiplegia,163601006,4000
+254830010,O/E - monoplegia,163602004,500
+254833012,O/E - paraplegia,163604003,1000
+254834018,O/E - quadriplegia,163605002,2000
+254835017,O/E - diplegia,163606001,3000
+297210016,Hemiplegia NOS,50582007,4000
+297221013,Congenital paraplegia,192949002,200
+297223011,Congenital diplegia NOS,58193001,600
+297232013,Infantile hemiplegia NOS,1593000,2000
+297241015,Flaccid tetraplegia,192964002,90
+297242010,Spastic tetraplegia,192965001,5000
+297243017,Flaccid paraplegia,192966000,600
+297244011,Spastic paraplegia,192967009,10000
+297246013,Monoplegia unspecified,86022000,300
+411455012,Congenital quadriplegia,275468009,2000
+411456013,Congenital diplegia,58193001,3000
+415146010,Right hemiplegia,278284007,20000
+415147018,Left hemiplegia,278285008,20000
+494103012,Tropical spastic paraplegia,714279000,300
+497600015,Congenital monoplegia,56409008,200
+110721000006114,Tetraplegia - congenital,275468009,50
+223801000000115,Paraplegia - congenital,192949002,20
+543071000006115,Cerebral palsy with spastic diplegia,230773005,10000
+716831000006114,Massive muscular calcification associated with paraplegia,82725007,20
+856091000006114,Right hemiplegia,856091000006105,20
+857181000006110,Left hemiplegia,857181000006106,7
+905891000006114,[RFC] Paraplegias,905891000006105,5
+2603391000006117,Diplegia,6481005,10
+2655381000006112,Triplegia,9753004,2
+3142331000006112,HSP - Hereditary spastic paraplegia,39912006,1
+3200351000006114,Congenital hemiplegia,43486001,1
+3247231000006116,Progressive external ophthalmoplegia,46252003,2
+3898311000006115,Monoplegia,86022000,6
+5611491000006112,LT - Left hemiplegia,278285008,1
+5651361000006115,Spastic diplegia,281411007,20
+6029971000006116,Residual hemiplegia,313434001,1
+6703111000006118,Alternating hemiplegia,404689008,1
+7828621000006116,"Spastic paraplegia, intellectual disability, palmoplantar hyperkeratosis syndrome",722209002,1
+7951441000006113,Autosomal recessive spastic paraplegia disc herniation syndrome,732933009,1
+8089531000006113,Incomplete paraplegia,290411000119106,1
+250468012,Mobile outside with aid,160681005,200000
+250474012,Immobile,102491009,30000
+250488011,Mobility very poor,160692006,60000
+250489015,Mobility poor,160693001,300000
+311615015,Immobility syndrome,203041005,5000
+317082017,Poor mobility,160693001,20000
+460845011,Reduced mobility,8510008,100000
+505366010,Impaired mobility,82971005,40000
+336481000006119,[V] Poor mobility,8510008,8000
+785381000006113,Immobile,102491009,30000
+909161000006110,[RFC] Mobility problem,909161000006106,3000
+926191000006118,Immobile,926191000006102,1
+955281000006117,M1 - restricted/very restricted mobility,955281000006101,1
+982491000006119,Reduced mobility,982491000006103,5000
+1776821000006118,Reason for referral: Mobility Problems,1776821000006102,400
+1817081000006119,[D]Immobility,102491009,2000
+1817441000006119,[V]Need for assistance due to reduced mobility,8510008,2000
+1850141000006115,Response to treatment - mobility not improved,1850141000006104,60
+1877251000006112,Significant mobility issues,1877251000006108,1
+2635911000006119,Limited mobility,8510008,30
+2665031000006117,Musculoskeletal hypomobility,10379002,2
+4720551000006115,Mobility aid,183135000,700
+4720561000006118,Mobility aids,183135000,800
+4720571000006113,Equipment to aid mobility,183135000,30
+5190971000006110,Provision of mobility device,243751002,200
+5190991000006111,Provision of mobility aid,243751002,10
+5606051000006118,Immobility stiffness,277892007,20
+5894511000006114,Unable to mobilise indoors,301498003,40
+5894591000006116,Difficulty mobilising indoors,301501003,60
+5895351000006118,Unable to mobilise outside,301564009,200
+5895411000006112,Does not mobilise outside,301566006,20
+5895441000006111,Difficulty mobilising outside,301568007,200
+5895461000006110,Ability to mobilise using mobility aids,301569004,300
+5895481000006117,Able to mobilise using mobility aids,301570003,300
+5895501000006110,Unable to mobilise using mobility aids,301571004,50
+5895521000006117,Does mobilise using aids,301572006,70
+5895561000006111,Does not mobilise using mobility aids,301573001,20
+5895581000006118,Difficulty mobilising using mobility aids,301574007,20
+5895601000006111,Ability to mobilise using wheelchair,301575008,80
+5895621000006118,Able to mobilise using wheelchair,301576009,20
+5895641000006113,Unable to mobilise using wheelchair,301577000,4
+5895661000006112,Does mobilise using wheelchair,301578005,40
+5895701000006116,Does not mobilise using wheelchair,301579002,40
+5895721000006114,Difficulty mobilising using wheelchair,301580004,2
+5902051000006118,Unable to mobilise,302043000,80
+5902061000006116,Unable to mobilize,302043000,1
+5902131000006114,Difficulty mobilising,302046008,400
+7726321000006111,Unable to mobilise in home,715000004,1
+8195291000006118,Dependent lymphoedema due to immobility,519381000000101,1
+8447331000006112,Does mobilise using mobility scooter,1073861000000108,1
+14061211000006116,Limited mobility,82971005,5
+97947014,Wheelchair,58938008,9000
+216597017,Wheelchair applied for,135837009,20000
+256964013,Independent in wheelchair,165243005,100000
+256965014,Minimal help in wheelchair,165244004,8000
+332887011,Fall from wheelchair,17886000,200
+332896011,"[X]Fall involving wheelchair, occurrence on farm",17886000,3
+342730011,Provision of wheelchair,228613001,1000
+460705012,Dependence on wheelchair,105503008,20000
+460879012,[V]Fitting or adjustment of wheelchair,859331000000109,4000
+1221608017,[X]Fall involving wheelchair,17886000,300
+2160059012,Referred for wheelchair assessment,408509005,70000
+2474670012,Dependent on helper pushing wheelchair,413121008,8000
+147511000006117,Self-propelled wheelchair,183240000,1000
+385311000006119,"[X]Fall involv wheelchair, occurrnce at indust/constr area",17886000,1
+385321000006110,"[X]Fall involv wheelchair, occurrnce at other specif place",17886000,6
+385581000006118,[X]Fall involving wheelchair occurrnce at unspecified place,17886000,7
+385611000006114,"[X]Fall involving wheelchair, occurrence on street/highway",17886000,30
+385621000006118,"[X]Fall involving wheelchair, occurrn at sport/athlet area",17886000,2
+385631000006115,[X]Fall involvng wheelchair occurrence residential instit'n,17886000,30
+385641000006113,[X]Fall involvng wheelchair occurrnce at trade/service area,17886000,2
+498651000006112,Attendant powered wheelchair,183248007,1000
+926201000006115,Independent in wheelchair,926201000006104,1
+926211000006117,Minimal help in wheelchair,926211000006101,2
+1138691000000117,Wheelchair in need of repair,473191002,100
+1138731000000111,Wheelchair in good repair,473192009,50
+1965091000006116,Wheelchair assessment,1965091000006100,900
+2223221000000114,Modification of wheelchair,859331000000109,70
+2301471000000110,Referral to wheelchair service,894131000000102,10000
+3457491000006116,Wheelchair device,58938008,200
+4421501000006118,Using wheelchair,129015001,4
+4721471000006116,Pedal powered wheelchair,183241001,6
+4721551000006110,Wheelchair seating,183249004,80
+4721561000006112,Moulded wheelchair seat,183250004,2
+4944071000006117,Wheelchair bound,225612007,80
+4944091000006116,Dependent on wheelchair,225612007,1
+4985441000006113,Manual wheelchair,228869008,30
+5703341000006118,Controlling electric wheelchair training,285595008,3
+5904841000006115,Ability to perform wheelchair transfers,302268006,60
+5904851000006118,Able to perform wheelchair transfers,302269003,10
+5904861000006116,Unable to perform wheelchair transfers,302270002,7
+5904891000006112,Does not perform wheelchair transfers,302272005,3
+5904901000006111,Difficulty performing wheelchair transfers,302273000,6
+5904911000006114,Ability to transfer between wheelchair and toilet,302274006,3
+7021451000006115,Wheelchair tolerance assessment,424184006,1
+7601441000006116,Electric-motor-driven wheelchair,705423000,1
+7691641000006116,Requires supervision to perform wheelchair transfer,712501004,1
+8063241000006118,Uses wheelchair indoors,203241000000107,100
+8063251000006116,Uses wheelchair outdoors,203251000000105,200
+8261891000006116,Referral for wheelchair assessment,812931000000109,700
+8423521000006111,Recommendation on wheelchair requirement,1045421000000103,1
+14282331000006116,Referred to wheelchair service,14282331000006100,20
+124598014,Athetoid cerebral palsy,75019001,3000
+206411014,Cerebral palsy,128188000,10000
+297233015,Other congenital cerebral palsy,128188000,300
+297234014,Ataxic infantile cerebral palsy,278512001,700
+297238012,Other infantile cerebral palsy NOS,128188000,2000
+297239016,Congenital cerebral palsy NOS,128188000,10000
+299393011,[X]Cerebral palsy and other paralytic syndromes,408371000000100,2000
+299394017,[X]Other infantile cerebral palsy,128188000,300
+345771011,Infantile cerebral palsy,128188000,10000
+345773014,Spastic cerebral palsy,230773005,10000
+345780011,Dyskinetic cerebral palsy,230780007,900
+411453017,Congenital cerebral palsy,128188000,80000
+411454011,Congenital spastic cerebral palsy,230773005,1000
+451123015,"Cerebral palsy, not congenital or infantile, acute",307756005,2000
+2475877015,Ataxic diplegic cerebral palsy,58193001,800
+3509879014,Neuromuscular scoliosis due to cerebral palsy,330471000119101,1
+497021000006113,Athetoid cerebral palsy,75019001,1000
+761411000006111,Flaccid infantile cerebral palsy,192958009,8
+907241000006111,[RFC] Cerebral palsy,907241000006107,3000
+907411000006113,[RFC] Cerebral palsy,907411000006109,300
+1776511000006112,Reason for referral: Cerebral Palsy,1776511000006108,4
+1815931000006114,Spastic diplegic cerebral palsy,58193001,700
+1815951000006119,Spastic quadriplegic cerebral palsy,48721008,2000
+1815971000006112,Other cerebral palsy,128188000,400
+1815981000006110,Cerebral palsy NOS,128188000,900
+1882961000006112,Gross Motor Function Classification System for Cerebral Palsy level I,881521000000108,30
+1882971000006117,Gross Motor Function Classification System for Cerebral Palsy level II,881541000000101,50
+1882981000006119,Gross Motor Function Classification System for Cerebral Palsy level III,882021000000108,20
+1882991000006116,Gross Motor Function Classification System for Cerebral Palsy level IV,882041000000101,40
+1883001000006115,Gross Motor Function Classification System for Cerebral Palsy level V,882061000000100,30
+1900531000006119,Surveillance of Cerebral Palsy in Europe classification - predominant pattern A - maldevelopment,914411000000107,1
+1900541000006112,Surveillance of Cerebral Palsy in Europe classification - predominant pattern A.1.1 - disorder of proliferation,914661000000107,1
+1900551000006114,Surveillance of Cerebral Palsy in Europe classification - predominant pattern A.1.2 - disorder of migration,914681000000103,1
+1900561000006111,Surveillance of Cerebral Palsy in Europe classification - predominant pattern A.1.3 - disorder of organisation,914701000000101,3
+1900571000006116,Surveillance of Cerebral Palsy in Europe classification - predominant pattern A.2 - unspecified maldevelopment,914751000000100,1
+1900581000006118,Surveillance of Cerebral Palsy in Europe classification - predominant pattern B - predominant white matter injury,914431000000104,1
+1900591000006115,Surveillance of Cerebral Palsy in Europe classification - predominant pattern B.1 - periventricular leucomalacia,914871000000104,20
+1900601000006111,Surveillance of Cerebral Palsy in Europe classification - predominant pattern B.2 - sequelae of intraventricular haemorrhage or periventricular infarction,914891000000100,3
+1900611000006114,Surveillance of Cerebral Palsy in Europe classification - predominant pattern B.3 - combination of periventricular leucomalacia and intraventricular haemorrhage sequelae,914911000000102,5
+1900621000006118,Surveillance of Cerebral Palsy in Europe classification - predominant pattern C - predominant grey matter injury,914451000000106,1
+1900631000006115,Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.1 - basal ganglia and thalamus lesions,914951000000103,7
+1900641000006113,Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.2 - parasagittal lesions,914971000000107,2
+1900651000006110,Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.3 - infarct of the middle cerebral artery,914991000000106,100
+1900661000006112,Surveillance of Cerebral Palsy in Europe classification - predominant pattern D - unspecified,914491000000103,1
+1900671000006117,Surveillance of Cerebral Palsy in Europe classification - predominant pattern E - normal,914931000000105,1
+2122001000000116,Spastic hemiplegic cerebral palsy,813921000000104,600
+2283041000000116,Choreo-athetotic cerebral palsy,885831000000109,10
+2283831000000117,Choreoathetoid cerebral palsy,885831000000109,70
+2326271000000114,Bilateral spastic cerebral palsy,904531000000100,200
+3200341000006112,Hemiplegic cerebral palsy,43486001,4
+3288331000006116,Quadriplegic cerebral palsy,48721008,30
+3445431000006112,Diplegic cerebral palsy,58193001,500
+3445451000006117,Spastic diplegic cerebral palsy,58193001,30
+4769391000006119,Hypotonic cerebral palsy,192958009,20
+5012421000006114,Dystonic/rigid cerebral palsy,230781006,4
+5614181000006116,Ataxic cerebral palsy,278512001,2
+7557921000006113,Dystonic cerebral palsy,702315006,10
+7557961000006119,Bilateral cerebral palsy,702319000,2
+7557971000006114,Bilateral spastic cerebral palsy,702319000,2
+8307611000006113,GMFCS (Gross Motor Function Classification System) for Cerebral Palsy level II,881541000000101,2
+8308141000006118,GMFCS (Gross Motor Function Classification System) for Cerebral Palsy level III,882021000000108,1
+8308171000006114,GMFCS (Gross Motor Function Classification System) for Cerebral Palsy level IV,882041000000101,1
+8308201000006113,GMFCS (Gross Motor Function Classification System) for Cerebral Palsy level V,882061000000100,1
+12465281000006112,[X]Cerebral palsy and other paralytic syndromes,408371000000100,10
+254908010,O/E - muscle tone spastic,163650000,2000
+254948019,O/E - gait spastic,163685000,800
+254949010,O/E - spastic gait,163685000,300
+283317016,Exercises for spasticity,183292009,400
+312267014,Peroneal spastic flat foot,203533003,200
+317122017,Spastic gait,9447003,3000
+345779013,Congenital spastic foot,230779009,70
+450556015,Spastic foot,307324001,400
+1488401018,Lower limb spasticity,394679006,6000
+1488402013,Upper limb spasticity,394680009,2000
+132691000006110,Spastic flat foot,23407003,200
+851371000006119,Spastic paraparesis,851371000006103,2000
+1747851000000119,Worsening limb spasticity,781781000000104,1000
+4914481000006118,Spasticity,221360009,40
+5850721000006110,Spastic tetraparesis,298282001,2
+5850731000006113,Spastic quadriparesis,298282001,1
+6016441000006118,Spastic paraparesis,312444006,30
+7717311000006111,Tropical spastic paraparesis,714279000,30
+13503061000006114,"Early-onset spastic ataxia, myoclonic epilepsy, neuropathy syndrome",771469002,1
+250470015,Needs walking aid in home,160683008,100000
+256974011,Walking aid use,165251008,30000
+256976013,Stick only for walking,165253006,90000
+256977016,Tripod/quadrupod: walking,165254000,10000
+256979018,Walking aid use - finding,365112008,20000
+256986014,Walking distance,165263003,70000
+256987017,Walks in 1 minute 0-29 metres,165264009,4000
+256990011,Walks in 1 minute 30-59 metres,165265005,6000
+283114017,Walking tripod,183147006,300
+283277011,Loan of walking stick,183259003,4000
+310951016,Walking difficulty due to unspecified site,228158008,9000
+310952011,Walking difficulty due to pelvic region and thigh,202567001,300
+310954012,Walking difficulty due to lower leg,202569003,500
+310955013,Walking difficulty due to ankle and foot,202570002,1000
+310956014,Walking difficulty due to other specified site,228158008,100
+310957017,Walking difficulty due to multiple sites,202572005,80
+310958010,Difficulty walking,719232003,6000
+318012012,"[X]Difficulty in walking, not elsewhere classified",228158008,800
+370598017,Walking distance reduced,248244005,4000
+372929017,Toe-walking gait,250018006,10000
+397184014,Walking frame,266731002,5000
+415746019,Walking orthosis,278738003,300
+420456015,Difficulty walking up stairs,282195009,10000
+1208958014,Asthma limits walking on the flat,370206005,30000
+1208959018,Asthma limits walking up hills or stairs,370207001,100000
+1780368017,Not yet walking,401169009,6000
+2838091011,Uses two crutches for walking,443663000,2000
+2838470011,Uses single walking stick,443320005,20000
+2840178012,Uses single crutch for walking,443392007,1000
+2840316012,Uses two walking sticks,443699005,2000
+620911000006112,Walking disability,228158008,70000
+917501000006114,Loan of walking stick,917501000006105,10
+926321000006118,Stick only for walking,926321000006102,4
+926351000006110,Other walking aid,926351000006106,1
+1723151000006111,LS:Very restricted mob-using crutches/walking stick if appro,1723151000006107,1
+1723171000006118,Res:Very restrict mob-using crutches/walking stick if appro,1723171000006102,4
+1752161000000112,Deterioration in ability to walk,711387003,3000
+1754901000000116,Deterioration in ability to walk up stairs,707261001,100
+1958331000006117,Loan of other walking aid,1958331000006101,70
+2377911000000114,Ischaemic foot pain when walking,713674006,100
+2860691000006110,Unsteady when walking,22631008,600
+4933731000006116,Walking aid,224899006,200
+4976511000006110,Impaired walking,228158008,1
+5250611000006116,Repetitive tiptoe walking,247940006,40
+5279701000006115,Toe walking,250018006,30
+5660941000006115,Unable to walk,282145008,300
+5660971000006111,Does not walk,282147000,8
+5661021000006115,Unable to walk on the flat,282150002,2
+5661091000006118,Difficulty walking on the flat,282153000,6
+5661291000006114,Unable to walk up hill,282168004,2
+5661361000006111,Difficulty walking up hill,282171007,10
+5661751000006110,Does not walk up stairs,282194008,50
+5661811000006117,Unable to walk down stairs,282198006,1
+5661851000006116,Difficulty walking down stairs,282201001,3
+5661891000006110,Unable to initiate walking,282204009,20
+5661931000006118,Difficulty initiating walking,282207002,2
+5661971000006115,Does stop walking,282211008,2
+5662081000006114,Difficulty in starting and stopping walking spontaneously,282220004,4
+5662181000006110,Unable to walk heel to toe,282229003,1
+5662211000006114,Does not walk heel to toe,282231007,3
+5662221000006118,Difficulty walking heel to toe,282232000,10
+6209201000006117,Walking stick,360006004,5
+7074981000006116,Dependent for walking,427512004,100
+7308591000006113,Three wheeled walking frame,445467007,30
+7601301000006110,Walker/Walking frame,705404007,1
+7601311000006113,Walker,705406009,1
+7601321000006117,Walking stick/Crutches,705407000,1
+8061671000006112,Able to walk short distances,201771000000108,30
+253033018,Incoordination symptom NOS,267083009,4000
+317126019,Lack of coordination,281016006,9000
+317128018,Muscular incoordination,39384006,400
+317130016,Incoordination,281016006,2000
+318014013,Incoordination,281016006,2000
+397975013,Incoordination symptom,267083009,200000
+1807081000006117,Incoordination,281016006,40
+5905091000006116,Coordination problem,302289002,200
+5905101000006110,Abnormal coordination,302289002,1
+6992151000006119,Decreased coordination,422576004,4
+255070013,O/E - generally off balance,163774005,4000
+372880015,Feels off balance,249983008,100000
+420581019,Unable to balance,282299006,6000
+528701000000112,Disorder of gait and/or balance present,299031000000106,10000
+960081000006110,Decreased balance,960081000006106,2000
+1746251000000117,Worsening balance,781091000000100,5000
+2734131000000113,Unable to balance when standing with feet apart,1091551000000101,1
+2734151000000118,Unable to balance when standing with feet together,1091561000000103,1
+2734171000000110,Unable to balance when standing with feet in semi-tandem stance,1091571000000105,3
+2734191000000114,Unable to balance when standing with feet in tandem stance,1091581000000107,3
+5279201000006112,Keeps losing balance,249984002,20
+5279211000006110,Poor balance,249985001,200
+5663051000006111,Loss of balance,282299006,300
+5663121000006118,Unable to balance when sitting,282305008,10
+5663191000006116,Unable to balance when standing,282311006,3
+5687251000006114,Unable to balance when bending,284411006,8
+5687311000006116,Unable to balance when reaching,284416001,5
+6474321000006110,Impairment of balance,387603000,500
+6474331000006113,Problem with balance,387603000,2
+6474341000006115,Balance impairment,387603000,2
+7070881000006116,Assessment of sense of balance,427226009,200
+7139721000006113,Abnormal gait due to impairment of balance,431524008,6
+37486015,Abnormal gait,22325002,3000
+254950010,O/E - ataxic gait,163686004,900
+254951014,O/E - gait ataxic,163686004,2000
+254956016,O/E - waddling gait,163688003,2000
+254957013,O/E - steppage gait,163689006,800
+254958015,O/E - hysterical gait,163690002,200
+254959011,O/E - limping gait,163691003,100000
+283116015,Reciprocating gait orthosis,183148001,20
+317119019,Gait abnormality,22325002,100000
+317120013,Ataxic gait,25136009,5000
+317121012,[D]Paralytic gait,9447003,100
+317123010,Staggering gait,78691002,4000
+317125015,[D]Gait abnormality NOS,22325002,30000
+318013019,Abnormal gait,22325002,10000
+402512016,O/E-festination-Parkinson gait,268964003,2000
+402514015,O/E - Parkinson gait,268964003,3000
+1780406017,Tandem gait test - abnormal,401211005,500
+855501000006118,Child gait abnormal,855501000006102,10000
+931931000006114,Unsteady gait [D],496121000000100,70
+960101000006119,Gait/ambulation disturbance,960101000006103,300
+961101000006112,Gait training,961101000006108,20
+1832041000006117,Physiotherapy treatment modality: gait re-education,1832041000006101,1
+1916131000006112,CHSP-PS recall: gait abnormal,1916131000006108,1
+1916141000006119,CHSP-PS recall: gait uncertain,1916141000006103,1
+1919151000006111,CHSP-PS unsched. contact: gait abnormal,1919151000006107,1
+1919161000006113,CHSP-PS unsched. contact: gait uncertain,1919161000006109,1
+2851781000006118,Scissoring gait,22090007,1
+2855721000006115,Gait problem,22325002,4
+2901631000006114,Broadened gait,25136009,1
+2936611000006117,Foot-drop gait,27253007,30
+2936661000006119,Equinus gait,27253007,2
+2995971000006117,Gait apraxia,30767006,10
+3006931000006110,Flat-footed gait,31464009,1
+3146601000006114,Trendelenburg gait,40192003,4
+3193361000006116,Shuffling gait,43005009,60
+3355321000006110,Hemiplegic gait,52751000,2
+3717881000006119,Gait training procedure,74914000,100
+4996601000006118,Full weight-bearing gait training,229598006,3
+4996621000006111,Partial weight-bearing gait training,229599003,2
+4996681000006110,Weight-bearing gait training,229602008,6
+4996701000006113,Touch weight-bearing gait training,229603003,3
+4996811000006119,Gait training on stairs,229608007,2
+5279451000006112,Low level sensorimotor gait disorder,250003005,1
+5279651000006114,Stiff legged gait,250013002,5
+5279661000006111,Stiff knee gait,250014008,2
+5279671000006116,Arthritic gait,250015009,4
+5279711000006117,In-toeing gait,250019003,200
+5279731000006111,Bouncy gait,250021008,1
+5279741000006118,Lurching gait,250023006,1
+5279791000006110,Spinning gait,250028002,1
+5279851000006110,Paraplegic gait,250035005,1
+5279871000006117,Parkinsonian gait,250036006,1
+5279971000006111,Cautious gait,250044006,6
+5528091000006114,Waddling gait,271706000,2
+6280821000006116,Cerebellar ataxic gait,365884000,1
+6545931000006115,Unsteady gait,394616008,2000
+6545941000006113,Instability of gait,394616008,1
+6599841000006110,Accelerating gait,398218008,3
+7083741000006117,Multifactorial gait problem,428116008,1
+8021761000006115,Functional gait abnormality,69161000119103,3
+8265371000006112,Hip hitching gait,817531000000100,1
+8268721000006116,Trunk lateral leaning gait,821101000000100,4
+8268731000006118,Forward trunk flexion gait,821111000000103,5
+8268761000006110,Hip circumduction gait,821131000000106,2
+254939012,O/E - hemiplegic posture,163676000,200
+254940014,O/E - paraplegic in flexion,163677009,60
+254941013,O/E - paraplegic in extension,163678004,10
+5528021000006112,Hemiplegic posture,271701005,2
+6349391000006117,Tetraplegic spinal paralysis,371120001,1
+33622011,Postencephalitic parkinsonism,19972008,70
+64875013,Syphilitic parkinsonism,38523005,10
+81717011,Parkinson's disease,49049000,1000000
+295688010,Dementia in Parkinsons disease,425390006,30000
+297037012,Parkinson's disease NOS,49049000,70000
+297043014,Orthostatic hypotension co-occurrent and due to Parkinson's disease,718685006,800
+345121017,Vascular parkinsonism,230296006,10000
+2841061014,"Multiple system atrophy, Parkinson variant",444197004,300
+636681000000117,Cerebral degeneration in Parkinson's disease,341551000000108,200
+905821000006112,[RFC] Parkinson's disease,905821000006108,2000
+909021000006117,[RFC] Parkinson's disease,909021000006101,5000
+1148731000000112,History of Parkinson's disease,515841000000104,3000
+3293631000006118,Idiopathic Parkinson's disease,49049000,300
+3293641000006111,Parkinson disease,49049000,80
+3293661000006110,Parkinsons disease,49049000,100
+3511181000006115,Parkinson-dementia complex of Guam,62239001,2
+7043651000006119,Dementia associated with Parkinson's Disease,425390006,100
+7043661000006117,Dementia associated with Parkinson Disease,425390006,2
+7289421000006111,"Multiple system atrophy, Parkinson's variant",444197004,4
+7560531000006110,Frontotemporal dementia with parkinsonism-17,702429008,1
+7730811000006111,Early onset Parkinson disease,715345007,2
+7790241000006117,Psychosis co-occurrent and due to Parkinson's disease,719717006,3
+8031751000006119,Dementia due to Parkinson's disease,101421000119107,20
+8031761000006117,Dementia due to Parkinsons disease,101421000119107,1

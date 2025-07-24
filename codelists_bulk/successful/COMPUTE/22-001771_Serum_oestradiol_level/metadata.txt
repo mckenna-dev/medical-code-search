@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Biomarkers/Oestradiol_with_SNOMED_Update.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/main/Codelists/Biomarkers/Oestradiol_with_SNOMED_Update.csv
+Codelist Name: Serum oestradiol level
+Project Title: COMPUTE
+ERAP Number: 22-001771
+Author: Cynthia Wrght Drakesmith
+Coding System: Aurum
+Year Created: 2023
+Downloaded: 2025-06-25 13:28:31
+File Size: 166 bytes

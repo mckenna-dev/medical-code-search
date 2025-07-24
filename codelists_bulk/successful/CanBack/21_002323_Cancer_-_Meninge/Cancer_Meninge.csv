@@ -1,0 +1,5 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1815,Cancer,Meninge,a312361000006114,"[M]Meningioma, malignant",L1:Cancer_L2:Meninge,BBd2.00
+1816,Cancer,Meninge,a310971000006117,[M]Leptomeningeal sarcoma,L1:Cancer_L2:Meninge,BBd2.11
+1817,Cancer,Meninge,a312391000006118,[M]Meningothelial sarcoma,L1:Cancer_L2:Meninge,BBd2.12
+1818,Cancer,Meninge,a312331000006117,[M]Meningeal sarcomatosis,L1:Cancer_L2:Meninge,BBdB.00

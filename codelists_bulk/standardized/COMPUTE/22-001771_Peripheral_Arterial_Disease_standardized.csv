@@ -1,0 +1,54 @@
+med_code_id,term,snomed_ct_concept_id,observations
+14180191000006115,Intermittent claudication of bilateral lower limbs due to atherosclerosis of nonbiological bypass graft (finding),16013431000119104,2
+350533013,Peripheral ischemia (disorder),233958001,8000
+350535018,Peripheral ischemia (disorder),233958001,10000
+5057981000006111,Peripheral ischemia (disorder),233958001,1
+742481000006118,Lower limb ischemia (disorder),233961000,30000
+5058071000006110,Lower limb ischemia (disorder),233961000,4000
+5058081000006113,Lower limb ischemia (disorder),233961000,4
+5058091000006111,Lower limb ischemia (disorder),233961000,2
+443199013,Ischemic foot (disorder),301755001,10000
+5898341000006114,Ischemic foot (disorder),301755001,2
+5967911000006119,Trash foot (disorder),307406004,2
+450665015,Ischemic toe (disorder),307408003,10000
+1847121000006114,Peripheral arterial occlusive disease (disorder),399957001,20000
+6632221000006112,Peripheral arterial occlusive disease (disorder),399957001,2000
+6632251000006115,Peripheral arterial occlusive disease (disorder),399957001,2
+6632271000006113,Peripheral arterial occlusive disease (disorder),399957001,5
+7848701000006116,Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus (disorder),723870003,10
+13944841000006117,Peripheral arterial disease (disorder),840580004,700
+13944851000006115,Peripheral arterial disease (disorder),840580004,1
+13944861000006118,Peripheral arterial disease (disorder),840580004,2
+12122231000006112,Pain at rest of bilateral lower limbs due to atherosclerosis (disorder),12236991000119103,1
+302011,Peripheral angiopathy due to diabetes mellitus (disorder),127014009,3000
+4392221000006118,Peripheral angiopathy due to diabetes mellitus (disorder),127014009,6
+5058111000006119,Critical lower limb ischemia (disorder),233962007,400
+5058121000006110,Critical lower limb ischemia (disorder),233962007,30
+5886711000006111,Ischemia of feet (disorder),300917007,200
+84781000006112,Peripheral angiopathy due to type 1 diabetes mellitus (disorder),31211000119101,2
+913931000006116,Peripheral angiopathy due to type 1 diabetes mellitus (disorder),31211000119101,20
+913941000006114,Peripheral angiopathy due to type 1 diabetes mellitus (disorder),31211000119101,2
+6021731000006115,Critical ischemia of foot (disorder),312822006,80
+6021741000006113,Critical ischemia of foot (disorder),312822006,2
+459306016,Peripheral angiopathy due to type 2 diabetes mellitus (disorder),314902007,50
+459308015,Peripheral angiopathy due to type 2 diabetes mellitus (disorder),314902007,200
+84591000006119,Peripheral angiopathy due to type 2 diabetes mellitus (disorder),314902007,6
+84961000006116,Peripheral angiopathy due to type 2 diabetes mellitus (disorder),314902007,20
+280561000006111,Peripheral angiopathy due to type 2 diabetes mellitus (disorder),314902007,60
+300510018,Peripheral vascular disease (disorder),400047006,600
+300511019,Peripheral vascular disease (disorder),400047006,60
+300514010,Peripheral vascular disease (disorder),400047006,5000
+300515011,Peripheral vascular disease (disorder),400047006,100000
+300963017,Peripheral vascular disease (disorder),400047006,200
+300970017,Peripheral vascular disease (disorder),400047006,30
+395791015,Peripheral vascular disease (disorder),400047006,70000
+235911000006116,Peripheral vascular disease (disorder),400047006,500000
+6633851000006110,Peripheral vascular disease (disorder),400047006,10
+105536013,Intermittent claudication (finding),63491006,500000
+411512011,Intermittent claudication (finding),63491006,60000
+1715241000006112,Intermittent claudication (finding),63491006,1000
+3532661000006118,Intermittent claudication (finding),63491006,1
+2377871000000112,Ischemic foot with rest pain (disorder),713412006,700
+13919651000006113,Ulcer of heel due to atherosclerosis of artery of lower limb (disorder),792846001,40
+13919691000006119,Ulcer of ankle due to atherosclerosis of artery of lower limb (disorder),792850008,2
+8278561000006114,Ischaemic lower limb pain at rest (finding),836711000000108,20

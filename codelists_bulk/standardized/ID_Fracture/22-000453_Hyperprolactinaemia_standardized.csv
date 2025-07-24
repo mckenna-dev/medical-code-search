@@ -1,0 +1,13 @@
+med_code_id,term,snomed_ct_concept_id,observations
+258562011,Increased prolactin level,131008004,40000
+356195018,Hyperprolactinaemia,237662005,60000
+500868019,Hypoprolactinaemia,67873006,600
+1228164013,[M] Prolactinoma,34337008,30000
+3052921000006115,Prolactinoma,34337008,3000
+4505721000006116,Prolactinoma,134209002,70
+4505731000006118,Prolactin-secreting pituitary adenoma,134209002,1
+5110621000006117,Hyperprolactinemia,237662005,8
+5110631000006119,Idiopathic hyperprolactinaemia,237663000,7
+5110671000006116,Drug-induced hyperprolactinaemia,237665007,20
+5324581000006112,Microprolactinoma,253010003,100
+5324591000006110,Macroprolactinoma,253011004,30

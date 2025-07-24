@@ -1,0 +1,62 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1754,Cancer,Melanoma of skin,a155060012,Malignant melanoma of skin,L1:Cancer_L2:Melanoma of skin,B32..00
+1755,Cancer,Melanoma of skin,a289009011,Malignant melanoma of lip,L1:Cancer_L2:Melanoma of skin,B320.00
+1756,Cancer,Melanoma of skin,a728201000006110,Malignant melanoma of eyelid including canthus,L1:Cancer_L2:Melanoma of skin,B321.00
+1757,Cancer,Melanoma of skin,a289011019,Malignant melanoma of ear and external auricular canal,L1:Cancer_L2:Melanoma of skin,B322.00
+1758,Cancer,Melanoma of skin,a289012014,Malignant melanoma of auricle (ear),L1:Cancer_L2:Melanoma of skin,B322000
+1759,Cancer,Melanoma of skin,a289013016,Malignant melanoma of external auditory meatus,L1:Cancer_L2:Melanoma of skin,B322100
+1760,Cancer,Melanoma of skin,a289014010,Malignant melanoma of ear and external auricular canal NOS,L1:Cancer_L2:Melanoma of skin,B322z00
+1761,Cancer,Melanoma of skin,a289015011,Malignant melanoma of other and unspecified parts of face,L1:Cancer_L2:Melanoma of skin,B323.00
+1762,Cancer,Melanoma of skin,a1235785014,Malignant melanoma of external surface of cheek,L1:Cancer_L2:Melanoma of skin,B323000
+1763,Cancer,Melanoma of skin,a289017015,Malignant melanoma of chin,L1:Cancer_L2:Melanoma of skin,B323100
+1764,Cancer,Melanoma of skin,a1235786010,Malignant melanoma of eyebrow,L1:Cancer_L2:Melanoma of skin,B323200
+1765,Cancer,Melanoma of skin,a289019017,Malignant melanoma of forehead,L1:Cancer_L2:Melanoma of skin,B323300
+1766,Cancer,Melanoma of skin,a1235798017,Malignant melanoma of external surface of nose,L1:Cancer_L2:Melanoma of skin,B323400
+1767,Cancer,Melanoma of skin,a289021010,Malignant melanoma of temple,L1:Cancer_L2:Melanoma of skin,B323500
+1768,Cancer,Melanoma of skin,a289022015,Malignant melanoma of face NOS,L1:Cancer_L2:Melanoma of skin,B323z00
+1769,Cancer,Melanoma of skin,a289023013,Malignant melanoma of scalp and neck,L1:Cancer_L2:Melanoma of skin,B324.00
+1770,Cancer,Melanoma of skin,a289024019,Malignant melanoma of scalp,L1:Cancer_L2:Melanoma of skin,B324000
+1771,Cancer,Melanoma of skin,a289025018,Malignant melanoma of neck,L1:Cancer_L2:Melanoma of skin,B324100
+1772,Cancer,Melanoma of skin,a289026017,Malignant melanoma of scalp and neck NOS,L1:Cancer_L2:Melanoma of skin,B324z00
+1773,Cancer,Melanoma of skin,a289027014,Malignant melanoma of trunk (excluding scrotum),L1:Cancer_L2:Melanoma of skin,B325.00
+1774,Cancer,Melanoma of skin,a289028016,Malignant melanoma of axilla,L1:Cancer_L2:Melanoma of skin,B325000
+1775,Cancer,Melanoma of skin,a289029012,Malignant melanoma of breast,L1:Cancer_L2:Melanoma of skin,B325100
+1776,Cancer,Melanoma of skin,a289030019,Malignant melanoma of buttock,L1:Cancer_L2:Melanoma of skin,B325200
+1777,Cancer,Melanoma of skin,a289031015,Malignant melanoma of groin,L1:Cancer_L2:Melanoma of skin,B325300
+1778,Cancer,Melanoma of skin,a154231019,Malignant melanoma of perianal skin,L1:Cancer_L2:Melanoma of skin,B325400
+1779,Cancer,Melanoma of skin,a289033017,Malignant melanoma of perineum,L1:Cancer_L2:Melanoma of skin,B325500
+1780,Cancer,Melanoma of skin,a289034011,Malignant melanoma of umbilicus,L1:Cancer_L2:Melanoma of skin,B325600
+1781,Cancer,Melanoma of skin,a454085011,Malignant melanoma of back,L1:Cancer_L2:Melanoma of skin,B325700
+1782,Cancer,Melanoma of skin,a457109011,Malignant melanoma of chest wall,L1:Cancer_L2:Melanoma of skin,B325800
+1783,Cancer,Melanoma of skin,a289037016,"Malignant melanoma of trunk, excluding scrotum, NOS",L1:Cancer_L2:Melanoma of skin,B325z00
+1784,Cancer,Melanoma of skin,a727731000006113,Malignant melanoma of upper limb and shoulder,L1:Cancer_L2:Melanoma of skin,B326.00
+1785,Cancer,Melanoma of skin,a289039018,Malignant melanoma of shoulder,L1:Cancer_L2:Melanoma of skin,B326000
+1786,Cancer,Melanoma of skin,a289040016,Malignant melanoma of upper arm,L1:Cancer_L2:Melanoma of skin,B326100
+1787,Cancer,Melanoma of skin,a289041017,Malignant melanoma of fore-arm,L1:Cancer_L2:Melanoma of skin,B326200
+1788,Cancer,Melanoma of skin,a289042012,Malignant melanoma of hand,L1:Cancer_L2:Melanoma of skin,B326300
+1789,Cancer,Melanoma of skin,a289043019,Malignant melanoma of finger,L1:Cancer_L2:Melanoma of skin,B326400
+1790,Cancer,Melanoma of skin,a289044013,Malignant melanoma of thumb,L1:Cancer_L2:Melanoma of skin,B326500
+1791,Cancer,Melanoma of skin,a289045014,Malignant melanoma of upper limb or shoulder NOS,L1:Cancer_L2:Melanoma of skin,B326z00
+1792,Cancer,Melanoma of skin,a289046010,Malignant melanoma of lower limb and hip,L1:Cancer_L2:Melanoma of skin,B327.00
+1793,Cancer,Melanoma of skin,a289047018,Malignant melanoma of hip,L1:Cancer_L2:Melanoma of skin,B327000
+1794,Cancer,Melanoma of skin,a289048011,Malignant melanoma of thigh,L1:Cancer_L2:Melanoma of skin,B327100
+1795,Cancer,Melanoma of skin,a289049015,Malignant melanoma of knee,L1:Cancer_L2:Melanoma of skin,B327200
+1796,Cancer,Melanoma of skin,a289050015,Malignant melanoma of popliteal fossa area,L1:Cancer_L2:Melanoma of skin,B327300
+1797,Cancer,Melanoma of skin,a289051016,Malignant melanoma of lower leg,L1:Cancer_L2:Melanoma of skin,B327400
+1798,Cancer,Melanoma of skin,a289052011,Malignant melanoma of ankle,L1:Cancer_L2:Melanoma of skin,B327500
+1799,Cancer,Melanoma of skin,a289053018,Malignant melanoma of heel,L1:Cancer_L2:Melanoma of skin,B327600
+1800,Cancer,Melanoma of skin,a289054012,Malignant melanoma of foot,L1:Cancer_L2:Melanoma of skin,B327700
+1801,Cancer,Melanoma of skin,a289055013,Malignant melanoma of toe,L1:Cancer_L2:Melanoma of skin,B327800
+1802,Cancer,Melanoma of skin,a289056014,Malignant melanoma of great toe,L1:Cancer_L2:Melanoma of skin,B327900
+1803,Cancer,Melanoma of skin,a289057017,Malignant melanoma of lower limb or hip NOS,L1:Cancer_L2:Melanoma of skin,B327z00
+1804,Cancer,Melanoma of skin,a2438511000000112,Malignant melanoma stage IA,L1:Cancer_L2:Melanoma of skin,B328.00
+1805,Cancer,Melanoma of skin,a2438551000000111,Malignant melanoma stage IB,L1:Cancer_L2:Melanoma of skin,B329.00
+1806,Cancer,Melanoma of skin,a2438591000000115,Malignant melanoma stage IIA,L1:Cancer_L2:Melanoma of skin,B32A.00
+1807,Cancer,Melanoma of skin,a2438631000000115,Malignant melanoma stage IIB,L1:Cancer_L2:Melanoma of skin,B32B.00
+1808,Cancer,Melanoma of skin,a2438791000000114,Malignant melanoma stage IIIC,L1:Cancer_L2:Melanoma of skin,B32F.00
+1809,Cancer,Melanoma of skin,a2438871000000117,Malignant melanoma stage IV M1a,L1:Cancer_L2:Melanoma of skin,B32G.00
+1810,Cancer,Melanoma of skin,a2438911000000115,Malignant melanoma stage IV M1b,L1:Cancer_L2:Melanoma of skin,B32H.00
+1811,Cancer,Melanoma of skin,a2438951000000116,Malignant melanoma stage IV M1c,L1:Cancer_L2:Melanoma of skin,B32J.00
+1812,Cancer,Melanoma of skin,a289060012,Malignant melanoma of other specified skin site,L1:Cancer_L2:Melanoma of skin,B32y.00
+1813,Cancer,Melanoma of skin,a173816012,Overlapping malignant melanoma of skin,L1:Cancer_L2:Melanoma of skin,B32y000
+1814,Cancer,Melanoma of skin,a289063014,Malignant melanoma of skin NOS,L1:Cancer_L2:Melanoma of skin,B32z.00

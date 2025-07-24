@@ -1,0 +1,4 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1388,Cancer,Leukemia,a289756017,LRE - Leukaemic reticuloendotheliosis,L1:Cancer_L2:Leukemia,B624000
+1389,Cancer,Leukemia,a746301000006117,Leukaemic reticuloendotheliosis of intra-abdominal lymph nodes,L1:Cancer_L2:Leukemia,B624300
+1390,Cancer,Leukemia,a2168661000000116,Prolymphocytic leukemia of T-cell type,L1:Cancer_L2:Leukemia,B64y411

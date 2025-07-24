@@ -1,0 +1,5 @@
+	MedCodeId	Observations	Term	unexpected_weight_gain
+0	a2316211000000111	5000	Unintentional weight gain	unexpected_weight_gain
+1	a252194018	70000	Abnormal weight gain	unexpected_weight_gain
+2	a317236017	70000	[D]Abnormal weight gain	unexpected_weight_gain
+3	a252191014	200000	Weight increasing	unexpected_weight_gain

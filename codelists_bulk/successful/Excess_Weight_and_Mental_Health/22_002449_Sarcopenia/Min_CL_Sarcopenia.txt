@@ -1,0 +1,5 @@
+	MedCodeId	Observations	Term	sarcopenia
+0	a299731000000113	7000	Muscle wasting	sarcopenia
+1	a311609015	4000	Muscle wasting/disuse atrophy NEC NOS	sarcopenia
+2	a411815016	3000	O/E- quadriceps muscle wasting	sarcopenia
+3	a3931671000006114	1	Muscle wasting disorder	sarcopenia

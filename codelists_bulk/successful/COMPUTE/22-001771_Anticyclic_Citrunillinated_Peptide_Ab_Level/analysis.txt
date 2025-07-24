@@ -1,0 +1,11 @@
+=== FILE ANALYSIS ===
+Rows: 2
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId                                            Observations              Term  SNOMED_CT_Concept_ID
+0        338        Anti-cyclic citrullinated peptide antibody level        2159769019                   NaN
+1        585  Serum anti-cyclic citrullinated peptide antibody level  2347561000000116                   NaN

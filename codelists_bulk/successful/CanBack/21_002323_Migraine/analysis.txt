@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 48
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2          MedCodeID                                                                   Term
+0   5608        Migraine        Migraine  a1013141000006116                                 Adverse reaction to Antimigraine Drugs
+1   5609        Migraine        Migraine  a1013151000006119  Adverse reaction to Drugs Used In Treatment Of Acute Migraine Attacks
+2   5610        Migraine        Migraine  a1013161000006117              Adverse reaction to Drugs Used In Prophylaxis Of Migraine

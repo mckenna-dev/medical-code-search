@@ -1,0 +1,22 @@
+	MedCodeId	Observations	Term	LDL
+0	a259233017	30000000	Serum low density lipoprotein cholesterol level	LDL
+1	a1488764011	8000000	Calculated LDL (low density lipoprotein) cholesterol level	LDL
+2	a458314019	2000000	Plasma LDL (low density lipoprotein) cholesterol level	LDL
+3	a259267010	300000	Lipoprotein electroph. - LDL	LDL
+4	a857141000006116	200000	LDL cholesterol level	LDL
+5	a259246010	200000	Serum fasting LDL (low density lipoprotein) cholesterol level	LDL
+6	a259247018	100000	Serum random LDL (low density lipoprotein) cholesterol level	LDL
+7	a259570010	40000	Plasma fasting LDL (low density lipoprotein) cholesterol level	LDL
+8	a259569014	20000	Plasma random LDL (low density lipoprotein) cholesterol level	LDL
+9	a734191000006118	7000	Low-density-lipoprotein-type (LDL) hyperlipoproteinaemia	LDL
+10	a749181000006119	400	LDL - electrophoresis	LDL
+11	a735661000006117	200	Low density lipoproteinaemia	LDL
+12	a4217651000006116	100	Low density lipoprotein cholesterol measurement	LDL
+13	a4079621000006115	100	LDL cholesterol	LDL
+14	a2854351000006110	100	LDL	LDL
+15	a4600241000006118	30	Serum LDL cholesterol level	LDL
+16	a2854331000006115	20	Low density lipoprotein	LDL
+17	a4217681000006112	7	LDL - Low density lipoprotein cholesterol level	LDL
+18	a6550661000006112	6	Calculated LDL cholesterol level	LDL
+19	a4600231000006111	5	Serum LDL cholesterol measurement	LDL
+20	a12623411000006112	6	LDL-C (low density lipoprotein cholesterol) substance concentration in serum	LDL

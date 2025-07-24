@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 81
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                                          Term
+0    654          Cancer           Brain       a2692069010                                   Malignant neoplasm of brain
+1    655          Cancer           Brain  a543111000006111                                   Cerebral tumour - malignant
+2    656          Cancer           Brain  a727771000006111  Malignant neoplasm cerebrum (excluding lobes and ventricles)

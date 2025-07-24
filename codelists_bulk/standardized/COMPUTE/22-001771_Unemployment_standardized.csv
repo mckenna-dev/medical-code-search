@@ -1,0 +1,15 @@
+med_code_id,term,snomed_ct_concept_id,observations
+502435010,Unemployed,73438004,800000
+250858011,Recently unemployed,160899000,20000
+250859015,Chronic unemployment,160900005,20000
+460745015,[V]Problems related to employment and unemployment,75148009,3000
+251058017,Unemployment benefits,161005005,2000
+251059013,Unemployment benefit,161006006,2000
+460996012,[V]Unemployment,73438004,300
+251061016,Unemployment benefit NOS,161006006,200
+4927271000006118,Seeking work,224381005,200
+80161000006110,Unemployability allow.- forces,160990000,60
+14282141000006111,Employment status : Unemployed and actively seeking work,14282141000006107,2
+3694131000006114,U/E - Unemployed,73438004,2
+14282191000006119,Employment status : Unpaid voluntary work and not working/seeking work,14282191000006103,1
+14282181000006117,Employment status : Not receiving sickness/disability benefits and not working/seeking work,14282181000006101,1

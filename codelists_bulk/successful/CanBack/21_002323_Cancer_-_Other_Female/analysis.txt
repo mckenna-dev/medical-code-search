@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 12
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                                       Term
+0   1995          Cancer    Other female  a552661000006114                                            Choriocarcinoma
+1   1996          Cancer    Other female        a378691015                  FIGO staging of gynaecological malignancy
+2   1997          Cancer    Other female  a729491000006110  Malig neop of other and unspecified female genital organs

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 6
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+           MedCodeId  Observations              Term  SNOMED_CT_Concept_ID
+0          253669010      45671484   Standing height             248333004
+1  11905141000006112         36950      O/E - height             162755006
+2          253676017         22092  O/E - height NOS             248333004

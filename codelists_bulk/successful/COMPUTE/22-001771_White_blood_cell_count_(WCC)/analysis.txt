@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 11
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+        MedCodeId  Observations                     Term  SNOMED_CT_Concept_ID
+0  98461000006116      72695168   Total white cell count      1022541000000102
+1      1485559011        417786  Total white blood count      1022541000000102
+2  60301000006114        180316         White cell count      1022541000000102

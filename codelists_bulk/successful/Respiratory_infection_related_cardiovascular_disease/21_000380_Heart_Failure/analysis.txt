@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 60
+Columns: 1
+Column names: ['\tmedcode\treadcode\tclinicalevents\treadterm']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+       \tmedcode\treadcode\tclinicalevents\treadterm
+0  2\t398\tG580.00\t234834\tCongestive heart failure
+1  0\t884\tG581.00\t213914\tLeft ventricular failure
+2            4\t2062\tG58..00\t143170\tHeart failure

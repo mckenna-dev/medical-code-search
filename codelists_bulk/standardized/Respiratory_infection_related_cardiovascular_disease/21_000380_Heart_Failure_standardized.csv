@@ -1,0 +1,96 @@
+med_code_id,term,snomed_ct_concept_id,observations
+139475013,Heart failure,84114007,800000
+70653017,Congestive heart failure,42343007,700000
+141306010,Left ventricular failure,85232009,700000
+493287011,Congestive cardiac failure,42343007,500000
+216207010,Left ventricular systolic dysfunction,134401001,200000
+12625101000006116,QOF (Quality and Outcomes Framework) quality indicator-related care invitation,1109921000000106,200000
+2159197017,Echocardiogram shows left ventricular systolic dysfunction,407596008,100000
+1484918019,Heart failure annual review,390885007,100000
+2616471011,New York Heart Association Classification - Class II,421704003,80000
+407061000000112,Heart failure monitoring first letter,716971000000109,60000
+404741000000119,Heart failure 6 month review,247361000000100,50000
+395772015,Heart failure NOS,84114007,40000
+2616472016,New York Heart Association Classification - Class III,420913000,40000
+2616470012,New York Heart Association Classification - Class I,420300004,40000
+308261000000111,Heart failure review completed,202231000000106,30000
+1484917012,Heart failure follow-up,390884006,30000
+216184014,Congestive heart failure monitoring,134378009,30000
+139482012,Cardiac failure,84114007,30000
+1488804017,Heart failure confirmed,395105005,20000
+1561941000006119,Excepted from heart failure quality indicators - patient unsuitable,717481000000104,20000
+147247018,Chronic congestive heart failure,88805009,20000
+407081000000115,Heart failure monitoring second letter,717191000000108,20000
+206703015,Right heart failure,128404006,20000
+510016018,Biventricular congestive heart failure,92506005,20000
+2645623019,Heart failure education,423475008,20000
+300179017,Decompensated cardiac failure,195111005,20000
+308301000000118,Discussion about heart failure care plan,872361000000105,10000
+3886041000006118,Left heart failure,85232009,10000
+300190010,Acute left ventricular failure,195114002,10000
+1647701000000118,Heart failure with normal ejection fraction,446221000,10000
+1746171000000119,Has heart failure management plan,781051000000108,9000
+1561951000006117,Excepted from heart failure quality indicators - informed dissent,717491000000102,9000
+2227501000000110,Heart failure with preserved ejection fraction,446221000,8000
+308231000000118,Heart failure monitoring administration,713791000000101,8000
+251680018,H/O: heart failure,161505003,7000
+18472010,Acute congestive heart failure,10633002,7000
+7484711000006114,Heart failure medication review,473226007,6000
+407101000000114,Heart failure monitoring third letter,716621000000101,5000
+94251011,Acute heart failure,56675007,4000
+406801000000118,Heart failure monitoring telephone invitation,717531000000102,4000
+1769091000006112,Fast track heart failure referral for transthoracic two dimensional echocardiogram,760361000000100,3000
+2616473014,New York Heart Association Classification - Class IV,422293003,3000
+490972013,Right ventricular failure,367363000,3000
+2122191000000110,Education about deteriorating heart failure,813991000000101,2000
+7025691000006110,Decompensated chronic heart failure,424404003,2000
+8214751000006115,Heart failure monitoring invitation,711461000000104,2000
+1816101000006113,Right ventricular failure,367363000,2000
+223981000000118,Cardiac failure NOS,84114007,2000
+1165041000000115,Heart failure resolved,521691000000100,2000
+8303561000006119,Heart failure monitoring,871681000000102,1000
+300180019,Compensated cardiac failure,195112003,1000
+2115781000000114,Heart failure self-management plan review,810971000000105,1000
+407041000000111,Heart failure monitoring verbal invitation,717501000000108,1000
+2675255018,Congestive heart failure due to valvular disease,426611007,900
+7573171000006116,Heart failure with reduced ejection fraction,703272007,900
+12626351000006111,QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation,1110931000000103,900
+3182551000006115,CCF - Congestive cardiac failure,42343007,800
+2549208013,Emergency hospital admission for heart failure,416683003,800
+453099015,H/O: Heart failure in last year,309634009,800
+3182541000006117,Congestive cardiac failure,42343007,800
+7321121000006119,Heart failure with preserved ejection fraction,446221000,600
+504901000006118,Benign hypertensive heart disease with congestive cardiac failure,194767001,500
+1661371000000112,HFNEF - heart failure with normal ejection fraction,446221000,500
+72934016,Rheumatic left ventricular failure,43736008,300
+1856371000006111,Heart failure monitoring in secondary care,1856371000006107,100
+504911000006115,Benign hypertensive heart disease without CCF,77970009,100
+139481017,Weak heart,84114007,100
+350484012,Heart failure as a complication of care,233924009,80
+728681000006116,Malignant hypertensive heart disease without congestive heart failure,36315003,80
+3283871000006117,Chronic heart failure,48447003,60
+741701000006114,Hypertensive heart and renal disease with (congestive) heart failure,194779001,50
+1856381000006114,Heart failure monitoring default,1856381000006105,50
+8290471000006114,Heart failure initial assessment,851071000000108,50
+728671000006119,Malignant hypertensive heart disease with congestive cardiac failure,83105008,40
+6919191000006119,Diastolic heart failure,418304008,20
+12623611000006114,Excepted from heart failure quality indicators - service unavailable,1108711000000108,20
+3515953019,Heart failure self management plan,735984001,20
+1539471000006111,Heart failure monitoring - unstable symptoms,1539471000006107,20
+789941000006117,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,194781004,20
+1747691000006119,Emergency heart failure admission since last appointment,1747691000006103,20
+8030311000006111,Exacerbation of congestive heart failure,96311000119109,10
+12734351000006110,QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation using preferred method of communication,143411000000100,10
+3886071000006114,LVF - Left ventricular failure,85232009,10
+7573211000006119,Heart failure with reduced ejection fraction due to heart valve disease,703276005,7
+1539511000006118,Heart failure monitoring - multiple readmissions,1539511000006102,7
+6914191000006115,Systolic heart failure,417996009,5
+6204381000006117,Acute right-sided heart failure,359617009,5
+4005301000006110,Biventricular failure,92506005,4
+7119761000006112,Chronic left ventricular systolic dysfunction,430396006,3
+3182531000006110,Congestive heart disease,42343007,2
+2660881000006116,High output heart failure,10091002,2
+8011111000006111,Congestive heart failure with right heart failure,23341000119109,2
+3868341000006118,HF - Heart failure,84114007,1
+7052811000006113,Right heart failure due to pulmonary hypertension,426012001,1
+3182561000006118,CHF - Congestive heart failure,42343007,1

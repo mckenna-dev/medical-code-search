@@ -1,0 +1,15 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2276,Cancer,Testis,a721171000006119,Malignant neoplasm of testis,L1:Cancer_L2:Testis,B47..00
+2277,Cancer,Testis,a289223017,Malignant neoplasm of undescended testis,L1:Cancer_L2:Testis,B470.00
+2278,Cancer,Testis,a457318018,Seminoma of undescended testis,L1:Cancer_L2:Testis,B470200
+2279,Cancer,Testis,a289234019,Malignant neoplasm of undescended testis NOS,L1:Cancer_L2:Testis,B470z00
+2280,Cancer,Testis,a174562015,Malignant neoplasm of descended testis,L1:Cancer_L2:Testis,B471.00
+2281,Cancer,Testis,a457319014,Seminoma of descended testis,L1:Cancer_L2:Testis,B471000
+2282,Cancer,Testis,a109371000006115,Teratoma of descended testis,L1:Cancer_L2:Testis,B471100
+2283,Cancer,Testis,a473991000000119,Malignant neoplasm of descended testis NOS,L1:Cancer_L2:Testis,B471z00
+2284,Cancer,Testis,a403702017,Malignant neoplasm of testis NOS,L1:Cancer_L2:Testis,B47z.00
+2285,Cancer,Testis,a380180017,Seminoma of testis,L1:Cancer_L2:Testis,B47z.11
+2286,Cancer,Testis,a109381000006117,Teratoma of testis,L1:Cancer_L2:Testis,B47z.12
+2287,Cancer,Testis,a109391000006119,Teratoma of undescended testis,L1:Cancer_L2:Testis,B470300
+2288,Cancer,Testis,a723111000006110,Malignant neoplasm of scrotum,L1:Cancer_L2:Testis,B486.00
+2289,Cancer,Testis,a311091000006110,Malignant Leydig cell tumour,L1:Cancer_L2:Testis,BBCC100

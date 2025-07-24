@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 22
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tHDL']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                                   \tMedCodeId\tObservations\tTerm\tHDL
+0        0\ta259232010\t60000000\tSerum high density lipoprotein cholesterol level\tHDL
+1  1\ta458313013\t2000000\tPlasma HDL (high density lipoprotein) cholesterol level\tHDL
+2                              2\ta259266018\t300000\tLipoprotein electroph. - HDL\tHDL

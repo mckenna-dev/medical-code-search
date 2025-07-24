@@ -1,0 +1,32 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2245,Cancer,Stomach,a721851000006117,Malignant neoplasm of stomach,L1:Cancer_L2:Stomach,B11..00
+2246,Cancer,Stomach,a799181000006112,Gastric neoplasm,L1:Cancer_L2:Stomach,B11..11
+2247,Cancer,Stomach,a288625013,Malignant neoplasm of cardia of stomach,L1:Cancer_L2:Stomach,B110.00
+2248,Cancer,Stomach,a288628010,Malignant neoplasm of cardiac orifice of stomach,L1:Cancer_L2:Stomach,B110000
+2249,Cancer,Stomach,a288632016,Malignant neoplasm of cardio-oesophageal junction of stomach,L1:Cancer_L2:Stomach,B110100
+2250,Cancer,Stomach,a288631011,Malignant neoplasm of gastro-oesophageal junction,L1:Cancer_L2:Stomach,B110111
+2251,Cancer,Stomach,a288633014,Malignant neoplasm of cardia of stomach NOS,L1:Cancer_L2:Stomach,B110z00
+2252,Cancer,Stomach,a288635019,Malignant neoplasm of pylorus of stomach,L1:Cancer_L2:Stomach,B111.00
+2253,Cancer,Stomach,a722341000006119,Malignant neoplasm of prepylorus of stomach,L1:Cancer_L2:Stomach,B111000
+2254,Cancer,Stomach,a288638017,Malignant neoplasm of pyloric canal of stomach,L1:Cancer_L2:Stomach,B111100
+2255,Cancer,Stomach,a288639013,Malignant neoplasm of pylorus of stomach NOS,L1:Cancer_L2:Stomach,B111z00
+2256,Cancer,Stomach,a288641014,Malignant neoplasm of pyloric antrum of stomach,L1:Cancer_L2:Stomach,B112.00
+2257,Cancer,Stomach,a288644018,Malignant neoplasm of fundus of stomach,L1:Cancer_L2:Stomach,B113.00
+2258,Cancer,Stomach,a288647013,Malignant neoplasm of body of stomach,L1:Cancer_L2:Stomach,B114.00
+2259,Cancer,Stomach,a288649011,Malignant neoplasm of lesser curve of stomach unspecified,L1:Cancer_L2:Stomach,B115.00
+2260,Cancer,Stomach,a288650011,Malignant neoplasm of greater curve of stomach unspecified,L1:Cancer_L2:Stomach,B116.00
+2261,Cancer,Stomach,a1219534017,"Malignant neoplasm, overlapping lesion of stomach",L1:Cancer_L2:Stomach,B117.00
+2262,Cancer,Stomach,a638721000000113,Siewert type II adenocarcinoma,L1:Cancer_L2:Stomach,B118.00
+2263,Cancer,Stomach,a638821000000118,Siewert type III adenocarcinoma,L1:Cancer_L2:Stomach,B119.00
+2264,Cancer,Stomach,a288652015,Malignant neoplasm of other specified site of stomach,L1:Cancer_L2:Stomach,B11y.00
+2265,Cancer,Stomach,a288653013,Malignant neoplasm of anterior wall of stomach NEC,L1:Cancer_L2:Stomach,B11y000
+2266,Cancer,Stomach,a288654019,Malignant neoplasm of posterior wall of stomach NEC,L1:Cancer_L2:Stomach,B11y100
+2267,Cancer,Stomach,a288655018,Malignant neoplasm of other specified site of stomach NOS,L1:Cancer_L2:Stomach,B11yz00
+2268,Cancer,Stomach,a288656017,Malignant neoplasm of stomach NOS,L1:Cancer_L2:Stomach,B11z.00
+2269,Cancer,Stomach,a260992011,Ascitic fluid: malignant cells,L1:Cancer_L2:Stomach,4F32.00
+2270,Cancer,Stomach,a289441010,Malignant neoplasm of abdomen,L1:Cancer_L2:Stomach,B552.00
+2271,Cancer,Stomach,a353772013,Malignant ascites,L1:Cancer_L2:Stomach,B576200
+2272,Cancer,Stomach,a316221000006111,[M]Scirrhous adenocarcinoma,L1:Cancer_L2:Stomach,BB54.00
+2273,Cancer,Stomach,a1229372013,[M]Linitis plastica,L1:Cancer_L2:Stomach,BB55.00
+2274,Cancer,Stomach,a316131000006115,[M]Round cell sarcoma,L1:Cancer_L2:Stomach,BBF5.11
+2275,Cancer,Stomach,a292132011,"[X]Malignant neoplasm of peritoneum, unspecified",L1:Cancer_L2:Stomach,Byu5700

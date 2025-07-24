@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 237
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2   MedCodeID                                 Term
+0   7495     Psychiatric   Schizophrenia  a105029017  Paranoid schizophrenia in remission
+1   7496     Psychiatric   Schizophrenia  a107878010               Paranoid schizophrenia
+2   7497     Psychiatric   Schizophrenia  a114616017      Chronic catatonic schizophrenia

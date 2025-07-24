@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 145
+Columns: 10
+Column names: ['MedCodeId', 'Term', 'Observations', 'SNOMED_CT_Concept_ID', 'OriginalReadCode', 'CleansedReadCode', 'SnomedCTDescriptionId', 'Unnamed: 7', 'Unnamed: 8', 'Search terms: *asthma*  *copd* *chronic obstructive pulmonary*']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+   MedCodeId                                         Term  Observations  SNOMED_CT_Concept_ID OriginalReadCode
+0   21390015  Intrinsic asthma without status asthmaticus          4000              12428000            H3310
+1   69311016                             Detergent asthma            70              41553006            H47y0
+2   94731013                                  Wood asthma            10              56968009            H35y7

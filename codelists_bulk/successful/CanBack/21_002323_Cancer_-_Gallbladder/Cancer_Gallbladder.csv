@@ -1,0 +1,6 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1018,Cancer,Gallbladder,a727781000006114,Malignant neoplasm gallbladder and extrahepatic bile ducts,L1:Cancer_L2:Gallbladder,B16..00
+1019,Cancer,Gallbladder,a725711000006113,Malignant neoplasm of gallbladder,L1:Cancer_L2:Gallbladder,B160.00
+1020,Cancer,Gallbladder,a535221000006113,Carcinoma gallbladder,L1:Cancer_L2:Gallbladder,B160.11
+1021,Cancer,Gallbladder,a720451000006113,Malignant neoplasm other gallbladder/extrahepatic bile duct,L1:Cancer_L2:Gallbladder,B16y.00
+1022,Cancer,Gallbladder,a727791000006112,Malignant neoplasm gallbladder/extrahepatic bile ducts NOS,L1:Cancer_L2:Gallbladder,B16z.00

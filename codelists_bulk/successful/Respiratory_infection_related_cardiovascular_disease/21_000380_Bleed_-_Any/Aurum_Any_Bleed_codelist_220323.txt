@@ -1,0 +1,646 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	snomedctdescriptionid	release
+300752014	"Bleeding haemorrhoids NOS"	"G8480"	"G848000"	51551000	515461000006111	
+1216226011	"External bleeding haemorrhoids"	"G8450"	"G845000"	26421009	1216226011	
+802131000006119	"GIB - Gastrointestinal bleeding"	"J68z-1"	"J68z.11"	74474003	802131000006119	
+502715010	"Gastrointestinal haemorrhage"	"J68"	"J68..00"	74474003	502715010	
+396403016	"Gastrointestinal haemorrhage unspecified"	"J68z"	"J68z.00"	74474003	799611000006114	
+303667019	"Gastrointestinal tract haemorrhage NOS"	"J68zz"	"J68zz00"	74474003	799681000006119	
+1216930015	"Internal bleeding haemorrhoids"	"G8420"	"G842000"	75884004	1216930015	
+507736019	"Lower gastrointestinal haemorrhage"	"ESCTLO2"	""	87763006	507736019	
+486704010	"Upper gastrointestinal haemorrhage"	"J68z2"	"J68z200"	37372002	486704010	
+981591000006114	"Abnormal bleeding/vaginal discharge"	"EMISCAB35"	""	981591000006105	981591000006114	
+456809019	"Abnormal uterine and vaginal bleeding, unspecified"	"K5Ez"	"K5Ez.00"	312984006	437601000006119	
+456806014	"Abnormal uterine bleeding unrelated to menstrual cycle"	"K5E0"	"K5E0.00"	312984006	456806014	
+456807017	"Abnormal uterine bleeding, unspecified"	"K5E1"	"K5E1.00"	44991000119100	437621000006112	
+456808010	"Abnormal vaginal bleeding, unspecified"	"K5E2"	"K5E2.00"	301822002	437631000006110	
+363458015	"Accidental haemorrhage during medical care"	"TA0-1"	"TA0..11"	242996005	363458015	
+297188013	"Acute and subacute haemorrhagic leukoencephalitis [Hurst]"	"F212"	"F212.00"	192933004	297188013	
+474430017	"Acute duodenal ulcer with haemorrhage"	"J1201"	"J120100"	12847006	474430017	
+507303017	"Acute duodenal ulcer with haemorrhage AND perforation"	"J1203"	"J120300"	86895006	507303017	
+508664015	"Acute gastric ulcer with haemorrhage"	"J1101"	"J110100"	89748001	508664015	
+495273013	"Acute gastric ulcer with haemorrhage AND perforation"	"J1103"	"J110300"	48974009	495273013	
+499719010	"Acute gastrojejunal ulcer with haemorrhage"	"J1401"	"J140100"	63954007	499719010	
+504674011	"Acute gastrojejunal ulcer with haemorrhage AND perforation"	"J1403"	"J140300"	81387001	504674011	
+478553011	"Acute haemorrhagic gastritis"	"J1500"	"J150000"	2367005	481682019	
+493743018	"Acute haemorrhagic pancreatitis"	"J6702"	"J670200"	4399003	493743018	
+470365013	"Acute peptic ulcer with haemorrhage"	"J1301"	"J130100"	12274003	470365013	
+361430016	"Acute peptic ulcer with haemorrhage and perforation"	"J1303"	"J130300"	111353003	361430016	
+399228011	"Acute posthaemorrhagic anaemia"	"D211"	"D211.00"	267530009	399228011	
+495316011	"Adrenal haemorrhage"	"C1542"	"C154200"	49111001	495316011	
+356328018	"Adrenocortical haemorrhage"	"C1542-1"	"C154211"	237766002	356328018	
+221161000000111	"Altered blood in stools"	"J681-2"	"J681.12"	2901004	221161000000111	
+481141000006114	"Anal haemorrhage"	"J5731"	"J573100"	6072007	481141000006114	
+886471000006110	"Anal/rectal haemorrhage"	"J573-99"	"J573.99"	266464001	886471000006110	
+2871165011	"Aneurysm and dissection of precerebral artery"	"G729"	"G729.00"	713035000	1816201000006115	
+352222018	"Angina bullosa haemorrhagica"	"J08zD"	"J08zD00"	235025005	352222018	
+220801000000113	"Antepartum bleeding"	"L11-2"	"L11..12"	34842007	220801000000113	
+485971018	"Antepartum haemorrhage"	"L11-1"	"L11..11"	34842007	485971018	
+485721000006116	"Antepartum haemorrhage NOS"	"L11z"	"L11z.00"	34842007	485721000006116	
+305747019	"Antepartum haemorrhage NOS"	"L11zz"	"L11zz00"	34842007	485731000006118	
+305743015	"Antepartum haemorrhage NOS - delivered"	"L11z1"	"L11z100"	34842007	485741000006111	
+305746011	"Antepartum haemorrhage NOS - not deliv"	"L11z2"	"L11z200"	34842007	485751000006113	
+305742013	"Antepartum haemorrhage NOS, unspecified"	"L11z0"	"L11z000"	34842007	485761000006110	
+355609010	"Antepartum haemorrhage with afibrinogenaemia"	"L113-1"	"L113.11"	237272003	355609010	
+398341018	"Antepartum haemorrhage with coagulation defect"	"L113"	"L113.00"	267199000	398341018	
+305697012	"Antepartum haemorrhage with coagulation defect - delivered"	"L1131"	"L113100"	198917009	305697012	
+485801000006118	"Antepartum haemorrhage with coagulation defect - not deliv"	"L1132"	"L113200"	198918004	485801000006118	
+305702015	"Antepartum haemorrhage with coagulation defect NOS"	"L113z"	"L113z00"	267199000	485811000006115	
+305696015	"Antepartum haemorrhage with coagulation defect unspecified"	"L1130"	"L113000"	267199000	485821000006111	
+305717016	"Antepartum haemorrhage with fibroid"	"L115-1"	"L115.11"	198925006	305717016	
+355606015	"Antepartum haemorrhage with hyperfibrinolysis"	"L113-2"	"L113.12"	237271005	355606015	
+355605016	"Antepartum haemorrhage with hypofibrinogenaemia"	"L113-3"	"L113.13"	237270006	355605016	
+305703013	"Antepartum haemorrhage with trauma"	"L114"	"L114.00"	198920001	305703013	
+305707014	"Antepartum haemorrhage with trauma - delivered"	"L1141"	"L114100"	198922009	305707014	
+305710019	"Antepartum haemorrhage with trauma - not delivered"	"L1142"	"L114200"	198923004	305710019	
+305711015	"Antepartum haemorrhage with trauma NOS"	"L114z"	"L114z00"	198920001	485891000006113	
+305706017	"Antepartum haemorrhage with trauma unspecified"	"L1140"	"L114000"	198920001	485901000006112	
+305718014	"Antepartum haemorrhage with uterine fibroid"	"L115-2"	"L115.12"	198925006	305718014	
+305716013	"Antepartum haemorrhage with uterine leiomyoma"	"L115"	"L115.00"	198925006	305716013	
+305722016	"Antepartum haemorrhage with uterine leiomyoma - delivered"	"L1151"	"L115100"	198927003	305722016	
+485941000006114	"Antepartum haemorrhage with uterine leiomyoma - not deliv"	"L1152"	"L115200"	198928008	485941000006114	
+305726018	"Antepartum haemorrhage with uterine leiomyoma NOS"	"L115z"	"L115z00"	198925006	485951000006111	
+305719018	"Antepartum haemorrhage with uterine leiomyoma unspecified"	"L1150"	"L115000"	198925006	485961000006113	
+485971000006118	"Antepartum haemorrhage, abruptio placentae, placenta praevia"	"L11"	"L11..00"	267197003	485971000006118	
+1411000033112	"Antifibrinolytic Drugs And Haemostatics"	"DRGG2.11"	""	1411000033108	1411000033112	
+1808731000006115	"Application of chemical haemostatic agents"	"EMISNQAP4"	""	372045002	1207348015	
+495061000006113	"Aspiration of haematoma of brain tissue"	"70082"	"7008200"	171502001	495061000006113	
+279090012	"Aspiration of haematoma of organ NOC"	"7M0G0"	"7M0G000"	621461000000103	1372141000000114	
+215531000000119	"BPV - Vaginal bleeding"	"K56y1-2"	"K56y112"	289530006	523951000006112	
+503791000006114	"Basal nucleus haemorrhage"	"G612"	"G612.00"	195165005	503791000006114	
+304253010	"Bladder haemorrhage"	"K16y2"	"K16y200"	197887003	304253010	
+371562017	"Bleeding - vaginal NOS"	"K56y1-1"	"K56y111"	289530006	515371000006112	
+515491000006115	"Bleeding PR"	"J573-1"	"J573.11"	12063002	221101000000112	
+1235493010	"Bleeding acute gastric ulcer"	"J1101-1"	"J110111"	89748001	1235493010	
+1235462014	"Bleeding chronic duodenal ulcer"	"J1211-1"	"J121111"	89469000	1235462014	
+1231704018	"Bleeding chronic gastric ulcer"	"J1111-1"	"J111111"	57246001	1231704018	
+303134017	"Bleeding diverticulosis"	"J5109"	"J510900"	197092000	303134017	
+1887791000006116	"Bleeding due to intrauterine contraceptive device"	"SP07R"	"SP07R00"	236737006	1887791000006116	
+354839010	"Bleeding due to intrauterine contraceptive device"	"SP032-6"	"SP03216"	236737006	354839010	
+1805191000006113	"Bleeding from breast"	"EMISNQBL22"	""	52297004	87019010	
+1805151000006119	"Bleeding from nipple"	"EMISNQBL21"	""	248838002	371379012	
+371988014	"Bleeding from urethra"	"K19y4"	"K19y400"	249301002	371988014	
+143080016	"Bleeding gums"	"1928"	"1928.00"	86276007	143080016	
+483053014	"Bleeding in early pregnancy"	"L10y-1"	"L10y.11"	25825004	483053014	
+1805101000006118	"Bleeding of pigmented skin lesion"	"EMISNQBL20"	""	1805101000006102	1805101000006118	
+1230526013	"Bleeding postpartum"	"L36-1"	"L36..11"	47821001	1230526013	
+353962019	"Bleeding stoma"	"25T0"	"25T0.00"	236129005	353962019	
+1790721000000110	"Bleeding symptom"	"16R"	"16R..00"	800901000000100	1790721000000110	
+1773201000006115	"Bleeding symptom"	"EMISNQBL18"	""	1773201000006104	1773201000006115	
+253189012	"Blood discharge from ear"	"1C43"	"1C43.00"	162365003	253189012	
+517931000006117	"Blood in faeces"	"19E6"	"19E6.00"	405729008	517931000006117	
+2647548014	"Blood in faeces"	"4762-1"	"4762.11"	405729008	2647548014	
+372431015	"Blood in faeces symptom"	"19E6-1"	"19E6.11"	249624003	372431015	
+517961000006114	"Blood in sputum - haemoptysis"	"172"	"172..00"	66857006	517961000006114	
+517971000006119	"Blood in sputum - symptom"	"172-1"	"172..11"	66857006	517971000006119	
+517981000006116	"Blood in stool"	"J681-1"	"J681.11"	405729008	517981000006116	
+961941000006111	"Blood in stools"	"EMISCBL2"	""	961941000006107	961941000006111	
+221171000000116	"Blood in stools altered"	"J681-3"	"J681.13"	405729008	517991000006118	
+404556017	"Blood in synovial fluid"	"4B34-1"	"4B34.11"	269909003	404556017	
+518011000006114	"Blood in urine - haematuria"	"1A45"	"1A45.00"	53298000	1216720018	
+518021000006118	"Blood in urine - symptom"	"1A45-1"	"1A45.11"	53298000	518021000006118	
+419024010	"Blood in vomit - symptom"	"1994-1"	"1994.11"	281102003	419024010	
+411741017	"Blood in vomit O/E"	"4A23-1"	"4A23.11"	275786006	411741017	
+1566381000006119	"Bloody diarrhoea"	"EMISNQBL1"	""	1566381000006103	1566381000006119	
+524821000006110	"Break - through bleeding"	"K59z-1"	"K59z.11"	56169002	524821000006110	
+525281000006114	"Breast haematoma due to nontraumatic cause"	"K31y0"	"K31y000"	198123000	525281000006114	
+483988011	"Bulbar haemorrhage"	"G615"	"G615.00"	732923001	527381000006114	
+407087019	"C/O - melaena"	"19E4-2"	"19E4.12"	272045003	407087019	
+411565016	"C/O p.v. bleeding"	"158-1"	"158..11"	275570002	411565016	
+605471000006112	"CVA - cerebrovascular accid due to intracerebral haemorrhage"	"G61-1"	"G61..11"	274100004	605471000006112	
+493656015	"Capillary haemorrhage"	"G77z0"	"G77z000"	43696002	493656015	
+345709014	"Carotid artery dissection"	"G6732"	"G673200"	705066004	1001581000006118	
+303521011	"Central haemorrhagic necrosis of liver"	"J636"	"J636.00"	197364000	303521011	
+502878012	"Cerebellar haemorrhage"	"G613"	"G613.00"	75038005	502878012	
+884421000006119	"Cerebral haemorrhage"	"G6-99"	"G6...99"	62914000	884421000006119	
+989201000006117	"Cerebral haemorrhage"	"G61-99"	"G61..99"	274100004	409860011	
+894091000006111	"Cerebral haemorrhage - birth"	"Q200-99"	"Q200.99"	206188000	894091000006111	
+989211000006119	"Cerebral haemorrhage NOS"	"G61-98"	"G61..98"	274100004	989211000006119	
+884451000006111	"Cerebral haemorrhage NOS"	"G62z-99"	"G62z.99"	700251000000105	884451000006111	
+505322013	"Cerebral haemorrhage following injury"	"S62"	"S62..00"	450418003	2916363013	
+320852013	"Cerebral haemorrhage following injury NOS"	"S62z"	"S62z.00"	450418003	542891000006117	
+1573101000006112	"Cerebral infarction with haemorrhagic transformation"	"EMISNQCE4"	""	1573101000006108	1573101000006112	
+297942018	"Choroidal haemorrhage and rupture"	"F436"	"F436.00"	193474002	297942018	
+297946015	"Choroidal haemorrhage or rupture NOS"	"F436z"	"F436z00"	193474002	552791000006113	
+508524014	"Chronic duodenal ulcer with haemorrhage"	"J1211"	"J121100"	89469000	508524014	
+486596015	"Chronic duodenal ulcer with haemorrhage AND perforation"	"J1213"	"J121300"	36975000	486596015	
+497833010	"Chronic gastric ulcer with haemorrhage"	"J1111"	"J111100"	57246001	497833010	
+554311000006114	"Chronic gastric ulcer with haemorrhage and perforation"	"J1113"	"J111300"	76181002	554311000006114	
+499386010	"Chronic gastrojejunal ulcer with haemorrhage"	"J1411"	"J141100"	62838000	499386010	
+494304013	"Chronic gastrojejunal ulcer with haemorrhage AND perforation"	"J1413"	"J141300"	45640006	494304013	
+495344012	"Chronic peptic ulcer with haemorrhage"	"J1311"	"J131100"	49232000	495344012	
+498977018	"Chronic peptic ulcer with haemorrhage AND perforation"	"J1313"	"J131300"	61300005	498977018	
+455462013	"Closed heart injury with haemopericardium"	"S7140"	"S714000"	311830005	455462013	
+402930018	"Closed traumatic extradural haemorrhage"	"S624"	"S624.00"	43216008	568791000006118	
+1216777017	"Closed traumatic haemopneumothorax"	"S704"	"S704.00"	59190009	1216777017	
+402929011	"Closed traumatic subarachnoid haemorrhage"	"S620"	"S620.00"	28048009	568861000006116	
+320752018	"Closed traumatic subdural haemorrhage"	"S622"	"S622.00"	209947002	320752018	
+575751000006114	"Complete illegal abortion + delayed or excessive haemorrhage"	"L0621"	"L062100"	198757001	575751000006114	
+576001000006117	"Complete legal abortion with delayed/excessive haemorrhage"	"L0521"	"L052100"	198719001	576001000006117	
+576191000006113	"Complete spontaneous abortion +delayed/excessive haemorrhage"	"L0421"	"L042100"	198656000	576191000006113	
+298518014	"Conjunctival haemorrhage NOS"	"F4C72"	"F4C7200"	21117005	589421000006116	
+590531000006114	"Contact bleeding of cervix"	"K587"	"K587.00"	248980004	590531000006114	
+354838019	"Contraception IUCD causing bleeding"	"SP032-7"	"SP03217"	236737006	354838019	
+878511000006114	"Control of haemorrhage"	"7M0U4-98"	"7M0U498"	621531000000109	878511000006114	
+322816019	"Contusion, fingernail (includes subungual haematoma)"	"SE332"	"SE33200"	211514005	322816019	
+350608017	"Coronary artery dissection"	"G72B1"	""	732230001	1988531000006117	
+304493010	"Corpus cavernosum haematoma"	"K2751"	"K275100"	198031007	304493010	
+1216873013	"Corpus cavernosum haemorrhage"	"K2752"	"K275200"	69452005	1216873013	
+1217315012	"Corpus luteum cyst haemorrhage"	"K5311"	"K531100"	95599002	1217315012	
+495394013	"Cortical haemorrhage"	"G610"	"G610.00"	49422009	495394013	
+1856961000006117	"Counselled regarding vaginal bleeding"	"TESTPCO15"	""	1856961000006101	1856961000006117	
+885851000006113	"DU - acute + haemorrhage"	"J1201-99"	"J120199"	12847006	885851000006113	
+885891000006119	"DU - chronic + haemorrhage"	"J1211-99"	"J121199"	89469000	885891000006119	
+495202016	"Deep retinal haemorrhage"	"F42y3"	"F42y300"	48742005	495202016	
+612311000006117	"Delayed/excess haemorrhage NOS following abortive pregnancy"	"L091z"	"L091z00"	609446006	612311000006117	
+887711000006114	"Delayed/excessive haemorrhage"	"L091-99"	"L091.99"	198827002	887711000006114	
+612321000006113	"Delayed/excessive haemorrhage following abortive pregnancy"	"L091"	"L091.00"	609448007	612321000006113	
+1005981000006112	"Dental extraction haemorrhage control"	"EMISD_DE63"	""	1005981000006108	1005981000006112	
+2536174018	"Dissecting aortic aneurysm"	"G710"	"G710.00"	308546005	2536174018	
+1816221000006113	"Dissection of artery"	"G72B"	"G72B.00"	710864009	3046504015	
+1816141000006110	"Dissection of artery of arm"	"G725-1"	"G725.11"	713033007	1816141000006110	
+1816181000006116	"Dissection of artery of leg"	"G728-1"	"G728.11"	713032002	1816181000006116	
+1816191000006118	"Dissection of artery of lower extremity"	"G728"	"G728.00"	713032002	1816191000006118	
+1816151000006112	"Dissection of artery of upper extremity"	"G725"	"G725.00"	713033007	3287761016	
+300389010	"Dissection of cerebral arteries, nonruptured"	"G6730"	"G673000"	713082007	625131000006112	
+2168721000000118	"Dissection of iliac artery"	"G727"	"G727.00"	233999007	2168721000000118	
+1816211000006117	"Dissection of other specified arteries"	"G72A"	"G72A.00"	710864009	1816211000006117	
+1816161000006114	"Dissection of renal artery"	"G726"	"G726.00"	713036004	3287753014	
+350611016	"Dissection of transplant artery"	"G72B0"	"G72B000"	234001008	350611016	
+627371000006115	"Does not have nose bleeds"	"1C61"	"1C61.00"	162372002	627371000006115	
+628481000006113	"Drainage haematoma ext ear control cavity c bolster suture"	"73032"	"7303200"	172619007	628481000006113	
+267223015	"Drainage of haematoma of external ear"	"73030"	"7303000"	172617009	267223015	
+265796017	"Drainage of subarachnoid space of brain"	"70171"	"7017100"	171554006	265796017	
+508104019	"Drainage of subungual haematoma"	"7G314"	"7G31400"	88584000	508104019	
+32278010	"Dysfunctional uterine bleeding"	"K59yx-1"	"K59yx11"	19155002	32278010	
+396790010	"Dysfunctional uterine haemorrhage NOS"	"K59yx"	"K59yx00"	19155002	633021000006114	
+634181000006111	"Early pregnancy haemorrhage NOS"	"L10z"	"L10z.00"	25825004	634181000006111	
+305634015	"Early pregnancy haemorrhage NOS"	"L10zz"	"L10zz00"	25825004	634191000006114	
+305638017	"Early pregnancy haemorrhage NOS - delivered"	"L10z1"	"L10z100"	25825004	634201000006112	
+305639013	"Early pregnancy haemorrhage NOS - not delivered"	"L10z2"	"L10z200"	25825004	634211000006110	
+305635019	"Early pregnancy haemorrhage NOS unspecified"	"L10z0"	"L10z000"	25825004	634221000006119	
+310700018	"Elbow haemarthrosis"	"N0912-1"	"N091211"	202405009	310700018	
+1587771000006118	"Endov ins stent graft for aortic dissection in any position"	"7A1C3"	"7A1C300"	725371005	1587771000006118	
+1701721000006112	"Endovascular ins stent for aortic dissection in any position"	"7A1BB"	"7A1BB00"	725371005	1701721000006112	
+359191000000114	"Endovascular stenting of aortic dissection in any position"	"7A1B3"	"7A1B300"	725371005	1548191000006113	
+360044012	"Enterohaemorrhagic Escherichia coli infection"	"A0703"	"A070300"	240354007	360044012	
+1773214015	"Epidemic haemorrhagic conjunctivitis"	"A774"	"A774.00"	398273006	1773214015	
+647051000006114	"Epidural haematoma following injury"	"S624-1"	"S624.11"	262949005	647051000006114	
+505381016	"Epidural haemorrhage"	"S626"	"S626.00"	82999001	505381016	
+267156014	"Epiretinal dissection"	"72730"	"7273000"	172571009	267156014	
+860691000006114	"Epistaxis control"	"7404-99"	"7404.99"	172811007	860691000006114	
+860711000006112	"Epistaxis control - cautery"	"74040-99"	"7404099"	172812000	860711000006112	
+860721000006116	"Epistaxis control - suture"	"74041-99"	"7404199"	172813005	860721000006116	
+860731000006118	"Epistaxis control -cryosurgery"	"74043-99"	"7404399"	172815003	860731000006118	
+860741000006111	"Epistaxis control NOS"	"7404z-99"	"7404z99"	557011000000106	860741000006111	
+647631000006114	"Epistaxis symptom"	"1C6-1"	"1C6..11"	162371009	647631000006114	
+91065017	"Erythematosquamous dermatosis"	"M10"	"M10..00"	54792008	91065017	
+308484017	"Erythematosquamous dermatosis NOS"	"M10z"	"M10z.00"	54792008	648421000006112	
+648841000006119	"Essential (haemorrhagic) thrombocythaemia"	"B9374"	"B937400"	109994006	648841000006119	
+649541000006113	"Evacuation of extradural haematoma"	"70320"	"7032000"	171713001	649541000006113	
+279096018	"Evacuation of haematoma NEC"	"7M0G4"	"7M0G400"	118441006	649601000006112	
+265690015	"Evacuation of haematoma from cerebellum"	"70042"	"7004200"	171474001	265690015	
+265689012	"Evacuation of haematoma from temporal lobe of brain"	"70041"	"7004100"	171473007	265689012	
+649591000006116	"Evacuation of haematoma from vagina"	"7D1C0"	"7D1C000"	392256003	649591000006116	
+500187011	"Evacuation of haematoma of vulva"	"7D052"	"7D05200"	65687007	500187011	
+265692011	"Evacuation of intracerebral haematoma NEC"	"70043"	"7004300"	10458001	649621000006119	
+433186012	"Evacuation of perianal haematoma"	"77360"	"7736000"	293018003	433186012	
+498516011	"Evacuation of subdural haematoma"	"70170"	"7017000"	59712006	498516011	
+298692016	"Exophthalmos due to orbital haemorrhage"	"F4G32"	"F4G3200"	194016009	298692016	
+420970014	"Expulsive choroidal haemorrhage"	"F4361"	"F436100"	11623000	420970014	
+300276019	"External capsule haemorrhage"	"G616"	"G616.00"	195167002	300276019	
+884431000006116	"Extradural haemorrhage"	"G620-99"	"G620.99"	397809001	884431000006116	
+660111000006117	"Extradural haemorrhage - nontraumatic"	"G620"	"G620.00"	397809001	660111000006117	
+660121000006113	"Extradural haemorrhage following injury"	"S62-1"	"S62..11"	450410005	660121000006113	
+662691000006115	"Failed attempted abortion + delayed or excessive haemorrhage"	"L081"	"L081.00"	198807003	662691000006115	
+305136017	"Female haematocele NEC"	"K5C0"	"K5C0.00"	53709002	668061000006115	
+305075011	"Functional uterine haemorrhage NOS"	"K59yy"	"K59yy00"	19155002	796881000006111	
+1707441000006119	"GDS claim - arrest of bleeding"	"EMISD_GD10"	""	1707441000006103	1707441000006119	
+19991000000116	"GMS3 claim - arrest dental haemorrhage (Rate A) paid"	"98BO"	"98BO.00"	22311000000108	804251000006111	
+19971000000115	"GMS3 claim - arrest dental haemorrhage (Rate A) sent to HA"	"98BN"	"98BN.00"	22301000000106	804261000006113	
+19951000000112	"GMS3 claim - arrest dental haemorrhage (Rate A) signed"	"98BM"	"98BM.00"	3031000000101	804271000006118	
+20051000000114	"GMS3 claim - arrest dental haemorrhage (Rate B) paid"	"98BR"	"98BR.00"	3051000000108	804281000006115	
+20031000000119	"GMS3 claim - arrest dental haemorrhage (Rate B) sent to HA"	"98BQ"	"98BQ.00"	22321000000102	804291000006117	
+20011000000110	"GMS3 claim - arrest dental haemorrhage (Rate B) signed"	"98BP"	"98BP.00"	3041000000105	804301000006116	
+8781000000114	"GMS4 claim - arrest of dental haemorrhage paid"	"98Ca"	"98Ca.00"	21491000000102	8781000000114	
+8741000000118	"GMS4 claim - arrest of dental haemorrhage signed"	"98CY"	"98CY.00"	1051000000107	8741000000118	
+8761000000117	"GMS4 claim - arrest of dental haemorrhage to HA"	"98CZ"	"98CZ.00"	725711000000102	804641000006112	
+1676481000006111	"GPC claim - arrest dental haemorrhage paid"	"98BY"	"98BY.00"	7351000000104	7761000000118	
+1693091000006116	"GPC claim - arrest dental haemorrhage sent to HB"	"98BX-z233"	""	22361000000105	1693091000006116	
+1693081000006119	"GPC claim - arrest dental haemorrhage signed"	"98BW-z232"	""	3071000000104	1693081000006119	
+885771000006112	"GU - acute + haemorrhage"	"J1101-99"	"J110199"	89748001	885771000006112	
+885811000006112	"GU - chronic + haemorrhage"	"J1111-99"	"J111199"	57246001	885811000006112	
+303660017	"Gastric haemorrhage NOS"	"J68z0"	"J68z000"	61401005	799141000006118	
+269184010	"Gastrotomy and ligation of bleeding point of stomach"	"76191"	"7619100"	173778009	269184010	
+1664361000006114	"Gingival bleeding score"	"EMISD_GI10"	""	1664361000006105	1664361000006114	
+504800015	"Haemarthrosis"	"N091"	"N091.00"	81808003	504800015	
+890621000006114	"Haemarthrosis - ankle/foot"	"N0917-99"	"N091799"	267948008	890621000006114	
+989481000006113	"Haemarthrosis - elbow joint"	"N091D-99"	"N091D99"	202405009	989481000006113	
+890571000006111	"Haemarthrosis - elbow joint"	"N0912-99"	"N091299"	202405009	890571000006111	
+890591000006112	"Haemarthrosis - hand joint"	"N0914-99"	"N091499"	27507004	890591000006112	
+890601000006116	"Haemarthrosis - hip joint"	"N0915-99"	"N091599"	202411007	890601000006116	
+890611000006118	"Haemarthrosis - knee joint"	"N0916-99"	"N091699"	202413005	890611000006118	
+989491000006111	"Haemarthrosis - knee joint"	"N091M-99"	"N091M99"	202413005	989491000006111	
+890641000006119	"Haemarthrosis - multiple joint"	"N0919-99"	"N091999"	76427005	890641000006119	
+890631000006112	"Haemarthrosis - other joint"	"N0918-99"	"N091899"	687801000000104	890631000006112	
+989471000006110	"Haemarthrosis - shoulder joint"	"N091A-99"	"N091A99"	2602008	989471000006110	
+890561000006116	"Haemarthrosis - shoulder joint"	"N0911-99"	"N091199"	2602008	890561000006116	
+890581000006114	"Haemarthrosis - wrist joint"	"N0913-99"	"N091399"	202407001	890581000006114	
+310737012	"Haemarthrosis NOS"	"N091z"	"N091z00"	81808003	812631000006112	
+310711014	"Haemarthrosis of DIP joint of finger"	"N091J"	"N091J00"	202410008	310711014	
+812701000006111	"Haemarthrosis of IP joint of toe"	"N091V"	"N091V00"	202421004	812701000006111	
+310707015	"Haemarthrosis of MCP joint"	"N091G"	"N091G00"	202408006	310707015	
+310710010	"Haemarthrosis of PIP joint of finger"	"N091H"	"N091H00"	202409003	310710010	
+310695013	"Haemarthrosis of acromioclavicular joint"	"N091C"	"N091C00"	202404008	310695013	
+812651000006117	"Haemarthrosis of ankle"	"N091P"	"N091P00"	202415003	812651000006117	
+812671000006110	"Haemarthrosis of distal radio-ulnar joint"	"N091E"	"N091E00"	202406005	812671000006110	
+310699019	"Haemarthrosis of elbow"	"N091D"	"N091D00"	202405009	310699019	
+310715017	"Haemarthrosis of hip"	"N091K"	"N091K00"	202411007	310715017	
+310720017	"Haemarthrosis of knee"	"N091M"	"N091M00"	202413005	310720017	
+812721000006118	"Haemarthrosis of lesser MTP joint"	"N091U"	"N091U00"	202420003	812721000006118	
+812741000006113	"Haemarthrosis of multiple joints"	"N0919"	"N091900"	76427005	812741000006113	
+310692011	"Haemarthrosis of other specified site"	"N0918"	"N091800"	81808003	812751000006110	
+310729016	"Haemarthrosis of other tarsal joint"	"N091S"	"N091S00"	267948008	812761000006112	
+812781000006119	"Haemarthrosis of sacro-iliac joint"	"N091L"	"N091L00"	202412000	812781000006119	
+1216220017	"Haemarthrosis of shoulder"	"N091A"	"N091A00"	700018009	812791000006116	
+310694012	"Haemarthrosis of sternoclavicular joint"	"N091B"	"N091B00"	202403002	310694012	
+310725010	"Haemarthrosis of subtalar joint"	"N091Q"	"N091Q00"	202416002	310725010	
+310728012	"Haemarthrosis of talonavicular joint"	"N091R"	"N091R00"	202417006	310728012	
+310724014	"Haemarthrosis of the ankle"	"N0917-1"	"N091711"	202415003	310724014	
+400243017	"Haemarthrosis of the ankle and foot"	"N0917"	"N091700"	267948008	400243017	
+812851000006116	"Haemarthrosis of the forearm"	"N0913"	"N091300"	202407001	812851000006116	
+812861000006119	"Haemarthrosis of the hand"	"N0914"	"N091400"	27507004	812861000006119	
+219591000000116	"Haemarthrosis of the knee"	"N0916-1"	"N091611"	202413005	219591000000116	
+812881000006112	"Haemarthrosis of the lower leg"	"N0916"	"N091600"	202413005	812881000006112	
+812891000006110	"Haemarthrosis of the pelvic region and thigh"	"N0915"	"N091500"	202411007	812891000006110	
+812901000006114	"Haemarthrosis of the shoulder region"	"N0911"	"N091100"	2602008	812901000006114	
+812911000006112	"Haemarthrosis of the upper arm"	"N0912"	"N091200"	202405009	812911000006112	
+812921000006116	"Haemarthrosis of tibio-fibular joint"	"N091N"	"N091N00"	202414004	812921000006116	
+310655011	"Haemarthrosis of unspecified site"	"N0910"	"N091000"	81808003	812931000006118	
+310705011	"Haemarthrosis of wrist"	"N091F"	"N091F00"	202407001	310705011	
+812951000006113	"Haemarthrosis-1st MTPJ"	"N091T"	"N091T00"	202419009	812951000006113	
+507679012	"Haematemesis"	"J680"	"J680.00"	8765009	507679012	
+2153991014	"Haematochezia"	"19E6-2"	"19E6.12"	405729008	2153991014	
+2536010017	"Haematocolpos"	"K5C2"	"K5C2.00"	26228000	2536010017	
+1490279016	"Haematocornea"	"F4B12-1"	"F4B1211"	231916005	1490279016	
+982751000006117	"Haematoma"	"EMISCHA4"	""	982751000006101	982751000006117	
+813251000006111	"Haematoma - perineal wound"	"L443-1"	"L443.11"	371610007	813251000006111	
+813261000006113	"Haematoma - postoperative"	"SP21-1"	"SP21.11"	213262007	215721000000114	
+813271000006118	"Haematoma NOS"	"SE4z-1"	"SE4z.11"	385494008	813271000006118	
+2674499019	"Haematoma of leg"	"SE45-1"	"SE45.11"	91603007	813281000006115	
+1207311012	"Haematoma of obstetric wound"	"L3946"	"L394600"	371614003	1207311012	
+507866018	"Haematoma of pinna"	"F5031"	"F503100"	88050005	507866018	
+451473014	"Haematoma of rectus sheath"	"SE223"	"SE22300"	308154003	451473014	
+813321000006114	"Haematoma of the broad ligament"	"K537"	"K537.00"	83294006	813321000006114	
+501268015	"Haematoma of vulva"	"K575"	"K575.00"	69385001	501268015	
+405394012	"Haematoma with intact skin"	"SE-1"	"SE...11"	105618004	813341000006119	
+489885017	"Haematometra"	"K544"	"K544.00"	38280009	489885017	
+503762012	"Haematosalpinx"	"K53y6"	"K53y600"	78095005	503762012	
+813371000006110	"Haematospermia"	"K286w-1"	"K286w11"	34615008	813371000006110	
+39303019	"Haemopericardium"	"G530"	"G530.00"	23412002	39303019	
+813961000006116	"Haemopericardium/current comp folow acut myocard infarct"	"G360"	"G360.00"	194862000	813961000006116	
+813971000006111	"Haemoperitoneum - nontraumatic"	"J56y0"	"J56y000"	45626005	813971000006111	
+477873012	"Haemopneumothorax"	"H51y1"	"H51y100"	16632002	477873012	
+1216071011	"Haemorr. control by pack NOS"	"851Z"	"851Z.00"	182605004	814161000006115	
+814171000006110	"Haemorrhage - postoperative"	"SP21-2"	"SP21.12"	110265006	814171000006110	
+814181000006113	"Haemorrhage - retinal"	"F42y-1"	"F42y.11"	28998008	814181000006113	
+300840014	"Haemorrhage NOS"	"G8y0"	"G8y0.00"	131148009	814221000006116	
+282266013	"Haemorrhage control by packing"	"851"	"851..00"	182605004	282266013	
+483054015	"Haemorrhage in early pregnancy"	"L10"	"L10..00"	25825004	483054015	
+478383018	"Haemorrhage into bladder wall"	"K167"	"K167.00"	17615006	478383018	
+504705015	"Haemorrhage of cervix"	"K55y3"	"K55y300"	81488005	504705015	
+2240871000000116	"Haemorrhage of dialysis arteriovenous fistula"	"Gy51"	"Gy51.00"	867011000000102	2240871000000116	
+2240831000000118	"Haemorrhage of dialysis arteriovenous graft"	"Gy50"	"Gy50.00"	866991000000105	2240831000000118	
+2240911000000119	"Haemorrhage of dialysis arteriovenous shunt"	"Gy52"	"Gy52.00"	867031000000105	2240911000000119	
+2237901000000119	"Haemorrhage of dialysis vascular access"	"Gy5"	"Gy5..00"	865801000000100	2237901000000119	
+105913010	"Haemorrhage of eyelid"	"F4Ey0"	"F4Ey000"	63720000	105913010	
+477248016	"Haemorrhage of oesophagus"	"J10y0"	"J10y000"	15238002	477248016	
+292686019	"Haemorrhage of parathyroid"	"C12y1"	"C12y100"	190460008	292686019	
+396382012	"Haemorrhage of rectum and anus"	"J573"	"J573.00"	266464001	396382012	
+303317017	"Haemorrhage of rectum and anus NOS"	"J573z"	"J573z00"	266464001	814291000006119	
+1783697014	"Haemorrhage of vagina"	"K56y1"	"K56y100"	289530006	814301000006118	
+479008012	"Haemorrhagic choroidal detachment"	"F4372"	"F437200"	19031009	479008012	
+485412011	"Haemorrhagic cyst of jaw"	"J0621"	"J062100"	33083001	485412011	
+294308013	"Haemorrhagic disorder due to antithrombinaemia"	"D3050"	"D305000"	191288005	294308013	
+294307015	"Haemorrhagic disorder due to circulating anticoagulants"	"D305"	"D305.00"	191287000	294307015	
+294312019	"Haemorrhagic disorder due to hyperheparinaemia"	"D3051"	"D305100"	191289002	294312019	
+294317013	"Haemorrhagic disorder due to increase in anti-10a"	"D3054"	"D305400"	191292003	294317013	
+294320017	"Haemorrhagic disorder due to increase in anti-11a"	"D3055"	"D305500"	191293008	294320017	
+294313012	"Haemorrhagic disorder due to increase in anti-8a"	"D3052"	"D305200"	191290006	294313012	
+294316016	"Haemorrhagic disorder due to increase in anti-9a"	"D3053"	"D305300"	191291005	294316016	
+476199010	"Haemorrhagic dysentery"	"A0805"	"A080500"	111939009	814431000006119	
+249896014	"Haemorrhagic nephrosonephritis"	"A786"	"A786.00"	364756009	814441000006112	
+56652016	"Haemorrhagic otitis externa"	"F501G"	"F501G00"	33934002	56652016	
+816991000006115	"Has nose bleeds - epistaxis"	"1C62"	"1C62.00"	162373007	816991000006115	
+459713018	"Heavy episode of vaginal bleeding"	"1584"	"1584.00"	315224006	459713018	
+1573461000000112	"Heavy menstrual bleeding"	"K5920-2"	"K592012"	386692008	1573461000000112	
+310716016	"Hip haemarthrosis"	"N0915-1"	"N091511"	202411007	310716016	
+124942016	"Hyphaema"	"F4440"	"F444000"	75229002	124942016	
+729101000006114	"Incom inev abor complicated by delayed or excessive haemorr"	"L0441"	"L044100"	307752007	729101000006114	
+729161000006110	"Incomp spontaneous abortion + delayed/excessive haemorrhage"	"L0411"	"L041100"	198645000	729161000006110	
+782141000006113	"Incomplete illegal abortion + delayed/excessive haemorrhage"	"L0611"	"L061100"	198745005	782141000006113	
+782251000006119	"Incomplete inev mis comp by delayed or excessive haemorrhage"	"L0441-1"	"L044111"	307752007	782251000006119	
+782351000006113	"Incomplete legal abortion + delayed or excessive haemorrhage"	"L0511"	"L051100"	198706000	782351000006113	
+320982018	"Injury of heart with haemopericardium"	"S714"	"S714.00"	210078001	320982018	
+267563018	"Insertion of Brighton epistaxis balloon"	"74053"	"7405300"	172821004	267563018	
+273634012	"Insertion of pack into vagina NEC"	"7D1D6"	"7D1D600"	387613008	772771000006110	
+355440014	"Intermenstrual bleeding"	"K59y3"	"K59y300"	237130006	355440014	
+499997018	"Intermenstrual bleeding - irregular"	"K596-1"	"K596.11"	64996003	499997018	
+355445016	"Intermenstrual bleeding - regular"	"K595-1"	"K595.11"	237132003	355445016	
+496232015	"Internal capsule haemorrhage"	"G611"	"G611.00"	52201006	496232015	
+324952015	"Internal prosthetic device causing haemorrhage"	"SP072"	"SP07200"	213133000	324952015	
+769531000006117	"Intra-ocular haemorrhage"	"F4045"	"F404500"	93478000	769531000006117	
+744731000006115	"Intra-operative haemorrhage"	"SP210"	"SP21000"	213261000	744731000006115	
+744901000006114	"Intracerebral haemorrhage"	"G61"	"G61..00"	274100004	744901000006114	
+300287010	"Intracerebral haemorrhage NOS"	"G61z"	"G61z.00"	274100004	744931000006118	
+744921000006116	"Intracerebral haemorrhage in hemisphere, unspecified"	"G61X"	"G61X.00"	274100004	744921000006116	
+300277011	"Intracerebral haemorrhage, intraventricular"	"G617"	"G617.00"	195168007	300277011	
+746571000006116	"Intracerebral haemorrhage, multiple localized"	"G618"	"G618.00"	195169004	746571000006116	
+486896012	"Intracranial haematoma following injury"	"S630-2"	"S630.12"	37955001	486896012	
+300298011	"Intracranial haemorrhage NOS"	"G62z"	"G62z.00"	1386000	769291000006116	
+768621000006112	"Intramuscular haematoma NOS"	"SE4z-2"	"SE4z.12"	262969000	768621000006112	
+307653012	"Intrapartum haemorrhage with coagulation defect"	"L3A"	"L3A..00"	200173001	307653012	
+768771000006115	"Intrapartum haemorrhage, unspecified"	"L3X"	"L3X..00"	38010008	768771000006115	
+304143019	"Intrarenal haematoma"	"K1383"	"K138300"	197813005	304143019	
+754821000006110	"Kidney haematoma with open wound into cavity"	"S7611"	"S761100"	210205007	754821000006110	
+754831000006113	"Kidney haematoma without mention of open wound into cavity"	"S7601"	"S760100"	262891006	754831000006113	
+748941000006115	"Left sided intracerebral haemorrhage, unspecified"	"G61X0"	"G61X000"	274100004	748941000006115	
+275087014	"Liposuction removal of haematoma"	"7G2H4"	"7G2H400"	177714000	275087014	
+321093013	"Liver haematoma and contusion with open wound into cavity"	"S7411"	"S741100"	210173007	321093013	
+739711000006114	"Liver haematoma and contusion without open wound into cavity"	"S7401"	"S740100"	262796008	739711000006114	
+345675012	"Lobar cerebral haemorrhage"	"G619"	"G619.00"	230710000	345675012	
+2610051000000110	"Major postpartum haemorrhage"	"L365"	""	1033591000000101	2610051000000110	
+304528011	"Male genital haematoma NOS"	"K286v"	"K286v00"	198057005	729651000006119	
+396748016	"Male genital haemorrhage NOS"	"K286w"	"K286w00"	198057005	729661000006117	
+58843018	"Mallory-Weiss syndrome"	"J107"	"J107.00"	35265002	58843018	
+1984161000006112	"Manchester triage - GI bleeding"	"EMISNQMA138"	""	1984161000006108	1984161000006112	
+1984281000006110	"Manchester triage - PV bleeding"	"EMISNQMA150"	""	1984281000006106	1984281000006110	
+716851000006119	"Massive umbilical haemorrhage"	"Q4132"	"Q413200"	206403000	716851000006119	
+5913016	"Melaena"	"J681"	"J681.00"	2901004	5913016	
+411734011	"Melaena - O/E of faeces"	"4737-1"	"4737.11"	275782008	411734011	
+355436017	"Metropathia haemorrhagica"	"K59y-1"	"K59y.11"	237128009	355436017	
+371567011	"Mid-cycle bleeding"	"K599"	"K599.00"	248981000	371567011	
+2610011000000111	"Minor postpartum haemorrhage"	"L364"	""	1033571000000100	2610011000000111	
+914911000006113	"Minor surgery postoperative complication - haemorrhage"	"EMISNQMI4"	""	914911000006109	914911000006113	
+297142019	"Myelopathy due to haematomyelia"	"F1613"	"F161300"	192900009	297142019	
+860751000006113	"Nasal packing -haemorr.control"	"7405-99"	"7405.99"	172819009	860751000006113	
+1773211000006117	"No abnormal bleeding symptom"	"EMISNQNO52"	""	1773211000006101	1773211000006117	
+1791201000000119	"No bleeding symptom on anticoagulation therapy"	"16R0"	"16R0.00"	801101000000107	1791201000000119	
+445119014	"Normocytic anaemia following acute bleed"	"D211-1"	"D211.11"	303060002	445119014	
+297191000006112	"Nose bleed symptom"	"1C6"	"1C6..00"	162371009	297191000006112	
+297201000006110	"Nose bleed symptom NOS"	"1C6Z"	"1C6Z.00"	162371009	297201000006110	
+254280011	"O/E - bleeding gums"	"2556"	"2556.00"	163164001	254280011	
+255636013	"O/E - blood in auditory canal"	"2D85"	"2D85.00"	164229005	255636013	
+255582011	"O/E - epistaxis"	"2D25"	"2D25.00"	164187003	255582011	
+255802017	"O/E - haemorrhagic bullae"	"2F65"	"2F65.00"	164352006	255802017	
+255940018	"O/E - nails-splinter haemorrh."	"2G36"	"2G36.00"	164468001	255940018	
+255775014	"O/E - petechiae present"	"2F23"	"2F23.00"	164331003	255775014	
+255337011	"O/E - retinal haemorrhages"	"2BB5"	"2BB5.00"	163987005	255337011	
+255708010	"O/E - throat haemorrhage"	"2DE7"	"2DE7.00"	164279008	255708010	
+255341010	"O/E - vitreous haemorrhages"	"2BB8"	"2BB8.00"	163990004	255341010	
+270631000006114	"O/E-subconjunctival haemorrh'g"	"22E9"	"22E9.00"	162815002	270631000006114	
+307323011	"Obstetric pelvic haematoma - delivered"	"L3571"	"L357100"	199995008	307323011	
+269731000006115	"Obstetric pelvic haematoma - delivered with p/n problem"	"L3572"	"L357200"	199996009	269731000006115	
+307320014	"Obstetric pelvic haematoma unspecified"	"L3570"	"L357000"	264558008	269351000006114	
+307327012	"Obstetric pelvic haematoma with postnatal problem"	"L3573"	"L357300"	199997000	307327012	
+307319015	"Obstetric trauma causing pelvic haematoma"	"L357"	"L357.00"	199993001	307319015	
+307328019	"Obstetric trauma causing pelvic haematoma NOS"	"L357z"	"L357z00"	199993001	268911000006115	
+267331000006112	"Occult blood in vomit"	"4A5-1"	"4A5..11"	167849002	267331000006112	
+1216060010	"Oesophageal varices with bleeding"	"G850"	"G850.00"	17709002	1216060010	
+300776018	"Oesophageal varices with bleeding in diseases EC"	"G8520"	"G852000"	195475003	300776018	
+455465010	"Open heart injury with haemopericardium"	"S7141"	"S714100"	311831009	455465010	
+320814012	"Open traumatic extradural haemorrhage"	"S625"	"S625.00"	65189006	50681000006117	
+1216907014	"Open traumatic haemopneumothorax"	"S705"	"S705.00"	73477001	1216907014	
+320735017	"Open traumatic subarachnoid haemorrhage"	"S621"	"S621.00"	5251007	50751000006115	
+320771016	"Open traumatic subdural haemorrhage"	"S623"	"S623.00"	209956005	320771016	
+1216033015	"Optic nerve sheath haemorrhage"	"F4H41"	"F4H4100"	14460007	1216033015	
+456805013	"Other abnormal uterine and vaginal bleeding"	"K5E"	"K5E..00"	301822002	39391000006119	
+300290016	"Other and unspecified intracranial haemorrhage"	"G62"	"G62..00"	62914000	38371000006110	
+305730015	"Other antepartum haemorrhage"	"L11y"	"L11y.00"	34842007	37181000006110	
+305734012	"Other antepartum haemorrhage - delivered"	"L11y1"	"L11y100"	34842007	37191000006113	
+305735013	"Other antepartum haemorrhage - not delivered"	"L11y2"	"L11y200"	34842007	37201000006111	
+305738010	"Other antepartum haemorrhage NOS"	"L11yz"	"L11yz00"	34842007	37211000006114	
+305731016	"Other antepartum haemorrhage unspecified"	"L11y0"	"L11y000"	34842007	37221000006118	
+320853015	"Other cerebral haemorrhage following injury"	"S63"	"S63..00"	450418003	35811000006118	
+320897016	"Other cerebral haemorrhage following injury NOS"	"S63z"	"S63z.00"	450418003	35821000006114	
+398335013	"Other haemorrhage in early pregnancy"	"L10y"	"L10y.00"	25825004	29031000006118	
+305627017	"Other haemorrhage in early pregnancy - delivered"	"L10y1"	"L10y100"	81448000	17661000006119	
+305630012	"Other haemorrhage in early pregnancy - not delivered"	"L10y2"	"L10y200"	30850008	17671000006114	
+305631011	"Other haemorrhage in early pregnancy NOS"	"L10yz"	"L10yz00"	25825004	29281000006112	
+305626014	"Other haemorrhage in early pregnancy unspecified"	"L10y0"	"L10y000"	25825004	29711000006110	
+307357015	"Other immediate postpartum haemorrhage"	"L361"	"L361.00"	27214003	28811000006111	
+28821000006115	"Other immediate postpartum haemorrhage - deliv with p/n prob"	"L3611"	"L361100"	27214003	28821000006115	
+307365017	"Other immediate postpartum haemorrhage NOS"	"L361z"	"L361z00"	27214003	29041000006111	
+307360010	"Other immediate postpartum haemorrhage unspecified"	"L3610"	"L361000"	27214003	29061000006110	
+29071000006115	"Other immediate postpartum haemorrhage with postnatal prob"	"L3612"	"L361200"	27214003	29071000006115	
+294400017	"Other specified disorders of clotting or bleeding"	"D3y"	"D3y..00"	64779008	12801000006116	
+44084019	"Otorrhagia"	"F5862"	"F586200"	26322001	44084019	
+396788014	"Ovulation bleeding"	"K595"	"K595.00"	266603000	396788014	
+464499018	"PRB - Rectal bleeding"	"J5730-2"	"J573012"	12063002	464499018	
+885941000006118	"PU - acute + haemorrhage"	"J1301-99"	"J130199"	12274003	885941000006118	
+885981000006112	"PU - chronic + haemorrhage"	"J1311-99"	"J131199"	49232000	885981000006112	
+282273015	"Pack non-obst.uterine bleeding"	"8513"	"8513.00"	182607007	282273015	
+394488013	"Pack to control postnatal haemorrhage"	"7F227-2"	"7F22712"	265641004	394488013	
+247771000006117	"Pack to control postnatal vaginal bleeding"	"7F227"	"7F22700"	265641004	247771000006117	
+394487015	"Pack to control postnatal vaginal bleeding"	"7F227-1"	"7F22711"	265641004	394487015	
+411006010	"Pack to control postpartum haemorrhage"	"7F227-3"	"7F22713"	275082004	411006010	
+871761000006112	"Pack to control vaginal bleed."	"7F227-99"	"7F22799"	265641004	871761000006112	
+2534219010	"Painful rectal bleeding"	"196B"	"196B.00"	414991007	2534219010	
+2534250012	"Painless rectal bleeding"	"196C"	"196C.00"	414992000	2534250012	
+1697911000006119	"Paroxysmal haematoma of the finger"	"EMISNQPA85"	""	1697911000006103	1697911000006119	
+403111013	"Peri-operative haemorrhage or haematoma"	"SP21"	"SP21.00"	269302003	403111013	
+233701000006116	"Perianal haematoma"	"G844-1"	"G844.11"	449815008	233701000006116	
+1757561000000116	"Perianal haematoma"	"S73A1"	"S73A100"	449815008	2213971000000113	
+483207010	"Perianal haematoma"	"SE231-1"	"SE23111"	237331002	233711000006118	
+1988561000006114	"Perianal hematoma"	"G84A"	""	449815008	1988561000006114	
+865621000006117	"Pericardial haematoma evacuat."	"793By-99"	"793By99"	562891000000104	865621000006117	
+355700019	"Perineal haematoma"	"L345-1"	"L345.11"	237331002	355700019	
+304164015	"Perirenal haematoma"	"K13y8"	"K13y800"	197824007	304164015	
+406782013	"Petechiae"	"2FS"	"2FS..00"	271813007	406782013	
+887801000006115	"Placenta praevia + haemorrhage"	"L111-99"	"L111.99"	198903000	887801000006115	
+305665012	"Placenta praevia with haemorrhage"	"L111"	"L111.00"	198903000	305665012	
+305669018	"Placenta praevia with haemorrhage - delivered"	"L1111"	"L111100"	198905007	305669018	
+305672013	"Placenta praevia with haemorrhage - not delivered"	"L1112"	"L111200"	198906008	305672013	
+305673015	"Placenta praevia with haemorrhage NOS"	"L111z"	"L111z00"	198903000	228361000006112	
+305668014	"Placenta praevia with haemorrhage unspecified"	"L1110"	"L111000"	198903000	228371000006117	
+503469016	"Pontine haemorrhage"	"G614"	"G614.00"	7713009	503469016	
+1938701000006110	"Post-catheterisation urethral meatal bleeding"	"EMISNQPO63"	""	1938701000006106	1938701000006110	
+878521000006118	"Post-op. haemorrhage control"	"7M0U4-99"	"7M0U499"	621531000000109	878521000006118	
+217211000006114	"Post-operative haematoma formation"	"SP212"	"SP21200"	213262007	217211000006114	
+217221000006118	"Post-operative haemorrhage"	"SP211"	"SP21100"	110265006	217221000006118	
+888561000006115	"Post-partum haemorrhage NOS"	"L36z-99"	"L36z.99"	638751000000104	888561000006115	
+81454015	"Postcoital bleeding"	"K597"	"K597.00"	48880000	81454015	
+127423017	"Postmenopausal bleeding"	"K5A1"	"K5A1.00"	76742009	127423017	
+2534105016	"Postmenopausal postcoital bleeding"	"K59B"	"K59B.00"	415149004	2534105016	
+212251000006113	"Postpartum haemorrhage (PPH)"	"L36"	"L36..00"	47821001	212251000006113	
+307386017	"Postpartum haemorrhage NOS"	"L36z"	"L36z.00"	47821001	212261000006110	
+2533968014	"Premenopausal postcoital bleeding"	"K59A"	"K59A.00"	415168001	2533968014	
+458848011	"Primary post tonsillectomy haemorrhage"	"SP213"	"SP21300"	314483007	458848011	
+304404012	"Prostatic congestion or haemorrhage"	"K221"	"K221.00"	197973004	304404012	
+304407017	"Prostatic congestion or haemorrhage NOS"	"K221z"	"K221z00"	197973004	203321000006116	
+1216632014	"Prostatic haemorrhage"	"K2211"	"K221100"	44843000	1216632014	
+355429018	"Pubertal bleeding and menorrhagia"	"K593-1"	"K593.11"	237126008	355429018	
+396786013	"Puberty bleeding"	"K593"	"K593.00"	266602005	396786013	
+1230253013	"Radical block neck dissection"	"7H607"	"7H60700"	45685007	1230253013	
+20792019	"Rectal bleeding"	"J5730-1"	"J573011"	12063002	20792019	
+464500010	"Rectal haemorrhage"	"J5730"	"J573000"	12063002	464500010	
+282268014	"Rectal packing-haemorr.control"	"8512"	"8512.00"	182606003	282268014	
+184131000006117	"Reexploration of organ & surgical arrest postop bleeding NOC"	"7M0U4"	"7M0U400"	621531000000109	184131000006117	
+1779671000006113	"Referral to rectal bleeding clinic"	"EMISNQRE289"	""	1779671000006109	1779671000006113	
+2111911000000119	"Referral to rectal bleeding clinic"	"8HTE0"	"8HTE000"	809121000000102	2111911000000119	
+304142012	"Renal artery haemorrhage"	"K1381"	"K138100"	197812000	304142012	
+176891000006112	"Renal haematoma with open wound into cavity"	"S7611-1"	"S761111"	210205007	176891000006112	
+176901000006111	"Renal haematoma without mention of open wound into cavity"	"S7601-1"	"S760111"	262891006	176901000006111	
+177571000006110	"Reopen abdo reexplore intraabd op site surg arr postop bleed"	"7H226"	"7H22600"	177956008	177571000006110	
+177591000006111	"Reopen chest reexplore intraabdom op site surg arr PO bleed"	"7H022"	"7H02200"	177768005	177591000006111	
+177601000006115	"Reopen cranium reexploration op site arrest post op bleeding"	"7J013"	"7J01300"	178376007	177601000006115	
+297864014	"Retinal haemorrhage NOS"	"F42y5"	"F42y500"	28998008	169901000006112	
+1216693019	"Retinal pigment epithelium haemorrhagic detachment"	"F4243"	"F424300"	50165004	1216693019	
+298916015	"Retrobulbar haemorrhage"	"F4K7"	"F4K7.00"	194179009	298916015	
+353768014	"Retroperitoneal haematoma"	"S7805"	"S780500"	236002003	353768014	
+163261000006119	"Right sided intracerebral haemorrhage, unspecified"	"G61X1"	"G61X100"	308128006	704642018	
+156461000006116	"Scrotal haematoma due to nontraumatic cause"	"K2860"	"K286000"	198058000	156461000006116	
+1216798017	"Scrotal haemorrhage"	"K2861"	"K286100"	62182006	1216798017	
+157431000006110	"Secondary and delayed postpartum haemorrhage"	"L362"	"L362.00"	23171006	157431000006110	
+307373014	"Secondary and delayed postpartum haemorrhage NOS"	"L362z"	"L362z00"	23171006	157441000006117	
+323899017	"Secondary and recurrent haemorrhage"	"SK02-2"	"SK02.12"	212373009	323899017	
+157461000006118	"Secondary and recurrent haemorrhage"	"SK02-1"	"SK02.11"	212373009	157461000006118	
+157451000006115	"Secondary and recurrent haemorrhage"	"SK02"	"SK02.00"	212373009	157451000006115	
+458851016	"Secondary post tonsillectomy haemorrhage"	"SP214"	"SP21400"	314484001	458851016	
+152031000006115	"Secondary postpartum haemorrhage - deliv with postnatal prob"	"L3621"	"L362100"	200025008	152031000006115	
+307368015	"Secondary postpartum haemorrhage unspecified"	"L3620"	"L362000"	23171006	152041000006113	
+307372016	"Secondary postpartum haemorrhage with postnatal problem"	"L3622"	"L362200"	23171006	152051000006110	
+899231000006115	"Secondary/recurrent haemorr'ge"	"SK02-99"	"SK02.99"	212373009	899231000006115	
+300407010	"Sequelae of intracerebral haemorrhage"	"G681"	"G681.00"	195241001	300407010	
+149551000006111	"Sequelae of other nontraumatic intracranial haemorrhage"	"G682"	"G682.00"	363302008	149551000006111	
+300406018	"Sequelae of subarachnoid haemorrhage"	"G680"	"G680.00"	195240000	300406018	
+959701000006119	"Sore/swollen/bleeding gums"	"EMISCSO4"	""	959701000006103	959701000006119	
+135621000006117	"Spleen haematoma with open wound into cavity"	"S7511"	"S751100"	210190001	135621000006117	
+135631000006119	"Spleen haematoma without mention of open wound into cavity"	"S7501"	"S750100"	262818004	135631000006119	
+411401013	"Spontaneous abortion with heavy bleeding"	"L0401-1"	"L040111"	275421004	411401013	
+122371000006118	"Stroke due to intracerebral haemorrhage"	"G61-2"	"G61..12"	274100004	122371000006118	
+123341000006116	"Subarachnoid h'ge inj + open intracran wnd+1-24hr loss consc"	"S6213"	"S621300"	87253004	123341000006116	
+123351000006119	"Subarachnoid h'ge inj + open intracran wnd+concussion unspec"	"S621z"	"S621z00"	5251007	123351000006119	
+123361000006117	"Subarachnoid h'ge inj + open intracran wound + unspec consc"	"S6210"	"S621000"	5251007	123361000006117	
+123371000006112	"Subarachnoid h'ge inj + open intracran wound+<1hr loss consc"	"S6212"	"S621200"	59633005	123371000006112	
+123381000006110	"Subarachnoid h'ge inj + open intracranial wound + no LOC"	"S6211"	"S621100"	209940000	123381000006110	
+123391000006113	"Subarachnoid h'ge inj no open intracran wnd+<1hr loss consc"	"S6202"	"S620200"	28048009	123391000006113	
+123401000006110	"Subarachnoid h'ge inj no open intracran wnd+>24 LOC+recovery"	"S6204"	"S620400"	28048009	123401000006110	
+123411000006113	"Subarachnoid h'ge inj no open intracran wnd+no loss consc"	"S6201"	"S620100"	28048009	123411000006113	
+123421000006117	"Subarachnoid h'ge inj no open intracran wound + 1-24hr LOC"	"S6203"	"S620300"	28048009	123421000006117	
+123431000006119	"Subarachnoid h'ge inj no open intracran wound + unspec consc"	"S6200"	"S620000"	28048009	123431000006119	
+123441000006112	"Subarachnoid haemorrh from intracranial artery, unspecif"	"G60X"	"G60X.00"	21454007	123441000006112	
+481028017	"Subarachnoid haemorrhage"	"G60"	"G60..00"	21454007	481028017	
+300257016	"Subarachnoid haemorrhage NOS"	"G60z"	"G60z.00"	21454007	123541000006113	
+391042012	"Subarachnoid haemorrhage following injury"	"S62-2"	"S62..12"	450375008	123471000006116	
+123481000006118	"Subarachnoid haemorrhage from anterior communicating artery"	"G603"	"G603.00"	21454007	123481000006118	
+123491000006115	"Subarachnoid haemorrhage from basilar artery"	"G605"	"G605.00"	276284000	123491000006115	
+300244012	"Subarachnoid haemorrhage from carotid siphon and bifurcation"	"G601"	"G601.00"	195155004	300244012	
+123511000006114	"Subarachnoid haemorrhage from middle cerebral artery"	"G602"	"G602.00"	21454007	123511000006114	
+123521000006118	"Subarachnoid haemorrhage from posterior communicating artery"	"G604"	"G604.00"	21454007	123521000006118	
+300253017	"Subarachnoid haemorrhage from vertebral artery"	"G606"	"G606.00"	195160000	300253017	
+503913016	"Subconjunctival haemorrhage"	"F4C71"	"F4C7100"	78768009	503913016	
+2475119012	"Subdural haematoma - nontraumatic"	"G622"	"G622.00"	195176009	124201000006111	
+884441000006114	"Subdural haemorrhage"	"G621-99"	"G621.99"	195176009	884441000006114	
+300294013	"Subdural haemorrhage - nontraumatic"	"G621"	"G621.00"	195176009	300294013	
+2534198011	"Subdural haemorrhage NOS"	"G623"	"G623.00"	35486000	980281000006117	
+320836010	"Subdural haemorrhage following injury"	"S62-3"	"S62..13"	209987007	320836010	
+933081000006112	"Subperiosteal haematoma"	"SE4z-98"	"SE4z.98"	669341000000103	933081000006112	
+989951000006111	"Subperiosteal haematoma"	"SE46-99"	"SE46.99"	274179004	989951000006111	
+475607010	"Subretinal haemorrhage"	"F42y4"	"F42y400"	13937002	475607010	
+1576441000006114	"Subungual Haematoma"	"EGTONSU1"	""	1576441000006105	1576441000006114	
+403014019	"Subungual haematoma"	"SE330-1"	"SE33011"	269219004	403014019	
+499542018	"Superficial retinal haemorrhage"	"F42y1"	"F42y100"	63297008	499542018	
+267550012	"Surgical arrest of bleeding from internal nose"	"7404"	"7404.00"	172811007	267550012	
+267560015	"Surgical arrest of bleeding from internal nose NOS"	"7404z"	"7404z00"	172811007	117201000006114	
+117211000006112	"Surgical arrest of bleeding from internal nose OS"	"7404y"	"7404y00"	172811007	117211000006112	
+117221000006116	"Surgical arrest of bleeding post dental extraction"	"75175-1"	"7517511"	173330006	117221000006116	
+1006061000006112	"Surgical arrest of post-extraction haemorrhage"	"EMISD_SU10"	""	1006061000006108	1006061000006112	
+268510012	"Surgical arrest of postoperative bleeding from tonsillar bed"	"75314"	"7531400"	173440008	268510012	
+117241000006111	"Surgical arrest of postoperative bleeding from tooth socket"	"75175"	"7517500"	173330006	117241000006111	
+1543141000006110	"Surgical arrest of postoperative bleeding of adenoid"	"74213"	"7421300"	39508008	1543141000006110	
+114801000006118	"Tanner devascularisation for bleeding varices"	"7609y-1"	"7609y11"	173617001	114801000006118	
+301948013	"Teeth staining due to pulpal bleeding"	"J0172"	"J017200"	196320004	301948013	
+106221000006115	"Third-stage postpartum haemorrhage"	"L360"	"L360.00"	47236005	106221000006115	
+106231000006117	"Third-stage postpartum haemorrhage - deliv with p/n problem"	"L3601"	"L360100"	47236005	106231000006117	
+307356012	"Third-stage postpartum haemorrhage NOS"	"L360z"	"L360z00"	47236005	106241000006110	
+307348014	"Third-stage postpartum haemorrhage unspecified"	"L3600"	"L360000"	47236005	106251000006112	
+307352014	"Third-stage postpartum haemorrhage with postnatal problem"	"L3602"	"L360200"	47236005	106261000006114	
+1216311012	"Thyroid haemorrhage"	"C0630"	"C063000"	3002002	1216311012	
+292443012	"Thyroid haemorrhage and infarction"	"C063"	"C063.00"	190305000	292443012	
+292445017	"Thyroid haemorrhage or infarction NOS"	"C063z"	"C063z00"	190305000	101471000006110	
+505306012	"Tracheostomy haemorrhage"	"H5y00"	"H5y0000"	82872004	505306012	
+505324014	"Traumatic cerebral haemorrhage"	"S62-4"	"S62..14"	450418003	2916058017	
+391028016	"Traumatic extradural haematoma"	"S62A"	"S62A.00"	262949005	391028016	
+459518012	"Traumatic extradural haematoma with open intracranial wound"	"S62A1"	"S62A100"	315049003	459518012	
+409951019	"Traumatic haematoma"	"SE46"	"SE46.00"	274179004	409951019	
+493317017	"Traumatic haemopneumothorax"	"S708"	"S708.00"	42434002	493317017	
+391043019	"Traumatic subarachnoid haemorrhage"	"S627"	"S627.00"	450375008	86251000006119	
+391035012	"Traumatic subdural haematoma"	"S629"	"S629.00"	262952002	2913152010	
+459514014	"Traumatic subdural haematoma with open intracranial wound"	"S6291"	"S629100"	315047001	459514014	
+459511018	"Traumatic subdural haematoma without open intracranial wound"	"S6290"	"S629000"	315046005	459511018	
+320835014	"Traumatic subdural haemorrhage"	"S628"	"S628.00"	209987007	320835014	
+894341000006117	"Umbilical haemorrhage"	"Q413-99"	"Q413.99"	82986004	894341000006117	
+81241000006111	"Unsp inevitable mis comp by delayed or excessive haemorrhage"	"L0431-1"	"L043111"	198645000	81241000006111	
+81301000006118	"Unspec duodenal ulcer; unspec haemorrhage and/or perforation"	"J12yy"	"J12yy00"	51868009	81301000006118	
+81311000006115	"Unspec gastric ulcer; unspec haemorrhage and/or perforation"	"J11yy"	"J11yy00"	62366003	81311000006115	
+81321000006111	"Unspec gastrojejunal ulcer with haemorrhage and perforation"	"J14y3"	"J14y300"	16121001	81321000006111	
+81331000006114	"Unspec gastrojejunal ulcer; unspec haemorrhage/perforation"	"J14yy"	"J14yy00"	16121001	81331000006114	
+81341000006116	"Unspec illegal abortion + delayed or excessive haemorrhage"	"L0601"	"L060100"	49632008	81341000006116	
+81391000006113	"Unspec inevit abortion comp by delayed or excessive haemorr"	"L0431"	"L043100"	198645000	81391000006113	
+81501000006111	"Unspec peptic ulcer; unspec haemorrhage and/or perforation"	"J13yy"	"J13yy00"	13200003	81501000006111	
+81511000006114	"Unspec spontaneous abortion + delayed/excessive haemorrhage"	"L0401"	"L040100"	17369002	81511000006114	
+305488018	"Unspecified abortion with delayed or excessive haemorrhage"	"L0701"	"L070100"	17369002	81731000006113	
+297943011	"Unspecified choroidal haemorrhage"	"F4360"	"F436000"	122003	82281000006114	
+82381000006116	"Unspecified complete abortion +delayed/excessive haemorrhage"	"L0721"	"L072100"	198656000	82381000006116	
+302534015	"Unspecified duodenal ulcer with haemorrhage"	"J12y1"	"J12y100"	27281001	76151000006119	
+302537010	"Unspecified duodenal ulcer with haemorrhage and perforation"	"J12y3"	"J12y300"	51868009	76161000006117	
+302487018	"Unspecified gastric ulcer with haemorrhage"	"J11y1"	"J11y100"	15902003	76411000006110	
+302490012	"Unspecified gastric ulcer with haemorrhage and perforation"	"J11y3"	"J11y300"	62366003	76421000006119	
+302606019	"Unspecified gastrojejunal ulcer with haemorrhage"	"J14y1"	"J14y100"	16121001	76481000006115	
+76811000006113	"Unspecified incomplete abortion + delayed/excess haemorrhage"	"L0711"	"L071100"	198645000	76811000006113	
+77161000006115	"Unspecified legal abortion + delayed/excessive haemorrhage"	"L0501"	"L050100"	609446006	77161000006115	
+302568014	"Unspecified peptic ulcer with haemorrhage"	"J13y1"	"J13y100"	13200003	77911000006116	
+302571018	"Unspecified peptic ulcer with haemorrhage and perforation"	"J13y3"	"J13y300"	13200003	77921000006112	
+354662010	"Ureteric haemorrhage"	"K13F"	"K13F.00"	236606001	354662010	
+371989018	"Urethral bleeding"	"K19y4-1"	"K19y411"	249301002	371989018	
+1938681000006112	"Urethral meatal bleeding during urinary catheterisation"	"EMISNQUR31"	""	1938681000006108	1938681000006112	
+1786762014	"Vaginal bleeding"	"158-2"	"158..12"	289530006	64391000006113	
+496575013	"Vaginal haematoma"	"K566"	"K566.00"	53162000	496575013	
+300724017	"Varicose veins of the leg with rupture"	"G833"	"G833.00"	195448005	300724017	
+265731013	"Ventricle of brain and subarachnoid space operations"	"701"	"701..00"	171509005	265731013	
+265801010	"Ventricle of brain and subarachnoid space operations NOS"	"701z"	"701z.00"	171509005	67101000006110	
+67111000006113	"Ventricle of brain or subarachnoid space operations OS"	"701y"	"701y.00"	171509005	67111000006113	
+345710016	"Vertebral artery dissection"	"G6733"	"G673300"	230730001	345710016	
+484848010	"Vitreous haemorrhage"	"F4K28"	"F4K2800"	31341008	484848010	
+398425015	"Vulval and perineal haematoma during delivery"	"L345-2"	"L345.12"	267269004	398425015	
+64071000006114	"Vulval and perineal haematoma during delivery"	"L345"	"L345.00"	267269004	64071000006114	
+64091000006110	"Vulval and perineal haematoma during delivery + p/n problem"	"L3452"	"L345200"	199945007	64091000006110	
+307238010	"Vulval and perineal haematoma during delivery - delivered"	"L3451"	"L345100"	199944006	307238010	
+307242013	"Vulval and perineal haematoma during delivery NOS"	"L345z"	"L345z00"	267269004	64111000006118	
+307237017	"Vulval and perineal haematoma during delivery, unspecified"	"L3450"	"L345000"	267269004	64121000006114	
+869431000006119	"Vulval haematoma evacuated"	"7D052-99"	"7D05299"	65687007	869431000006119	
+310706012	"Wrist haemarthrosis"	"N0913-1"	"N091311"	202407001	310706012	
+317408012	"[D]Cough with haemorrhage"	"R0630"	"R063000"	66857006	294421000006110	
+317316016	"[D]Epistaxis"	"R047"	"R047.00"	12441001	295021000006115	
+1222500018	"[D]Nosebleed"	"R047-1"	"R047.11"	12441001	300251000006115	
+317224011	"[D]Petechiae"	"R0270"	"R027000"	271813007	301091000006113	
+317409016	"[D]Pulmonary haemorrhage NOS"	"R0631"	"R063100"	78144005	301491000006118	
+317317013	"[D]Throat haemorrhage"	"R048"	"R048.00"	324618004	303281000006116	
+317617016	"[D]Umbilical bleeding"	"R09z0"	"R09z000"	78349008	303491000006119	
+313251000006114	"[M]Multiple haemorrhagic sarcoma"	"BBTA-1"	"BBTA.11"	49937004	313251000006114	
+317993018	"[X]Haemorrhage from other sites in respiratory passages"	"Ryu02"	"Ryu0200"	397271000000104	388341000006114	
+317999019	"[X]Haemorrhage from respiratory passages, unspecified"	"Ryu07"	"Ryu0700"	397271000000104	388351000006111	
+318044011	"[X]Haemorrhage, not elsewhere classified"	"Ryu73"	"Ryu7300"	131148009	388361000006113	
+300956017	"[X]Intracerebral haemorrhage in hemisphere, unspecified"	"Gyu6F"	"Gyu6F00"	274100004	394411000006112	
+308171018	"[X]Intrapartum haemorrhage, unspecified"	"Lyu4M"	"Lyu4M00"	38010008	394451000006113	
+308128010	"[X]Other antepartum haemorrhage"	"Lyu3E"	"Lyu3E00"	34842007	406821000006115	
+308098016	"[X]Other haemorrhage in early pregnancy"	"Lyu20"	"Lyu2000"	25825004	410701000006117	
+308156017	"[X]Other immediate postpartum haemorrhage"	"Lyu4D"	"Lyu4D00"	47821001	411021000006117	
+300939013	"[X]Other intracerebral haemorrhage"	"Gyu62"	"Gyu6200"	274100004	411291000006111	
+308146016	"[X]Other intrapartum haemorrhage"	"Lyu47"	"Lyu4700"	38010008	411311000006110	
+305260014	"[X]Other specified abnormal uterine and vaginal bleeding"	"Kyu9D"	"Kyu9D00"	301822002	413961000006111	
+300936018	"[X]Other subarachnoid haemorrhage"	"Gyu61"	"Gyu6100"	21454007	416681000006118	
+426231000006114	"[X]Sequelae of other nontraumatic intracranial haemorrhage"	"Gyu6B"	"Gyu6B00"	363302008	426231000006114	
+428181000006115	"[X]Subarachnoid haemorrh from intracranial artery, unspecif"	"Gyu6E"	"Gyu6E00"	21454007	428181000006115	
+300935019	"[X]Subarachnoid haemorrhage from other intracranial arteries"	"Gyu60"	"Gyu6000"	21454007	428191000006117	
+299491012	"[X]Vitreous haemorrhage in diseases classified elsewhere"	"FyuH4"	"FyuH400"	31341008	432541000006115	

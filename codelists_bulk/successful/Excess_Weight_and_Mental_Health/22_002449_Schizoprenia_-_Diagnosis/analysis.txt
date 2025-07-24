@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 139
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tSchizophrenia_diagnosis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                                        \tMedCodeId\tObservations\tTerm\tSchizophrenia_diagnosis
+0\t1975261000006113\t1.0\tPost-schizophrenic depression              episodic remittent\tSchizophrenia_diagnosis
+1\t1975301000006116\t1.0\tPost-schizophrenic depression              complete remission\tSchizophrenia_diagnosis
+2\t1975281000006115\t1.0\tPost-schizophrenic depression            incomplete remission\tSchizophrenia_diagnosis

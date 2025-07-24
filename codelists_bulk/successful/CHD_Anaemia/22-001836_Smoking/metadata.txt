@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/22_001836_CHD_Anaemia/blob/main/Codelists/Smoking.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/22_001836_CHD_Anaemia/main/Codelists/Smoking.csv
+Codelist Name: Smoking
+Project Title: CHD Anaemia
+ERAP Number: 22-001836
+Author: Cynthia Wright Drakesmith, Margaret Smith
+Coding System: Gold
+Year Created: 2024
+Downloaded: 2025-06-25 13:28:46
+File Size: 18567 bytes

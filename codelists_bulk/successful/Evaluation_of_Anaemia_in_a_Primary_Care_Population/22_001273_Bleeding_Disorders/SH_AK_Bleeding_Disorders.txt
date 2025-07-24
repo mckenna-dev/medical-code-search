@@ -1,0 +1,119 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a474305019	30170	von Willebrand's disease	b128105004
+a481149018	12138	Hereditary haemorrhagic telangiectasia	b21877004
+a814041000006118	10948	Congenital factor VIII deficiency	b28293008
+a483814018	8168	Haemophilia A	b28293008
+a515411000006113	4482	Bleeding disorder	b64779008
+a814061000006119	2760	Factor XI deficiency	b49762007
+a294402013	2500	Clotting or bleeding disorder NOS	b64779008
+a814051000006116	2459	Congenital factor IX deficiency	b41788008
+a611021000006115	2086	Factor VII deficiency	b37193007
+a493094016	1772	Haemophilia B	b41788008
+a61104100000611	1570	Factor XII deficiency	b46981006
+a3977651000006112	1503	Haemophilia	b90935002
+a611011000006111	1240	Factor V deficiency	b4320005
+a294400017	785	Other specified disorders of clotting or bleeding	b64779008
+a4404081000006112	736	von Willebrand disorder	b128105004
+a213661000000112	699	Haemophilia - specialty	b408442008
+a611001000006113	570	Factor II deficiency	b73975000
+a882051000006114	480	Haemophilia	b28293008
+a43401012	405	Acquired coagulation factor deficiency	b25904003
+a294297011	380	Congenital deficiency of other clotting factors	b64779008
+a611031000006117	310	Deficiency of factor X or Stuart-Prower factor	b76642003
+a495497019	296	Haemophilia C	b49762007
+a122801701	291	Glanzmann's syndrome	b32942005
+a351285016	289	Hypofibrinogenaemia	b234457009
+a852891000006118	264	Factor V11 deficiency	b852891000006102
+a2954081000006114	260	Hereditary factor VIII deficiency disease	b28293008
+a284802100000611	246	HHT - Hereditary haemorrhagic telangiectasia	b21877004
+a48507801	242	Congenital afibrinogenaemia	b31925001
+a5067241000006117	215	Hereditary C1 esterase inhibitor deficiency - deficient factor	b234619000
+a294305011	210	Congenital deficiency of other clotting factor NOS	b64779008
+a3746561000006115	203	Factor X deficiency	b76642003
+a611051000006112	200	Factor XIII deficiency	b18604004
+a492781000006112	140	Arthropathy due to haemophilia	b80813006
+a581591000006116	134	Congenital deficiency of other clotting factor OS	b64779008
+a3305521000006113	126	Hereditary factor XI deficiency disease	b49762007
+a351106013	118	Congenital deficiency of intrinsic factor	b234361004
+a3030331000006118	107	Glanzmann's thrombasthenia	b32942005
+a294326011	89	Acquired factor II deficiency	b191298004
+a3259381000006115	69	Factor XII deficiency disease	b46981006
+a355605016	68	Antepartum haemorrhage with hypofibrinogenaemia	b237270006
+a6762361000006114	67	Haemophilia	b408442008
+a1216410012	66	Hereditary haemorrhagic thrombasthenia	b32942005
+a294329016	61	Acquired coagulation factor deficiency NOS	b234466008
+a3173201000006118	56	Hereditary factor IX deficiency disease	b41788008
+a29432501	54	Deficiency of coagulation factor due to vitamin K deficiency	b191297009
+a7567551000006119	44	Haemophilia clinic	b702866006
+a5064881000006118	41	Congenital von Willebrand's disease type I	b234447008
+a440417100000611	33	vWD - von Willebrand's disease	b128105004
+a4404161000006115	31	von Willebrand disease	b128105004
+a294328012	28	Other specified acquired coagulation factor deficiency	b25904003
+a2767831000006111	27	Severe haemophilia A	b16872008
+a411044018	25	Spouse haemophiliac	b275113000
+a5064911000006118	23	Congenital von Willebrand's disease type II	b234448003
+a2790621000006112	22	von Willebrand factor	b18288009
+a294324014	22	Deficiency of coagulation factor due to liver disease	b191296000
+a12059961000006113	20	Factor XI deficiency	b767713001
+a5064851000006114	18	Congenital von Willebrand's disease	b234446004
+a473211000006112	17	Afibrinogenaemia - acquired	b359730001
+a4404241000006111	17	von Willebrand disease type 2	b128107007
+a4404221000006116	17	von Willebrand disease type 1	b128106003
+a478723018	16	Fibrin stabilising factor deficiency	b18604004
+a2916421000006118	15	Mild haemophilia A	b26029002
+a373801100000611	15	Cyclothymic disorder	b76105009
+a5064761000006118	14	Factor VIII deficiency	b234440005
+a12704301000006118	13	Hereditary factor I deficiency disease	b31925001
+a3259401000006115	13	Hageman factor deficiency	b46981006
+a5064981000006113	12	Acquired von Willebrand's disease	b234451005
+a1776191000006114	10	Staff group: Nursing - Haemophilia Nursing Services	b1776191000006105
+a2848031000006113	10	HHT - Hereditary hemorrhagic telangiectasia	b21877004
+a4197841000006115	10	Dysfibrinogenaemia	b111589005
+a4779721000006113	9	Oesophageal varices with bleeding, associated with another disorder	b195475003
+a506480100000611	8	Hereditary factor VIII deficiency disease with inhibitor	b234442002
+a8313641000006115	8	Haemophilia service	b893311000000105
+a2795111000006116	8	Factor XIII deficiency disease	b18604004
+a951921000033114	7	Von Willebrand Factor	b18288009
+a2725441000006116	6	Acquired factor VIII deficiency disease	b14230004
+a5065011000006118	5	Acquired von Willebrand disease	b234451005
+a35560901	5	Antepartum haemorrhage with afibrinogenaemia	b237272003
+a3385641000006118	5	Bernard Soulier syndrome	b54569005
+a30555401	5	Afibrinogenaemia following abortive pregnancy	b609456005
+a13949871000006112	4	Low von Willebrand factor	b860725002
+a1394988100000611	4	Low VWF (von Willebrand factor)	b860725002
+a13646811000006113	4	Acquired haemophilia	b785308008
+a5064891000006115	4	vWD - Congenital von Willebrand's disease type I	b234447008
+a11879821000006113	3	Product containing von Willebrand factor	b346711005
+a2916401000006111	3	Mild hereditary factor VIII deficiency disease	b26029002
+a1695471000006114	3	Adverse reaction to Von Willebrand Factor	b1695471000006105
+a14152591000006118	3	Molybdenum cofactor deficiency complementation group B	b1003368009
+a3867321000006112	3	Factor V AND factor VIII deficiency	b84048006
+a5067381000006118	3	Factor I deficiency	b234621005
+a440426100000611	3	von Willebrand disease type 3	b128108002
+a676234100000611	3	Haemophilia - speciality	b408442008
+a269342100000611	2	Acquired factor IX deficiency disease	b12153008
+a1992431000006119	2	VTE risk assessment - acquired bleeding disorder	b1992431000006103
+a4197851000006118	2	Dysfibrinogenemia	b111589005
+a6762371000006119	2	Hemophilia	b408442008
+a3499931000006111	2	Factor IX AND factor XI deficiency	b61551003
+a12059951000006111	2	Factor IX deficiency	b767712006
+a4779751000006116	2	Oesophageal varices without bleeding, associated with another disorder	b195476002
+a5065091000006111	2	Hypodysfibrinogenaemia	b234458004
+a5969401000006118	1	Autoimmune factor VIII deficiency	b307515009
+a7762071000006118	1	MYH9 macrothrombocytopenia syndrome	b717769007
+a13718201000006112	1	Abnormal uterine bleeding due to endometrial disorder	b16755141000119106
+a6986351000006119	1	Gonadotropin releasing factor deficiency	b422240004
+a7246961000006111	1	Mild haemophilia B without inhibitor	b441192006
+a7244471000006116	1	Severe haemophilia A without inhibitor	b440993008
+a3231971000006115	1	Hereditary dysfibrinogenaemia	b45366001
+a3099051000006114	1	Deficiency of stable factor	b37193007
+a1912631000006117	1	Adverse reaction to Von Willebrand Factor	b1912631000006101
+a3899271000006114	1	Coagulation factor deficiency syndrome	b86075001
+a5065081000006113	1	Hypofibrinogenemia	b234457009
+a4195401000006113	1	Chediak Higashi syndrome	b111396008
+a3746581000006113	1	Factor 10 deficiency	b76642003
+a5064961000006115	1	vWD - Congenital von Willebrand's disease type III	b234450006
+a2673961000006117	1	Cryofibrinogenaemia	b10934005
+a3036521000006111	1	Moderate haemophilia A	b33344008
+a3099061000006111	1	Factor 7 deficiency	b37193007
+a3081281000006111	1	Wiskott Aldrich syndrome	b36070007

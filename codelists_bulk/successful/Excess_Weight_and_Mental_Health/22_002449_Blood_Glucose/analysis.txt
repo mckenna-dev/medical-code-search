@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 51
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tblood_glucose']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                       \tMedCodeId\tObservations\tTerm\tblood_glucose
+0  0\ta134471000000110\t30000000\tPlasma glucose level\tblood_glucose
+1    1\ta129841000000118\t6000000\tSerum glucose level\tblood_glucose
+2    2\ta128091000000112\t6000000\tBlood glucose level\tblood_glucose

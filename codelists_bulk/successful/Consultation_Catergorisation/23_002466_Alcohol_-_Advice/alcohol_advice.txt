@@ -1,0 +1,19 @@
+MedCodeId,Observations,Term,SnomedCTConceptId
+a240741000006114,8000000,Education about alcohol consumption,281078001
+a817981000006115,5000000,Health education - alcohol,408947007
+a936001000006111,900000,Advice relating to alcohol consumption,281078001
+a1680121000006110,800000,Brief intervention for excessive alcohol consumption completed,366371000000105
+a283028013,100000,Alcohol leaflet given,183098002
+a265094011,70000,Pregnancy alcohol education,171057006
+a1680131000006113,50000,Extended intervention for excessive alcohol consumption completed,366421000000103
+a2532939017,50000,Alcohol consumption counselling,413473000
+a6769921000006111,20000,Alcohol abuse prevention education,408947007
+a1724531000000116,6000,Advised to abstain from alcohol consumption,704106009
+a2534258017,2000,Alcohol counselling by other agencies,527961000000108
+a739501000000112,2000,Advised to contact primary care alcohol worker,375941000000101
+a8066881000006119,1000,Discussion about maternal wellbeing - alcohol,206301000000105
+a2437261000000112,1000,Family wellbeing discussion about alcohol,955731000000102
+a2007461000006118,100,SRH care activity - alcohol brief intervention,2007461000006102
+a1538911000006119,2,Structured alcohol intervention,1538911000006103
+a923221000006119,1,Pregnancy alcohol advice,923221000006103
+a6841781000006117,1,Alcohol consumption counseling,413473000

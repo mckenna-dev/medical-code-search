@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 10
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tunexpected_weight_loss']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                           \tMedCodeId\tObservations\tTerm\tunexpected_weight_loss
+0   0\ta1715211000000118\t40000\tUnintentional weight loss\tunexpected_weight_loss
+1  1\ta1780210016\t70000\tWeight loss from baseline weight\tunexpected_weight_loss
+2           2\ta2549043017\t30000\tIntentional weight loss\tunexpected_weight_loss

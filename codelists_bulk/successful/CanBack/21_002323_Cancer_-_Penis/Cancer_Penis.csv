@@ -1,0 +1,16 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+2057,Cancer,Penis,a289242018,Malignant neoplasm of penis and other male genital organs,L1:Cancer_L2:Penis,B48..00
+2058,Cancer,Penis,a1228575017,Malignant neoplasm of prepuce (foreskin),L1:Cancer_L2:Penis,B480.00
+2059,Cancer,Penis,a725771000006116,Malignant neoplasm of glans penis,L1:Cancer_L2:Penis,B481.00
+2060,Cancer,Penis,a289246015,Malignant neoplasm of body of penis,L1:Cancer_L2:Penis,B482.00
+2061,Cancer,Penis,a289249010,"Malignant neoplasm of penis, part unspecified",L1:Cancer_L2:Penis,B483.00
+2062,Cancer,Penis,a406263015,Malignant neoplasm of genitourinary organ,L1:Cancer_L2:Penis,B4...00
+2063,Cancer,Penis,a380092019,Carcinoma of genitourinary organ,L1:Cancer_L2:Penis,B4...11
+2064,Cancer,Penis,a1219540012,"Malignant neoplasm, overlapping lesion of penis",L1:Cancer_L2:Penis,B487.00
+2065,Cancer,Penis,a289251014,Malignant neoplasm of other male genital organ,L1:Cancer_L2:Penis,B48y.00
+2066,Cancer,Penis,a289252019,Malignant neoplasm of seminal vesicle,L1:Cancer_L2:Penis,B48y000
+2067,Cancer,Penis,a720591000006115,"Malignant neoplasm, overlapping lesion of male genital organs",L1:Cancer_L2:Penis,B48y200
+2068,Cancer,Penis,a289259011,Malignant neoplasm of other male genital organ NOS,L1:Cancer_L2:Penis,B48yz00
+2069,Cancer,Penis,a289260018,Malignant neoplasm of penis and other male genital organ NOS,L1:Cancer_L2:Penis,B48z.00
+2070,Cancer,Penis,a725761000006111,Malignant neoplasm of genitourinary organ OS,L1:Cancer_L2:Penis,B4y..00
+2071,Cancer,Penis,a289301019,Malignant neoplasm of genitourinary organ NOS,L1:Cancer_L2:Penis,B4z..00

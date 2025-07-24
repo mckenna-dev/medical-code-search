@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 8
+Columns: 4
+Column names: ['MedCodeId', 'Term', 'Count', 'Unnamed: 3']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+         MedCodeId                   Term     Count  Unnamed: 3
+0  143821000006118   Serum ferritin level  17501030         NaN
+1       1787464018  Plasma ferritin level    126936         NaN
+2        257523016     Ferritin level low      1851         NaN

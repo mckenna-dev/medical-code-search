@@ -1,0 +1,125 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+Thunderstorm asthma (disorder),b829976001,Asthma diagnosis codes,a13930321000006112,1,Thunderstorm asthma
+Drug-induced asthma (disorder),b93432008,Asthma diagnosis codes,a4020511000006119,2,Drug-induced asthma
+Acute exacerbation of asthma co-occurrent with allergic rhinitis (disorder),b99031000119107,Asthma diagnosis codes,a8031201000006110,1,Acute exacerbation of asthma co-occurrent with allergic rhinitis
+Severe controlled persistent asthma (disorder),b10675391000119101,Asthma diagnosis codes,a9315071000006117,1,Severe controlled persistent asthma
+Mild persistent asthma uncontrolled (finding),b10676191000119106,Asthma diagnosis codes,a9315301000006113,10,Mild persistent asthma uncontrolled
+Moderate persistent asthma uncontrolled (finding),b10676711000119103,Asthma diagnosis codes,a9315461000006115,10,Moderate persistent asthma uncontrolled
+Chronic obstructive asthma co-occurrent with acute exacerbation of asthma (disorder),b10692721000119102,Asthma diagnosis codes,a9317311000006119,4,Chronic obstructive asthma co-occurrent with acute exacerbation of asthma
+Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),b10692761000119107,Asthma diagnosis codes,a1948051000006112,30000,Asthma-chronic obstructive pulmonary disease overlap syndrome
+Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),b10692761000119107,Asthma diagnosis codes,a9317331000006113,9,Asthma-COPD overlap syndrome (ACOS)
+Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),b10692761000119107,Asthma diagnosis codes,a9317341000006115,80,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome
+Life threatening acute exacerbation of allergic asthma (disorder),b1086701000000102,Asthma diagnosis codes,a151338014,2000,Life threatening acute exacerbation of allergic asthma
+Severe asthma with fungal sensitisation (disorder),b1103911000000103,Asthma diagnosis codes,a12618341000006116,2,Severe asthma with fungal sensitisation
+Millers' asthma (disorder),b11641008,Asthma diagnosis codes,a2685251000006117,1,Millers' asthma
+Intermittent asthma uncontrolled (disorder),b1741000119102,Asthma diagnosis codes,a7970131000006117,10,Intermittent asthma uncontrolled
+Mixed asthma (disorder),b195977004,Asthma diagnosis codes,a301509017,10000,Mixed asthma
+Childhood asthma (disorder),b233678006,Asthma diagnosis codes,a350147016,70000,Childhood asthma
+Hay fever with asthma (disorder),b233683003,Asthma diagnosis codes,a350153016,10000,Hay fever with asthma
+Hay fever with asthma (disorder),b233683003,Asthma diagnosis codes,a350154010,20000,Pollen asthma
+Hay fever with asthma (disorder),b233683003,Asthma diagnosis codes,a817361000006114,50000,Hay fever with asthma
+Steroid dependent asthma (disorder),b2360001000004109,Asthma diagnosis codes,a8555681000006115,8,Steroid dependent asthma
+Acute asthma (disorder),b304527002,Asthma diagnosis codes,a11922851000006115,1000,Acute asthma
+Exercise-induced asthma (disorder),b31387002,Asthma diagnosis codes,a655601000006113,400000,Exercise-induced asthma
+Exercise-induced asthma (disorder),b31387002,Asthma diagnosis codes,a655611000006111,20000,Exercise induced asthma
+Exercise-induced asthma (disorder),b31387002,Asthma diagnosis codes,a3005811000006119,1,Exercise induced asthma
+Bakers' asthma (disorder),b34015007,Asthma diagnosis codes,a3047731000006119,1,Bakers' asthma
+Moderate asthma (disorder),b370219009,Asthma diagnosis codes,a1208970013,60000,Moderate asthma
+Severe asthma (disorder),b370221004,Asthma diagnosis codes,a1208972017,10000,Severe asthma
+Allergic asthma (disorder),b389145006,Asthma diagnosis codes,a350152014,6000,Allergic asthma NEC
+Allergic asthma (disorder),b389145006,Asthma diagnosis codes,a1483199016,40000,Allergic asthma
+Allergic asthma (disorder),b389145006,Asthma diagnosis codes,a660351000006118,300000,Allergic atopic asthma
+Allergic asthma (disorder),b389145006,Asthma diagnosis codes,a885291000006115,20000,Extrinsic asthma - atopy
+Allergic asthma (disorder),b389145006,Asthma diagnosis codes,a6512381000006116,50,Atopic asthma
+Asthma confirmed (situation),b401193004,Asthma diagnosis codes,a1780388018,70000,Asthma confirmed
+Asthmatic bronchitis (disorder),b405944004,Asthma diagnosis codes,a2163183015,300000,Wheezy bronchitis
+Asthmatic bronchitis (disorder),b405944004,Asthma diagnosis codes,a6720721000006111,3000,Asthmatic bronchitis
+Detergent asthma (disorder),b41553006,Asthma diagnosis codes,a69311016,70,Detergent asthma
+Immunoglobulin E-mediated allergic asthma (disorder),b424643009,Asthma diagnosis codes,a301499010,10000,Extrinsic asthma
+Immunoglobulin E-mediated allergic asthma (disorder),b424643009,Asthma diagnosis codes,a7030311000006117,200,IgE-mediated allergic asthma
+Immunoglobulin E-mediated allergic asthma (disorder),b424643009,Asthma diagnosis codes,a7030321000006113,2,IgE mediated asthma
+Severe persistent asthma (disorder),b426656000,Asthma diagnosis codes,a7062421000006112,4,Severe persistent asthma
+Mild persistent asthma (disorder),b426979002,Asthma diagnosis codes,a7067211000006115,10,Mild persistent asthma
+Mild intermittent asthma (disorder),b427679007,Asthma diagnosis codes,a7077481000006119,10,Mild intermittent asthma
+Seasonal asthma (disorder),b445427006,Asthma diagnosis codes,a7307941000006113,300,Seasonal asthma
+Asthma caused by wood dust (disorder),b56968009,Asthma diagnosis codes,a94731013,10,Wood asthma
+Occupational asthma (disorder),b57607007,Asthma diagnosis codes,a95786019,5000,Occupational asthma
+Occupational asthma (disorder),b57607007,Asthma diagnosis codes,a983771000006118,100,Work aggravated asthma
+Occupational asthma (disorder),b57607007,Asthma diagnosis codes,a3435971000006119,1,Industrial asthma
+Intermittent asthma well controlled (finding),b641000119106,Asthma diagnosis codes,a7966291000006118,100,Intermittent asthma well controlled
+Exacerbation of moderate persistent asthma (disorder),b707446004,Asthma diagnosis codes,a7617621000006116,3,Exacerbation of moderate persistent asthma
+Uncomplicated mild persistent asthma (disorder),b707511009,Asthma diagnosis codes,a7618791000006110,2,Uncomplicated mild persistent asthma
+Acute exacerbation of asthma (disorder),b708038006,Asthma diagnosis codes,a396119015,200000,Asthma attack
+Acute exacerbation of asthma (disorder),b708038006,Asthma diagnosis codes,a409865018,10000,Asthma attack NOS
+Acute exacerbation of asthma (disorder),b708038006,Asthma diagnosis codes,a419211018,2000000,Acute exacerbation of asthma
+Acute exacerbation of intrinsic asthma (disorder),b708094006,Asthma diagnosis codes,a350156012,200,Acute exacerbation of intrinsic asthma
+Acute severe exacerbation of intrinsic asthma (disorder),b708096008,Asthma diagnosis codes,a7628331000006115,1,Acute severe exacerbation of intrinsic asthma
+Life threatening acute exacerbation of asthma (disorder),b734904007,Asthma diagnosis codes,a396118011,10000,Life threatening acute exacerbation of asthma
+Moderate acute exacerbation of asthma (disorder),b734905008,Asthma diagnosis codes,a3511374015,100,Moderate acute exacerbation of asthma
+Acute severe exacerbation of asthma co-occurrent and due to allergic asthma (disorder),b735587000,Asthma diagnosis codes,a3514925011,1,Acute severe exacerbation of asthma co-occurrent and due to allergic asthma
+Exacerbation of allergic asthma (disorder),b762521001,Asthma diagnosis codes,a3637387011,3,Exacerbation of allergic asthma
+Exacerbation of allergic asthma due to infection (disorder),b782520007,Asthma diagnosis codes,a13619961000006119,90,Exacerbation of allergic asthma due to infection
+Byssinosis (disorder),b85761009,Asthma diagnosis codes,a142162019,800,Byssinosis
+Chronic asthma with fixed airflow obstruction (disorder),b866881000000101,Asthma diagnosis codes,a2240591000000119,7000,Chronic asthma with fixed airflow obstruction
+Intermittent allergic asthma (disorder),b10674991000119104,Asthma diagnosis codes,a13997031000006117,3,Intermittent allergic asthma
+Severe persistent allergic asthma (disorder),b10675431000119106,Asthma diagnosis codes,a9315091000006116,3,Severe persistent allergic asthma
+Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis (disorder),b10675711000119106,Asthma diagnosis codes,a9315171000006116,1,Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis
+Severe uncontrolled persistent asthma (disorder),b10675751000119107,Asthma diagnosis codes,a9315181000006118,4,Severe uncontrolled persistent asthma
+Mild persistent allergic asthma (disorder),b10675871000119106,Asthma diagnosis codes,a9315201000006117,2,Mild persistent allergic asthma
+Mild persistent allergic asthma controlled (finding),b10676031000119106,Asthma diagnosis codes,a9315251000006118,1,Mild persistent allergic asthma controlled
+Mild persistent asthma controlled (finding),b10676071000119109,Asthma diagnosis codes,a9315261000006116,8,Mild persistent asthma controlled
+Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis (disorder),b10676231000119102,Asthma diagnosis codes,a9315321000006115,1,Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis
+Moderate persistent asthma controlled (finding),b10676351000119103,Asthma diagnosis codes,a9315341000006110,1,Moderate persistent asthma controlled
+Life threatening acute exacerbation of intrinsic asthma (disorder),b1086711000000100,Asthma diagnosis codes,a98546013,900,Life threatening acute exacerbation of intrinsic asthma
+Intrinsic asthma without status asthmaticus (disorder),b12428000,Asthma diagnosis codes,a21390015,4000,Intrinsic asthma without status asthmaticus
+Intermittent asthma co-occurrent with allergic rhinitis (disorder),b125021000119107,Asthma diagnosis codes,a8038971000006116,1,Intermittent asthma co-occurrent with allergic rhinitis
+Flax-dressers' disease (disorder),b13151001,Asthma diagnosis codes,a22508019,1,Flax-dressers' disease
+Acute exacerbation of moderate persistent asthma (disorder),b135171000119106,Asthma diagnosis codes,a8042571000006111,2,Acute exacerbation of moderate persistent asthma
+Acute exacerbation of mild persistent asthma (disorder),b135181000119109,Asthma diagnosis codes,a8042581000006114,9,Acute exacerbation of mild persistent asthma
+Oral steroid-dependent asthma (disorder),b16584951000119101,Asthma diagnosis codes,a9934311000006111,6,Oral steroid-dependent asthma
+Acute exacerbation of chronic obstructive airways disease with asthma (disorder),b1751000119100,Asthma diagnosis codes,a7970171000006119,8,Acute exacerbation of chronic obstructive airways disease with asthma
+Chronic asthmatic bronchitis (disorder),b195949008,Asthma diagnosis codes,a301450011,9000,Chronic asthmatic bronchitis
+Chronic asthmatic bronchitis (disorder),b195949008,Asthma diagnosis codes,a301451010,1000,Chronic wheezy bronchitis
+Chronic asthmatic bronchitis (disorder),b195949008,Asthma diagnosis codes,a183191000006115,10000,Recurrent wheezy bronchitis
+Asthma (disorder),b195967001,Asthma diagnosis codes,a301480018,90000,Bronchial asthma
+Asthma (disorder),b195967001,Asthma diagnosis codes,a301485011,20000000,Asthma
+Asthma (disorder),b195967001,Asthma diagnosis codes,a301511014,90000,Asthma unspecified
+Asthma (disorder),b195967001,Asthma diagnosis codes,a396120014,700000,Asthma NOS
+Asthma (disorder),b195967001,Asthma diagnosis codes,a2535857010,5000,Hyperreactive airway disease
+Asthma (disorder),b195967001,Asthma diagnosis codes,a4781521000006110,6,Airway hyperreactivity
+Asthma (disorder),b195967001,Asthma diagnosis codes,a4781531000006113,60,Asthmatic
+Asthma (disorder),b195967001,Asthma diagnosis codes,a4781551000006118,100,Bronchial hyperreactivity
+Asthma (disorder),b195967001,Asthma diagnosis codes,a4781561000006116,4,BHR - Bronchial hyperreactivity
+Asthma (disorder),b195967001,Asthma diagnosis codes,a4781571000006111,8,Bronchial hyperresponsiveness
+Asthma (disorder),b195967001,Asthma diagnosis codes,a4781581000006114,9,Bronchial hypersensitivity
+Brittle asthma (disorder),b225057002,Asthma diagnosis codes,a338238011,10000,Brittle asthma
+Late onset asthma (disorder),b233679003,Asthma diagnosis codes,a350148014,20000,Late onset asthma
+Late onset asthma (disorder),b233679003,Asthma diagnosis codes,a350149018,10000,Late-onset asthma
+Late onset asthma (disorder),b233679003,Asthma diagnosis codes,a5054341000006110,7,Late-onset asthma
+Asthmatic pulmonary eosinophilia (disorder),b233691007,Asthma diagnosis codes,a5054431000006112,200,Asthmatic pulmonary eosinophilia
+Non-allergic asthma (disorder),b266361008,Asthma diagnosis codes,a301508013,4000,Intrinsic asthma NOS
+Non-allergic asthma (disorder),b266361008,Asthma diagnosis codes,a396114013,300000,Intrinsic asthma
+Non-allergic asthma (disorder),b266361008,Asthma diagnosis codes,a5492441000006114,30,Non-allergic asthma
+Exacerbation of asthma (disorder),b281239006,Asthma diagnosis codes,a5649191000006110,20000,Exacerbation of asthma
+Asthma - currently active (finding),b312453004,Asthma diagnosis codes,a456163018,60000,Asthma - currently active
+Mild asthma (disorder),b370218001,Asthma diagnosis codes,a1208969012,100000,Mild asthma
+Occasional asthma (disorder),b370220003,Asthma diagnosis codes,a1208971012,60000,Occasional asthma
+Asthma with irreversible airway obstruction (disorder),b401000119107,Asthma diagnosis codes,a7965491000006114,4,Asthma with irreversible airway obstruction
+Aspirin-induced asthma (disorder),b407674008,Asthma diagnosis codes,a929091000006111,800,Aspirin-induced asthma
+Cough variant asthma (disorder),b409663006,Asthma diagnosis codes,a6782071000006115,60,Cough variant asthma
+Non-immunoglobulin E mediated allergic asthma (disorder),b423889005,Asthma diagnosis codes,a7015991000006110,3,Non-IgE mediated allergic asthma
+Exacerbation of intermittent asthma (disorder),b425969006,Asthma diagnosis codes,a7052221000006118,3,Exacerbation of intermittent asthma
+Moderate persistent asthma (disorder),b427295004,Asthma diagnosis codes,a7071891000006112,1,Moderate persistent asthma
+Intermittent asthma (disorder),b427603009,Asthma diagnosis codes,a7076331000006112,10,Intermittent asthma
+Acute exacerbation of chronic asthmatic bronchitis (disorder),b442025000,Asthma diagnosis codes,a7258581000006114,10,Acute exacerbation of chronic asthmatic bronchitis
+Allergic asthma without status asthmaticus (disorder),b63088003,Asthma diagnosis codes,a104872017,9000,Extrinsic asthma without status asthmaticus
+Allergic asthma without status asthmaticus (disorder),b63088003,Asthma diagnosis codes,a13775501000006113,40,Allergic asthma without status asthmaticus
+Exacerbation of mild persistent asthma (disorder),b707445000,Asthma diagnosis codes,a7617611000006112,30,Exacerbation of mild persistent asthma
+Acute severe exacerbation of severe persistent asthma (disorder),b707979007,Asthma diagnosis codes,a7626521000006110,1,Acute severe exacerbation of severe persistent asthma
+Acute severe exacerbation of asthma (disorder),b708090002,Asthma diagnosis codes,a145961000006117,30000,Acute severe exacerbation of asthma
+Acute exacerbation of immunoglobulin E-mediated allergic asthma (disorder),b708093000,Asthma diagnosis codes,a350151019,2000,Acute exacerbation of allergic asthma
+Acute severe exacerbation of immunoglobin E-mediated allergic asthma (disorder),b708095007,Asthma diagnosis codes,a7628301000006111,3,Acute severe exacerbation of allergic asthma
+Acute severe exacerbation of immunoglobin E-mediated allergic asthma (disorder),b708095007,Asthma diagnosis codes,a7628321000006118,1,Acute severe exacerbation of immunoglobin E-mediated allergic asthma
+Asthma in pregnancy (disorder),b72301000119103,Asthma diagnosis codes,a3514315010,3,Asthma in pregnancy
+Acute severe refractory exacerbation of asthma (disorder),b733858005,Asthma diagnosis codes,a7961271000006111,2,Acute severe refractory exacerbation of asthma
+Acute severe refractory exacerbation of asthma (disorder),b733858005,Asthma diagnosis codes,a7961281000006114,8,Acute severe asthma

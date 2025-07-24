@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 3
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+    MedCodeId  Observations                                       Term  SNOMED_CT_Concept_ID
+0   405578016        713967          Serum total iron binding capacity      1015451000000101
+1  1484999011          8931         Plasma total iron binding capacity      1001571000000107
+2   257527015           179  TIBC - Total iron binding capacity normal             165629007

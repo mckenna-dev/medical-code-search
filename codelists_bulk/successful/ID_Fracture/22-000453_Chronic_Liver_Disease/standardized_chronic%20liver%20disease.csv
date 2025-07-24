@@ -1,0 +1,131 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+89445,,,,1,0,0,0,7800111,Auxillary liver transplant,February 2009
+107897,,,,1,0,0,0,Jyu7200,[X]Other specified inflammatory liver diseases,April 2014
+88994,,,,89,11,0,0,7L1f.00,Compensation for liver failure,February 2009
+39351,,,,19,0,0,0,J635500,Toxic liver disease with chronic active hepatitis,February 2009
+56581,,,,75,1,0,0,Jyu7.00,[X]Diseases of the liver,February 2009
+25869,,,,127,0,0,0,J63y.00,Other specified liver disorder,February 2009
+6863,,,,7283,414,1,0,J61..00,Cirrhosis and chronic liver disease,February 2009
+110454,,,,1,0,0,0,C370700,Liver disease due to cystic fibrosis,January 2016
+99250,,,,2,0,0,0,7800y00,Other specified transplantation of liver,April 2010
+8155,,,,6109,867,2,0,14C5.00,H/O: liver disease,February 2009
+7885,,,,10669,398,3,0,J613.00,Alcoholic liver damage unspecified,February 2009
+100073,,,,2,0,0,0,7800112,Piggy back liver transplant,July 2010
+44120,,,,26,0,0,0,J635600,Toxic liver disease with fibrosis and cirrhosis of liver,February 2009
+21713,,,,119,2,0,0,J612000,Alcoholic fibrosis and sclerosis of liver,February 2009
+5037,,,,331,33,1,0,J63yz00,Other specified liver disorder NOS,February 2009
+31997,,,,51,3,0,0,TB00200,"Liver transplant with complication, without blame",February 2009
+42843,,,,130,2,0,0,J61y.00,Other non-alcoholic chronic liver disease,February 2009
+37198,,,,23,2,0,0,14S8.00,H/O: liver recipient,February 2009
+28350,,,,61,3,0,0,PB62100,Fibrocystic liver disease,February 2009
+6015,,,,325,10,0,0,Jyu7100,[X]Other and unspecified cirrhosis of liver,February 2009
+8363,,,,409,10,0,0,G852300,Oesophageal varices in alcoholic cirrhosis of the liver,February 2009
+18195,,,,217,17,0,0,PB62000,Congenital polycystic liver disease,February 2009
+23775,,,,228,21,0,0,J62y.12,Liver failure NOS,February 2009
+4405,,,,1213,18,0,0,7800.00,Transplantation of liver,February 2009
+22841,,,,137,2,0,0,J615z11,Macronodular cirrhosis of liver,February 2009
+1638,,,,8444,510,12,0,J615z13,Cirrhosis of liver NOS,February 2009
+25700,,,,95,1,0,0,ZV7C000,[V]Assessment for liver transplant,February 2009
+105758,,,,22,0,0,0,8LH..00,Liver transplant planned,February 2013
+32025,,,,162,0,0,0,7800000,Orthotopic transplantation of liver,February 2009
+8206,,,,44,5,0,0,C350012,Pigmentary cirrhosis of liver,February 2009
+4743,,,,11622,446,3,0,J612.00,Alcoholic cirrhosis of liver,February 2009
+9026,,,,1434,30,0,0,ZV42700,[V]Liver transplanted,February 2009
+33597,,,,67,3,0,0,J61yz00,Other non-alcoholic chronic liver disease NOS,February 2009
+47861,,,,1,0,0,0,7805211,Exploration of liver transplant,February 2009
+27565,,,,299,51,20,0,PB62.00,Congenital cystic liver disease,February 2009
+18739,,,,447,3,0,0,J615z12,Cryptogenic cirrhosis of liver,February 2009
+27319,,,,194,7,0,0,7800z00,Transplantation of liver NOS,February 2009
+10539,,,,1781,15,0,0,J61z.00,Chronic liver disease NOS,February 2009
+98903,,,,42,1,0,0,9kV..11,Hepatitis C screening positive,April 2010
+53861,,,,4,0,0,0,Jyu7700,"[X]Granulomatous hepatitis, not elsewhere classified",February 2009
+30729,,,,3497,362,0,0,141E.00,History of hepatitis B,February 2009
+19418,,,,253,12,4,0,A705400,Hepatitis non A non B,February 2009
+41096,,,,133,8,0,0,A707100,Chronic viral hepatitis B without delta-agent,February 2009
+26490,,,,99,9,1,0,J601000,Subacute hepatic failure,February 2009
+56070,,,,11,2,0,0,J62y.11,Hepatic failure NOS,February 2009
+9029,,,,2430,106,1,0,J614100,Chronic active hepatitis,February 2009
+60104,,,,27,0,0,0,J61y500,Hepatic sclerosis,February 2009
+104346,,,,187,0,0,0,A70C.00,Hepatitis C genotype 3,June 2012
+103362,,,,3,0,0,0,9kX..00,Hepatitis status 6 months post treatment - enhanced serv adm,December 2011
+65050,,,,8,0,0,0,A704000,Viral hepatitis C with coma,February 2009
+16766,,,,252,15,0,0,ZV02600,[V]Viral hepatitis carrier,February 2009
+34893,,,,65,4,0,0,ZV02612,[V]Hepatitis Australia antigen carrier,February 2009
+17219,,,,14,0,0,0,J635300,Toxic liver disease with chronic persistent hepatitis,February 2009
+102565,,,,245,25,363,0,4JQD.11,Hepatitis C PCR positive,July 2011
+96085,,,,360,12,0,0,9kV..00,Hepatitis C screening positive - enhanced services admin,February 2009
+24813,,,,60,2,0,0,A707000,Chronic viral hepatitis B with delta-agent,February 2009
+7602,,,,132,3,0,0,J617000,Chronic alcoholic hepatitis,February 2009
+15489,,,,564,22,0,0,J614z00,Chronic hepatitis NOS,February 2009
+23578,,,,193,20,1,0,J614000,Chronic persistent hepatitis,February 2009
+1754,,,,5398,221,10,0,J614.00,Chronic hepatitis,February 2009
+107896,,,,4,0,0,0,AyuB200,"[X]Chronic viral hepatitis, unspecified",April 2014
+32657,,,,66,1,0,0,A705100,Acute delta-(super)infection of hepatitis B carrier,February 2009
+24901,,,,342,11,0,0,J625.00,[X] Hepatic failure,February 2009
+2860,,,,9389,8541,8115,0,A703.00,Viral (serum) hepatitis B,February 2009
+30586,,,,2919,312,0,0,A707200,Chronic viral hepatitis C,February 2009
+104341,,,,184,0,0,0,A70A.00,Hepatitis C genotype 1,June 2012
+104572,,,,200,0,0,0,9NgR.00,On hepatitis C treatment plan,July 2012
+16062,,,,709,125,0,0,J62y.13,Hepatic failure,February 2009
+35589,,,,46,1,436,0,4JQ3.00,Hepatitis C virus genotype,February 2009
+53480,,,,25,0,0,0,J614300,Recurrent hepatitis,February 2009
+71240,,,,59,0,0,0,780D300,Transjugular intrahepatic creation of portosystemic shunt,February 2009
+32277,,,,48,1,0,0,A707X00,"Chronic viral hepatitis, unspecified",February 2009
+2413,,,,7854,1153,464,0,A70z000,Hepatitis C,February 2009
+106642,,,,171,3,0,0,A707300,Chronic viral hepatitis B,August 2013
+71453,,,,26,0,0,0,J615z15,Hepatic fibrosis,February 2009
+105664,,,,19,0,0,0,A70B.00,Hepatitis C genotype 2,January 2013
+110411,,,,8,0,0,0,8BB5.00,12 week virologic response to hepatitis C treatment,December 2015
+19512,,,,129,11,0,0,C310400,Glycogenosis with hepatic cirrhosis,February 2009
+104277,,,,201,10,0,0,14i..00,H/O hepatitis C antiviral drug therapy,June 2012
+7957,,,,1118,36,0,0,J614111,Autoimmune chronic active hepatitis,February 2009
+26405,,,,41,0,0,0,J63A.00,Hepatic granulomas in sarcoidosis,February 2009
+2834,,,,1624,234,0,0,A705000,Viral hepatitis C without mention of hepatic coma,February 2009
+111969,,,,1,0,0,0,9kR..11,Chronic hepatitis annual review,September 2017
+1755,,,,43,2,0,0,J614200,Chronic aggressive hepatitis,February 2009
+102372,,,,472,4,0,0,2126700,Hepatitis C resolved,June 2011
+36107,,,,25,0,0,0,J635100,Toxic liver disease with hepatic necrosis,February 2009
+69053,,,,9,0,0,0,A702.00,Viral hepatitis B with coma,February 2009
+26367,,,,166,5,0,0,A707.00,Chronic viral hepatitis,February 2009
+27663,,,,199,3,0,0,J63X.00,"Granulomatous hepatitis, not elsewhere classified",February 2009
+34642,,,,41,1,0,0,Q48yz11,Congenital hepatic fibrosis,February 2009
+25383,,,,481,4,0,0,J61y400,Hepatic fibrosis,February 2009
+66534,,,,20,2,0,0,J614400,Chronic lobular hepatitis,February 2009
+99898,,,,170,0,0,0,9kR..00,Chronic hepatitis annual review - enhanced services admin,June 2010
+25589,,,,169,8,9,0,C376100,Alpha-1-antitrypsin hepatitis,February 2009
+111978,,,,1,0,0,0,A70F.00,Hepatitis C genotype 6,September 2017
+100834,,,,13,0,0,0,7Q05200,Hepatitis B treatment drugs Band 1,November 2010
+100592,,,,3,0,0,0,J61y600,Hepatic fibrosis with hepatic sclerosis,August 2010
+53877,,,,60,1,0,0,J614y00,Chronic hepatitis unspecified,February 2009
+104579,,,,57,2,0,0,A70G.00,Acute hepatitis C,July 2012
+108343,,,,2,0,0,0,AyuB100,[X]Other chronic viral hepatitis,July 2014
+102568,,,,50,3,78,0,4JQD.00,Hepatitis C viral ribonucleic acid PCR positive,July 2011
+111977,,,,1,0,0,0,A70E.00,Hepatitis C genotype 5,September 2017
+112044,,,,1,0,0,0,J615F00,Syphilitic portal cirrhosis,September 2017
+69204,,,,3,0,0,0,J615100,Multilobular portal cirrhosis,February 2009
+108819,,,,1,0,0,0,J615711,Congestive cirrhosis,November 2014
+109540,,,,1,0,0,0,J615G00,Zooparasitic portal cirrhosis,April 2015
+40567,,,,9,1,0,0,J615600,Capsular portal cirrhosis,February 2009
+26319,,,,199,11,0,0,G852200,Oesophageal varices in cirrhosis of the liver,February 2009
+58630,,,,50,1,0,0,J616z00,Biliary cirrhosis NOS,February 2009
+68376,,,,4,0,0,0,J612.11,Florid cirrhosis,February 2009
+91591,,,,1,0,0,0,J616200,Biliary cirrhosis of children,February 2009
+73482,,,,1,0,0,0,J615D00,Bacterial portal cirrhosis,February 2009
+27438,,,,34,0,0,0,J615700,Cardiac portal cirrhosis,February 2009
+47257,,,,14,0,0,0,J615.11,Portal cirrhosis,February 2009
+15424,,,,42,4,0,0,J616100,Secondary biliary cirrhosis,February 2009
+40963,,,,37,0,0,0,J61y300,Portal fibrosis without cirrhosis,February 2009
+44676,,,,4,1,0,0,J615400,Fatty portal cirrhosis,February 2009
+55454,,,,18,0,0,0,J615y00,Portal cirrhosis unspecified,February 2009
+5638,,,,6177,306,0,0,J616000,Primary biliary cirrhosis,February 2009
+16725,,,,1103,43,0,0,J615.00,Cirrhosis - non alcoholic,February 2009
+102922,,,,3,0,0,0,C370800,Cystic fibrosis related cirrhosis,September 2011
+58184,,,,3,0,0,0,J615812,Indian childhood cirrhosis,February 2009
+48928,,,,15,0,0,0,J615H00,Infectious cirrhosis NOS,February 2009
+100253,,,,1,0,0,0,J615C00,Xanthomatous portal cirrhosis,July 2010
+92909,,,,4,1,0,0,J615500,Hypertrophic portal cirrhosis,February 2009
+16455,,,,676,50,0,0,J615z00,Non-alcoholic cirrhosis NOS,February 2009
+96664,,,,3,0,0,0,J615800,Juvenile portal cirrhosis,April 2009
+3450,,,,122,6,0,0,J615300,Diffuse nodular cirrhosis,February 2009
+100474,,,,3,0,0,0,J612.12,Laennec's cirrhosis,August 2010
+9494,,,,2147,74,0,0,J616.00,Biliary cirrhosis,February 2009

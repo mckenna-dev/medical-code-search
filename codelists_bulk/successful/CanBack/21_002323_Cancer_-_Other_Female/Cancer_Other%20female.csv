@@ -1,0 +1,13 @@
+Order,Flag_classifyL1,Flag_classifyL2,MedCodeID,Term,Flag_L1_L2,Notes
+1995,Cancer,Other female,a552661000006114,Choriocarcinoma,L1:Cancer_L2:Other female,B420.00
+1996,Cancer,Other female,a378691015,FIGO staging of gynaecological malignancy,L1:Cancer_L2:Other female,4M4..00
+1997,Cancer,Other female,a729491000006110,Malig neop of other and unspecified female genital organs,L1:Cancer_L2:Other female,B45..00
+1998,Cancer,Other female,a720041000006117,Malignant neoplasm/overlapping lesion/feml genital organs,L1:Cancer_L2:Other female,B45X.00
+1999,Cancer,Other female,a289217010,Malignant neoplasm of other specified female genital organ,L1:Cancer_L2:Other female,B45y.00
+2000,Cancer,Other female,a723341000006112,Overlapping malignant neoplasm of vulva,L1:Cancer_L2:Other female,B45y000
+2001,Cancer,Other female,a289219013,Malignant tumour of female genital organ,L1:Cancer_L2:Other female,B45z.00
+2002,Cancer,Other female,a723451000006119,Malignant neoplasm of paraurethral glands,L1:Cancer_L2:Other female,B4A4.00
+2003,Cancer,Other female,a307671000006114,Dysgerminoma,L1:Cancer_L2:Other female,BBQ0.00
+2004,Cancer,Other female,a292138010,[X]Malignant neoplasm of female genital organs,L1:Cancer_L2:Other female,Byu7.00
+2005,Cancer,Other female,a396531000006113,Malignant tumor of female genital organ,L1:Cancer_L2:Other female,Byu7100
+2006,Cancer,Other female,a292142013,"[X]Malignant neoplasm of female genital organ, unspecified",L1:Cancer_L2:Other female,Byu7300

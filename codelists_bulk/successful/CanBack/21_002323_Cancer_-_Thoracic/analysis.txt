@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 32
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                                 Term
+0   2290          Cancer        Thoracic        a288839010         Malignant neoplasm of other specified pleura
+1   2291          Cancer        Thoracic        a288841011  Malignant neoplasm of thymus, heart and mediastinum
+2   2292          Cancer        Thoracic  a721271000006114                         Malignant neoplasm of thymus

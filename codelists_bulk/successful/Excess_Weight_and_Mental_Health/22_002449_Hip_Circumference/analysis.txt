@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 3
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tcategory']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                \tMedCodeId\tObservations\tTerm\tcategory
+0     0\t423142010\t100000\tHip circumference\tcontinuous
+1  1\t856021000006112\t40000\tHip measurement\tcontinuous
+2    2\t991851000006119\t3\tHip circumference\tcontinuous

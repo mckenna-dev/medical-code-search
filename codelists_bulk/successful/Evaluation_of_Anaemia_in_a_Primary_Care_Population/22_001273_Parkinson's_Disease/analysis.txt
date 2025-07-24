@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 39
+Columns: 1
+Column names: ['MedCodeId\tObservations\tTerm\tparkinsons']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                       MedCodeId\tObservations\tTerm\tparkinsons
+0            a81717011\t1000000\tParkinson's disease\tparkinsons
+1         a297037012\t70000\tParkinson's disease NOS\tparkinsons
+2  a295688010\t30000\tDementia in Parkinsons disease\tparkinsons

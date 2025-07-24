@@ -1,0 +1,178 @@
+Description,SNOMED_CT_Concept_ID,Codelist_Name,Med_Code_Id,Observations,Term
+Dementia due to Parkinson's disease (disorder),b101421000119107,Codes for dementia,a8031751000006119,20,Dementia due to Parkinson's disease
+Dementia due to Parkinson's disease (disorder),b101421000119107,Codes for dementia,a8031761000006117,1,Dementia due to Parkinsons disease
+Early onset Alzheimer's disease with behavioral disturbance (disorder),b105421000119105,Codes for dementia,a8032911000006111,5,Early onset Alzheimer's disease with behavioural disturbance
+Early onset Alzheimer's disease with behavioral disturbance (disorder),b105421000119105,Codes for dementia,a8032931000006117,1,Early onset Alzheimers disease with behavioral disturbance
+Kohlschutter's syndrome (disorder),b109478007,Codes for dementia,a4164891000006115,1,Kohlschutter's syndrome
+Lewy body dementia with behavioral disturbance (disorder),b135811000119107,Codes for dementia,a8042791000006116,100,Lewy body dementia with behavioural disturbance
+Lewy body dementia with behavioral disturbance (disorder),b135811000119107,Codes for dementia,a8042801000006115,1,Lewy body dementia with behavioral disturbance
+Depressed mood in Alzheimer's disease (disorder),b142001000119106,Codes for dementia,a8044941000006117,10,Depressed mood in Alzheimer's disease
+Senile dementia (disorder),b15662003,Codes for dementia,a26545010,300000,Senile dementia
+Senile dementia (disorder),b15662003,Codes for dementia,a359141000006111,30000,[X] Senile dementia NOS
+Dementia of the Alzheimer type with behavioral disturbance (disorder),b1581000119101,Codes for dementia,a7969281000006110,40,Dementia of the Alzheimer type with behavioural disturbance
+Dementia with behavioral disturbance (disorder),b1591000119103,Codes for dementia,a7969371000006115,20,Dementia with behavioural disturbance
+Uncomplicated senile dementia (disorder),b191449005,Codes for dementia,a294635013,90000,Uncomplicated senile dementia
+Uncomplicated senile dementia (disorder),b191449005,Codes for dementia,a882201000006116,5000,Senile dementia - simple type
+Presenile dementia with paranoia (disorder),b191454001,Codes for dementia,a294641018,400,Presenile dementia with paranoia
+Presenile dementia with depression (disorder),b191455000,Codes for dementia,a294642013,900,Presenile dementia with depression
+Senile dementia with paranoia (disorder),b191458003,Codes for dementia,a294645010,3000,Senile dementia with paranoia
+Senile dementia with depression (disorder),b191459006,Codes for dementia,a294646011,4000,Senile dementia with depression
+Senile dementia with delirium (disorder),b191461002,Codes for dementia,a294648012,3000,Senile dementia with delirium
+Senile dementia with delirium (disorder),b191461002,Codes for dementia,a882211000006118,500,Senile dementia-acute confused
+Senile dementia with delirium (disorder),b191461002,Codes for dementia,a4763081000006118,1,Senile delirium
+Uncomplicated arteriosclerotic dementia (disorder),b191463004,Codes for dementia,a294652012,900,Uncomplicated arteriosclerotic dementia
+Arteriosclerotic dementia with delirium (disorder),b191464005,Codes for dementia,a294653019,80,Arteriosclerotic dementia with delirium
+Arteriosclerotic dementia with paranoia (disorder),b191465006,Codes for dementia,a294654013,400,Arteriosclerotic dementia with paranoia
+Arteriosclerotic dementia with depression (disorder),b191466007,Codes for dementia,a294655014,400,Arteriosclerotic dementia with depression
+Cerebral degeneration due to Creutzfeldt-Jakob disease (disorder),b192818008,Codes for dementia,a542651000006110,500,Cerebral degeneration due to Jakob - Creutzfeldt disease
+Cerebral degeneration due to Creutzfeldt-Jakob disease (disorder),b192818008,Codes for dementia,a4768981000006114,2,Cerebral degeneration due to Creutzfeldt-Jakob disease
+Prion disease (disorder),b20484008,Codes for dementia,a2825541000006118,7,Prion disease
+Dementia co-occurrent and due to Pick's disease (disorder),b21921000119103,Codes for dementia,a295685013,4000,Dementia due to Pick's disease
+Dementia co-occurrent and due to Pick's disease (disorder),b21921000119103,Codes for dementia,a8009521000006114,3,Dementia due to Picks disease
+Dementia co-occurrent and due to Pick's disease (disorder),b21921000119103,Codes for dementia,a8009531000006112,1,Dementia due to Pick disease
+Primary degenerative dementia (disorder),b22381000119105,Codes for dementia,a8010111000006117,4,Primary degenerative dementia
+Familial Alzheimer's disease of early onset (disorder),b230265002,Codes for dementia,a5005501000006111,2,Familial Alzheimer's disease of early onset
+Familial Alzheimer's disease of late onset (disorder),b230267005,Codes for dementia,a5005541000006113,1,Familial Alzheimer's disease of late onset
+Non-familial Alzheimer's disease of late onset (disorder),b230268000,Codes for dementia,a5005561000006112,3,Non-familial Alzheimer's disease of late onset
+Frontotemporal dementia (disorder),b230270009,Codes for dementia,a5005601000006112,500,Frontotemporal dementia
+Post-traumatic dementia (disorder),b230282000,Codes for dementia,a5005741000006115,10,Traumatic encephalopathy
+Mixed cortical and subcortical vascular dementia (disorder),b230287006,Codes for dementia,a398571000006112,9000,Mixed cortical and subcortical vascular dementia
+Semantic dementia (disorder),b230288001,Codes for dementia,a5005871000006119,20,Semantic dementia
+Alzheimer's disease (disorder),b26929004,Codes for dementia,a45046017,700000,Alzheimer's disease
+Alzheimer's disease (disorder),b26929004,Codes for dementia,a295668011,300000,[X]Dementia in Alzheimer's disease
+Alzheimer's disease (disorder),b26929004,Codes for dementia,a295671015,100000,"[X]Dementia in Alzheimer's dis, atypical or mixed type"
+Alzheimer's disease (disorder),b26929004,Codes for dementia,a295672010,10000,"[X]Dementia in Alzheimer's disease, unspecified"
+Alzheimer's disease (disorder),b26929004,Codes for dementia,a299325013,400,[X]Other Alzheimer's disease
+Alzheimer's disease (disorder),b26929004,Codes for dementia,a363021000006113,50000,[X]Alzheimer's dementia unspec
+Alzheimer's disease (disorder),b26929004,Codes for dementia,a2931231000006118,1,AD - Alzheimer's disease
+Alzheimer's disease (disorder),b26929004,Codes for dementia,a2931241000006111,100,Alzheimer disease
+Alzheimer's disease (disorder),b26929004,Codes for dementia,a2931251000006113,500,Alzheimer dementia
+Cerebral degeneration presenting primarily with dementia (disorder),b279982005,Codes for dementia,a359101000006114,300,Cerebral degeneration presenting primarily with dementia
+Vascular dementia with behavioral disturbance (disorder),b288631000119104,Codes for dementia,a8089231000006110,10,Vascular dementia with behavioural disturbance
+Vascular dementia with behavioral disturbance (disorder),b288631000119104,Codes for dementia,a8089241000006117,2,Vascular dementia with behavioral disturbance
+Presenile dementia with delusions (disorder),b31081000119101,Codes for dementia,a8014401000006116,2,Early onset dementia with delusions
+Senile dementia with delusion (disorder),b371024007,Codes for dementia,a6348031000006112,2,Senile dementia with delusion
+"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",b416780008,Codes for dementia,a499946014,20000,Alzheimer's disease with early onset
+"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",b416780008,Codes for dementia,a363041000006118,50,[X]Alzheimer's disease type 2
+"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",b416780008,Codes for dementia,a376531000006119,7000,Dementia in Alzheimer's disease with early onset
+"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",b416780008,Codes for dementia,a423351000006115,400,"[X]Presenile dementia,Alzheimer's type"
+"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",b416780008,Codes for dementia,a423391000006114,60,"[X]Primary degen dementia, Alzheimer's type, presenile onset"
+"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",b416780008,Codes for dementia,a6897211000006117,200,"Primary degenerative dementia of the Alzheimer type, presenile onset"
+"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",b416780008,Codes for dementia,a6897241000006118,8,Dementia of the Alzheimers type with early onset
+"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",b416780008,Codes for dementia,a6897251000006116,80,"Presenile dementia, Alzheimer's type"
+"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",b416780008,Codes for dementia,a6897271000006114,100,Dementia in Alzheimer's disease - type 2
+"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",b416975007,Codes for dementia,a500317011,20000,Alzheimer's disease with late onset
+"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",b416975007,Codes for dementia,a363031000006111,100,[X]Alzheimer's disease type 1
+"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",b416975007,Codes for dementia,a376541000006112,40000,Dementia in Alzheimer's disease with late onset
+"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",b416975007,Codes for dementia,a423381000006111,200,"[X]Primary degen dementia of Alzheimer's type, senile onset"
+"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",b416975007,Codes for dementia,a425901000006116,20000,"[X]Senile dementia,Alzheimer's type"
+"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",b416975007,Codes for dementia,a6900181000006114,600,"Primary degenerative dementia of the Alzheimer type, senile onset"
+"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",b416975007,Codes for dementia,a6900201000006110,50,"Dementia of the Alzheimers type, late onset"
+"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",b416975007,Codes for dementia,a6900221000006117,40,"SDAT - Senile dementia, Alzheimer's type"
+"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",b416975007,Codes for dementia,a6900241000006112,30,Dementia in Alzheimer's disease - type 1
+Dementia associated with Parkinson's Disease (disorder),b425390006,Codes for dementia,a295688010,30000,Dementia in Parkinsons disease
+Dementia associated with Parkinson's Disease (disorder),b425390006,Codes for dementia,a7043651000006119,100,Dementia associated with Parkinson's Disease
+Dementia associated with Parkinson's Disease (disorder),b425390006,Codes for dementia,a7043661000006117,2,Dementia associated with Parkinson Disease
+Diffuse Lewy body disease with spongiform cortical change (disorder),b42769004,Codes for dementia,a3189531000006118,1,Diffuse Lewy body disease with spongiform cortical change
+General paresis - neurosyphilis (disorder),b51928006,Codes for dementia,a496157019,30,General paralysis of insane
+General paresis - neurosyphilis (disorder),b51928006,Codes for dementia,a496158012,100,General paresis - neurosyphilis
+Dementia (disorder),b52448006,Codes for dementia,a148381000006115,100000,Senile/presenile dementia
+Dementia (disorder),b52448006,Codes for dementia,a359241000006119,300000,Dementia
+Dementia associated with normal pressure hydrocephalus (disorder),b698625002,Codes for dementia,a7510731000006118,4,Dementia associated with normal pressure hydrocephalus
+Frontotemporal dementia with parkinsonism-17 (disorder),b702429008,Codes for dementia,a7560531000006110,1,Frontotemporal dementia with parkinsonism-17
+Sporadic Creutzfeldt-Jakob disease (disorder),b713060000,Codes for dementia,a2366171000000112,100,Sporadic Creutzfeldt-Jakob disease
+Sporadic Creutzfeldt-Jakob disease (disorder),b713060000,Codes for dementia,a2366181000000114,300,Sporadic CJD (Creutzfeldt-Jakob disease)
+Ischemic vascular dementia (disorder),b723123001,Codes for dementia,a7840631000006118,2,Ischaemic vascular dementia
+Epilepsy co-occurrent and due to dementia (disorder),b724992007,Codes for dementia,a7863681000006115,2,Epilepsy co-occurrent and due to dementia
+Mixed dementia (disorder),b79341000119107,Codes for dementia,a8024201000006111,3000,Mixed dementia
+Mixed dementia (disorder),b79341000119107,Codes for dementia,a12370641000006110,2,Dementia with mixed etiology
+Mixed dementia (disorder),b79341000119107,Codes for dementia,a12370651000006112,90,MVAD - Mixed vascular Alzheimer dementia
+Mixed dementia (disorder),b79341000119107,Codes for dementia,a12370661000006114,5,Dementia with mixed aetiology
+Diffuse Lewy body disease (disorder),b80098002,Codes for dementia,a299641000000112,50000,Diffuse Lewy body disease
+Diffuse Lewy body disease (disorder),b80098002,Codes for dementia,a745381000006119,10000,Lewy body disease
+Diffuse Lewy body disease (disorder),b80098002,Codes for dementia,a3802621000006119,1,Lewy body variant of Alzheimer's disease
+Diffuse Lewy body disease (disorder),b80098002,Codes for dementia,a3802641000006114,9,LBD - Lewy body disease
+Diffuse Lewy body disease (disorder),b80098002,Codes for dementia,a3802651000006111,2000,Dementia of the Lewy body type
+Diffuse Lewy body disease (disorder),b80098002,Codes for dementia,a3802671000006118,2,Cortical Lewy body disease
+Altered behavior in dementia due to Huntington chorea (disorder),b82361000119107,Codes for dementia,a8024641000006111,1,Altered behaviour in Huntington's dementia
+Epileptic dementia with behavioral disturbance (disorder),b82381000119103,Codes for dementia,a8024691000006119,3,Epileptic dementia with behavioural disturbance
+Cortical vascular dementia (disorder),b833326008,Codes for dementia,a13934381000006118,9,Cortical vascular dementia
+Dialysis dementia (disorder),b9345005,Codes for dementia,a2649061000006115,1,Dialysis dementia
+Altered behavior in Alzheimer's disease (disorder),b97751000119108,Codes for dementia,a8030791000006119,3,Altered behaviour in Alzheimer's disease
+Multi-infarct dementia with delirium (disorder),b10349009,Codes for dementia,a2664611000006117,1,"Vascular dementia, with delirium"
+Predominantly cortical vascular dementia (disorder),b1089531000000108,Codes for dementia,a2729791000000114,3,Predominantly cortical vascular dementia
+Presenile dementia (disorder),b12348006,Codes for dementia,a21256010,10000,Presenile dementia
+Presenile dementia (disorder),b12348006,Codes for dementia,a294643015,1000,Presenile dementia NOS
+Presenile dementia (disorder),b12348006,Codes for dementia,a359081000006118,500,[X] Presenile dementia NOS
+Pick's disease (disorder),b13092008,Codes for dementia,a22408016,2000,Pick's disease
+Pick's disease (disorder),b13092008,Codes for dementia,a2707661000006119,1,Pick disease
+Delusions in Alzheimer's disease (disorder),b141991000119109,Codes for dementia,a8044911000006116,5,Delusions in Alzheimer's disease
+Alzheimer's disease co-occurrent with delirium (disorder),b142011000119109,Codes for dementia,a8044981000006111,5,Alzheimer's disease co-occurrent with delirium
+History of dementia (situation),b161465002,Codes for dementia,a251625013,70000,H/O: dementia
+History of dementia (situation),b161465002,Codes for dementia,a4539871000006116,1,History of dementia
+Uncomplicated presenile dementia (disorder),b191451009,Codes for dementia,a294637017,400,Uncomplicated presenile dementia
+Presenile dementia with delirium (disorder),b191452002,Codes for dementia,a294638010,100,Presenile dementia with delirium
+Senile dementia with depressive or paranoid features (disorder),b191457008,Codes for dementia,a294644014,4000,Senile dementia with depressive or paranoid features
+Senile dementia with depressive or paranoid features (disorder),b191457008,Codes for dementia,a294647019,300,Senile dementia with depressive or paranoid features NOS
+Senile dementia with depressive or paranoid features (disorder),b191457008,Codes for dementia,a359151000006113,600,"[X] Senile dementia, depressed or paranoid type"
+Dementia caused by drug (disorder),b191493005,Codes for dementia,a294688019,70,Drug-induced dementia
+Dementia associated with another disease (disorder),b191519005,Codes for dementia,a294718018,7000,Dementia in conditions EC
+Dementia associated with another disease (disorder),b191519005,Codes for dementia,a295684012,7000,Dementia associated with another disease
+Dementia associated with another disease (disorder),b191519005,Codes for dementia,a295690011,1000,[X]Dementia in other specified diseases classif elsewhere
+Amyotrophic lateral sclerosis with dementia (disorder),b230258005,Codes for dementia,a5005421000006117,1,Amyotrophic lateral sclerosis with dementia
+Non-familial Alzheimer's disease of early onset (disorder),b230266001,Codes for dementia,a5005521000006118,1,Non-familial Alzheimer's disease of early onset
+Focal Alzheimer's disease (disorder),b230269008,Codes for dementia,a5005581000006119,3,Focal Alzheimer's disease
+Progressive aphasia in Alzheimer's disease (disorder),b230280008,Codes for dementia,a5005711000006119,20,Progressive aphasia in Alzheimer's disease
+Vascular dementia of acute onset (disorder),b230285003,Codes for dementia,a431691000006119,900,Vascular dementia of acute onset
+Subcortical vascular dementia (disorder),b230286002,Codes for dementia,a428201000006119,5000,Subcortical vascular dementia
+Patchy dementia (disorder),b230289009,Codes for dementia,a5005881000006116,4,Patchy dementia
+"Primary degenerative dementia of the Alzheimer type, senile onset, with depression (disorder)",b26852004,Codes for dementia,a2929931000006112,3,"Primary degenerative dementia of the Alzheimer type, senile onset, with depression"
+Dementia of frontal lobe type (disorder),b278857002,Codes for dementia,a5618261000006114,50,Dementia of frontal lobe type
+Dementia of frontal lobe type (disorder),b278857002,Codes for dementia,a5618271000006119,2,DFT - Dementia frontal lobe type
+Dementia associated with alcoholism (disorder),b281004,Codes for dementia,a346929012,6000,Alcoholic dementia
+Dementia associated with alcoholism (disorder),b281004,Codes for dementia,a401760017,1000,Other alcoholic dementia
+Dementia associated with alcoholism (disorder),b281004,Codes for dementia,a362941000006113,2000,[X]Alcoholic dementia NOS
+Dementia associated with alcoholism (disorder),b281004,Codes for dementia,a2502971000006115,1000,Dementia associated with alcoholism
+Variant Creutzfeldt-Jakob disease (disorder),b304603007,Codes for dementia,a1805751000006115,20,Variant Creutzfeldt-Jakob disease
+Senile dementia of the Lewy body type (disorder),b312991009,Codes for dementia,a6024061000006111,2000,Senile dementia of the Lewy body type
+Senile dementia of the Lewy body type (disorder),b312991009,Codes for dementia,a6024071000006116,30,Lewy body dementia
+Senile dementia with psychosis (disorder),b371026009,Codes for dementia,a6348061000006115,5,Senile dementia with psychosis
+Dementia with acquired immunodeficiency syndrome (disorder),b421529006,Codes for dementia,a376571000006116,300,[X]Dementia in human immunodef virus [HIV] disease
+Dementia with acquired immunodeficiency syndrome (disorder),b421529006,Codes for dementia,a6973421000006116,1,Dementia associated with AIDS
+Dementia with acquired immunodeficiency syndrome (disorder),b421529006,Codes for dementia,a6973461000006110,1,Acquired immune deficiency syndrome dementia complex
+Dementia due to Creutzfeldt Jakob disease (disorder),b429458009,Codes for dementia,a295686014,200,Dementia due to Creutzfeldt Jakob disease
+Vascular dementia (disorder),b429998004,Codes for dementia,a295680015,2000,[X]Other vascular dementia
+Vascular dementia (disorder),b429998004,Codes for dementia,a295681016,20000,"[X]Vascular dementia, unspecified"
+Vascular dementia (disorder),b429998004,Codes for dementia,a431681000006117,500000,Vascular dementia
+Dementia due to Huntington chorea (disorder),b442344002,Codes for dementia,a295687017,2000,Dementia due to Huntington chorea
+Dementia due to Huntington chorea (disorder),b442344002,Codes for dementia,a7263021000006116,1,Dementia due to Huntingtons disease
+"Primary degenerative dementia of the Alzheimer type, senile onset, with delirium (disorder)",b4817008,Codes for dementia,a2575731000006115,3,"Primary degenerative dementia of the Alzheimer type, senile onset, with delirium"
+Multi-infarct dementia (disorder),b56267009,Codes for dementia,a294656010,2000,Arteriosclerotic dementia NOS
+Multi-infarct dementia (disorder),b56267009,Codes for dementia,a497559016,50000,Arteriosclerotic dementia
+Multi-infarct dementia (disorder),b56267009,Codes for dementia,a363791000006112,6000,[X]Arteriosclerotic dementia
+Multi-infarct dementia (disorder),b56267009,Codes for dementia,a399031000006111,9000,[X]Multi-infarct dementia
+Multi-infarct dementia (disorder),b56267009,Codes for dementia,a423221000006117,300,[X]Predominantly cortical dementia
+Multi-infarct dementia (disorder),b56267009,Codes for dementia,a696161000006115,30000,Multi-infarct dementia
+Multi-infarct dementia (disorder),b56267009,Codes for dementia,a3414231000006117,1,MID - Multi-infarct dementia
+Multi-infarct dementia (disorder),b56267009,Codes for dementia,a3414251000006112,6000,VAD - Vascular dementia
+Parkinson-dementia complex of Guam (disorder),b62239001,Codes for dementia,a3511181000006115,2,Parkinson-dementia complex of Guam
+"Primary degenerative dementia of the Alzheimer type, presenile onset, uncomplicated (disorder)",b6475002,Codes for dementia,a2603271000006110,1,"Primary degenerative dementia of the Alzheimer type, presenile onset, uncomplicated"
+"Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated (disorder)",b66108005,Codes for dementia,a3575041000006117,10,"Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated"
+Dementia associated with multiple sclerosis (disorder),b698626001,Codes for dementia,a7510741000006111,1,Dementia associated with multiple sclerosis
+Post-traumatic dementia with behavioral change (disorder),b698687007,Codes for dementia,a7511421000006118,2,Post-traumatic dementia with behavioural change
+Dementia in remission (disorder),b698949001,Codes for dementia,a7515071000006112,1,Dementia in remission
+GRN-related frontotemporal dementia (disorder),b702426001,Codes for dementia,a7560411000006117,1,Frontotemporal lobar degeneration
+Behavioral variant of frontotemporal dementia (disorder),b716994006,Codes for dementia,a7755121000006115,1,Behavioural variant of frontotemporal dementia
+Rapidly progressive dementia (disorder),b723390000,Codes for dementia,a7843521000006113,20,Rapidly progressive dementia
+Delirium co-occurrent with dementia (disorder),b725898002,Codes for dementia,a7874771000006117,20,Delirium superimposed on dementia
+Dementia due to chronic subdural hematoma (disorder),b733191004,Codes for dementia,a7955111000006116,6,Dementia due to chronic subdural haematoma
+Subcortical dementia (disorder),b762707000,Codes for dementia,a3635492010,6,Subcortical dementia
+Jakob-Creutzfeldt disease (disorder),b792004,Codes for dementia,a2386018,400,Jakob-Creutzfeldt disease
+Jakob-Creutzfeldt disease (disorder),b792004,Codes for dementia,a2510951000006114,200,Creutzfeldt-Jakob disease
+Jakob-Creutzfeldt disease (disorder),b792004,Codes for dementia,a2510981000006118,1,CJD - Creutzfeldt-Jakob disease
+Classical sporadic Creutzfeldt-Jakob disease (disorder),b840452004,Codes for dementia,a13943181000006116,2,Classical sporadic Creutzfeldt-Jakob disease
+Subcortical leukoencephalopathy (disorder),b90099008,Codes for dementia,a149347010,400,Binswanger's disease
+Subcortical leukoencephalopathy (disorder),b90099008,Codes for dementia,a1235534016,40,Binswanger's encephalopathy
+Subcortical leukoencephalopathy (disorder),b90099008,Codes for dementia,a3964651000006112,1,Subcortical arteriosclerotic encephalopathy
+Subcortical leukoencephalopathy (disorder),b90099008,Codes for dementia,a3964661000006114,2,Subcortical atherosclerotic dementia
+Subcortical leukoencephalopathy (disorder),b90099008,Codes for dementia,a3964671000006119,1,Chronic progressive subcortical encephalopathy

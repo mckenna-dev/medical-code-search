@@ -1,0 +1,243 @@
+med_code_id,term,snomed_ct_concept_id,observations
+2729551000000111,Cerebral infarction due to occlusion of cerebral artery (disorder),1089411000000104,10
+2729571000000119,Cerebral infarction due to stenosis of cerebral artery (disorder),1089421000000105,10
+14194281000006115,Acute cerebrovascular accident due to occlusion of right posterior cerebral artery (disorder),137592291000119101,1
+8044481000006118,Ischemic stroke without coma (disorder),140921000119102,400
+2726591000006119,Anterior choroidal artery syndrome (disorder),14309005,1
+3511086012,Thrombosis of right vertebral artery (disorder),15978431000119106,2
+3509810017,Cerebrovascular accident due to occlusion of right middle cerebral artery (disorder),16000431000119109,20
+3509794017,Cerebrovascular accident due to occlusion of left middle cerebral artery (disorder),16000511000119103,10
+3508961018,Cerebrovascular accident due to thrombus of right middle cerebral artery (disorder),16002031000119102,10
+3508962013,Cerebrovascular accident due to thrombus of right middle cerebral artery (disorder),16002031000119102,10
+14014251000006116,Cerebrovascular accident due to occlusion of bilateral pontine arteries (disorder),16644681000119102,20
+13717171000006112,Cerebrovascular accident due to stenosis of bilateral carotid arteries (disorder),16661971000119104,6
+14182621000006113,Cryptogenic stroke (disorder),16891111000119104,7
+13718621000006117,History of cerebrovascular accident due to ischemia (situation),16896891000119106,4
+503791000006114,Basal ganglia hemorrhage (disorder),195165005,2000
+4777811000006117,Basal ganglia hemorrhage (disorder),195165005,3
+746571000006116,"Intracerebral hemorrhage, multiple localized (disorder)",195169004,100
+4777881000006112,"Intracerebral hemorrhage, multiple localized (disorder)",195169004,60
+300322016,Cerebral infarction due to embolism of cerebral arteries (disorder),195190007,1000
+300363010,Anterior cerebral artery syndrome (disorder),195210002,2000
+300364016,Posterior cerebral artery syndrome (disorder),195211003,3000
+300366019,Cerebellar stroke syndrome (disorder),195213000,7000
+300370010,Left sided cerebral hemisphere cerebrovascular accident (disorder),195216008,60000
+4778181000006119,Left sided cerebral hemisphere cerebrovascular accident (disorder),195216008,4000
+300371014,Right sided cerebral hemisphere cerebrovascular accident (disorder),195217004,60000
+4778201000006118,Right sided cerebral hemisphere cerebrovascular accident (disorder),195217004,3000
+542251000006112,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic (disorder)",195230003,800
+300943012,Occlusion of cerebral artery (disorder),20059004,1000
+1222398015,Occlusion of cerebral artery (disorder),20059004,100000
+370701000006118,Occlusion of cerebral artery (disorder),20059004,300
+543141000006110,Occlusion of cerebral artery (disorder),20059004,4000
+405339016,Cerebrovascular accident (disorder),230690007,900000
+122401000006115,Cerebrovascular accident (disorder),230690007,90000
+605491000006113,Cerebrovascular accident (disorder),230690007,200000
+605501000006117,Cerebrovascular accident (disorder),230690007,400000
+5010981000006119,Cerebrovascular accident (disorder),230690007,20000
+345639010,Infarction - precerebral (disorder),230692004,80
+5011051000006116,Total anterior cerebral circulation infarction (disorder),230694003,200
+5011061000006119,Total anterior cerebral circulation infarction (disorder),230694003,3
+5011071000006114,Total anterior cerebral circulation infarction (disorder),230694003,10
+5011081000006112,Total anterior cerebral circulation infarction (disorder),230694003,10
+5011091000006110,Partial anterior cerebral circulation infarction (disorder),230695002,400
+5011101000006116,Partial anterior cerebral circulation infarction (disorder),230695002,7
+5011111000006118,Partial anterior cerebral circulation infarction (disorder),230695002,20
+5011121000006114,Partial anterior cerebral circulation infarction (disorder),230695002,30
+345655015,Pure motor lacunar infarction (disorder),230699008,2000
+5011191000006111,Pure motor lacunar infarction (disorder),230699008,90
+345658018,Pure sensory lacunar infarction (disorder),230700009,600
+5011211000006112,Pure sensory lacunar infarction (disorder),230700009,30
+5011231000006118,Pure sensorimotor lacunar infarction (disorder),230701008,3
+5011241000006111,Lacunar ataxic hemiparesis (disorder),230702001,8
+5011291000006119,Hemorrhagic cerebral infarction (disorder),230706003,80
+5011331000006114,Anterior cerebral circulation hemorrhagic infarction (disorder),230707007,1
+5011351000006119,Posterior cerebral circulation hemorrhagic infarction (disorder),230708002,6
+5011451000006114,Stroke of uncertain pathology (disorder),230713003,20
+5011461000006111,Anterior circulation stroke of uncertain pathology (disorder),230714009,70
+2901571000006113,Completed stroke (disorder),25133001,20
+14194331000006112,Acute cerebrovascular accident due to occlusion of right middle cerebral artery (disorder),272202251000119109,1
+300287010,Cerebral hemorrhage (disorder),274100004,4000
+300939013,Cerebral hemorrhage (disorder),274100004,1000
+300956017,Cerebral hemorrhage (disorder),274100004,400
+122371000006118,Cerebral hemorrhage (disorder),274100004,20000
+605471000006112,Cerebral hemorrhage (disorder),274100004,40000
+744901000006114,Cerebral hemorrhage (disorder),274100004,70000
+744921000006116,Cerebral hemorrhage (disorder),274100004,400
+748941000006115,Cerebral hemorrhage (disorder),274100004,1000
+884421000006119,Cerebral hemorrhage (disorder),274100004,1000
+989201000006117,Cerebral hemorrhage (disorder),274100004,1
+989211000006119,Cerebral hemorrhage (disorder),274100004,1
+12223101000006118,Cerebral hemorrhage (disorder),274100004,300
+12223111000006115,Cerebral hemorrhage (disorder),274100004,6
+12223121000006111,Cerebral hemorrhage (disorder),274100004,40
+12223131000006114,Cerebral hemorrhage (disorder),274100004,1
+5589641000006112,Intracerebellar and posterior fossa hemorrhage (disorder),276722003,20
+3507370011,Spontaneous hemorrhage of cerebral hemisphere (disorder),291531000119108,5
+3510961010,Lacunar ataxic hemiparesis of right dominant side (disorder),292851000119109,2
+451133011,Left sided cerebral infarction (disorder),307766002,30000
+3636133016,Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus (disorder),329361000119107,1
+3505639012,Occlusion of right middle cerebral artery (disorder),329481000119106,10
+3505637014,Occlusion of left middle cerebral artery (disorder),329491000119109,20
+3508955016,Cerebrovascular accident due to thrombus of basilar artery (disorder),329641000119104,7
+3508956015,Cerebrovascular accident due to thrombus of basilar artery (disorder),329641000119104,3
+3508958019,Cerebrovascular accident due to thrombus of right carotid artery (disorder),329651000119102,2
+6348301000006119,Embolic stroke (disorder),371041009,100
+14194161000006118,Acute cerebrovascular accident due to occlusion of left posterior cerebral artery (disorder),40076141000119107,1
+14194491000006118,Acute cerebrovascular accident due to occlusion of right carotid artery (disorder),407573811000119100,1
+6990981000006114,Ischemic stroke (disorder),422504002,200
+6990991000006112,Ischemic stroke (disorder),422504002,30
+300941014,Cerebral infarction (disorder),432504007,2000
+395780010,Cerebral infarction (disorder),432504007,200000
+218511000000117,Cerebral infarction (disorder),432504007,10000
+14194571000006115,Acute cerebrovascular accident due to occlusion of left carotid artery (disorder),502836591000119106,1
+14194611000006113,Cerebrovascular accident of basal ganglia (disorder),595899961000119100,5
+14194641000006112,Cerebrovascular accident of brainstem (disorder),652287331000119104,2
+14194651000006114,Cerebrovascular accident of brainstem (disorder),652287331000119104,1
+118689010,Cerebral arterial thrombosis (disorder),71444005,20000
+3512174014,Embolus of right posterior cerebral artery (disorder),734963004,1
+3512176011,Embolus of left middle cerebral artery (disorder),734964005,3
+3512178012,Embolus of right middle cerebral artery (disorder),734965006,5
+14194801000006111,Acute cerebrovascular accident due to ischemia (disorder),762005171000119101,10
+14194811000006114,Acute cerebrovascular accident due to ischemia (disorder),762005171000119101,1
+130375018,Posterior inferior cerebellar artery syndrome (disorder),78569004,800
+57341000006119,Posterior inferior cerebellar artery syndrome (disorder),78569004,300
+3777981000006119,Posterior inferior cerebellar artery syndrome (disorder),78569004,8
+3778021000006116,Posterior inferior cerebellar artery syndrome (disorder),78569004,20
+13909891000006118,Cerebral ischemic stroke due to hypercoagulable state (disorder),788883008,1
+14194971000006111,Acute cerebrovascular accident due to embolism of left middle cerebral artery (disorder),936648941000119105,1
+345650013,Brain stem infarction (disorder),95457000,900
+524541000006117,Brain stem infarction (disorder),95457000,4000
+4057031000006117,Brain stem infarction (disorder),95457000,2
+4057041000006110,Brain stem infarction (disorder),95457000,1
+4057051000006112,Brain stem infarction (disorder),95457000,1
+158118014,Cerebellar infarction (disorder),95460007,30000
+8453031000006117,Haemorrhagic stroke (disorder),1078001000000105,300
+4193641000006111,Nonparalytic stroke (disorder),111297002,5
+370661000006114,Cerebral infarction due to occlusion of precerebral artery (disorder),125081000119106,200
+542261000006114,Cerebral infarction due to occlusion of precerebral artery (disorder),125081000119106,900
+3509799010,Cerebrovascular accident due to occlusion of left posterior cerebral artery (disorder),16000351000119109,2
+3509790014,Cerebrovascular accident due to occlusion of right posterior cerebral artery (disorder),16000391000119104,1
+3508964014,Cerebrovascular accident due to thrombus of left middle cerebral artery (disorder),16002111000119106,20
+3508965010,Cerebrovascular accident due to thrombus of left middle cerebral artery (disorder),16002111000119106,10
+3515794015,Acute cerebral ischemia (disorder),16218291000119100,70
+9912271000006112,Cerebellar stroke (disorder),16371781000119100,200
+300276019,External capsule hemorrhage (disorder),195167002,100
+300277011,Intracerebral hemorrhage with intraventricular hemorrhage (disorder),195168007,3000
+163261000006119,Intracerebral hemorrhage with intraventricular hemorrhage (disorder),195168007,800
+4777861000006119,Intracerebral hemorrhage with intraventricular hemorrhage (disorder),195168007,5
+300312010,Cerebral infarct due to thrombosis of precerebral arteries (disorder),195185009,2000
+300313017,Cerebral infarction due to embolism of precerebral arteries (disorder),195186005,1000
+300321011,Cerebral infarction due to thrombosis of cerebral arteries (disorder),195189003,3000
+300362017,Middle cerebral artery syndrome (disorder),195209007,6000
+524511000006116,Brainstem stroke syndrome (disorder),195212005,7000
+2832651000006111,Subcortical cerebral hemorrhage (disorder),20908003,4
+2832661000006113,Subcortical cerebral hemorrhage (disorder),20908003,1
+122361000006113,Cerebrovascular accident due to occlusion of cerebral artery (disorder),230691006,30000
+605461000006117,Cerebrovascular accident due to occlusion of cerebral artery (disorder),230691006,100000
+5011041000006118,Anterior cerebral circulation infarction (disorder),230693009,70
+5011131000006112,Posterior cerebral circulation infarction (disorder),230696001,400
+5011141000006119,Posterior cerebral circulation infarction (disorder),230696001,40
+299342019,Lacunar infarction (disorder),230698000,9000
+5011161000006115,Lacunar infarction (disorder),230698000,70
+5011171000006110,Lacunar infarction (disorder),230698000,7
+5011261000006110,Multi-infarct state (disorder),230704000,3
+345675012,Lobar cerebral hemorrhage (disorder),230710000,800
+5011411000006113,Thalamic hemorrhage (disorder),230711001,100
+5011421000006117,Thalamic hemorrhage (disorder),230711001,1
+5011431000006119,Lacunar hemorrhage (disorder),230712008,4
+5011471000006116,Posterior circulation stroke of uncertain pathology (disorder),230715005,100
+2893541000006113,Weber-Gubler syndrome (disorder),24654003,1
+411416011,Stroke in the puerperium (disorder),275434003,4
+605481000006110,Stroke in the puerperium (disorder),275434003,80
+5582311000006110,Occipital cerebral infarction (disorder),276219001,300
+5649201000006113,Extension of cerebrovascular accident (disorder),281240008,1
+3507383012,Spontaneous hemorrhage of cortical intracerebral hemisphere (disorder),291521000119105,8
+3510963013,Lacunar ataxic hemiparesis of left dominant side (disorder),292861000119106,2
+5967391000006111,Multiple lacunar infarcts (disorder),307363008,100
+451134017,Right sided cerebral infarction (disorder),307767006,20000
+3509817019,Cerebrovascular accident due to occlusion of left cerebellar artery by embolus (disorder),329461000119102,3
+3505651014,Occlusion of left posterior cerebral artery (disorder),329571000119107,4
+3508952018,Cerebrovascular accident due to thrombus of left carotid artery (disorder),330791000119108,1
+6348291000006115,Thrombotic stroke (disorder),371040005,30
+1212072018,Occlusive stroke (disorder),373606000,400
+2474651019,Infarction of basal ganglia (disorder),413102000,7000
+6837051000006119,Infarction of basal ganglia (disorder),413102000,5
+6837061000006117,Infarction of basal ganglia (disorder),413102000,1
+6846141000006118,Cardioembolic stroke (disorder),413758000,40
+7054171000006115,Acute lacunar infarction (disorder),426107000,100
+7067291000006113,Infarction of medulla oblongata (disorder),426983002,8
+7295961000006113,Superior cerebellar artery syndrome (disorder),444657001,2
+14194191000006114,Acute cerebrovascular accident due to stenosis of left carotid artery (disorder),46583221000119102,1
+495394013,Cortical hemorrhage (disorder),49422009,500
+496232015,Internal capsule hemorrhage (disorder),52201006,1000
+294656010,Multi-infarct dementia (disorder),56267009,2000
+497559016,Multi-infarct dementia (disorder),56267009,50000
+363791000006112,Multi-infarct dementia (disorder),56267009,6000
+399031000006111,Multi-infarct dementia (disorder),56267009,9000
+423221000006117,Multi-infarct dementia (disorder),56267009,300
+696161000006115,Multi-infarct dementia (disorder),56267009,30000
+3414231000006117,Multi-infarct dementia (disorder),56267009,1
+3414251000006112,Multi-infarct dementia (disorder),56267009,6000
+14194211000006110,Acute cerebrovascular accident due to occlusion of left middle cerebral artery (disorder),63230211000119103,1
+14194661000006111,Acute cerebrovascular accident due to stenosis of right carotid artery (disorder),693158221000119105,2
+7839991000006115,Silent cerebral infarct (disorder),723082006,10
+7855631000006111,Cerebral ischemic stroke due to small artery occlusion (disorder),724424009,20
+483988011,Hemorrhage of medulla oblongata (disorder),732923001,30
+7951271000006116,Hemorrhage of medulla oblongata (disorder),732923001,1
+3511959014,Thrombosis of left middle cerebral artery (disorder),734383005,10
+3505881015,Thrombosis of right middle cerebral artery (disorder),734384004,1
+3511955015,Thrombosis of right middle cerebral artery (disorder),734384004,10
+14194741000006118,Acute cerebrovascular accident due to occlusion of right cerebellar artery (disorder),738478141000119101,1
+502878012,Cerebellar hemorrhage (disorder),75038005,9000
+3719851000006116,Cerebellar hemorrhage (disorder),75038005,1
+125470015,Cerebral embolism (disorder),75543006,6000
+542831000006116,Cerebral embolism (disorder),75543006,300
+3636969013,Occlusion of right middle cerebral artery by embolus (disorder),762629007,2
+503469016,Intrapontine hemorrhage (disorder),7713009,2000
+2622631000006114,Intrapontine hemorrhage (disorder),7713009,10
+13905301000006116,Occlusion of bilateral pontine arteries (disorder),788455001,1
+13909861000006114,Cerebral ischemic stroke due to dissection of artery (disorder),788880006,2
+13909881000006116,Cerebral ischemic stroke due to global hypoperfusion with watershed infarct (disorder),788882003,10
+13909901000006119,Cerebral ischemic stroke due to subarachnoid hemorrhage (disorder),788884002,30
+13967201000006117,Occlusion of branch of basilar artery (disorder),870579007,3
+14194941000006115,Acute cerebrovascular accident due to embolism of right middle cerebral artery (disorder),931164671000119105,2
+4056931000006116,Brain stem hemorrhage (disorder),95454007,20
+4056951000006111,Brain stem hemorrhage (disorder),95454007,1
+106392017,Basilar artery syndrome (disorder),64009001,2000
+106394016,Basilar artery syndrome (disorder),64009001,6000
+499739014,Basilar artery syndrome (disorder),64009001,3000
+67511000006117,Basilar artery syndrome (disorder),64009001,20000
+1667741000000110,Personal history of transient ischaemic attack (situation),751371000000107,700
+8231151000006110,Personal history of transient ischaemic attack (situation),751371000000107,200
+25897016,Subclavian steal syndrome (disorder),15258001,2000
+67501000006115,Vertebrobasilar artery syndrome (disorder),195199008,2000
+300345010,Multiple and bilateral precerebral artery syndromes (disorder),195201005,20
+5011521000006118,Vertebrobasilar territory transient ischemic attack (disorder),230717002,20
+5011541000006113,Vertebrobasilar territory transient ischemic attack (disorder),230717002,7
+5011551000006110,Vertebrobasilar territory transient ischemic attack (disorder),230717002,4
+300348012,Transient ischemic attack (disorder),266257000,1000
+300349016,Transient ischemic attack (disorder),266257000,7000
+395783012,Transient ischemic attack (disorder),266257000,800000
+395788015,Transient ischemic attack (disorder),266257000,700000
+95931000006111,Transient ischemic attack (disorder),266257000,10000
+416991000006112,Transient ischemic attack (disorder),266257000,1000
+988951000006117,Transient ischemic attack (disorder),266257000,10
+5492171000006112,Transient ischemic attack (disorder),266257000,300
+5492201000006111,Transient ischemic attack (disorder),266257000,40
+5492221000006118,Transient ischemic attack (disorder),266257000,100
+11920121000006117,Transient ischemic attack (disorder),266257000,9
+7289121000006119,Recurrent transient cerebral ischemic attack (disorder),444172003,20
+7289131000006116,Recurrent transient cerebral ischemic attack (disorder),444172003,1
+251692018,History of transient ischemic attack (situation),161511000,70000
+4540591000006113,History of transient ischemic attack (situation),161511000,2
+14068071000006114,History of transient ischemic attack (situation),161511000,100
+300344014,Carotid artery syndrome hemispheric (disorder),195200006,500
+300352012,Impending cerebral ischemia (disorder),195205001,100
+300353019,Intermittent cerebral ischemia (disorder),195206000,600
+345684012,Carotid territory transient ischemic attack (disorder),230716006,900
+5011491000006115,Carotid territory transient ischemic attack (disorder),230716006,200
+5011501000006111,Carotid territory transient ischemic attack (disorder),230716006,10
+58046010,Vertebral artery syndrome (disorder),34781003,800
+2476647018,Vertebral artery syndrome (disorder),34781003,300
+7064691000006118,Transient cerebral ischemia due to atrial fibrillation (disorder),426814001,1

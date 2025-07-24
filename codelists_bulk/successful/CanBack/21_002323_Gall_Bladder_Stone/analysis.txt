@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 115
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1     Flag_classifyL2         MedCodeID                                                             Term
+0   4637       Digestive  Gall_bladder_stone  a104971000006115      Therapeutic percutaneous insert prosthesis to bile duct NOS
+1   4638       Digestive  Gall_bladder_stone  a105001000006114  Therapeutic percutaneous insertion of prosthesis into bile duct
+2   4639       Digestive  Gall_bladder_stone        a108454010                                              Acute cholecystitis

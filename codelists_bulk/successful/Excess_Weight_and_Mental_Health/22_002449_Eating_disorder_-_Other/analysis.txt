@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 15
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tEatingdisorder_Other_diagnosis']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                                           \tMedCodeId\tObservations\tTerm\tEatingdisorder_Other_diagnosis
+0                                    0\t296361019\t200000\tEating disorder\tEatingdisorder_Other_diagnosis
+1  2\t295436010\t10000\tOther and unspecified non-organic eating disorders\tEatingdisorder_Other_diagnosis
+2              3\t295437018\t9000\tUnspecified non-organic eating disorder\tEatingdisorder_Other_diagnosis

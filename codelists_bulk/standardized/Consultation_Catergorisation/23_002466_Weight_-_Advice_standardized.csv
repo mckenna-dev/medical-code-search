@@ -1,0 +1,55 @@
+med_code_id,term,snomed_ct_concept_id,observations
+818011000006113,Diet health education,11816003,9000000
+1131791000000118,Lifestyle advice regarding diet,443288003,1000000
+1662431000000112,Advice given about weight management,698471002,900000
+839191000006115,Weight control education,410200000,900000
+977951000006110,Health education - weight management,410200000,600000
+200241000006114,Patient advised about weight-reducing diet,266724001,600000
+200161000006118,Low fat diet education,183061003,600000
+240871000006110,Low cholesterol diet education,183062005,500000
+200111000006116,Diabetes mellitus diet education,284350006,500000
+200121000006112,Diet education,11816003,500000
+411892019,Weight loss advised,275919002,500000
+240911000006113,Patient advised to lose weight,275919002,200000
+1753311000006112,"Intervention for risk to health associated with overweight and obesity, general advice on healthy weight and lifestyle",756001000000107,200000
+200081000006110,Low carbohydrate diet education,183065007,100000
+401535015,Target weight discussed,268523001,100000
+854681000006113,Weight reducing diet advised,854681000006109,100000
+854691000006111,Low fat diet advised,854691000006107,100000
+265091015,Diet in pregnancy advice,171054004,90000
+264764015,Ideal weight discussed,170803009,90000
+200151000006115,Patient advised about high fibre diet,183059007,60000
+7275101000006116,Lifestyle education regarding diet,443288003,30000
+1714271000000112,Advice about food intake,768111000000102,20000
+7508801000006119,Patient advised about weight management,698471002,10000
+854701000006111,Sugar free diet advised,854701000006107,7000
+200211000006110,Sugar-free diet education,281085002,7000
+5494311000006110,Weight-reducing diet education,266724001,6000
+917001000006118,Patient advised re diet,917001000006102,5000
+1735631000000119,Discussion about weight management programme,776931000000102,4000
+1753321000006116,"Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity",756021000000103,4000
+282832010,Low calorie diet - prophylaxis,182956005,3000
+918281000006116,Pt advised re diabetic diet,918281000006100,3000
+918351000006118,Patient advised re low cholesterol diet,918351000006102,2000
+4640141000006117,Pregnancy diet education,171054004,1000
+81211000006112,Unsaturated fat diet - prophylaxis,182960008,800
+1753331000006118,"Intervention for risk to health associated with overweight and obesity, advice about diet and physical activity, consider drugs",756041000000105,400
+4719741000006111,High fibre diet education,183059007,300
+4718981000006113,Low carbohydrate diet - prophylaxis,182955009,200
+5494331000006116,Dietary advice for weight reduction,266724001,200
+5686501000006114,Obesity diet education,284352003,100
+5003521000006117,Recommendation to change fat intake,230091007,100
+2688161000006119,Advice about diet,11816003,80
+918271000006119,Pt advised re wt reducing diet,918271000006103,70
+7493191000006115,Educated about weight management,609104008,40
+5700681000006111,Recommendation to change carbohydrate intake,285390004,30
+2688171000006114,Advice on diet,11816003,20
+5000051000006112,Recommendation to change food and drink intake,229807004,10
+5700201000006117,Recommendation to change dairy food intake,285351003,10
+5700591000006110,Recommendation to change fruit and nut intake,285383009,8
+918331000006113,Pt advised re low fat diet,918331000006109,6
+918371000006111,Pt advis re low carbohydrate diet,918371000006107,4
+918311000006119,Pt advised re high fibre diet,918311000006103,3
+6932761000006111,Advice to change diet,419155003,3
+5000071000006119,Recommendation to change food intake,229808009,2
+5700211000006119,Advice to change dairy food intake,285351003,1

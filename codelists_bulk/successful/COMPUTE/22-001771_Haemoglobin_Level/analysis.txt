@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 11
+Columns: 4
+Column names: ['MedCodeId', 'Observations', 'Term', 'SNOMED_CT_Concept_ID']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: True
+Sample data:
+          MedCodeId  Observations                    Term  SNOMED_CT_Concept_ID
+0   813551000006113      73716624  Haemoglobin estimation      1022431000000105
+1         411758010        246430           Hb estimation      1022431000000105
+2  3113081000006110          1576             Haemoglobin              38082009

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 67
+Columns: 1
+Column names: ['\tMedCodeId\tObservations\tTerm\tdementia']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+                          \tMedCodeId\tObservations\tTerm\tdementia
+0          0\ta431681000006117\t500000\tVascular dementia\tdementia
+1                   1\ta26545010\t300000\tSenile dementia\tdementia
+2  2\ta148381000006115\t100000\tSenile/presenile dementia\tdementia

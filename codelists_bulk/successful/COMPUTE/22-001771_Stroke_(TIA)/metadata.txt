@@ -1,0 +1,10 @@
+Original URL: https://github.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/blob/main/Codelists/Conditions/Stroke_TIA_QOF_Codelists.csv
+Downloaded from: https://raw.githubusercontent.com/ndpchs-cprd/CPRD-22-001771-CoMPuTe/main/Codelists/Conditions/Stroke_TIA_QOF_Codelists.csv
+Codelist Name: Stroke (TIA)
+Project Title: COMPUTE
+ERAP Number: 22-001771
+Author: Cynthia Wrght Drakesmith
+Coding System: Aurum
+Year Created: 2023
+Downloaded: 2025-06-25 13:28:53
+File Size: 35466 bytes

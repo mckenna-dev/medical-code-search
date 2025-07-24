@@ -1,0 +1,11 @@
+MedCodeId,MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,os_term,originalreadcode,cleansedreadcode,snomedctdescriptionid,release,emiscodecategoryid,simpleterm
+27113001,253688015,O/E - weight NOS,,27113001,Body weight,22AZ,22AZ.00,45352010,,2,o/e - weight nos
+27113001,253677014,Body weight,,27113001,Body weight,22A,22A..00,45352010,,2,body weight
+27113001,2934311000006118,Weight,,27113001,Body weight,^ESCTWE293431,,598581000000118,,2,weight
+27113001,2934301000006116,Body weight,,27113001,Body weight,^ESCTBO293430,,2934301000006116,,2,body weight
+363808001,6251151000006116,Body weight measure,,363808001,Measured body weight,^ESCTBO625115,,486932010,,31,body weight measure
+363808001,6251161000006119,Weight measurement,,363808001,Measured body weight,^ESCTWE625116,,587821000000119,,31,weight measurement
+400967004,1780175010,Baseline weight,,400967004,Baseline weight,22A7,22A7.00,1780175010,,2,baseline weight
+424927000,7035491000006110,Body weight with shoes,,424927000,Body weight with shoes,^ESCTBO703549,,2644469018,,31,body weight with shoes
+425024002,7037161000006118,Body weight without shoes,,425024002,Body weight without shoes,^ESCTBO703716,,2644678019,,31,body weight without shoes
+735395000,3514400010,Current body weight,,735395000,Current body weight,^ESCT1165415,,3514400010,,31,current body weight

@@ -1,0 +1,12 @@
+=== FILE ANALYSIS ===
+Rows: 16
+Columns: 7
+Column names: ['Order', 'Flag_classifyL1', 'Flag_classifyL2', 'MedCodeID', 'Term', 'Flag_L1_L2', 'Notes']
+Has med_code_id: True
+Has term/description: True
+Has SNOMED: False
+Sample data:
+   Order Flag_classifyL1 Flag_classifyL2         MedCodeID                                    Term
+0   2039          Cancer        Pancreas  a723401000006118          Malignant neoplasm of pancreas
+1   2040          Cancer        Pancreas  a725121000006118  Malignant neoplasm of head of pancreas
+2   2041          Cancer        Pancreas        a288717016  Malignant neoplasm of body of pancreas

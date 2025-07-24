@@ -1,0 +1,11 @@
+med_code_id,term,observations,snomed_ct_concept_id
+405633013,Fasting blood glucose level,2000000,
+1822521000006119,Test request : Fasting blood glucose level,300000,
+5519881000006117,Fasting blood glucose measurement,90,
+5519891000006119,Fasting blood glucose level,60,
+5519911000006117,Fasting blood glucose,30,
+259598013,Plasma fasting glucose level,20000000,
+259587012,Serum fasting glucose level,3000000,
+2476950017,Impaired fasting glucose,80000,
+5519921000006113,FBS - Fasting blood sugar,2,
+667181000006113,Fasting blood sugar,1000000,
