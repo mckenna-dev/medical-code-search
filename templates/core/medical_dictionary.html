@@ -1,0 +1,555 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Medical Dictionary Search</h1>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <h5>Search Medical Codes</h5>
+    </div>
+    <div class="card-body">
+        <form method="get" action="{% url 'medical_dictionary' %}" id="search-form">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label for="search_terms" class="form-label">
+                            Search Terms 
+                            <small class="text-muted">(comma-separated)</small>
+                        </label>
+                        <input type="text" class="form-control" id="search_terms" name="search_terms" 
+                               value="{{ search_params.search_terms }}" 
+                               placeholder="diabetes, hypertension, heart disease">
+                        <div class="form-text">Use commas to separate multiple terms. Multi-word phrases are supported.</div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label for="exclusion_terms" class="form-label">
+                            Exclude Terms 
+                            <small class="text-muted">(comma-separated)</small>
+                        </label>
+                        <input type="text" class="form-control" id="exclusion_terms" name="exclusion_terms" 
+                               value="{{ search_params.exclusion_terms }}" 
+                               placeholder="screening, family history, suspected">
+                        <div class="form-text">Codes containing these terms will be excluded from results.</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label for="code" class="form-label">Specific Code ID</label>
+                        <input type="text" class="form-control" id="code" name="code" 
+                               value="{{ search_params.code }}" 
+                               placeholder="Enter specific code ID...">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label for="category" class="form-label">Category</label>
+                        <select class="form-control" id="category" name="category">
+                            <option value="">All Categories</option>
+                            {% for cat in categories %}
+                            <option value="{{ cat }}" {% if cat == search_params.category %}selected{% endif %}>{{ cat }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row mt-3">
+                <div class="col-12">
+                    <button type="submit" class="btn btn-primary">Search</button>
+                    <a href="{% url 'medical_dictionary' %}" class="btn btn-outline-secondary">Clear</a>
+                </div>
+            </div>
+        </form>
+        
+        <!-- Display parsed terms -->
+        {% if parsed_terms_info.search_terms_parsed or parsed_terms_info.exclusion_terms_parsed %}
+        <div class="mt-4 p-3 bg-light rounded">
+            <h6>Active Search Terms:</h6>
+            
+            {% if parsed_terms_info.search_terms_parsed %}
+            <div class="mb-2">
+                <strong>Including:</strong>
+                <div class="d-inline-flex flex-wrap gap-1 ms-2">
+                    {% for term in parsed_terms_info.search_terms_parsed %}
+                    <span class="badge bg-success">
+                        {{ term }}
+                        <button type="button" class="btn-close btn-close-white ms-1" 
+                                onclick="removeSearchTerm('{{ term }}', 'search')" 
+                                aria-label="Remove {{ term }}"></button>
+                    </span>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+            
+            {% if parsed_terms_info.exclusion_terms_parsed %}
+            <div class="mb-2">
+                <strong>Excluding:</strong>
+                <div class="d-inline-flex flex-wrap gap-1 ms-2">
+                    {% for term in parsed_terms_info.exclusion_terms_parsed %}
+                    <span class="badge bg-danger">
+                        {{ term }}
+                        <button type="button" class="btn-close btn-close-white ms-1" 
+                                onclick="removeSearchTerm('{{ term }}', 'exclusion')" 
+                                aria-label="Remove {{ term }}"></button>
+                    </span>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<!-- Export Panel -->
+{% if codes %}
+<div class="card mb-4">
+    <div class="card-header d-flex justify-content-between align-items-center">
+        <h5>Export Selected Codes</h5>
+        <div>
+            <span class="badge bg-info me-2">
+                <span id="selected-count">0</span> selected
+            </span>
+            <button type="button" class="btn btn-sm btn-outline-primary" id="select-all-btn">Select All</button>
+            <button type="button" class="btn btn-sm btn-outline-secondary" id="deselect-all-btn">Deselect All</button>
+        </div>
+    </div>
+    <div class="card-body">
+        <form method="post" action="{% url 'export_medical_dictionary' %}" id="export-form">
+            {% csrf_token %}
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="mb-3">
+                        <label class="form-label">Export Format</label>
+                        <div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="format" id="format-csv" value="csv" checked>
+                                <label class="form-check-label" for="format-csv">CSV Format</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="format" id="format-txt" value="txt">
+                                <label class="form-check-label" for="format-txt">Text Format</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="format" id="format-json" value="json">
+                                <label class="form-check-label" for="format-json">JSON Format</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Advanced Options Collapsible Section -->
+                    <div class="mb-3">
+                        <button class="btn btn-link p-0 text-decoration-none" type="button" 
+                                data-bs-toggle="collapse" data-bs-target="#advanced-options" 
+                                aria-expanded="false" aria-controls="advanced-options">
+                            <i class="fas fa-chevron-right" id="advanced-toggle-icon"></i>
+                            Advanced Export Options
+                        </button>
+                        <div class="collapse" id="advanced-options">
+                            <div class="card card-body mt-2">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" name="include_flags" 
+                                           id="include_flags" value="on">
+                                    <label class="form-check-label" for="include_flags">
+                                        Include Clinical Flag Columns
+                                    </label>
+                                    <div class="form-text">
+                                        Adds columns for screening, referral, family history, suspected, advice, and negation flags
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 d-flex align-items-end">
+                    <button type="submit" class="btn btn-success" id="export-btn" disabled>
+                        Export Selected Codes
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+{% endif %}
+
+<!-- Results Section -->
+<div class="card">
+    <div class="card-header d-flex justify-content-between align-items-center">
+        <h5>Search Results</h5>
+        {% if codes %}
+        <div class="text-muted">
+            Showing {{ showing_count }} of {{ total_count }} results
+            {% if total_count > showing_count %}
+                <small class="text-warning">(limited to first 500 for performance)</small>
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+    <div class="card-body">
+        {% if codes %}
+        <div class="table-responsive">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th style="width: 50px;">
+                            <input type="checkbox" id="select-all-checkbox" class="form-check-input">
+                        </th>
+                        <th>Code ID</th>
+                        <th>Term</th>
+                        <th>SNOMED CT</th>
+                        <th>Category</th>
+                        <th>System</th>
+                        <th>Flags</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for code in codes %}
+                    <tr>
+                        <td>
+                            <input type="checkbox" name="code-checkbox" value="{{ code.med_code_id }}" 
+                                   class="form-check-input code-checkbox">
+                        </td>
+                        <td>
+                            <code>{{ code.med_code_id }}</code>
+                        </td>
+                        <td>{{ code.term }}</td>
+                        <td>{{ code.snomed_ct_concept_id|default:"-" }}</td>
+                        <td>{{ code.emis_category|default:"-" }}</td>
+                        <td>{{ code.coding_system|default:"-" }}</td>
+                        <td>
+                            <div class="d-flex flex-wrap gap-1">
+                                {% if code.is_screening %}
+                                    <span class="badge bg-info" title="Screening">S</span>
+                                {% endif %}
+                                {% if code.is_referral %}
+                                    <span class="badge bg-primary" title="Referral">R</span>
+                                {% endif %}
+                                {% if code.is_familial %}
+                                    <span class="badge bg-secondary" title="Family History">F</span>
+                                {% endif %}
+                                {% if code.is_suspected %}
+                                    <span class="badge bg-warning" title="Suspected/Provisional">P</span>
+                                {% endif %}
+                                {% if code.is_advice %}
+                                    <span class="badge bg-success" title="Advice">A</span>
+                                {% endif %}
+                                {% if code.is_negation %}
+                                    <span class="badge bg-danger" title="Negation">N</span>
+                                {% endif %}
+                            </div>
+                        </td>
+                        <td>
+                            <div class="btn-group" role="group">
+                                <button type="button" class="btn btn-sm btn-outline-success" 
+                                        onclick="addToSearch('{{ code.term|escapejs }}')">
+                                    + Include
+                                </button>
+                                <button type="button" class="btn btn-sm btn-outline-danger" 
+                                        onclick="addToExclusion('{{ code.term|escapejs }}')">
+                                    - Exclude
+                                </button>
+                            </div>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        
+        <!-- Flag Legend -->
+        <div class="mt-3 p-3 bg-light rounded">
+            <h6>Flag Legend:</h6>
+            <div class="row">
+                <div class="col-md-6">
+                    <span class="badge bg-info me-1">S</span> Screening &nbsp;
+                    <span class="badge bg-primary me-1">R</span> Referral &nbsp;
+                    <span class="badge bg-secondary me-1">F</span> Family History
+                </div>
+                <div class="col-md-6">
+                    <span class="badge bg-warning me-1">P</span> Suspected/Provisional &nbsp;
+                    <span class="badge bg-success me-1">A</span> Advice &nbsp;
+                    <span class="badge bg-danger me-1">N</span> Negation
+                </div>
+            </div>
+        </div>
+        
+        {% else %}
+        <div class="text-center p-4">
+            {% if search_params.search_terms or search_params.code or search_params.category %}
+                <p>No codes found matching your search criteria.</p>
+                <p class="text-muted">
+                    Try reducing your exclusion terms or broadening your search terms.
+                </p>
+            {% else %}
+                <p>Enter search criteria above to find medical codes.</p>
+                <p class="text-muted">
+                    <strong>Tips:</strong><br>
+                    • Use comma-separated terms: "diabetes, insulin, glucose"<br>
+                    • Use exclusion terms to filter out unwanted codes<br>
+                    • Multi-word terms work: "type 2 diabetes, heart failure"<br>
+                    • Add/remove terms from results using the action buttons
+                </p>
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const selectAllCheckbox = document.getElementById('select-all-checkbox');
+    const selectAllBtn = document.getElementById('select-all-btn');
+    const deselectAllBtn = document.getElementById('deselect-all-btn');
+    const exportBtn = document.getElementById('export-btn');
+    const exportForm = document.getElementById('export-form');
+    const codeCheckboxes = document.querySelectorAll('.code-checkbox');
+    const selectedCountSpan = document.getElementById('selected-count');
+    
+    // Load saved selections from session on page load
+    loadSavedSelections();
+    
+    // Update UI state based on selections
+    function updateSelectionState() {
+        const checkedBoxes = document.querySelectorAll('.code-checkbox:checked');
+        const checkedCount = checkedBoxes.length;
+        const totalCount = codeCheckboxes.length;
+        
+        // Update header checkbox
+        if (selectAllCheckbox) {
+            selectAllCheckbox.checked = checkedCount === totalCount && totalCount > 0;
+            selectAllCheckbox.indeterminate = checkedCount > 0 && checkedCount < totalCount;
+        }
+        
+        // Update selected count
+        if (selectedCountSpan) {
+            selectedCountSpan.textContent = checkedCount;
+        }
+        
+        // Enable/disable export button
+        if (exportBtn) {
+            exportBtn.disabled = checkedCount === 0;
+        }
+        
+        // Save selections to session
+        saveSelectionsToSession();
+    }
+    
+    // Selection event handlers
+    if (selectAllCheckbox) {
+        selectAllCheckbox.addEventListener('change', function() {
+            codeCheckboxes.forEach(checkbox => {
+                checkbox.checked = this.checked;
+            });
+            updateSelectionState();
+        });
+    }
+    
+    if (selectAllBtn) {
+        selectAllBtn.addEventListener('click', function() {
+            codeCheckboxes.forEach(checkbox => {
+                checkbox.checked = true;
+            });
+            updateSelectionState();
+        });
+    }
+    
+    if (deselectAllBtn) {
+        deselectAllBtn.addEventListener('click', function() {
+            codeCheckboxes.forEach(checkbox => {
+                checkbox.checked = false;
+            });
+            updateSelectionState();
+        });
+    }
+    
+    // Add change listeners to individual checkboxes
+    codeCheckboxes.forEach(checkbox => {
+        checkbox.addEventListener('change', updateSelectionState);
+    });
+    
+    // Handle export form submission
+    if (exportForm) {
+        exportForm.addEventListener('submit', function(e) {
+            const checkedCodes = document.querySelectorAll('.code-checkbox:checked');
+            
+            if (checkedCodes.length === 0) {
+                e.preventDefault();
+                alert('Please select at least one code to export.');
+                return;
+            }
+            
+            // Add selected codes to form
+            checkedCodes.forEach(checkbox => {
+                const hiddenInput = document.createElement('input');
+                hiddenInput.type = 'hidden';
+                hiddenInput.name = 'selected_codes';
+                hiddenInput.value = checkbox.value;
+                this.appendChild(hiddenInput);
+            });
+        });
+    }
+    
+    // Advanced options toggle icon
+    const advancedToggle = document.querySelector('[data-bs-target="#advanced-options"]');
+    const advancedIcon = document.getElementById('advanced-toggle-icon');
+    
+    if (advancedToggle && advancedIcon) {
+        advancedToggle.addEventListener('click', function() {
+            setTimeout(() => {
+                const isExpanded = document.getElementById('advanced-options').classList.contains('show');
+                advancedIcon.className = isExpanded ? 'fas fa-chevron-down' : 'fas fa-chevron-right';
+            }, 50);
+        });
+    }
+    
+    // Initialize state
+    updateSelectionState();
+});
+
+// Global functions for term management
+function addToSearch(term) {
+    addTermToField(term, 'search');
+}
+
+function addToExclusion(term) {
+    addTermToField(term, 'exclusion');
+}
+
+function addTermToField(term, fieldType) {
+    const fieldId = fieldType === 'search' ? 'search_terms' : 'exclusion_terms';
+    const field = document.getElementById(fieldId);
+    const currentValue = field.value;
+    
+    // Send AJAX request to add term
+    fetch('{% url "add_search_term" %}', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'X-CSRFToken': document.querySelector('[name=csrfmiddlewaretoken]').value
+        },
+        body: JSON.stringify({
+            term: term,
+            field_type: fieldType,
+            current_terms: currentValue
+        })
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.status === 'success') {
+            field.value = data.new_terms;
+            // Auto-submit the form to refresh results
+            document.getElementById('search-form').submit();
+        } else {
+            alert('Error adding term: ' + data.message);
+        }
+    })
+    .catch(error => {
+        console.error('Error:', error);
+        alert('Error adding term');
+    });
+}
+
+function removeSearchTerm(term, fieldType) {
+    const fieldId = fieldType === 'search' ? 'search_terms' : 'exclusion_terms';
+    const field = document.getElementById(fieldId);
+    const currentValue = field.value;
+    
+    // Send AJAX request to remove term
+    fetch('{% url "remove_search_term" %}', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'X-CSRFToken': document.querySelector('[name=csrfmiddlewaretoken]').value
+        },
+        body: JSON.stringify({
+            term: term,
+            current_terms: currentValue
+        })
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.status === 'success') {
+            field.value = data.new_terms;
+            // Auto-submit the form to refresh results
+            document.getElementById('search-form').submit();
+        } else {
+            alert('Error removing term: ' + data.message);
+        }
+    })
+    .catch(error => {
+        console.error('Error:', error);
+        alert('Error removing term');
+    });
+}
+
+// Session storage functions
+function saveSelectionsToSession() {
+    const selectedCodes = Array.from(document.querySelectorAll('.code-checkbox:checked'))
+        .map(cb => cb.value);
+    
+    // Save to session via AJAX
+    const csrfToken = document.querySelector('[name=csrfmiddlewaretoken]');
+    if (csrfToken) {
+        fetch('{% url "save_medical_dictionary_selection" %}', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': csrfToken.value
+            },
+            body: JSON.stringify({
+                selected_codes: selectedCodes
+            })
+        }).catch(console.error);
+    }
+    
+    // Also save to localStorage as backup
+    localStorage.setItem('medical_dictionary_selections', JSON.stringify(selectedCodes));
+}
+
+function loadSavedSelections() {
+    // Try to load from server session first
+    fetch('{% url "get_medical_dictionary_selection" %}')
+        .then(response => response.json())
+        .then(data => {
+            const savedSelections = data.selected_codes || [];
+            restoreSelections(savedSelections);
+        })
+        .catch(() => {
+            // Fallback to localStorage
+            const saved = localStorage.getItem('medical_dictionary_selections');
+            if (saved) {
+                try {
+                    const savedSelections = JSON.parse(saved);
+                    restoreSelections(savedSelections);
+                } catch(e) {
+                    console.error('Error parsing saved selections:', e);
+                }
+            }
+        });
+}
+
+function restoreSelections(savedSelections) {
+    const codeCheckboxes = document.querySelectorAll('.code-checkbox');
+    codeCheckboxes.forEach(checkbox => {
+        if (savedSelections.includes(checkbox.value)) {
+            checkbox.checked = true;
+        }
+    });
+    
+    // Update UI after restoring
+    const updateEvent = new Event('change');
+    if (codeCheckboxes.length > 0) {
+        codeCheckboxes[0].dispatchEvent(updateEvent);
+    }
+}
+</script>
+{% endblock %}
