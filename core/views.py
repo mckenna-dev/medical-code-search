@@ -176,70 +176,66 @@ def medical_dictionary(request):
     # Get search parameters
     search_terms_raw = request.GET.get('search_terms', '')
     exclusion_terms_raw = request.GET.get('exclusion_terms', '')
-    code = request.GET.get('code', '')
-    category = request.GET.get('category', '')
+    code_param = request.GET.get('code', '')
+    sort_by = request.GET.get('sort')
     
     # Parse comma-separated terms
     search_terms = parse_search_terms(search_terms_raw)
     exclusion_terms = parse_search_terms(exclusion_terms_raw)
     
-    # CHANGE 1: Use EmisCode instead of Code
+    # Use EmisCode model
     codes = EmisCode.objects.all()
     
     # Apply search filters
     if search_terms:
-        # Build query for searching terms across term field
         search_query = build_term_query(search_terms, 'term')
         codes = codes.filter(search_query)
     
-    if code:
-        # CHANGE 2: Also search clean_med_code_id for better matches
+    if code_param:
         codes = codes.filter(
-            Q(med_code_id__icontains=code) | 
-            Q(clean_med_code_id__icontains=code)
+            Q(med_code_id__icontains=code_param) | 
+            Q(clean_med_code_id__icontains=code_param)
         )
     
-    if category:
-        # CHANGE 3: Use emis_cat_description instead of emis_category
-        codes = codes.filter(emis_cat_description=category)
-    
-    # Apply exclusions - exclude codes that match any exclusion term
+    # Apply exclusions
     if exclusion_terms:
         exclusion_query = build_exclusion_query(exclusion_terms)
         codes = codes.exclude(exclusion_query)
-    
+        
+    # Handle sorting by Observations
+    if sort_by == 'observations':
+        codes = codes.order_by('observations')
+        current_sort = 'observations_asc'
+    else: # Default to descending observations
+        codes = codes.order_by('-observations')
+        current_sort = 'observations_desc'
+
     # Get total count before limiting
     total_count = codes.count()
     
-    # CHANGE 4: Get categories from EmisCode model with correct field name
-    categories = EmisCode.objects.values_list('emis_cat_description', flat=True).distinct().order_by('emis_cat_description')
-    
-    # Limit results for performance but store total
+    # Limit results for performance
     codes = codes[:500]
     
     # Store search parameters for template
     search_params = {
         'search_terms': search_terms_raw,
         'exclusion_terms': exclusion_terms_raw,
-        'code': code,
-        'category': category,
+        'code': code_param,
     }
     
     # Create user-friendly display of parsed terms
     parsed_terms_info = {
         'search_terms_parsed': search_terms,
         'exclusion_terms_parsed': exclusion_terms,
-        'search_terms_count': len(search_terms),
-        'exclusion_terms_count': len(exclusion_terms),
     }
     
     return render(request, 'core/medical_dictionary.html', {
         'codes': codes,
-        'categories': categories,
         'total_count': total_count,
         'showing_count': len(codes),
         'search_params': search_params,
         'parsed_terms_info': parsed_terms_info,
+        'current_sort': current_sort,
     })
 
 @require_POST
@@ -249,7 +245,6 @@ def export_medical_dictionary(request):
         # Get selected code IDs from request
         selected_codes = request.POST.getlist('selected_codes', [])
         export_format = request.POST.get('format', 'csv')
-        include_flags = request.POST.get('include_flags') == 'on'
         
         if not selected_codes:
             messages.error(request, 'No codes selected for export.')
@@ -264,38 +259,18 @@ def export_medical_dictionary(request):
             
             writer = csv.writer(response)
             
-            # Build header based on whether flags are included
-            header = ['med_code_id', 'term', 'snomed_ct_concept_id', 'emis_category', 'coding_system', 'observations']
-            
-            if include_flags:
-                header.extend([
-                    'is_screening', 'is_referral', 'is_familial', 
-                    'is_suspected', 'is_advice', 'is_negation'
-                ])
-            
+            # Use the new, corrected header
+            header = ['med_code_id', 'term', 'snomed_ct_concept_id', 'observations']
             writer.writerow(header)
             
-            # Write data
+            # Write data with the correct attributes
             for code in codes:
                 row = [
                     code.med_code_id,
                     code.term,
                     code.snomed_ct_concept_id or '',
-                    code.emis_category or '',
-                    code.coding_system or '',
-                    code.observations or '',
+                    code.observations or 0,
                 ]
-                
-                if include_flags:
-                    row.extend([
-                        'Yes' if code.is_screening else 'No',
-                        'Yes' if code.is_referral else 'No',
-                        'Yes' if code.is_familial else 'No',
-                        'Yes' if code.is_suspected else 'No',
-                        'Yes' if code.is_advice else 'No',
-                        'Yes' if code.is_negation else 'No',
-                    ])
-                
                 writer.writerow(row)
             
             return response
@@ -304,8 +279,17 @@ def export_medical_dictionary(request):
             response = HttpResponse(content_type='text/plain')
             response['Content-Disposition'] = 'attachment; filename="medical_dictionary_export.txt"'
             
+            # Write a header for the text file
+            response.write('med_code_id\tterm\tsnomed_ct_concept_id\tobservations\n')
+            
+            # Write data with the new columns, tab-separated
             for code in codes:
-                response.write(f"{code.med_code_id}\t{code.term}\n")
+                response.write(
+                    f"{code.med_code_id}\t"
+                    f"{code.term}\t"
+                    f"{code.snomed_ct_concept_id or ''}\t"
+                    f"{code.observations or 0}\n"
+                )
             
             return response
             
@@ -315,25 +299,13 @@ def export_medical_dictionary(request):
             
             codes_data = []
             for code in codes:
+                # Use the new, corrected fields for JSON
                 code_data = {
                     'med_code_id': code.med_code_id,
                     'term': code.term,
                     'snomed_ct_concept_id': code.snomed_ct_concept_id or '',
-                    'emis_category': code.emis_category or '',
-                    'coding_system': code.coding_system or '',
-                    'observations': code.observations,
+                    'observations': code.observations or 0,
                 }
-                
-                if include_flags:
-                    code_data['flags'] = {
-                        'is_screening': code.is_screening,
-                        'is_referral': code.is_referral,
-                        'is_familial': code.is_familial,
-                        'is_suspected': code.is_suspected,
-                        'is_advice': code.is_advice,
-                        'is_negation': code.is_negation,
-                    }
-                
                 codes_data.append(code_data)
             
             response.write(json.dumps(codes_data, indent=2))
