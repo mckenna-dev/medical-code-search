@@ -41,7 +41,7 @@
                     <dd class="col-sm-8">{{ codelist.year_created }}</dd>
                     
                     <dt class="col-sm-4">Total Codes:</dt>
-                    <dd class="col-sm-8">{{ codes.count }}</dd>
+                    <dd class="col-sm-8">{{ codes|length }}</dd>
                 </dl>
             </div>
         </div>
@@ -49,34 +49,33 @@
     
     <div class="col-md-6">
         <div class="card">
-                    <div class="card-header">
-                        <h5>Export Options</h5>
+            <div class="card-header">
+                <h5>Export Options</h5>
+            </div>
+            <div class="card-body">
+                <p>Select codes below and choose export format:</p>
+                <form method="post" action="{% url 'export_codelist' codelist.id %}" id="export-form">
+                    {% csrf_token %}
+                    <div class="mb-3">
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="format" id="format-csv" value="csv" >
+                            <label class="form-check-label" for="format-csv">
+                                <i class="bi bi-file-earmark-spreadsheet me-1"></i>CSV Format
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="format" id="format-txt" value="txt" checked>
+                            <label class="form-check-label" for="format-txt">
+                                <i class="bi bi-file-text me-1"></i>Text (Tab-Separated)
+                            </label>
+                        </div>
                     </div>
-                    <div class="card-body">
-                        <p>Select codes below and choose export format:</p>
-                        <form method="post" action="{% url 'export_codelist' codelist.id %}" id="export-form">
-                            {% csrf_token %}
-                            <div class="mb-3">
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="format" id="format-txt" value="txt" checked>
-                                    <label class="form-check-label" for="format-txt">
-                                        <i class="bi bi-file-text me-1"></i>Text Format (Code + Term) 
-                                        <small class="text-muted">- Default</small>
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="format" id="format-csv" value="csv">
-                                    <label class="form-check-label" for="format-csv">
-                                        <i class="bi bi-file-earmark-spreadsheet me-1"></i>CSV Format (Full Details)
-                                    </label>
-                                </div>
-                            </div>
-                            <button type="submit" class="btn btn-success" id="export-btn" disabled>
-                                <i class="bi bi-download me-1"></i>Export Selected Codes
-                            </button>
-                        </form>
-                    </div>
-                </div>
+                    <button type="submit" class="btn btn-success" id="export-btn" disabled>
+                        <i class="bi bi-download me-1"></i>Export Selected Codes
+                    </button>
+                </form>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -94,14 +93,13 @@
             <table class="table table-striped table-hover">
                 <thead>
                     <tr>
-                        <th>
+                        <th style="width: 50px;">
                             <input type="checkbox" id="select-all-checkbox" class="form-check-input">
                         </th>
                         <th>Code ID</th>
                         <th>Term</th>
                         <th>SNOMED CT</th>
-                        <th>Category</th>
-                        <th>System</th>
+                        <th>Observations</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -112,9 +110,8 @@
                         </td>
                         <td>{{ code.med_code_id }}</td>
                         <td>{{ code.term }}</td>
-                        <td>{{ code.snomed_ct_concept_id|default:"-" }}</td>
-                        <td>{{ code.emis_category|default:"-" }}</td>
-                        <td>{{ code.coding_system|default:"-" }}</td>
+                        <td>{{ code.enriched_snomed }}</td>
+                        <td>{{ code.enriched_observations }}</td>
                     </tr>
                     {% endfor %}
                 </tbody>
@@ -139,15 +136,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const exportForm = document.getElementById('export-form');
     const codeCheckboxes = document.querySelectorAll('.code-checkbox');
     
-    // Select/deselect all functionality
     function updateSelectAllState() {
         const checkedCount = document.querySelectorAll('.code-checkbox:checked').length;
         const totalCount = codeCheckboxes.length;
         
-        selectAllCheckbox.checked = checkedCount === totalCount;
+        selectAllCheckbox.checked = checkedCount === totalCount && totalCount > 0;
         selectAllCheckbox.indeterminate = checkedCount > 0 && checkedCount < totalCount;
         
-        // Enable/disable export button
         exportBtn.disabled = checkedCount === 0;
     }
     
@@ -176,7 +171,6 @@ document.addEventListener('DOMContentLoaded', function() {
         checkbox.addEventListener('change', updateSelectAllState);
     });
     
-    // Handle export form submission
     exportForm.addEventListener('submit', function(e) {
         const checkedCodes = document.querySelectorAll('.code-checkbox:checked');
         
@@ -185,6 +179,9 @@ document.addEventListener('DOMContentLoaded', function() {
             alert('Please select at least one code to export.');
             return;
         }
+        
+        // Clear previous hidden inputs
+        this.querySelectorAll('input[name="included_codes"]').forEach(el => el.remove());
         
         // Add selected codes to form
         checkedCodes.forEach(checkbox => {

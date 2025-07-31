@@ -23,11 +23,7 @@ def home(request):
 
 def codelist_search(request):
     """Codelist search view."""
-    print("DEBUG: codelist_search view called")  # Add this debug line
-    
     sources = CodeSource.objects.all()
-    print(f"DEBUG: Found {sources.count()} sources")  # Add this debug line
-    
     default_source = CodeSource.objects.filter(is_default=True).first()
     
     # Get search parameters
@@ -39,7 +35,6 @@ def codelist_search(request):
     
     # Base query
     codelists = CodeList.objects.all()
-    print(f"DEBUG: Found {codelists.count()} codelists")  # Add this debug line
     
     # Apply filters
     if source_ids:
@@ -53,8 +48,6 @@ def codelist_search(request):
     # Annotate with code count
     codelists = codelists.annotate(total_codes=Count('codelistcode'))
     
-    print(f"DEBUG: Rendering template with {codelists.count()} codelists")  # Add this debug line
-    
     return render(request, 'core/codelist_search.html', {
         'sources': sources,
         'codelists': codelists,
@@ -63,79 +56,127 @@ def codelist_search(request):
     })
 
 def codelist_detail(request, codelist_id):
-    """Codelist detail view."""
-    print(f"DEBUG: codelist_detail view called with ID: {codelist_id}")
-    
-    try:
-        codelist = get_object_or_404(CodeList, id=codelist_id) 
-        print(f"DEBUG: Found codelist: {codelist.codelist_name}")
+    """Codelist detail view with data enrichment."""
+    codelist = get_object_or_404(CodeList, id=codelist_id)
+    codes = Code.objects.filter(codelists=codelist).order_by('term')
+
+    # --- Data Enrichment Logic ---
+    # 1. Get all med_code_ids and clean them (remove leading 'a')
+    raw_med_code_ids = [c.med_code_id for c in codes]
+    cleaned_med_code_ids = {
+        item[1:] if item.startswith('a') and len(item) > 1 else item
+        for item in raw_med_code_ids
+    }
+
+    # 2. Fetch all relevant EmisCode data in one query
+    emis_codes_data = EmisCode.objects.filter(med_code_id__in=cleaned_med_code_ids).values(
+        'med_code_id', 'snomed_ct_concept_id', 'observations'
+    )
+
+    # 3. Create a lookup dictionary for fast access
+    emis_lookup = {
+        item['med_code_id']: {
+            'snomed': item['snomed_ct_concept_id'],
+            'observations': item['observations']
+        } for item in emis_codes_data
+    }
+
+    # 4. Enrich the original codes list
+    enriched_codes = []
+    for code in codes:
+        # Clean the ID for lookup
+        cleaned_id = code.med_code_id[1:] if code.med_code_id.startswith('a') else code.med_code_id
         
-        codes = Code.objects.filter(codelists=codelist).order_by('term')
-        print(f"DEBUG: Found {codes.count()} codes for this codelist")
-        
-    except Exception as e:
-        print(f"DEBUG: Error in codelist_detail: {e}")
-        raise
-    
+        # Get enriched data from the lookup, with defaults
+        dictionary_data = emis_lookup.get(cleaned_id, {})
+        code.enriched_snomed = dictionary_data.get('snomed', '-')
+        code.enriched_observations = dictionary_data.get('observations', 0)
+        enriched_codes.append(code)
+
+    # Sort the final list by observations, descending
+    enriched_codes.sort(key=lambda x: x.enriched_observations, reverse=True)
+
     return render(request, 'core/codelist_detail.html', {
         'codelist': codelist,
-        'codes': codes,
+        'codes': enriched_codes, # Pass the enriched list to the template
     })
 
+@require_POST
 def export_codelist(request, codelist_id):
-    """Export codelist view."""
+    """Export codelist view with enriched data."""
     codelist = get_object_or_404(CodeList, id=codelist_id)
     
-    if request.method == 'POST':
-        # Get included code IDs
-        included_code_ids = request.POST.getlist('included_codes', [])
-        
-        # Get codes to export
-        codes = Code.objects.filter(med_code_id__in=included_code_ids)
-        
-        # Get export format
-        format_type = request.POST.get('format', 'csv')
-        
-        if format_type == 'csv':
-            # Create CSV response
-            response = HttpResponse(content_type='text/csv')
-            response['Content-Disposition'] = f'attachment; filename="{codelist.codelist_name}.csv"'
-            
-            writer = csv.writer(response)
-            writer.writerow(['med_code_id', 'term', 'snomed_ct_concept_id', 'emis_category', 'coding_system'])
-            
-            for code in codes:
-                writer.writerow([
-                    code.med_code_id,
-                    code.term,
-                    code.snomed_ct_concept_id,
-                    code.emis_category,
-                    code.coding_system
-                ])
-            
-            return response
-        else:
-            # Create TXT response
-            response = HttpResponse(content_type='text/plain')
-            response['Content-Disposition'] = f'attachment; filename="{codelist.codelist_name}.txt"'
-            
-            for code in codes:
-                response.write(f"{code.med_code_id}\t{code.term}\n")
-            
-            return response
+    included_code_ids = request.POST.getlist('included_codes', [])
+    codes_to_export = Code.objects.filter(med_code_id__in=included_code_ids).order_by('term')
     
-    return redirect('codelist_detail', codelist_id=codelist_id)
+    # --- Apply the same enrichment logic as the detail view ---
+    raw_med_code_ids = [c.med_code_id for c in codes_to_export]
+    cleaned_med_code_ids = {
+        item[1:] if item.startswith('a') and len(item) > 1 else item
+        for item in raw_med_code_ids
+    }
+    emis_codes_data = EmisCode.objects.filter(med_code_id__in=cleaned_med_code_ids).values(
+        'med_code_id', 'snomed_ct_concept_id', 'observations'
+    )
+    emis_lookup = {
+        item['med_code_id']: {
+            'snomed': item['snomed_ct_concept_id'],
+            'observations': item['observations']
+        } for item in emis_codes_data
+    }
+    enriched_codes = []
+    for code in codes_to_export:
+        cleaned_id = code.med_code_id[1:] if code.med_code_id.startswith('a') else code.med_code_id
+        dictionary_data = emis_lookup.get(cleaned_id, {})
+        code.enriched_snomed = dictionary_data.get('snomed', '')
+        code.enriched_observations = dictionary_data.get('observations', 0)
+        enriched_codes.append(code)
+
+    format_type = request.POST.get('format', 'csv')
+    
+    if format_type == 'csv':
+        response = HttpResponse(content_type='text/csv')
+        response['Content-Disposition'] = f'attachment; filename="{codelist.codelist_name}.csv"'
+        
+        writer = csv.writer(response)
+        # Updated header
+        writer.writerow(['med_code_id', 'term', 'snomed_ct_concept_id', 'observations'])
+        
+        for code in enriched_codes:
+            writer.writerow([
+                code.med_code_id,
+                code.term,
+                code.enriched_snomed,
+                code.enriched_observations
+            ])
+        
+        return response
+    else: # TXT format
+        response = HttpResponse(content_type='text/plain')
+        response['Content-Disposition'] = f'attachment; filename="{codelist.codelist_name}.txt"'
+        
+        # Updated header for TXT file
+        response.write('med_code_id\tterm\tsnomed_ct_concept_id\tobservations\n')
+        
+        for code in enriched_codes:
+            response.write(
+                f"{code.med_code_id}\t"
+                f"{code.term}\t"
+                f"{code.enriched_snomed}\t"
+                f"{code.enriched_observations}\n"
+            )
+        
+        return response
 
 def parse_search_terms(term_string):
     """Parse comma-separated search terms, handling multi-word phrases."""
     if not term_string:
         return []
     
-    # Split by comma and clean up each term
     terms = []
     for term in term_string.split(','):
         cleaned_term = term.strip()
-        if cleaned_term:  # Only add non-empty terms
+        if cleaned_term:
             terms.append(cleaned_term)
     
     return terms
@@ -156,37 +197,31 @@ def build_exclusion_query(terms):
     if not terms:
         return Q()
     
-    # Search across multiple fields for exclusion - UPDATED for EmisCode model
     query = Q()
     for term in terms:
         query |= (
             Q(term__icontains=term) |
             Q(med_code_id__icontains=term) |
             Q(clean_med_code_id__icontains=term) |
-            Q(emis_cat_description__icontains=term) |  # Changed from emis_category
+            Q(emis_cat_description__icontains=term) |
             Q(snomed_ct_concept_id__icontains=term) |
-            Q(clean_snomed_ct_concept_id__icontains=term)  # Added clean version
+            Q(clean_snomed_ct_concept_id__icontains=term)
         )
     
     return query
 
 def medical_dictionary(request):
     """Enhanced medical dictionary search view with multi-term search and exclusions."""
-    
-    # Get search parameters
     search_terms_raw = request.GET.get('search_terms', '')
     exclusion_terms_raw = request.GET.get('exclusion_terms', '')
     code_param = request.GET.get('code', '')
     sort_by = request.GET.get('sort')
     
-    # Parse comma-separated terms
     search_terms = parse_search_terms(search_terms_raw)
     exclusion_terms = parse_search_terms(exclusion_terms_raw)
     
-    # Use EmisCode model
     codes = EmisCode.objects.all()
     
-    # Apply search filters
     if search_terms:
         search_query = build_term_query(search_terms, 'term')
         codes = codes.filter(search_query)
@@ -197,33 +232,26 @@ def medical_dictionary(request):
             Q(clean_med_code_id__icontains=code_param)
         )
     
-    # Apply exclusions
     if exclusion_terms:
         exclusion_query = build_exclusion_query(exclusion_terms)
         codes = codes.exclude(exclusion_query)
         
-    # Handle sorting by Observations
     if sort_by == 'observations':
         codes = codes.order_by('observations')
         current_sort = 'observations_asc'
-    else: # Default to descending observations
+    else:
         codes = codes.order_by('-observations')
         current_sort = 'observations_desc'
 
-    # Get total count before limiting
     total_count = codes.count()
-    
-    # Limit results for performance
     codes = codes[:500]
     
-    # Store search parameters for template
     search_params = {
         'search_terms': search_terms_raw,
         'exclusion_terms': exclusion_terms_raw,
         'code': code_param,
     }
     
-    # Create user-friendly display of parsed terms
     parsed_terms_info = {
         'search_terms_parsed': search_terms,
         'exclusion_terms_parsed': exclusion_terms,
@@ -242,7 +270,6 @@ def medical_dictionary(request):
 def export_medical_dictionary(request):
     """Export selected codes from medical dictionary search."""
     try:
-        # Get selected code IDs from request
         selected_codes = request.POST.getlist('selected_codes', [])
         export_format = request.POST.get('format', 'csv')
         
@@ -250,7 +277,6 @@ def export_medical_dictionary(request):
             messages.error(request, 'No codes selected for export.')
             return redirect('medical_dictionary')
         
-        # Get the actual code objects
         codes = EmisCode.objects.filter(med_code_id__in=selected_codes).order_by('term')
         
         if export_format == 'csv':
@@ -258,12 +284,9 @@ def export_medical_dictionary(request):
             response['Content-Disposition'] = 'attachment; filename="medical_dictionary_export.csv"'
             
             writer = csv.writer(response)
-            
-            # Use the new, corrected header
             header = ['med_code_id', 'term', 'snomed_ct_concept_id', 'observations']
             writer.writerow(header)
             
-            # Write data with the correct attributes
             for code in codes:
                 row = [
                     code.med_code_id,
@@ -279,10 +302,8 @@ def export_medical_dictionary(request):
             response = HttpResponse(content_type='text/plain')
             response['Content-Disposition'] = 'attachment; filename="medical_dictionary_export.txt"'
             
-            # Write a header for the text file
             response.write('med_code_id\tterm\tsnomed_ct_concept_id\tobservations\n')
             
-            # Write data with the new columns, tab-separated
             for code in codes:
                 response.write(
                     f"{code.med_code_id}\t"
@@ -293,13 +314,12 @@ def export_medical_dictionary(request):
             
             return response
             
-        else:  # JSON format
+        else:
             response = HttpResponse(content_type='application/json')
             response['Content-Disposition'] = 'attachment; filename="medical_dictionary_export.json"'
             
             codes_data = []
             for code in codes:
-                # Use the new, corrected fields for JSON
                 code_data = {
                     'med_code_id': code.med_code_id,
                     'term': code.term,
@@ -315,6 +335,8 @@ def export_medical_dictionary(request):
         messages.error(request, f'Export failed: {str(e)}')
         return redirect('medical_dictionary')
 
+# --- AJAX Handlers ---
+
 def save_medical_dictionary_selection(request):
     """AJAX endpoint to save selected codes to session."""
     if request.method == 'POST':
@@ -324,7 +346,6 @@ def save_medical_dictionary_selection(request):
             return JsonResponse({'status': 'success', 'count': len(selected_codes)})
         except Exception as e:
             return JsonResponse({'status': 'error', 'message': str(e)})
-    
     return JsonResponse({'status': 'error', 'message': 'Invalid request method'})
 
 def get_medical_dictionary_selection(request):
@@ -338,20 +359,17 @@ def add_search_term(request):
     try:
         data = json.loads(request.body)
         term_to_add = data.get('term', '').strip()
-        field_type = data.get('field_type', 'search')  # 'search' or 'exclusion'
+        field_type = data.get('field_type', 'search')
         current_terms = data.get('current_terms', '')
         
         if not term_to_add:
             return JsonResponse({'status': 'error', 'message': 'No term provided'})
         
-        # Parse current terms
         current_list = parse_search_terms(current_terms)
         
-        # Add new term if not already present
         if term_to_add not in current_list:
             current_list.append(term_to_add)
         
-        # Join back into string
         new_terms_string = ', '.join(current_list)
         
         return JsonResponse({
@@ -371,19 +389,16 @@ def remove_search_term(request):
         term_to_remove = data.get('term', '').strip()
         current_terms = data.get('current_terms', '')
         
-        # Parse current terms
         current_list = parse_search_terms(current_terms)
         
-        # Remove term if present
         if term_to_remove in current_list:
             current_list.remove(term_to_remove)
         
-        # Join back into string
         new_terms_string = ', '.join(current_list)
         
         return JsonResponse({
             'status': 'success', 
-            'new_terms': new_terms_string,
+            'new__terms': new_terms_string,
             'parsed_terms': current_list
         })
         
