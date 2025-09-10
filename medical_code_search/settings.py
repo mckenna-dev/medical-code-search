@@ -33,8 +33,14 @@ SECRET_KEY = "django-insecure-e!n+g3z7g=fvpy^+2a@%%)a8&zzb4-#z@d_&o(bp8-s^t7kkna
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.herokuapp.com']
+# Existing ALLOWED_HOSTS
+# ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.herokuapp.com']
 
+# Update to handle Railway hosts
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+RAILWAY_PUBLIC_DOMAIN = os.environ.get('RAILWAY_PUBLIC_DOMAIN')
+if RAILWAY_PUBLIC_DOMAIN:
+    ALLOWED_HOSTS.append(RAILWAY_PUBLIC_DOMAIN)
 
 # Application definition
 
