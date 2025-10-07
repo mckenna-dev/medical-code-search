@@ -289,7 +289,7 @@ class Command(BaseCommand):
         
         try:
             # Try to read the file with different encodings
-            encodings = ['utf-8', 'latin-1', 'cp1252']
+            encodings = ['utf-8-sig', 'latin-1', 'cp1252']
             df = None
             
             for encoding in encodings:
