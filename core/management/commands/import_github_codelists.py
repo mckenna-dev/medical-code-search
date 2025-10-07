@@ -62,7 +62,7 @@ class Command(BaseCommand):
         
         # Read metadata CSV
         try:
-            df = pd.read_csv(metadata_csv)
+            df = pd.read_csv(metadata_csv, encoding='utf-8-sig')
             self.stdout.write(f'Found {len(df)} entries in metadata file')
         except Exception as e:
             self.stdout.write(self.style.ERROR(f'Error reading metadata CSV: {str(e)}'))
