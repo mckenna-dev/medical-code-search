@@ -77,8 +77,12 @@ class Command(BaseCommand):
                 try:
                     # Parse boolean values
                     def parse_bool(value):
-                        return str(value).upper() == 'TRUE'
-                    
+                        """
+                        Converts input value to a PostgreSQL-safe string ('t' or 'f') 
+                        to bypass the 'bit varying' bulk_create type error.
+                        """
+                        return 't' if str(value).upper() == 'TRUE' else 'f'
+                   
                     # Parse integer values
                     def parse_int(value):
                         try:
