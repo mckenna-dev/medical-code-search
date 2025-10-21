@@ -14,8 +14,8 @@ from pathlib import Path
 import dj_database_url
 from decouple import config
 
-
 # Load environment variables from .env file
+# GITHUB_TOKEN is read and re-exported to os.environ for other services/scripts
 GITHUB_TOKEN = config('GITHUB_TOKEN', default='')
 if GITHUB_TOKEN:
     os.environ['GITHUB_TOKEN'] = GITHUB_TOKEN
@@ -23,25 +23,21 @@ if GITHUB_TOKEN:
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+# --- CORE SECURITY AND HOSTING CONFIGURATION ---
+# 1. SECRET_KEY: Use decouple to read the SECRET_KEY from environment (Railway or local .env)
+# The default is still provided for safety, but production should override it.
+SECRET_KEY = config("SECRET_KEY", default="django-insecure-e!n+g3z7g=fvpy^+2a@%%)a8&zzb4-#z@d_&o(bp8-s^t7kkna")
 
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
+# 2. DEBUG: True locally, False when the public domain is set on Railway
+RAILWAY_PUBLIC_DOMAIN = os.environ.get('RAILWAY_PUBLIC_DOMAIN')
+DEBUG = RAILWAY_PUBLIC_DOMAIN is None  # True if not deployed, False if deployed
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "django-insecure-e!n+g3z7g=fvpy^+2a@%%)a8&zzb4-#z@d_&o(bp8-s^t7kkna"
-
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-
-# Start with a list of default hosts
+# 3. ALLOWED_HOSTS: Dynamic setting to fix DisallowedHost error
 ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+if RAILWAY_PUBLIC_DOMAIN:
+    ALLOWED_HOSTS.append(RAILWAY_PUBLIC_DOMAIN)
 
-# Check for the Railway public domain and add it if it exists
-if os.environ.get('RAILWAY_PUBLIC_DOMAIN'):
-    ALLOWED_HOSTS.append(os.environ.get('RAILWAY_PUBLIC_DOMAIN'))
-
-# Application definition
-
+# --- APPLICATION DEFINITION (Unchanged) ---
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -49,14 +45,14 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'core',  # Add our app
-    'crispy_forms',  # For better forms
-    'whitenoise.runserver_nostatic',  # For static files in production
+    'core',
+    'crispy_forms',
+    'whitenoise.runserver_nostatic',
 ]
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
-    "whitenoise.middleware.WhiteNoiseMiddleware",  # Move WhiteNoise to second position
+    "whitenoise.middleware.WhiteNoiseMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
@@ -70,7 +66,7 @@ ROOT_URLCONF = "medical_code_search.urls"
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],  # Make sure this line points to your templates directory
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -86,56 +82,34 @@ TEMPLATES = [
 WSGI_APPLICATION = "medical_code_search.wsgi.application"
 
 
-# Database
-# https://docs.djangoproject.com/en/5.2/ref/settings/#databases
-
-# Default to SQLite for local development
+# --- DATABASE CONFIGURATION ---
+# Replaced the old SQLite/Manual-Check block with one robust call.
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
+    'default': dj_database_url.config(
+        # Looks for DATABASE_URL in environment (Railway service variable or local .env file).
+        # Falls back to local SQLite if no DATABASE_URL is found (cleanest local dev default).
+        default=config('DATABASE_URL', default='sqlite:///db.sqlite3'), 
+        conn_max_age=600  # Persistent connection for performance
+    )
 }
 
-# Override with PostgreSQL if DATABASE_URL is set (production/Heroku)
-if 'DATABASE_URL' in os.environ:
-    DATABASES['default'] = dj_database_url.config(conn_max_age=600)
 
-
-# Password validation
-# https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators
-
+# --- REST OF CONFIGURATION (Unchanged) ---
 AUTH_PASSWORD_VALIDATORS = [
-    {
-        "NAME": "django.contrib.auth.password_validation.UserAttributeSimilarityValidator",
-    },
-    {"NAME": "django.contrib.auth.password_validation.MinimumLengthValidator",},
-    {"NAME": "django.contrib.auth.password_validation.CommonPasswordValidator",},
-    {"NAME": "django.contrib.auth.password_validation.NumericPasswordValidator",},
+    {"NAME": "django.contrib.auth.password_validation.UserAttributeSimilarityValidator"},
+    {"NAME": "django.contrib.auth.password_validation.MinimumLengthValidator"},
+    {"NAME": "django.contrib.auth.password_validation.CommonPasswordValidator"},
+    {"NAME": "django.contrib.auth.password_validation.NumericPasswordValidator"},
 ]
 
-
-# Internationalization
-# https://docs.djangoproject.com/en/5.2/topics/i18n/
-
 LANGUAGE_CODE = "en-us"
-
 TIME_ZONE = "UTC"
-
 USE_I18N = True
-
 USE_TZ = True
-
-
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/5.2/howto/static-files/
 
 STATIC_URL = 'static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
-
-# Default primary key field type
-# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
